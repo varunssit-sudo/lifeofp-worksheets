@@ -162,7 +162,7 @@
       <span class="chip">${esc(t.subject)}</span>
       <div><h2>${esc(t.name)}</h2><p>${esc(t.blurb)}</p></div>
       <div class="progress"><div class="progress-row"><span><b>${n}</b> of ${t.target} worksheets</span></div><div class="bar"><i style="width:${pct}%"></i></div></div>
-      <div class="actions"><a class="btn btn-main" href="#${esc(t.id)}">Open worksheets</a>${videoBtn(t)}</div>
+      <div class="actions"><a class="btn btn-main" href="#${esc(t.id)}" aria-label="Open ${esc(t.name)} worksheets">Worksheets</a>${videoBtn(t)}</div>
     </article>`;
   }
 
