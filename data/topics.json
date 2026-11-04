@@ -1,0 +1,12 @@
+[
+  { "id": "past-tense", "subject": "English", "name": "Past Tense", "blurb": "Regular and irregular verbs, yesterday stories", "about": "Things that already happened. Regular verbs (play → played, carry → carried, stop → stopped) and the irregular ones to learn by heart (go → went, eat → ate).", "videoUrl": null, "target": 15 },
+  { "id": "present-tense", "subject": "English", "name": "Present Tense", "blurb": "Every-day actions, adding s / es / ies", "about": "Things that happen every day or are happening now.", "videoUrl": null, "target": 15 },
+  { "id": "naming-words", "subject": "English", "name": "Naming Words", "blurb": "Person, place, animal, thing; plurals", "about": "Nouns name a person, place, animal or thing.", "videoUrl": null, "target": 15 },
+  { "id": "opposites", "subject": "English", "name": "Opposites", "blurb": "Pairs, matching, sentence fill-ins", "about": "Words that mean the opposite of each other.", "videoUrl": null, "target": 15 },
+  { "id": "multiplication-2-5", "subject": "Maths", "name": "Multiplication Tables 2–5", "blurb": "Facts, repeated addition, missing numbers", "about": "Tables of 2, 3, 4 and 5 as equal groups and repeated addition.", "videoUrl": null, "target": 15 },
+  { "id": "addition-regrouping", "subject": "Maths", "name": "Addition with Regrouping", "blurb": "2- and 3-digit sums, word problems", "about": "Adding when a column makes 10 or more and we carry over.", "videoUrl": null, "target": 15 },
+  { "id": "subtraction-borrowing", "subject": "Maths", "name": "Subtraction with Borrowing", "blurb": "Column subtraction, check by adding", "about": "Subtracting when the top digit is smaller, so we borrow from the next column.", "videoUrl": null, "target": 15 },
+  { "id": "place-value-999", "subject": "Maths", "name": "Place Value up to 999", "blurb": "Hundreds, tens, ones, expanded form", "about": "What each digit is worth in a 3-digit number.", "videoUrl": null, "target": 15 },
+  { "id": "parts-of-a-plant", "subject": "Science", "name": "Parts of a Plant", "blurb": "Root to seed, parts we eat", "about": "Roots, stem, leaves, flowers, fruits and seeds, and what each one does.", "videoUrl": null, "target": 15 },
+  { "id": "animal-homes", "subject": "Science", "name": "Animals and Their Homes", "blurb": "Nests, dens, hives; pet, farm, wild", "about": "Where animals live and why their homes suit them.", "videoUrl": null, "target": 15 }
+]
