@@ -57,7 +57,7 @@ def sync():
         vid, title, *rest = [p.strip() for p in line.split('|')]
         if vid in have:
             continue
-        m = re.match(r'(.+?) for Kids\s+–\s+(?:Grade 2 )?(Maths|English|Science)', title)
+        m = re.match(r'(.+?) for Kids\s+–\s+(?:Grade 2 )?(Maths|English|Science|Arabic|French)', title)
         if not m:
             print('skip (cannot read subject):', line)
             continue
@@ -76,7 +76,7 @@ def sync():
                        'about': '', 'videoId': vid,
                        'videoUrl': f'https://www.youtube.com/watch?v={vid}', 'target': 15})
         added += 1
-    topics.sort(key=lambda t: (['Maths', 'English', 'Science'].index(t['subject']), t['name']))
+    topics.sort(key=lambda t: (['Maths', 'English', 'Science', 'Arabic', 'French'].index(t['subject']), t['name']))
     TOPICS.write_text(json.dumps(topics, indent=2, ensure_ascii=False) + '\n')
     print(f'{added} topic(s) added, {len(topics)} total')
 

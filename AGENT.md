@@ -58,6 +58,12 @@ This is the job the nightly worksheet agent runs on this repository. It keeps th
   - Read each English and Science answer back against the question.
   - Children can also do every sheet online, and the site marks it from these answers. So a `fill`, `pairs` or `column` answer should be the short thing a child would type. Separate other accepted answers with ` / ` (for example `close / shut`), and start an open answer with `e.g.` so it is shown as "check with a grown-up" instead of marked wrong.
 - **Money** is in Indian Rupees (₹), matching the channel's Money video.
+- **Arabic and French.** The subjects `Arabic` and `French` exist on the site, but they have no topics yet. Add topics only from the textbook and notebook photos Varun or a parent sends, through a request or in a chat.
+  - Give each new topic `"subject": "Arabic"` or `"subject": "French"`, and leave `videoId` empty until its video exists.
+  - Write the sheets in that language, with the instructions in that language too.
+  - Arabic sheets are shown right to left automatically.
+  - Online marking ignores French accents and Arabic harakat and tatweel, and treats the alef forms as one. Answers should still be written correctly, with full harakat where the book uses them.
+  - Ask for a native speaker to check the first sheets.
 - **Look.** Graphics stay subtle and text-based; the site handles the styling. Never use emoji in worksheet text.
 
 ## Section types

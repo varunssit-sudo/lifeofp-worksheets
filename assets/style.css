@@ -5,6 +5,9 @@
   --maths: #2F5BE7; --maths-bg: #E3EAFF; --maths-sh: #1D3BA8; --maths-top: #6E93FF;
   --english: #C2410C; --english-bg: #FFEADB; --english-sh: #7A2A08; --english-top: #FF8A4C;
   --science: #15803D; --science-bg: #DDF5E6; --science-sh: #0E5A2B; --science-top: #3CCB7F;
+  --arabic: #0F766E; --arabic-bg: #D9F3EF; --arabic-sh: #0A4F4A; --arabic-top: #2DBFAE;
+  --french: #6D28D9; --french-bg: #EDE4FF; --french-sh: #4A1A96; --french-top: #A07BF0;
+  --arabic-font: 'Noto Naskh Arabic', 'Andika', system-ui, sans-serif;
   --display: 'Baloo 2', system-ui, sans-serif; --body: 'Nunito', system-ui, sans-serif; --sheet: 'Andika', 'Nunito', system-ui, sans-serif;
   color-scheme: light;
 }
@@ -46,6 +49,15 @@ h1, h2, h3 { text-wrap: balance; }
 .s-Maths { --c: var(--maths); --c-bg: var(--maths-bg); --c-sh: var(--maths-sh); --c-top: var(--maths-top); }
 .s-English { --c: var(--english); --c-bg: var(--english-bg); --c-sh: var(--english-sh); --c-top: var(--english-top); }
 .s-Science { --c: var(--science); --c-bg: var(--science-bg); --c-sh: var(--science-sh); --c-top: var(--science-top); }
+.s-Arabic { --c: var(--arabic); --c-bg: var(--arabic-bg); --c-sh: var(--arabic-sh); --c-top: var(--arabic-top); }
+.s-French { --c: var(--french); --c-bg: var(--french-bg); --c-sh: var(--french-sh); --c-top: var(--french-top); }
+[lang="ar"] { font-family: var(--arabic-font); }
+[lang="ar"] .ol-sec, .page[lang="ar"] { font-family: var(--arabic-font); }
+.page[dir="rtl"] .ws-list, .page[dir="rtl"] .ol-list { text-align: right; }
+.soon { grid-column: 1 / -1; background: var(--c-bg); border: 2px dashed var(--c); border-radius: 16px; padding: 22px 24px; display: flex; flex-direction: column; align-items: flex-start; gap: 10px; }
+.soon .chip { background: #fff; }
+.soon h2 { margin: 0; font-family: var(--display); font-size: 28px; line-height: 1.15; color: var(--c); }
+.soon p { margin: 0; max-width: 640px; }
 .s-All { --c: var(--ink); --c-bg: #ECE7FA; --c-sh: #15102E; --c-top: var(--ink); }
 .btn-main, .btn-print { background: var(--c, var(--english)); color: #fff; box-shadow: 0 4px 0 var(--c-sh, var(--english-sh)); }
 .btn-soft { background: var(--c-bg); color: var(--c); border-color: var(--c); }

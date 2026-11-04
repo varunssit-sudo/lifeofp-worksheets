@@ -6,7 +6,10 @@
   'use strict';
   const CHANNEL = 'https://www.youtube.com/@lifeofp5750';
   const SUBSCRIBE = CHANNEL + '?sub_confirmation=1';
-  const SUBJECTS = ['All', 'Maths', 'English', 'Science'];
+  const LEARN = ['Maths', 'English', 'Science', 'Arabic', 'French'];
+  const SUBJECTS = ['All', ...LEARN];
+  const RTL = new Set(['Arabic']); // sheets in these subjects read right to left
+  const langAttr = (subject) => (subject === 'Arabic' ? ' lang="ar" dir="rtl"' : subject === 'French' ? ' lang="fr"' : '');
   const LEVELS = ['All', 'Starter', 'Practice', 'Challenge'];
   const BADGE = ['#2F5BE7', '#C2410C', '#15803D', '#C8336B', '#6D4AD9', '#0E7490'];
   const PRINT_ICON = '<svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M6 9V3h12v6"/><rect x="3" y="9" width="18" height="8" rx="2"/><path d="M6 14h12v7H6z"/></svg>';
@@ -79,7 +82,7 @@
   function renderSheet(ws) {
     const t = topicById(ws.topic) || { subject: '', name: '' };
     const total = ws.sections.reduce((n, s) => n + (s.marks || 0), 0);
-    return `<article class="page">
+    return `<article class="page"${langAttr(t.subject)}>
       <header class="ws-head">
         <div>
           <div class="ws-tag">${esc(t.subject)} · ${esc(t.name)} · Sheet ${ws.number} of ${t.target || 15} · ${esc(ws.level)}</div>
@@ -205,7 +208,9 @@
       <nav class="tabs" aria-label="Subjects">${SUBJECTS.map((s) => `<button type="button" class="tab s-${s}" data-subject="${s}" aria-pressed="${state.subject === s}">${s} <span class="n">${counts[s] || 0}</span></button>`).join('')}</nav>
       ${sheetHits.length ? `<section class="hits"><h2>Worksheets matching “${esc(state.q)}”</h2><div class="sheets">${sheetHits.map(sheetCard).join('')}</div></section>` : ''}
       <div class="layout">
-        <section class="grid" aria-label="Topics">${topics.map(topicCard).join('') || `<p class="empty">No topic matches “${esc(state.q)}”. Try a shorter word, like “tense” or “table”.</p>`}</section>
+        <section class="grid" aria-label="Topics">${topics.map(topicCard).join('') || (!state.q && state.subject !== 'All' && !counts[state.subject]
+          ? `<div class="soon s-${state.subject}"><span class="chip">${esc(state.subject)}</span><h2>${esc(state.subject)} worksheets are coming soon</h2><p>We are getting the first ${esc(state.subject)} topics ready for Standard 2. Tell us what your child is learning, and add a photo of the textbook or notebook page if you can, so the first sheets match the class.</p><a class="btn btn-main" href="#request?subject=${esc(state.subject)}">Ask for ${esc(state.subject)} worksheets</a></div>`
+          : `<p class="empty">No topic matches “${esc(state.q)}”. Try a shorter word, like “tense” or “table”.</p>`)}</section>
       </div>`;
     app.querySelectorAll('[data-subject]').forEach((b) => b.addEventListener('click', () => {
       const h = b.dataset.subject === 'All' ? '' : b.dataset.subject.toLowerCase();
@@ -285,6 +290,7 @@
   function renderRequest() {
     document.title = 'Request a worksheet or video · Life of P Worksheets';
     const pre = decodeURIComponent((location.hash.split('?topic=')[1] || ''));
+    const preS = decodeURIComponent((location.hash.split('?subject=')[1] || ''));
     const preT = topicById(pre);
     let mine = [];
     try { mine = JSON.parse(store.get('lop-requests') || '[]'); } catch (e) { mine = []; }
@@ -302,7 +308,7 @@
             <label>Email <small>(optional, so we can tell you when it is ready)</small> <input name="email" type="email" maxlength="100" autocomplete="email" placeholder="you@example.com"></label>
           </div>
           <div class="rq-row">
-            <label>Subject <select name="subject"><option>Not sure</option>${['Maths', 'English', 'Science'].map((x) => `<option ${preT && preT.subject === x ? 'selected' : ''}>${x}</option>`).join('')}</select></label>
+            <label>Subject <select name="subject"><option>Not sure</option>${LEARN.map((x) => `<option ${(preT && preT.subject === x) || preS === x ? 'selected' : ''}>${x}</option>`).join('')}</select></label>
             <label>Topic <input name="topic" required maxlength="100" list="rq-topics" placeholder="For example: Fractions, or Telling time to the quarter hour" value="${preT ? esc(preT.name) : ''}">
               <datalist id="rq-topics">${state.topics.map((t) => `<option value="${esc(t.name)}">`).join('')}</datalist></label>
           </div>
@@ -466,7 +472,7 @@
     const sum = progressSummary(kidScores(d));
     const weak = sum.topics.filter((x) => x.avg < 70);
     const bar = (pct) => `<div class="bar"><i style="width:${pct}%"></i></div>`;
-    const subjects = ['Maths', 'English', 'Science'].map((subj) => {
+    const subjects = LEARN.map((subj) => {
       const rows = sum.topics.filter((x) => x.t.subject === subj);
       if (!rows.length) return '';
       return `<section class="pg-subject s-${subj}"><h2><span class="chip">${subj}</span> ${rows.length} topic${rows.length === 1 ? '' : 's'} started</h2>
@@ -557,13 +563,15 @@
   }
 
   /* ---------- online worksheets: fill in on screen, then check ---------- */
-  const norm = (v) => String(v ?? '').toLowerCase()
+  const norm = (v) => String(v ?? '').normalize('NFD').replace(/[\u0300-\u036f]/g, '') // é = e
+    .replace(/[\u064B-\u065F\u0670\u0640]/g, '').replace(/[\u0622\u0623\u0625]/g, '\u0627').replace(/\u0649/g, '\u064A') // Arabic: ignore harakat and tatweel, one alef
+    .toLowerCase()
     .replace(/[‘’]/g, "'").replace(/[“”]/g, '"')
     .replace(/[−–—]/g, '-').replace(/[x*]/g, (c, i, str) => (/\d\s*$/.test(str.slice(0, i)) ? '×' : c))
     .replace(/₹|\brs\.?(?=\s*\d)/g, '').replace(/[\s,]+/g, '').replace(/[.!?]+$/, '');
   const isOpen = (a) => /^\s*(e\.g\.|answers? (will )?vary|any )/i.test(String(a));
   function accepts(a, given) {
-    if (!/[a-z0-9]/i.test(String(a))) return String(given).trim() === String(a).trim(); // punctuation answers: . , ? !
+    if (!/[\p{L}\p{N}]/u.test(String(a))) return String(given).trim() === String(a).trim(); // punctuation answers: . , ? !
     const g = norm(given);
     if (!g) return false;
     const opts = String(a).split(/\s+\/\s+/);
@@ -571,7 +579,7 @@
     opts.forEach((o) => { const m = o.match(/^(.*?)\s*\((.+)\)\s*$/); if (m) more.push(m[1], m[2]); });
     return [...opts, ...more].some((o) => norm(o) === g);
   }
-  const loose = (v) => norm(v).replace(/[^a-z0-9×+\-=]/g, '');
+  const loose = (v) => norm(v).replace(/[^\p{L}\p{N}×+\-=]/gu, '');
   const field = (key, a, cls = '') => `<input class="ol-in ${cls}" data-k="${key}" ${/^\d+$/.test(String(a)) ? 'inputmode="numeric"' : ''} autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="Answer">`;
   const fb = (key) => `<span class="ol-fb" data-fb="${key}" aria-live="polite"></span>`;
 
@@ -654,12 +662,12 @@
       <section class="online s-${t.subject}">
         <header class="ol-head">
           <div class="ws-tag">${esc(t.subject)} · ${esc(t.name)} · Sheet ${ws.number} · ${esc(ws.level)}</div>
-          <h1>${esc(ws.title)}</h1>
-          <p class="ws-intro">${esc(ws.intro)}</p>
+          <h1${langAttr(t.subject)}>${esc(ws.title)}</h1>
+          <p class="ws-intro"${langAttr(t.subject)}>${esc(ws.intro)}</p>
           <div class="ol-name" id="ol-who"></div>
         </header>
         <div id="ol-result" class="ol-result" hidden></div>
-        <form id="ol-form" class="ol-form" novalidate>
+        <form id="ol-form" class="ol-form"${langAttr(t.subject)} novalidate>
           ${ws.sections.map(onlineSection).join('')}
           <div class="ol-bar">
             <button type="submit" class="btn btn-main ol-submit">Submit and check</button>
