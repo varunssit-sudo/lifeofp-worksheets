@@ -1,5 +1,281 @@
 [
   {
+    "id": "present-tense-and-past-tense-01",
+    "topic": "present-tense-and-past-tense",
+    "number": 1,
+    "level": "Starter",
+    "title": "My Morning Routine",
+    "intro": "Every morning Aanya gets ready for school. Talk about what she does every day.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Add s or es to show what Aanya does.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "brush",
+            "a": "brushes"
+          },
+          {
+            "q": "wash",
+            "a": "washes"
+          },
+          {
+            "q": "pack",
+            "a": "packs"
+          },
+          {
+            "q": "catch",
+            "a": "catches"
+          },
+          {
+            "q": "comb",
+            "a": "combs"
+          },
+          {
+            "q": "fix",
+            "a": "fixes"
+          },
+          {
+            "q": "kiss",
+            "a": "kisses"
+          },
+          {
+            "q": "wave",
+            "a": "waves"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Aanya",
+            "options": [
+              "wake",
+              "wakes"
+            ],
+            "after": "up at six every day.",
+            "a": "wakes"
+          },
+          {
+            "before": "Her brothers",
+            "options": [
+              "tie",
+              "ties"
+            ],
+            "after": "their shoes.",
+            "a": "tie"
+          },
+          {
+            "before": "Mum",
+            "options": [
+              "cook",
+              "cooks"
+            ],
+            "after": "hot parathas.",
+            "a": "cooks"
+          },
+          {
+            "before": "I",
+            "options": [
+              "pour",
+              "pours"
+            ],
+            "after": "milk into my glass.",
+            "a": "pour"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in is, am or are.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "I ___ ready for school.",
+            "a": "am"
+          },
+          {
+            "q": "The school bus ___ at the gate.",
+            "a": "is"
+          },
+          {
+            "q": "My books ___ in my bag.",
+            "a": "are"
+          },
+          {
+            "q": "We ___ never late.",
+            "a": "are"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Aanya runs to the bus\" is in the present tense.",
+            "a": true
+          },
+          {
+            "q": "We add es to \"watch\" to make \"watches\".",
+            "a": true
+          },
+          {
+            "q": "\"He sing a song\" is correct.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things you do every morning.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Check present tense, e.g. \"I brush my teeth.\""
+      }
+    ]
+  },
+  {
+    "id": "present-tense-and-past-tense-02",
+    "topic": "present-tense-and-past-tense",
+    "number": 2,
+    "level": "Starter",
+    "title": "The School Picnic",
+    "intro": "Last Friday Class 2 went on a picnic to the park. Tell what happened.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Add ed to make the past tense.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "look",
+            "a": "looked"
+          },
+          {
+            "q": "climb",
+            "a": "climbed"
+          },
+          {
+            "q": "kick",
+            "a": "kicked"
+          },
+          {
+            "q": "pull",
+            "a": "pulled"
+          },
+          {
+            "q": "laugh",
+            "a": "laughed"
+          },
+          {
+            "q": "shout",
+            "a": "shouted"
+          },
+          {
+            "q": "pick",
+            "a": "picked"
+          },
+          {
+            "q": "rest",
+            "a": "rested"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words into Present and Past.",
+        "marks": 8,
+        "groups": [
+          "Present",
+          "Past"
+        ],
+        "words": [
+          "opens",
+          "waited",
+          "sits",
+          "rolled",
+          "helps",
+          "cleaned",
+          "talks",
+          "painted"
+        ],
+        "a": {
+          "opens": "Present",
+          "waited": "Past",
+          "sits": "Present",
+          "rolled": "Past",
+          "helps": "Present",
+          "cleaned": "Past",
+          "talks": "Present",
+          "painted": "Past"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the past tense of the word in brackets.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Ms Rao ___ (count) all the children.",
+            "a": "counted"
+          },
+          {
+            "q": "We ___ (play) tag under the trees.",
+            "a": "played"
+          },
+          {
+            "q": "Dev ___ (fill) his bottle at the tap.",
+            "a": "filled"
+          },
+          {
+            "q": "The children ___ (learn) the names of birds.",
+            "a": "learned"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Yesterday we",
+            "options": [
+              "visit",
+              "visited"
+            ],
+            "after": "the big park.",
+            "a": "visited"
+          },
+          {
+            "before": "Last week Ishaan",
+            "options": [
+              "help",
+              "helped"
+            ],
+            "after": "the teacher.",
+            "a": "helped"
+          },
+          {
+            "before": "Ishaan",
+            "options": [
+              "help",
+              "helps"
+            ],
+            "after": "the teacher every day.",
+            "a": "helps"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "present-tense-and-past-tense-03",
     "topic": "present-tense-and-past-tense",
     "number": 3,
@@ -137,6 +413,1536 @@
         "marks": 2,
         "lines": 2,
         "a": "Answers will vary. Check that every action word is in the past tense."
+      }
+    ]
+  },
+  {
+    "id": "present-tense-and-past-tense-04",
+    "topic": "present-tense-and-past-tense",
+    "number": 4,
+    "level": "Starter",
+    "title": "Cooking with Nani",
+    "intro": "On Sunday Meher cooked lunch with her Nani. Some words just add d.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Add d to make the past tense.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "bake",
+            "a": "baked"
+          },
+          {
+            "q": "smile",
+            "a": "smiled"
+          },
+          {
+            "q": "dance",
+            "a": "danced"
+          },
+          {
+            "q": "close",
+            "a": "closed"
+          },
+          {
+            "q": "share",
+            "a": "shared"
+          },
+          {
+            "q": "taste",
+            "a": "tasted"
+          },
+          {
+            "q": "serve",
+            "a": "served"
+          },
+          {
+            "q": "chase",
+            "a": "chased"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the past tense of the word in brackets.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Nani ___ (mix) the flour and water.",
+            "a": "mixed"
+          },
+          {
+            "q": "Meher ___ (stir) the dal slowly.",
+            "a": "stirred"
+          },
+          {
+            "q": "They ___ (cook) rice in a big pot.",
+            "a": "cooked"
+          },
+          {
+            "q": "Nani ___ (like) the sweet kheer best.",
+            "a": "liked"
+          },
+          {
+            "q": "Meher ___ (wash) all the plates.",
+            "a": "washed"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the present to the past.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "use",
+            "right": "used"
+          },
+          {
+            "left": "tie",
+            "right": "tied"
+          },
+          {
+            "left": "love",
+            "right": "loved"
+          },
+          {
+            "left": "move",
+            "right": "moved"
+          },
+          {
+            "left": "save",
+            "right": "saved"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a dish you helped to make. Use the past tense.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary. Check the action word ends in ed or d, or is a correct past form."
+      }
+    ]
+  },
+  {
+    "id": "present-tense-and-past-tense-05",
+    "topic": "present-tense-and-past-tense",
+    "number": 5,
+    "level": "Practice",
+    "title": "Diwali at Home",
+    "intro": "Last Diwali, Kabir and his family made their home bright. Change the y words carefully.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Change y to ied to make the past tense.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "cry",
+            "a": "cried"
+          },
+          {
+            "q": "try",
+            "a": "tried"
+          },
+          {
+            "q": "dry",
+            "a": "dried"
+          },
+          {
+            "q": "fry",
+            "a": "fried"
+          },
+          {
+            "q": "hurry",
+            "a": "hurried"
+          },
+          {
+            "q": "tidy",
+            "a": "tidied"
+          },
+          {
+            "q": "copy",
+            "a": "copied"
+          },
+          {
+            "q": "worry",
+            "a": "worried"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Kabir",
+            "options": [
+              "decorates",
+              "decorated"
+            ],
+            "after": "the door last night.",
+            "a": "decorated"
+          },
+          {
+            "before": "Mum",
+            "options": [
+              "fryed",
+              "fried"
+            ],
+            "after": "crispy chaklis.",
+            "a": "fried"
+          },
+          {
+            "before": "The lamps",
+            "options": [
+              "glowed",
+              "glowing"
+            ],
+            "after": "all night long.",
+            "a": "glowed"
+          },
+          {
+            "before": "We",
+            "options": [
+              "enjoyed",
+              "enjoied"
+            ],
+            "after": "the sparkles in the sky.",
+            "a": "enjoyed"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The past tense of \"play\" is \"plaied\".",
+            "a": false
+          },
+          {
+            "q": "The past tense of \"study\" is \"studied\".",
+            "a": true
+          },
+          {
+            "q": "The past tense of \"stay\" is \"stayed\".",
+            "a": true
+          },
+          {
+            "q": "\"Tomorrow we lit the diyas\" is correct.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Change each sentence to the past tense.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Didi draws a rangoli at the door.",
+            "a": "Didi drew a rangoli at the door."
+          },
+          {
+            "q": "We light forty diyas.",
+            "a": "We lit forty diyas."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a festival you enjoyed. Use the past tense.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Check that every action word is in the past tense."
+      }
+    ]
+  },
+  {
+    "id": "present-tense-and-past-tense-06",
+    "topic": "present-tense-and-past-tense",
+    "number": 6,
+    "level": "Practice",
+    "title": "Rainy Day in Mumbai",
+    "intro": "Last July it rained all day in Mumbai. Some words double the last letter before ed.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Double the last letter and add ed.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "hop",
+            "a": "hopped"
+          },
+          {
+            "q": "clap",
+            "a": "clapped"
+          },
+          {
+            "q": "drop",
+            "a": "dropped"
+          },
+          {
+            "q": "hug",
+            "a": "hugged"
+          },
+          {
+            "q": "skip",
+            "a": "skipped"
+          },
+          {
+            "q": "shop",
+            "a": "shopped"
+          },
+          {
+            "q": "rub",
+            "a": "rubbed"
+          },
+          {
+            "q": "nod",
+            "a": "nodded"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in was or were.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "The road ___ full of water.",
+            "a": "was"
+          },
+          {
+            "q": "The children ___ wet from head to toe.",
+            "a": "were"
+          },
+          {
+            "q": "Papa ___ late for work.",
+            "a": "was"
+          },
+          {
+            "q": "The puddles ___ deep and muddy.",
+            "a": "were"
+          },
+          {
+            "q": "I ___ happy in my yellow raincoat.",
+            "a": "was"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words into Present and Past.",
+        "marks": 8,
+        "groups": [
+          "Present",
+          "Past"
+        ],
+        "words": [
+          "splashed",
+          "drips",
+          "grabbed",
+          "pours",
+          "wrapped",
+          "patted",
+          "slips",
+          "mops"
+        ],
+        "a": {
+          "splashed": "Past",
+          "drips": "Present",
+          "grabbed": "Past",
+          "pours": "Present",
+          "wrapped": "Past",
+          "patted": "Past",
+          "slips": "Present",
+          "mops": "Present"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Rohan",
+            "options": [
+              "planned",
+              "planed"
+            ],
+            "after": "to stay indoors.",
+            "a": "planned"
+          },
+          {
+            "before": "The cat",
+            "options": [
+              "tapped",
+              "taped"
+            ],
+            "after": "on the window.",
+            "a": "tapped"
+          },
+          {
+            "before": "Granny",
+            "options": [
+              "chopped",
+              "choped"
+            ],
+            "after": "onions for pakoras.",
+            "a": "chopped"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "present-tense-and-past-tense-07",
+    "topic": "present-tense-and-past-tense",
+    "number": 7,
+    "level": "Practice",
+    "title": "The Aquarium Visit",
+    "intro": "Last weekend Zoya and Ethan visited a big aquarium in Dubai. Some past words do not end in ed.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each word to its past tense.",
+        "marks": 6,
+        "items": [
+          {
+            "left": "come",
+            "right": "came"
+          },
+          {
+            "left": "give",
+            "right": "gave"
+          },
+          {
+            "left": "take",
+            "right": "took"
+          },
+          {
+            "left": "make",
+            "right": "made"
+          },
+          {
+            "left": "write",
+            "right": "wrote"
+          },
+          {
+            "left": "sit",
+            "right": "sat"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the past tense of the word in brackets.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "A shark ___ (glide) past the glass.",
+            "a": "glided"
+          },
+          {
+            "q": "Ethan ___ (hold) a starfish in the touch pool.",
+            "a": "held"
+          },
+          {
+            "q": "The guide ___ (tell) us about sea turtles.",
+            "a": "told"
+          },
+          {
+            "q": "Zoya ___ (feel) a little scared of the eel.",
+            "a": "felt"
+          },
+          {
+            "q": "We ___ (get) a map at the gate.",
+            "a": "got"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Ethan",
+            "options": [
+              "throwed",
+              "threw"
+            ],
+            "after": "his ticket in the bin.",
+            "a": "threw"
+          },
+          {
+            "before": "The penguins",
+            "options": [
+              "stood",
+              "standed"
+            ],
+            "after": "on the ice.",
+            "a": "stood"
+          },
+          {
+            "before": "Zoya",
+            "options": [
+              "knew",
+              "knowed"
+            ],
+            "after": "the name of every fish.",
+            "a": "knew"
+          },
+          {
+            "before": "We",
+            "options": [
+              "leaved",
+              "left"
+            ],
+            "after": "at four o'clock.",
+            "a": "left"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Change each sentence to the past tense.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "The diver feeds the fish.",
+            "a": "The diver fed the fish."
+          },
+          {
+            "q": "Ethan sends a photo to Grandpa.",
+            "a": "Ethan sent a photo to Grandpa."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "present-tense-and-past-tense-08",
+    "topic": "present-tense-and-past-tense",
+    "number": 8,
+    "level": "Practice",
+    "title": "Sports Day Race",
+    "intro": "Last Saturday was Sports Day. Tell the story of the big race.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the past tense of each word.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "run",
+            "a": "ran"
+          },
+          {
+            "q": "win",
+            "a": "won"
+          },
+          {
+            "q": "lose",
+            "a": "lost"
+          },
+          {
+            "q": "fall",
+            "a": "fell"
+          },
+          {
+            "q": "begin",
+            "a": "began"
+          },
+          {
+            "q": "ring",
+            "a": "rang"
+          },
+          {
+            "q": "blow",
+            "a": "blew"
+          },
+          {
+            "q": "wear",
+            "a": "wore"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that tells about the past.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The teacher",
+            "options": [
+              "blows",
+              "blew"
+            ],
+            "after": "the whistle at nine.",
+            "a": "blew"
+          },
+          {
+            "before": "Arjun",
+            "options": [
+              "tripped",
+              "trips"
+            ],
+            "after": "on his lace.",
+            "a": "tripped"
+          },
+          {
+            "before": "The crowd",
+            "options": [
+              "cheered",
+              "cheers"
+            ],
+            "after": "for every runner.",
+            "a": "cheered"
+          },
+          {
+            "before": "My team",
+            "options": [
+              "gets",
+              "got"
+            ],
+            "after": "a gold cup.",
+            "a": "got"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in has, have or had.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Last year our house ___ the most points.",
+            "a": "had"
+          },
+          {
+            "q": "Every day Priya ___ milk after practice.",
+            "a": "has"
+          },
+          {
+            "q": "We ___ new red caps this year.",
+            "a": "have"
+          },
+          {
+            "q": "Yesterday I ___ a sore leg.",
+            "a": "had"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Arjun runs every morning\" tells about every day.",
+            "a": true
+          },
+          {
+            "q": "\"Yesterday Arjun runs fast\" is correct.",
+            "a": false
+          },
+          {
+            "q": "The past tense of \"catch\" is \"caught\".",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a race you ran. Use the past tense.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Check past forms such as ran, won, came."
+      }
+    ]
+  },
+  {
+    "id": "present-tense-and-past-tense-09",
+    "topic": "present-tense-and-past-tense",
+    "number": 9,
+    "level": "Practice",
+    "title": "The Farm Visit",
+    "intro": "Last month Class 2 went to a farm. Use time words to know the tense.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the time words.",
+        "marks": 8,
+        "groups": [
+          "Present",
+          "Past"
+        ],
+        "words": [
+          "yesterday",
+          "every day",
+          "last night",
+          "now",
+          "two days ago",
+          "always",
+          "last year",
+          "today"
+        ],
+        "a": {
+          "yesterday": "Past",
+          "every day": "Present",
+          "last night": "Past",
+          "now": "Present",
+          "two days ago": "Past",
+          "always": "Present",
+          "last year": "Past",
+          "today": "Present"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Yesterday the farmer",
+            "options": [
+              "milks",
+              "milked"
+            ],
+            "after": "the cows.",
+            "a": "milked"
+          },
+          {
+            "before": "Every morning the hens",
+            "options": [
+              "lay",
+              "laid"
+            ],
+            "after": "eggs.",
+            "a": "lay"
+          },
+          {
+            "before": "Last week a calf",
+            "options": [
+              "was",
+              "is"
+            ],
+            "after": "born.",
+            "a": "was"
+          },
+          {
+            "before": "Now the goats",
+            "options": [
+              "eat",
+              "ate"
+            ],
+            "after": "fresh grass.",
+            "a": "eat"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the past tense of the word in brackets.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "The farmer ___ (dig) a hole for the plant.",
+            "a": "dug"
+          },
+          {
+            "q": "We ___ (feed) carrots to the horse.",
+            "a": "fed"
+          },
+          {
+            "q": "Tara ___ (ride) on a tractor.",
+            "a": "rode"
+          },
+          {
+            "q": "The sheep ___ (sleep) under the tree.",
+            "a": "slept"
+          },
+          {
+            "q": "The children ___ (sweep) the barn.",
+            "a": "swept"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Change each sentence to the present tense.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "The duck swam in the pond.",
+            "a": "The duck swims in the pond."
+          },
+          {
+            "q": "The farmer grew tomatoes.",
+            "a": "The farmer grows tomatoes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "present-tense-and-past-tense-10",
+    "topic": "present-tense-and-past-tense",
+    "number": 10,
+    "level": "Practice",
+    "title": "Eid Morning",
+    "intro": "On Eid morning Ayaan and his family got up early. Mix ed words and special past words.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the past tense of each word.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "pray",
+            "a": "prayed"
+          },
+          {
+            "q": "hear",
+            "a": "heard"
+          },
+          {
+            "q": "bring",
+            "a": "brought"
+          },
+          {
+            "q": "meet",
+            "a": "met"
+          },
+          {
+            "q": "say",
+            "a": "said"
+          },
+          {
+            "q": "spend",
+            "a": "spent"
+          },
+          {
+            "q": "hang",
+            "a": "hung"
+          },
+          {
+            "q": "invite",
+            "a": "invited"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the past tense of the word in brackets.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Ayaan ___ (put) on his new kurta.",
+            "a": "put"
+          },
+          {
+            "q": "Ammi ___ (cut) the cake into pieces.",
+            "a": "cut"
+          },
+          {
+            "q": "Grandpa ___ (lend) Ayaan his old watch.",
+            "a": "lent"
+          },
+          {
+            "q": "The cousins ___ (shake) hands and hugged.",
+            "a": "shook"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "\"Ayaan prays every Friday\" is in the present tense.",
+            "a": true
+          },
+          {
+            "q": "\"The guests come yesterday\" is correct.",
+            "a": false
+          },
+          {
+            "q": "The past tense of \"bring\" is \"bringed\".",
+            "a": false
+          },
+          {
+            "q": "\"Ammi cut the cake last night\" is in the past tense.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Change each sentence to the past tense.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "We eat sweet sheer khurma.",
+            "a": "We ate sweet sheer khurma."
+          },
+          {
+            "q": "The children get Eidi from the elders.",
+            "a": "The children got Eidi from the elders."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a happy morning in your family. Use the past tense.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Check that every action word is in the past tense."
+      }
+    ]
+  },
+  {
+    "id": "present-tense-and-past-tense-11",
+    "topic": "present-tense-and-past-tense",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Train Journey to Kerala",
+    "intro": "Last summer Neha took a long train ride to Kerala. Learn to say what did not happen.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Make each sentence say \"not\". Use did not.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Neha slept on the top berth.",
+            "a": "Neha did not sleep on the top berth."
+          },
+          {
+            "q": "The train stopped at Goa.",
+            "a": "The train did not stop at Goa."
+          },
+          {
+            "q": "We bought tea at the station.",
+            "a": "We did not buy tea at the station."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Neha did not",
+            "options": [
+              "see",
+              "saw"
+            ],
+            "after": "the sea from the train.",
+            "a": "see"
+          },
+          {
+            "before": "The guard did not",
+            "options": [
+              "wave",
+              "waved"
+            ],
+            "after": "the red flag.",
+            "a": "wave"
+          },
+          {
+            "before": "Papa did not",
+            "options": [
+              "forget",
+              "forgot"
+            ],
+            "after": "the tickets.",
+            "a": "forget"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the past tense of each word.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "forget",
+            "a": "forgot"
+          },
+          {
+            "q": "break",
+            "a": "broke"
+          },
+          {
+            "q": "hide",
+            "a": "hid"
+          },
+          {
+            "q": "bite",
+            "a": "bit"
+          },
+          {
+            "q": "choose",
+            "a": "chose"
+          },
+          {
+            "q": "speak",
+            "a": "spoke"
+          },
+          {
+            "q": "shut",
+            "a": "shut"
+          },
+          {
+            "q": "keep",
+            "a": "kept"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in was or were.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The train ___ very long.",
+            "a": "was"
+          },
+          {
+            "q": "The fields outside ___ green.",
+            "a": "were"
+          },
+          {
+            "q": "Neha and her brother ___ excited.",
+            "a": "were"
+          },
+          {
+            "q": "The coconut water ___ sweet.",
+            "a": "was"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing you did and one thing you did not do last Sunday.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Check \"did not\" is followed by the base word, e.g. \"I did not play.\""
+      }
+    ]
+  },
+  {
+    "id": "present-tense-and-past-tense-12",
+    "topic": "present-tense-and-past-tense",
+    "number": 12,
+    "level": "Challenge",
+    "title": "The School Play",
+    "intro": "Last week Class 2 put on a play. Read the questions about it.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Change each sentence to a question. Begin with Did.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Rahul forgot his lines.",
+            "a": "Did Rahul forget his lines?"
+          },
+          {
+            "q": "The audience laughed.",
+            "a": "Did the audience laugh?"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Did Sofia",
+            "options": [
+              "sing",
+              "sang"
+            ],
+            "after": "a song?",
+            "a": "sing"
+          },
+          {
+            "before": "Did the lights",
+            "options": [
+              "go",
+              "went"
+            ],
+            "after": "off at the end?",
+            "a": "go"
+          },
+          {
+            "before": "Did you",
+            "options": [
+              "like",
+              "liked"
+            ],
+            "after": "the play?",
+            "a": "like"
+          },
+          {
+            "before": "Did the curtain",
+            "options": [
+              "open",
+              "opened"
+            ],
+            "after": "on time?",
+            "a": "open"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the past tense of each word.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "practise",
+            "a": "practised"
+          },
+          {
+            "q": "act",
+            "a": "acted"
+          },
+          {
+            "q": "bow",
+            "a": "bowed"
+          },
+          {
+            "q": "show",
+            "a": "showed"
+          },
+          {
+            "q": "fold",
+            "a": "folded"
+          },
+          {
+            "q": "paste",
+            "a": "pasted"
+          },
+          {
+            "q": "stitch",
+            "a": "stitched"
+          },
+          {
+            "q": "borrow",
+            "a": "borrowed"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "\"Did Rahul wore a crown?\" is correct.",
+            "a": false
+          },
+          {
+            "q": "\"Did the play start late?\" is correct.",
+            "a": true
+          },
+          {
+            "q": "\"The children acted well\" is in the past tense.",
+            "a": true
+          },
+          {
+            "q": "\"Sofia dances on stage\" is in the past tense.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one question you would ask about a show you saw. Begin with Did.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary. Check it begins with Did and uses the base word."
+      }
+    ]
+  },
+  {
+    "id": "present-tense-and-past-tense-13",
+    "topic": "present-tense-and-past-tense",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Camping in Hatta",
+    "intro": "Last winter Leo and Sara went camping in the Hatta mountains. Read and change the story.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the past tense of the word in brackets.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "Dad ___ (pitch) the tent near the lake.",
+            "a": "pitched"
+          },
+          {
+            "q": "Sara ___ (switch) on the lantern.",
+            "a": "switched"
+          },
+          {
+            "q": "Leo ___ (spot) a bright star.",
+            "a": "spotted"
+          },
+          {
+            "q": "We ___ (hike) up a rocky hill.",
+            "a": "hiked"
+          },
+          {
+            "q": "An owl ___ (hoot) at night.",
+            "a": "hooted"
+          },
+          {
+            "q": "Mum ___ (roast) corn on the fire.",
+            "a": "roasted"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Change each sentence to the past tense.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "The wind is cold.",
+            "a": "The wind was cold."
+          },
+          {
+            "q": "We have hot soup for dinner.",
+            "a": "We had hot soup for dinner."
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words into Present and Past.",
+        "marks": 8,
+        "groups": [
+          "Present",
+          "Past"
+        ],
+        "words": [
+          "kayaked",
+          "paddles",
+          "zipped",
+          "crawls",
+          "shivered",
+          "whistles",
+          "stretched",
+          "yawns"
+        ],
+        "a": {
+          "kayaked": "Past",
+          "paddles": "Present",
+          "zipped": "Past",
+          "crawls": "Present",
+          "shivered": "Past",
+          "whistles": "Present",
+          "stretched": "Past",
+          "yawns": "Present"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The stars",
+            "options": [
+              "was",
+              "were"
+            ],
+            "after": "very bright.",
+            "a": "were"
+          },
+          {
+            "before": "Leo",
+            "options": [
+              "has",
+              "had"
+            ],
+            "after": "a torch last night.",
+            "a": "had"
+          },
+          {
+            "before": "Now Sara",
+            "options": [
+              "is",
+              "was"
+            ],
+            "after": "back home.",
+            "a": "is"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "present-tense-and-past-tense-14",
+    "topic": "present-tense-and-past-tense",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Holi with Friends",
+    "intro": "Last March the children played Holi in the colony. Find and fix the mistakes.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Each sentence has a mistake. Write it correctly.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Yesterday Anika throwed red colour.",
+            "a": "Yesterday Anika threw red colour."
+          },
+          {
+            "q": "We was all pink and green.",
+            "a": "We were all pink and green."
+          },
+          {
+            "q": "Last year Om drinked thandai.",
+            "a": "Last year Om drank thandai."
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the past tense of each word.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "spray",
+            "a": "sprayed"
+          },
+          {
+            "q": "fight",
+            "a": "fought"
+          },
+          {
+            "q": "splash",
+            "a": "splashed"
+          },
+          {
+            "q": "scrub",
+            "a": "scrubbed"
+          },
+          {
+            "q": "soak",
+            "a": "soaked"
+          },
+          {
+            "q": "rush",
+            "a": "rushed"
+          },
+          {
+            "q": "tear",
+            "a": "tore"
+          },
+          {
+            "q": "spread",
+            "a": "spread"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Every year we",
+            "options": [
+              "play",
+              "played"
+            ],
+            "after": "Holi with water.",
+            "a": "play"
+          },
+          {
+            "before": "Last Holi it",
+            "options": [
+              "is",
+              "was"
+            ],
+            "after": "very sunny.",
+            "a": "was"
+          },
+          {
+            "before": "Two days ago Om",
+            "options": [
+              "bought",
+              "buyed"
+            ],
+            "after": "a water gun.",
+            "a": "bought"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Swept\" is the past tense of \"sweep\".",
+            "a": true
+          },
+          {
+            "q": "\"Teached\" is the past tense of \"teach\".",
+            "a": false
+          },
+          {
+            "q": "\"Every day\" tells us to use the present tense.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write three sentences about a festival day. Use the past tense.",
+        "marks": 3,
+        "lines": 3,
+        "a": "Answers will vary. Check all action words are correct past forms."
+      }
+    ]
+  },
+  {
+    "id": "present-tense-and-past-tense-15",
+    "topic": "present-tense-and-past-tense",
+    "number": 15,
+    "level": "Challenge",
+    "title": "The Science Museum Trip",
+    "intro": "Last Tuesday Class 2 visited the science museum. Use everything you know about tenses.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the right form of the word in brackets.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Every Tuesday our class ___ (go) on a trip.",
+            "a": "goes"
+          },
+          {
+            "q": "Last Tuesday we ___ (go) to the museum.",
+            "a": "went"
+          },
+          {
+            "q": "A robot ___ (talk) to us at the door.",
+            "a": "talked"
+          },
+          {
+            "q": "Now I ___ (want) to build a robot too.",
+            "a": "want"
+          },
+          {
+            "q": "Yesterday Maya ___ (think) about rockets all day.",
+            "a": "thought"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each word to its past tense.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "teach",
+            "right": "taught"
+          },
+          {
+            "left": "freeze",
+            "right": "froze"
+          },
+          {
+            "left": "draw",
+            "right": "drew"
+          },
+          {
+            "left": "grow",
+            "right": "grew"
+          },
+          {
+            "left": "drive",
+            "right": "drove"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Change the story to the past tense.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "We look at a big model of the Moon.",
+            "a": "We looked at a big model of the Moon."
+          },
+          {
+            "q": "The guide shows us a dinosaur bone.",
+            "a": "The guide showed us a dinosaur bone."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The rockets",
+            "options": [
+              "was",
+              "were"
+            ],
+            "after": "taller than our school.",
+            "a": "were"
+          },
+          {
+            "before": "Did Maya",
+            "options": [
+              "press",
+              "pressed"
+            ],
+            "after": "the red button?",
+            "a": "press"
+          },
+          {
+            "before": "We did not",
+            "options": [
+              "touch",
+              "touched"
+            ],
+            "after": "the glass box.",
+            "a": "touch"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about something new you learned at school. Use the past tense.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. Check the action word is in the past tense."
       }
     ]
   }
