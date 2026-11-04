@@ -1,0 +1,643 @@
+[
+  {
+    "id": "prepositions-01",
+    "topic": "prepositions",
+    "number": 1,
+    "level": "Starter",
+    "title": "Tidying My Bedroom",
+    "intro": "Anaya is tidying her room. Where does everything go?",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the right place word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "I put my clothes",
+            "options": [
+              "in",
+              "under"
+            ],
+            "after": "the cupboard and shut the door.",
+            "a": "in"
+          },
+          {
+            "before": "The lamp stands",
+            "options": [
+              "on",
+              "in"
+            ],
+            "after": "the table.",
+            "a": "on"
+          },
+          {
+            "before": "The clock hangs",
+            "options": [
+              "on",
+              "under"
+            ],
+            "after": "the wall.",
+            "a": "on"
+          },
+          {
+            "before": "The poster is",
+            "options": [
+              "above",
+              "under"
+            ],
+            "after": "my bed, high on the wall.",
+            "a": "above"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with in, on, under or behind.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The ball rolled ___ the sofa, so I lay on the floor to get it.",
+            "a": "under"
+          },
+          {
+            "q": "Anaya put the pencils ___ the box and closed the lid.",
+            "a": "in"
+          },
+          {
+            "q": "The cat is hiding ___ the curtain. I can see its tail.",
+            "a": "behind"
+          },
+          {
+            "q": "Please put the plate ___ the table.",
+            "a": "on"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "If a cup is on the table, it is touching the top of the table.",
+            "a": true
+          },
+          {
+            "q": "If a dog is under the chair, it is above the chair.",
+            "a": false
+          },
+          {
+            "q": "Behind means at the back of something.",
+            "a": true
+          },
+          {
+            "q": "In front of means at the back of something.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the opposites.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "in front of",
+            "right": "behind"
+          },
+          {
+            "left": "above",
+            "right": "below"
+          },
+          {
+            "left": "inside",
+            "right": "outside"
+          },
+          {
+            "left": "near",
+            "right": "far"
+          },
+          {
+            "left": "on",
+            "right": "off"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write where your school bag is right now.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. The sentence uses a place word, e.g. My bag is under my desk."
+      }
+    ]
+  },
+  {
+    "id": "prepositions-02",
+    "topic": "prepositions",
+    "number": 2,
+    "level": "Starter",
+    "title": "A Day at Zabeel Park",
+    "intro": "Leo and Diya are playing at the park. Find the right place word.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in with over, between, near or in front of.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Diya sat ___ her two friends, one on each side.",
+            "a": "between"
+          },
+          {
+            "q": "The kite flew high ___ the trees.",
+            "a": "over"
+          },
+          {
+            "q": "Leo stood ___ the slide for a photo. The slide was behind him.",
+            "a": "in front of"
+          },
+          {
+            "q": "The bench is ___ the pond, just a few steps away.",
+            "a": "near"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right place word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The ducks swim",
+            "options": [
+              "in",
+              "on"
+            ],
+            "after": "the pond.",
+            "a": "in"
+          },
+          {
+            "before": "Birds sit",
+            "options": [
+              "on",
+              "in"
+            ],
+            "after": "the branches.",
+            "a": "on"
+          },
+          {
+            "before": "We walked",
+            "options": [
+              "across",
+              "under"
+            ],
+            "after": "the bridge to reach the other side.",
+            "a": "across"
+          },
+          {
+            "before": "The swings are",
+            "options": [
+              "between",
+              "over"
+            ],
+            "after": "the slide and the see-saw.",
+            "a": "between"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words. Is it a place word or an action word?",
+        "marks": 6,
+        "groups": [
+          "Place word",
+          "Action word"
+        ],
+        "words": [
+          "under",
+          "swing",
+          "behind",
+          "climb",
+          "above",
+          "throw"
+        ],
+        "a": {
+          "under": "Place word",
+          "swing": "Action word",
+          "behind": "Place word",
+          "climb": "Action word",
+          "above": "Place word",
+          "throw": "Action word"
+        }
+      },
+      {
+        "type": "rewrite",
+        "title": "Write a sentence using the place word.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "under",
+            "a": "Answers will vary, e.g. The dog is sleeping under the bench."
+          },
+          {
+            "q": "next to",
+            "a": "Answers will vary, e.g. I sat next to my brother."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write where you like to sit at the park.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. The sentence uses a place word, e.g. I sit under a tree."
+      }
+    ]
+  },
+  {
+    "id": "prepositions-03",
+    "topic": "prepositions",
+    "number": 3,
+    "level": "Starter",
+    "title": "The Classroom Treasure Hunt",
+    "intro": "Ms Fernandes hid stickers around Class 2B. Read the clues to find them.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the place word that fits the clue.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Sticker 1 is",
+            "options": [
+              "under",
+              "over"
+            ],
+            "after": "the doormat. Lift the mat to find it.",
+            "a": "under"
+          },
+          {
+            "before": "Sticker 2 is",
+            "options": [
+              "inside",
+              "outside"
+            ],
+            "after": "the pencil box. Open it!",
+            "a": "inside"
+          },
+          {
+            "before": "Sticker 3 is",
+            "options": [
+              "behind",
+              "in front of"
+            ],
+            "after": "the door. Close the door to see it.",
+            "a": "behind"
+          },
+          {
+            "before": "Sticker 4 is",
+            "options": [
+              "between",
+              "above"
+            ],
+            "after": "the two blue books on the shelf.",
+            "a": "between"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the two parts of each sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "The fish swims",
+            "right": "in the tank."
+          },
+          {
+            "left": "The fan spins",
+            "right": "above our heads."
+          },
+          {
+            "left": "The rug lies",
+            "right": "on the floor."
+          },
+          {
+            "left": "Our bags hang",
+            "right": "behind our chairs."
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with near, below, beside or around.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Hira sits ___ me. Our desks touch.",
+            "a": "beside"
+          },
+          {
+            "q": "The children sat ___ the teacher in a circle.",
+            "a": "around"
+          },
+          {
+            "q": "Write your name ___ the line, not above it.",
+            "a": "below"
+          },
+          {
+            "q": "The school is ___ my house, so I walk there.",
+            "a": "near"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words. Is it high up or low down?",
+        "marks": 6,
+        "groups": [
+          "High up",
+          "Low down"
+        ],
+        "words": [
+          "above",
+          "under",
+          "over",
+          "below",
+          "on top of",
+          "beneath"
+        ],
+        "a": {
+          "above": "High up",
+          "under": "Low down",
+          "over": "High up",
+          "below": "Low down",
+          "on top of": "High up",
+          "beneath": "Low down"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Hide something in your room. Write a clue to find it using a place word.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. The clue uses a place word, e.g. It is under my pillow."
+      }
+    ]
+  },
+  {
+    "id": "prepositions-04",
+    "topic": "prepositions",
+    "number": 4,
+    "level": "Starter",
+    "title": "Packing for the Airport",
+    "intro": "Kiaan's family is flying from Kochi to Dubai. Help them pack and travel.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in with into, onto, out of or through.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Papa put the clothes ___ the suitcase.",
+            "a": "into"
+          },
+          {
+            "q": "We walked ___ the big glass doors.",
+            "a": "through"
+          },
+          {
+            "q": "Kiaan lifted the bag ___ the moving belt.",
+            "a": "onto"
+          },
+          {
+            "q": "Mama took the tickets ___ her bag to show them.",
+            "a": "out of"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right place word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The plane flew",
+            "options": [
+              "above",
+              "under"
+            ],
+            "after": "the clouds.",
+            "a": "above"
+          },
+          {
+            "before": "My seat was",
+            "options": [
+              "next to",
+              "far from"
+            ],
+            "after": "the window, so I could look out.",
+            "a": "next to"
+          },
+          {
+            "before": "Small bags go",
+            "options": [
+              "over",
+              "under"
+            ],
+            "after": "the seat in front of you.",
+            "a": "under"
+          },
+          {
+            "before": "We waited",
+            "options": [
+              "at",
+              "into"
+            ],
+            "after": "the gate for an hour.",
+            "a": "at"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "'The passport is in the bag' tells us where the passport is.",
+            "a": true
+          },
+          {
+            "q": "In 'The cat sat on the mat', the place word is 'cat'.",
+            "a": false
+          },
+          {
+            "q": "Between means in the middle of two things.",
+            "a": true
+          },
+          {
+            "q": "Under and below mean almost the same.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each place word to its meaning.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "behind",
+            "right": "at the back of"
+          },
+          {
+            "left": "above",
+            "right": "higher than"
+          },
+          {
+            "left": "beside",
+            "right": "at the side of"
+          },
+          {
+            "left": "inside",
+            "right": "within something"
+          },
+          {
+            "left": "across",
+            "right": "from one side to the other"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write where you like to sit in a car, bus or plane.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. The sentence uses a place word, e.g. I sit next to the window."
+      }
+    ]
+  },
+  {
+    "id": "prepositions-05",
+    "topic": "prepositions",
+    "number": 5,
+    "level": "Practice",
+    "title": "The Ganesh Chaturthi Pandal",
+    "intro": "Rohan and his cousin Tara visit the Ganesh pandal near their building.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the right place word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The idol sits",
+            "options": [
+              "on",
+              "under"
+            ],
+            "after": "a big stage.",
+            "a": "on"
+          },
+          {
+            "before": "Rohan stood",
+            "options": [
+              "between",
+              "over"
+            ],
+            "after": "his mother and Tara.",
+            "a": "between"
+          },
+          {
+            "before": "We left our shoes",
+            "options": [
+              "outside",
+              "inside"
+            ],
+            "after": "the pandal before going in.",
+            "a": "outside"
+          },
+          {
+            "before": "The sweets are",
+            "options": [
+              "on",
+              "across"
+            ],
+            "after": "a silver plate.",
+            "a": "on"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with across, behind, through, near or among.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "We walked ___ the busy road at the crossing.",
+            "a": "across"
+          },
+          {
+            "q": "Tara hid ___ the big drum so no one could see her.",
+            "a": "behind"
+          },
+          {
+            "q": "We pushed ___ the crowd to see the idol.",
+            "a": "through"
+          },
+          {
+            "q": "Rohan's building is ___ the pandal, so we walked.",
+            "a": "near"
+          },
+          {
+            "q": "Rohan's little sister was lost ___ all the people.",
+            "a": "among"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again with the opposite place word.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The children are inside the pandal.",
+            "a": "The children are outside the pandal."
+          },
+          {
+            "q": "The car is in front of the gate.",
+            "a": "The car is behind the gate."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We use 'between' for two things and 'among' for many things.",
+            "a": true
+          },
+          {
+            "q": "In 'The bell hangs above the door', the place word is 'bell'.",
+            "a": false
+          },
+          {
+            "q": "'Towards' means moving closer to something.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a festival. Use a place word in each.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Each sentence uses a place word such as in, on, near or behind."
+      }
+    ]
+  }
+]

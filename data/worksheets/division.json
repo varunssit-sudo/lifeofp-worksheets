@@ -1,0 +1,639 @@
+[
+  {
+    "id": "division-01",
+    "topic": "division",
+    "number": 1,
+    "level": "Starter",
+    "title": "Sharing Laddoos at Diwali",
+    "intro": "Riya's grandmother made laddoos for Diwali. Share them equally. Division means sharing into equal groups.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Share equally. Write the answer.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "12 ÷ 3",
+            "a": "4"
+          },
+          {
+            "q": "10 ÷ 2",
+            "a": "5"
+          },
+          {
+            "q": "15 ÷ 5",
+            "a": "3"
+          },
+          {
+            "q": "16 ÷ 4",
+            "a": "4"
+          },
+          {
+            "q": "18 ÷ 3",
+            "a": "6"
+          },
+          {
+            "q": "20 ÷ 5",
+            "a": "4"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "8 laddoos shared by 2 children. Each child gets ___ laddoos.",
+            "a": "4"
+          },
+          {
+            "q": "9 laddoos shared by 3 children. Each child gets ___ laddoos.",
+            "a": "3"
+          },
+          {
+            "q": "14 laddoos on 2 plates. Each plate has ___ laddoos.",
+            "a": "7"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Sharing equally means everyone gets the same number.",
+            "a": true
+          },
+          {
+            "q": "12 ÷ 4 = 3",
+            "a": true
+          },
+          {
+            "q": "10 ÷ 5 = 3",
+            "a": false
+          },
+          {
+            "q": "In 6 ÷ 2, we share 6 into 2 equal groups.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each division to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "20 ÷ 4",
+            "right": "5"
+          },
+          {
+            "left": "21 ÷ 3",
+            "right": "7"
+          },
+          {
+            "left": "24 ÷ 4",
+            "right": "6"
+          },
+          {
+            "left": "16 ÷ 2",
+            "right": "8"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the Diwali problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Riya has 24 diyas. She puts them in 4 equal rows. Each row has ___ diyas.",
+            "a": "6"
+          },
+          {
+            "q": "Grandma gives ₹30 to 3 grandchildren equally. Each gets ₹ ___.",
+            "a": "10"
+          },
+          {
+            "q": "There are 25 sparklers for 5 cousins. Each cousin gets ___ sparklers.",
+            "a": "5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "division-02",
+    "topic": "division",
+    "number": 2,
+    "level": "Starter",
+    "title": "Packing Fruit Boxes",
+    "intro": "Zayn and Kiara are packing fruit at a farm shop. Take away the same number again and again to divide.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Subtract again and again. Then divide.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "15 − 5 − 5 − 5 = 0. So 15 ÷ 5 = ___",
+            "a": "3"
+          },
+          {
+            "q": "12 − 4 − 4 − 4 = 0. So 12 ÷ 4 = ___",
+            "a": "3"
+          },
+          {
+            "q": "14 − 7 − 7 = 0. So 14 ÷ 7 = ___",
+            "a": "2"
+          },
+          {
+            "q": "18 − 6 − 6 − 6 = 0. So 18 ÷ 6 = ___",
+            "a": "3"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Jump back on the number line to 0. How many jumps?",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Start at 20. Jump back 4 each time. ___ jumps",
+            "a": "5"
+          },
+          {
+            "q": "Start at 21. Jump back 3 each time. ___ jumps",
+            "a": "7"
+          },
+          {
+            "q": "Start at 16. Jump back 8 each time. ___ jumps",
+            "a": "2"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct answer.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "27 ÷ 3 =",
+            "options": [
+              "9",
+              "8",
+              "7"
+            ],
+            "after": "",
+            "a": "9"
+          },
+          {
+            "before": "30 ÷ 6 =",
+            "options": [
+              "6",
+              "5",
+              "4"
+            ],
+            "after": "",
+            "a": "5"
+          },
+          {
+            "before": "32 ÷ 4 =",
+            "options": [
+              "6",
+              "7",
+              "8"
+            ],
+            "after": "",
+            "a": "8"
+          },
+          {
+            "before": "35 ÷ 7 =",
+            "options": [
+              "5",
+              "6",
+              "7"
+            ],
+            "after": "",
+            "a": "5"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "10 − 2 − 2 − 2 − 2 − 2 = 0 shows 10 ÷ 2 = 5.",
+            "a": true
+          },
+          {
+            "q": "Jumping back 6 from 24 to 0 takes 3 jumps.",
+            "a": false
+          },
+          {
+            "q": "28 ÷ 4 = 7",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the fruit box problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Zayn has 36 apples. He puts 6 in each box. He fills ___ boxes.",
+            "a": "6"
+          },
+          {
+            "q": "Kiara has 40 oranges. She puts 5 in each bag. She fills ___ bags.",
+            "a": "8"
+          },
+          {
+            "q": "A box of 8 kiwis costs ₹80. One kiwi costs ₹ ___.",
+            "a": "10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "division-03",
+    "topic": "division",
+    "number": 3,
+    "level": "Starter",
+    "title": "Teams for the PE Class",
+    "intro": "Coach Maria is making teams for the PE class. Use times tables to help you divide.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Use the times table fact to divide.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "4 × 6 = 24, so 24 ÷ 6 = ___",
+            "a": "4"
+          },
+          {
+            "q": "3 × 7 = 21, so 21 ÷ 3 = ___",
+            "a": "7"
+          },
+          {
+            "q": "5 × 8 = 40, so 40 ÷ 8 = ___",
+            "a": "5"
+          },
+          {
+            "q": "9 × 2 = 18, so 18 ÷ 9 = ___",
+            "a": "2"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "In 35 ÷ 5 = 7, match each word to its number.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "dividend",
+            "right": "35"
+          },
+          {
+            "left": "divisor",
+            "right": "5"
+          },
+          {
+            "left": "quotient",
+            "right": "7"
+          },
+          {
+            "left": "remainder",
+            "right": "0"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Divide. You may use long division.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "26 ÷ 2",
+            "a": "13"
+          },
+          {
+            "q": "39 ÷ 3",
+            "a": "13"
+          },
+          {
+            "q": "48 ÷ 4",
+            "a": "12"
+          },
+          {
+            "q": "55 ÷ 5",
+            "a": "11"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The number we divide is called the dividend.",
+            "a": true
+          },
+          {
+            "q": "The answer in division is called the quotient.",
+            "a": true
+          },
+          {
+            "q": "If 6 × 4 = 24, then 24 ÷ 4 = 6.",
+            "a": true
+          },
+          {
+            "q": "36 ÷ 3 = 11",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the PE problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There are 32 children. Coach makes 4 equal teams. Each team has ___ children.",
+            "a": "8"
+          },
+          {
+            "q": "There are 45 cones. Coach puts 5 cones in each row. There are ___ rows.",
+            "a": "9"
+          },
+          {
+            "q": "There are 28 bibs for 2 teams. Each team gets ___ bibs.",
+            "a": "14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "division-04",
+    "topic": "division",
+    "number": 4,
+    "level": "Starter",
+    "title": "Sharing Stickers in Class",
+    "intro": "Tara is sharing stickers with her friends. Sometimes some are left over. What is left is the remainder.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Divide. Write the answer and the remainder.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "17 ÷ 5",
+            "a": "3 R 2"
+          },
+          {
+            "q": "13 ÷ 2",
+            "a": "6 R 1"
+          },
+          {
+            "q": "22 ÷ 4",
+            "a": "5 R 2"
+          },
+          {
+            "q": "19 ÷ 3",
+            "a": "6 R 1"
+          },
+          {
+            "q": "26 ÷ 5",
+            "a": "5 R 1"
+          },
+          {
+            "q": "30 ÷ 7",
+            "a": "4 R 2"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the sums. Is there a remainder?",
+        "marks": 6,
+        "groups": [
+          "Remainder",
+          "No remainder"
+        ],
+        "words": [
+          "20 ÷ 3",
+          "24 ÷ 6",
+          "15 ÷ 4",
+          "27 ÷ 9",
+          "33 ÷ 5",
+          "40 ÷ 8"
+        ],
+        "a": {
+          "20 ÷ 3": "Remainder",
+          "24 ÷ 6": "No remainder",
+          "15 ÷ 4": "Remainder",
+          "27 ÷ 9": "No remainder",
+          "33 ÷ 5": "Remainder",
+          "40 ÷ 8": "No remainder"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "11 stickers shared by 2 friends. Each gets 5 and ___ is left over.",
+            "a": "1"
+          },
+          {
+            "q": "23 stickers shared by 5 friends. Each gets ___ and 3 are left over.",
+            "a": "4"
+          },
+          {
+            "q": "29 stickers shared by 3 friends. Each gets 9 and ___ are left over.",
+            "a": "2"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The remainder must be smaller than the number we divide by.",
+            "a": true
+          },
+          {
+            "q": "14 ÷ 3 = 4 R 2",
+            "a": true
+          },
+          {
+            "q": "25 ÷ 4 = 5 R 5",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the sticker problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Tara has 34 stickers. She gives 4 to each friend. She can give to ___ friends.",
+            "a": "8"
+          },
+          {
+            "q": "How many stickers does Tara have left after that? ___",
+            "a": "2"
+          },
+          {
+            "q": "Jonah has 21 stickers to stick on 6 pages equally. ___ stickers are left over.",
+            "a": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "division-05",
+    "topic": "division",
+    "number": 5,
+    "level": "Practice",
+    "title": "The Eid Gift Bags",
+    "intro": "Hamdan and Sofia are filling Eid gift bags for the neighbours. Use long division for the bigger numbers.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Use long division. Write the quotient.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "64 ÷ 4",
+            "a": "16"
+          },
+          {
+            "q": "75 ÷ 3",
+            "a": "25"
+          },
+          {
+            "q": "84 ÷ 6",
+            "a": "14"
+          },
+          {
+            "q": "96 ÷ 8",
+            "a": "12"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Use long division. Write the quotient and remainder.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "47 ÷ 3",
+            "a": "15 R 2"
+          },
+          {
+            "q": "58 ÷ 4",
+            "a": "14 R 2"
+          },
+          {
+            "q": "79 ÷ 6",
+            "a": "13 R 1"
+          },
+          {
+            "q": "86 ÷ 5",
+            "a": "17 R 1"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "72 ÷ 4 =",
+            "options": [
+              "18",
+              "16",
+              "28"
+            ],
+            "after": "",
+            "a": "18"
+          },
+          {
+            "before": "65 ÷ 5 =",
+            "options": [
+              "12",
+              "13",
+              "15"
+            ],
+            "after": "",
+            "a": "13"
+          },
+          {
+            "before": "53 ÷ 2 =",
+            "options": [
+              "26 R 1",
+              "25 R 1",
+              "26"
+            ],
+            "after": "",
+            "a": "26 R 1"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Check by multiplying.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "91 ÷ 7 = 13. Check: 13 × 7 = ___",
+            "a": "91"
+          },
+          {
+            "q": "38 ÷ 3 = 12 R 2. Check: 12 × 3 + 2 = ___",
+            "a": "38"
+          },
+          {
+            "q": "57 ÷ 4 = 14 R 1. Check: 14 × 4 + 1 = ___",
+            "a": "57"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the gift bag problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There are 72 dates to share into 6 bags. Each bag gets ___ dates.",
+            "a": "12"
+          },
+          {
+            "q": "There are 50 chocolates for 4 bags. Each bag gets 12. ___ chocolates are left.",
+            "a": "2"
+          },
+          {
+            "q": "Sofia has ₹90 to spend on 5 gifts equally. Each gift costs ₹ ___.",
+            "a": "18"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "multiplication-tables-1-to-10-01",
+    "topic": "multiplication-tables-1-to-10",
+    "number": 1,
+    "level": "Starter",
+    "title": "The School Bus Ride",
+    "intro": "The school bus has seats for 2, 3 or 4 children. Use the tables of 2, 3 and 4.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Complete the table facts.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "2 × 6",
+            "a": "12"
+          },
+          {
+            "q": "3 × 4",
+            "a": "12"
+          },
+          {
+            "q": "4 × 7",
+            "a": "28"
+          },
+          {
+            "q": "2 × 9",
+            "a": "18"
+          },
+          {
+            "q": "3 × 8",
+            "a": "24"
+          },
+          {
+            "q": "4 × 3",
+            "a": "12"
+          },
+          {
+            "q": "3 × 10",
+            "a": "30"
+          },
+          {
+            "q": "4 × 9",
+            "a": "36"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "4 × ___ = 24",
+            "a": "6"
+          },
+          {
+            "q": "2 × ___ = 14",
+            "a": "7"
+          },
+          {
+            "q": "3 × ___ = 27",
+            "a": "9"
+          },
+          {
+            "q": "___ × 4 = 32",
+            "a": "8"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "4 × 4 = 16",
+            "a": true
+          },
+          {
+            "q": "3 × 7 = 24",
+            "a": false
+          },
+          {
+            "q": "4 × 10 = 40",
+            "a": true
+          },
+          {
+            "q": "Every answer in the table of 2 is an even number.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the bus problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Each seat holds 2 children. 8 seats hold ___ children.",
+            "a": "16"
+          },
+          {
+            "q": "There are 6 rows with 3 children in each row. There are ___ children.",
+            "a": "18"
+          },
+          {
+            "q": "5 children bring 4 books each. They bring ___ books.",
+            "a": "20"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write the table of 4 from 4 × 1 to 4 × 5.",
+        "marks": 2,
+        "lines": 1,
+        "a": "4 × 1 = 4, 4 × 2 = 8, 4 × 3 = 12, 4 × 4 = 16, 4 × 5 = 20"
+      }
+    ]
+  },
+  {
+    "id": "multiplication-tables-1-to-10-02",
+    "topic": "multiplication-tables-1-to-10",
+    "number": 2,
+    "level": "Starter",
+    "title": "Flower Garlands for Onam",
+    "intro": "Lakshmi and her aunt make flower garlands and a pookalam for Onam. Use the tables of 5 and 6.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Complete the table facts.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "5 × 3",
+            "a": "15"
+          },
+          {
+            "q": "5 × 8",
+            "a": "40"
+          },
+          {
+            "q": "6 × 2",
+            "a": "12"
+          },
+          {
+            "q": "6 × 7",
+            "a": "42"
+          },
+          {
+            "q": "5 × 9",
+            "a": "45"
+          },
+          {
+            "q": "6 × 9",
+            "a": "54"
+          },
+          {
+            "q": "6 × 6",
+            "a": "36"
+          },
+          {
+            "q": "5 × 10",
+            "a": "50"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "5 × 6 =",
+            "options": [
+              "30",
+              "35",
+              "11"
+            ],
+            "after": "",
+            "a": "30"
+          },
+          {
+            "before": "6 × 8 =",
+            "options": [
+              "42",
+              "48",
+              "54"
+            ],
+            "after": "",
+            "a": "48"
+          },
+          {
+            "before": "Answers in the table of 5 end in",
+            "options": [
+              "0 or 5",
+              "2 or 4"
+            ],
+            "after": ".",
+            "a": "0 or 5"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Which table is the answer in? Sort.",
+        "marks": 8,
+        "groups": [
+          "Table of 5",
+          "Table of 6"
+        ],
+        "words": [
+          "15",
+          "25",
+          "35",
+          "45",
+          "12",
+          "18",
+          "36",
+          "54"
+        ],
+        "a": {
+          "15": "Table of 5",
+          "25": "Table of 5",
+          "35": "Table of 5",
+          "45": "Table of 5",
+          "12": "Table of 6",
+          "18": "Table of 6",
+          "36": "Table of 6",
+          "54": "Table of 6"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "6 × 10 = 60",
+            "a": true
+          },
+          {
+            "q": "5 × 5 = 30",
+            "a": false
+          },
+          {
+            "q": "6 × 3 is the same as 3 × 6.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the Onam problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Each bunch has 5 jasmine flowers. 7 bunches have ___ flowers.",
+            "a": "35"
+          },
+          {
+            "q": "Each flower has 6 petals. 5 flowers have ___ petals.",
+            "a": "30"
+          },
+          {
+            "q": "The pookalam has 6 rings with 10 flowers in each ring. It has ___ flowers.",
+            "a": "60"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "multiplication-tables-1-to-10-03",
+    "topic": "multiplication-tables-1-to-10",
+    "number": 3,
+    "level": "Starter",
+    "title": "Cricket Practice in the Evening",
+    "intro": "Coach Vikram's team practises cricket every evening. Use the tables of 7 and 8.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Complete the table facts.",
+        "marks": 7,
+        "items": [
+          {
+            "q": "7 × 6",
+            "a": "42"
+          },
+          {
+            "q": "7 × 8",
+            "a": "56"
+          },
+          {
+            "q": "7 × 9",
+            "a": "63"
+          },
+          {
+            "q": "8 × 4",
+            "a": "32"
+          },
+          {
+            "q": "8 × 6",
+            "a": "48"
+          },
+          {
+            "q": "8 × 7",
+            "a": "56"
+          },
+          {
+            "q": "8 × 9",
+            "a": "72"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "7 × ___ = 35",
+            "a": "5"
+          },
+          {
+            "q": "8 × ___ = 80",
+            "a": "10"
+          },
+          {
+            "q": "___ × 7 = 14",
+            "a": "2"
+          },
+          {
+            "q": "8 × ___ = 32",
+            "a": "4"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each fact to its answer.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "7 × 4",
+            "right": "28"
+          },
+          {
+            "left": "8 × 5",
+            "right": "40"
+          },
+          {
+            "left": "7 × 7",
+            "right": "49"
+          },
+          {
+            "left": "8 × 8",
+            "right": "64"
+          },
+          {
+            "left": "7 × 10",
+            "right": "70"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "8 × 2 = 16",
+            "a": true
+          },
+          {
+            "q": "7 × 5 = 36",
+            "a": false
+          },
+          {
+            "q": "An over has 6 balls, so 7 overs have 42 balls.",
+            "a": true
+          },
+          {
+            "q": "8 × 1 = 9",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the cricket problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There are 8 boxes with 3 balls in each box. There are ___ balls.",
+            "a": "24"
+          },
+          {
+            "q": "The team runs 7 laps every day for 3 days. They run ___ laps.",
+            "a": "21"
+          },
+          {
+            "q": "Each of 8 players brings 2 water bottles. That is ___ bottles.",
+            "a": "16"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "multiplication-tables-1-to-10-04",
+    "topic": "multiplication-tables-1-to-10",
+    "number": 4,
+    "level": "Starter",
+    "title": "Spice Jars at the Souk",
+    "intro": "Uncle Hamid sells spices at the old souk in Deira. He packs them using the tables of 9 and 10.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Complete the table facts.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "9 × 2",
+            "a": "18"
+          },
+          {
+            "q": "9 × 4",
+            "a": "36"
+          },
+          {
+            "q": "9 × 6",
+            "a": "54"
+          },
+          {
+            "q": "9 × 8",
+            "a": "72"
+          },
+          {
+            "q": "10 × 3",
+            "a": "30"
+          },
+          {
+            "q": "10 × 5",
+            "a": "50"
+          },
+          {
+            "q": "10 × 9",
+            "a": "90"
+          },
+          {
+            "q": "10 × 7",
+            "a": "70"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Every answer in the table of 10 ends in 0.",
+            "a": true
+          },
+          {
+            "q": "9 × 7 = 56",
+            "a": false
+          },
+          {
+            "q": "9 × 5 = 45, and 4 + 5 = 9.",
+            "a": true
+          },
+          {
+            "q": "10 × 4 = 14",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the missing number.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "9 × ___ = 81",
+            "a": "9"
+          },
+          {
+            "q": "10 × ___ = 60",
+            "a": "6"
+          },
+          {
+            "q": "___ × 9 = 90",
+            "a": "10"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "9 × 10 =",
+            "options": [
+              "19",
+              "90",
+              "99"
+            ],
+            "after": "",
+            "a": "90"
+          },
+          {
+            "before": "10 × 2 =",
+            "options": [
+              "12",
+              "20",
+              "102"
+            ],
+            "after": "",
+            "a": "20"
+          },
+          {
+            "before": "9 × 1 =",
+            "options": [
+              "1",
+              "9",
+              "10"
+            ],
+            "after": "",
+            "a": "9"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the souk problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Each shelf holds 10 jars. 8 shelves hold ___ jars.",
+            "a": "80"
+          },
+          {
+            "q": "Each box has 9 packets of saffron. 3 boxes have ___ packets.",
+            "a": "27"
+          },
+          {
+            "q": "A bag holds 10 cinnamon sticks. 4 bags hold ___ sticks.",
+            "a": "40"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "multiplication-tables-1-to-10-05",
+    "topic": "multiplication-tables-1-to-10",
+    "number": 5,
+    "level": "Practice",
+    "title": "Games Night at Home",
+    "intro": "Ira's family plays a times-table game after dinner. Answer as fast as you can, like Ira!",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Multiply.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "6",
+            "op": "×",
+            "bottom": "7",
+            "a": "42"
+          },
+          {
+            "top": "9",
+            "op": "×",
+            "bottom": "6",
+            "a": "54"
+          },
+          {
+            "top": "4",
+            "op": "×",
+            "bottom": "8",
+            "a": "32"
+          },
+          {
+            "top": "7",
+            "op": "×",
+            "bottom": "5",
+            "a": "35"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "6 × ___ = 54",
+            "a": "9"
+          },
+          {
+            "q": "___ × 8 = 56",
+            "a": "7"
+          },
+          {
+            "q": "5 × ___ = 40",
+            "a": "8"
+          },
+          {
+            "q": "3 × ___ = 21",
+            "a": "7"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "6 × 4",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "3 × 8",
+            "a": "="
+          },
+          {
+            "before": "7 × 3",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "4 × 6",
+            "a": "<"
+          },
+          {
+            "before": "9 × 2",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "5 × 3",
+            "a": ">"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each fact to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "9 × 8",
+            "right": "72"
+          },
+          {
+            "left": "6 × 6",
+            "right": "36"
+          },
+          {
+            "left": "10 × 6",
+            "right": "60"
+          },
+          {
+            "left": "7 × 9",
+            "right": "63"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the game problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ira scores 5 points in each of 9 rounds. She scores ___ points.",
+            "a": "45"
+          },
+          {
+            "q": "There are 4 players with 7 cards each. There are ___ cards.",
+            "a": "28"
+          },
+          {
+            "q": "Grandpa rolls a 6 three times. He moves ___ squares.",
+            "a": "18"
+          }
+        ]
+      }
+    ]
+  }
+]

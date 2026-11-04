@@ -1,0 +1,584 @@
+[
+  {
+    "id": "birds-01",
+    "topic": "birds",
+    "number": 1,
+    "level": "Starter",
+    "title": "Feeding Pigeons at the Park",
+    "intro": "Aditi and her dad feed grains to pigeons at Cubbon Park. She looks closely at a pigeon.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the body part to what it does.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "beak",
+            "right": "picks up food"
+          },
+          {
+            "left": "wings",
+            "right": "help it fly"
+          },
+          {
+            "left": "tail",
+            "right": "helps it steer"
+          },
+          {
+            "left": "claws",
+            "right": "hold on to branches"
+          },
+          {
+            "left": "feathers",
+            "right": "keep it warm"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "All birds have feathers.",
+            "a": true
+          },
+          {
+            "q": "Birds have two legs.",
+            "a": true
+          },
+          {
+            "q": "A bird has four wings.",
+            "a": false
+          },
+          {
+            "q": "A bird has teeth to chew food.",
+            "a": false
+          },
+          {
+            "q": "A bird's body is light, which helps it fly.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write how many each pigeon has.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "legs",
+            "a": "2"
+          },
+          {
+            "q": "wings",
+            "a": "2"
+          },
+          {
+            "q": "beak",
+            "a": "1"
+          },
+          {
+            "q": "tail",
+            "a": "1"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A bird's body is covered with ___.",
+            "a": "feathers"
+          },
+          {
+            "q": "A pigeon flaps its ___ to fly.",
+            "a": "wings"
+          },
+          {
+            "q": "A bird eats with its ___.",
+            "a": "beak"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write the names of two birds you have seen.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any two birds, e.g. pigeon, crow, sparrow, parrot, myna."
+      }
+    ]
+  },
+  {
+    "id": "birds-02",
+    "topic": "birds",
+    "number": 2,
+    "level": "Starter",
+    "title": "The Nest on Our Window",
+    "intro": "A bulbul builds a nest on Sana's window in Chennai. Sana watches every day.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort: what can a bird use to make a nest?",
+        "marks": 6,
+        "groups": [
+          "Nest material",
+          "Not nest material"
+        ],
+        "words": [
+          "twigs",
+          "dry grass",
+          "mud",
+          "soft feathers",
+          "glass",
+          "stones"
+        ],
+        "a": {
+          "twigs": "Nest material",
+          "dry grass": "Nest material",
+          "mud": "Nest material",
+          "soft feathers": "Nest material",
+          "glass": "Not nest material",
+          "stones": "Not nest material"
+        }
+      },
+      {
+        "type": "rewrite",
+        "title": "Put the steps in order. Write 1, 2, 3, 4.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The chick hatches.  The bird lays eggs.  The bird builds a nest.  The bird sits on the eggs to keep them warm.",
+            "a": "3, 2, 1, 4 (builds a nest, lays eggs, sits on the eggs, the chick hatches)"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Birds lay eggs.",
+            "a": true
+          },
+          {
+            "q": "A mother bird sits on her eggs to keep them warm.",
+            "a": true
+          },
+          {
+            "q": "A baby bird is called a chick.",
+            "a": true
+          },
+          {
+            "q": "A nest is a bird's home for its eggs and chicks.",
+            "a": true
+          },
+          {
+            "q": "Chicks can fly as soon as they hatch.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A chick breaks out of its ___.",
+            "a": "egg"
+          },
+          {
+            "q": "The mother bird brings ___ for her chicks.",
+            "a": "food"
+          },
+          {
+            "q": "Sana does not touch the ___ so the birds stay safe.",
+            "a": "nest"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why should we not touch a bird's nest? Write one reason.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any one, e.g. the bird may get scared and leave, the eggs may break."
+      }
+    ]
+  },
+  {
+    "id": "birds-03",
+    "topic": "birds",
+    "number": 3,
+    "level": "Starter",
+    "title": "Birdwatching at Ras Al Khor",
+    "intro": "Lucas and Riya watch pink flamingos at the wildlife sanctuary in Dubai.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the bird to its beak.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "parrot",
+            "right": "strong hooked beak to crack nuts"
+          },
+          {
+            "left": "woodpecker",
+            "right": "sharp pointed beak to make holes in wood"
+          },
+          {
+            "left": "hummingbird",
+            "right": "long thin beak to suck nectar"
+          },
+          {
+            "left": "duck",
+            "right": "flat broad beak to find food in water"
+          },
+          {
+            "left": "kingfisher",
+            "right": "long pointed beak to catch fish"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the bird to its feet.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "duck",
+            "right": "webbed feet for swimming"
+          },
+          {
+            "left": "eagle",
+            "right": "sharp claws to catch prey"
+          },
+          {
+            "left": "hen",
+            "right": "strong feet to scratch the soil"
+          },
+          {
+            "left": "flamingo",
+            "right": "long thin legs to wade in water"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Different birds have different beaks for different food.",
+            "a": true
+          },
+          {
+            "q": "A duck has webbed feet.",
+            "a": true
+          },
+          {
+            "q": "Flamingos stand in shallow water.",
+            "a": true
+          },
+          {
+            "q": "All birds eat the same food.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A pelican keeps fish in the",
+            "options": [
+              "pouch",
+              "nest"
+            ],
+            "after": "under its beak.",
+            "a": "pouch"
+          },
+          {
+            "before": "An owl hunts at",
+            "options": [
+              "night",
+              "noon"
+            ],
+            "after": ".",
+            "a": "night"
+          },
+          {
+            "before": "Lucas uses",
+            "options": [
+              "binoculars",
+              "a spoon"
+            ],
+            "after": "to see birds far away.",
+            "a": "binoculars"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing you would see at a lake full of birds.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. ducks swimming, flamingos standing, a kingfisher diving."
+      }
+    ]
+  },
+  {
+    "id": "birds-04",
+    "topic": "birds",
+    "number": 4,
+    "level": "Starter",
+    "title": "The Ostrich Farm Visit",
+    "intro": "Arjun and Emma visit an ostrich farm. They learn that some birds cannot fly.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the birds.",
+        "marks": 6,
+        "groups": [
+          "Can fly",
+          "Cannot fly"
+        ],
+        "words": [
+          "sparrow",
+          "eagle",
+          "crow",
+          "ostrich",
+          "penguin",
+          "emu"
+        ],
+        "a": {
+          "sparrow": "Can fly",
+          "eagle": "Can fly",
+          "crow": "Can fly",
+          "ostrich": "Cannot fly",
+          "penguin": "Cannot fly",
+          "emu": "Cannot fly"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "The ostrich is the biggest bird.",
+            "a": true
+          },
+          {
+            "q": "An ostrich lays the biggest egg of all birds.",
+            "a": true
+          },
+          {
+            "q": "A penguin uses its wings to swim.",
+            "a": true
+          },
+          {
+            "q": "An ostrich can fly high in the sky.",
+            "a": false
+          },
+          {
+            "q": "An ostrich can run very fast.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A penguin lives in very",
+            "options": [
+              "cold",
+              "hot"
+            ],
+            "after": "places.",
+            "a": "cold"
+          },
+          {
+            "before": "An ostrich has",
+            "options": [
+              "long",
+              "short"
+            ],
+            "after": "legs.",
+            "a": "long"
+          },
+          {
+            "before": "All birds lay",
+            "options": [
+              "eggs",
+              "seeds"
+            ],
+            "after": ".",
+            "a": "eggs"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A hummingbird is one of the ___ birds in the world.",
+            "a": "smallest"
+          },
+          {
+            "q": "An ostrich egg is much bigger than a hen's ___.",
+            "a": "egg"
+          },
+          {
+            "q": "Birds that cannot fly still have ___ on their body.",
+            "a": "feathers"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing an ostrich can do that a sparrow cannot.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. run very fast, lay a huge egg, kick hard."
+      }
+    ]
+  },
+  {
+    "id": "birds-05",
+    "topic": "birds",
+    "number": 5,
+    "level": "Practice",
+    "title": "Monsoon Morning in Goa",
+    "intro": "It is raining. Leah and her grandfather sit on the verandah and watch the birds.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the bird to its nest.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "tailor bird",
+            "right": "stitches leaves together"
+          },
+          {
+            "left": "weaver bird",
+            "right": "weaves a hanging nest of grass"
+          },
+          {
+            "left": "woodpecker",
+            "right": "makes a hole in a tree trunk"
+          },
+          {
+            "left": "swallow",
+            "right": "builds a cup of mud under a roof"
+          },
+          {
+            "left": "koel",
+            "right": "lays eggs in a crow's nest"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The peacock is the national bird of India.",
+            "a": true
+          },
+          {
+            "q": "A peacock dances when it spreads its tail feathers.",
+            "a": true
+          },
+          {
+            "q": "A bird uses its tail to steer when it flies.",
+            "a": true
+          },
+          {
+            "q": "Birds do not need water.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A baby bird is called a",
+            "options": [
+              "chick",
+              "calf"
+            ],
+            "after": ".",
+            "a": "chick"
+          },
+          {
+            "before": "A bird's home is a",
+            "options": [
+              "nest",
+              "burrow"
+            ],
+            "after": ".",
+            "a": "nest"
+          },
+          {
+            "before": "A parrot is",
+            "options": [
+              "green",
+              "black"
+            ],
+            "after": "in colour.",
+            "a": "green"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the bird's young one or its home.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "young of a duck",
+            "a": "duckling"
+          },
+          {
+            "q": "young of a hen",
+            "a": "chick"
+          },
+          {
+            "q": "home of a bird",
+            "a": "nest"
+          },
+          {
+            "q": "home of a hen",
+            "a": "coop"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "In hot weather, how can you help birds? Write two ways.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Any two, e.g. keep a bowl of water out, put grains out, plant trees, never disturb nests."
+      }
+    ]
+  }
+]

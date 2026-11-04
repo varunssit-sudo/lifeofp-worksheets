@@ -1,0 +1,620 @@
+[
+  {
+    "id": "word-problems-01",
+    "topic": "word-problems",
+    "number": 1,
+    "level": "Starter",
+    "title": "The Vegetable Market in Pune",
+    "intro": "Amma and Shalini shop at the vegetable market. Add to find the totals.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Add to solve.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Amma buys 25 tomatoes and 18 onions. She buys ___ vegetables in all.",
+            "a": "43"
+          },
+          {
+            "q": "A basket has 36 potatoes. The seller adds 27 more. Now it has ___ potatoes.",
+            "a": "63"
+          },
+          {
+            "q": "Carrots cost ₹45 and beans cost ₹38. Together they cost ₹___.",
+            "a": "83"
+          },
+          {
+            "q": "Shalini shells 120 peas, then 75 more. She shells ___ peas in all.",
+            "a": "195"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "247",
+            "op": "+",
+            "bottom": "135",
+            "a": "382"
+          },
+          {
+            "top": "58",
+            "op": "+",
+            "bottom": "34",
+            "a": "92"
+          },
+          {
+            "top": "316",
+            "op": "+",
+            "bottom": "209",
+            "a": "525"
+          },
+          {
+            "top": "469",
+            "op": "+",
+            "bottom": "28",
+            "a": "497"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "'In all' tells us to add.",
+            "a": true
+          },
+          {
+            "q": "'How many are left' tells us to add.",
+            "a": false
+          },
+          {
+            "q": "'Altogether' tells us to add.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the problem to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "15 apples and 12 apples",
+            "right": "27"
+          },
+          {
+            "left": "40 peas and 30 peas",
+            "right": "70"
+          },
+          {
+            "left": "26 chillies and 26 chillies",
+            "right": "52"
+          },
+          {
+            "left": "19 lemons and 11 lemons",
+            "right": "30"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the number sentence and the answer.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "A seller has 64 mangoes. He gets 29 more. How many mangoes does he have now?",
+            "a": "64 + 29 = 93 mangoes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word-problems-02",
+    "topic": "word-problems",
+    "number": 2,
+    "level": "Starter",
+    "title": "The Holi Colour Stall",
+    "intro": "Neha helps at a Holi colour stall. Subtract to find what is left.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Subtract to solve.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The stall had 85 packets of pink colour. 37 were sold. ___ packets are left.",
+            "a": "48"
+          },
+          {
+            "q": "Neha had ₹100. She spent ₹64 on a pichkari. She has ₹___ left.",
+            "a": "36"
+          },
+          {
+            "q": "There were 72 water balloons. 45 burst. ___ balloons did not burst.",
+            "a": "27"
+          },
+          {
+            "q": "There are 250 yellow packets and 130 green packets. There are ___ more yellow packets.",
+            "a": "120"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Subtract.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "93",
+            "op": "-",
+            "bottom": "58",
+            "a": "35"
+          },
+          {
+            "top": "382",
+            "op": "-",
+            "bottom": "147",
+            "a": "235"
+          },
+          {
+            "top": "70",
+            "op": "-",
+            "bottom": "26",
+            "a": "44"
+          },
+          {
+            "top": "516",
+            "op": "-",
+            "bottom": "238",
+            "a": "278"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right number sentence.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Ravi has 50 packets. He gives away 20. How many are left?",
+            "options": [
+              "50 − 20",
+              "50 + 20"
+            ],
+            "after": "",
+            "a": "50 − 20"
+          },
+          {
+            "before": "Meera has 34 balloons. She buys 10 more. How many now?",
+            "options": [
+              "34 + 10",
+              "34 − 10"
+            ],
+            "after": "",
+            "a": "34 + 10"
+          },
+          {
+            "before": "61 children came. 17 went home. How many stayed?",
+            "options": [
+              "61 + 17",
+              "61 − 17"
+            ],
+            "after": "",
+            "a": "61 − 17"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "90 − 45 = 45",
+            "a": true
+          },
+          {
+            "q": "63 − 28 = 45",
+            "a": false
+          },
+          {
+            "q": "100 − 1 = 99",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the number sentence and the answer.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Jai had 120 water balloons. He threw 85. How many are left?",
+            "a": "120 − 85 = 35 water balloons"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word-problems-03",
+    "topic": "word-problems",
+    "number": 3,
+    "level": "Starter",
+    "title": "Laddoo Boxes for Raksha Bandhan",
+    "intro": "Didi is getting ready for Raksha Bandhan. Multiply to count the sweets and rakhis.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Multiply to solve.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "There are 4 boxes. Each box has 6 laddoos. There are ___ laddoos.",
+            "a": "24"
+          },
+          {
+            "q": "Didi has 3 rakhis. Each rakhi has 5 beads. There are ___ beads.",
+            "a": "15"
+          },
+          {
+            "q": "Each plate has 8 barfis. 5 plates have ___ barfis.",
+            "a": "40"
+          },
+          {
+            "q": "A pack has 10 rakhis. Mama buys 7 packs. That is ___ rakhis.",
+            "a": "70"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the answer.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "2 × 9",
+            "a": "18"
+          },
+          {
+            "q": "3 × 7",
+            "a": "21"
+          },
+          {
+            "q": "4 × 5",
+            "a": "20"
+          },
+          {
+            "q": "5 × 6",
+            "a": "30"
+          },
+          {
+            "q": "6 × 3",
+            "a": "18"
+          },
+          {
+            "q": "10 × 4",
+            "a": "40"
+          },
+          {
+            "q": "2 × 8",
+            "a": "16"
+          },
+          {
+            "q": "3 × 9",
+            "a": "27"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the groups to the adding sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "3 groups of 4",
+            "right": "4 + 4 + 4"
+          },
+          {
+            "left": "4 groups of 3",
+            "right": "3 + 3 + 3 + 3"
+          },
+          {
+            "left": "2 groups of 6",
+            "right": "6 + 6"
+          },
+          {
+            "left": "5 groups of 2",
+            "right": "2 + 2 + 2 + 2 + 2"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "'Each' and 'groups of' often mean we multiply.",
+            "a": true
+          },
+          {
+            "q": "6 × 2 is the same as 6 + 2.",
+            "a": false
+          },
+          {
+            "q": "3 × 5 is the same as 5 × 3.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the number sentence and the answer.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Each tray has 9 laddoos. How many laddoos are on 4 trays?",
+            "a": "4 × 9 = 36 laddoos"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word-problems-04",
+    "topic": "word-problems",
+    "number": 4,
+    "level": "Starter",
+    "title": "The Desert Camp Trip",
+    "intro": "Class 2 goes to a desert camp near Al Ain. Decide whether to add, subtract or multiply.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle add, subtract or multiply.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "5 tents have 4 children each. How many children?",
+            "options": [
+              "add",
+              "subtract",
+              "multiply"
+            ],
+            "after": "",
+            "a": "multiply"
+          },
+          {
+            "before": "The camp had 48 water bottles. 19 were used. How many are left?",
+            "options": [
+              "add",
+              "subtract",
+              "multiply"
+            ],
+            "after": "",
+            "a": "subtract"
+          },
+          {
+            "before": "There were 36 camel rides in the morning and 25 in the evening. How many in all?",
+            "options": [
+              "add",
+              "subtract",
+              "multiply"
+            ],
+            "after": "",
+            "a": "add"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Now solve the camp problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "5 tents with 4 children each: ___ children.",
+            "a": "20"
+          },
+          {
+            "q": "48 bottles take away 19: ___ bottles are left.",
+            "a": "29"
+          },
+          {
+            "q": "36 rides and 25 rides: ___ rides in all.",
+            "a": "61"
+          },
+          {
+            "q": "Each jeep carries 6 people. 3 jeeps carry ___ people.",
+            "a": "18"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Work out each sum.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "156",
+            "op": "+",
+            "bottom": "87",
+            "a": "243"
+          },
+          {
+            "top": "300",
+            "op": "-",
+            "bottom": "128",
+            "a": "172"
+          },
+          {
+            "top": "23",
+            "op": "×",
+            "bottom": "3",
+            "a": "69"
+          },
+          {
+            "top": "12",
+            "op": "×",
+            "bottom": "4",
+            "a": "48"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "'Left' often means we subtract.",
+            "a": true
+          },
+          {
+            "q": "'Each' can mean we multiply.",
+            "a": true
+          },
+          {
+            "q": "To find 'how many in all', we subtract.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the number sentence and the answer.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Aisha finds 27 shells. Omar finds 16 more than Aisha. How many shells does Omar find?",
+            "a": "27 + 16 = 43 shells"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word-problems-05",
+    "topic": "word-problems",
+    "number": 5,
+    "level": "Practice",
+    "title": "Cricket Camp in the Holidays",
+    "intro": "Kunal and his friends join a cricket camp in the summer holidays. Some problems need two steps.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve. Some need two steps.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The coach has 6 boxes of 5 balls. He loses 4 balls. He has ___ balls now.",
+            "a": "26"
+          },
+          {
+            "q": "Kunal scores 34 runs and then 28 runs. Sam scores 50 runs. Kunal scores ___ more than Sam.",
+            "a": "12"
+          },
+          {
+            "q": "A cap costs ₹85 and a bat grip costs ₹47. Arya pays ₹150. She gets ₹___ back.",
+            "a": "18"
+          },
+          {
+            "q": "There are 3 teams of 11 players. 8 more players join. Now there are ___ players.",
+            "a": "41"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Work out each sum.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "465",
+            "op": "+",
+            "bottom": "278",
+            "a": "743"
+          },
+          {
+            "top": "702",
+            "op": "-",
+            "bottom": "356",
+            "a": "346"
+          },
+          {
+            "top": "34",
+            "op": "×",
+            "bottom": "2",
+            "a": "68"
+          },
+          {
+            "top": "15",
+            "op": "×",
+            "bottom": "3",
+            "a": "45"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the problem to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "4 bats at ₹100 each",
+            "right": "₹400"
+          },
+          {
+            "left": "₹500 take away ₹275",
+            "right": "₹225"
+          },
+          {
+            "left": "120 runs and 95 runs",
+            "right": "215 runs"
+          },
+          {
+            "left": "7 overs of 6 balls",
+            "right": "42 balls"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A two-step problem needs two sums.",
+            "a": true
+          },
+          {
+            "q": "9 × 4 = 36",
+            "a": true
+          },
+          {
+            "q": "250 − 175 = 85",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the number sentences and the answer.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Each of 9 children needs 2 cones. The coach has 25 cones. How many cones are left over?",
+            "a": "9 × 2 = 18, then 25 − 18 = 7 cones left over"
+          }
+        ]
+      }
+    ]
+  }
+]

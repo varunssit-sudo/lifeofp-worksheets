@@ -1,0 +1,657 @@
+[
+  {
+    "id": "punctuation-01",
+    "topic": "punctuation",
+    "number": 1,
+    "level": "Starter",
+    "title": "Breakfast at Home",
+    "intro": "Every sentence ends with a mark. Help Tanvi finish her breakfast sentences.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the right mark for the end.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "Tanvi eats idli for breakfast",
+            "options": [
+              ".",
+              "?"
+            ],
+            "after": "",
+            "a": "."
+          },
+          {
+            "before": "Do you want more chutney",
+            "options": [
+              ".",
+              "?"
+            ],
+            "after": "",
+            "a": "?"
+          },
+          {
+            "before": "Papa drinks hot coffee",
+            "options": [
+              ".",
+              "?"
+            ],
+            "after": "",
+            "a": "."
+          },
+          {
+            "before": "Where is my spoon",
+            "options": [
+              ".",
+              "?"
+            ],
+            "after": "",
+            "a": "?"
+          },
+          {
+            "before": "Can I have some juice",
+            "options": [
+              ".",
+              "?"
+            ],
+            "after": "",
+            "a": "?"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Every sentence starts with a capital letter.",
+            "a": true
+          },
+          {
+            "q": "A question ends with a full stop.",
+            "a": false
+          },
+          {
+            "q": "'What is your name' needs a question mark at the end.",
+            "a": true
+          },
+          {
+            "q": "The word 'I' is always a capital letter.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Is it a telling sentence or an asking sentence?",
+        "marks": 6,
+        "groups": [
+          "Telling",
+          "Asking"
+        ],
+        "words": [
+          "My sister likes upma",
+          "Who made the tea",
+          "The toast is ready",
+          "Are the eggs boiled",
+          "Mama cuts the mango",
+          "Why is the bread burnt"
+        ],
+        "a": {
+          "My sister likes upma": "Telling",
+          "Who made the tea": "Asking",
+          "The toast is ready": "Telling",
+          "Are the eggs boiled": "Asking",
+          "Mama cuts the mango": "Telling",
+          "Why is the bread burnt": "Asking"
+        }
+      },
+      {
+        "type": "rewrite",
+        "title": "Write it correctly with a capital letter and an end mark.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "tanvi likes poha",
+            "a": "Tanvi likes poha."
+          },
+          {
+            "q": "is the porridge hot",
+            "a": "Is the porridge hot?"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one question you ask at breakfast.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. It starts with a capital letter and ends with a question mark."
+      }
+    ]
+  },
+  {
+    "id": "punctuation-02",
+    "topic": "punctuation",
+    "number": 2,
+    "level": "Starter",
+    "title": "A Visit to the Zoo",
+    "intro": "Class 2 went to the zoo on a school trip. Help fix their sentences.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Put a full stop or a question mark in the blank.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "The giraffe has a long neck___",
+            "a": "."
+          },
+          {
+            "q": "Can lions climb trees___",
+            "a": "?"
+          },
+          {
+            "q": "What do zebras eat___",
+            "a": "?"
+          },
+          {
+            "q": "The monkeys swung on the ropes___",
+            "a": "."
+          },
+          {
+            "q": "How tall is the elephant___",
+            "a": "?"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write each word with a capital letter.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "aisha",
+            "a": "Aisha"
+          },
+          {
+            "q": "dubai",
+            "a": "Dubai"
+          },
+          {
+            "q": "india",
+            "a": "India"
+          },
+          {
+            "q": "friday",
+            "a": "Friday"
+          },
+          {
+            "q": "max",
+            "a": "Max"
+          },
+          {
+            "q": "january",
+            "a": "January"
+          },
+          {
+            "q": "al ain",
+            "a": "Al Ain"
+          },
+          {
+            "q": "i",
+            "a": "I"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right mark for the end.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Wow, look at that big tiger",
+            "options": [
+              "!",
+              "?"
+            ],
+            "after": "",
+            "a": "!"
+          },
+          {
+            "before": "Ouch, the parrot bit my finger",
+            "options": [
+              "!",
+              "?"
+            ],
+            "after": "",
+            "a": "!"
+          },
+          {
+            "before": "Is the snake asleep",
+            "options": [
+              "!",
+              "?"
+            ],
+            "after": "",
+            "a": "?"
+          },
+          {
+            "before": "Help, the goat is eating my hat",
+            "options": [
+              "!",
+              "?"
+            ],
+            "after": "",
+            "a": "!"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write it correctly with a capital letter and an end mark.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "where is the penguin",
+            "a": "Where is the penguin?"
+          },
+          {
+            "q": "riya saw a rhino",
+            "a": "Riya saw a rhino."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one question about an animal you like.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. It starts with a capital letter and ends with a question mark."
+      }
+    ]
+  },
+  {
+    "id": "punctuation-03",
+    "topic": "punctuation",
+    "number": 3,
+    "level": "Starter",
+    "title": "Neil's Birthday Party",
+    "intro": "It is Neil's eighth birthday. Use the right marks in his party sentences.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "We put a comma between things in a list.",
+            "a": true
+          },
+          {
+            "q": "An exclamation mark shows a strong feeling.",
+            "a": true
+          },
+          {
+            "q": "A full stop goes at the start of a sentence.",
+            "a": false
+          },
+          {
+            "q": "We use a question mark at the end of a telling sentence.",
+            "a": false
+          },
+          {
+            "q": "A name always starts with a capital letter.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a comma, a full stop or a question mark.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We had cake___ chips and juice.",
+            "a": ","
+          },
+          {
+            "q": "Neil got a ball___ a book and a kite.",
+            "a": ","
+          },
+          {
+            "q": "How old is Neil___",
+            "a": "?"
+          },
+          {
+            "q": "The candles were blue___",
+            "a": "."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right mark for the end.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Surprise",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "!"
+          },
+          {
+            "before": "Did you bring a gift",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "?"
+          },
+          {
+            "before": "We played musical chairs",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "."
+          },
+          {
+            "before": "Hooray, the cake is here",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "!"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write it again. Put in the missing commas.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We wore hats masks and badges.",
+            "a": "We wore hats, masks and badges."
+          },
+          {
+            "q": "Neil invited Sara Ali and Ben.",
+            "a": "Neil invited Sara, Ali and Ben."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write three things you want at your party. Use commas.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. I want balloons, cake and games. Commas between the first items, and before the last."
+      }
+    ]
+  },
+  {
+    "id": "punctuation-04",
+    "topic": "punctuation",
+    "number": 4,
+    "level": "Starter",
+    "title": "Holi in the Colony",
+    "intro": "Meera and her friends play Holi in their colony in Jaipur.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Which mark goes at the end?",
+        "marks": 6,
+        "groups": [
+          "Full stop",
+          "Question mark",
+          "Exclamation mark"
+        ],
+        "words": [
+          "Who threw the blue colour",
+          "Wow, what a mess",
+          "We filled the water balloons",
+          "Where is my pichkari",
+          "Oh no, my shirt is pink",
+          "Grandpa watched from the balcony"
+        ],
+        "a": {
+          "Who threw the blue colour": "Question mark",
+          "Wow, what a mess": "Exclamation mark",
+          "We filled the water balloons": "Full stop",
+          "Where is my pichkari": "Question mark",
+          "Oh no, my shirt is pink": "Exclamation mark",
+          "Grandpa watched from the balcony": "Full stop"
+        }
+      },
+      {
+        "type": "pairs",
+        "title": "Write each word with a capital letter.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "holi",
+            "a": "Holi"
+          },
+          {
+            "q": "jaipur",
+            "a": "Jaipur"
+          },
+          {
+            "q": "meera",
+            "a": "Meera"
+          },
+          {
+            "q": "march",
+            "a": "March"
+          },
+          {
+            "q": "sunday",
+            "a": "Sunday"
+          },
+          {
+            "q": "rajasthan",
+            "a": "Rajasthan"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the missing mark.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Have you seen my red colour___",
+            "a": "?"
+          },
+          {
+            "q": "We bought red___ green and yellow colours.",
+            "a": ","
+          },
+          {
+            "q": "Stop, the water is so cold___",
+            "a": "!"
+          },
+          {
+            "q": "The gujiyas are on the table___",
+            "a": "."
+          },
+          {
+            "q": "Can I play too___",
+            "a": "?"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "'what a lovely day' needs a capital W.",
+            "a": true
+          },
+          {
+            "q": "A question mark goes at the end of 'Where is Meera'.",
+            "a": true
+          },
+          {
+            "q": "Days of the week start with small letters.",
+            "a": false
+          },
+          {
+            "q": "We put a full stop at the end of a telling sentence.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write it again with capital letters and an end mark.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "meera and kabir played holi in jaipur",
+            "a": "Meera and Kabir played Holi in Jaipur."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "punctuation-05",
+    "topic": "punctuation",
+    "number": 5,
+    "level": "Practice",
+    "title": "A Letter from Summer Camp",
+    "intro": "Daniel is at summer camp in Ooty. Help him fix the sentences in his letter home.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Write it again with capital letters, commas and an end mark.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "we went hiking on monday",
+            "a": "We went hiking on Monday."
+          },
+          {
+            "q": "i saw deer rabbits and peacocks",
+            "a": "I saw deer, rabbits and peacocks."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right mark for the end.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "What a big waterfall",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "!"
+          },
+          {
+            "before": "The food here is tasty",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "."
+          },
+          {
+            "before": "When will you visit me",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "?"
+          },
+          {
+            "before": "Yay, I won the race",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "!"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the word in brackets with a capital letter.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "My friend ___ (sam) sleeps in the next bed.",
+            "a": "Sam"
+          },
+          {
+            "q": "We will go to ___ (mysore) next week.",
+            "a": "Mysore"
+          },
+          {
+            "q": "Camp ends in ___ (june).",
+            "a": "June"
+          },
+          {
+            "q": "On ___ (saturday) we had a campfire.",
+            "a": "Saturday"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In a list, we put 'and' before the last thing.",
+            "a": true
+          },
+          {
+            "q": "'Who is your teacher.' has the right end mark.",
+            "a": false
+          },
+          {
+            "q": "Names of places start with capital letters.",
+            "a": true
+          },
+          {
+            "q": "An exclamation mark can show excitement.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write to a friend about a trip: one telling sentence and one question.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. One sentence ends with a full stop, one with a question mark; both start with capitals."
+      }
+    ]
+  }
+]

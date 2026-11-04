@@ -1,0 +1,711 @@
+[
+  {
+    "id": "measurement-01",
+    "topic": "measurement",
+    "number": 1,
+    "level": "Starter",
+    "title": "Measuring Our Classroom",
+    "intro": "Class 2 measures things in their classroom with a ruler and a metre tape. Small things are measured in cm, big things in m.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Would you measure it in cm or m?",
+        "marks": 8,
+        "groups": [
+          "cm",
+          "m"
+        ],
+        "words": [
+          "a pencil",
+          "the classroom wall",
+          "an eraser",
+          "the school corridor",
+          "a crayon",
+          "a cricket pitch",
+          "a bookmark",
+          "the playground"
+        ],
+        "a": {
+          "a pencil": "cm",
+          "the classroom wall": "m",
+          "an eraser": "cm",
+          "the school corridor": "m",
+          "a crayon": "cm",
+          "a cricket pitch": "m",
+          "a bookmark": "cm",
+          "the playground": "m"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right unit.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A notebook is about 25",
+            "options": [
+              "cm",
+              "m"
+            ],
+            "after": "long.",
+            "a": "cm"
+          },
+          {
+            "before": "The classroom door is about 2",
+            "options": [
+              "cm",
+              "m"
+            ],
+            "after": "tall.",
+            "a": "m"
+          },
+          {
+            "before": "A chalk stick is about 8",
+            "options": [
+              "cm",
+              "m"
+            ],
+            "after": "long.",
+            "a": "cm"
+          },
+          {
+            "before": "A school bus is about 12",
+            "options": [
+              "cm",
+              "m"
+            ],
+            "after": "long.",
+            "a": "m"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add the lengths in cm.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "23",
+            "op": "+",
+            "bottom": "14",
+            "a": "37"
+          },
+          {
+            "top": "36",
+            "op": "+",
+            "bottom": "25",
+            "a": "61"
+          },
+          {
+            "top": "48",
+            "op": "+",
+            "bottom": "31",
+            "a": "79"
+          },
+          {
+            "top": "57",
+            "op": "+",
+            "bottom": "19",
+            "a": "76"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the classroom problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Sana's pencil is 15 cm long. Her crayon is 8 cm long. The pencil is ___ cm longer.",
+            "a": "7"
+          },
+          {
+            "q": "The teacher's table is 120 cm long. The bench is 95 cm long. Together they are ___ cm.",
+            "a": "215"
+          },
+          {
+            "q": "A ribbon was 60 cm long. Ms Khan cut off 25 cm. ___ cm is left.",
+            "a": "35"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name one thing in your classroom that is longer than 1 metre.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any sensible answer, e.g. the board, a wall, the door, a long table."
+      }
+    ]
+  },
+  {
+    "id": "measurement-02",
+    "topic": "measurement",
+    "number": 2,
+    "level": "Starter",
+    "title": "Shopping at the Hypermarket",
+    "intro": "Dev and his mother go shopping. They check how heavy each item is. Light things are weighed in g, heavy things in kg.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Would you weigh it in g or kg?",
+        "marks": 6,
+        "groups": [
+          "g",
+          "kg"
+        ],
+        "words": [
+          "a big sack of rice",
+          "a lemon",
+          "a watermelon",
+          "a packet of biscuits",
+          "a sack of potatoes",
+          "a chocolate bar"
+        ],
+        "a": {
+          "a big sack of rice": "kg",
+          "a lemon": "g",
+          "a watermelon": "kg",
+          "a packet of biscuits": "g",
+          "a sack of potatoes": "kg",
+          "a chocolate bar": "g"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A watermelon is",
+            "options": [
+              "heavier",
+              "lighter"
+            ],
+            "after": "than a grape.",
+            "a": "heavier"
+          },
+          {
+            "before": "A feather is",
+            "options": [
+              "heavier",
+              "lighter"
+            ],
+            "after": "than a brick.",
+            "a": "lighter"
+          },
+          {
+            "before": "1 kg of cotton weighs",
+            "options": [
+              "more than",
+              "the same as",
+              "less than"
+            ],
+            "after": "1 kg of iron.",
+            "a": "the same as"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add the weights in grams.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "26",
+            "op": "+",
+            "bottom": "17",
+            "a": "43"
+          },
+          {
+            "top": "45",
+            "op": "+",
+            "bottom": "38",
+            "a": "83"
+          },
+          {
+            "top": "130",
+            "op": "+",
+            "bottom": "45",
+            "a": "175"
+          },
+          {
+            "top": "250",
+            "op": "+",
+            "bottom": "125",
+            "a": "375"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "1 kg is the same as 1000 g.",
+            "a": true
+          },
+          {
+            "q": "We use a weighing balance to find how heavy something is.",
+            "a": true
+          },
+          {
+            "q": "A pencil weighs about 5 kg.",
+            "a": false
+          },
+          {
+            "q": "Half a kilogram is 500 g.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the shopping problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Mum buys 2 kg of onions and 3 kg of tomatoes. That is ___ kg in all.",
+            "a": "5"
+          },
+          {
+            "q": "A bag of flour weighs 10 kg. They use 4 kg. ___ kg is left.",
+            "a": "6"
+          },
+          {
+            "q": "Dev puts 3 bags of sugar in the trolley. Each bag is 1 kg. That is ___ kg.",
+            "a": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "measurement-03",
+    "topic": "measurement",
+    "number": 3,
+    "level": "Starter",
+    "title": "Lemonade Stand on a Hot Day",
+    "intro": "Mira and Yusuf run a lemonade stand in their building. They measure liquids in litres (L) and millilitres (mL).",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Would you measure it in mL or L?",
+        "marks": 6,
+        "groups": [
+          "mL",
+          "L"
+        ],
+        "words": [
+          "a spoon of honey",
+          "a water tank",
+          "a glass of lemonade",
+          "a bucket of water",
+          "a small juice box",
+          "a swimming pool"
+        ],
+        "a": {
+          "a spoon of honey": "mL",
+          "a water tank": "L",
+          "a glass of lemonade": "mL",
+          "a bucket of water": "L",
+          "a small juice box": "mL",
+          "a swimming pool": "L"
+        }
+      },
+      {
+        "type": "match",
+        "title": "Match the amounts that are the same.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "500 mL + 500 mL",
+            "right": "1 L"
+          },
+          {
+            "left": "250 mL + 250 mL",
+            "right": "500 mL"
+          },
+          {
+            "left": "1 L + 1 L",
+            "right": "2 L"
+          },
+          {
+            "left": "100 mL + 100 mL + 100 mL",
+            "right": "300 mL"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add the millilitres.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "125",
+            "op": "+",
+            "bottom": "250",
+            "a": "375"
+          },
+          {
+            "top": "450",
+            "op": "+",
+            "bottom": "325",
+            "a": "775"
+          },
+          {
+            "top": "380",
+            "op": "+",
+            "bottom": "215",
+            "a": "595"
+          },
+          {
+            "top": "505",
+            "op": "+",
+            "bottom": "290",
+            "a": "795"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the lemonade problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The jug has 2 L of lemonade. They sell 1 L. ___ L is left.",
+            "a": "1"
+          },
+          {
+            "q": "Each glass holds 200 mL. Two glasses hold ___ mL.",
+            "a": "400"
+          },
+          {
+            "q": "Mira pours 300 mL of water and 150 mL of lemon juice into a jug. There is ___ mL in the jug.",
+            "a": "450"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A bucket holds",
+            "options": [
+              "more",
+              "less"
+            ],
+            "after": "water than a cup.",
+            "a": "more"
+          },
+          {
+            "before": "1 L is the same as",
+            "options": [
+              "100 mL",
+              "1000 mL"
+            ],
+            "after": ".",
+            "a": "1000 mL"
+          },
+          {
+            "before": "A teaspoon holds about 5",
+            "options": [
+              "mL",
+              "L"
+            ],
+            "after": "of syrup.",
+            "a": "mL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "measurement-04",
+    "topic": "measurement",
+    "number": 4,
+    "level": "Starter",
+    "title": "Sports Day at School",
+    "intro": "On Sports Day, Arjun and Hana measure the running track and the long jump. Remember: 1 m = 100 cm.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write in cm.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "1 m",
+            "a": "100 cm"
+          },
+          {
+            "q": "2 m",
+            "a": "200 cm"
+          },
+          {
+            "q": "5 m",
+            "a": "500 cm"
+          },
+          {
+            "q": "3 m",
+            "a": "300 cm"
+          },
+          {
+            "q": "1 m 20 cm",
+            "a": "120 cm"
+          },
+          {
+            "q": "2 m 50 cm",
+            "a": "250 cm"
+          },
+          {
+            "q": "4 m 5 cm",
+            "a": "405 cm"
+          },
+          {
+            "q": "6 m 75 cm",
+            "a": "675 cm"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "1 m = 100 cm.",
+            "a": true
+          },
+          {
+            "q": "A 50 m race is longer than a 100 m race.",
+            "a": false
+          },
+          {
+            "q": "A metre tape is good for measuring the long jump.",
+            "a": true
+          },
+          {
+            "q": "Hana jumped 2 m. That is the same as 20 cm.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the longer length.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "150 cm",
+              "1 m"
+            ],
+            "after": "is longer.",
+            "a": "150 cm"
+          },
+          {
+            "before": "",
+            "options": [
+              "2 m",
+              "180 cm"
+            ],
+            "after": "is longer.",
+            "a": "2 m"
+          },
+          {
+            "before": "",
+            "options": [
+              "99 cm",
+              "1 m"
+            ],
+            "after": "is longer.",
+            "a": "1 m"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Subtract the lengths in cm.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "100",
+            "op": "-",
+            "bottom": "45",
+            "a": "55"
+          },
+          {
+            "top": "85",
+            "op": "-",
+            "bottom": "38",
+            "a": "47"
+          },
+          {
+            "top": "150",
+            "op": "-",
+            "bottom": "76",
+            "a": "74"
+          },
+          {
+            "top": "200",
+            "op": "-",
+            "bottom": "125",
+            "a": "75"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the Sports Day problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Arjun ran 50 m and then 30 m more. He ran ___ m in all.",
+            "a": "80"
+          },
+          {
+            "q": "Hana jumped 185 cm. Leela jumped 160 cm. Hana jumped ___ cm further.",
+            "a": "25"
+          },
+          {
+            "q": "The finish ribbon is 4 m long. That is ___ cm.",
+            "a": "400"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "measurement-05",
+    "topic": "measurement",
+    "number": 5,
+    "level": "Practice",
+    "title": "Packing for a Trip to Kerala",
+    "intro": "Tanvi's family is packing for a train trip to Kerala. They measure, weigh and fill things before they leave.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each thing to the best unit.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "the length of a suitcase",
+            "right": "cm"
+          },
+          {
+            "left": "the weight of a suitcase",
+            "right": "kg"
+          },
+          {
+            "left": "the water in a bottle",
+            "right": "mL"
+          },
+          {
+            "left": "the water in a big cooler",
+            "right": "L"
+          },
+          {
+            "left": "the weight of a small packet of tea",
+            "right": "g"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Change the units.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "2 kg",
+            "a": "2000 g"
+          },
+          {
+            "q": "3 L",
+            "a": "3000 mL"
+          },
+          {
+            "q": "1 kg 500 g",
+            "a": "1500 g"
+          },
+          {
+            "q": "7 m",
+            "a": "700 cm"
+          },
+          {
+            "q": "2 L 250 mL",
+            "a": "2250 mL"
+          },
+          {
+            "q": "1 m 60 cm",
+            "a": "160 cm"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Subtract the grams.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "820",
+            "op": "-",
+            "bottom": "365",
+            "a": "455"
+          },
+          {
+            "top": "700",
+            "op": "-",
+            "bottom": "245",
+            "a": "455"
+          },
+          {
+            "top": "615",
+            "op": "-",
+            "bottom": "180",
+            "a": "435"
+          },
+          {
+            "top": "900",
+            "op": "-",
+            "bottom": "555",
+            "a": "345"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the packing problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The suitcase weighs 18 kg and the bag weighs 7 kg. Together they weigh ___ kg.",
+            "a": "25"
+          },
+          {
+            "q": "Tanvi's bottle holds 750 mL. She drinks 300 mL. ___ mL is left.",
+            "a": "450"
+          },
+          {
+            "q": "Mama's scarf is 120 cm long. Tanvi's scarf is 85 cm long. Mama's scarf is ___ cm longer.",
+            "a": "35"
+          },
+          {
+            "q": "A 2 L bottle and a 1 L bottle hold ___ mL in all.",
+            "a": "3000"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing you would weigh in kg and one thing you would measure in L.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any sensible pair, e.g. a suitcase (kg) and a water cooler (L)."
+      }
+    ]
+  }
+]

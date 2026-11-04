@@ -1,0 +1,670 @@
+[
+  {
+    "id": "multiplication-01",
+    "topic": "multiplication",
+    "number": 1,
+    "level": "Starter",
+    "title": "Eggs in the Kitchen",
+    "intro": "Ammi is baking cakes for Eid. She keeps the eggs and treats in equal groups.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Count the equal groups.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3 boxes with 4 eggs in each box = ___ eggs",
+            "a": "12"
+          },
+          {
+            "q": "5 bowls with 2 eggs in each bowl = ___ eggs",
+            "a": "10"
+          },
+          {
+            "q": "2 trays with 7 eggs on each tray = ___ eggs",
+            "a": "14"
+          },
+          {
+            "q": "4 plates with 5 biscuits on each plate = ___ biscuits",
+            "a": "20"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write as a multiplication.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3 + 3 + 3 + 3",
+            "a": "4 × 3 = 12"
+          },
+          {
+            "q": "6 + 6",
+            "a": "2 × 6 = 12"
+          },
+          {
+            "q": "5 + 5 + 5",
+            "a": "3 × 5 = 15"
+          },
+          {
+            "q": "2 + 2 + 2 + 2 + 2",
+            "a": "5 × 2 = 10"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3 groups of 2 is the same as 2 + 2 + 2.",
+            "a": true
+          },
+          {
+            "q": "4 groups of 5 make 9.",
+            "a": false
+          },
+          {
+            "q": "Multiplication is a quick way to add equal groups.",
+            "a": true
+          },
+          {
+            "q": "2 groups of 8 make 16.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each multiplication to its answer.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "2 × 4",
+            "right": "8"
+          },
+          {
+            "left": "3 × 3",
+            "right": "9"
+          },
+          {
+            "left": "5 × 3",
+            "right": "15"
+          },
+          {
+            "left": "4 × 4",
+            "right": "16"
+          },
+          {
+            "left": "2 × 9",
+            "right": "18"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the kitchen problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ammi puts 7 cupcakes on each of 3 plates. There are ___ cupcakes.",
+            "a": "21"
+          },
+          {
+            "q": "Rayan has 6 bowls with 3 dates in each bowl. He has ___ dates.",
+            "a": "18"
+          },
+          {
+            "q": "Ammi buys 2 trays of eggs. Each tray has 10 eggs. She has ___ eggs.",
+            "a": "20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "multiplication-02",
+    "topic": "multiplication",
+    "number": 2,
+    "level": "Starter",
+    "title": "Chairs in the School Hall",
+    "intro": "The school hall is set up for the Annual Day show. The chairs stand in equal rows, like an array.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Count the chairs in each array.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "4 rows of 5 chairs = ___ chairs",
+            "a": "20"
+          },
+          {
+            "q": "3 rows of 7 chairs = ___ chairs",
+            "a": "21"
+          },
+          {
+            "q": "5 rows of 6 chairs = ___ chairs",
+            "a": "30"
+          },
+          {
+            "q": "2 rows of 8 chairs = ___ chairs",
+            "a": "16"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "3 rows of 4 chairs is",
+            "options": [
+              "3 + 4",
+              "3 × 4"
+            ],
+            "after": ".",
+            "a": "3 × 4"
+          },
+          {
+            "before": "2 rows of 5 is the same as 5 rows of",
+            "options": [
+              "2",
+              "5",
+              "10"
+            ],
+            "after": ".",
+            "a": "2"
+          },
+          {
+            "before": "4 × 6 =",
+            "options": [
+              "10",
+              "24",
+              "46"
+            ],
+            "after": "",
+            "a": "24"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each array to its total.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "3 rows of 8",
+            "right": "24"
+          },
+          {
+            "left": "4 rows of 4",
+            "right": "16"
+          },
+          {
+            "left": "2 rows of 10",
+            "right": "20"
+          },
+          {
+            "left": "5 rows of 5",
+            "right": "25"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "4 rows of 3 has as many chairs as 3 rows of 4.",
+            "a": true
+          },
+          {
+            "q": "Every row in an array has the same number of things.",
+            "a": true
+          },
+          {
+            "q": "5 rows of 4 chairs make 25 chairs.",
+            "a": false
+          },
+          {
+            "q": "6 × 1 = 6",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the Annual Day problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There are 3 rows of dancers with 6 dancers in each row. There are ___ dancers.",
+            "a": "18"
+          },
+          {
+            "q": "The stage has 8 rows of balloons with 5 balloons in each row. There are ___ balloons.",
+            "a": "40"
+          },
+          {
+            "q": "The choir stands in 2 rows of 9 singers. There are ___ singers.",
+            "a": "18"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "multiplication-03",
+    "topic": "multiplication",
+    "number": 3,
+    "level": "Starter",
+    "title": "Packing Gift Bags for Raksha Bandhan",
+    "intro": "Siya is packing gift bags for her brothers and cousins. Every bag gets the same number of treats.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the adding sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3 × 5",
+            "a": "5 + 5 + 5 = 15"
+          },
+          {
+            "q": "4 × 2",
+            "a": "2 + 2 + 2 + 2 = 8"
+          },
+          {
+            "q": "2 × 7",
+            "a": "7 + 7 = 14"
+          },
+          {
+            "q": "5 × 3",
+            "a": "3 + 3 + 3 + 3 + 3 = 15"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "6 + 6 + 6 = 3 × ___",
+            "a": "6"
+          },
+          {
+            "q": "4 + 4 + 4 + 4 + 4 = ___ × 4",
+            "a": "5"
+          },
+          {
+            "q": "9 + 9 = 2 × ___",
+            "a": "9"
+          },
+          {
+            "q": "10 + 10 + 10 = ___",
+            "a": "30"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Can you write it as a multiplication? Sort.",
+        "marks": 6,
+        "groups": [
+          "Equal groups",
+          "Not equal groups"
+        ],
+        "words": [
+          "2 + 2 + 2",
+          "3 + 4 + 3",
+          "5 + 5 + 5 + 5",
+          "6 + 1",
+          "7 + 7",
+          "4 + 4 + 5"
+        ],
+        "a": {
+          "2 + 2 + 2": "Equal groups",
+          "3 + 4 + 3": "Not equal groups",
+          "5 + 5 + 5 + 5": "Equal groups",
+          "6 + 1": "Not equal groups",
+          "7 + 7": "Equal groups",
+          "4 + 4 + 5": "Not equal groups"
+        }
+      },
+      {
+        "type": "column",
+        "title": "Multiply.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "12",
+            "op": "×",
+            "bottom": "3",
+            "a": "36"
+          },
+          {
+            "top": "21",
+            "op": "×",
+            "bottom": "4",
+            "a": "84"
+          },
+          {
+            "top": "14",
+            "op": "×",
+            "bottom": "2",
+            "a": "28"
+          },
+          {
+            "top": "33",
+            "op": "×",
+            "bottom": "3",
+            "a": "99"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the gift bag problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Siya puts 4 chocolates in each of 6 bags. She uses ___ chocolates.",
+            "a": "24"
+          },
+          {
+            "q": "Each of 3 bags gets 7 sweets. That is ___ sweets.",
+            "a": "21"
+          },
+          {
+            "q": "Siya ties 2 rakhis on each of her 5 cousins. She uses ___ rakhis.",
+            "a": "10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "multiplication-04",
+    "topic": "multiplication",
+    "number": 4,
+    "level": "Starter",
+    "title": "The Car Park at the Mall",
+    "intro": "Zayn and his dad count cars, bikes and wheels in the car park. A car has 4 wheels, a bicycle 2 and a tricycle 3.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Count the wheels.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3 cars have ___ wheels.",
+            "a": "12"
+          },
+          {
+            "q": "5 bicycles have ___ wheels.",
+            "a": "10"
+          },
+          {
+            "q": "2 tricycles have ___ wheels.",
+            "a": "6"
+          },
+          {
+            "q": "6 cars have ___ wheels.",
+            "a": "24"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "3 × 7 is the same as",
+            "options": [
+              "7 × 3",
+              "7 + 3"
+            ],
+            "after": ".",
+            "a": "7 × 3"
+          },
+          {
+            "before": "5 × 1 =",
+            "options": [
+              "1",
+              "5",
+              "6"
+            ],
+            "after": "",
+            "a": "5"
+          },
+          {
+            "before": "0 × 8 =",
+            "options": [
+              "0",
+              "8"
+            ],
+            "after": "",
+            "a": "0"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the pairs that have the same answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "2 × 6",
+            "right": "3 × 4"
+          },
+          {
+            "left": "2 × 10",
+            "right": "4 × 5"
+          },
+          {
+            "left": "3 × 6",
+            "right": "2 × 9"
+          },
+          {
+            "left": "4 × 4",
+            "right": "2 × 8"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Multiply.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "23",
+            "op": "×",
+            "bottom": "3",
+            "a": "69"
+          },
+          {
+            "top": "42",
+            "op": "×",
+            "bottom": "2",
+            "a": "84"
+          },
+          {
+            "top": "31",
+            "op": "×",
+            "bottom": "3",
+            "a": "93"
+          },
+          {
+            "top": "12",
+            "op": "×",
+            "bottom": "4",
+            "a": "48"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "8 × 1 = 8",
+            "a": true
+          },
+          {
+            "q": "6 × 0 = 6",
+            "a": false
+          },
+          {
+            "q": "4 × 3 = 3 × 4",
+            "a": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "multiplication-05",
+    "topic": "multiplication",
+    "number": 5,
+    "level": "Practice",
+    "title": "Planting Trees on Green Day",
+    "intro": "Class 2 plants trees in the school garden on Green Day. They use multiplication to plan.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Multiply. Carry where you need to.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "24",
+            "op": "×",
+            "bottom": "3",
+            "a": "72"
+          },
+          {
+            "top": "15",
+            "op": "×",
+            "bottom": "4",
+            "a": "60"
+          },
+          {
+            "top": "36",
+            "op": "×",
+            "bottom": "2",
+            "a": "72"
+          },
+          {
+            "top": "18",
+            "op": "×",
+            "bottom": "5",
+            "a": "90"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Multiply.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "6 × 7",
+            "a": "42"
+          },
+          {
+            "q": "8 × 3",
+            "a": "24"
+          },
+          {
+            "q": "9 × 4",
+            "a": "36"
+          },
+          {
+            "q": "7 × 5",
+            "a": "35"
+          },
+          {
+            "q": "6 × 6",
+            "a": "36"
+          },
+          {
+            "q": "8 × 2",
+            "a": "16"
+          },
+          {
+            "q": "10 × 7",
+            "a": "70"
+          },
+          {
+            "q": "3 × 9",
+            "a": "27"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the missing number.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "4 × ___ = 28",
+            "a": "7"
+          },
+          {
+            "q": "___ × 5 = 45",
+            "a": "9"
+          },
+          {
+            "q": "6 × ___ = 48",
+            "a": "8"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "7 × 4 = 28",
+            "a": true
+          },
+          {
+            "q": "3 rows of 9 trees make 12 trees.",
+            "a": false
+          },
+          {
+            "q": "10 × 5 = 50",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the Green Day problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There are 5 rows with 8 saplings in each row. There are ___ saplings.",
+            "a": "40"
+          },
+          {
+            "q": "12 children each water 3 plants. They water ___ plants.",
+            "a": "36"
+          },
+          {
+            "q": "A packet has 14 seeds. 3 packets have ___ seeds.",
+            "a": "42"
+          }
+        ]
+      }
+    ]
+  }
+]

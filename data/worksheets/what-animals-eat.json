@@ -1,0 +1,649 @@
+[
+  {
+    "id": "what-animals-eat-01",
+    "topic": "what-animals-eat",
+    "number": 1,
+    "level": "Starter",
+    "title": "A Trip to Dubai Safari Park",
+    "intro": "Anaya and Lucas visit the safari park. Some animals eat plants, some eat meat and some eat both.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the animals.",
+        "marks": 9,
+        "groups": [
+          "Herbivore",
+          "Carnivore",
+          "Omnivore"
+        ],
+        "words": [
+          "crocodile",
+          "bear",
+          "chimpanzee",
+          "cheetah",
+          "lion",
+          "giraffe",
+          "baboon",
+          "zebra",
+          "deer"
+        ],
+        "a": {
+          "giraffe": "Herbivore",
+          "zebra": "Herbivore",
+          "deer": "Herbivore",
+          "lion": "Carnivore",
+          "cheetah": "Carnivore",
+          "crocodile": "Carnivore",
+          "bear": "Omnivore",
+          "chimpanzee": "Omnivore",
+          "baboon": "Omnivore"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Animals that eat only plants are called ___.",
+            "a": "herbivores"
+          },
+          {
+            "q": "Animals that eat only other animals are called ___.",
+            "a": "carnivores"
+          },
+          {
+            "q": "Animals that eat both plants and animals are called ___.",
+            "a": "omnivores"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A giraffe uses its long neck to reach leaves.",
+            "a": true
+          },
+          {
+            "q": "A lion eats grass.",
+            "a": false
+          },
+          {
+            "q": "Elephants eat grass, leaves and fruits.",
+            "a": true
+          },
+          {
+            "q": "Crocodiles eat only fruits.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A rabbit nibbles",
+            "options": [
+              "carrots",
+              "meat"
+            ],
+            "after": ".",
+            "a": "carrots"
+          },
+          {
+            "before": "A",
+            "options": [
+              "tiger",
+              "cow"
+            ],
+            "after": "has sharp teeth to tear meat.",
+            "a": "tiger"
+          },
+          {
+            "before": "Bears eat honey, fish and",
+            "options": [
+              "berries",
+              "stones"
+            ],
+            "after": ".",
+            "a": "berries"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name one herbivore and one carnivore you have seen.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. herbivore: camel; carnivore: lion."
+      }
+    ]
+  },
+  {
+    "id": "what-animals-eat-02",
+    "topic": "what-animals-eat",
+    "number": 2,
+    "level": "Starter",
+    "title": "Feeding Time at the Farm",
+    "intro": "Ayesha helps on her uncle's farm near Nashik. Every animal gets its own kind of food.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each animal to its food.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "Cow",
+            "right": "grass and hay"
+          },
+          {
+            "left": "Hen",
+            "right": "grains and worms"
+          },
+          {
+            "left": "Cat",
+            "right": "mice and fish"
+          },
+          {
+            "left": "Rabbit",
+            "right": "carrots and leafy greens"
+          },
+          {
+            "left": "Bee",
+            "right": "nectar from flowers"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A hen eats grains and insects, so it is an",
+            "options": [
+              "omnivore",
+              "herbivore"
+            ],
+            "after": ".",
+            "a": "omnivore"
+          },
+          {
+            "before": "A cow is a",
+            "options": [
+              "herbivore",
+              "carnivore"
+            ],
+            "after": ".",
+            "a": "herbivore"
+          },
+          {
+            "before": "A cat is a",
+            "options": [
+              "carnivore",
+              "herbivore"
+            ],
+            "after": ".",
+            "a": "carnivore"
+          },
+          {
+            "before": "Cows chew their food again and again. This is called chewing the",
+            "options": [
+              "cud",
+              "bone"
+            ],
+            "after": ".",
+            "a": "cud"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Goats eat grass and leaves.",
+            "a": true
+          },
+          {
+            "q": "Ducks eat small fish, insects and water plants.",
+            "a": true
+          },
+          {
+            "q": "Horses eat meat.",
+            "a": false
+          },
+          {
+            "q": "Sheep are carnivores.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Dried grass is called ___.",
+            "a": "hay"
+          },
+          {
+            "q": "A pig eats almost anything, so it is an ___.",
+            "a": "omnivore"
+          },
+          {
+            "q": "Baby animals drink their mother's ___.",
+            "a": "milk"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write what you would feed a pet rabbit.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. carrots, leafy greens, hay, fresh water."
+      }
+    ]
+  },
+  {
+    "id": "what-animals-eat-03",
+    "topic": "what-animals-eat",
+    "number": 3,
+    "level": "Starter",
+    "title": "Birdwatching at Ras Al Khor",
+    "intro": "Zayed and Mia watch pink flamingos at the bird sanctuary. Each bird's beak suits the food it eats.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each bird to its beak.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "Eagle",
+            "right": "hooked beak to tear meat"
+          },
+          {
+            "left": "Parrot",
+            "right": "strong beak to crack nuts"
+          },
+          {
+            "left": "Sunbird",
+            "right": "long, thin beak to sip nectar"
+          },
+          {
+            "left": "Woodpecker",
+            "right": "pointed beak to dig insects from bark"
+          },
+          {
+            "left": "Flamingo",
+            "right": "beak that sieves food from water"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Flamingos get their pink colour from the food they eat.",
+            "a": true
+          },
+          {
+            "q": "An eagle eats seeds and grass.",
+            "a": false
+          },
+          {
+            "q": "Owls hunt mice at night.",
+            "a": true
+          },
+          {
+            "q": "All birds eat the same food.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A heron catches",
+            "options": [
+              "fish",
+              "bread"
+            ],
+            "after": "in the water.",
+            "a": "fish"
+          },
+          {
+            "before": "A sparrow pecks at",
+            "options": [
+              "seeds",
+              "meat"
+            ],
+            "after": ".",
+            "a": "seeds"
+          },
+          {
+            "before": "A crow eats almost anything, so it is an",
+            "options": [
+              "omnivore",
+              "herbivore"
+            ],
+            "after": ".",
+            "a": "omnivore"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Birds have no teeth. They eat with their ___.",
+            "a": "beaks"
+          },
+          {
+            "q": "Vultures eat animals that are already ___.",
+            "a": "dead"
+          },
+          {
+            "q": "An owl swallows a small mouse ___.",
+            "a": "whole"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one bird you have seen and what it eats.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"A pigeon eats grains.\""
+      }
+    ]
+  },
+  {
+    "id": "what-animals-eat-04",
+    "topic": "what-animals-eat",
+    "number": 4,
+    "level": "Starter",
+    "title": "Pets at Home in Bengaluru",
+    "intro": "Nikhil has a cat, and his friend Sara has a dog and a goldfish. Teeth and mouths help animals eat.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each animal to how it eats.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Frog",
+            "right": "catches insects with a sticky tongue"
+          },
+          {
+            "left": "Snake",
+            "right": "swallows its food whole"
+          },
+          {
+            "left": "Butterfly",
+            "right": "sucks nectar with a long tube"
+          },
+          {
+            "left": "Elephant",
+            "right": "picks up food with its trunk"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Carnivores have",
+            "options": [
+              "sharp",
+              "flat"
+            ],
+            "after": "teeth to tear meat.",
+            "a": "sharp"
+          },
+          {
+            "before": "Herbivores have",
+            "options": [
+              "flat",
+              "pointed"
+            ],
+            "after": "teeth to grind plants.",
+            "a": "flat"
+          },
+          {
+            "before": "Nikhil's cat likes to eat",
+            "options": [
+              "fish",
+              "grass"
+            ],
+            "after": ".",
+            "a": "fish"
+          },
+          {
+            "before": "Sara's dog chews on a",
+            "options": [
+              "bone",
+              "pebble"
+            ],
+            "after": ".",
+            "a": "bone"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Humans are omnivores because we eat plants and animals.",
+            "a": true
+          },
+          {
+            "q": "Pet rabbits should eat chocolate.",
+            "a": false
+          },
+          {
+            "q": "A house lizard eats insects such as flies.",
+            "a": true
+          },
+          {
+            "q": "A tortoise has sharp teeth like a tiger.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the animals by their teeth.",
+        "marks": 4,
+        "groups": [
+          "Flat teeth (plant eaters)",
+          "Sharp teeth (meat eaters)"
+        ],
+        "words": [
+          "camel",
+          "shark",
+          "sheep",
+          "leopard",
+          "hyena",
+          "horse",
+          "wolf",
+          "buffalo"
+        ],
+        "a": {
+          "horse": "Flat teeth (plant eaters)",
+          "sheep": "Flat teeth (plant eaters)",
+          "buffalo": "Flat teeth (plant eaters)",
+          "camel": "Flat teeth (plant eaters)",
+          "wolf": "Sharp teeth (meat eaters)",
+          "leopard": "Sharp teeth (meat eaters)",
+          "shark": "Sharp teeth (meat eaters)",
+          "hyena": "Sharp teeth (meat eaters)"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Write what a pet you know eats.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"My friend's dog eats dog food and rice.\""
+      }
+    ]
+  },
+  {
+    "id": "what-animals-eat-05",
+    "topic": "what-animals-eat",
+    "number": 5,
+    "level": "Practice",
+    "title": "A Nature Walk by the Village Pond",
+    "intro": "At the pond, Tanvi sees a grasshopper eat grass. A frog catches the grasshopper, and a snake catches the frog.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the story and fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The grasshopper eats ___.",
+            "a": "grass"
+          },
+          {
+            "q": "The ___ eats the grasshopper.",
+            "a": "frog"
+          },
+          {
+            "q": "The snake eats the ___.",
+            "a": "frog"
+          },
+          {
+            "q": "The ___ makes its own food from sunlight.",
+            "a": "grass"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "In this story, the grasshopper is a",
+            "options": [
+              "herbivore",
+              "carnivore"
+            ],
+            "after": ".",
+            "a": "herbivore"
+          },
+          {
+            "before": "The snake is a",
+            "options": [
+              "carnivore",
+              "herbivore"
+            ],
+            "after": ".",
+            "a": "carnivore"
+          },
+          {
+            "before": "A fox eats berries and mice, so it is an",
+            "options": [
+              "omnivore",
+              "herbivore"
+            ],
+            "after": ".",
+            "a": "omnivore"
+          },
+          {
+            "before": "Every food chain starts with a",
+            "options": [
+              "plant",
+              "lion"
+            ],
+            "after": ".",
+            "a": "plant"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Animals that hunt other animals are called predators.",
+            "a": true
+          },
+          {
+            "q": "Herbivores never need to drink water.",
+            "a": false
+          },
+          {
+            "q": "If all the grass is gone, the grasshoppers will go hungry.",
+            "a": true
+          },
+          {
+            "q": "A snake eats grass when it is hungry.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the animals.",
+        "marks": 6,
+        "groups": [
+          "Herbivore",
+          "Carnivore",
+          "Omnivore"
+        ],
+        "words": [
+          "jaguar",
+          "human",
+          "rat",
+          "hawk",
+          "dolphin",
+          "buffalo",
+          "raccoon",
+          "koala",
+          "kangaroo"
+        ],
+        "a": {
+          "buffalo": "Herbivore",
+          "koala": "Herbivore",
+          "kangaroo": "Herbivore",
+          "dolphin": "Carnivore",
+          "hawk": "Carnivore",
+          "jaguar": "Carnivore",
+          "human": "Omnivore",
+          "rat": "Omnivore",
+          "raccoon": "Omnivore"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Write your own food chain with three living things.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. leaves → caterpillar → bird. It must start with a plant."
+      }
+    ]
+  }
+]

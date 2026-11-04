@@ -1,0 +1,601 @@
+[
+  {
+    "id": "insects-01",
+    "topic": "insects",
+    "number": 1,
+    "level": "Starter",
+    "title": "Bug Hunt in the School Garden",
+    "intro": "Class 2 goes on a bug hunt with magnifying glasses. Every insect has six legs and three body parts.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "An insect has ___ legs.",
+            "a": "six"
+          },
+          {
+            "q": "An insect's body has three parts: head, thorax and ___.",
+            "a": "abdomen"
+          },
+          {
+            "q": "Insects use two ___ on their head to feel and smell.",
+            "a": "antennae"
+          },
+          {
+            "q": "Many insects have ___ to fly.",
+            "a": "wings"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Insect and Not an insect.",
+        "marks": 8,
+        "groups": [
+          "Insect",
+          "Not an insect"
+        ],
+        "words": [
+          "ant",
+          "bee",
+          "grasshopper",
+          "housefly",
+          "spider",
+          "earthworm",
+          "snail",
+          "lizard"
+        ],
+        "a": {
+          "ant": "Insect",
+          "bee": "Insect",
+          "grasshopper": "Insect",
+          "housefly": "Insect",
+          "spider": "Not an insect",
+          "earthworm": "Not an insect",
+          "snail": "Not an insect",
+          "lizard": "Not an insect"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A spider is an insect.",
+            "a": false
+          },
+          {
+            "q": "A spider has eight legs.",
+            "a": true
+          },
+          {
+            "q": "The legs of an insect are joined to its thorax.",
+            "a": true
+          },
+          {
+            "q": "Insects are the biggest animals on Earth.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Rohan sees a",
+            "options": [
+              "grasshopper",
+              "parrot"
+            ],
+            "after": "jumping in the grass.",
+            "a": "grasshopper"
+          },
+          {
+            "before": "An insect's eyes are on its",
+            "options": [
+              "head",
+              "abdomen"
+            ],
+            "after": "and help it see.",
+            "a": "head"
+          },
+          {
+            "before": "We look at insects",
+            "options": [
+              "gently",
+              "roughly"
+            ],
+            "after": "and let them go.",
+            "a": "gently"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write the name of one insect you have seen at home.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I saw an ant in the kitchen.\""
+      }
+    ]
+  },
+  {
+    "id": "insects-02",
+    "topic": "insects",
+    "number": 2,
+    "level": "Starter",
+    "title": "The Butterfly Garden Visit",
+    "intro": "Elena and Vihaan visit a butterfly garden in Dubai. They learn how a butterfly grows.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the life cycle of a butterfly.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "First, the butterfly lays a tiny ___ on a leaf.",
+            "a": "egg"
+          },
+          {
+            "q": "A ___ comes out of the egg and eats leaves.",
+            "a": "caterpillar"
+          },
+          {
+            "q": "The caterpillar makes a hard case called a ___.",
+            "a": "pupa"
+          },
+          {
+            "q": "At last, a ___ comes out of the case.",
+            "a": "butterfly"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A caterpillar eats lots of leaves.",
+            "a": true
+          },
+          {
+            "q": "A butterfly drinks nectar from flowers.",
+            "a": true
+          },
+          {
+            "q": "A butterfly has four wings.",
+            "a": true
+          },
+          {
+            "q": "A butterfly is born with wings.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each stage to what it does.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "egg",
+            "right": "sticks to a leaf"
+          },
+          {
+            "left": "caterpillar",
+            "right": "crawls and eats"
+          },
+          {
+            "left": "pupa",
+            "right": "rests and changes"
+          },
+          {
+            "left": "butterfly",
+            "right": "flies and drinks nectar"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A butterfly tastes food with its",
+            "options": [
+              "feet",
+              "wings"
+            ],
+            "after": "when it lands.",
+            "a": "feet"
+          },
+          {
+            "before": "Butterflies help flowers by carrying",
+            "options": [
+              "pollen",
+              "water"
+            ],
+            "after": "from flower to flower.",
+            "a": "pollen"
+          },
+          {
+            "before": "A butterfly's wings are covered with tiny",
+            "options": [
+              "scales",
+              "feathers"
+            ],
+            "after": "of colour.",
+            "a": "scales"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two words that describe a butterfly.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"colourful, light\"."
+      }
+    ]
+  },
+  {
+    "id": "insects-03",
+    "topic": "insects",
+    "number": 3,
+    "level": "Starter",
+    "title": "Ants at Our Picnic Mat",
+    "intro": "Meher's family has a picnic at Lodhi Garden. A line of ants marches to a dropped biscuit.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Ants live together in big groups called colonies.",
+            "a": true
+          },
+          {
+            "q": "Every ant colony has a queen ant.",
+            "a": true
+          },
+          {
+            "q": "Worker ants collect food for the colony.",
+            "a": true
+          },
+          {
+            "q": "Ants live alone and never help each other.",
+            "a": false
+          },
+          {
+            "q": "An ant can carry things heavier than itself.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The ___ ant lays all the eggs.",
+            "a": "queen"
+          },
+          {
+            "q": "Ants make their homes under the ground or in an ___.",
+            "a": "anthill"
+          },
+          {
+            "q": "Ants find their way by following a ___ trail.",
+            "a": "smell"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each insect to its home.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "ant",
+            "right": "anthill"
+          },
+          {
+            "left": "honeybee",
+            "right": "beehive"
+          },
+          {
+            "left": "caterpillar",
+            "right": "leaf"
+          },
+          {
+            "left": "termite",
+            "right": "mound of mud"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Ants are very",
+            "options": [
+              "hard-working",
+              "lazy"
+            ],
+            "after": "insects.",
+            "a": "hard-working"
+          },
+          {
+            "before": "Ants touch each other with their",
+            "options": [
+              "antennae",
+              "wings"
+            ],
+            "after": "to talk.",
+            "a": "antennae"
+          },
+          {
+            "before": "To keep ants away, we cover our",
+            "options": [
+              "food",
+              "shoes"
+            ],
+            "after": "at a picnic.",
+            "a": "food"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing we can learn from ants.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"We can learn to work as a team.\""
+      }
+    ]
+  },
+  {
+    "id": "insects-04",
+    "topic": "insects",
+    "number": 4,
+    "level": "Starter",
+    "title": "A Visit to a Honey Farm",
+    "intro": "Arnav and Sofia visit a honey farm in Hatta. The beekeeper shows them a beehive.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Bees live in a home called a ___.",
+            "a": "beehive"
+          },
+          {
+            "q": "Bees suck sweet ___ from flowers.",
+            "a": "nectar"
+          },
+          {
+            "q": "Bees turn nectar into ___.",
+            "a": "honey"
+          },
+          {
+            "q": "The person who looks after bees is a ___.",
+            "a": "beekeeper"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Bees help plants by carrying pollen.",
+            "a": true
+          },
+          {
+            "q": "Bees make wax to build their hive.",
+            "a": true
+          },
+          {
+            "q": "A bee can sting if it is scared.",
+            "a": true
+          },
+          {
+            "q": "Bees make milk for us.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the insects into Can fly and Cannot fly.",
+        "marks": 6,
+        "groups": [
+          "Can fly",
+          "Cannot fly"
+        ],
+        "words": [
+          "bee",
+          "dragonfly",
+          "mosquito",
+          "worker ant",
+          "flea",
+          "silverfish"
+        ],
+        "a": {
+          "bee": "Can fly",
+          "dragonfly": "Can fly",
+          "mosquito": "Can fly",
+          "worker ant": "Cannot fly",
+          "flea": "Cannot fly",
+          "silverfish": "Cannot fly"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The cells of a beehive have",
+            "options": [
+              "six",
+              "four"
+            ],
+            "after": "sides.",
+            "a": "six"
+          },
+          {
+            "before": "The beekeeper wears a",
+            "options": [
+              "net veil",
+              "swimsuit"
+            ],
+            "after": "to stay safe.",
+            "a": "net veil"
+          },
+          {
+            "before": "Bees make a",
+            "options": [
+              "buzzing",
+              "barking"
+            ],
+            "after": "sound when they fly.",
+            "a": "buzzing"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things we get from bees.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Honey and beeswax (one mark each)."
+      }
+    ]
+  },
+  {
+    "id": "insects-05",
+    "topic": "insects",
+    "number": 5,
+    "level": "Practice",
+    "title": "Ladybirds on Grandpa's Rose Bushes",
+    "intro": "Grandpa grows roses in his garden in Shimla. Ladybirds help him by eating tiny pests.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A ladybird is often red with black spots.",
+            "a": true
+          },
+          {
+            "q": "Ladybirds eat tiny insects called aphids.",
+            "a": true
+          },
+          {
+            "q": "A ladybird has six legs.",
+            "a": true
+          },
+          {
+            "q": "A ladybird is a kind of spider.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the insects into Helpful and Harmful.",
+        "marks": 6,
+        "groups": [
+          "Helpful",
+          "Harmful"
+        ],
+        "words": [
+          "ladybird",
+          "honeybee",
+          "silkworm",
+          "mosquito",
+          "housefly",
+          "cockroach"
+        ],
+        "a": {
+          "ladybird": "Helpful",
+          "honeybee": "Helpful",
+          "silkworm": "Helpful",
+          "mosquito": "Harmful",
+          "housefly": "Harmful",
+          "cockroach": "Harmful"
+        }
+      },
+      {
+        "type": "match",
+        "title": "Match each insect to what it does.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "silkworm",
+            "right": "makes silk"
+          },
+          {
+            "left": "mosquito",
+            "right": "spreads malaria"
+          },
+          {
+            "left": "housefly",
+            "right": "spreads germs on food"
+          },
+          {
+            "left": "ladybird",
+            "right": "eats aphids on plants"
+          },
+          {
+            "left": "firefly",
+            "right": "glows at night"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We sleep under a mosquito ___ to stay safe.",
+            "a": "net"
+          },
+          {
+            "q": "We must cover food so that ___ cannot sit on it.",
+            "a": "flies"
+          },
+          {
+            "q": "A ladybird has two hard red wing ___ on its back.",
+            "a": "cases"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write why ladybirds are good for a garden.",
+        "marks": 2,
+        "lines": 2,
+        "a": "They eat aphids and other small pests that harm plants."
+      }
+    ]
+  }
+]

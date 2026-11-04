@@ -1,0 +1,597 @@
+[
+  {
+    "id": "human-body-01",
+    "topic": "human-body",
+    "number": 1,
+    "level": "Starter",
+    "title": "A Walk Through the Spice Souk",
+    "intro": "Anaya and her grandpa walk through the spice souk in Deira. She uses all five senses.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each sense organ to its sense.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "eyes",
+            "right": "see"
+          },
+          {
+            "left": "ears",
+            "right": "hear"
+          },
+          {
+            "left": "nose",
+            "right": "smell"
+          },
+          {
+            "left": "tongue",
+            "right": "taste"
+          },
+          {
+            "left": "skin",
+            "right": "touch"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the sense organ Anaya uses.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "She uses her",
+            "options": [
+              "nose",
+              "ears"
+            ],
+            "after": "to smell the cinnamon.",
+            "a": "nose"
+          },
+          {
+            "before": "She uses her",
+            "options": [
+              "ears",
+              "skin"
+            ],
+            "after": "to hear the shopkeeper.",
+            "a": "ears"
+          },
+          {
+            "before": "She uses her",
+            "options": [
+              "eyes",
+              "tongue"
+            ],
+            "after": "to see the red chillies.",
+            "a": "eyes"
+          },
+          {
+            "before": "She uses her",
+            "options": [
+              "skin",
+              "nose"
+            ],
+            "after": "to feel the rough sack.",
+            "a": "skin"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We have five sense organs.",
+            "a": true
+          },
+          {
+            "q": "We taste food with our nose.",
+            "a": false
+          },
+          {
+            "q": "Our skin tells us if something is hot or cold.",
+            "a": true
+          },
+          {
+            "q": "We hear with our eyes.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Anaya tastes a sweet date with her ___.",
+            "a": "tongue"
+          },
+          {
+            "q": "The smell of saffron reaches her ___.",
+            "a": "nose"
+          },
+          {
+            "q": "Grandpa wears glasses to help his ___.",
+            "a": "eyes"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing you can smell in a kitchen.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I can smell rice cooking.\""
+      }
+    ]
+  },
+  {
+    "id": "human-body-02",
+    "topic": "human-body",
+    "number": 2,
+    "level": "Starter",
+    "title": "Making Ladoos with Mummy",
+    "intro": "Kavya and her brother Raj help Mummy make ladoos. They use taste and touch.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the foods by taste: Sweet or Sour.",
+        "marks": 8,
+        "groups": [
+          "Sweet",
+          "Sour"
+        ],
+        "words": [
+          "ladoo",
+          "jaggery",
+          "honey",
+          "ripe mango",
+          "lemon",
+          "tamarind",
+          "raw mango",
+          "amla"
+        ],
+        "a": {
+          "ladoo": "Sweet",
+          "jaggery": "Sweet",
+          "honey": "Sweet",
+          "ripe mango": "Sweet",
+          "lemon": "Sour",
+          "tamarind": "Sour",
+          "raw mango": "Sour",
+          "amla": "Sour"
+        }
+      },
+      {
+        "type": "match",
+        "title": "Match each food to how it feels.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "ice cube",
+            "right": "cold"
+          },
+          {
+            "left": "hot tea",
+            "right": "hot"
+          },
+          {
+            "left": "cotton wool",
+            "right": "soft"
+          },
+          {
+            "left": "coconut shell",
+            "right": "hard"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Chips taste ___ because of the salt.",
+            "a": "salty"
+          },
+          {
+            "q": "Bitter gourd (karela) tastes ___.",
+            "a": "bitter"
+          },
+          {
+            "q": "The tongue helps us to ___ food.",
+            "a": "taste"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Our skin can feel rough and smooth things.",
+            "a": true
+          },
+          {
+            "q": "Sugar tastes salty.",
+            "a": false
+          },
+          {
+            "q": "We should touch a hot pan to check it.",
+            "a": false
+          },
+          {
+            "q": "Our tongue also helps us to speak.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one food that is sweet and one that is salty.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"Sweet: kheer. Salty: namkeen.\""
+      }
+    ]
+  },
+  {
+    "id": "human-body-03",
+    "topic": "human-body",
+    "number": 3,
+    "level": "Starter",
+    "title": "Sports Day on the School Field",
+    "intro": "It is Sports Day. Leo runs in the race, and his heart beats fast.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each body part to its job.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "heart",
+            "right": "pumps blood"
+          },
+          {
+            "left": "lungs",
+            "right": "help us breathe"
+          },
+          {
+            "left": "brain",
+            "right": "helps us think"
+          },
+          {
+            "left": "stomach",
+            "right": "breaks down food"
+          },
+          {
+            "left": "muscles",
+            "right": "help us move"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Our heart beats faster when we run.",
+            "a": true
+          },
+          {
+            "q": "We breathe in air through our nose.",
+            "a": true
+          },
+          {
+            "q": "Bones make our body strong and give it shape.",
+            "a": true
+          },
+          {
+            "q": "The stomach is in our head.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We have two ___ in our chest for breathing.",
+            "a": "lungs"
+          },
+          {
+            "q": "Our ___ tells our legs to run.",
+            "a": "brain"
+          },
+          {
+            "q": "The heart is about the size of our ___.",
+            "a": "fist"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Leo drinks",
+            "options": [
+              "water",
+              "cola"
+            ],
+            "after": "after the race.",
+            "a": "water"
+          },
+          {
+            "before": "We bend our arm at the",
+            "options": [
+              "elbow",
+              "ankle"
+            ],
+            "after": "to throw the ball.",
+            "a": "elbow"
+          },
+          {
+            "before": "We bend our leg at the",
+            "options": [
+              "knee",
+              "wrist"
+            ],
+            "after": "to jump.",
+            "a": "knee"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way to keep your body fit.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I play football every day.\""
+      }
+    ]
+  },
+  {
+    "id": "human-body-04",
+    "topic": "human-body",
+    "number": 4,
+    "level": "Starter",
+    "title": "A Check-up at the Clinic",
+    "intro": "Dr Fernandes checks the eyes, ears and teeth of the children at school.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort into Good habits and Bad habits.",
+        "marks": 8,
+        "groups": [
+          "Good habits",
+          "Bad habits"
+        ],
+        "words": [
+          "wash hands with soap",
+          "brush teeth twice a day",
+          "read in good light",
+          "cut nails short",
+          "rub eyes with dirty hands",
+          "put a pencil in your ear",
+          "watch TV very close",
+          "eat too many sweets"
+        ],
+        "a": {
+          "wash hands with soap": "Good habits",
+          "brush teeth twice a day": "Good habits",
+          "read in good light": "Good habits",
+          "cut nails short": "Good habits",
+          "rub eyes with dirty hands": "Bad habits",
+          "put a pencil in your ear": "Bad habits",
+          "watch TV very close": "Bad habits",
+          "eat too many sweets": "Bad habits"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We should wash our eyes with clean water.",
+            "a": true
+          },
+          {
+            "q": "Loud music can hurt our ears.",
+            "a": true
+          },
+          {
+            "q": "We should share our toothbrush with friends.",
+            "a": false
+          },
+          {
+            "q": "A bath every day keeps our skin clean.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We should brush our ___ twice a day.",
+            "a": "teeth"
+          },
+          {
+            "q": "We should not put sharp things in our ___.",
+            "a": "ears"
+          },
+          {
+            "q": "We should blow our ___ gently with a tissue.",
+            "a": "nose"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Sara wears",
+            "options": [
+              "sunglasses",
+              "earmuffs"
+            ],
+            "after": "to protect her eyes in strong sun.",
+            "a": "sunglasses"
+          },
+          {
+            "before": "We should sleep for",
+            "options": [
+              "10 hours",
+              "2 hours"
+            ],
+            "after": "every night.",
+            "a": "10 hours"
+          },
+          {
+            "before": "We cover our",
+            "options": [
+              "mouth",
+              "feet"
+            ],
+            "after": "when we sneeze.",
+            "a": "mouth"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way to take care of your skin.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I take a bath every day.\""
+      }
+    ]
+  },
+  {
+    "id": "human-body-05",
+    "topic": "human-body",
+    "number": 5,
+    "level": "Practice",
+    "title": "Our Science Fair Body Model",
+    "intro": "Aditya and Grace make a body model for the science fair. They label the organs inside.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match what protects each organ.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "brain",
+            "right": "skull"
+          },
+          {
+            "left": "heart and lungs",
+            "right": "ribs"
+          },
+          {
+            "left": "eyes",
+            "right": "eyelids and eyelashes"
+          },
+          {
+            "left": "ears",
+            "right": "ear wax"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Name the organ.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "I pump blood all over the body. I am the ___.",
+            "a": "heart"
+          },
+          {
+            "q": "I fill with air when you breathe in. I am the ___.",
+            "a": "lungs"
+          },
+          {
+            "q": "I am inside your skull and help you remember. I am the ___.",
+            "a": "brain"
+          },
+          {
+            "q": "I hold the food you eat and mash it. I am the ___.",
+            "a": "stomach"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The heart is inside the chest.",
+            "a": true
+          },
+          {
+            "q": "The brain controls the whole body.",
+            "a": true
+          },
+          {
+            "q": "The skin is the largest organ of the body.",
+            "a": true
+          },
+          {
+            "q": "We can live without breathing.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the sense for each organ.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "eyes",
+            "a": "sight"
+          },
+          {
+            "q": "ears",
+            "a": "hearing"
+          },
+          {
+            "q": "nose",
+            "a": "smell"
+          },
+          {
+            "q": "tongue",
+            "a": "taste"
+          },
+          {
+            "q": "skin",
+            "a": "touch"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write which sense you use most at school and why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"I use my eyes to read the board.\""
+      }
+    ]
+  }
+]

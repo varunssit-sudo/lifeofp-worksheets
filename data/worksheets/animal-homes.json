@@ -1,0 +1,618 @@
+[
+  {
+    "id": "animal-homes-01",
+    "topic": "animal-homes",
+    "number": 1,
+    "level": "Starter",
+    "title": "A Trip to the City Zoo",
+    "intro": "Class 2 visits the zoo in Mysuru. Aarav reads the boards about where animals live in the wild.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the animal to its home in the wild.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "lion",
+            "right": "den"
+          },
+          {
+            "left": "rabbit",
+            "right": "burrow"
+          },
+          {
+            "left": "bear",
+            "right": "cave"
+          },
+          {
+            "left": "sparrow",
+            "right": "nest"
+          },
+          {
+            "left": "monkey",
+            "right": "tree"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A burrow is a hole under the ground.",
+            "a": true
+          },
+          {
+            "q": "A lion lives in a nest.",
+            "a": false
+          },
+          {
+            "q": "A den keeps a lion safe from heat and rain.",
+            "a": true
+          },
+          {
+            "q": "All animals need a safe home.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with: nest, cave, burrow.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A bird lays its eggs in a ___.",
+            "a": "nest"
+          },
+          {
+            "q": "A rabbit digs a ___ in the soil.",
+            "a": "burrow"
+          },
+          {
+            "q": "A bear sleeps in a ___ in winter.",
+            "a": "cave"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Animals need homes to stay",
+            "options": [
+              "safe",
+              "hungry"
+            ],
+            "after": ".",
+            "a": "safe"
+          },
+          {
+            "before": "A home keeps baby animals",
+            "options": [
+              "warm",
+              "wet"
+            ],
+            "after": ".",
+            "a": "warm"
+          },
+          {
+            "before": "A rat lives in a",
+            "options": [
+              "hole",
+              "web"
+            ],
+            "after": ".",
+            "a": "hole"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why do animals need a home? Write one reason.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any one, e.g. to stay safe, to keep warm, to rest, to keep their babies safe."
+      }
+    ]
+  },
+  {
+    "id": "animal-homes-02",
+    "topic": "animal-homes",
+    "number": 2,
+    "level": "Starter",
+    "title": "Grandpa's Farm in Punjab",
+    "intro": "Simran spends her holidays on her grandpa's farm. She helps put the animals to bed.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the farm animal to its home.",
+        "marks": 6,
+        "items": [
+          {
+            "left": "horse",
+            "right": "stable"
+          },
+          {
+            "left": "cow",
+            "right": "shed"
+          },
+          {
+            "left": "hen",
+            "right": "coop"
+          },
+          {
+            "left": "pig",
+            "right": "sty"
+          },
+          {
+            "left": "dog",
+            "right": "kennel"
+          },
+          {
+            "left": "sheep",
+            "right": "pen"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Farm animal homes are made by people.",
+            "a": true
+          },
+          {
+            "q": "A hen lives in a stable.",
+            "a": false
+          },
+          {
+            "q": "A cow shed should be kept clean and dry.",
+            "a": true
+          },
+          {
+            "q": "A pig lives in a sty.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the home of each animal.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "hen",
+            "a": "coop"
+          },
+          {
+            "q": "horse",
+            "a": "stable"
+          },
+          {
+            "q": "pig",
+            "a": "sty"
+          },
+          {
+            "q": "cow",
+            "a": "shed"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: who makes the home?",
+        "marks": 6,
+        "groups": [
+          "Animal makes it",
+          "People make it"
+        ],
+        "words": [
+          "burrow",
+          "beehive in a tree",
+          "spider web",
+          "stable",
+          "kennel",
+          "coop"
+        ],
+        "a": {
+          "burrow": "Animal makes it",
+          "beehive in a tree": "Animal makes it",
+          "spider web": "Animal makes it",
+          "stable": "People make it",
+          "kennel": "People make it",
+          "coop": "People make it"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Write one way Simran can keep the hen coop clean.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. sweep it, change the straw, give fresh water."
+      }
+    ]
+  },
+  {
+    "id": "animal-homes-03",
+    "topic": "animal-homes",
+    "number": 3,
+    "level": "Starter",
+    "title": "Bugs in the School Garden",
+    "intro": "Ishaan and Chloe look for small creatures in the school garden in Abu Dhabi.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the small creature to its home.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "bee",
+            "right": "hive"
+          },
+          {
+            "left": "ant",
+            "right": "anthill"
+          },
+          {
+            "left": "spider",
+            "right": "web"
+          },
+          {
+            "left": "earthworm",
+            "right": "soil"
+          },
+          {
+            "left": "termite",
+            "right": "mound"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A spider spins a",
+            "options": [
+              "web",
+              "nest"
+            ],
+            "after": "to catch insects.",
+            "a": "web"
+          },
+          {
+            "before": "Bees make honey in their",
+            "options": [
+              "hive",
+              "burrow"
+            ],
+            "after": ".",
+            "a": "hive"
+          },
+          {
+            "before": "Many ants live together in an",
+            "options": [
+              "anthill",
+              "aquarium"
+            ],
+            "after": ".",
+            "a": "anthill"
+          },
+          {
+            "before": "An earthworm lives under the",
+            "options": [
+              "soil",
+              "water"
+            ],
+            "after": ".",
+            "a": "soil"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Bees build their own hive.",
+            "a": true
+          },
+          {
+            "q": "A spider's web is made of silk thread.",
+            "a": true
+          },
+          {
+            "q": "Ants live alone.",
+            "a": false
+          },
+          {
+            "q": "A spider makes its web between branches or in a corner.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Chloe sees a ___ hanging from a tree branch with bees around it.",
+            "a": "hive"
+          },
+          {
+            "q": "Ishaan finds a long ___ wriggling in the wet soil.",
+            "a": "earthworm"
+          },
+          {
+            "q": "A tortoise and a snail carry their home, a ___, on their back.",
+            "a": "shell"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write the name of one small creature you have seen and where it lives.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"An ant lives in an anthill.\""
+      }
+    ]
+  },
+  {
+    "id": "animal-homes-04",
+    "topic": "animal-homes",
+    "number": 4,
+    "level": "Starter",
+    "title": "A Boat Ride in the Kerala Backwaters",
+    "intro": "Anna and her brother Joel take a boat ride. They spot animals in and near the water.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort: where does it live?",
+        "marks": 6,
+        "groups": [
+          "In water",
+          "On land and in water"
+        ],
+        "words": [
+          "fish",
+          "octopus",
+          "shark",
+          "frog",
+          "crocodile",
+          "duck"
+        ],
+        "a": {
+          "fish": "In water",
+          "octopus": "In water",
+          "shark": "In water",
+          "frog": "On land and in water",
+          "crocodile": "On land and in water",
+          "duck": "On land and in water"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "A fish breathes under water with its gills.",
+            "a": true
+          },
+          {
+            "q": "A frog can live on land and in water.",
+            "a": true
+          },
+          {
+            "q": "A duck builds a nest near the water.",
+            "a": true
+          },
+          {
+            "q": "A goldfish at home can live in an aquarium.",
+            "a": true
+          },
+          {
+            "q": "A crocodile lives in a beehive.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A frog lays its eggs in",
+            "options": [
+              "water",
+              "a nest"
+            ],
+            "after": ".",
+            "a": "water"
+          },
+          {
+            "before": "A pet fish lives in an",
+            "options": [
+              "aquarium",
+              "anthill"
+            ],
+            "after": ".",
+            "a": "aquarium"
+          },
+          {
+            "before": "A crocodile rests on the",
+            "options": [
+              "riverbank",
+              "treetop"
+            ],
+            "after": ".",
+            "a": "riverbank"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A fish cannot live out of ___.",
+            "a": "water"
+          },
+          {
+            "q": "Joel sees a ___ swimming with her ducklings.",
+            "a": "duck"
+          },
+          {
+            "q": "A frog can jump on land and ___ in water.",
+            "a": "swim"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name one animal that lives in the sea.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any sea animal, e.g. fish, shark, whale, octopus, starfish, crab."
+      }
+    ]
+  },
+  {
+    "id": "animal-homes-05",
+    "topic": "animal-homes",
+    "number": 5,
+    "level": "Practice",
+    "title": "A Desert Camp in Liwa",
+    "intro": "Sara and Rohan camp in the desert with their parents. They learn how desert animals find shelter.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the animal to its home.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "desert fox",
+            "right": "burrow in the sand"
+          },
+          {
+            "left": "owl",
+            "right": "hole in a tree"
+          },
+          {
+            "left": "camel",
+            "right": "open desert"
+          },
+          {
+            "left": "bat",
+            "right": "dark cave"
+          },
+          {
+            "left": "scorpion",
+            "right": "under a rock"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Many desert animals hide in burrows in the hot day.",
+            "a": true
+          },
+          {
+            "q": "A camel builds a nest.",
+            "a": false
+          },
+          {
+            "q": "Some animals come out to find food at night when it is cool.",
+            "a": true
+          },
+          {
+            "q": "A lizard can hide under rocks and sand.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: where is the home?",
+        "marks": 6,
+        "groups": [
+          "Under the ground",
+          "Up in a tree"
+        ],
+        "words": [
+          "rabbit's burrow",
+          "fox's den",
+          "ant's tunnels",
+          "crow's nest",
+          "owl's hole",
+          "weaver bird's nest"
+        ],
+        "a": {
+          "rabbit's burrow": "Under the ground",
+          "fox's den": "Under the ground",
+          "ant's tunnels": "Under the ground",
+          "crow's nest": "Up in a tree",
+          "owl's hole": "Up in a tree",
+          "weaver bird's nest": "Up in a tree"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A lion's home is a",
+            "options": [
+              "den",
+              "hive"
+            ],
+            "after": ".",
+            "a": "den"
+          },
+          {
+            "before": "A dog's home made by people is a",
+            "options": [
+              "kennel",
+              "nest"
+            ],
+            "after": ".",
+            "a": "kennel"
+          },
+          {
+            "before": "A bird uses",
+            "options": [
+              "twigs",
+              "stones"
+            ],
+            "after": "to make its nest.",
+            "a": "twigs"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways a home helps an animal.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. keeps it safe, keeps it warm or cool, a place to rest, a place for babies."
+      }
+    ]
+  }
+]

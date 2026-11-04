@@ -1,0 +1,619 @@
+[
+  {
+    "id": "air-around-us-01",
+    "topic": "air-around-us",
+    "number": 1,
+    "level": "Starter",
+    "title": "The Uttarayan Kite Festival",
+    "intro": "It is kite day in Ahmedabad. Meera and her cousin Kabir fly kites on the roof.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Air is all around us.",
+            "a": true
+          },
+          {
+            "q": "We can see air with our eyes.",
+            "a": false
+          },
+          {
+            "q": "We can feel air when it blows on our face.",
+            "a": true
+          },
+          {
+            "q": "Moving air is called wind.",
+            "a": true
+          },
+          {
+            "q": "A kite can fly well on a day with no wind.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with: wind, air, string, high.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Meera's kite flies ___ in the sky.",
+            "a": "high"
+          },
+          {
+            "q": "We hold a kite by its ___.",
+            "a": "string"
+          },
+          {
+            "q": "The ___ pushes the kite up.",
+            "a": "wind"
+          },
+          {
+            "q": "We need ___ to breathe.",
+            "a": "air"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "We",
+            "options": [
+              "can",
+              "cannot"
+            ],
+            "after": "see the wind.",
+            "a": "cannot"
+          },
+          {
+            "before": "Kabir's kite flies better on a",
+            "options": [
+              "windy",
+              "still"
+            ],
+            "after": "day.",
+            "a": "windy"
+          },
+          {
+            "before": "Leaves on the trees",
+            "options": [
+              "move",
+              "stay still"
+            ],
+            "after": "when the wind blows.",
+            "a": "move"
+          },
+          {
+            "before": "A gentle wind is called a",
+            "options": [
+              "breeze",
+              "storm"
+            ],
+            "after": ".",
+            "a": "breeze"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: does it need wind to move?",
+        "marks": 6,
+        "groups": [
+          "Needs wind",
+          "Does not need wind"
+        ],
+        "words": [
+          "kite",
+          "sailboat",
+          "flag on a pole",
+          "bicycle",
+          "car",
+          "train"
+        ],
+        "a": {
+          "kite": "Needs wind",
+          "sailboat": "Needs wind",
+          "flag on a pole": "Needs wind",
+          "bicycle": "Does not need wind",
+          "car": "Does not need wind",
+          "train": "Does not need wind"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Write one way you can tell that the wind is blowing.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"The leaves move.\" or \"My hair flies.\""
+      }
+    ]
+  },
+  {
+    "id": "air-around-us-02",
+    "topic": "air-around-us",
+    "number": 2,
+    "level": "Starter",
+    "title": "Laundry Day on the Balcony",
+    "intro": "Ammi hangs wet clothes on the balcony in Sharjah. Zara helps her.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the thing to what the wind does to it.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "wet clothes",
+            "right": "dry faster"
+          },
+          {
+            "left": "a windmill",
+            "right": "turns round"
+          },
+          {
+            "left": "a flag",
+            "right": "flutters"
+          },
+          {
+            "left": "dry leaves",
+            "right": "blow away"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Wet clothes dry faster on a windy day.",
+            "a": true
+          },
+          {
+            "q": "Wind can dry the wet floor after we mop it.",
+            "a": true
+          },
+          {
+            "q": "A fan makes air move.",
+            "a": true
+          },
+          {
+            "q": "Wind can blow away a light paper.",
+            "a": true
+          },
+          {
+            "q": "Air has a colour we can see.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the missing word: air or wind.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Moving air",
+            "a": "wind"
+          },
+          {
+            "q": "We breathe in",
+            "a": "air"
+          },
+          {
+            "q": "A balloon is filled with",
+            "a": "air"
+          },
+          {
+            "q": "It makes kites fly",
+            "a": "wind"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Zara uses clips so the ___ does not blow the clothes away.",
+            "a": "wind"
+          },
+          {
+            "q": "We switch on the ___ to feel cool air in a hot room.",
+            "a": "fan"
+          },
+          {
+            "q": "Wet clothes dry quickly in the sun and the ___.",
+            "a": "wind"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways wind helps us at home.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. drying clothes, cooling us, drying hair."
+      }
+    ]
+  },
+  {
+    "id": "air-around-us-03",
+    "topic": "air-around-us",
+    "number": 3,
+    "level": "Starter",
+    "title": "A Visit to the Windmill Farm",
+    "intro": "Class 2 goes to see tall windmills near the sea in Gujarat. The guide is called Mr Patel.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A windmill turns when the",
+            "options": [
+              "wind",
+              "rain"
+            ],
+            "after": "blows.",
+            "a": "wind"
+          },
+          {
+            "before": "Windmills can make",
+            "options": [
+              "electricity",
+              "water"
+            ],
+            "after": "for our homes.",
+            "a": "electricity"
+          },
+          {
+            "before": "Windmills are put in",
+            "options": [
+              "windy",
+              "quiet"
+            ],
+            "after": "places.",
+            "a": "windy"
+          },
+          {
+            "before": "When there is no wind, the windmill",
+            "options": [
+              "stops",
+              "spins fast"
+            ],
+            "after": ".",
+            "a": "stops"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A windmill needs wind to turn.",
+            "a": true
+          },
+          {
+            "q": "Long ago, windmills were used to grind grain.",
+            "a": true
+          },
+          {
+            "q": "A windmill turns faster in a strong wind.",
+            "a": true
+          },
+          {
+            "q": "Windmills make the air dirty.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: does it use moving air?",
+        "marks": 8,
+        "groups": [
+          "Uses moving air",
+          "Does not use moving air"
+        ],
+        "words": [
+          "windmill",
+          "sailboat",
+          "paper pinwheel",
+          "glider",
+          "torch",
+          "clock",
+          "pencil",
+          "bookshelf"
+        ],
+        "a": {
+          "windmill": "Uses moving air",
+          "sailboat": "Uses moving air",
+          "paper pinwheel": "Uses moving air",
+          "glider": "Uses moving air",
+          "torch": "Does not use moving air",
+          "clock": "Does not use moving air",
+          "pencil": "Does not use moving air",
+          "bookshelf": "Does not use moving air"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The big arms of a windmill are called ___.",
+            "a": "blades"
+          },
+          {
+            "q": "A boat with a cloth sail is a ___.",
+            "a": "sailboat"
+          },
+          {
+            "q": "Mr Patel says the wind helps the windmill ___ round.",
+            "a": "turn"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "What makes a paper pinwheel spin? Write it.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Wind or moving air (or blowing on it) makes it spin."
+      }
+    ]
+  },
+  {
+    "id": "air-around-us-04",
+    "topic": "air-around-us",
+    "number": 4,
+    "level": "Starter",
+    "title": "Balloons at Riya's Birthday",
+    "intro": "Riya's family blows up balloons for her party in Dubai.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "A balloon gets bigger when we blow air into it.",
+            "a": true
+          },
+          {
+            "q": "Air takes up space.",
+            "a": true
+          },
+          {
+            "q": "An empty bottle is really full of air.",
+            "a": true
+          },
+          {
+            "q": "A flat football bounces well.",
+            "a": false
+          },
+          {
+            "q": "We pump air into bicycle tyres.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each thing to how it uses air.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "balloon",
+            "right": "we tie a knot to keep air in"
+          },
+          {
+            "left": "bicycle tyre",
+            "right": "we fill it with a hand pump"
+          },
+          {
+            "left": "fan",
+            "right": "moves air around the room"
+          },
+          {
+            "left": "whistle",
+            "right": "makes a sound when we blow"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "When air comes out, a balloon gets",
+            "options": [
+              "smaller",
+              "bigger"
+            ],
+            "after": ".",
+            "a": "smaller"
+          },
+          {
+            "before": "A football is filled with",
+            "options": [
+              "air",
+              "water"
+            ],
+            "after": ".",
+            "a": "air"
+          },
+          {
+            "before": "Bubbles in soap water are full of",
+            "options": [
+              "air",
+              "sand"
+            ],
+            "after": ".",
+            "a": "air"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Riya's dad uses a ___ to fill the balloons quickly.",
+            "a": "pump"
+          },
+          {
+            "q": "If we let go of an untied balloon, the ___ rushes out.",
+            "a": "air"
+          },
+          {
+            "q": "A punctured tyre goes ___.",
+            "a": "flat"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name two toys that need air inside them.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any two, e.g. balloon, football, beach ball, swimming ring."
+      }
+    ]
+  },
+  {
+    "id": "air-around-us-05",
+    "topic": "air-around-us",
+    "number": 5,
+    "level": "Practice",
+    "title": "A Dusty Day in Dubai",
+    "intro": "A strong wind blows sand across the city. Omar and Leena stay indoors and talk about air.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort: does it keep air clean or make it dirty?",
+        "marks": 6,
+        "groups": [
+          "Keeps air clean",
+          "Makes air dirty"
+        ],
+        "words": [
+          "planting trees",
+          "riding a bicycle",
+          "walking to school",
+          "smoke from factories",
+          "burning rubbish",
+          "smoke from old cars"
+        ],
+        "a": {
+          "planting trees": "Keeps air clean",
+          "riding a bicycle": "Keeps air clean",
+          "walking to school": "Keeps air clean",
+          "smoke from factories": "Makes air dirty",
+          "burning rubbish": "Makes air dirty",
+          "smoke from old cars": "Makes air dirty"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "All living things need air to live.",
+            "a": true
+          },
+          {
+            "q": "A strong wind can carry dust and sand.",
+            "a": true
+          },
+          {
+            "q": "A sandstorm is a gentle breeze.",
+            "a": false
+          },
+          {
+            "q": "We should cover our nose and mouth in a dust storm.",
+            "a": true
+          },
+          {
+            "q": "Trees help to keep the air fresh.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A very strong wind with rain is a",
+            "options": [
+              "storm",
+              "breeze"
+            ],
+            "after": ".",
+            "a": "storm"
+          },
+          {
+            "before": "We breathe air in through our",
+            "options": [
+              "nose",
+              "ears"
+            ],
+            "after": ".",
+            "a": "nose"
+          },
+          {
+            "before": "Fresh air is",
+            "options": [
+              "good",
+              "bad"
+            ],
+            "after": "for our health.",
+            "a": "good"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Omar shuts the ___ to keep the dust out.",
+            "a": "windows"
+          },
+          {
+            "q": "Plants and animals need ___ to stay alive.",
+            "a": "air"
+          },
+          {
+            "q": "A fish takes air from the ___.",
+            "a": "water"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things you can do to keep the air clean.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Any two, e.g. plant trees, walk or cycle, do not burn rubbish, share a car."
+      }
+    ]
+  }
+]

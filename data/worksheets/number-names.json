@@ -1,0 +1,665 @@
+[
+  {
+    "id": "number-names-01",
+    "topic": "number-names",
+    "number": 1,
+    "level": "Starter",
+    "title": "Counting Balloons at a Birthday Party",
+    "intro": "It is Anya's eighth birthday party. Write the numbers you see in words.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the number name.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "12",
+            "a": "twelve"
+          },
+          {
+            "q": "15",
+            "a": "fifteen"
+          },
+          {
+            "q": "19",
+            "a": "nineteen"
+          },
+          {
+            "q": "20",
+            "a": "twenty"
+          },
+          {
+            "q": "24",
+            "a": "twenty-four"
+          },
+          {
+            "q": "30",
+            "a": "thirty"
+          },
+          {
+            "q": "40",
+            "a": "forty"
+          },
+          {
+            "q": "48",
+            "a": "forty-eight"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct spelling.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "14 is",
+            "options": [
+              "fourteen",
+              "forteen"
+            ],
+            "after": ".",
+            "a": "fourteen"
+          },
+          {
+            "before": "80 is",
+            "options": [
+              "eigthy",
+              "eighty"
+            ],
+            "after": ".",
+            "a": "eighty"
+          },
+          {
+            "before": "11 is",
+            "options": [
+              "eleven",
+              "elevan"
+            ],
+            "after": ".",
+            "a": "eleven"
+          },
+          {
+            "before": "50 is",
+            "options": [
+              "fivety",
+              "fifty"
+            ],
+            "after": ".",
+            "a": "fifty"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each name to its number.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "thirteen",
+            "right": "13"
+          },
+          {
+            "left": "thirty-one",
+            "right": "31"
+          },
+          {
+            "left": "seventeen",
+            "right": "17"
+          },
+          {
+            "left": "forty-six",
+            "right": "46"
+          },
+          {
+            "left": "twenty-nine",
+            "right": "29"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the number in figures.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Thirty-five balloons = ___ balloons",
+            "a": "35"
+          },
+          {
+            "q": "Twenty-seven cupcakes = ___ cupcakes",
+            "a": "27"
+          },
+          {
+            "q": "Forty-two sweets = ___ sweets",
+            "a": "42"
+          },
+          {
+            "q": "Sixteen children = ___ children",
+            "a": "16"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write your age and your house or flat number in words.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Check the spelling of the child's own numbers."
+      }
+    ]
+  },
+  {
+    "id": "number-names-02",
+    "topic": "number-names",
+    "number": 2,
+    "level": "Starter",
+    "title": "Reading Bus Numbers in Dubai",
+    "intro": "Leo and his mum ride buses around Dubai. Every bus has a number on the front.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the bus number in words.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Bus 61 is bus number ___.",
+            "a": "sixty-one"
+          },
+          {
+            "q": "Bus 77 is bus number ___.",
+            "a": "seventy-seven"
+          },
+          {
+            "q": "Bus 83 is bus number ___.",
+            "a": "eighty-three"
+          },
+          {
+            "q": "Bus 95 is bus number ___.",
+            "a": "ninety-five"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the number in figures.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "fifty-two",
+            "a": "52"
+          },
+          {
+            "q": "sixty-eight",
+            "a": "68"
+          },
+          {
+            "q": "seventy-four",
+            "a": "74"
+          },
+          {
+            "q": "eighty",
+            "a": "80"
+          },
+          {
+            "q": "ninety-nine",
+            "a": "99"
+          },
+          {
+            "q": "fifty-five",
+            "a": "55"
+          },
+          {
+            "q": "sixty",
+            "a": "60"
+          },
+          {
+            "q": "eighty-one",
+            "a": "81"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "70 is written as seventy.",
+            "a": true
+          },
+          {
+            "q": "90 is written as ninty.",
+            "a": false
+          },
+          {
+            "q": "58 is written as fifty-eight.",
+            "a": true
+          },
+          {
+            "q": "Eighty-six is the number 68.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the bus numbers.",
+        "marks": 6,
+        "groups": [
+          "Less than 70",
+          "70 or more"
+        ],
+        "words": [
+          "sixty-three",
+          "seventy-one",
+          "fifty-nine",
+          "ninety-two",
+          "sixty-seven",
+          "eighty-four"
+        ],
+        "a": {
+          "sixty-three": "Less than 70",
+          "seventy-one": "70 or more",
+          "fifty-nine": "Less than 70",
+          "ninety-two": "70 or more",
+          "sixty-seven": "Less than 70",
+          "eighty-four": "70 or more"
+        }
+      }
+    ]
+  },
+  {
+    "id": "number-names-03",
+    "topic": "number-names",
+    "number": 3,
+    "level": "Starter",
+    "title": "The School Library Count",
+    "intro": "Mrs Das counts the books in the school library. Help her write the totals in words.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write in words.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "100",
+            "a": "one hundred"
+          },
+          {
+            "q": "205",
+            "a": "two hundred five"
+          },
+          {
+            "q": "340",
+            "a": "three hundred forty"
+          },
+          {
+            "q": "418",
+            "a": "four hundred eighteen"
+          },
+          {
+            "q": "562",
+            "a": "five hundred sixty-two"
+          },
+          {
+            "q": "707",
+            "a": "seven hundred seven"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct name.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "306 is",
+            "options": [
+              "three hundred six",
+              "three hundred sixty"
+            ],
+            "after": ".",
+            "a": "three hundred six"
+          },
+          {
+            "before": "470 is",
+            "options": [
+              "four hundred seventy",
+              "four hundred seven"
+            ],
+            "after": ".",
+            "a": "four hundred seventy"
+          },
+          {
+            "before": "915 is",
+            "options": [
+              "nine hundred fifty",
+              "nine hundred fifteen"
+            ],
+            "after": ".",
+            "a": "nine hundred fifteen"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the number in figures.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "two hundred thirty-four = ___",
+            "a": "234"
+          },
+          {
+            "q": "five hundred nine = ___",
+            "a": "509"
+          },
+          {
+            "q": "eight hundred eighty-eight = ___",
+            "a": "888"
+          },
+          {
+            "q": "six hundred twelve = ___",
+            "a": "612"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In 'four hundred twenty', the 4 means 4 hundreds.",
+            "a": true
+          },
+          {
+            "q": "Seven hundred is written as 7000.",
+            "a": false
+          },
+          {
+            "q": "One hundred fifty-three is written as 153.",
+            "a": true
+          },
+          {
+            "q": "Nine hundred ninety-nine is the biggest 3-digit number.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the library problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The library has 365 storybooks. In words, that is ___ storybooks.",
+            "a": "three hundred sixty-five"
+          },
+          {
+            "q": "Class 2 borrowed one hundred forty books. In figures, that is ___ books.",
+            "a": "140"
+          },
+          {
+            "q": "The new shelf holds 275 books. In words, that is ___ books.",
+            "a": "two hundred seventy-five"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "number-names-04",
+    "topic": "number-names",
+    "number": 4,
+    "level": "Starter",
+    "title": "Cricket Match at Sharjah Stadium",
+    "intro": "Kavya and her grandpa watch a cricket match. The scoreboard shows the runs in figures, and Grandpa reads them aloud.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each score to its name. Read carefully!",
+        "marks": 5,
+        "items": [
+          {
+            "left": "127",
+            "right": "one hundred twenty-seven"
+          },
+          {
+            "left": "172",
+            "right": "one hundred seventy-two"
+          },
+          {
+            "left": "217",
+            "right": "two hundred seventeen"
+          },
+          {
+            "left": "271",
+            "right": "two hundred seventy-one"
+          },
+          {
+            "left": "712",
+            "right": "seven hundred twelve"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Is the spelling right or wrong?",
+        "marks": 8,
+        "groups": [
+          "Right",
+          "Wrong"
+        ],
+        "words": [
+          "forty",
+          "fourty",
+          "ninety",
+          "ninty",
+          "eighteen",
+          "eightteen",
+          "twelve",
+          "twelfe"
+        ],
+        "a": {
+          "forty": "Right",
+          "fourty": "Wrong",
+          "ninety": "Right",
+          "ninty": "Wrong",
+          "eighteen": "Right",
+          "eightteen": "Wrong",
+          "twelve": "Right",
+          "twelfe": "Wrong"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the number.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "two hundred eight",
+            "options": [
+              "208",
+              "280",
+              "28"
+            ],
+            "after": "",
+            "a": "208"
+          },
+          {
+            "before": "one hundred ninety",
+            "options": [
+              "109",
+              "190",
+              "119"
+            ],
+            "after": "",
+            "a": "190"
+          },
+          {
+            "before": "three hundred thirteen",
+            "options": [
+              "313",
+              "330",
+              "303"
+            ],
+            "after": "",
+            "a": "313"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the scoreboard problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "India scored 150 runs. In words, that is ___ runs.",
+            "a": "one hundred fifty"
+          },
+          {
+            "q": "The other team scored one hundred sixty-four runs. In figures, that is ___ runs.",
+            "a": "164"
+          },
+          {
+            "q": "One batter hit sixty-six runs. In figures, that is ___ runs.",
+            "a": "66"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "number-names-05",
+    "topic": "number-names",
+    "number": 5,
+    "level": "Practice",
+    "title": "Shopping for a Cousin's Wedding",
+    "intro": "Rhea's cousin is getting married in Jaipur. Rhea helps write the numbers on the shopping lists.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write in words.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "243",
+            "a": "two hundred forty-three"
+          },
+          {
+            "q": "508",
+            "a": "five hundred eight"
+          },
+          {
+            "q": "760",
+            "a": "seven hundred sixty"
+          },
+          {
+            "q": "386",
+            "a": "three hundred eighty-six"
+          },
+          {
+            "q": "631",
+            "a": "six hundred thirty-one"
+          },
+          {
+            "q": "452",
+            "a": "four hundred fifty-two"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the number in figures.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "seven hundred one = ___",
+            "a": "701"
+          },
+          {
+            "q": "four hundred forty-four = ___",
+            "a": "444"
+          },
+          {
+            "q": "nine hundred twenty = ___",
+            "a": "920"
+          },
+          {
+            "q": "two hundred ninety-nine = ___",
+            "a": "299"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the bigger number.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "six hundred nine",
+              "six hundred ninety"
+            ],
+            "after": "is bigger.",
+            "a": "six hundred ninety"
+          },
+          {
+            "before": "",
+            "options": [
+              "three hundred fifty",
+              "three hundred five"
+            ],
+            "after": "is bigger.",
+            "a": "three hundred fifty"
+          },
+          {
+            "before": "",
+            "options": [
+              "eight hundred twelve",
+              "eight hundred twenty-one"
+            ],
+            "after": "is bigger.",
+            "a": "eight hundred twenty-one"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Five hundred is written as 500.",
+            "a": true
+          },
+          {
+            "q": "Two hundred twelve is written as 2012.",
+            "a": false
+          },
+          {
+            "q": "We read 836 as eight hundred thirty-six.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again with the number in words.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "The caterer needs 125 plates.",
+            "a": "The caterer needs one hundred twenty-five plates."
+          },
+          {
+            "q": "Rhea counted 480 flower garlands.",
+            "a": "Rhea counted four hundred eighty flower garlands."
+          }
+        ]
+      }
+    ]
+  }
+]

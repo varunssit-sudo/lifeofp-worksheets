@@ -1,0 +1,619 @@
+[
+  {
+    "id": "animals-around-us-01",
+    "topic": "animals-around-us",
+    "number": 1,
+    "level": "Starter",
+    "title": "A Morning Walk in Our Colony",
+    "intro": "Kiran walks to the park in Bengaluru with his dad. They spot many animals on the way.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the animals.",
+        "marks": 6,
+        "groups": [
+          "Pet animals",
+          "Wild animals"
+        ],
+        "words": [
+          "kitten",
+          "puppy",
+          "goldfish",
+          "tiger",
+          "wolf",
+          "zebra"
+        ],
+        "a": {
+          "kitten": "Pet animals",
+          "puppy": "Pet animals",
+          "goldfish": "Pet animals",
+          "tiger": "Wild animals",
+          "wolf": "Wild animals",
+          "zebra": "Wild animals"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Pet animals live with us in our homes.",
+            "a": true
+          },
+          {
+            "q": "A lion is a pet animal.",
+            "a": false
+          },
+          {
+            "q": "Wild animals live in forests and jungles.",
+            "a": true
+          },
+          {
+            "q": "A rabbit can be kept as a pet.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Animals that live in forests on their own are ___ animals.",
+            "a": "wild"
+          },
+          {
+            "q": "Animals we keep at home with love are ___ animals.",
+            "a": "pet"
+          },
+          {
+            "q": "A cow, a goat and a hen are ___ animals.",
+            "a": "domestic"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A",
+            "options": [
+              "parrot",
+              "bear"
+            ],
+            "after": "can be a pet.",
+            "a": "parrot"
+          },
+          {
+            "before": "A",
+            "options": [
+              "giraffe",
+              "kitten"
+            ],
+            "after": "lives in the wild.",
+            "a": "giraffe"
+          },
+          {
+            "before": "Animals that are kept on farms are",
+            "options": [
+              "domestic",
+              "wild"
+            ],
+            "after": "animals.",
+            "a": "domestic"
+          },
+          {
+            "before": "A",
+            "options": [
+              "cow",
+              "fox"
+            ],
+            "after": "is a domestic animal.",
+            "a": "cow"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name one animal you saw on your way to school.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. a dog, a cat, a crow, a cow."
+      }
+    ]
+  },
+  {
+    "id": "animals-around-us-02",
+    "topic": "animals-around-us",
+    "number": 2,
+    "level": "Starter",
+    "title": "Grandma's Dairy in Gujarat",
+    "intro": "Hetal visits her grandma's farm. She learns how farm animals help us.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the animal to what it gives us.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "cow",
+            "right": "milk"
+          },
+          {
+            "left": "hen",
+            "right": "eggs"
+          },
+          {
+            "left": "sheep",
+            "right": "wool"
+          },
+          {
+            "left": "bee",
+            "right": "honey"
+          },
+          {
+            "left": "silkworm",
+            "right": "silk"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the animal to the work it does.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "ox",
+            "right": "pulls the plough"
+          },
+          {
+            "left": "donkey",
+            "right": "carries heavy loads"
+          },
+          {
+            "left": "horse",
+            "right": "pulls a cart"
+          },
+          {
+            "left": "dog",
+            "right": "guards the house"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Domestic animals are kept by people for their use.",
+            "a": true
+          },
+          {
+            "q": "We get wool from a hen.",
+            "a": false
+          },
+          {
+            "q": "A buffalo gives us milk.",
+            "a": true
+          },
+          {
+            "q": "Camels carry people across the desert.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Curd, butter and paneer are made from ___.",
+            "a": "milk"
+          },
+          {
+            "q": "A sweater is made from the ___ of a sheep.",
+            "a": "wool"
+          },
+          {
+            "q": "Grandma collects ___ from the hens every morning.",
+            "a": "eggs"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one food we get from animals.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any one, e.g. milk, eggs, honey, curd, cheese."
+      }
+    ]
+  },
+  {
+    "id": "animals-around-us-03",
+    "topic": "animals-around-us",
+    "number": 3,
+    "level": "Starter",
+    "title": "The Pet Show at School",
+    "intro": "Class 2 holds a pet show in Dubai. Each child brings a photo of a pet.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "A pet needs food and water every day.",
+            "a": true
+          },
+          {
+            "q": "We can keep a tiger as a pet at home.",
+            "a": false
+          },
+          {
+            "q": "A dog likes to go for a walk.",
+            "a": true
+          },
+          {
+            "q": "A goldfish lives in a tank or bowl of water.",
+            "a": true
+          },
+          {
+            "q": "Pets need love and care.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the pet to its food.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "rabbit",
+            "right": "carrots and leafy greens"
+          },
+          {
+            "left": "parrot",
+            "right": "seeds and fruit"
+          },
+          {
+            "left": "goldfish",
+            "right": "fish flakes"
+          },
+          {
+            "left": "dog",
+            "right": "dog food"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Ayaan's dog sleeps in a",
+            "options": [
+              "kennel",
+              "hive"
+            ],
+            "after": ".",
+            "a": "kennel"
+          },
+          {
+            "before": "Grace's parrot lives in a",
+            "options": [
+              "cage",
+              "burrow"
+            ],
+            "after": ".",
+            "a": "cage"
+          },
+          {
+            "before": "Pets make us",
+            "options": [
+              "happy",
+              "sad"
+            ],
+            "after": ".",
+            "a": "happy"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the young one of each pet.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "dog",
+            "a": "puppy"
+          },
+          {
+            "q": "cat",
+            "a": "kitten"
+          },
+          {
+            "q": "rabbit",
+            "a": "bunny"
+          },
+          {
+            "q": "goat",
+            "a": "kid"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which pet would you like? Write why.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"I would like a cat because it is soft and playful.\""
+      }
+    ]
+  },
+  {
+    "id": "animals-around-us-04",
+    "topic": "animals-around-us",
+    "number": 4,
+    "level": "Starter",
+    "title": "A Jeep Safari in Ranthambore",
+    "intro": "Neha and Max ride in a jeep through the forest. The guide shows them wild animals.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the wild animal to a fact.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "tiger",
+            "right": "has black stripes"
+          },
+          {
+            "left": "elephant",
+            "right": "has a long trunk"
+          },
+          {
+            "left": "monkey",
+            "right": "has a long tail and climbs trees"
+          },
+          {
+            "left": "peacock",
+            "right": "has colourful tail feathers"
+          },
+          {
+            "left": "crocodile",
+            "right": "rests in the lake"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Wild animals find their own food.",
+            "a": true
+          },
+          {
+            "q": "We should feed biscuits to wild animals.",
+            "a": false
+          },
+          {
+            "q": "We must keep quiet on a safari.",
+            "a": true
+          },
+          {
+            "q": "A tiger is a wild animal.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the animals.",
+        "marks": 6,
+        "groups": [
+          "Wild animals",
+          "Domestic animals"
+        ],
+        "words": [
+          "leopard",
+          "bear",
+          "jackal",
+          "buffalo",
+          "goat",
+          "hen"
+        ],
+        "a": {
+          "leopard": "Wild animals",
+          "bear": "Wild animals",
+          "jackal": "Wild animals",
+          "buffalo": "Domestic animals",
+          "goat": "Domestic animals",
+          "hen": "Domestic animals"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Wild animals live in ___ and jungles.",
+            "a": "forests"
+          },
+          {
+            "q": "A place where wild animals are kept safe is a ___ park.",
+            "a": "national"
+          },
+          {
+            "q": "We must not ___ the animals.",
+            "a": "tease"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one rule you must follow on a safari.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any one, e.g. stay in the jeep, keep quiet, do not feed the animals, do not throw things."
+      }
+    ]
+  },
+  {
+    "id": "animals-around-us-05",
+    "topic": "animals-around-us",
+    "number": 5,
+    "level": "Practice",
+    "title": "A Visit to the Camel Farm",
+    "intro": "Hamdan and Priya visit a camel farm near Al Ain. They talk about all kinds of animals.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the animals.",
+        "marks": 8,
+        "groups": [
+          "Pet",
+          "Farm",
+          "Wild"
+        ],
+        "words": [
+          "hamster",
+          "budgie",
+          "camel",
+          "sheep",
+          "duck",
+          "cheetah",
+          "rhino",
+          "hyena"
+        ],
+        "a": {
+          "hamster": "Pet",
+          "budgie": "Pet",
+          "camel": "Farm",
+          "sheep": "Farm",
+          "duck": "Farm",
+          "cheetah": "Wild",
+          "rhino": "Wild",
+          "hyena": "Wild"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A camel can carry people and goods across the desert.",
+            "a": true
+          },
+          {
+            "q": "Camel milk is sold in shops in the UAE.",
+            "a": true
+          },
+          {
+            "q": "A cheetah is a domestic animal.",
+            "a": false
+          },
+          {
+            "q": "Domestic animals depend on people for food and shelter.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A camel is called the ship of the",
+            "options": [
+              "desert",
+              "sea"
+            ],
+            "after": ".",
+            "a": "desert"
+          },
+          {
+            "before": "A rhino lives in the",
+            "options": [
+              "wild",
+              "house"
+            ],
+            "after": ".",
+            "a": "wild"
+          },
+          {
+            "before": "A duck gives us",
+            "options": [
+              "eggs",
+              "wool"
+            ],
+            "after": ".",
+            "a": "eggs"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the young one.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "camel",
+            "a": "calf"
+          },
+          {
+            "q": "sheep",
+            "a": "lamb"
+          },
+          {
+            "q": "duck",
+            "a": "duckling"
+          },
+          {
+            "q": "hen",
+            "a": "chick"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Hamdan feeds the camel some dry ___.",
+            "a": "grass"
+          },
+          {
+            "q": "Animals that help us on farms are ___ animals.",
+            "a": "domestic"
+          },
+          {
+            "q": "Wild animals live on their own and find their own ___.",
+            "a": "food"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways animals help people.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. give milk or eggs, carry loads, pull carts, guard homes, give wool."
+      }
+    ]
+  }
+]

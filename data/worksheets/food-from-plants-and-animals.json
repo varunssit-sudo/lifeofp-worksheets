@@ -1,0 +1,613 @@
+[
+  {
+    "id": "food-from-plants-and-animals-01",
+    "topic": "food-from-plants-and-animals",
+    "number": 1,
+    "level": "Starter",
+    "title": "Helping Dadi in the Kitchen",
+    "intro": "Ishaan helps Dadi cook dinner in Lucknow. Some foods come from plants and some come from animals.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the foods into From plants and From animals.",
+        "marks": 8,
+        "groups": [
+          "From plants",
+          "From animals"
+        ],
+        "words": [
+          "onion",
+          "wheat flour",
+          "lentils",
+          "brinjal",
+          "milk",
+          "eggs",
+          "chicken",
+          "ghee"
+        ],
+        "a": {
+          "onion": "From plants",
+          "wheat flour": "From plants",
+          "lentils": "From plants",
+          "brinjal": "From plants",
+          "milk": "From animals",
+          "eggs": "From animals",
+          "chicken": "From animals",
+          "ghee": "From animals"
+        }
+      },
+      {
+        "type": "match",
+        "title": "Match the food to where it comes from.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "honey",
+            "right": "bee"
+          },
+          {
+            "left": "egg",
+            "right": "hen"
+          },
+          {
+            "left": "milk",
+            "right": "cow"
+          },
+          {
+            "left": "rice",
+            "right": "rice plant"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We get most of our food from plants.",
+            "a": true
+          },
+          {
+            "q": "Ghee is made from milk.",
+            "a": true
+          },
+          {
+            "q": "Sugar comes from an animal.",
+            "a": false
+          },
+          {
+            "q": "Fish is food we get from animals.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Dadi makes rotis from ___ flour.",
+            "a": "wheat"
+          },
+          {
+            "q": "Bees make sweet ___.",
+            "a": "honey"
+          },
+          {
+            "q": "We get eggs from ___ and ducks.",
+            "a": "hens"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two foods from plants that you ate today.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"rice and banana\"."
+      }
+    ]
+  },
+  {
+    "id": "food-from-plants-and-animals-02",
+    "topic": "food-from-plants-and-animals",
+    "number": 2,
+    "level": "Starter",
+    "title": "A Visit to the Dairy Farm",
+    "intro": "Class 2 visits a dairy farm near Anand. They see cows and buffaloes being milked.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the names of the milk foods.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We blend milk with banana to make a banana ___.",
+            "a": "milkshake"
+          },
+          {
+            "q": "We churn cream to make ___.",
+            "a": "butter"
+          },
+          {
+            "q": "When butter is heated, we get ___.",
+            "a": "ghee"
+          },
+          {
+            "q": "Soft white cubes in palak ___ are made from milk.",
+            "a": "paneer"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Cows, goats and buffaloes give us milk.",
+            "a": true
+          },
+          {
+            "q": "Camels also give milk.",
+            "a": true
+          },
+          {
+            "q": "Cheese is made from milk.",
+            "a": true
+          },
+          {
+            "q": "Butter grows on trees.",
+            "a": false
+          },
+          {
+            "q": "We should boil milk before we drink it.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Milk helps make our",
+            "options": [
+              "bones",
+              "hair"
+            ],
+            "after": "strong.",
+            "a": "bones"
+          },
+          {
+            "before": "A cow eats",
+            "options": [
+              "grass",
+              "meat"
+            ],
+            "after": "to stay healthy.",
+            "a": "grass"
+          },
+          {
+            "before": "Ice cream is made from",
+            "options": [
+              "milk",
+              "oil"
+            ],
+            "after": "and sugar.",
+            "a": "milk"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Milk foods and Not milk foods.",
+        "marks": 6,
+        "groups": [
+          "Milk foods",
+          "Not milk foods"
+        ],
+        "words": [
+          "cheese",
+          "buttermilk",
+          "khoa",
+          "rice",
+          "orange",
+          "peanuts"
+        ],
+        "a": {
+          "cheese": "Milk foods",
+          "buttermilk": "Milk foods",
+          "khoa": "Milk foods",
+          "rice": "Not milk foods",
+          "orange": "Not milk foods",
+          "peanuts": "Not milk foods"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Write one way to say thank you to the farmer.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"Thank you for the fresh milk.\""
+      }
+    ]
+  },
+  {
+    "id": "food-from-plants-and-animals-03",
+    "topic": "food-from-plants-and-animals",
+    "number": 3,
+    "level": "Starter",
+    "title": "Our Terrace Vegetable Garden",
+    "intro": "Mia and her mother grow vegetables on their terrace in Bengaluru. We eat different parts of plants.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the food to the plant part we eat.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "carrot",
+            "right": "root"
+          },
+          {
+            "left": "spinach",
+            "right": "leaf"
+          },
+          {
+            "left": "cauliflower",
+            "right": "flower"
+          },
+          {
+            "left": "peas",
+            "right": "seed"
+          },
+          {
+            "left": "sugarcane",
+            "right": "stem"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the foods into Roots and Leaves.",
+        "marks": 8,
+        "groups": [
+          "Roots",
+          "Leaves"
+        ],
+        "words": [
+          "radish",
+          "beetroot",
+          "turnip",
+          "sweet potato",
+          "cabbage",
+          "lettuce",
+          "mint",
+          "coriander"
+        ],
+        "a": {
+          "radish": "Roots",
+          "beetroot": "Roots",
+          "turnip": "Roots",
+          "sweet potato": "Roots",
+          "cabbage": "Leaves",
+          "lettuce": "Leaves",
+          "mint": "Leaves",
+          "coriander": "Leaves"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A potato is a stem that grows under the ground.",
+            "a": true
+          },
+          {
+            "q": "We eat the leaves of a mango tree.",
+            "a": false
+          },
+          {
+            "q": "A tomato is the fruit of the tomato plant.",
+            "a": true
+          },
+          {
+            "q": "Broccoli is a flower we eat.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the plant part.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Mia pulls a carrot out of the soil. It is a ___.",
+            "a": "root"
+          },
+          {
+            "q": "Rice and wheat are ___ that we eat.",
+            "a": "seeds"
+          },
+          {
+            "q": "A mango is a sweet ___.",
+            "a": "fruit"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name one plant part you ate today and the food.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I ate a leaf: spinach.\""
+      }
+    ]
+  },
+  {
+    "id": "food-from-plants-and-animals-04",
+    "topic": "food-from-plants-and-animals",
+    "number": 4,
+    "level": "Starter",
+    "title": "The Date Farm in Al Ain",
+    "intro": "Yusuf and his cousin Ben visit a date farm in Al Ain. They taste dates and camel milk.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Dates grow on date palm trees.",
+            "a": true
+          },
+          {
+            "q": "A date is a fruit.",
+            "a": true
+          },
+          {
+            "q": "Camel milk comes from a plant.",
+            "a": false
+          },
+          {
+            "q": "Dates are very sweet.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Yusuf drinks milk from a",
+            "options": [
+              "camel",
+              "palm"
+            ],
+            "after": "on the farm.",
+            "a": "camel"
+          },
+          {
+            "before": "The farmer picks dates from the",
+            "options": [
+              "tree",
+              "ground"
+            ],
+            "after": "in summer.",
+            "a": "tree"
+          },
+          {
+            "before": "Ben eats a boiled egg from a",
+            "options": [
+              "hen",
+              "goat"
+            ],
+            "after": "for lunch.",
+            "a": "hen"
+          },
+          {
+            "before": "Honey is made by",
+            "options": [
+              "bees",
+              "ants"
+            ],
+            "after": "from flower nectar.",
+            "a": "bees"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write P if the food comes from a plant or A if it comes from an animal.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "dates",
+            "a": "P"
+          },
+          {
+            "q": "camel milk",
+            "a": "A"
+          },
+          {
+            "q": "pomegranate",
+            "a": "P"
+          },
+          {
+            "q": "lamb",
+            "a": "A"
+          },
+          {
+            "q": "almonds",
+            "a": "P"
+          },
+          {
+            "q": "labneh",
+            "a": "A"
+          },
+          {
+            "q": "olives",
+            "a": "P"
+          },
+          {
+            "q": "prawns",
+            "a": "A"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the animal to the food it gives us.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "goat",
+            "right": "goat milk"
+          },
+          {
+            "left": "duck",
+            "right": "duck eggs"
+          },
+          {
+            "left": "bee",
+            "right": "honey"
+          },
+          {
+            "left": "fish",
+            "right": "fish curry"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two foods you would eat on a farm trip.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"dates and milk\"."
+      }
+    ]
+  },
+  {
+    "id": "food-from-plants-and-animals-05",
+    "topic": "food-from-plants-and-animals",
+    "number": 5,
+    "level": "Practice",
+    "title": "Feeding Time at the Zoo",
+    "intro": "Zookeeper Mr Das feeds the animals at the zoo. Animals need food too, just like us.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the animals by what they eat.",
+        "marks": 9,
+        "groups": [
+          "Plant eaters",
+          "Flesh eaters",
+          "Eat both"
+        ],
+        "words": [
+          "cow",
+          "elephant",
+          "deer",
+          "lion",
+          "tiger",
+          "eagle",
+          "bear",
+          "crow",
+          "hen"
+        ],
+        "a": {
+          "cow": "Plant eaters",
+          "elephant": "Plant eaters",
+          "deer": "Plant eaters",
+          "lion": "Flesh eaters",
+          "tiger": "Flesh eaters",
+          "eagle": "Flesh eaters",
+          "bear": "Eat both",
+          "crow": "Eat both",
+          "hen": "Eat both"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Animals that eat only plants are called ___.",
+            "a": "herbivores"
+          },
+          {
+            "q": "Animals that eat other animals are called ___.",
+            "a": "carnivores"
+          },
+          {
+            "q": "Animals that eat plants and animals are called ___.",
+            "a": "omnivores"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A giraffe eats leaves from tall trees.",
+            "a": true
+          },
+          {
+            "q": "A lion eats grass.",
+            "a": false
+          },
+          {
+            "q": "People eat food from both plants and animals.",
+            "a": true
+          },
+          {
+            "q": "Paneer is made from milk.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the food to the part or animal it comes from.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "ginger",
+            "right": "stem"
+          },
+          {
+            "left": "almond",
+            "right": "seed"
+          },
+          {
+            "left": "mutton",
+            "right": "goat"
+          },
+          {
+            "left": "cheese",
+            "right": "milk"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one food from a plant and one from an animal.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"From a plant: apple. From an animal: egg.\""
+      }
+    ]
+  }
+]

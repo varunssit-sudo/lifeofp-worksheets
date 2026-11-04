@@ -1,0 +1,669 @@
+[
+  {
+    "id": "fractions-01",
+    "topic": "fractions",
+    "number": 1,
+    "level": "Starter",
+    "title": "Sharing a Pizza at Home",
+    "intro": "Mama cuts pizzas into equal parts for Tara, Kabir and the family. Each equal part is a fraction of the whole pizza.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each fraction to its name.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "1/2",
+            "right": "one half"
+          },
+          {
+            "left": "1/4",
+            "right": "one quarter"
+          },
+          {
+            "left": "3/4",
+            "right": "three quarters"
+          },
+          {
+            "left": "2/2",
+            "right": "two halves"
+          },
+          {
+            "left": "4/4",
+            "right": "four quarters"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the missing word.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A pizza is cut into 2 equal parts. Each part is one ___.",
+            "a": "half"
+          },
+          {
+            "q": "A pizza is cut into 4 equal parts. Each part is one ___.",
+            "a": "quarter"
+          },
+          {
+            "q": "Two halves make one ___ pizza.",
+            "a": "whole"
+          },
+          {
+            "q": "Four quarters make ___ whole pizza.",
+            "a": "one"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "One half is one of 2 equal parts.",
+            "a": true
+          },
+          {
+            "q": "One quarter is one of 4 equal parts.",
+            "a": true
+          },
+          {
+            "q": "A pizza cut into 4 pieces of different sizes shows quarters.",
+            "a": false
+          },
+          {
+            "q": "Half a pizza is bigger than a quarter of the same pizza.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right fraction.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Kabir ate 1 of 4 equal slices. He ate",
+            "options": [
+              "1/2",
+              "1/4"
+            ],
+            "after": "of the pizza.",
+            "a": "1/4"
+          },
+          {
+            "before": "Tara ate 2 of 4 equal slices. She ate",
+            "options": [
+              "one half",
+              "one quarter"
+            ],
+            "after": "of the pizza.",
+            "a": "one half"
+          },
+          {
+            "before": "Papa ate 3 of 4 equal slices. He ate",
+            "options": [
+              "one quarter",
+              "three quarters"
+            ],
+            "after": "of the pizza.",
+            "a": "three quarters"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "How can you share one pizza equally among 4 people?",
+        "marks": 2,
+        "lines": 1,
+        "a": "Cut it into 4 equal parts; each person gets one quarter (1/4)."
+      }
+    ]
+  },
+  {
+    "id": "fractions-02",
+    "topic": "fractions",
+    "number": 2,
+    "level": "Starter",
+    "title": "The Diwali Sweets Box",
+    "intro": "Aarav's family shares boxes of Diwali sweets. To find half, share into 2 equal groups.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write half of each number.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "10",
+            "a": "5"
+          },
+          {
+            "q": "14",
+            "a": "7"
+          },
+          {
+            "q": "6",
+            "a": "3"
+          },
+          {
+            "q": "18",
+            "a": "9"
+          },
+          {
+            "q": "20",
+            "a": "10"
+          },
+          {
+            "q": "16",
+            "a": "8"
+          },
+          {
+            "q": "8",
+            "a": "4"
+          },
+          {
+            "q": "40",
+            "a": "20"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the sweet problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There are 22 laddoos. Half are for Dadi. Dadi gets ___ laddoos.",
+            "a": "11"
+          },
+          {
+            "q": "A box has 24 barfis. Aarav and his sister share them equally. Each gets ___.",
+            "a": "12"
+          },
+          {
+            "q": "Mama lit 50 diyas. Half are on the balcony. ___ diyas are on the balcony.",
+            "a": "25"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Half of 30 is 15.",
+            "a": true
+          },
+          {
+            "q": "Half of 26 is 12.",
+            "a": false
+          },
+          {
+            "q": "28 shared into two equal halves gives 14 and 14.",
+            "a": true
+          },
+          {
+            "q": "9 sweets can be shared into two equal halves with none left.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each number to its half.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "60",
+            "right": "30"
+          },
+          {
+            "left": "44",
+            "right": "22"
+          },
+          {
+            "left": "32",
+            "right": "16"
+          },
+          {
+            "left": "90",
+            "right": "45"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two numbers that cannot be shared into two equal halves.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any two odd numbers, for example 7 and 15."
+      }
+    ]
+  },
+  {
+    "id": "fractions-03",
+    "topic": "fractions",
+    "number": 3,
+    "level": "Starter",
+    "title": "Picnic at Zabeel Park",
+    "intro": "Zara, Omar, Nisha and Leo share everything equally at their picnic. Each friend gets one quarter.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write one quarter of each number.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "8",
+            "a": "2"
+          },
+          {
+            "q": "12",
+            "a": "3"
+          },
+          {
+            "q": "20",
+            "a": "5"
+          },
+          {
+            "q": "16",
+            "a": "4"
+          },
+          {
+            "q": "24",
+            "a": "6"
+          },
+          {
+            "q": "40",
+            "a": "10"
+          },
+          {
+            "q": "28",
+            "a": "7"
+          },
+          {
+            "q": "36",
+            "a": "9"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the picnic problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There are 32 grapes. Each friend gets one quarter. That is ___ grapes.",
+            "a": "8"
+          },
+          {
+            "q": "The 4 friends share 44 crackers equally. Each friend gets ___ crackers.",
+            "a": "11"
+          },
+          {
+            "q": "A bag has 48 popcorn pieces. One quarter of them is ___ pieces.",
+            "a": "12"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "One quarter of 60 is",
+            "options": [
+              "15",
+              "30"
+            ],
+            "after": ".",
+            "a": "15"
+          },
+          {
+            "before": "Half of 60 is",
+            "options": [
+              "15",
+              "30"
+            ],
+            "after": ".",
+            "a": "30"
+          },
+          {
+            "before": "One quarter of a sandwich is",
+            "options": [
+              "bigger",
+              "smaller"
+            ],
+            "after": "than one half of it.",
+            "a": "smaller"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "To find one quarter, share into 4 equal groups.",
+            "a": true
+          },
+          {
+            "q": "One quarter of 8 is 4.",
+            "a": false
+          },
+          {
+            "q": "Two quarters make one half.",
+            "a": true
+          },
+          {
+            "q": "One quarter of 100 is 25.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find a quarter by halving twice.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Half of 52 is 26, and half of 26 is 13. So one quarter of 52 is ___.",
+            "a": "13"
+          },
+          {
+            "q": "Half of 72 is 36, and half of 36 is 18. So one quarter of 72 is ___.",
+            "a": "18"
+          },
+          {
+            "q": "Half of 88 is 44, and half of 44 is 22. So one quarter of 88 is ___.",
+            "a": "22"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fractions-04",
+    "topic": "fractions",
+    "number": 4,
+    "level": "Starter",
+    "title": "The Class Art Corner",
+    "intro": "Ms Fernandes gives Class 2 paper shapes and beads to fold, cut, colour and share.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort: equal halves or not?",
+        "marks": 6,
+        "groups": [
+          "Equal halves",
+          "Not equal halves"
+        ],
+        "words": [
+          "12 split into 6 and 6",
+          "12 split into 8 and 4",
+          "20 split into 10 and 10",
+          "20 split into 11 and 9",
+          "14 split into 7 and 7",
+          "14 split into 9 and 5"
+        ],
+        "a": {
+          "12 split into 6 and 6": "Equal halves",
+          "12 split into 8 and 4": "Not equal halves",
+          "20 split into 10 and 10": "Equal halves",
+          "20 split into 11 and 9": "Not equal halves",
+          "14 split into 7 and 7": "Equal halves",
+          "14 split into 9 and 5": "Not equal halves"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the fraction that is coloured.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A square is folded into 4 equal parts. Riya colours 1 part. That is",
+            "options": [
+              "1/2",
+              "1/4"
+            ],
+            "after": ".",
+            "a": "1/4"
+          },
+          {
+            "before": "A circle is cut into 2 equal parts and 1 part is coloured. That is",
+            "options": [
+              "1/2",
+              "1/4"
+            ],
+            "after": ".",
+            "a": "1/2"
+          },
+          {
+            "before": "A strip has 4 equal parts and 3 are coloured. That is",
+            "options": [
+              "1/4",
+              "3/4"
+            ],
+            "after": ".",
+            "a": "3/4"
+          },
+          {
+            "before": "A card has 4 equal parts and 2 are coloured. That is the same as",
+            "options": [
+              "1/2",
+              "1/4"
+            ],
+            "after": ".",
+            "a": "1/2"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the name as a fraction.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "one half",
+            "a": "1/2"
+          },
+          {
+            "q": "one quarter",
+            "a": "1/4"
+          },
+          {
+            "q": "three quarters",
+            "a": "3/4"
+          },
+          {
+            "q": "two halves",
+            "a": "2/2"
+          },
+          {
+            "q": "four quarters",
+            "a": "4/4"
+          },
+          {
+            "q": "two quarters",
+            "a": "2/4"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A shape cut into 4 equal parts has 4 quarters.",
+            "a": true
+          },
+          {
+            "q": "A shape cut into 2 unequal parts shows two halves.",
+            "a": false
+          },
+          {
+            "q": "Three quarters is more than one half.",
+            "a": true
+          },
+          {
+            "q": "1/4 means 1 out of 4 equal parts.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name two things at home you can cut into halves.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any two sensible things, e.g. a roti, an apple, a sandwich."
+      }
+    ]
+  },
+  {
+    "id": "fractions-05",
+    "topic": "fractions",
+    "number": 5,
+    "level": "Practice",
+    "title": "Mango Season at Nani's House",
+    "intro": "Nani picked mangoes from her tree in Ratnagiri. Ishaan and his cousins help share them out.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Find the fraction of each number.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "1/2 of 34",
+            "a": "17"
+          },
+          {
+            "q": "1/4 of 56",
+            "a": "14"
+          },
+          {
+            "q": "1/2 of 70",
+            "a": "35"
+          },
+          {
+            "q": "1/4 of 64",
+            "a": "16"
+          },
+          {
+            "q": "3/4 of 8",
+            "a": "6"
+          },
+          {
+            "q": "3/4 of 20",
+            "a": "15"
+          },
+          {
+            "q": "1/2 of 100",
+            "a": "50"
+          },
+          {
+            "q": "1/4 of 92",
+            "a": "23"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "1/2",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "1/4",
+            "a": ">"
+          },
+          {
+            "before": "1/4",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "3/4",
+            "a": "<"
+          },
+          {
+            "before": "2/4",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "1/2",
+            "a": "="
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the mango problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Nani has 26 mangoes. She gives half to the neighbours. She gives away ___ mangoes.",
+            "a": "13"
+          },
+          {
+            "q": "There are 80 mangoes in a crate. One quarter are still green. ___ mangoes are green.",
+            "a": "20"
+          },
+          {
+            "q": "The tree had 84 mangoes. Three quarters were picked. ___ mangoes were picked.",
+            "a": "63"
+          },
+          {
+            "q": "A mango cake is cut into quarters. ___ quarters make the whole cake.",
+            "a": "4"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Half of 50 is 25.",
+            "a": true
+          },
+          {
+            "q": "One quarter of 24 is 8.",
+            "a": false
+          },
+          {
+            "q": "Two quarters and two quarters make one whole.",
+            "a": true
+          },
+          {
+            "q": "3/4 of 12 is 6.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Nani has 10 mangoes. Can 4 children share them equally? Say why.",
+        "marks": 2,
+        "lines": 1,
+        "a": "No. 10 cannot be made into 4 equal groups: each child gets 2 and 2 are left over."
+      }
+    ]
+  }
+]

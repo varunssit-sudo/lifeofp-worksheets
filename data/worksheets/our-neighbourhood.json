@@ -1,0 +1,608 @@
+[
+  {
+    "id": "our-neighbourhood-01",
+    "topic": "our-neighbourhood",
+    "number": 1,
+    "level": "Starter",
+    "title": "A Walk Around My Block",
+    "intro": "Sameer walks around his block in Karama with his dad. They pass many useful places.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each place to what we do there.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "hospital",
+            "right": "see a doctor"
+          },
+          {
+            "left": "park",
+            "right": "play and walk"
+          },
+          {
+            "left": "supermarket",
+            "right": "buy groceries"
+          },
+          {
+            "left": "school",
+            "right": "learn new things"
+          },
+          {
+            "left": "pharmacy",
+            "right": "buy medicines"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the place.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Sameer's dad fills petrol at the petrol ___.",
+            "a": "station"
+          },
+          {
+            "q": "They wait for the bus at the bus ___.",
+            "a": "stop"
+          },
+          {
+            "q": "Sameer borrows books from the ___.",
+            "a": "library"
+          },
+          {
+            "q": "We go to the ___ to cut our hair.",
+            "a": "salon"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The places around our home make our neighbourhood.",
+            "a": true
+          },
+          {
+            "q": "We buy medicines at a bakery.",
+            "a": false
+          },
+          {
+            "q": "A park is a good place to play.",
+            "a": true
+          },
+          {
+            "q": "We go to a hospital to buy toys.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct place.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Sameer's mum buys bread at the",
+            "options": [
+              "bakery",
+              "bank"
+            ],
+            "after": "every morning.",
+            "a": "bakery"
+          },
+          {
+            "before": "Sick people go to the",
+            "options": [
+              "clinic",
+              "cinema"
+            ],
+            "after": "for help.",
+            "a": "clinic"
+          },
+          {
+            "before": "We go swimming at the",
+            "options": [
+              "pool",
+              "post office"
+            ],
+            "after": "on Fridays.",
+            "a": "pool"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write the names of two places near your home.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"a park and a supermarket\"."
+      }
+    ]
+  },
+  {
+    "id": "our-neighbourhood-02",
+    "topic": "our-neighbourhood",
+    "number": 2,
+    "level": "Starter",
+    "title": "Posting a Letter to Grandpa",
+    "intro": "Tia writes a letter to her grandpa in Goa. Mum takes her to the post office and the bank.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We buy stamps at the post ___.",
+            "a": "office"
+          },
+          {
+            "q": "Tia drops her letter in the red ___.",
+            "a": "postbox"
+          },
+          {
+            "q": "The ___ delivers the letter to Grandpa.",
+            "a": "postman"
+          },
+          {
+            "q": "We keep our money safe in a ___.",
+            "a": "bank"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We write the address on the envelope.",
+            "a": true
+          },
+          {
+            "q": "A post office sends parcels and letters.",
+            "a": true
+          },
+          {
+            "q": "We can take out money from an ATM.",
+            "a": true
+          },
+          {
+            "q": "A bank is a place to buy vegetables.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the places into Shopping and Services.",
+        "marks": 6,
+        "groups": [
+          "Shopping",
+          "Services"
+        ],
+        "words": [
+          "toy shop",
+          "fruit market",
+          "shoe shop",
+          "post office",
+          "bank",
+          "fire station"
+        ],
+        "a": {
+          "toy shop": "Shopping",
+          "fruit market": "Shopping",
+          "shoe shop": "Shopping",
+          "post office": "Services",
+          "bank": "Services",
+          "fire station": "Services"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Tia sticks a",
+            "options": [
+              "stamp",
+              "sticker book"
+            ],
+            "after": "on the envelope.",
+            "a": "stamp"
+          },
+          {
+            "before": "Mum puts money in the bank to keep it",
+            "options": [
+              "safe",
+              "dirty"
+            ],
+            "after": "for later.",
+            "a": "safe"
+          },
+          {
+            "before": "The postman carries letters in a",
+            "options": [
+              "bag",
+              "bucket"
+            ],
+            "after": "on his bike.",
+            "a": "bag"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write who you would like to send a letter to and why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"My cousin, because I miss her.\""
+      }
+    ]
+  },
+  {
+    "id": "our-neighbourhood-03",
+    "topic": "our-neighbourhood",
+    "number": 3,
+    "level": "Starter",
+    "title": "Crossing the Road to School",
+    "intro": "Every morning Zoya and Liam walk to school in Ahmedabad. They follow the road safety rules.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each traffic light to what it means.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "red light",
+            "right": "stop"
+          },
+          {
+            "left": "yellow light",
+            "right": "get ready"
+          },
+          {
+            "left": "green light",
+            "right": "go"
+          },
+          {
+            "left": "zebra crossing",
+            "right": "safe place to cross"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "We should cross the road at the zebra crossing.",
+            "a": true
+          },
+          {
+            "q": "We look left and right before crossing.",
+            "a": true
+          },
+          {
+            "q": "It is safe to play on a busy road.",
+            "a": false
+          },
+          {
+            "q": "We should walk on the footpath.",
+            "a": true
+          },
+          {
+            "q": "We should run across the road when the light is red.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Zoya holds an adult's",
+            "options": [
+              "hand",
+              "bag"
+            ],
+            "after": "when she crosses.",
+            "a": "hand"
+          },
+          {
+            "before": "The traffic police officer",
+            "options": [
+              "guides",
+              "ignores"
+            ],
+            "after": "the traffic at the crossing.",
+            "a": "guides"
+          },
+          {
+            "before": "Liam wears a",
+            "options": [
+              "helmet",
+              "cap"
+            ],
+            "after": "when he rides his bicycle.",
+            "a": "helmet"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We wear a ___ belt in the car.",
+            "a": "seat"
+          },
+          {
+            "q": "A bridge for walkers over a busy road is a foot ___.",
+            "a": "overbridge"
+          },
+          {
+            "q": "We must ___ when the signal for walkers is red.",
+            "a": "wait"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one road safety rule you follow.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I cross at the zebra crossing.\""
+      }
+    ]
+  },
+  {
+    "id": "our-neighbourhood-04",
+    "topic": "our-neighbourhood",
+    "number": 4,
+    "level": "Starter",
+    "title": "Moving to a New Flat in Sharjah",
+    "intro": "Arya's family moves to a new flat in Sharjah. They explore the neighbourhood to find what they need.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle where Arya's family should go.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "They need milk and eggs. They go to the",
+            "options": [
+              "grocery shop",
+              "bank"
+            ],
+            "after": "downstairs.",
+            "a": "grocery shop"
+          },
+          {
+            "before": "Baby Kiran has a fever. They go to the",
+            "options": [
+              "clinic",
+              "park"
+            ],
+            "after": "nearby.",
+            "a": "clinic"
+          },
+          {
+            "before": "Arya wants to play on a slide. She goes to the",
+            "options": [
+              "park",
+              "pharmacy"
+            ],
+            "after": "with Dad.",
+            "a": "park"
+          },
+          {
+            "before": "Dad needs to send a parcel. He goes to the",
+            "options": [
+              "post office",
+              "salon"
+            ],
+            "after": "on Monday.",
+            "a": "post office"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the places into Places to worship and Places to play.",
+        "marks": 8,
+        "groups": [
+          "Places to worship",
+          "Places to play"
+        ],
+        "words": [
+          "mosque",
+          "temple",
+          "church",
+          "gurudwara",
+          "playground",
+          "sports club",
+          "swimming pool",
+          "football ground"
+        ],
+        "a": {
+          "mosque": "Places to worship",
+          "temple": "Places to worship",
+          "church": "Places to worship",
+          "gurudwara": "Places to worship",
+          "playground": "Places to play",
+          "sports club": "Places to play",
+          "swimming pool": "Places to play",
+          "football ground": "Places to play"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Good neighbours help each other.",
+            "a": true
+          },
+          {
+            "q": "We should keep our neighbourhood clean.",
+            "a": true
+          },
+          {
+            "q": "We should make loud noise late at night.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "People who live next to us are our ___.",
+            "a": "neighbours"
+          },
+          {
+            "q": "Arya's new neighbour gives her a box of ___ to say welcome.",
+            "a": "sweets"
+          },
+          {
+            "q": "We throw rubbish in the ___ at the end of the street.",
+            "a": "dustbin"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way to be a good neighbour.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I will smile and say hello.\""
+      }
+    ]
+  },
+  {
+    "id": "our-neighbourhood-05",
+    "topic": "our-neighbourhood",
+    "number": 5,
+    "level": "Practice",
+    "title": "The Neighbourhood Treasure Hunt",
+    "intro": "The children of Green Park Colony in Kolkata go on a treasure hunt. Each clue leads to a place.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the clue. Name the place.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Trains stop here to pick up people. It is the railway ___.",
+            "a": "station"
+          },
+          {
+            "q": "Firefighters and red engines wait here. It is the fire ___.",
+            "a": "station"
+          },
+          {
+            "q": "You can see a film on a big screen here. It is the ___.",
+            "a": "cinema"
+          },
+          {
+            "q": "Fresh fruit and vegetables are sold here. It is the ___.",
+            "a": "market"
+          },
+          {
+            "q": "Planes take off and land here. It is the ___.",
+            "a": "airport"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each helper to the place they work.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "doctor",
+            "right": "hospital"
+          },
+          {
+            "left": "teacher",
+            "right": "school"
+          },
+          {
+            "left": "librarian",
+            "right": "library"
+          },
+          {
+            "left": "chef",
+            "right": "restaurant"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A neighbourhood has homes, shops and parks.",
+            "a": true
+          },
+          {
+            "q": "We should break the swings in the park.",
+            "a": false
+          },
+          {
+            "q": "A map can show us where places are.",
+            "a": true
+          },
+          {
+            "q": "Everyone in a neighbourhood should help keep it safe.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write where you would go.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "to post a letter",
+            "a": "post office"
+          },
+          {
+            "q": "to buy bread",
+            "a": "bakery"
+          },
+          {
+            "q": "to keep money safe",
+            "a": "bank"
+          },
+          {
+            "q": "to buy medicine",
+            "a": "pharmacy"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two places in your neighbourhood and what you do there.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"I play in the park. I buy fruit at the market.\""
+      }
+    ]
+  }
+]

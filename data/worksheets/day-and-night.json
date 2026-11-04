@@ -1,0 +1,596 @@
+[
+  {
+    "id": "day-and-night-01",
+    "topic": "day-and-night",
+    "number": 1,
+    "level": "Starter",
+    "title": "The Torch and Globe Experiment",
+    "intro": "Mr Rao shines a torch on a globe in class. Pooja turns the globe slowly.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "The Earth is round like a ball.",
+            "a": true
+          },
+          {
+            "q": "The Earth spins all the time.",
+            "a": true
+          },
+          {
+            "q": "The side of the Earth facing the Sun has day.",
+            "a": true
+          },
+          {
+            "q": "The side away from the Sun has night.",
+            "a": true
+          },
+          {
+            "q": "The Sun goes around the Earth once every day.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In the experiment, the torch is like the ___.",
+            "a": "Sun"
+          },
+          {
+            "q": "The globe is like the ___.",
+            "a": "Earth"
+          },
+          {
+            "q": "When Pooja turns the globe, India moves from light into ___.",
+            "a": "dark"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The Earth spins like a",
+            "options": [
+              "top",
+              "book"
+            ],
+            "after": ".",
+            "a": "top"
+          },
+          {
+            "before": "It is day on the side that",
+            "options": [
+              "faces",
+              "hides from"
+            ],
+            "after": "the Sun.",
+            "a": "faces"
+          },
+          {
+            "before": "Day and night happen because the Earth",
+            "options": [
+              "spins",
+              "stops"
+            ],
+            "after": ".",
+            "a": "spins"
+          },
+          {
+            "before": "The Sun gives us",
+            "options": [
+              "light",
+              "rain"
+            ],
+            "after": ".",
+            "a": "light"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the words.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Sun",
+            "right": "gives light and heat"
+          },
+          {
+            "left": "Earth",
+            "right": "spins round and round"
+          },
+          {
+            "left": "day",
+            "right": "we see the Sun"
+          },
+          {
+            "left": "night",
+            "right": "it is dark"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "What would happen if the Earth stopped spinning? Write one idea.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. one side would always have day and the other side always night."
+      }
+    ]
+  },
+  {
+    "id": "day-and-night-02",
+    "topic": "day-and-night",
+    "number": 2,
+    "level": "Starter",
+    "title": "Sunrise at Jumeirah Beach",
+    "intro": "Ravi and Ella go for an early walk on the beach with their parents. They watch the Sun come up.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Put the times of day in order. Write 1, 2, 3, 4.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "evening   night   morning   noon",
+            "a": "3, 4, 1, 2 (morning, noon, evening, night)"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The Sun rises in the east.",
+            "a": true
+          },
+          {
+            "q": "The Sun sets in the west.",
+            "a": true
+          },
+          {
+            "q": "The Sun is high in the sky at noon.",
+            "a": true
+          },
+          {
+            "q": "The Sun rises in the evening.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The Sun",
+            "options": [
+              "rises",
+              "sets"
+            ],
+            "after": "in the morning.",
+            "a": "rises"
+          },
+          {
+            "before": "The Sun",
+            "options": [
+              "sets",
+              "rises"
+            ],
+            "after": "in the evening.",
+            "a": "sets"
+          },
+          {
+            "before": "At noon our shadow is",
+            "options": [
+              "short",
+              "very long"
+            ],
+            "after": ".",
+            "a": "short"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the time to the thing we do.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "morning",
+            "right": "brush our teeth and go to school"
+          },
+          {
+            "left": "noon",
+            "right": "eat lunch"
+          },
+          {
+            "left": "evening",
+            "right": "play in the park"
+          },
+          {
+            "left": "night",
+            "right": "sleep in bed"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing you see at sunrise.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. the sky turns orange, birds start chirping, the Sun comes up."
+      }
+    ]
+  },
+  {
+    "id": "day-and-night-03",
+    "topic": "day-and-night",
+    "number": 3,
+    "level": "Starter",
+    "title": "A Weekend at Home in Pune",
+    "intro": "Saturday is a busy day for Arnav and his sister Mira. They do different things in the day and at night.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the things we do.",
+        "marks": 8,
+        "groups": [
+          "In the day",
+          "At night"
+        ],
+        "words": [
+          "go to the market",
+          "play cricket outside",
+          "eat breakfast",
+          "have lunch",
+          "look at the stars",
+          "wear night clothes",
+          "switch on the lights to see",
+          "go to bed"
+        ],
+        "a": {
+          "go to the market": "In the day",
+          "play cricket outside": "In the day",
+          "eat breakfast": "In the day",
+          "have lunch": "In the day",
+          "look at the stars": "At night",
+          "wear night clothes": "At night",
+          "switch on the lights to see": "At night",
+          "go to bed": "At night"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We get sunlight in the daytime.",
+            "a": true
+          },
+          {
+            "q": "We need lights at night to see.",
+            "a": true
+          },
+          {
+            "q": "We should sleep well at night.",
+            "a": true
+          },
+          {
+            "q": "It is dark at noon.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the opposite.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "day",
+            "a": "night"
+          },
+          {
+            "q": "light",
+            "a": "dark"
+          },
+          {
+            "q": "sunrise",
+            "a": "sunset"
+          },
+          {
+            "q": "morning",
+            "a": "evening"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Arnav dries his wet towel in the ___.",
+            "a": "sun"
+          },
+          {
+            "q": "At night Mira sees the ___ shining in the sky.",
+            "a": "Moon"
+          },
+          {
+            "q": "Our body needs ___ at night to grow well.",
+            "a": "sleep"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things you do at night.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. eat dinner, brush my teeth, read a story, go to sleep."
+      }
+    ]
+  },
+  {
+    "id": "day-and-night-04",
+    "topic": "day-and-night",
+    "number": 4,
+    "level": "Starter",
+    "title": "Camping Under the Stars in Hatta",
+    "intro": "Reem and Aryan go camping with their families. They stay up late to look at the night sky.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "We can see the Moon and stars at night.",
+            "a": true
+          },
+          {
+            "q": "The Sun is a star.",
+            "a": true
+          },
+          {
+            "q": "The Moon has its own light.",
+            "a": false
+          },
+          {
+            "q": "The Moon shines because the Sun's light falls on it.",
+            "a": true
+          },
+          {
+            "q": "Stars are there in the day too, but the Sun is too bright to see them.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the animals.",
+        "marks": 6,
+        "groups": [
+          "Awake at night",
+          "Awake in the day"
+        ],
+        "words": [
+          "owl",
+          "bat",
+          "firefly",
+          "sparrow",
+          "butterfly",
+          "cow"
+        ],
+        "a": {
+          "owl": "Awake at night",
+          "bat": "Awake at night",
+          "firefly": "Awake at night",
+          "sparrow": "Awake in the day",
+          "butterfly": "Awake in the day",
+          "cow": "Awake in the day"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "At night it is",
+            "options": [
+              "dark",
+              "bright"
+            ],
+            "after": "outside.",
+            "a": "dark"
+          },
+          {
+            "before": "Reem uses a",
+            "options": [
+              "torch",
+              "kite"
+            ],
+            "after": "to see in the dark.",
+            "a": "torch"
+          },
+          {
+            "before": "An owl hunts at",
+            "options": [
+              "night",
+              "noon"
+            ],
+            "after": ".",
+            "a": "night"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The shape of the ___ seems to change every night.",
+            "a": "Moon"
+          },
+          {
+            "q": "Aryan counts the twinkling ___.",
+            "a": "stars"
+          },
+          {
+            "q": "Animals that are awake at night sleep in the ___.",
+            "a": "day"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing you can see in the night sky.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any one, e.g. the Moon, stars, a plane's lights."
+      }
+    ]
+  },
+  {
+    "id": "day-and-night-05",
+    "topic": "day-and-night",
+    "number": 5,
+    "level": "Practice",
+    "title": "A Video Call to Canada",
+    "intro": "Manav lives in Dubai. His cousin Simran lives in Toronto, Canada. When Manav wakes up, Simran is getting ready for bed.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "When it is day in one part of the world, it is night in another.",
+            "a": true
+          },
+          {
+            "q": "The Earth takes about 24 hours to spin once.",
+            "a": true
+          },
+          {
+            "q": "One spin of the Earth makes one day and one night.",
+            "a": true
+          },
+          {
+            "q": "It is daytime everywhere on Earth at the same time.",
+            "a": false
+          },
+          {
+            "q": "The Earth also moves around the Sun.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "When Manav eats breakfast, Simran is going to",
+            "options": [
+              "bed",
+              "school"
+            ],
+            "after": ".",
+            "a": "bed"
+          },
+          {
+            "before": "Dubai and Toronto are on",
+            "options": [
+              "different",
+              "the same"
+            ],
+            "after": "sides of the Earth.",
+            "a": "different"
+          },
+          {
+            "before": "The Earth spins on its",
+            "options": [
+              "axis",
+              "tail"
+            ],
+            "after": ".",
+            "a": "axis"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the start to the end.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "The Earth spins",
+            "right": "on its axis."
+          },
+          {
+            "left": "One full spin takes",
+            "right": "about 24 hours."
+          },
+          {
+            "left": "The side facing the Sun",
+            "right": "has day."
+          },
+          {
+            "left": "The side away from the Sun",
+            "right": "has night."
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There are ___ hours in one day.",
+            "a": "24"
+          },
+          {
+            "q": "The Sun rises in the ___.",
+            "a": "east"
+          },
+          {
+            "q": "Our shadow is longest in the early morning and ___.",
+            "a": "evening"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in one sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Why do we have day and night?",
+            "a": "We have day and night because the Earth spins, so each side faces the Sun and then turns away from it."
+          }
+        ]
+      }
+    ]
+  }
+]

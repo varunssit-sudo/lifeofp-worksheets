@@ -1,0 +1,628 @@
+[
+  {
+    "id": "tally-marks-01",
+    "topic": "tally-marks",
+    "number": 1,
+    "level": "Starter",
+    "title": "Fruit in Our Lunch Boxes",
+    "intro": "Class 2B made a tally chart of the fruit in their lunch boxes. In tally marks, ||||/ stands for a bundle of 5.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the number for each tally.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "|||",
+            "a": "3"
+          },
+          {
+            "q": "||||/ ||",
+            "a": "7"
+          },
+          {
+            "q": "||||/",
+            "a": "5"
+          },
+          {
+            "q": "||||/ ||||",
+            "a": "9"
+          },
+          {
+            "q": "||||/ ||||/ ||",
+            "a": "12"
+          },
+          {
+            "q": "||||/ ||||/",
+            "a": "10"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Read the fruit tally chart.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Apples: ||||/ | = ___",
+            "a": "6"
+          },
+          {
+            "q": "Bananas: ||||/ ||||/ | = ___",
+            "a": "11"
+          },
+          {
+            "q": "Mangoes: ||||/ ||| = ___",
+            "a": "8"
+          },
+          {
+            "q": "Grapes: |||| = ___",
+            "a": "4"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Most lunch boxes have",
+            "options": [
+              "Apples",
+              "Bananas",
+              "Mangoes",
+              "Grapes"
+            ],
+            "after": ".",
+            "a": "Bananas"
+          },
+          {
+            "before": "The fewest lunch boxes have",
+            "options": [
+              "Apples",
+              "Bananas",
+              "Mangoes",
+              "Grapes"
+            ],
+            "after": ".",
+            "a": "Grapes"
+          },
+          {
+            "before": "There are more mangoes than",
+            "options": [
+              "apples",
+              "bananas"
+            ],
+            "after": ".",
+            "a": "apples"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve using the chart.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There are ___ more bananas than apples.",
+            "a": "5"
+          },
+          {
+            "q": "Apples and mangoes make ___ fruits in all.",
+            "a": "14"
+          },
+          {
+            "q": "___ children had grapes.",
+            "a": "4"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In tally marks, the 5th line goes across the other 4.",
+            "a": true
+          },
+          {
+            "q": "||||/ ||||/ shows 10.",
+            "a": true
+          },
+          {
+            "q": "||| shows 4.",
+            "a": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tally-marks-02",
+    "topic": "tally-marks",
+    "number": 2,
+    "level": "Starter",
+    "title": "Birds at Lodhi Garden",
+    "intro": "Ravi counted birds at Lodhi Garden in Delhi and kept a tally. In tally marks, ||||/ stands for a bundle of 5.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the tally for each number.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "4",
+            "a": "||||"
+          },
+          {
+            "q": "6",
+            "a": "||||/ |"
+          },
+          {
+            "q": "10",
+            "a": "||||/ ||||/"
+          },
+          {
+            "q": "13",
+            "a": "||||/ ||||/ |||"
+          },
+          {
+            "q": "2",
+            "a": "||"
+          },
+          {
+            "q": "15",
+            "a": "||||/ ||||/ ||||/"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Read Ravi's tally chart.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Pigeons: ||||/ ||||/ ||||/ | = ___",
+            "a": "16"
+          },
+          {
+            "q": "Parrots: ||||/ |||| = ___",
+            "a": "9"
+          },
+          {
+            "q": "Mynas: ||||/ ||||/ ||| = ___",
+            "a": "13"
+          },
+          {
+            "q": "Crows: ||||/ || = ___",
+            "a": "7"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ravi saw more pigeons than mynas.",
+            "a": true
+          },
+          {
+            "q": "Ravi saw 7 crows.",
+            "a": true
+          },
+          {
+            "q": "Parrots were the fewest birds.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve using the chart.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ravi saw ___ birds altogether.",
+            "a": "45"
+          },
+          {
+            "q": "Ravi saw ___ more mynas than crows.",
+            "a": "6"
+          },
+          {
+            "q": "Ravi saw ___ fewer parrots than pigeons.",
+            "a": "7"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one question you can answer from this tally chart.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, for example: How many more pigeons than parrots? (7)"
+      }
+    ]
+  },
+  {
+    "id": "tally-marks-03",
+    "topic": "tally-marks",
+    "number": 3,
+    "level": "Starter",
+    "title": "Voting for the Class Trip",
+    "intro": "Class 2A voted for a trip. Each child made one tally mark. In tally marks, ||||/ stands for a bundle of 5.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "How many votes?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Dubai Frame: ||||/ ||| = ___ votes",
+            "a": "8"
+          },
+          {
+            "q": "Dubai Zoo: ||||/ ||||/ ||| = ___ votes",
+            "a": "13"
+          },
+          {
+            "q": "The Aquarium: ||||/ ||||/ | = ___ votes",
+            "a": "11"
+          },
+          {
+            "q": "Science Centre: ||||/ | = ___ votes",
+            "a": "6"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The most votes went to",
+            "options": [
+              "Dubai Zoo",
+              "The Aquarium"
+            ],
+            "after": ".",
+            "a": "Dubai Zoo"
+          },
+          {
+            "before": "The fewest votes went to",
+            "options": [
+              "Dubai Frame",
+              "Science Centre"
+            ],
+            "after": ".",
+            "a": "Science Centre"
+          },
+          {
+            "before": "The Aquarium got more votes than",
+            "options": [
+              "Dubai Zoo",
+              "Dubai Frame"
+            ],
+            "after": ".",
+            "a": "Dubai Frame"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve using the chart.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Dubai Zoo got ___ more votes than Dubai Frame.",
+            "a": "5"
+          },
+          {
+            "q": "___ children voted in all.",
+            "a": "38"
+          },
+          {
+            "q": "If 2 more children vote for The Aquarium, it will have ___ votes.",
+            "a": "13"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the tally for each number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "18",
+            "a": "||||/ ||||/ ||||/ |||"
+          },
+          {
+            "q": "20",
+            "a": "||||/ ||||/ ||||/ ||||/"
+          },
+          {
+            "q": "3",
+            "a": "|||"
+          },
+          {
+            "q": "14",
+            "a": "||||/ ||||/ ||||"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Dubai Zoo and The Aquarium got 24 votes together.",
+            "a": true
+          },
+          {
+            "q": "Science Centre got half as many votes as Dubai Zoo.",
+            "a": false
+          },
+          {
+            "q": "Tally marks help us count quickly in fives.",
+            "a": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tally-marks-04",
+    "topic": "tally-marks",
+    "number": 4,
+    "level": "Starter",
+    "title": "Ice Cream at the Birthday Party",
+    "intro": "At Anya's party each child picked one ice cream: mango, strawberry, chocolate, chocolate, strawberry, vanilla, mango, mango, vanilla, chocolate, mango, mango, strawberry, chocolate, mango, chocolate. In tally marks, ||||/ stands for a bundle of 5.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Make a tally and write the number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Mango",
+            "a": "||||/ | (6)"
+          },
+          {
+            "q": "Chocolate",
+            "a": "||||/ (5)"
+          },
+          {
+            "q": "Vanilla",
+            "a": "|| (2)"
+          },
+          {
+            "q": "Strawberry",
+            "a": "||| (3)"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The flavour picked most is",
+            "options": [
+              "mango",
+              "chocolate",
+              "vanilla"
+            ],
+            "after": ".",
+            "a": "mango"
+          },
+          {
+            "before": "The flavour picked least is",
+            "options": [
+              "strawberry",
+              "vanilla",
+              "chocolate"
+            ],
+            "after": ".",
+            "a": "vanilla"
+          },
+          {
+            "before": "More children picked strawberry than",
+            "options": [
+              "vanilla",
+              "chocolate"
+            ],
+            "after": ".",
+            "a": "vanilla"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve using your tally.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "___ children picked an ice cream.",
+            "a": "16"
+          },
+          {
+            "q": "___ more children picked mango than vanilla.",
+            "a": "4"
+          },
+          {
+            "q": "Chocolate and vanilla were picked by ___ children.",
+            "a": "7"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The tally for mango is a bundle of 5 and 1 more line.",
+            "a": true
+          },
+          {
+            "q": "The tally for strawberry is ||||.",
+            "a": false
+          },
+          {
+            "q": "Vanilla was picked by 2 children.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Ask 5 people at home their favourite fruit. Write a tally.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Check that the tally marks add up to 5."
+      }
+    ]
+  },
+  {
+    "id": "tally-marks-05",
+    "topic": "tally-marks",
+    "number": 5,
+    "level": "Practice",
+    "title": "Sports Day House Points",
+    "intro": "On Sports Day each house wins flags. The teacher keeps a tally. In tally marks, ||||/ stands for a bundle of 5.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "How many flags did each house win?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Ruby: ||||/ ||||/ ||||/ ||||/ ||| = ___",
+            "a": "23"
+          },
+          {
+            "q": "Sapphire: ||||/ ||||/ ||||/ |||| = ___",
+            "a": "19"
+          },
+          {
+            "q": "Emerald: ||||/ ||||/ ||||/ ||||/ ||||/ | = ___",
+            "a": "26"
+          },
+          {
+            "q": "Topaz: ||||/ ||||/ ||||/ = ___",
+            "a": "15"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The winning house is",
+            "options": [
+              "Ruby",
+              "Emerald",
+              "Sapphire"
+            ],
+            "after": ".",
+            "a": "Emerald"
+          },
+          {
+            "before": "In second place is",
+            "options": [
+              "Ruby",
+              "Sapphire",
+              "Topaz"
+            ],
+            "after": ".",
+            "a": "Ruby"
+          },
+          {
+            "before": "In last place is",
+            "options": [
+              "Sapphire",
+              "Topaz",
+              "Ruby"
+            ],
+            "after": ".",
+            "a": "Topaz"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve using the chart.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Emerald won ___ more flags than Topaz.",
+            "a": "11"
+          },
+          {
+            "q": "Ruby and Sapphire won ___ flags together.",
+            "a": "42"
+          },
+          {
+            "q": "All four houses won ___ flags.",
+            "a": "83"
+          },
+          {
+            "q": "Sapphire needs ___ more flags to tie with Ruby.",
+            "a": "4"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the tally for each number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "21",
+            "a": "||||/ ||||/ ||||/ ||||/ |"
+          },
+          {
+            "q": "25",
+            "a": "||||/ ||||/ ||||/ ||||/ ||||/"
+          },
+          {
+            "q": "17",
+            "a": "||||/ ||||/ ||||/ ||"
+          },
+          {
+            "q": "30",
+            "a": "||||/ ||||/ ||||/ ||||/ ||||/ ||||/"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A tally of 25 has 5 bundles.",
+            "a": true
+          },
+          {
+            "q": "||||/ ||||/ ||||/ ||||/ shows 20.",
+            "a": true
+          },
+          {
+            "q": "Topaz won 5 fewer flags than Sapphire.",
+            "a": false
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,615 @@
+[
+  {
+    "id": "living-and-non-living-things-01",
+    "topic": "living-and-non-living-things",
+    "number": 1,
+    "level": "Starter",
+    "title": "A Morning in Safa Park",
+    "intro": "Ethan and Zara go for a morning walk in the park. They see living and non-living things.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the things into Living and Non-living.",
+        "marks": 8,
+        "groups": [
+          "Living",
+          "Non-living"
+        ],
+        "words": [
+          "pigeon",
+          "palm tree",
+          "cat",
+          "gardener",
+          "bench",
+          "swing",
+          "stone",
+          "football"
+        ],
+        "a": {
+          "pigeon": "Living",
+          "palm tree": "Living",
+          "cat": "Living",
+          "gardener": "Living",
+          "bench": "Non-living",
+          "swing": "Non-living",
+          "stone": "Non-living",
+          "football": "Non-living"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Living things need food and water.",
+            "a": true
+          },
+          {
+            "q": "A bench can grow bigger.",
+            "a": false
+          },
+          {
+            "q": "A tree is a living thing.",
+            "a": true
+          },
+          {
+            "q": "A swing breathes air.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in Living or Non-living.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The duck in the pond is ___.",
+            "a": "living"
+          },
+          {
+            "q": "The slide in the play area is ___.",
+            "a": "non-living"
+          },
+          {
+            "q": "The grass on the lawn is ___.",
+            "a": "living"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the living thing.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Zara sees a",
+            "options": [
+              "squirrel",
+              "kite"
+            ],
+            "after": "on the tree.",
+            "a": "squirrel"
+          },
+          {
+            "before": "Ethan smells a",
+            "options": [
+              "rose",
+              "water bottle"
+            ],
+            "after": "in the garden.",
+            "a": "rose"
+          },
+          {
+            "before": "There is a",
+            "options": [
+              "dog",
+              "bicycle"
+            ],
+            "after": "near the gate.",
+            "a": "dog"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name two living things you can see from your window.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"a tree and a crow\"."
+      }
+    ]
+  },
+  {
+    "id": "living-and-non-living-things-02",
+    "topic": "living-and-non-living-things",
+    "number": 2,
+    "level": "Starter",
+    "title": "Our Classroom Pet Fish",
+    "intro": "Class 2 in Chennai has a pet goldfish called Bubbles in a tank. They compare Bubbles with the things in class.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each sign of life to what it means.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "breathe",
+            "right": "take in air"
+          },
+          {
+            "left": "grow",
+            "right": "become bigger"
+          },
+          {
+            "left": "move",
+            "right": "go from place to place"
+          },
+          {
+            "left": "feel",
+            "right": "know heat, cold or pain"
+          },
+          {
+            "left": "reproduce",
+            "right": "have young ones"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Bubbles the fish needs food to live.",
+            "a": true
+          },
+          {
+            "q": "The fish tank is a living thing.",
+            "a": false
+          },
+          {
+            "q": "Fish breathe in water using gills.",
+            "a": true
+          },
+          {
+            "q": "A desk can feel pain.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Bubbles is a",
+            "options": [
+              "living",
+              "non-living"
+            ],
+            "after": "thing.",
+            "a": "living"
+          },
+          {
+            "before": "The whiteboard is a",
+            "options": [
+              "living",
+              "non-living"
+            ],
+            "after": "thing.",
+            "a": "non-living"
+          },
+          {
+            "before": "Living things",
+            "options": [
+              "can",
+              "cannot"
+            ],
+            "after": "grow.",
+            "a": "can"
+          },
+          {
+            "before": "Non-living things",
+            "options": [
+              "need",
+              "do not need"
+            ],
+            "after": "food.",
+            "a": "do not need"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A fish lays ___ to have young ones.",
+            "a": "eggs"
+          },
+          {
+            "q": "Bubbles uses its fins to ___ in the water.",
+            "a": "swim"
+          },
+          {
+            "q": "A pencil does not grow, so it is ___.",
+            "a": "non-living"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way to take care of a pet.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"Give it food and clean water.\""
+      }
+    ]
+  },
+  {
+    "id": "living-and-non-living-things-03",
+    "topic": "living-and-non-living-things",
+    "number": 3,
+    "level": "Starter",
+    "title": "A Day at Jumeirah Beach",
+    "intro": "Aman builds a sandcastle at the beach. He sees crabs, shells and seagulls.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the beach things into Living and Non-living.",
+        "marks": 8,
+        "groups": [
+          "Living",
+          "Non-living"
+        ],
+        "words": [
+          "crab",
+          "seagull",
+          "fish",
+          "seaweed",
+          "sand",
+          "empty shell",
+          "umbrella",
+          "sandcastle"
+        ],
+        "a": {
+          "crab": "Living",
+          "seagull": "Living",
+          "fish": "Living",
+          "seaweed": "Living",
+          "sand": "Non-living",
+          "empty shell": "Non-living",
+          "umbrella": "Non-living",
+          "sandcastle": "Non-living"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A crab can move on its own.",
+            "a": true
+          },
+          {
+            "q": "A boat moves, so it is a living thing.",
+            "a": false
+          },
+          {
+            "q": "Seaweed is a plant, so it is living.",
+            "a": true
+          },
+          {
+            "q": "The sea waves are living things.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each living thing to its young one.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "hen",
+            "right": "chick"
+          },
+          {
+            "left": "cat",
+            "right": "kitten"
+          },
+          {
+            "left": "dog",
+            "right": "puppy"
+          },
+          {
+            "left": "cow",
+            "right": "calf"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A seagull uses its wings to ___.",
+            "a": "fly"
+          },
+          {
+            "q": "A sandcastle does not breathe, so it is ___.",
+            "a": "non-living"
+          },
+          {
+            "q": "A baby crab grows into a big ___.",
+            "a": "crab"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write why a car is non-living even though it moves.",
+        "marks": 2,
+        "lines": 2,
+        "a": "A car cannot move on its own, eat, breathe, grow or have young ones."
+      }
+    ]
+  },
+  {
+    "id": "living-and-non-living-things-04",
+    "topic": "living-and-non-living-things",
+    "number": 4,
+    "level": "Starter",
+    "title": "Planting Seeds on the Balcony",
+    "intro": "Kriti plants bean seeds in a pot on her balcony in Abu Dhabi. She waters them every day.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Plants are living things.",
+            "a": true
+          },
+          {
+            "q": "Plants need water, air and sunlight.",
+            "a": true
+          },
+          {
+            "q": "Plants walk from place to place.",
+            "a": false
+          },
+          {
+            "q": "A plant grows taller day by day.",
+            "a": true
+          },
+          {
+            "q": "Plants make their own food in their leaves.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Kriti waters the plant because it needs ___.",
+            "a": "water"
+          },
+          {
+            "q": "The plant's leaves turn towards the ___.",
+            "a": "sun"
+          },
+          {
+            "q": "The plant takes in water from the soil through its ___.",
+            "a": "roots"
+          },
+          {
+            "q": "The clay pot does not grow, so it is ___.",
+            "a": "non-living"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A plant",
+            "options": [
+              "can",
+              "cannot"
+            ],
+            "after": "move from place to place.",
+            "a": "cannot"
+          },
+          {
+            "before": "New plants grow from",
+            "options": [
+              "seeds",
+              "stones"
+            ],
+            "after": "in the soil.",
+            "a": "seeds"
+          },
+          {
+            "before": "The watering can is",
+            "options": [
+              "living",
+              "non-living"
+            ],
+            "after": "because it cannot grow.",
+            "a": "non-living"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write L for living or N for non-living.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "bean plant",
+            "a": "L"
+          },
+          {
+            "q": "soil",
+            "a": "N"
+          },
+          {
+            "q": "earthworm",
+            "a": "L"
+          },
+          {
+            "q": "water",
+            "a": "N"
+          },
+          {
+            "q": "butterfly",
+            "a": "L"
+          },
+          {
+            "q": "flowerpot",
+            "a": "N"
+          },
+          {
+            "q": "spade",
+            "a": "N"
+          },
+          {
+            "q": "snail",
+            "a": "L"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing a plant needs to grow.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Any one: water, sunlight, air or soil."
+      }
+    ]
+  },
+  {
+    "id": "living-and-non-living-things-05",
+    "topic": "living-and-non-living-things",
+    "number": 5,
+    "level": "Practice",
+    "title": "A Trip to Grandma's Village in Kerala",
+    "intro": "Nikhil visits his grandma's village in Kerala. Some things are made by nature and some by people.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the non-living things into Natural and Man-made.",
+        "marks": 8,
+        "groups": [
+          "Natural",
+          "Man-made"
+        ],
+        "words": [
+          "river",
+          "rock",
+          "sand",
+          "rain",
+          "boat",
+          "bridge",
+          "bucket",
+          "bus"
+        ],
+        "a": {
+          "river": "Natural",
+          "rock": "Natural",
+          "sand": "Natural",
+          "rain": "Natural",
+          "boat": "Man-made",
+          "bridge": "Man-made",
+          "bucket": "Man-made",
+          "bus": "Man-made"
+        }
+      },
+      {
+        "type": "match",
+        "title": "Match the living thing to how it moves.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "fish",
+            "right": "swims"
+          },
+          {
+            "left": "parrot",
+            "right": "flies"
+          },
+          {
+            "left": "snake",
+            "right": "crawls"
+          },
+          {
+            "left": "frog",
+            "right": "hops"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A coconut tree is a living thing.",
+            "a": true
+          },
+          {
+            "q": "A bridge is made by people.",
+            "a": true
+          },
+          {
+            "q": "A river is a man-made thing.",
+            "a": false
+          },
+          {
+            "q": "All living things need air to live.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Rain falls from the ___ in the sky.",
+            "a": "clouds"
+          },
+          {
+            "q": "Living things need food to get ___.",
+            "a": "energy"
+          },
+          {
+            "q": "When a duckling grows up, it becomes a ___.",
+            "a": "duck"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways you are a living thing.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"I breathe. I eat food and grow.\""
+      }
+    ]
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "id": "singular-and-plural-01",
+    "topic": "singular-and-plural",
+    "number": 1,
+    "level": "Starter",
+    "title": "Packing My School Bag",
+    "intro": "Neha is packing her school bag. Is it one thing or many?",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Add s to show more than one.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "book",
+            "a": "books"
+          },
+          {
+            "q": "pen",
+            "a": "pens"
+          },
+          {
+            "q": "bag",
+            "a": "bags"
+          },
+          {
+            "q": "ruler",
+            "a": "rulers"
+          },
+          {
+            "q": "eraser",
+            "a": "erasers"
+          },
+          {
+            "q": "crayon",
+            "a": "crayons"
+          },
+          {
+            "q": "desk",
+            "a": "desks"
+          },
+          {
+            "q": "bottle",
+            "a": "bottles"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words. One or more than one?",
+        "marks": 6,
+        "groups": [
+          "One",
+          "More than one"
+        ],
+        "words": [
+          "pencil",
+          "notebooks",
+          "lunchbox",
+          "stickers",
+          "sharpener",
+          "apples"
+        ],
+        "a": {
+          "pencil": "One",
+          "notebooks": "More than one",
+          "lunchbox": "One",
+          "stickers": "More than one",
+          "sharpener": "One",
+          "apples": "More than one"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "I have one",
+            "options": [
+              "crayon",
+              "crayons"
+            ],
+            "after": "in my hand.",
+            "a": "crayon"
+          },
+          {
+            "before": "Neha has two",
+            "options": [
+              "bottle",
+              "bottles"
+            ],
+            "after": "of water.",
+            "a": "bottles"
+          },
+          {
+            "before": "There are five",
+            "options": [
+              "books",
+              "book"
+            ],
+            "after": "in the bag.",
+            "a": "books"
+          },
+          {
+            "before": "She needs a",
+            "options": [
+              "pencil box",
+              "pencil boxes"
+            ],
+            "after": "for school.",
+            "a": "pencil box"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the plural of the word in brackets.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Neha packs three ___ (folder).",
+            "a": "folders"
+          },
+          {
+            "q": "The teacher gives us two ___ (sheet) of paper.",
+            "a": "sheets"
+          },
+          {
+            "q": "We need six ___ (button) for the craft.",
+            "a": "buttons"
+          },
+          {
+            "q": "Neha has two ___ (sister).",
+            "a": "sisters"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about two things in your bag.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. I have two pencils. The naming word ends in s."
+      }
+    ]
+  },
+  {
+    "id": "singular-and-plural-02",
+    "topic": "singular-and-plural",
+    "number": 2,
+    "level": "Starter",
+    "title": "At the Supermarket",
+    "intro": "Mama and Yash are at the supermarket. Some words need es to make more than one.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Add es to show more than one.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "box",
+            "a": "boxes"
+          },
+          {
+            "q": "dish",
+            "a": "dishes"
+          },
+          {
+            "q": "glass",
+            "a": "glasses"
+          },
+          {
+            "q": "brush",
+            "a": "brushes"
+          },
+          {
+            "q": "peach",
+            "a": "peaches"
+          },
+          {
+            "q": "watch",
+            "a": "watches"
+          },
+          {
+            "q": "tomato",
+            "a": "tomatoes"
+          },
+          {
+            "q": "potato",
+            "a": "potatoes"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Yash put three",
+            "options": [
+              "lunchboxs",
+              "lunchboxes"
+            ],
+            "after": "in the trolley.",
+            "a": "lunchboxes"
+          },
+          {
+            "before": "Mama bought two",
+            "options": [
+              "onion",
+              "onions"
+            ],
+            "after": "for the curry.",
+            "a": "onions"
+          },
+          {
+            "before": "There were many",
+            "options": [
+              "bus",
+              "buses"
+            ],
+            "after": "in the car park.",
+            "a": "buses"
+          },
+          {
+            "before": "Yash got one",
+            "options": [
+              "orange",
+              "oranges"
+            ],
+            "after": "as a treat.",
+            "a": "orange"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We add es to words that end in x, like fox.",
+            "a": true
+          },
+          {
+            "q": "The plural of dish is dishs.",
+            "a": false
+          },
+          {
+            "q": "The plural of bag is bags.",
+            "a": true
+          },
+          {
+            "q": "The plural of class is classes.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words. Do we add s or es?",
+        "marks": 6,
+        "groups": [
+          "Add s",
+          "Add es"
+        ],
+        "words": [
+          "jar",
+          "bunch",
+          "cake",
+          "torch",
+          "coin",
+          "dress"
+        ],
+        "a": {
+          "jar": "Add s",
+          "bunch": "Add es",
+          "cake": "Add s",
+          "torch": "Add es",
+          "coin": "Add s",
+          "dress": "Add es"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about two things you buy at a shop.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. We buy two boxes of milk. The plural is spelt correctly."
+      }
+    ]
+  },
+  {
+    "id": "singular-and-plural-03",
+    "topic": "singular-and-plural",
+    "number": 3,
+    "level": "Starter",
+    "title": "The Butterfly Garden",
+    "intro": "Jia and her cousins visit a butterfly garden. Some words change y to ies.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Change y to ies to show more than one.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "butterfly",
+            "a": "butterflies"
+          },
+          {
+            "q": "lily",
+            "a": "lilies"
+          },
+          {
+            "q": "berry",
+            "a": "berries"
+          },
+          {
+            "q": "daisy",
+            "a": "daisies"
+          },
+          {
+            "q": "baby",
+            "a": "babies"
+          },
+          {
+            "q": "family",
+            "a": "families"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the plural of the word in brackets.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The ___ (lady) at the gate gave us tickets.",
+            "a": "ladies"
+          },
+          {
+            "q": "Jia's two ___ (puppy) stayed at home.",
+            "a": "puppies"
+          },
+          {
+            "q": "The guide told us ___ (story) about caterpillars.",
+            "a": "stories"
+          },
+          {
+            "q": "Three ___ (bee) flew past us.",
+            "a": "bees"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "There was one",
+            "options": [
+              "pond",
+              "ponds"
+            ],
+            "after": "in the middle.",
+            "a": "pond"
+          },
+          {
+            "before": "Jia took ten",
+            "options": [
+              "photos",
+              "photo"
+            ],
+            "after": "with her tablet.",
+            "a": "photos"
+          },
+          {
+            "before": "My cousins ate two",
+            "options": [
+              "cherrys",
+              "cherries"
+            ],
+            "after": "each.",
+            "a": "cherries"
+          },
+          {
+            "before": "We saw many",
+            "options": [
+              "flowers",
+              "flower"
+            ],
+            "after": "on the path.",
+            "a": "flowers"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match one to many.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "fly",
+            "right": "flies"
+          },
+          {
+            "left": "leaf",
+            "right": "leaves"
+          },
+          {
+            "left": "bush",
+            "right": "bushes"
+          },
+          {
+            "left": "tree",
+            "right": "trees"
+          },
+          {
+            "left": "ant",
+            "right": "ants"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write about two animals you saw in a garden.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. I saw two birds. Check the plural spelling."
+      }
+    ]
+  },
+  {
+    "id": "singular-and-plural-04",
+    "topic": "singular-and-plural",
+    "number": 4,
+    "level": "Starter",
+    "title": "Children at the Playground",
+    "intro": "Some words change in a special way to show more than one.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match one to many.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "child",
+            "right": "children"
+          },
+          {
+            "left": "man",
+            "right": "men"
+          },
+          {
+            "left": "foot",
+            "right": "feet"
+          },
+          {
+            "left": "tooth",
+            "right": "teeth"
+          },
+          {
+            "left": "mouse",
+            "right": "mice"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Two",
+            "options": [
+              "childs",
+              "children"
+            ],
+            "after": "are on the swings.",
+            "a": "children"
+          },
+          {
+            "before": "One",
+            "options": [
+              "man",
+              "men"
+            ],
+            "after": "is selling balloons.",
+            "a": "man"
+          },
+          {
+            "before": "My",
+            "options": [
+              "foots",
+              "feet"
+            ],
+            "after": "are dusty from the sand.",
+            "a": "feet"
+          },
+          {
+            "before": "Three",
+            "options": [
+              "sheep",
+              "sheeps"
+            ],
+            "after": "are painted on the wall.",
+            "a": "sheep"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The plural of goose is geese.",
+            "a": true
+          },
+          {
+            "q": "The plural of tooth is tooths.",
+            "a": false
+          },
+          {
+            "q": "The plural of fish is fish.",
+            "a": true
+          },
+          {
+            "q": "The plural of woman is womans.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again to show more than one.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The child plays on the slide.",
+            "a": "The children play on the slide."
+          },
+          {
+            "q": "The man is sitting on the bench.",
+            "a": "The men are sitting on the bench."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about the children in your class.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. Uses the word children correctly."
+      }
+    ]
+  },
+  {
+    "id": "singular-and-plural-05",
+    "topic": "singular-and-plural",
+    "number": 5,
+    "level": "Practice",
+    "title": "The Navratri Garba Night",
+    "intro": "Riddhi's family goes to a garba night. Use one and many words correctly.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "How do we make each word plural?",
+        "marks": 6,
+        "groups": [
+          "Add s",
+          "Add es",
+          "Change y to ies"
+        ],
+        "words": [
+          "drum",
+          "bench",
+          "party",
+          "light",
+          "lunch",
+          "city"
+        ],
+        "a": {
+          "drum": "Add s",
+          "bench": "Add es",
+          "party": "Change y to ies",
+          "light": "Add s",
+          "lunch": "Add es",
+          "city": "Change y to ies"
+        }
+      },
+      {
+        "type": "pairs",
+        "title": "Write the plural.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "bangle",
+            "a": "bangles"
+          },
+          {
+            "q": "dancer",
+            "a": "dancers"
+          },
+          {
+            "q": "candy",
+            "a": "candies"
+          },
+          {
+            "q": "wish",
+            "a": "wishes"
+          },
+          {
+            "q": "person",
+            "a": "people"
+          },
+          {
+            "q": "lamp",
+            "a": "lamps"
+          },
+          {
+            "q": "jelly",
+            "a": "jellies"
+          },
+          {
+            "q": "sweet",
+            "a": "sweets"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the plural of the word in brackets.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We danced in two big ___ (ring).",
+            "a": "rings"
+          },
+          {
+            "q": "The ___ (child) wore bright clothes.",
+            "a": "children"
+          },
+          {
+            "q": "Papa bought three ___ (glass) of lassi.",
+            "a": "glasses"
+          },
+          {
+            "q": "Many ___ (baby) slept in their prams.",
+            "a": "babies"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again to show more than one.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The girl is wearing a red dupatta.",
+            "a": "The girls are wearing red dupattas."
+          },
+          {
+            "q": "A woman claps her hands.",
+            "a": "The women clap their hands."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a festival. Use two plural words.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. We lit lamps and ate sweets. Two plurals spelt correctly."
+      }
+    ]
+  }
+]

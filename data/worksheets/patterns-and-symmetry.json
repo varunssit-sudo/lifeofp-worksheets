@@ -1,0 +1,646 @@
+[
+  {
+    "id": "patterns-and-symmetry-01",
+    "topic": "patterns-and-symmetry",
+    "number": 1,
+    "level": "Starter",
+    "title": "Rangoli for Diwali",
+    "intro": "Diya and her cousins make a rangoli at the door. Rangoli designs use patterns and matching halves.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "What comes next?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "red, yellow, red, yellow, ___",
+            "a": "red"
+          },
+          {
+            "q": "dot, dot, line, dot, dot, line, ___",
+            "a": "dot"
+          },
+          {
+            "q": "circle, square, square, circle, square, square, ___",
+            "a": "circle"
+          },
+          {
+            "q": "A, B, C, A, B, C, ___",
+            "a": "A"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the next number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "2, 4, 6, 8",
+            "a": "10"
+          },
+          {
+            "q": "5, 10, 15",
+            "a": "20"
+          },
+          {
+            "q": "30, 40, 50",
+            "a": "60"
+          },
+          {
+            "q": "1, 3, 5, 7",
+            "a": "9"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A rangoli that looks the same on both sides of a line is symmetrical.",
+            "a": true
+          },
+          {
+            "q": "In red, blue, red, blue, the next colour is blue.",
+            "a": false
+          },
+          {
+            "q": "A circle can be folded into two matching halves.",
+            "a": true
+          },
+          {
+            "q": "The letter F has a line of symmetry.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the missing part.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "flower, leaf, flower, ?, flower",
+            "options": [
+              "leaf",
+              "flower"
+            ],
+            "after": "",
+            "a": "leaf"
+          },
+          {
+            "before": "1, 2, 1, 2, ?",
+            "options": [
+              "1",
+              "2"
+            ],
+            "after": "",
+            "a": "1"
+          },
+          {
+            "before": "lamp, lamp, star, lamp, lamp, ?",
+            "options": [
+              "lamp",
+              "star"
+            ],
+            "after": "",
+            "a": "star"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Make your own colour pattern for a rangoli.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. Check that a group of colours repeats at least twice, for example pink, green, green, pink, green, green."
+      }
+    ]
+  },
+  {
+    "id": "patterns-and-symmetry-02",
+    "topic": "patterns-and-symmetry",
+    "number": 2,
+    "level": "Starter",
+    "title": "Number Trails in the Park",
+    "intro": "Zayed Park has number stones on its walking trail. Find the rule and the missing numbers.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Find the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "10, 20, ___, 40",
+            "a": "30"
+          },
+          {
+            "q": "3, 6, 9, ___",
+            "a": "12"
+          },
+          {
+            "q": "50, 45, 40, ___",
+            "a": "35"
+          },
+          {
+            "q": "11, 22, 33, ___",
+            "a": "44"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the pattern to its rule.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "4, 8, 12, 16",
+            "right": "add 4"
+          },
+          {
+            "left": "25, 20, 15, 10",
+            "right": "take away 5"
+          },
+          {
+            "left": "7, 9, 11, 13",
+            "right": "add 2"
+          },
+          {
+            "left": "90, 80, 70, 60",
+            "right": "take away 10"
+          },
+          {
+            "left": "100, 110, 120",
+            "right": "add 10"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In 2, 4, 6, 8, the rule is add 2.",
+            "a": true
+          },
+          {
+            "q": "In 9, 7, 5, 3, the numbers go up.",
+            "a": false
+          },
+          {
+            "q": "The next number in 15, 25, 35 is 40.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the number that comes next.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "6, 12, 18,",
+            "options": [
+              "24",
+              "22"
+            ],
+            "after": "",
+            "a": "24"
+          },
+          {
+            "before": "40, 36, 32,",
+            "options": [
+              "30",
+              "28"
+            ],
+            "after": "",
+            "a": "28"
+          },
+          {
+            "before": "1, 2, 4, 8,",
+            "options": [
+              "10",
+              "16"
+            ],
+            "after": "",
+            "a": "16"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the trail problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ishaan hops 5 stones, then 10, then 15. Next he hops ___ stones.",
+            "a": "20"
+          },
+          {
+            "q": "Each bench has 3 sparrows. 1, 2, 3, 4 benches have 3, 6, 9, ___ sparrows.",
+            "a": "12"
+          },
+          {
+            "q": "Lamps on the trail are numbered 100, 200, 300. The next lamp is ___.",
+            "a": "400"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "patterns-and-symmetry-03",
+    "topic": "patterns-and-symmetry",
+    "number": 3,
+    "level": "Starter",
+    "title": "Butterflies in the Garden",
+    "intro": "Kavya sees butterflies in Nani's garden. Each wing matches the other, like a mirror.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A butterfly's two wings match like a mirror.",
+            "a": true
+          },
+          {
+            "q": "A leaf can have a line of symmetry down the middle.",
+            "a": true
+          },
+          {
+            "q": "A line of symmetry makes two halves that do not match.",
+            "a": false
+          },
+          {
+            "q": "Our face is almost symmetrical.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the capital letters.",
+        "marks": 5,
+        "groups": [
+          "Line of symmetry",
+          "No line of symmetry"
+        ],
+        "words": [
+          "A",
+          "H",
+          "T",
+          "U",
+          "M",
+          "F",
+          "J",
+          "L",
+          "R",
+          "S"
+        ],
+        "a": {
+          "A": "Line of symmetry",
+          "H": "Line of symmetry",
+          "T": "Line of symmetry",
+          "U": "Line of symmetry",
+          "M": "Line of symmetry",
+          "F": "No line of symmetry",
+          "J": "No line of symmetry",
+          "L": "No line of symmetry",
+          "R": "No line of symmetry",
+          "S": "No line of symmetry"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "How many lines of symmetry?",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A square has ___ lines of symmetry.",
+            "a": "4"
+          },
+          {
+            "q": "A rectangle that is not a square has ___ lines of symmetry.",
+            "a": "2"
+          },
+          {
+            "q": "A triangle with 3 equal sides has ___ lines of symmetry.",
+            "a": "3"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the one that is symmetrical.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "a heart",
+              "the number 7"
+            ],
+            "after": "",
+            "a": "a heart"
+          },
+          {
+            "before": "",
+            "options": [
+              "the letter G",
+              "a kite shape"
+            ],
+            "after": "",
+            "a": "a kite shape"
+          },
+          {
+            "before": "",
+            "options": [
+              "the number 4",
+              "a star"
+            ],
+            "after": "",
+            "a": "a star"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name two things at home that are symmetrical.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, for example a spoon, a window, a cup or a chair seen from the front."
+      }
+    ]
+  },
+  {
+    "id": "patterns-and-symmetry-04",
+    "topic": "patterns-and-symmetry",
+    "number": 4,
+    "level": "Starter",
+    "title": "Bangles at the Market",
+    "intro": "Mrs Iyer arranges bangles in patterns at her stall in Chennai.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the part that repeats.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "red, green, red, green, red, green",
+            "options": [
+              "red, green",
+              "green, green"
+            ],
+            "after": "",
+            "a": "red, green"
+          },
+          {
+            "before": "gold, gold, silver, gold, gold, silver",
+            "options": [
+              "gold, silver",
+              "gold, gold, silver"
+            ],
+            "after": "",
+            "a": "gold, gold, silver"
+          },
+          {
+            "before": "big, small, small, big, small, small",
+            "options": [
+              "big, small, small",
+              "big, small"
+            ],
+            "after": "",
+            "a": "big, small, small"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Which bangle comes at that place?",
+        "marks": 3,
+        "items": [
+          {
+            "q": "red, blue, red, blue, ... The 10th bangle is ___.",
+            "a": "blue"
+          },
+          {
+            "q": "gold, silver, silver, gold, silver, silver, ... The 7th bangle is ___.",
+            "a": "gold"
+          },
+          {
+            "q": "pink, pink, green, pink, pink, green, ... The 9th bangle is ___.",
+            "a": "green"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the next number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3, 7, 11, 15",
+            "a": "19"
+          },
+          {
+            "q": "20, 18, 16, 14",
+            "a": "12"
+          },
+          {
+            "q": "5, 15, 25, 35",
+            "a": "45"
+          },
+          {
+            "q": "250, 240, 230",
+            "a": "220"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In red, blue, blue, red, blue, blue, the part that repeats has 3 bangles.",
+            "a": true
+          },
+          {
+            "q": "A growing pattern gets bigger each time.",
+            "a": true
+          },
+          {
+            "q": "In 2, 5, 8, 11, we add 2 each time.",
+            "a": false
+          },
+          {
+            "q": "After 6, 12, 18 comes 24.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the bangle problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "1, 2, 3 boxes hold 6, 12, 18 bangles. 4 boxes hold ___ bangles.",
+            "a": "24"
+          },
+          {
+            "q": "Nisha makes red, red, gold, red, red, gold, ... In 9 bangles there are ___ gold ones.",
+            "a": "3"
+          },
+          {
+            "q": "Each row has 2 more bangles than the one before: 4, 6, 8. The next row has ___.",
+            "a": "10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "patterns-and-symmetry-05",
+    "topic": "patterns-and-symmetry",
+    "number": 5,
+    "level": "Practice",
+    "title": "Tiles in the Mosque Courtyard",
+    "intro": "The courtyard of the Grand Mosque in Abu Dhabi has beautiful tile patterns. Some tiles are symmetrical.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the number that breaks the pattern.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "10, 20, 30, 45, 50",
+            "options": [
+              "30",
+              "45"
+            ],
+            "after": "",
+            "a": "45"
+          },
+          {
+            "before": "5, 10, 15, 21, 25",
+            "options": [
+              "21",
+              "25"
+            ],
+            "after": "",
+            "a": "21"
+          },
+          {
+            "before": "99, 88, 77, 65, 55",
+            "options": [
+              "65",
+              "55"
+            ],
+            "after": "",
+            "a": "65"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the missing number.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "120, 130, ___, 150",
+            "a": "140"
+          },
+          {
+            "q": "64, 60, 56, ___",
+            "a": "52"
+          },
+          {
+            "q": "2, 4, 8, ___, 32",
+            "a": "16"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the capital letters.",
+        "marks": 5,
+        "groups": [
+          "Line of symmetry",
+          "No line of symmetry"
+        ],
+        "words": [
+          "V",
+          "W",
+          "Y",
+          "O",
+          "X",
+          "G",
+          "N",
+          "P",
+          "Z",
+          "Q"
+        ],
+        "a": {
+          "V": "Line of symmetry",
+          "W": "Line of symmetry",
+          "Y": "Line of symmetry",
+          "O": "Line of symmetry",
+          "X": "Line of symmetry",
+          "G": "No line of symmetry",
+          "N": "No line of symmetry",
+          "P": "No line of symmetry",
+          "Z": "No line of symmetry",
+          "Q": "No line of symmetry"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A square tile can be folded 4 ways into matching halves.",
+            "a": true
+          },
+          {
+            "q": "The number 8 has a line of symmetry.",
+            "a": true
+          },
+          {
+            "q": "A pattern can repeat with shapes, colours or numbers.",
+            "a": true
+          },
+          {
+            "q": "The letter J has a line of symmetry.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the tile problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Tiles go blue, white, white, blue, white, white. In 12 tiles there are ___ blue tiles.",
+            "a": "4"
+          },
+          {
+            "q": "Rows have 5, 10, 15, 20 tiles. The 5th row has ___ tiles.",
+            "a": "25"
+          },
+          {
+            "q": "A tile shop has 300, then 250, then 200 tiles left. Next it will have ___ left.",
+            "a": "150"
+          }
+        ]
+      }
+    ]
+  }
+]

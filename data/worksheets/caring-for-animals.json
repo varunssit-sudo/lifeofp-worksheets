@@ -1,0 +1,597 @@
+[
+  {
+    "id": "caring-for-animals-01",
+    "topic": "caring-for-animals",
+    "number": 1,
+    "level": "Starter",
+    "title": "Bringing Home a New Puppy",
+    "intro": "Rahul's family brings home a puppy called Bruno in Pune. Rahul wants to take good care of him.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match what Bruno needs to how Rahul gives it.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "food",
+            "right": "dog food twice a day"
+          },
+          {
+            "left": "water",
+            "right": "a clean bowl filled every day"
+          },
+          {
+            "left": "shelter",
+            "right": "a warm kennel or bed"
+          },
+          {
+            "left": "exercise",
+            "right": "a walk in the park"
+          },
+          {
+            "left": "love",
+            "right": "play and gentle patting"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A puppy needs clean water every day.",
+            "a": true
+          },
+          {
+            "q": "We should pull a puppy's tail for fun.",
+            "a": false
+          },
+          {
+            "q": "Chocolate is bad for dogs.",
+            "a": true
+          },
+          {
+            "q": "A dog needs a walk every day.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Rahul gives Bruno a",
+            "options": [
+              "bath",
+              "haircut"
+            ],
+            "after": "to keep him clean.",
+            "a": "bath"
+          },
+          {
+            "before": "Bruno sleeps in his",
+            "options": [
+              "bed",
+              "cupboard"
+            ],
+            "after": ".",
+            "a": "bed"
+          },
+          {
+            "before": "We should be",
+            "options": [
+              "gentle",
+              "rough"
+            ],
+            "after": "with pets.",
+            "a": "gentle"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "All animals need food, water and ___.",
+            "a": "shelter"
+          },
+          {
+            "q": "Rahul fills Bruno's water ___ every morning.",
+            "a": "bowl"
+          },
+          {
+            "q": "Rahul brushes Bruno's ___ to keep it neat.",
+            "a": "fur"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing you will do to care for a pet.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. feed it, give it water, take it for a walk, keep it clean."
+      }
+    ]
+  },
+  {
+    "id": "caring-for-animals-02",
+    "topic": "caring-for-animals",
+    "number": 2,
+    "level": "Starter",
+    "title": "Summer Bowls for Birds",
+    "intro": "It is very hot in Abu Dhabi. Maryam and Sam put out bowls of water on the balcony.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Animals and birds feel thirsty in the hot summer.",
+            "a": true
+          },
+          {
+            "q": "We should keep water bowls in the shade.",
+            "a": true
+          },
+          {
+            "q": "Stray cats need shelter from the hot sun.",
+            "a": true
+          },
+          {
+            "q": "Old water in a bowl is fine for weeks.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the actions.",
+        "marks": 6,
+        "groups": [
+          "Kind",
+          "Unkind"
+        ],
+        "words": [
+          "filling a bird bath",
+          "putting out grains",
+          "leaving a shady spot for cats",
+          "throwing stones at birds",
+          "chasing pigeons",
+          "shouting at a cat"
+        ],
+        "a": {
+          "filling a bird bath": "Kind",
+          "putting out grains": "Kind",
+          "leaving a shady spot for cats": "Kind",
+          "throwing stones at birds": "Unkind",
+          "chasing pigeons": "Unkind",
+          "shouting at a cat": "Unkind"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Maryam changes the ___ in the bowl every day.",
+            "a": "water"
+          },
+          {
+            "q": "Birds can drink and splash in a bird ___.",
+            "a": "bath"
+          },
+          {
+            "q": "Sam puts the bowl in the ___ so it stays cool.",
+            "a": "shade"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "We can give birds",
+            "options": [
+              "grains",
+              "chips"
+            ],
+            "after": "to eat.",
+            "a": "grains"
+          },
+          {
+            "before": "A tree gives birds",
+            "options": [
+              "shade",
+              "snow"
+            ],
+            "after": "in summer.",
+            "a": "shade"
+          },
+          {
+            "before": "We should",
+            "options": [
+              "help",
+              "hurt"
+            ],
+            "after": "animals.",
+            "a": "help"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways to help street animals in summer.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. keep water bowls out, leave food, give them shade, call an animal helpline if hurt."
+      }
+    ]
+  },
+  {
+    "id": "caring-for-animals-03",
+    "topic": "caring-for-animals",
+    "number": 3,
+    "level": "Starter",
+    "title": "A Visit to the Vet Clinic",
+    "intro": "Anya takes her cat Misty to the vet in Kolkata. Dr Fernandes checks Misty.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "A vet is an animal doctor.",
+            "a": true
+          },
+          {
+            "q": "A sick pet should be taken to a vet.",
+            "a": true
+          },
+          {
+            "q": "Pets need injections to stop some diseases.",
+            "a": true
+          },
+          {
+            "q": "We should give our own medicine to a pet.",
+            "a": false
+          },
+          {
+            "q": "A pet's bed should be kept clean.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the sign to what it may mean.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "does not eat",
+            "right": "may be sick"
+          },
+          {
+            "left": "wags its tail",
+            "right": "is happy"
+          },
+          {
+            "left": "hides and shivers",
+            "right": "is scared or cold"
+          },
+          {
+            "left": "drinks a lot on a hot day",
+            "right": "is thirsty"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "An animal doctor is called a",
+            "options": [
+              "vet",
+              "chef"
+            ],
+            "after": ".",
+            "a": "vet"
+          },
+          {
+            "before": "Misty should rest in a",
+            "options": [
+              "quiet",
+              "noisy"
+            ],
+            "after": "place.",
+            "a": "quiet"
+          },
+          {
+            "before": "We should wash our hands",
+            "options": [
+              "after",
+              "without"
+            ],
+            "after": "playing with pets.",
+            "a": "after"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write who or what cares for each animal.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "sick pet",
+            "a": "vet"
+          },
+          {
+            "q": "lost dog",
+            "a": "animal shelter"
+          },
+          {
+            "q": "cows",
+            "a": "farmer"
+          },
+          {
+            "q": "zoo animals",
+            "a": "zookeeper"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way to keep a pet healthy.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any one, e.g. take it to the vet, give clean food and water, keep it clean, give it exercise."
+      }
+    ]
+  },
+  {
+    "id": "caring-for-animals-04",
+    "topic": "caring-for-animals",
+    "number": 4,
+    "level": "Starter",
+    "title": "A Gaushala Visit in Mathura",
+    "intro": "Krish and his sister Diya visit a cow shelter. They help the workers.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the animal to its food.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "cow",
+            "right": "grass and hay"
+          },
+          {
+            "left": "goat",
+            "right": "leaves and grass"
+          },
+          {
+            "left": "horse",
+            "right": "oats and hay"
+          },
+          {
+            "left": "hen",
+            "right": "grains and seeds"
+          },
+          {
+            "left": "rabbit",
+            "right": "carrots and greens"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Cows need a clean and dry shed.",
+            "a": true
+          },
+          {
+            "q": "Farm animals need fresh water every day.",
+            "a": true
+          },
+          {
+            "q": "Plastic bags are safe food for cows.",
+            "a": false
+          },
+          {
+            "q": "A cow shed should let in fresh air.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Krish puts fresh ___ in the trough for the cows to drink.",
+            "a": "water"
+          },
+          {
+            "q": "A cow's home is called a ___.",
+            "a": "shed"
+          },
+          {
+            "q": "Diya sweeps the shed to keep it ___.",
+            "a": "clean"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: good or bad for the cows?",
+        "marks": 6,
+        "groups": [
+          "Good for cows",
+          "Bad for cows"
+        ],
+        "words": [
+          "green grass",
+          "clean water",
+          "a dry shed",
+          "plastic bags",
+          "a dirty shed",
+          "no water"
+        ],
+        "a": {
+          "green grass": "Good for cows",
+          "clean water": "Good for cows",
+          "a dry shed": "Good for cows",
+          "plastic bags": "Bad for cows",
+          "a dirty shed": "Bad for cows",
+          "no water": "Bad for cows"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Why must we not throw plastic on the road? Write one reason.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Animals like cows may eat it and fall sick."
+      }
+    ]
+  },
+  {
+    "id": "caring-for-animals-05",
+    "topic": "caring-for-animals",
+    "number": 5,
+    "level": "Practice",
+    "title": "The Zoo Rules Board",
+    "intro": "Class 2 visits the zoo in Delhi. Mrs Kapoor asks them to make a rules board.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the actions.",
+        "marks": 8,
+        "groups": [
+          "Do",
+          "Do not"
+        ],
+        "words": [
+          "stay behind the fence",
+          "walk quietly",
+          "throw litter in the bin",
+          "listen to the keeper",
+          "feed the animals",
+          "bang on the glass",
+          "tease the monkeys",
+          "throw things into cages"
+        ],
+        "a": {
+          "stay behind the fence": "Do",
+          "walk quietly": "Do",
+          "throw litter in the bin": "Do",
+          "listen to the keeper": "Do",
+          "feed the animals": "Do not",
+          "bang on the glass": "Do not",
+          "tease the monkeys": "Do not",
+          "throw things into cages": "Do not"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Zookeepers give zoo animals the right food.",
+            "a": true
+          },
+          {
+            "q": "Loud noise can scare animals.",
+            "a": true
+          },
+          {
+            "q": "It is fine to tease animals if they are in a cage.",
+            "a": false
+          },
+          {
+            "q": "Zoo animals should get food only from their keepers.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A",
+            "options": [
+              "zookeeper",
+              "pilot"
+            ],
+            "after": "looks after animals in a zoo.",
+            "a": "zookeeper"
+          },
+          {
+            "before": "We should",
+            "options": [
+              "respect",
+              "scare"
+            ],
+            "after": "all animals.",
+            "a": "respect"
+          },
+          {
+            "before": "A hurt street dog can go to an animal",
+            "options": [
+              "shelter",
+              "office"
+            ],
+            "after": ".",
+            "a": "shelter"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Animals need food, water and ___ to live.",
+            "a": "shelter"
+          },
+          {
+            "q": "We must never ___ an animal.",
+            "a": "hurt"
+          },
+          {
+            "q": "A sick or hurt animal is treated by a ___.",
+            "a": "vet"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write how you would help a hurt bird.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. tell an adult, give it water, keep it in a safe box, call an animal rescue."
+      }
+    ]
+  }
+]

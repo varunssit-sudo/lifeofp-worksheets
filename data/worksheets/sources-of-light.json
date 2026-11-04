@@ -1,0 +1,641 @@
+[
+  {
+    "id": "sources-of-light-01",
+    "topic": "sources-of-light",
+    "number": 1,
+    "level": "Starter",
+    "title": "Diwali Lights at Home",
+    "intro": "Meera and her brother light up their home for Diwali. Some light comes from nature and some is made by people.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the sources of light.",
+        "marks": 4,
+        "groups": [
+          "Natural",
+          "Man-made"
+        ],
+        "words": [
+          "lightning",
+          "bulb",
+          "stars",
+          "candle",
+          "torch",
+          "sun",
+          "diya",
+          "firefly"
+        ],
+        "a": {
+          "sun": "Natural",
+          "stars": "Natural",
+          "firefly": "Natural",
+          "lightning": "Natural",
+          "diya": "Man-made",
+          "candle": "Man-made",
+          "bulb": "Man-made",
+          "torch": "Man-made"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The sun is our main source of light in the day.",
+            "a": true
+          },
+          {
+            "q": "The moon makes its own light.",
+            "a": false
+          },
+          {
+            "q": "A diya gives light when it burns.",
+            "a": true
+          },
+          {
+            "q": "We can see things in a fully dark room.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Meera lights a ___ with oil and a cotton wick.",
+            "a": "diya"
+          },
+          {
+            "q": "Dad hangs strings of electric ___ on the balcony.",
+            "a": "lights"
+          },
+          {
+            "q": "A flame gives us light and ___.",
+            "a": "heat"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "We get light in the day from the",
+            "options": [
+              "sun",
+              "moon"
+            ],
+            "after": ".",
+            "a": "sun"
+          },
+          {
+            "before": "Light helps us to",
+            "options": [
+              "see",
+              "hear"
+            ],
+            "after": ".",
+            "a": "see"
+          },
+          {
+            "before": "A",
+            "options": [
+              "lantern",
+              "plate"
+            ],
+            "after": "gives light.",
+            "a": "lantern"
+          },
+          {
+            "before": "Never look straight at the",
+            "options": [
+              "sun",
+              "book"
+            ],
+            "after": ".",
+            "a": "sun"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name two things at home that give light.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. bulb, tube light, lamp, torch, candle, diya."
+      }
+    ]
+  },
+  {
+    "id": "sources-of-light-02",
+    "topic": "sources-of-light",
+    "number": 2,
+    "level": "Starter",
+    "title": "Camping Night at Hatta",
+    "intro": "Ali and Grace camp in the Hatta mountains. When the sun sets, they need other lights.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each light to what makes it glow.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Torch",
+            "right": "batteries"
+          },
+          {
+            "left": "Street lamp",
+            "right": "electricity"
+          },
+          {
+            "left": "Candle",
+            "right": "burning wax"
+          },
+          {
+            "left": "Firefly",
+            "right": "its own body"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "At night, the",
+            "options": [
+              "stars",
+              "clouds"
+            ],
+            "after": "twinkle in the sky.",
+            "a": "stars"
+          },
+          {
+            "before": "The",
+            "options": [
+              "sun",
+              "moon"
+            ],
+            "after": "is a star.",
+            "a": "sun"
+          },
+          {
+            "before": "In the bushes, little",
+            "options": [
+              "fireflies",
+              "butterflies"
+            ],
+            "after": "glow in the dark.",
+            "a": "fireflies"
+          },
+          {
+            "before": "We need a torch on a",
+            "options": [
+              "dark",
+              "sunny"
+            ],
+            "after": "night.",
+            "a": "dark"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The moon looks bright because sunlight falls on it.",
+            "a": true
+          },
+          {
+            "q": "Fireflies use electricity to glow.",
+            "a": false
+          },
+          {
+            "q": "Without light, we cannot see colours.",
+            "a": true
+          },
+          {
+            "q": "A candle is a man-made source of light.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We cannot see the stars in the day because the ___ is too bright.",
+            "a": "sun"
+          },
+          {
+            "q": "A flash of ___ in a storm is natural light.",
+            "a": "lightning"
+          },
+          {
+            "q": "The campfire makes ___ of us on the tent.",
+            "a": "shadows"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why do we carry a torch when we go camping?",
+        "marks": 2,
+        "lines": 2,
+        "a": "To see in the dark at night, so we do not trip or get lost."
+      }
+    ]
+  },
+  {
+    "id": "sources-of-light-03",
+    "topic": "sources-of-light",
+    "number": 3,
+    "level": "Starter",
+    "title": "The School Science Corner",
+    "intro": "Mr Thomas sets up a light table for Class 2. Ravi and Elena test which things give light.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the things.",
+        "marks": 4,
+        "groups": [
+          "Gives its own light",
+          "Does not give its own light"
+        ],
+        "words": [
+          "glow-worm",
+          "steel spoon",
+          "candle",
+          "moon",
+          "window",
+          "bulb",
+          "mirror",
+          "sun"
+        ],
+        "a": {
+          "bulb": "Gives its own light",
+          "candle": "Gives its own light",
+          "sun": "Gives its own light",
+          "glow-worm": "Gives its own light",
+          "mirror": "Does not give its own light",
+          "moon": "Does not give its own light",
+          "steel spoon": "Does not give its own light",
+          "window": "Does not give its own light"
+        }
+      },
+      {
+        "type": "pairs",
+        "title": "Write natural or man-made.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "star",
+            "a": "natural"
+          },
+          {
+            "q": "tube light",
+            "a": "man-made"
+          },
+          {
+            "q": "lightning",
+            "a": "natural"
+          },
+          {
+            "q": "lantern",
+            "a": "man-made"
+          },
+          {
+            "q": "neon sign",
+            "a": "man-made"
+          },
+          {
+            "q": "traffic light",
+            "a": "man-made"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A mirror",
+            "options": [
+              "reflects",
+              "makes"
+            ],
+            "after": "light.",
+            "a": "reflects"
+          },
+          {
+            "before": "Light travels in a",
+            "options": [
+              "straight",
+              "curvy"
+            ],
+            "after": "line.",
+            "a": "straight"
+          },
+          {
+            "before": "A",
+            "options": [
+              "shadow",
+              "rainbow"
+            ],
+            "after": "forms when something blocks light.",
+            "a": "shadow"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Plants need sunlight to make food.",
+            "a": true
+          },
+          {
+            "q": "Shiny things like steel spoons make their own light.",
+            "a": false
+          },
+          {
+            "q": "People used fire for light long before bulbs were made.",
+            "a": true
+          },
+          {
+            "q": "Reading in dim light is good for our eyes.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one natural and one man-made source of light.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. natural: sun; man-made: bulb."
+      }
+    ]
+  },
+  {
+    "id": "sources-of-light-04",
+    "topic": "sources-of-light",
+    "number": 4,
+    "level": "Starter",
+    "title": "A Power Cut in Delhi",
+    "intro": "The lights go out at Kunal's house one evening. The family finds other ways to see.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the lights.",
+        "marks": 4,
+        "groups": [
+          "Needs electricity",
+          "Needs no electricity"
+        ],
+        "words": [
+          "TV screen",
+          "oil lamp",
+          "tube light",
+          "diya",
+          "matchstick",
+          "bulb",
+          "candle",
+          "street lamp"
+        ],
+        "a": {
+          "bulb": "Needs electricity",
+          "tube light": "Needs electricity",
+          "street lamp": "Needs electricity",
+          "TV screen": "Needs electricity",
+          "candle": "Needs no electricity",
+          "diya": "Needs no electricity",
+          "oil lamp": "Needs no electricity",
+          "matchstick": "Needs no electricity"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Mum finds the battery ___ in the drawer.",
+            "a": "torch"
+          },
+          {
+            "q": "Light that comes from the sun is called ___.",
+            "a": "sunlight"
+          },
+          {
+            "q": "Switch off the lights when you leave a ___.",
+            "a": "room"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Candles must be kept away from curtains.",
+            "a": true
+          },
+          {
+            "q": "An emergency lamp can store electricity to use later.",
+            "a": true
+          },
+          {
+            "q": "It is good to leave lights on when no one is in the room.",
+            "a": false
+          },
+          {
+            "q": "We can see a rainbow when sunlight shines through raindrops.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each light to its use.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Lighthouse",
+            "right": "guides ships at sea"
+          },
+          {
+            "left": "Headlights",
+            "right": "help a car driver see the road"
+          },
+          {
+            "left": "Torch",
+            "right": "we carry it in our hand"
+          },
+          {
+            "left": "Traffic light",
+            "right": "shows red, yellow and green"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways to save electricity at home.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. switch off lights and fans when not in use, use sunlight in the day, use LED bulbs."
+      }
+    ]
+  },
+  {
+    "id": "sources-of-light-05",
+    "topic": "sources-of-light",
+    "number": 5,
+    "level": "Practice",
+    "title": "Ramadan Lanterns in the Souk",
+    "intro": "Hamdan and Sofia walk through the souk in Ramadan. Bright lanterns hang in every shop.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A Ramadan lantern can use a candle or an electric",
+            "options": [
+              "bulb",
+              "stone"
+            ],
+            "after": ".",
+            "a": "bulb"
+          },
+          {
+            "before": "Sunlight gives us light and",
+            "options": [
+              "warmth",
+              "snow"
+            ],
+            "after": ".",
+            "a": "warmth"
+          },
+          {
+            "before": "Our",
+            "options": [
+              "eyes",
+              "ears"
+            ],
+            "after": "need light to see.",
+            "a": "eyes"
+          },
+          {
+            "before": "Shadows are",
+            "options": [
+              "dark",
+              "colourful"
+            ],
+            "after": ".",
+            "a": "dark"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "A shadow forms on the side away from the light.",
+            "a": true
+          },
+          {
+            "q": "Some sea animals can make their own light.",
+            "a": true
+          },
+          {
+            "q": "Long ago, people used oil lamps before bulbs were made.",
+            "a": true
+          },
+          {
+            "q": "Looking straight at the sun is safe.",
+            "a": false
+          },
+          {
+            "q": "A mirror is a source of light.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the sources of light.",
+        "marks": 6,
+        "groups": [
+          "Natural",
+          "Man-made: uses electricity",
+          "Man-made: uses fire"
+        ],
+        "words": [
+          "street lamp",
+          "candle",
+          "oil lamp",
+          "tube light",
+          "bulb",
+          "sun",
+          "campfire",
+          "star",
+          "lightning"
+        ],
+        "a": {
+          "sun": "Natural",
+          "star": "Natural",
+          "lightning": "Natural",
+          "bulb": "Man-made: uses electricity",
+          "tube light": "Man-made: uses electricity",
+          "street lamp": "Man-made: uses electricity",
+          "candle": "Man-made: uses fire",
+          "oil lamp": "Man-made: uses fire",
+          "campfire": "Man-made: uses fire"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Hamdan's shadow is long in the ___ and in the evening.",
+            "a": "morning"
+          },
+          {
+            "q": "A shadow forms when an object ___ light.",
+            "a": "blocks"
+          },
+          {
+            "q": "The lanterns light up the souk at ___.",
+            "a": "night"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why is the sun important for us?",
+        "marks": 2,
+        "lines": 2,
+        "a": "It gives us light and heat; plants need sunlight to make food."
+      }
+    ]
+  }
+]

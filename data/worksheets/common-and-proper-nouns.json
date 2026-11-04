@@ -1,0 +1,583 @@
+[
+  {
+    "id": "common-and-proper-nouns-01",
+    "topic": "common-and-proper-nouns",
+    "number": 1,
+    "level": "Starter",
+    "title": "My Family and Friends",
+    "intro": "Anika is talking about the people she loves. A common noun is a general name. A proper noun is a special name and starts with a capital letter.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the nouns into common and proper nouns.",
+        "marks": 8,
+        "groups": [
+          "Common noun",
+          "Proper noun"
+        ],
+        "words": [
+          "girl",
+          "Anika",
+          "uncle",
+          "Rahul",
+          "teacher",
+          "Mrs Thomas",
+          "baby",
+          "Zoya"
+        ],
+        "a": {
+          "girl": "Common noun",
+          "Anika": "Proper noun",
+          "uncle": "Common noun",
+          "Rahul": "Proper noun",
+          "teacher": "Common noun",
+          "Mrs Thomas": "Proper noun",
+          "baby": "Common noun",
+          "Zoya": "Proper noun"
+        }
+      },
+      {
+        "type": "match",
+        "title": "Match the common noun to a proper noun.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "boy",
+            "right": "Kunal"
+          },
+          {
+            "left": "city",
+            "right": "Delhi"
+          },
+          {
+            "left": "day",
+            "right": "Sunday"
+          },
+          {
+            "left": "country",
+            "right": "India"
+          },
+          {
+            "left": "river",
+            "right": "Ganga"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the proper noun.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "Meena",
+              "sister"
+            ],
+            "after": "",
+            "a": "Meena"
+          },
+          {
+            "before": "",
+            "options": [
+              "friend",
+              "Ahmed"
+            ],
+            "after": "",
+            "a": "Ahmed"
+          },
+          {
+            "before": "",
+            "options": [
+              "Grandpa Joseph",
+              "grandfather"
+            ],
+            "after": "",
+            "a": "Grandpa Joseph"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Cousin\" is a proper noun.",
+            "a": false
+          },
+          {
+            "q": "A proper noun always starts with a capital letter.",
+            "a": true
+          },
+          {
+            "q": "\"Rahul\" is a common noun.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write the names of two friends. Start each with a capital letter.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; both names must begin with a capital letter."
+      }
+    ]
+  },
+  {
+    "id": "common-and-proper-nouns-02",
+    "topic": "common-and-proper-nouns",
+    "number": 2,
+    "level": "Starter",
+    "title": "A Trip to Mumbai",
+    "intro": "Kevin's family took a trip to Mumbai. Places can have common names and special names.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write a proper noun for each common noun.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "city",
+            "a": "e.g. Mumbai"
+          },
+          {
+            "q": "sea",
+            "a": "e.g. Arabian Sea"
+          },
+          {
+            "q": "country",
+            "a": "e.g. India"
+          },
+          {
+            "q": "airport",
+            "a": "e.g. Dubai Airport"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the nouns into common and proper nouns.",
+        "marks": 8,
+        "groups": [
+          "Common noun",
+          "Proper noun"
+        ],
+        "words": [
+          "beach",
+          "Juhu Beach",
+          "Gateway of India",
+          "hotel",
+          "train",
+          "Marine Drive",
+          "zoo",
+          "taxi"
+        ],
+        "a": {
+          "beach": "Common noun",
+          "Juhu Beach": "Proper noun",
+          "Gateway of India": "Proper noun",
+          "hotel": "Common noun",
+          "train": "Common noun",
+          "Marine Drive": "Proper noun",
+          "zoo": "Common noun",
+          "taxi": "Common noun"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Write the proper noun with a capital letter.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We flew from dubai to Mumbai. ___",
+            "a": "Dubai"
+          },
+          {
+            "q": "Kevin met his aunt lily. ___",
+            "a": "Lily"
+          },
+          {
+            "q": "We went to the zoo on tuesday. ___",
+            "a": "Tuesday"
+          },
+          {
+            "q": "We sailed on the arabian sea. ___",
+            "a": "Arabian Sea"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Mumbai\" is a proper noun.",
+            "a": true
+          },
+          {
+            "q": "\"beach\" needs a capital letter in the middle of a sentence.",
+            "a": false
+          },
+          {
+            "q": "\"India\" is the name of a special place.",
+            "a": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "common-and-proper-nouns-03",
+    "topic": "common-and-proper-nouns",
+    "number": 3,
+    "level": "Starter",
+    "title": "Festival Days of the Year",
+    "intro": "Mehak keeps a festival diary. Names of days, months and festivals are proper nouns.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the proper noun.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "festival",
+              "Diwali"
+            ],
+            "after": "",
+            "a": "Diwali"
+          },
+          {
+            "before": "",
+            "options": [
+              "Eid",
+              "holiday"
+            ],
+            "after": "",
+            "a": "Eid"
+          },
+          {
+            "before": "",
+            "options": [
+              "month",
+              "December"
+            ],
+            "after": "",
+            "a": "December"
+          },
+          {
+            "before": "",
+            "options": [
+              "Friday",
+              "day"
+            ],
+            "after": "",
+            "a": "Friday"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each proper noun to its common noun.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "Christmas",
+            "right": "festival"
+          },
+          {
+            "left": "August",
+            "right": "month"
+          },
+          {
+            "left": "Wednesday",
+            "right": "day"
+          },
+          {
+            "left": "Abu Dhabi",
+            "right": "city"
+          },
+          {
+            "left": "Mehak",
+            "right": "girl"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again with capital letters for proper nouns.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "we light lamps for diwali in november.",
+            "a": "We light lamps for Diwali in November."
+          },
+          {
+            "q": "on eid, aunty nadia makes sweets.",
+            "a": "On Eid, Aunty Nadia makes sweets."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Holi\" is a common noun.",
+            "a": false
+          },
+          {
+            "q": "\"Month\" is a common noun.",
+            "a": true
+          },
+          {
+            "q": "\"Saturday\" starts with a capital letter.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write the name of your favourite festival and the month it comes in.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check capital letters, e.g. \"Onam comes in August.\""
+      }
+    ]
+  },
+  {
+    "id": "common-and-proper-nouns-04",
+    "topic": "common-and-proper-nouns",
+    "number": 4,
+    "level": "Starter",
+    "title": "The Pet Show at the Park",
+    "intro": "There is a pet show at Zabeel Park. Every pet has a special name, and that name is a proper noun.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the nouns into common and proper nouns.",
+        "marks": 9,
+        "groups": [
+          "Common noun",
+          "Proper noun"
+        ],
+        "words": [
+          "dog",
+          "Bruno",
+          "cat",
+          "Snowy",
+          "parrot",
+          "Mithu",
+          "judge",
+          "Zabeel Park",
+          "ribbon"
+        ],
+        "a": {
+          "dog": "Common noun",
+          "Bruno": "Proper noun",
+          "cat": "Common noun",
+          "Snowy": "Proper noun",
+          "parrot": "Common noun",
+          "Mithu": "Proper noun",
+          "judge": "Common noun",
+          "Zabeel Park": "Proper noun",
+          "ribbon": "Common noun"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blank with a common noun from the box: dog, rabbit, park, prize.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Bruno is a big brown ___.",
+            "a": "dog"
+          },
+          {
+            "q": "Coco the ___ has long ears and hops.",
+            "a": "rabbit"
+          },
+          {
+            "q": "The show is in a ___ in Dubai.",
+            "a": "park"
+          },
+          {
+            "q": "Snowy won first ___.",
+            "a": "prize"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the common noun.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "Coco",
+              "rabbit"
+            ],
+            "after": "",
+            "a": "rabbit"
+          },
+          {
+            "before": "",
+            "options": [
+              "goldfish",
+              "Bubbles"
+            ],
+            "after": "",
+            "a": "goldfish"
+          },
+          {
+            "before": "",
+            "options": [
+              "Mr Khan",
+              "judge"
+            ],
+            "after": "",
+            "a": "judge"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Give your pet a name. Write a sentence about it.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "My pet ___ is a ___.",
+            "a": "Answers will vary; the pet's name must start with a capital letter, e.g. \"My pet Tiger is a cat.\""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "common-and-proper-nouns-05",
+    "topic": "common-and-proper-nouns",
+    "number": 5,
+    "level": "Practice",
+    "title": "A Postcard from Goa",
+    "intro": "Rohan is writing a postcard to his friend in Sharjah. Help him use capital letters for proper nouns.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Write each sentence again with capital letters.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "dear sam, we are in goa.",
+            "a": "Dear Sam, we are in Goa."
+          },
+          {
+            "q": "on sunday we swam at calangute beach.",
+            "a": "On Sunday we swam at Calangute Beach."
+          },
+          {
+            "q": "we will fly back to sharjah in may.",
+            "a": "We will fly back to Sharjah in May."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Rohan bought a shell for his friend",
+            "options": [
+              "sam",
+              "Sam"
+            ],
+            "after": ".",
+            "a": "Sam"
+          },
+          {
+            "before": "The",
+            "options": [
+              "Beach",
+              "beach"
+            ],
+            "after": "was very clean.",
+            "a": "beach"
+          },
+          {
+            "before": "We visited an old",
+            "options": [
+              "Church",
+              "church"
+            ],
+            "after": "in Panaji.",
+            "a": "church"
+          },
+          {
+            "before": "Our flight is on",
+            "options": [
+              "thursday",
+              "Thursday"
+            ],
+            "after": ".",
+            "a": "Thursday"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In this postcard, \"Goa\" is a proper noun.",
+            "a": true
+          },
+          {
+            "q": "\"postcard\" is a proper noun.",
+            "a": false
+          },
+          {
+            "q": "\"Sharjah\" needs a capital letter.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write a common noun for each proper noun.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Goa",
+            "a": "place / state"
+          },
+          {
+            "q": "Rohan",
+            "a": "boy"
+          },
+          {
+            "q": "May",
+            "a": "month"
+          },
+          {
+            "q": "Panaji",
+            "a": "city"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a place you have visited. Use a proper noun.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check the place name starts with a capital letter."
+      }
+    ]
+  }
+]

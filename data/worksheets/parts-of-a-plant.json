@@ -1,0 +1,643 @@
+[
+  {
+    "id": "parts-of-a-plant-01",
+    "topic": "parts-of-a-plant",
+    "number": 1,
+    "level": "Starter",
+    "title": "Grandma's Garden in Pune",
+    "intro": "Anika helps her grandma in the garden. Let us look at the parts of a plant.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each part to its job.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "Roots",
+            "right": "hold the plant in the soil"
+          },
+          {
+            "left": "Stem",
+            "right": "carries water up to the leaves"
+          },
+          {
+            "left": "Leaves",
+            "right": "make food for the plant"
+          },
+          {
+            "left": "Flower",
+            "right": "turns into a fruit"
+          },
+          {
+            "left": "Seed",
+            "right": "grows into a new plant"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the missing part.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The ___ grow under the soil.",
+            "a": "roots"
+          },
+          {
+            "q": "Most leaves are ___ in colour.",
+            "a": "green"
+          },
+          {
+            "q": "Bees visit the bright, colourful ___.",
+            "a": "flowers"
+          },
+          {
+            "q": "A seed is found inside the ___.",
+            "a": "fruit"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Roots grow above the ground.",
+            "a": false
+          },
+          {
+            "q": "The stem holds up the leaves and flowers.",
+            "a": true
+          },
+          {
+            "q": "Leaves need sunlight to make food.",
+            "a": true
+          },
+          {
+            "q": "All plants have big, bright flowers.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The",
+            "options": [
+              "roots",
+              "petals"
+            ],
+            "after": "take in water from the soil.",
+            "a": "roots"
+          },
+          {
+            "before": "Grandma picks ripe",
+            "options": [
+              "fruits",
+              "roots"
+            ],
+            "after": "from the guava tree.",
+            "a": "fruits"
+          },
+          {
+            "before": "The stem grows",
+            "options": [
+              "up",
+              "down"
+            ],
+            "after": "towards the light.",
+            "a": "up"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name two parts of a plant you can see in a garden.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two of: roots (if visible), stem, leaves, flowers, fruits, seeds."
+      }
+    ]
+  },
+  {
+    "id": "parts-of-a-plant-02",
+    "topic": "parts-of-a-plant",
+    "number": 2,
+    "level": "Starter",
+    "title": "Lunch at the School Canteen",
+    "intro": "Kabir and Mei look at their lunch. Every vegetable comes from a different part of a plant.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the foods by the plant part we eat.",
+        "marks": 9,
+        "groups": [
+          "Root",
+          "Leaf",
+          "Seed"
+        ],
+        "words": [
+          "lettuce",
+          "peas",
+          "rajma",
+          "cabbage",
+          "spinach",
+          "carrot",
+          "peanut",
+          "radish",
+          "beetroot"
+        ],
+        "a": {
+          "carrot": "Root",
+          "radish": "Root",
+          "beetroot": "Root",
+          "spinach": "Leaf",
+          "cabbage": "Leaf",
+          "lettuce": "Leaf",
+          "peas": "Seed",
+          "rajma": "Seed",
+          "peanut": "Seed"
+        }
+      },
+      {
+        "type": "match",
+        "title": "Match each food to the part we eat.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "cauliflower",
+            "right": "flower"
+          },
+          {
+            "left": "apple",
+            "right": "fruit"
+          },
+          {
+            "left": "sugarcane",
+            "right": "stem"
+          },
+          {
+            "left": "mint",
+            "right": "leaf"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A tomato is the fruit of the tomato plant.",
+            "a": true
+          },
+          {
+            "q": "We eat the flowers of the broccoli plant.",
+            "a": true
+          },
+          {
+            "q": "A turnip is a seed.",
+            "a": false
+          },
+          {
+            "q": "Wheat flour for rotis is made from seeds.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the plant part.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A juicy mango is the ___ of the mango tree.",
+            "a": "fruit"
+          },
+          {
+            "q": "We eat the ___ of the methi plant.",
+            "a": "leaves"
+          },
+          {
+            "q": "Corn kernels are the ___ of the corn plant.",
+            "a": "seeds"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one fruit and one leaf you like to eat.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. fruit: banana; leaf: spinach."
+      }
+    ]
+  },
+  {
+    "id": "parts-of-a-plant-03",
+    "topic": "parts-of-a-plant",
+    "number": 3,
+    "level": "Starter",
+    "title": "A Walk in Al Barsha Pond Park",
+    "intro": "Omar and Lily walk under the big trees in the park. They look closely at each part.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Fill in the missing letters.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "r _ _ t s",
+            "a": "roots"
+          },
+          {
+            "q": "s t _ m",
+            "a": "stem"
+          },
+          {
+            "q": "l _ _ f",
+            "a": "leaf"
+          },
+          {
+            "q": "f l _ w _ r",
+            "a": "flower"
+          },
+          {
+            "q": "f r _ _ t",
+            "a": "fruit"
+          },
+          {
+            "q": "s _ _ d",
+            "a": "seed"
+          },
+          {
+            "q": "b _ r k",
+            "a": "bark"
+          },
+          {
+            "q": "t r _ n k",
+            "a": "trunk"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The thick, hard stem of a tree is called a",
+            "options": [
+              "trunk",
+              "root"
+            ],
+            "after": ".",
+            "a": "trunk"
+          },
+          {
+            "before": "A money plant has a",
+            "options": [
+              "weak",
+              "strong"
+            ],
+            "after": "stem, so it climbs.",
+            "a": "weak"
+          },
+          {
+            "before": "The hard outer cover of a trunk is the",
+            "options": [
+              "bark",
+              "petal"
+            ],
+            "after": ".",
+            "a": "bark"
+          },
+          {
+            "before": "The coloured parts of a flower are",
+            "options": [
+              "petals",
+              "roots"
+            ],
+            "after": ".",
+            "a": "petals"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A date palm has a tall stem called a trunk.",
+            "a": true
+          },
+          {
+            "q": "The leaves of all plants have the same shape.",
+            "a": false
+          },
+          {
+            "q": "Some roots grow very deep to find water.",
+            "a": true
+          },
+          {
+            "q": "A big neem tree has a weak, soft stem.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the word to its meaning.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Veins",
+            "right": "thin lines on a leaf"
+          },
+          {
+            "left": "Branches",
+            "right": "arms of a tree that hold leaves"
+          },
+          {
+            "left": "Petals",
+            "right": "soft, coloured parts of a flower"
+          },
+          {
+            "left": "Bark",
+            "right": "hard cover of the trunk"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things you can see on a tree.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two of: trunk, bark, branches, leaves, flowers, fruits, seeds."
+      }
+    ]
+  },
+  {
+    "id": "parts-of-a-plant-04",
+    "topic": "parts-of-a-plant",
+    "number": 4,
+    "level": "Starter",
+    "title": "Marigolds for the Diwali Rangoli",
+    "intro": "Priya and Sam pick flowers for a Diwali rangoli. Flowers turn into fruits, and fruits hold seeds.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Marigold ___ are orange and yellow.",
+            "a": "flowers"
+          },
+          {
+            "q": "A flower can turn into a ___.",
+            "a": "fruit"
+          },
+          {
+            "q": "Inside a fruit we find ___.",
+            "a": "seeds"
+          },
+          {
+            "q": "A seed can grow into a new ___.",
+            "a": "plant"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the fruits.",
+        "marks": 8,
+        "groups": [
+          "Many seeds",
+          "One seed"
+        ],
+        "words": [
+          "guava",
+          "cherry",
+          "papaya",
+          "peach",
+          "date",
+          "watermelon",
+          "mango",
+          "pomegranate"
+        ],
+        "a": {
+          "watermelon": "Many seeds",
+          "papaya": "Many seeds",
+          "pomegranate": "Many seeds",
+          "guava": "Many seeds",
+          "mango": "One seed",
+          "peach": "One seed",
+          "cherry": "One seed",
+          "date": "One seed"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Bees carry pollen from flower to flower.",
+            "a": true
+          },
+          {
+            "q": "Flowers help a plant make seeds.",
+            "a": true
+          },
+          {
+            "q": "All flowers smell the same.",
+            "a": false
+          },
+          {
+            "q": "Rose plants have thorns on their stems.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The",
+            "options": [
+              "petals",
+              "roots"
+            ],
+            "after": "of the marigold are soft.",
+            "a": "petals"
+          },
+          {
+            "before": "A",
+            "options": [
+              "sunflower",
+              "carrot"
+            ],
+            "after": "has a big yellow flower.",
+            "a": "sunflower"
+          },
+          {
+            "before": "Pomegranate",
+            "options": [
+              "seeds",
+              "leaves"
+            ],
+            "after": "are red and juicy.",
+            "a": "seeds"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name a fruit you like. Does it have one seed or many?",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"Orange: many seeds\" or \"Plum: one seed\". Check the seed count is right."
+      }
+    ]
+  },
+  {
+    "id": "parts-of-a-plant-05",
+    "topic": "parts-of-a-plant",
+    "number": 5,
+    "level": "Practice",
+    "title": "The Rooftop Garden in Dubai",
+    "intro": "Sana and her dad grow tomatoes, mint and chillies on their roof. Use all you know about plant parts.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "The stem carries food from the leaves to other parts.",
+            "a": true
+          },
+          {
+            "q": "Leaves make food using sunlight, air and water.",
+            "a": true
+          },
+          {
+            "q": "Some roots, like radish, store food.",
+            "a": true
+          },
+          {
+            "q": "A plant can make food in the dark.",
+            "a": false
+          },
+          {
+            "q": "A fruit keeps the seeds inside it safe.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the plant part.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Sana waters the soil so the ___ can drink.",
+            "a": "roots"
+          },
+          {
+            "q": "The tomato plant has a weak ___, so Dad ties it to a stick.",
+            "a": "stem"
+          },
+          {
+            "q": "The ___ of the mint plant smell fresh.",
+            "a": "leaves"
+          },
+          {
+            "q": "The chilli ___ turned into green chillies.",
+            "a": "flowers"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the part of the plant we eat.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "brinjal",
+            "a": "fruit"
+          },
+          {
+            "q": "broccoli",
+            "a": "flower"
+          },
+          {
+            "q": "celery",
+            "a": "stem"
+          },
+          {
+            "q": "sweet potato",
+            "a": "root"
+          },
+          {
+            "q": "lettuce",
+            "a": "leaf"
+          },
+          {
+            "q": "corn",
+            "a": "seed"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A cactus stores water in its thick",
+            "options": [
+              "stem",
+              "flower"
+            ],
+            "after": ".",
+            "a": "stem"
+          },
+          {
+            "before": "Seeds grow inside the",
+            "options": [
+              "fruit",
+              "root"
+            ],
+            "after": ".",
+            "a": "fruit"
+          },
+          {
+            "before": "Leaves face the",
+            "options": [
+              "sun",
+              "soil"
+            ],
+            "after": "to get light.",
+            "a": "sun"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why are leaves called the kitchen of the plant?",
+        "marks": 2,
+        "lines": 2,
+        "a": "Leaves make food for the plant using sunlight, air and water."
+      }
+    ]
+  }
+]

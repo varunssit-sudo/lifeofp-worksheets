@@ -1,0 +1,724 @@
+[
+  {
+    "id": "comparing-numbers-01",
+    "topic": "comparing-numbers",
+    "number": 1,
+    "level": "Starter",
+    "title": "Marbles in the Playground",
+    "intro": "Arjun and Chloe are playing marbles at break time. Compare the numbers using >, < or =.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "47",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "74",
+            "a": "<"
+          },
+          {
+            "before": "63",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "36",
+            "a": ">"
+          },
+          {
+            "before": "58",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "58",
+            "a": "="
+          },
+          {
+            "before": "29",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "31",
+            "a": "<"
+          },
+          {
+            "before": "90",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "89",
+            "a": ">"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the greater number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "42 or 24",
+            "a": "42"
+          },
+          {
+            "q": "67 or 76",
+            "a": "76"
+          },
+          {
+            "q": "85 or 58",
+            "a": "85"
+          },
+          {
+            "q": "19 or 91",
+            "a": "91"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "52 > 25",
+            "a": true
+          },
+          {
+            "q": "38 < 33",
+            "a": false
+          },
+          {
+            "q": "70 = 70",
+            "a": true
+          },
+          {
+            "q": "The sign < means \"is less than\".",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the marble problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Arjun has 46 marbles. Chloe has 64 marbles. ___ has more marbles.",
+            "a": "Chloe"
+          },
+          {
+            "q": "Ben has 35 marbles and Hana has 53. Ben has ___ marbles than Hana. (more or fewer)",
+            "a": "fewer"
+          },
+          {
+            "q": "Ravi has 27 blue marbles and 27 green marbles. Write >, < or =: 27 ___ 27",
+            "a": "="
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "comparing-numbers-02",
+    "topic": "comparing-numbers",
+    "number": 2,
+    "level": "Starter",
+    "title": "The Cricket Match Scores",
+    "intro": "The school cricket teams are comparing scores. First compare the tens. If the tens are the same, compare the ones.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "56 has 5 tens. 65 has 6 tens. So ___ is greater.",
+            "a": "65"
+          },
+          {
+            "q": "73 and 78 both have 7 tens. 73 has 3 ones and 78 has ___ ones.",
+            "a": "8"
+          },
+          {
+            "q": "So ___ is greater than 73.",
+            "a": "78"
+          },
+          {
+            "q": "84 has ___ tens and 48 has 4 tens.",
+            "a": "8"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "39",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "93",
+            "a": "<"
+          },
+          {
+            "before": "61",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "68",
+            "a": "<"
+          },
+          {
+            "before": "45",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "45",
+            "a": "="
+          },
+          {
+            "before": "82",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "28",
+            "a": ">"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the pairs. Is the first number greater or smaller?",
+        "marks": 6,
+        "groups": [
+          "First is greater",
+          "First is smaller"
+        ],
+        "words": [
+          "43 and 34",
+          "57 and 75",
+          "91 and 19",
+          "26 and 62",
+          "88 and 80",
+          "71 and 77"
+        ],
+        "a": {
+          "43 and 34": "First is greater",
+          "57 and 75": "First is smaller",
+          "91 and 19": "First is greater",
+          "26 and 62": "First is smaller",
+          "88 and 80": "First is greater",
+          "71 and 77": "First is smaller"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Solve the cricket problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Team Falcon scored 67 runs. Team Tiger scored 76 runs. Team ___ won.",
+            "a": "Tiger"
+          },
+          {
+            "q": "Yusuf made 42 runs. Priya made 49 runs. ___ made more runs.",
+            "a": "Priya"
+          },
+          {
+            "q": "Leela took 3 wickets and Sam took 5. Write >, < or =: 3 ___ 5",
+            "a": "<"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "comparing-numbers-03",
+    "topic": "comparing-numbers",
+    "number": 3,
+    "level": "Starter",
+    "title": "Shopping at the Toy Store",
+    "intro": "Elena is choosing a gift at the toy store. Compare the prices. Look at the hundreds first.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "345",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "354",
+            "a": "<"
+          },
+          {
+            "before": "620",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "602",
+            "a": ">"
+          },
+          {
+            "before": "718",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "718",
+            "a": "="
+          },
+          {
+            "before": "499",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "500",
+            "a": "<"
+          },
+          {
+            "before": "836",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "683",
+            "a": ">"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the smaller price.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "₹250 or ₹205",
+            "a": "₹205"
+          },
+          {
+            "q": "₹475 or ₹547",
+            "a": "₹475"
+          },
+          {
+            "q": "₹390 or ₹309",
+            "a": "₹309"
+          },
+          {
+            "q": "₹128 or ₹182",
+            "a": "₹128"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In 456 and 465, the hundreds are the same.",
+            "a": true
+          },
+          {
+            "q": "456 > 465",
+            "a": false
+          },
+          {
+            "q": "₹700 < ₹699",
+            "a": false
+          },
+          {
+            "q": "To compare 3-digit numbers, we look at the hundreds first.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the toy store problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A teddy bear costs ₹385 and a toy car costs ₹358. The ___ costs more.",
+            "a": "teddy bear"
+          },
+          {
+            "q": "A puzzle costs ₹240 and a ball costs ₹420. The ___ costs less.",
+            "a": "puzzle"
+          },
+          {
+            "q": "Elena has ₹500. A kite costs ₹450. Can she buy it? ___ (yes or no)",
+            "a": "yes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "comparing-numbers-04",
+    "topic": "comparing-numbers",
+    "number": 4,
+    "level": "Starter",
+    "title": "A Visit to the Aquarium",
+    "intro": "Sameer's class is visiting the aquarium. Count, add and compare the sea animals.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Work out each side. Then circle >, < or =.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "23 + 15",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "40",
+            "a": "<"
+          },
+          {
+            "before": "30 + 20",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "50",
+            "a": "="
+          },
+          {
+            "before": "45 − 5",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "39",
+            "a": ">"
+          },
+          {
+            "before": "12 + 12",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "20 + 4",
+            "a": "="
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the greatest number.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "208",
+              "280",
+              "228"
+            ],
+            "after": "",
+            "a": "280"
+          },
+          {
+            "before": "",
+            "options": [
+              "517",
+              "571",
+              "557"
+            ],
+            "after": "",
+            "a": "571"
+          },
+          {
+            "before": "",
+            "options": [
+              "649",
+              "694",
+              "669"
+            ],
+            "after": "",
+            "a": "694"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the smallest number.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "73",
+              "37",
+              "70"
+            ],
+            "after": "",
+            "a": "37"
+          },
+          {
+            "before": "",
+            "options": [
+              "154",
+              "145",
+              "415"
+            ],
+            "after": "",
+            "a": "145"
+          },
+          {
+            "before": "",
+            "options": [
+              "902",
+              "920",
+              "290"
+            ],
+            "after": "",
+            "a": "290"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "34 + 10 > 40",
+            "a": true
+          },
+          {
+            "q": "60 − 20 = 40",
+            "a": true
+          },
+          {
+            "q": "25 + 25 < 45",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the aquarium problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The big tank has 126 fish. The small tank has 98 fish. The ___ tank has more fish.",
+            "a": "big"
+          },
+          {
+            "q": "Sameer saw 14 crabs and 9 more crabs. Nadia saw 25 crabs. ___ saw more crabs.",
+            "a": "Nadia"
+          },
+          {
+            "q": "There are 8 sharks and 8 rays. Write >, < or =: 8 ___ 8",
+            "a": "="
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "comparing-numbers-05",
+    "topic": "comparing-numbers",
+    "number": 5,
+    "level": "Practice",
+    "title": "The Library Reading Challenge",
+    "intro": "Krish, Maryam and Oliver are in a reading challenge. Compare big numbers and number names.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "683",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "638",
+            "a": ">"
+          },
+          {
+            "before": "509",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "590",
+            "a": "<"
+          },
+          {
+            "before": "777",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "777",
+            "a": "="
+          },
+          {
+            "before": "210",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "201",
+            "a": ">"
+          },
+          {
+            "before": "999",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "1000",
+            "a": "<"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each number name to its number.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "three hundred forty",
+            "right": "340"
+          },
+          {
+            "left": "three hundred four",
+            "right": "304"
+          },
+          {
+            "left": "four hundred three",
+            "right": "403"
+          },
+          {
+            "left": "four hundred thirty",
+            "right": "430"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Compare the number names. Circle >, < or =.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "six hundred twelve",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "six hundred twenty-one",
+            "a": "<"
+          },
+          {
+            "before": "five hundred fifty",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "five hundred five",
+            "a": ">"
+          },
+          {
+            "before": "two hundred nine",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "two hundred nine",
+            "a": "="
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the biggest digit that makes it true.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "4_7 < 437. The biggest digit is ___.",
+            "a": "2"
+          },
+          {
+            "q": "2_5 < 265. The biggest digit is ___.",
+            "a": "5"
+          },
+          {
+            "q": "_80 < 580. The biggest digit is ___.",
+            "a": "4"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the reading problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Krish read 245 pages. Maryam read 254 pages. ___ read more pages.",
+            "a": "Maryam"
+          },
+          {
+            "q": "Oliver read 160 pages. He wants to read more than 200. Has he done it? ___ (yes or no)",
+            "a": "no"
+          },
+          {
+            "q": "Maryam read 254 pages, Krish 245 and Oliver 160. ___ read the fewest pages.",
+            "a": "Oliver"
+          }
+        ]
+      }
+    ]
+  }
+]

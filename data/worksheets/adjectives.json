@@ -1,0 +1,641 @@
+[
+  {
+    "id": "adjectives-01",
+    "topic": "adjectives",
+    "number": 1,
+    "level": "Starter",
+    "title": "A Visit to the Fruit Market",
+    "intro": "Kabir and his Nani are buying fruit at the market. Describing words tell us more about the fruit.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the words into naming words and describing words.",
+        "marks": 8,
+        "groups": [
+          "Naming word",
+          "Describing word"
+        ],
+        "words": [
+          "mango",
+          "ripe",
+          "basket",
+          "sweet",
+          "yellow",
+          "banana",
+          "juicy",
+          "seller"
+        ],
+        "a": {
+          "mango": "Naming word",
+          "ripe": "Describing word",
+          "basket": "Naming word",
+          "sweet": "Describing word",
+          "yellow": "Describing word",
+          "banana": "Naming word",
+          "juicy": "Describing word",
+          "seller": "Naming word"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that fits best.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Lemons taste",
+            "options": [
+              "sour",
+              "sweet"
+            ],
+            "after": ".",
+            "a": "sour"
+          },
+          {
+            "before": "A watermelon is",
+            "options": [
+              "big",
+              "tiny"
+            ],
+            "after": "and heavy.",
+            "a": "big"
+          },
+          {
+            "before": "Ripe strawberries are",
+            "options": [
+              "red",
+              "blue"
+            ],
+            "after": ".",
+            "a": "red"
+          },
+          {
+            "before": "A pineapple has a",
+            "options": [
+              "smooth",
+              "rough"
+            ],
+            "after": "skin.",
+            "a": "rough"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with: round, green, soft, ten.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "An orange is ___ like a ball.",
+            "a": "round"
+          },
+          {
+            "q": "Limes and peas are ___.",
+            "a": "green"
+          },
+          {
+            "q": "A ripe banana feels ___ when you press it.",
+            "a": "soft"
+          },
+          {
+            "q": "Nani counted ___ apples into the bag.",
+            "a": "ten"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Juicy\" is a describing word.",
+            "a": true
+          },
+          {
+            "q": "\"Basket\" is a describing word.",
+            "a": false
+          },
+          {
+            "q": "In \"a red apple\", the word red tells the colour.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two describing words for a mango.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any two fitting adjectives, e.g. yellow, sweet, juicy, ripe."
+      }
+    ]
+  },
+  {
+    "id": "adjectives-02",
+    "topic": "adjectives",
+    "number": 2,
+    "level": "Starter",
+    "title": "My New School Bag",
+    "intro": "Myra got a new bag for Class 2. Describing words can tell colour, size, shape and number.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each describing word to what it tells.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "purple",
+            "right": "colour"
+          },
+          {
+            "left": "huge",
+            "right": "size"
+          },
+          {
+            "left": "square",
+            "right": "shape"
+          },
+          {
+            "left": "four",
+            "right": "number"
+          },
+          {
+            "left": "salty",
+            "right": "taste"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the describing word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "In \"a heavy bag\", the describing word is",
+            "options": [
+              "heavy",
+              "bag"
+            ],
+            "after": ".",
+            "a": "heavy"
+          },
+          {
+            "before": "In \"two pencils\", the describing word is",
+            "options": [
+              "pencils",
+              "two"
+            ],
+            "after": ".",
+            "a": "two"
+          },
+          {
+            "before": "In \"a sharp crayon\", the describing word is",
+            "options": [
+              "sharp",
+              "crayon"
+            ],
+            "after": ".",
+            "a": "sharp"
+          },
+          {
+            "before": "In \"a tiny eraser\", the describing word is",
+            "options": [
+              "eraser",
+              "tiny"
+            ],
+            "after": ".",
+            "a": "tiny"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the describing words into colour, size and number.",
+        "marks": 9,
+        "groups": [
+          "Colour",
+          "Size",
+          "Number"
+        ],
+        "words": [
+          "pink",
+          "small",
+          "three",
+          "grey",
+          "tall",
+          "six",
+          "orange",
+          "long",
+          "nine"
+        ],
+        "a": {
+          "pink": "Colour",
+          "small": "Size",
+          "three": "Number",
+          "grey": "Colour",
+          "tall": "Size",
+          "six": "Number",
+          "orange": "Colour",
+          "long": "Size",
+          "nine": "Number"
+        }
+      },
+      {
+        "type": "rewrite",
+        "title": "Add a describing word to each sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Myra has a bag.",
+            "a": "Any fitting adjective, e.g. Myra has a new bag."
+          },
+          {
+            "q": "She packed a lunch box.",
+            "a": "Any fitting adjective, e.g. She packed a round lunch box."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "adjectives-03",
+    "topic": "adjectives",
+    "number": 3,
+    "level": "Starter",
+    "title": "Diwali Night Lights",
+    "intro": "It is Diwali at Arjun's home. Find the describing words that tell how things look, sound and taste.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the describing word in each sentence.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Arjun lit a bright diya. ___",
+            "a": "bright"
+          },
+          {
+            "q": "Mummy made sweet laddoos. ___",
+            "a": "sweet"
+          },
+          {
+            "q": "We heard loud crackers. ___",
+            "a": "loud"
+          },
+          {
+            "q": "Didi drew a colourful rangoli. ___",
+            "a": "colourful"
+          },
+          {
+            "q": "The lamps on the wall are gold. ___",
+            "a": "gold"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words by the sense they use.",
+        "marks": 6,
+        "groups": [
+          "Looks",
+          "Sounds",
+          "Tastes"
+        ],
+        "words": [
+          "shiny",
+          "noisy",
+          "spicy",
+          "sparkly",
+          "quiet",
+          "sugary"
+        ],
+        "a": {
+          "shiny": "Looks",
+          "noisy": "Sounds",
+          "spicy": "Tastes",
+          "sparkly": "Looks",
+          "quiet": "Sounds",
+          "sugary": "Tastes"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that fits best.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The night sky was",
+            "options": [
+              "dark",
+              "sour"
+            ],
+            "after": ".",
+            "a": "dark"
+          },
+          {
+            "before": "We wore",
+            "options": [
+              "tasty",
+              "new"
+            ],
+            "after": "clothes for the puja.",
+            "a": "new"
+          },
+          {
+            "before": "The hot samosas were",
+            "options": [
+              "crispy",
+              "tall"
+            ],
+            "after": ".",
+            "a": "crispy"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Loud\" tells us how something sounds.",
+            "a": true
+          },
+          {
+            "q": "\"Diya\" is a describing word.",
+            "a": false
+          },
+          {
+            "q": "A describing word tells us more about a naming word.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a sentence about Diwali with a describing word.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary; check a fitting adjective, e.g. \"I lit a bright diya.\""
+      }
+    ]
+  },
+  {
+    "id": "adjectives-04",
+    "topic": "adjectives",
+    "number": 4,
+    "level": "Starter",
+    "title": "Animals at the Safari Park",
+    "intro": "Class 2 went to the safari park in Al Ain. Use describing words to talk about the animals.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each animal to the best describing word.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "giraffe",
+            "right": "tall"
+          },
+          {
+            "left": "tortoise",
+            "right": "slow"
+          },
+          {
+            "left": "cheetah",
+            "right": "fast"
+          },
+          {
+            "left": "hippo",
+            "right": "heavy"
+          },
+          {
+            "left": "zebra",
+            "right": "striped"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that fits best.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A porcupine has",
+            "options": [
+              "sharp",
+              "soft"
+            ],
+            "after": "spines.",
+            "a": "sharp"
+          },
+          {
+            "before": "An ostrich has",
+            "options": [
+              "long",
+              "short"
+            ],
+            "after": "legs.",
+            "a": "long"
+          },
+          {
+            "before": "A baby monkey is",
+            "options": [
+              "huge",
+              "little"
+            ],
+            "after": ".",
+            "a": "little"
+          },
+          {
+            "before": "The lion gave a",
+            "options": [
+              "loud",
+              "silent"
+            ],
+            "after": "roar.",
+            "a": "loud"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write a describing word for each animal.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "elephant",
+            "a": "e.g. big, grey"
+          },
+          {
+            "q": "parrot",
+            "a": "e.g. green, noisy"
+          },
+          {
+            "q": "snake",
+            "a": "e.g. long, thin"
+          },
+          {
+            "q": "rabbit",
+            "a": "e.g. soft, white, small"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In \"the striped zebra\", striped is the describing word.",
+            "a": true
+          },
+          {
+            "q": "\"Fast\" is a good describing word for a snail.",
+            "a": false
+          },
+          {
+            "q": "\"Camel\" is a describing word.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write a sentence about your favourite animal with two describing words.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "My favourite animal is ___.",
+            "a": "Answers will vary; check two adjectives, e.g. \"My favourite animal is a big grey elephant.\""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "adjectives-05",
+    "topic": "adjectives",
+    "number": 5,
+    "level": "Practice",
+    "title": "Sports Day Races",
+    "intro": "It is Sports Day at school. We add er to compare two things and est to compare more than two.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Add er and est to each word.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "fast",
+            "a": "faster, fastest"
+          },
+          {
+            "q": "tall",
+            "a": "taller, tallest"
+          },
+          {
+            "q": "short",
+            "a": "shorter, shortest"
+          },
+          {
+            "q": "strong",
+            "a": "stronger, strongest"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Zara is",
+            "options": [
+              "quick",
+              "quicker"
+            ],
+            "after": "than Rohan.",
+            "a": "quicker"
+          },
+          {
+            "before": "Tom is the",
+            "options": [
+              "taller",
+              "tallest"
+            ],
+            "after": "boy in the class.",
+            "a": "tallest"
+          },
+          {
+            "before": "The red team rope is",
+            "options": [
+              "longer",
+              "longest"
+            ],
+            "after": "than the blue team rope.",
+            "a": "longer"
+          },
+          {
+            "before": "Neel ran the",
+            "options": [
+              "slower",
+              "slowest"
+            ],
+            "after": "of all five runners.",
+            "a": "slowest"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blank with the word in brackets plus er or est.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The sack race was ___ (hard) than the spoon race.",
+            "a": "harder"
+          },
+          {
+            "q": "Aisha jumped the ___ (high) of everyone.",
+            "a": "highest"
+          },
+          {
+            "q": "The big trophy is ___ (bright) than the small one.",
+            "a": "brighter"
+          },
+          {
+            "q": "Our team was the ___ (loud) when we cheered.",
+            "a": "loudest"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We use \"est\" when we compare only two children.",
+            "a": false
+          },
+          {
+            "q": "\"Smaller\" compares two things.",
+            "a": true
+          },
+          {
+            "q": "\"Fast, faster, fastest\" is in the right order.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write about your best race using one describing word.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary; check a fitting adjective, e.g. \"I was the fastest in the flat race.\""
+      }
+    ]
+  }
+]

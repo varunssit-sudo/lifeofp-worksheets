@@ -1,0 +1,664 @@
+[
+  {
+    "id": "weather-01",
+    "topic": "weather",
+    "number": 1,
+    "level": "Starter",
+    "title": "What Shall Ishaan Wear Today?",
+    "intro": "Each morning Ishaan looks out of the window before school. The weather tells him what to take.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each weather to what you need.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Sunny",
+            "right": "sun cap"
+          },
+          {
+            "left": "Rainy",
+            "right": "raincoat"
+          },
+          {
+            "left": "Windy",
+            "right": "kite"
+          },
+          {
+            "left": "Snowy",
+            "right": "woollen gloves"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "When grey clouds cover the sky, it is",
+            "options": [
+              "cloudy",
+              "sunny"
+            ],
+            "after": ".",
+            "a": "cloudy"
+          },
+          {
+            "before": "Leaves blow about on a",
+            "options": [
+              "windy",
+              "still"
+            ],
+            "after": "day.",
+            "a": "windy"
+          },
+          {
+            "before": "We see sharp shadows on a",
+            "options": [
+              "sunny",
+              "cloudy"
+            ],
+            "after": "day.",
+            "a": "sunny"
+          },
+          {
+            "before": "The ground is wet on a",
+            "options": [
+              "rainy",
+              "dry"
+            ],
+            "after": "day.",
+            "a": "rainy"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The weather can change in one day.",
+            "a": true
+          },
+          {
+            "q": "We use an umbrella on rainy days.",
+            "a": true
+          },
+          {
+            "q": "The sun is often hidden on a cloudy day.",
+            "a": true
+          },
+          {
+            "q": "It is cloudy when the sky is clear and blue.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Weather tells us if it is hot, cold, wet or ___ outside.",
+            "a": "windy"
+          },
+          {
+            "q": "A person who tells us the weather on TV is a weather ___.",
+            "a": "forecaster"
+          },
+          {
+            "q": "When it rains and the sun shines, we may see a ___.",
+            "a": "rainbow"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "What is the weather like today? Write it.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"Today it is sunny and hot.\" Check a weather word is used."
+      }
+    ]
+  },
+  {
+    "id": "weather-02",
+    "topic": "weather",
+    "number": 2,
+    "level": "Starter",
+    "title": "Kite Festival in Ahmedabad",
+    "intro": "In January, Diya and Max fly kites on the roof for Uttarayan. They need a windy day.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Make the weather word.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "sun",
+            "a": "sunny"
+          },
+          {
+            "q": "rain",
+            "a": "rainy"
+          },
+          {
+            "q": "cloud",
+            "a": "cloudy"
+          },
+          {
+            "q": "wind",
+            "a": "windy"
+          },
+          {
+            "q": "fog",
+            "a": "foggy"
+          },
+          {
+            "q": "storm",
+            "a": "stormy"
+          },
+          {
+            "q": "snow",
+            "a": "snowy"
+          },
+          {
+            "q": "frost",
+            "a": "frosty"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Wind is moving air.",
+            "a": true
+          },
+          {
+            "q": "We can see the wind.",
+            "a": false
+          },
+          {
+            "q": "We can feel the wind on our face.",
+            "a": true
+          },
+          {
+            "q": "Kites fly best when there is no wind.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The wind turns the blades of a ___.",
+            "a": "windmill"
+          },
+          {
+            "q": "Wet clothes dry quickly on a ___ day.",
+            "a": "windy"
+          },
+          {
+            "q": "A very strong wind with heavy rain is a ___.",
+            "a": "storm"
+          },
+          {
+            "q": "Diya holds her kite by its long ___.",
+            "a": "string"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Tall trees",
+            "options": [
+              "sway",
+              "sleep"
+            ],
+            "after": "in the wind.",
+            "a": "sway"
+          },
+          {
+            "before": "A",
+            "options": [
+              "flag",
+              "rock"
+            ],
+            "after": "flutters in the wind.",
+            "a": "flag"
+          },
+          {
+            "before": "A gentle wind is called a",
+            "options": [
+              "breeze",
+              "blizzard"
+            ],
+            "after": ".",
+            "a": "breeze"
+          },
+          {
+            "before": "Sailboats are pushed along by the",
+            "options": [
+              "wind",
+              "sun"
+            ],
+            "after": ".",
+            "a": "wind"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things the wind can move.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. kites, leaves, flags, clouds, sailboats, windmills, clothes on a line."
+      }
+    ]
+  },
+  {
+    "id": "weather-03",
+    "topic": "weather",
+    "number": 3,
+    "level": "Starter",
+    "title": "A Sandstorm in Abu Dhabi",
+    "intro": "One afternoon the sky turns orange and dusty. Yusuf and Ella stay indoors during a sandstorm.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "During a sandstorm,",
+            "options": [
+              "stay indoors",
+              "play outside"
+            ],
+            "after": ".",
+            "a": "stay indoors"
+          },
+          {
+            "before": "Cover your",
+            "options": [
+              "nose and mouth",
+              "knees"
+            ],
+            "after": "from the dust.",
+            "a": "nose and mouth"
+          },
+          {
+            "before": "Winter mornings in the UAE can be",
+            "options": [
+              "foggy",
+              "snowy"
+            ],
+            "after": ".",
+            "a": "foggy"
+          },
+          {
+            "before": "In summer, the UAE is very",
+            "options": [
+              "hot",
+              "cold"
+            ],
+            "after": ".",
+            "a": "hot"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Rain does not fall often in the UAE.",
+            "a": true
+          },
+          {
+            "q": "Fog makes it hard for drivers to see.",
+            "a": true
+          },
+          {
+            "q": "A sandstorm makes the sky clear and blue.",
+            "a": false
+          },
+          {
+            "q": "We should drink water often on hot days.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each weather to what you see.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Foggy",
+            "right": "a thick white cloud near the ground"
+          },
+          {
+            "left": "Stormy",
+            "right": "thunder and lightning"
+          },
+          {
+            "left": "Sandstorm",
+            "right": "dust and sand fill the air"
+          },
+          {
+            "left": "Sunny",
+            "right": "a bright sky and a hot sun"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The sand is blown about by strong ___.",
+            "a": "winds"
+          },
+          {
+            "q": "In thick fog, Dad switches on the car ___.",
+            "a": "headlights"
+          },
+          {
+            "q": "Ella shuts the ___ to keep the dust out.",
+            "a": "windows"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things to do to stay safe in a sandstorm.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. stay indoors, shut windows and doors, cover nose and mouth, wear goggles or glasses."
+      }
+    ]
+  },
+  {
+    "id": "weather-04",
+    "topic": "weather",
+    "number": 4,
+    "level": "Starter",
+    "title": "Our Class Weather Chart",
+    "intro": "Class 2 drew the weather each day for one week: Mon sunny, Tue sunny, Wed cloudy, Thu rainy, Fri rainy, Sat sunny, Sun windy.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the chart and fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "There were ___ sunny days.",
+            "a": "3"
+          },
+          {
+            "q": "There were ___ rainy days.",
+            "a": "2"
+          },
+          {
+            "q": "Wednesday was ___.",
+            "a": "cloudy"
+          },
+          {
+            "q": "There were ___ days in all.",
+            "a": "7"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right tool.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A",
+            "options": [
+              "thermometer",
+              "ruler"
+            ],
+            "after": "tells how hot or cold it is.",
+            "a": "thermometer"
+          },
+          {
+            "before": "A",
+            "options": [
+              "rain gauge",
+              "clock"
+            ],
+            "after": "measures how much rain fell.",
+            "a": "rain gauge"
+          },
+          {
+            "before": "A",
+            "options": [
+              "wind vane",
+              "spoon"
+            ],
+            "after": "shows which way the wind blows.",
+            "a": "wind vane"
+          },
+          {
+            "before": "We fill in the weather chart",
+            "options": [
+              "every day",
+              "once a year"
+            ],
+            "after": ".",
+            "a": "every day"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The weather was the same every day this week.",
+            "a": false
+          },
+          {
+            "q": "Thursday and Friday were wet days.",
+            "a": true
+          },
+          {
+            "q": "Sunday was a good day to fly a kite.",
+            "a": true
+          },
+          {
+            "q": "Monday was a day for raincoats.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each picture to its weather.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "a sun",
+            "right": "sunny"
+          },
+          {
+            "left": "a cloud with raindrops",
+            "right": "rainy"
+          },
+          {
+            "left": "a grey cloud only",
+            "right": "cloudy"
+          },
+          {
+            "left": "a cloud with a lightning bolt",
+            "right": "stormy"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which day was best for a picnic? Write why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Monday, Tuesday or Saturday, because they were sunny and dry."
+      }
+    ]
+  },
+  {
+    "id": "weather-05",
+    "topic": "weather",
+    "number": 5,
+    "level": "Practice",
+    "title": "Planning a Picnic at Lodhi Garden",
+    "intro": "Sameer's family plans a Sunday picnic at Lodhi Garden in Delhi. First they check the weather.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "If it may rain, carry an",
+            "options": [
+              "umbrella",
+              "ice box"
+            ],
+            "after": ".",
+            "a": "umbrella"
+          },
+          {
+            "before": "In a thunderstorm, stay",
+            "options": [
+              "indoors",
+              "under a tall tree"
+            ],
+            "after": ".",
+            "a": "indoors"
+          },
+          {
+            "before": "On a hot, sunny day, sit in the",
+            "options": [
+              "shade",
+              "sun"
+            ],
+            "after": ".",
+            "a": "shade"
+          },
+          {
+            "before": "On a windy day, keep the food in a",
+            "options": [
+              "closed box",
+              "open plate"
+            ],
+            "after": ".",
+            "a": "closed box"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "We may see a rainbow when the sun shines through raindrops.",
+            "a": true
+          },
+          {
+            "q": "A rainbow has seven colours.",
+            "a": true
+          },
+          {
+            "q": "Snow falls in Delhi every winter.",
+            "a": false
+          },
+          {
+            "q": "Dark clouds can tell us that rain may come.",
+            "a": true
+          },
+          {
+            "q": "We hear thunder before we see the lightning.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort what you would use.",
+        "marks": 6,
+        "groups": [
+          "Sunny day",
+          "Rainy day",
+          "Windy day"
+        ],
+        "words": [
+          "paper boat",
+          "kite",
+          "pinwheel",
+          "gumboots",
+          "raincoat",
+          "sunglasses",
+          "wind chimes",
+          "sun cap",
+          "sunscreen"
+        ],
+        "a": {
+          "sunglasses": "Sunny day",
+          "sun cap": "Sunny day",
+          "sunscreen": "Sunny day",
+          "raincoat": "Rainy day",
+          "gumboots": "Rainy day",
+          "paper boat": "Rainy day",
+          "kite": "Windy day",
+          "pinwheel": "Windy day",
+          "wind chimes": "Windy day"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We can check the weather ___ before a picnic.",
+            "a": "forecast"
+          },
+          {
+            "q": "Dark grey clouds mean ___ may come soon.",
+            "a": "rain"
+          },
+          {
+            "q": "A dark sky with thunder and lightning is ___ weather.",
+            "a": "stormy"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "The forecast says cloudy and windy. What will you take to the picnic?",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. a light jacket, a kite, food in closed boxes. Check the items suit cloudy, windy weather."
+      }
+    ]
+  }
+]

@@ -1,0 +1,675 @@
+[
+  {
+    "id": "numbers-up-to-1000-01",
+    "topic": "numbers-up-to-1000",
+    "number": 1,
+    "level": "Starter",
+    "title": "Bundles of Paper at the Stationery Shop",
+    "intro": "Each bundle at Mr Kapoor's shop has 100 sheets of paper. Count in hundreds.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the number for the hundreds.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "2 hundreds",
+            "a": "200"
+          },
+          {
+            "q": "5 hundreds",
+            "a": "500"
+          },
+          {
+            "q": "7 hundreds",
+            "a": "700"
+          },
+          {
+            "q": "9 hundreds",
+            "a": "900"
+          },
+          {
+            "q": "4 hundreds",
+            "a": "400"
+          },
+          {
+            "q": "6 hundreds",
+            "a": "600"
+          },
+          {
+            "q": "3 hundreds",
+            "a": "300"
+          },
+          {
+            "q": "10 hundreds",
+            "a": "1000"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Count on in hundreds. Write the next number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "400, 500, 600, ___",
+            "a": "700"
+          },
+          {
+            "q": "100, 200, 300, ___",
+            "a": "400"
+          },
+          {
+            "q": "700, 800, 900, ___",
+            "a": "1000"
+          },
+          {
+            "q": "200, ___, 400, 500",
+            "a": "300"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the number to its name.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "600",
+            "right": "six hundred"
+          },
+          {
+            "left": "900",
+            "right": "nine hundred"
+          },
+          {
+            "left": "100",
+            "right": "one hundred"
+          },
+          {
+            "left": "800",
+            "right": "eight hundred"
+          },
+          {
+            "left": "500",
+            "right": "five hundred"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "10 hundreds make 1000.",
+            "a": true
+          },
+          {
+            "q": "Five hundred is written as 5000.",
+            "a": false
+          },
+          {
+            "q": "After 200, we count 300 when counting in hundreds.",
+            "a": true
+          },
+          {
+            "q": "800 is less than 700.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the shop problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Aarav buys 4 bundles of 100 sheets. He has ___ sheets.",
+            "a": "400"
+          },
+          {
+            "q": "The shop had 9 bundles. 3 bundles were sold. ___ sheets are left.",
+            "a": "600"
+          },
+          {
+            "q": "The shop gets 2 bundles on Monday and 5 on Tuesday. That is ___ sheets.",
+            "a": "700"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "numbers-up-to-1000-02",
+    "topic": "numbers-up-to-1000",
+    "number": 2,
+    "level": "Starter",
+    "title": "Seats at the Cricket Stadium",
+    "intro": "Fans are finding their seats at the big match. Read and write the seat numbers.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the number for each name.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Three hundred twenty-six = ___",
+            "a": "326"
+          },
+          {
+            "q": "Five hundred eight = ___",
+            "a": "508"
+          },
+          {
+            "q": "Seven hundred forty = ___",
+            "a": "740"
+          },
+          {
+            "q": "Nine hundred thirteen = ___",
+            "a": "913"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the number to its name.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "251",
+            "right": "two hundred fifty-one"
+          },
+          {
+            "left": "215",
+            "right": "two hundred fifteen"
+          },
+          {
+            "left": "520",
+            "right": "five hundred twenty"
+          },
+          {
+            "left": "502",
+            "right": "five hundred two"
+          },
+          {
+            "left": "125",
+            "right": "one hundred twenty-five"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right number name.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "407 is",
+            "options": [
+              "four hundred seven",
+              "four hundred seventy"
+            ],
+            "after": "",
+            "a": "four hundred seven"
+          },
+          {
+            "before": "690 is",
+            "options": [
+              "six hundred nine",
+              "six hundred ninety"
+            ],
+            "after": "",
+            "a": "six hundred ninety"
+          },
+          {
+            "before": "831 is",
+            "options": [
+              "eight hundred thirteen",
+              "eight hundred thirty-one"
+            ],
+            "after": "",
+            "a": "eight hundred thirty-one"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the number name for each seat.",
+        "marks": 1,
+        "items": [
+          {
+            "q": "Seat 684",
+            "a": "six hundred eighty-four"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the stadium problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Block A has 300 seats. Block B has 400 seats. Both blocks have ___ seats.",
+            "a": "700"
+          },
+          {
+            "q": "Rohan sits in seat five hundred eighty. In numbers, that is seat ___.",
+            "a": "580"
+          },
+          {
+            "q": "The stadium has 900 seats. 600 are full. ___ seats are empty.",
+            "a": "300"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "numbers-up-to-1000-03",
+    "topic": "numbers-up-to-1000",
+    "number": 3,
+    "level": "Starter",
+    "title": "Ticket Numbers at the Funfair",
+    "intro": "Every ride ticket at the funfair has a number. Find the numbers before, after and between.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the number that comes just after.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "399",
+            "a": "400"
+          },
+          {
+            "q": "509",
+            "a": "510"
+          },
+          {
+            "q": "689",
+            "a": "690"
+          },
+          {
+            "q": "999",
+            "a": "1000"
+          },
+          {
+            "q": "120",
+            "a": "121"
+          },
+          {
+            "q": "845",
+            "a": "846"
+          },
+          {
+            "q": "260",
+            "a": "261"
+          },
+          {
+            "q": "777",
+            "a": "778"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the number that comes just before.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "___ comes just before 300.",
+            "a": "299"
+          },
+          {
+            "q": "___ comes just before 451.",
+            "a": "450"
+          },
+          {
+            "q": "___ comes just before 610.",
+            "a": "609"
+          },
+          {
+            "q": "___ comes just before 1000.",
+            "a": "999"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the number that comes in between.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "548, ___, 550",
+            "a": "549"
+          },
+          {
+            "q": "699, ___, 701",
+            "a": "700"
+          },
+          {
+            "q": "309, ___, 311",
+            "a": "310"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The number just before 800 is 799.",
+            "a": true
+          },
+          {
+            "q": "The number just after 459 is 450.",
+            "a": false
+          },
+          {
+            "q": "229 comes between 228 and 230.",
+            "a": true
+          },
+          {
+            "q": "999 is the biggest 3-digit number.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the ticket problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Tara has ticket 384. Her brother has the next ticket. His ticket is ___.",
+            "a": "385"
+          },
+          {
+            "q": "Neel's ticket comes just before 700. His ticket is ___.",
+            "a": "699"
+          },
+          {
+            "q": "Mira's ticket is between 499 and 501. Her ticket is ___.",
+            "a": "500"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "numbers-up-to-1000-04",
+    "topic": "numbers-up-to-1000",
+    "number": 4,
+    "level": "Starter",
+    "title": "Planting Saplings Along the Road",
+    "intro": "Workers in Sharjah plant saplings along a new road. Count on and back in tens and hundreds.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the next number in the pattern.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "340, 350, 360, ___",
+            "a": "370"
+          },
+          {
+            "q": "570, 580, 590, ___",
+            "a": "600"
+          },
+          {
+            "q": "150, 250, 350, ___",
+            "a": "450"
+          },
+          {
+            "q": "920, 820, 720, ___",
+            "a": "620"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the missing number.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "460, ?, 480",
+            "options": [
+              "470",
+              "570"
+            ],
+            "after": "",
+            "a": "470"
+          },
+          {
+            "before": "300, ?, 500",
+            "options": [
+              "350",
+              "400"
+            ],
+            "after": "",
+            "a": "400"
+          },
+          {
+            "before": "650, ?, 450",
+            "options": [
+              "550",
+              "640"
+            ],
+            "after": "",
+            "a": "550"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each sum to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "10 more than 435",
+            "right": "445"
+          },
+          {
+            "left": "100 more than 435",
+            "right": "535"
+          },
+          {
+            "left": "10 less than 435",
+            "right": "425"
+          },
+          {
+            "left": "100 less than 435",
+            "right": "335"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Counting in tens: 380, 390, 400.",
+            "a": true
+          },
+          {
+            "q": "100 more than 250 is 260.",
+            "a": false
+          },
+          {
+            "q": "10 less than 700 is 690.",
+            "a": true
+          },
+          {
+            "q": "Counting in hundreds from 50 gives 50, 150, 250.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the planting problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Each row has 10 saplings. 10 rows have ___ saplings.",
+            "a": "100"
+          },
+          {
+            "q": "The road has 600 saplings. Workers plant 100 more. Now there are ___.",
+            "a": "700"
+          },
+          {
+            "q": "Meena counts back in tens: 530, 520, 510, ___.",
+            "a": "500"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "numbers-up-to-1000-05",
+    "topic": "numbers-up-to-1000",
+    "number": 5,
+    "level": "Practice",
+    "title": "The Big Library Shelf",
+    "intro": "Ms Fernandes puts the library books in order by their numbers. Help her compare and order.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle <, > or =.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "538",
+            "options": [
+              "<",
+              ">",
+              "="
+            ],
+            "after": "583",
+            "a": "<"
+          },
+          {
+            "before": "702",
+            "options": [
+              "<",
+              ">",
+              "="
+            ],
+            "after": "699",
+            "a": ">"
+          },
+          {
+            "before": "450",
+            "options": [
+              "<",
+              ">",
+              "="
+            ],
+            "after": "450",
+            "a": "="
+          },
+          {
+            "before": "381",
+            "options": [
+              "<",
+              ">",
+              "="
+            ],
+            "after": "318",
+            "a": ">"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the numbers from smallest to largest.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "309, 903, 390 → ___",
+            "a": "309, 390, 903"
+          },
+          {
+            "q": "645, 564, 456 → ___",
+            "a": "456, 564, 645"
+          },
+          {
+            "q": "812, 821, 128 → ___",
+            "a": "128, 812, 821"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the book numbers.",
+        "marks": 4,
+        "groups": [
+          "Less than 500",
+          "More than 500"
+        ],
+        "words": [
+          "499",
+          "501",
+          "450",
+          "505",
+          "95",
+          "950",
+          "390",
+          "610"
+        ],
+        "a": {
+          "499": "Less than 500",
+          "501": "More than 500",
+          "450": "Less than 500",
+          "505": "More than 500",
+          "95": "Less than 500",
+          "950": "More than 500",
+          "390": "Less than 500",
+          "610": "More than 500"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Use each digit once to make a 3-digit number.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The largest number with 4, 9, 2 is ___.",
+            "a": "942"
+          },
+          {
+            "q": "The smallest number with 7, 1, 5 is ___.",
+            "a": "157"
+          },
+          {
+            "q": "The smallest number with 6, 0, 2 is ___.",
+            "a": "206"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the library problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The library has 856 storybooks and 865 comics. There are more ___.",
+            "a": "comics"
+          },
+          {
+            "q": "Books on one shelf go from 701 to 710. The book just before 710 is ___.",
+            "a": "709"
+          },
+          {
+            "q": "The biggest 3-digit number is ___.",
+            "a": "999"
+          }
+        ]
+      }
+    ]
+  }
+]

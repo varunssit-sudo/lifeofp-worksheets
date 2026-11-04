@@ -1,0 +1,711 @@
+[
+  {
+    "id": "rhyming-words-01",
+    "topic": "rhyming-words",
+    "number": 1,
+    "level": "Starter",
+    "title": "Bedtime Rhymes with Dadi",
+    "intro": "Dadi says a rhyme every night. Find words that sound the same at the end.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write a word that rhymes.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "cat",
+            "a": "hat / mat"
+          },
+          {
+            "q": "sun",
+            "a": "fun / run"
+          },
+          {
+            "q": "bed",
+            "a": "red / fed"
+          },
+          {
+            "q": "pig",
+            "a": "big / dig"
+          },
+          {
+            "q": "log",
+            "a": "dog / fog"
+          },
+          {
+            "q": "cake",
+            "a": "lake / make"
+          },
+          {
+            "q": "ring",
+            "a": "sing / king"
+          },
+          {
+            "q": "moon",
+            "a": "spoon / soon"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the rhyming words.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "star",
+            "right": "car"
+          },
+          {
+            "left": "night",
+            "right": "light"
+          },
+          {
+            "left": "sleep",
+            "right": "sheep"
+          },
+          {
+            "left": "bear",
+            "right": "chair"
+          },
+          {
+            "left": "book",
+            "right": "cook"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that rhymes.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Toy rhymes with",
+            "options": [
+              "boy",
+              "bay",
+              "tie"
+            ],
+            "after": "",
+            "a": "boy"
+          },
+          {
+            "before": "Hill rhymes with",
+            "options": [
+              "fill",
+              "hall",
+              "hole"
+            ],
+            "after": "",
+            "a": "fill"
+          },
+          {
+            "before": "Jeep rhymes with",
+            "options": [
+              "deep",
+              "ship",
+              "jump"
+            ],
+            "after": "",
+            "a": "deep"
+          },
+          {
+            "before": "Dream rhymes with",
+            "options": [
+              "cream",
+              "drum",
+              "dress"
+            ],
+            "after": "",
+            "a": "cream"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a rhyming word. Use: nap, high, head.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "I take off my cap and have a little ___.",
+            "a": "nap"
+          },
+          {
+            "q": "Dadi sits on my bed and pats my ___.",
+            "a": "head"
+          },
+          {
+            "q": "The moon is up in the sky so ___.",
+            "a": "high"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two words that rhyme with hop.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any two of: top, mop, stop, shop, drop, pop."
+      }
+    ]
+  },
+  {
+    "id": "rhyming-words-02",
+    "topic": "rhyming-words",
+    "number": 2,
+    "level": "Starter",
+    "title": "At Crawford Market",
+    "intro": "Kabir and Ella are buying fruit at the market. Play a rhyming game while you shop.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the words by their rhyme.",
+        "marks": 6,
+        "groups": [
+          "Rhymes with pear",
+          "Rhymes with lime"
+        ],
+        "words": [
+          "bear",
+          "time",
+          "chair",
+          "chime",
+          "hair",
+          "slime"
+        ],
+        "a": {
+          "bear": "Rhymes with pear",
+          "time": "Rhymes with lime",
+          "chair": "Rhymes with pear",
+          "chime": "Rhymes with lime",
+          "hair": "Rhymes with pear",
+          "slime": "Rhymes with lime"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Plum and drum rhyme.",
+            "a": true
+          },
+          {
+            "q": "Grape and green rhyme.",
+            "a": false
+          },
+          {
+            "q": "Peach and beach rhyme.",
+            "a": true
+          },
+          {
+            "q": "Kiwi and apple rhyme.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that does not rhyme.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "nut",
+              "cut",
+              "net"
+            ],
+            "after": "",
+            "a": "net"
+          },
+          {
+            "before": "",
+            "options": [
+              "fig",
+              "wig",
+              "fog"
+            ],
+            "after": "",
+            "a": "fog"
+          },
+          {
+            "before": "",
+            "options": [
+              "corn",
+              "horn",
+              "cone"
+            ],
+            "after": "",
+            "a": "cone"
+          },
+          {
+            "before": "",
+            "options": [
+              "jam",
+              "ram",
+              "jar"
+            ],
+            "after": "",
+            "a": "jar"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write a word that rhymes.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "bun",
+            "a": "fun / sun"
+          },
+          {
+            "q": "pan",
+            "a": "can / man"
+          },
+          {
+            "q": "sack",
+            "a": "back / pack"
+          },
+          {
+            "q": "tray",
+            "a": "day / play"
+          },
+          {
+            "q": "sweet",
+            "a": "feet / meet"
+          },
+          {
+            "q": "nine",
+            "a": "line / fine"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Make up a two-line rhyme about a fruit you love.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. The last words of the two lines rhyme, e.g. I like a mango, round and sweet / It is the best fruit I can eat."
+      }
+    ]
+  },
+  {
+    "id": "rhyming-words-03",
+    "topic": "rhyming-words",
+    "number": 3,
+    "level": "Starter",
+    "title": "Music Class Rhymes",
+    "intro": "Mr Pinto's music class is making up songs. Help them find rhymes.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the rhyming words.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "drum",
+            "right": "thumb"
+          },
+          {
+            "left": "song",
+            "right": "long"
+          },
+          {
+            "left": "bell",
+            "right": "shell"
+          },
+          {
+            "left": "flute",
+            "right": "boot"
+          },
+          {
+            "left": "clap",
+            "right": "map"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a rhyming word. Use: play, ring, tune, last.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We sing all day and then we ___.",
+            "a": "play"
+          },
+          {
+            "q": "Hear the bells go ding and ___.",
+            "a": "ring"
+          },
+          {
+            "q": "We hum a ___ under the moon.",
+            "a": "tune"
+          },
+          {
+            "q": "We ran so fast, we were not ___.",
+            "a": "last"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that rhymes.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Hum rhymes with",
+            "options": [
+              "gum",
+              "ham",
+              "him"
+            ],
+            "after": "",
+            "a": "gum"
+          },
+          {
+            "before": "Sing rhymes with",
+            "options": [
+              "wing",
+              "sang",
+              "sun"
+            ],
+            "after": "",
+            "a": "wing"
+          },
+          {
+            "before": "Note rhymes with",
+            "options": [
+              "boat",
+              "net",
+              "nut"
+            ],
+            "after": "",
+            "a": "boat"
+          },
+          {
+            "before": "Beat rhymes with",
+            "options": [
+              "seat",
+              "bat",
+              "bit"
+            ],
+            "after": "",
+            "a": "seat"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Rhyming words sound the same at the end.",
+            "a": true
+          },
+          {
+            "q": "Ten and pen rhyme.",
+            "a": true
+          },
+          {
+            "q": "Dog and dig rhyme.",
+            "a": false
+          },
+          {
+            "q": "Rhyming words must start with the same letter.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write three words that rhyme with rain.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any three of: train, chain, brain, main, pain, plain, drain."
+      }
+    ]
+  },
+  {
+    "id": "rhyming-words-04",
+    "topic": "rhyming-words",
+    "number": 4,
+    "level": "Starter",
+    "title": "A Trip to the Farm",
+    "intro": "Zoya visits her uncle's farm in Punjab. Every animal has a rhyme.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write a word that rhymes with each animal.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "goat",
+            "a": "coat / boat"
+          },
+          {
+            "q": "hen",
+            "a": "men / den"
+          },
+          {
+            "q": "cow",
+            "a": "how / now"
+          },
+          {
+            "q": "duck",
+            "a": "truck / luck"
+          },
+          {
+            "q": "lamb",
+            "a": "jam / ham"
+          },
+          {
+            "q": "mouse",
+            "a": "house"
+          },
+          {
+            "q": "fox",
+            "a": "box"
+          },
+          {
+            "q": "bee",
+            "a": "tree / see"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words by their rhyme.",
+        "marks": 6,
+        "groups": [
+          "Rhymes with hay",
+          "Rhymes with corn"
+        ],
+        "words": [
+          "day",
+          "horn",
+          "play",
+          "born",
+          "tray",
+          "thorn"
+        ],
+        "a": {
+          "day": "Rhymes with hay",
+          "horn": "Rhymes with corn",
+          "play": "Rhymes with hay",
+          "born": "Rhymes with corn",
+          "tray": "Rhymes with hay",
+          "thorn": "Rhymes with corn"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that does not rhyme.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "cart",
+              "part",
+              "card"
+            ],
+            "after": "",
+            "a": "card"
+          },
+          {
+            "before": "",
+            "options": [
+              "pig",
+              "dig",
+              "peg"
+            ],
+            "after": "",
+            "a": "peg"
+          },
+          {
+            "before": "",
+            "options": [
+              "cat",
+              "hat",
+              "cut"
+            ],
+            "after": "",
+            "a": "cut"
+          },
+          {
+            "before": "",
+            "options": [
+              "well",
+              "tell",
+              "wall"
+            ],
+            "after": "",
+            "a": "wall"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a word that rhymes to finish the line.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The farmer's dog sat on a ___.",
+            "a": "log"
+          },
+          {
+            "q": "The hen in the pen counted to ___.",
+            "a": "ten"
+          },
+          {
+            "q": "The fat grey rat sat on a ___.",
+            "a": "mat"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a short rhyme about a farm animal.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Two lines whose last words rhyme."
+      }
+    ]
+  },
+  {
+    "id": "rhyming-words-05",
+    "topic": "rhyming-words",
+    "number": 5,
+    "level": "Practice",
+    "title": "Kite Day on Makar Sankranti",
+    "intro": "Dev and Priya fly kites from the terrace in Ahmedabad. Play with rhymes as the kites go up.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the rhyming words.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "kite",
+            "right": "night"
+          },
+          {
+            "left": "blue",
+            "right": "shoe"
+          },
+          {
+            "left": "sky",
+            "right": "pie"
+          },
+          {
+            "left": "string",
+            "right": "king"
+          },
+          {
+            "left": "roof",
+            "right": "hoof"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that rhymes.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Fly rhymes with",
+            "options": [
+              "my",
+              "fee",
+              "flow"
+            ],
+            "after": "",
+            "a": "my"
+          },
+          {
+            "before": "Tail rhymes with",
+            "options": [
+              "whale",
+              "tall",
+              "tile"
+            ],
+            "after": "",
+            "a": "whale"
+          },
+          {
+            "before": "Height rhymes with",
+            "options": [
+              "bite",
+              "hate",
+              "hit"
+            ],
+            "after": "",
+            "a": "bite"
+          },
+          {
+            "before": "Spin rhymes with",
+            "options": [
+              "grin",
+              "spun",
+              "span"
+            ],
+            "after": "",
+            "a": "grin"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Blue and shoe rhyme, even though they are spelt differently.",
+            "a": true
+          },
+          {
+            "q": "Kite and kit rhyme.",
+            "a": false
+          },
+          {
+            "q": "Cold and cloud rhyme.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a rhyming word. Use: long, head, ground, day.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The wind is strong, the string is ___.",
+            "a": "long"
+          },
+          {
+            "q": "My kite is red, it flew over my ___.",
+            "a": "head"
+          },
+          {
+            "q": "The kites go round and never touch the ___.",
+            "a": "ground"
+          },
+          {
+            "q": "We eat til laddoos and say, what a happy ___!",
+            "a": "day"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two lines about kites. Make the last words rhyme.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. The last words of the two lines rhyme."
+      }
+    ]
+  }
+]

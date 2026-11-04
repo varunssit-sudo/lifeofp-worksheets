@@ -1,0 +1,618 @@
+[
+  {
+    "id": "opposite-words-01",
+    "topic": "opposite-words",
+    "number": 1,
+    "level": "Starter",
+    "title": "Playing in the Park",
+    "intro": "Zain and Meera are playing in the park. Opposite words mean completely different things, like up and down.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the opposite of each word.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "up",
+            "a": "down"
+          },
+          {
+            "q": "big",
+            "a": "small"
+          },
+          {
+            "q": "fast",
+            "a": "slow"
+          },
+          {
+            "q": "hot",
+            "a": "cold"
+          },
+          {
+            "q": "open",
+            "a": "close / shut"
+          },
+          {
+            "q": "happy",
+            "a": "sad"
+          },
+          {
+            "q": "in",
+            "a": "out"
+          },
+          {
+            "q": "tall",
+            "a": "short"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the opposite of the word in capitals.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "LEFT :",
+            "options": [
+              "right",
+              "side"
+            ],
+            "after": "",
+            "a": "right"
+          },
+          {
+            "before": "PUSH :",
+            "options": [
+              "shove",
+              "pull"
+            ],
+            "after": "",
+            "a": "pull"
+          },
+          {
+            "before": "NEAR :",
+            "options": [
+              "far",
+              "close"
+            ],
+            "after": "",
+            "a": "far"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the opposite of the word in brackets.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The swing went forward and then ___ (forward).",
+            "a": "backward"
+          },
+          {
+            "q": "Zain is tall, but his little brother is ___ (tall).",
+            "a": "short"
+          },
+          {
+            "q": "The slide is hot in the sun, but cool in the ___ (morning).",
+            "a": "evening"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Loud\" is the opposite of \"quiet\".",
+            "a": true
+          },
+          {
+            "q": "\"Big\" is the opposite of \"large\".",
+            "a": false
+          },
+          {
+            "q": "\"Top\" is the opposite of \"bottom\".",
+            "a": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "opposite-words-02",
+    "topic": "opposite-words",
+    "number": 2,
+    "level": "Starter",
+    "title": "Day and Night at Home",
+    "intro": "At Lakshmi's home, the day starts early and ends late. Find the opposites in her day.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each word to its opposite.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "day",
+            "right": "night"
+          },
+          {
+            "left": "morning",
+            "right": "evening"
+          },
+          {
+            "left": "awake",
+            "right": "asleep"
+          },
+          {
+            "left": "light",
+            "right": "dark"
+          },
+          {
+            "left": "early",
+            "right": "late"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the opposite of the word in brackets.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In the morning I wake up, and at night I go to ___ (wake).",
+            "a": "sleep"
+          },
+          {
+            "q": "Lakshmi turns the light on, then turns it ___ (on).",
+            "a": "off"
+          },
+          {
+            "q": "The tea is hot, but the milkshake is ___ (hot).",
+            "a": "cold"
+          },
+          {
+            "q": "My bag is heavy, but my lunch box is ___ (heavy).",
+            "a": "light"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the opposite word to finish the sentence.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The room is not clean. It is",
+            "options": [
+              "dirty",
+              "tidy"
+            ],
+            "after": ".",
+            "a": "dirty"
+          },
+          {
+            "before": "Grandpa is old and baby Anu is",
+            "options": [
+              "young",
+              "small"
+            ],
+            "after": ".",
+            "a": "young"
+          },
+          {
+            "before": "Lakshmi is not sad. She is",
+            "options": [
+              "happy",
+              "angry"
+            ],
+            "after": ".",
+            "a": "happy"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Come\" is the opposite of \"go\".",
+            "a": true
+          },
+          {
+            "q": "\"Sit\" is the opposite of \"stand\".",
+            "a": true
+          },
+          {
+            "q": "\"Begin\" is the opposite of \"start\".",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two pairs of opposites you see at home.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any two correct pairs, e.g. open/close, full/empty."
+      }
+    ]
+  },
+  {
+    "id": "opposite-words-03",
+    "topic": "opposite-words",
+    "number": 3,
+    "level": "Starter",
+    "title": "Summer in Dubai, Winter in Delhi",
+    "intro": "Rehan lives in Dubai and visits his cousins in Delhi in winter. The weather is full of opposites.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "In summer, Dubai is very",
+            "options": [
+              "hot",
+              "cold"
+            ],
+            "after": ".",
+            "a": "hot"
+          },
+          {
+            "before": "In winter, Delhi mornings are",
+            "options": [
+              "warm",
+              "cold"
+            ],
+            "after": "and foggy.",
+            "a": "cold"
+          },
+          {
+            "before": "Summer days are long and winter days are",
+            "options": [
+              "short",
+              "tall"
+            ],
+            "after": ".",
+            "a": "short"
+          },
+          {
+            "before": "Rehan wears a thick sweater in Delhi and a",
+            "options": [
+              "thin",
+              "heavy"
+            ],
+            "after": "shirt in Dubai.",
+            "a": "thin"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the opposite of each word.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "summer",
+            "a": "winter"
+          },
+          {
+            "q": "sunny",
+            "a": "cloudy / rainy"
+          },
+          {
+            "q": "warm",
+            "a": "cool"
+          },
+          {
+            "q": "north",
+            "a": "south"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each word to its opposite.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "before",
+            "right": "after"
+          },
+          {
+            "left": "inside",
+            "right": "outside"
+          },
+          {
+            "left": "arrive",
+            "right": "leave"
+          },
+          {
+            "left": "high",
+            "right": "low"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the opposite of the word in brackets.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The air in Delhi was dry, but the grass was ___ (dry) with dew.",
+            "a": "wet"
+          },
+          {
+            "q": "Rehan's suitcase was full going there and ___ (full) coming back.",
+            "a": "empty"
+          },
+          {
+            "q": "The sky was dark at six, and ___ (dark) at seven.",
+            "a": "light"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about your favourite weather. Use an opposite pair.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I like cool winter, not hot summer.\""
+      }
+    ]
+  },
+  {
+    "id": "opposite-words-04",
+    "topic": "opposite-words",
+    "number": 4,
+    "level": "Starter",
+    "title": "The Toy Shop Sale",
+    "intro": "Maya and her friend Ben visit a toy shop sale in Kochi. The toys are full of opposites.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the opposite of each word.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "new",
+            "a": "old"
+          },
+          {
+            "q": "laugh",
+            "a": "cry"
+          },
+          {
+            "q": "strong",
+            "a": "weak"
+          },
+          {
+            "q": "always",
+            "a": "never"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the opposite of the word in brackets.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The teddy is soft, but the toy truck is ___ (soft).",
+            "a": "hard"
+          },
+          {
+            "q": "The toy car is short, but the toy train is ___ (short).",
+            "a": "long"
+          },
+          {
+            "q": "The red ball is cheap, but the robot is ___ (cheap).",
+            "a": "costly / expensive"
+          },
+          {
+            "q": "The box is empty now, but it was ___ (empty) before.",
+            "a": "full"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the opposite.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "BUY :",
+            "options": [
+              "sell",
+              "pay"
+            ],
+            "after": "",
+            "a": "sell"
+          },
+          {
+            "before": "WIN :",
+            "options": [
+              "play",
+              "lose"
+            ],
+            "after": "",
+            "a": "lose"
+          },
+          {
+            "before": "RICH :",
+            "options": [
+              "poor",
+              "happy"
+            ],
+            "after": "",
+            "a": "poor"
+          },
+          {
+            "before": "FRONT :",
+            "options": [
+              "side",
+              "back"
+            ],
+            "after": "",
+            "a": "back"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Give\" and \"take\" are opposites.",
+            "a": true
+          },
+          {
+            "q": "\"Smooth\" and \"rough\" are opposites.",
+            "a": true
+          },
+          {
+            "q": "\"Fast\" and \"quick\" are opposites.",
+            "a": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "opposite-words-05",
+    "topic": "opposite-words",
+    "number": 5,
+    "level": "Practice",
+    "title": "A Day at the Water Park",
+    "intro": "Chloe and Arnav spend a day at a water park in Abu Dhabi. Some opposites are made by adding un to the start of a word.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Add un to make the opposite.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "happy",
+            "a": "unhappy"
+          },
+          {
+            "q": "kind",
+            "a": "unkind"
+          },
+          {
+            "q": "lock",
+            "a": "unlock"
+          },
+          {
+            "q": "safe",
+            "a": "unsafe"
+          },
+          {
+            "q": "pack",
+            "a": "unpack"
+          },
+          {
+            "q": "well",
+            "a": "unwell"
+          },
+          {
+            "q": "tidy",
+            "a": "untidy"
+          },
+          {
+            "q": "fair",
+            "a": "unfair"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the opposite of the word in capitals.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "DEEP :",
+            "options": [
+              "shallow",
+              "wide"
+            ],
+            "after": "",
+            "a": "shallow"
+          },
+          {
+            "before": "BRAVE :",
+            "options": [
+              "scared",
+              "strong"
+            ],
+            "after": "",
+            "a": "scared"
+          },
+          {
+            "before": "FLOAT :",
+            "options": [
+              "swim",
+              "sink"
+            ],
+            "after": "",
+            "a": "sink"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the opposite of the word in brackets.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Arnav was first in the line, and Chloe was ___ (first).",
+            "a": "last"
+          },
+          {
+            "q": "The gates open in the morning and ___ (open) in the evening.",
+            "a": "close"
+          },
+          {
+            "q": "The lazy river is wide, but the tunnel slide is ___ (wide).",
+            "a": "narrow"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Untidy\" is the opposite of \"tidy\".",
+            "a": true
+          },
+          {
+            "q": "\"Unhappy\" means very happy.",
+            "a": false
+          },
+          {
+            "q": "\"Lock\" and \"unlock\" are opposites.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write a sentence about the water park with a pair of opposites.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Use two opposite words.",
+            "a": "Answers will vary, e.g. \"The pool was deep, but the kids' pool was shallow.\""
+          }
+        ]
+      }
+    ]
+  }
+]

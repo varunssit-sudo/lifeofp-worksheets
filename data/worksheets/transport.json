@@ -1,0 +1,633 @@
+[
+  {
+    "id": "transport-01",
+    "topic": "transport",
+    "number": 1,
+    "level": "Starter",
+    "title": "Getting Around Dubai",
+    "intro": "Jai and Emma visit Dubai with their families. They travel by land, water and air.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the transport.",
+        "marks": 9,
+        "groups": [
+          "Land",
+          "Water",
+          "Air"
+        ],
+        "words": [
+          "yacht",
+          "aeroplane",
+          "helicopter",
+          "ferry",
+          "abra",
+          "metro",
+          "hot air balloon",
+          "taxi",
+          "tram"
+        ],
+        "a": {
+          "metro": "Land",
+          "taxi": "Land",
+          "tram": "Land",
+          "abra": "Water",
+          "ferry": "Water",
+          "yacht": "Water",
+          "aeroplane": "Air",
+          "helicopter": "Air",
+          "hot air balloon": "Air"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "An abra is a small boat that crosses Dubai Creek.",
+            "a": true
+          },
+          {
+            "q": "The Dubai Metro runs without a driver.",
+            "a": true
+          },
+          {
+            "q": "A helicopter needs a road to move.",
+            "a": false
+          },
+          {
+            "q": "Ships carry heavy goods across the sea.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A",
+            "options": [
+              "train",
+              "boat"
+            ],
+            "after": "runs on rails.",
+            "a": "train"
+          },
+          {
+            "before": "Most cars need",
+            "options": [
+              "fuel",
+              "grass"
+            ],
+            "after": "to run.",
+            "a": "fuel"
+          },
+          {
+            "before": "We wait for a bus at the bus",
+            "options": [
+              "stop",
+              "port"
+            ],
+            "after": ".",
+            "a": "stop"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A pilot flies an ___.",
+            "a": "aeroplane"
+          },
+          {
+            "q": "A ship comes in to rest at a ___.",
+            "a": "port"
+          },
+          {
+            "q": "A ___ drives a taxi.",
+            "a": "driver"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write how you come to school.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"I come to school by school bus.\" Check it names a kind of transport."
+      }
+    ]
+  },
+  {
+    "id": "transport-02",
+    "topic": "transport",
+    "number": 2,
+    "level": "Starter",
+    "title": "A Train Journey to Jaipur",
+    "intro": "Advik and his grandparents take a train from Delhi to Jaipur. Trains and roads are land transport.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each vehicle to who drives it.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Aeroplane",
+            "right": "pilot"
+          },
+          {
+            "left": "Ship",
+            "right": "captain"
+          },
+          {
+            "left": "Train",
+            "right": "loco pilot"
+          },
+          {
+            "left": "Rocket",
+            "right": "astronaut"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We buy a ___ before we get on the train.",
+            "a": "ticket"
+          },
+          {
+            "q": "The train stops at a railway ___.",
+            "a": "station"
+          },
+          {
+            "q": "Trains run on ___.",
+            "a": "tracks"
+          },
+          {
+            "q": "We wait for the train on the ___.",
+            "a": "platform"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A train has many coaches joined together.",
+            "a": true
+          },
+          {
+            "q": "An auto-rickshaw has three wheels.",
+            "a": true
+          },
+          {
+            "q": "A bicycle needs petrol to run.",
+            "a": false
+          },
+          {
+            "q": "Some goods trains carry coal and grain.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Jaipur is far, so we take a",
+            "options": [
+              "train",
+              "cycle"
+            ],
+            "after": ".",
+            "a": "train"
+          },
+          {
+            "before": "Dadi takes an",
+            "options": [
+              "auto-rickshaw",
+              "aeroplane"
+            ],
+            "after": "to the market.",
+            "a": "auto-rickshaw"
+          },
+          {
+            "before": "A",
+            "options": [
+              "metro",
+              "ship"
+            ],
+            "after": "can run under the ground in cities.",
+            "a": "metro"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things you can see from a train window.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. fields, trees, cows, houses, rivers, other trains."
+      }
+    ]
+  },
+  {
+    "id": "transport-03",
+    "topic": "transport",
+    "number": 3,
+    "level": "Starter",
+    "title": "A Dhow Cruise on the Creek",
+    "intro": "Layla's family has dinner on a dhow cruise. Many kinds of boats move on water.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each boat to what it does.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Houseboat",
+            "right": "people can stay on it"
+          },
+          {
+            "left": "Ferry",
+            "right": "carries people and cars across water"
+          },
+          {
+            "left": "Dhow",
+            "right": "old wooden boat with sails"
+          },
+          {
+            "left": "Canoe",
+            "right": "small boat moved with paddles"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A sailboat moves with the help of the",
+            "options": [
+              "wind",
+              "road"
+            ],
+            "after": ".",
+            "a": "wind"
+          },
+          {
+            "before": "A",
+            "options": [
+              "lifeboat",
+              "car"
+            ],
+            "after": "helps save people at sea.",
+            "a": "lifeboat"
+          },
+          {
+            "before": "Water transport is",
+            "options": [
+              "slower",
+              "faster"
+            ],
+            "after": "than air transport.",
+            "a": "slower"
+          },
+          {
+            "before": "We wear a life",
+            "options": [
+              "jacket",
+              "hat"
+            ],
+            "after": "on a boat.",
+            "a": "jacket"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A submarine can travel under the water.",
+            "a": true
+          },
+          {
+            "q": "Big ships are made of paper.",
+            "a": false
+          },
+          {
+            "q": "Ships carry oil and cars across the sea.",
+            "a": true
+          },
+          {
+            "q": "An anchor helps to keep a ship still.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the transport.",
+        "marks": 4,
+        "groups": [
+          "Moves on water",
+          "Moves on land"
+        ],
+        "words": [
+          "cargo ship",
+          "tram",
+          "yacht",
+          "scooter",
+          "truck",
+          "raft",
+          "bus",
+          "speedboat"
+        ],
+        "a": {
+          "raft": "Moves on water",
+          "yacht": "Moves on water",
+          "speedboat": "Moves on water",
+          "cargo ship": "Moves on water",
+          "bus": "Moves on land",
+          "scooter": "Moves on land",
+          "tram": "Moves on land",
+          "truck": "Moves on land"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Write the name of one boat you have seen or been on.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. abra, ferry, dhow, rowing boat."
+      }
+    ]
+  },
+  {
+    "id": "transport-04",
+    "topic": "transport",
+    "number": 4,
+    "level": "Starter",
+    "title": "Grandpa's Stories at the Heritage Village",
+    "intro": "At the Heritage Village, Grandpa tells Reem and Noah how people travelled long ago.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the old way to the new way.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Hand-pulled rickshaw",
+            "right": "auto-rickshaw"
+          },
+          {
+            "left": "Wooden dhow with sails",
+            "right": "steel cargo ship"
+          },
+          {
+            "left": "Horse carriage",
+            "right": "motor car"
+          },
+          {
+            "left": "Rowing boat",
+            "right": "motorboat"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The camel is called the ship of the ___.",
+            "a": "desert"
+          },
+          {
+            "q": "A ___ cart is pulled by two bulls.",
+            "a": "bullock"
+          },
+          {
+            "q": "Long ago, kings in India rode on ___.",
+            "a": "elephants"
+          },
+          {
+            "q": "A tonga is pulled by a ___.",
+            "a": "horse"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Camels can walk for days on hot sand.",
+            "a": true
+          },
+          {
+            "q": "Long ago, there were aeroplanes in every city.",
+            "a": false
+          },
+          {
+            "q": "The wheel made travel on land easier.",
+            "a": true
+          },
+          {
+            "q": "Donkeys still carry loads in some hill villages.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A camel stores fat in its",
+            "options": [
+              "hump",
+              "legs"
+            ],
+            "after": ".",
+            "a": "hump"
+          },
+          {
+            "before": "Old dhows used",
+            "options": [
+              "sails",
+              "engines"
+            ],
+            "after": "to move.",
+            "a": "sails"
+          },
+          {
+            "before": "Trucks are",
+            "options": [
+              "faster",
+              "slower"
+            ],
+            "after": "than bullock carts.",
+            "a": "faster"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Ask an elder how they went to school. Write it.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"My grandpa walked to school.\" Check it names a kind of transport."
+      }
+    ]
+  },
+  {
+    "id": "transport-05",
+    "topic": "transport",
+    "number": 5,
+    "level": "Practice",
+    "title": "Planning a Family Trip to Kerala",
+    "intro": "Ammu's family is flying from Dubai to Kochi. They must choose the best transport for each part of the trip.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the transport.",
+        "marks": 4,
+        "groups": [
+          "Carries people",
+          "Carries goods"
+        ],
+        "words": [
+          "cruise ship",
+          "cargo plane",
+          "taxi",
+          "goods train",
+          "delivery van",
+          "school bus",
+          "oil tanker",
+          "metro"
+        ],
+        "a": {
+          "school bus": "Carries people",
+          "taxi": "Carries people",
+          "metro": "Carries people",
+          "cruise ship": "Carries people",
+          "oil tanker": "Carries goods",
+          "goods train": "Carries goods",
+          "cargo plane": "Carries goods",
+          "delivery van": "Carries goods"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best transport.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "From Dubai to Kochi, the quickest way is by",
+            "options": [
+              "aeroplane",
+              "ship"
+            ],
+            "after": ".",
+            "a": "aeroplane"
+          },
+          {
+            "before": "To cross a river with no bridge, take a",
+            "options": [
+              "boat",
+              "bus"
+            ],
+            "after": ".",
+            "a": "boat"
+          },
+          {
+            "before": "To go up the steep hills of Munnar, take a",
+            "options": [
+              "jeep",
+              "canoe"
+            ],
+            "after": ".",
+            "a": "jeep"
+          },
+          {
+            "before": "For a short ride to the shop, Ammu uses her",
+            "options": [
+              "bicycle",
+              "helicopter"
+            ],
+            "after": ".",
+            "a": "bicycle"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Bicycles do not give out smoke.",
+            "a": true
+          },
+          {
+            "q": "Air travel is the fastest way to go far.",
+            "a": true
+          },
+          {
+            "q": "It is safe to put our hands out of a bus window.",
+            "a": false
+          },
+          {
+            "q": "Rockets carry astronauts into space.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "At the airport, we show our ___ and ticket.",
+            "a": "passport"
+          },
+          {
+            "q": "Cars fill up with fuel at a petrol ___.",
+            "a": "pump"
+          },
+          {
+            "q": "A ___ is built over a river so cars can cross.",
+            "a": "bridge"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which transport do you like most? Write why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"I like the metro because it is fast.\""
+      }
+    ]
+  }
+]

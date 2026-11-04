@@ -1,0 +1,650 @@
+[
+  {
+    "id": "synonyms-01",
+    "topic": "synonyms",
+    "number": 1,
+    "level": "Starter",
+    "title": "My First Day in Class 2",
+    "intro": "Synonyms are words that mean the same. Help Ira tell us about her first day.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the words that mean the same.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "big",
+            "right": "large"
+          },
+          {
+            "left": "happy",
+            "right": "glad"
+          },
+          {
+            "left": "small",
+            "right": "little"
+          },
+          {
+            "left": "quick",
+            "right": "fast"
+          },
+          {
+            "left": "start",
+            "right": "begin"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that means the same.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The classroom was neat. It was",
+            "options": [
+              "tidy",
+              "messy",
+              "dirty"
+            ],
+            "after": ".",
+            "a": "tidy"
+          },
+          {
+            "before": "Ira's teacher is kind. She is",
+            "options": [
+              "nice",
+              "rude",
+              "loud"
+            ],
+            "after": ".",
+            "a": "nice"
+          },
+          {
+            "before": "The bell was loud. It was",
+            "options": [
+              "noisy",
+              "quiet",
+              "soft"
+            ],
+            "after": ".",
+            "a": "noisy"
+          },
+          {
+            "before": "Ira was a bit afraid. She was",
+            "options": [
+              "scared",
+              "brave",
+              "bored"
+            ],
+            "after": ".",
+            "a": "scared"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "'Shut' and 'close' mean the same.",
+            "a": true
+          },
+          {
+            "q": "'Hot' and 'cold' are synonyms.",
+            "a": false
+          },
+          {
+            "q": "'Shout' and 'yell' mean the same.",
+            "a": true
+          },
+          {
+            "q": "'Laugh' and 'cry' are synonyms.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a word that means the same as the word in brackets. Use: friend, talk, pick, gift.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Ira made a new ___ (pal).",
+            "a": "friend"
+          },
+          {
+            "q": "We ___ (chat) at break time.",
+            "a": "talk"
+          },
+          {
+            "q": "You can ___ (choose) any seat.",
+            "a": "pick"
+          },
+          {
+            "q": "Ms Ali gave Ira a ___ (present).",
+            "a": "gift"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about your class. Use fast or quick.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. I am the fastest runner in my class."
+      }
+    ]
+  },
+  {
+    "id": "synonyms-02",
+    "topic": "synonyms",
+    "number": 2,
+    "level": "Starter",
+    "title": "Cooking with Papa",
+    "intro": "Kian is helping Papa cook dinner. Find words that mean the same.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write a word that means the same.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "tasty",
+            "a": "yummy / delicious"
+          },
+          {
+            "q": "cut",
+            "a": "chop / slice"
+          },
+          {
+            "q": "mix",
+            "a": "stir / blend"
+          },
+          {
+            "q": "look",
+            "a": "see / watch"
+          },
+          {
+            "q": "end",
+            "a": "finish / stop"
+          },
+          {
+            "q": "wet",
+            "a": "damp / soggy"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words. Do they mean hot or cold?",
+        "marks": 6,
+        "groups": [
+          "Means hot",
+          "Means cold"
+        ],
+        "words": [
+          "boiling",
+          "icy",
+          "steaming",
+          "chilly",
+          "warm",
+          "frozen"
+        ],
+        "a": {
+          "boiling": "Means hot",
+          "icy": "Means cold",
+          "steaming": "Means hot",
+          "chilly": "Means cold",
+          "warm": "Means hot",
+          "frozen": "Means cold"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that means the same.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The rice is ready. It is",
+            "options": [
+              "done",
+              "raw",
+              "cold"
+            ],
+            "after": ".",
+            "a": "done"
+          },
+          {
+            "before": "Kian was tired. He was",
+            "options": [
+              "sleepy",
+              "lively",
+              "angry"
+            ],
+            "after": ".",
+            "a": "sleepy"
+          },
+          {
+            "before": "Papa chopped a huge pumpkin. It was",
+            "options": [
+              "enormous",
+              "tiny",
+              "round"
+            ],
+            "after": ".",
+            "a": "enormous"
+          },
+          {
+            "before": "The dal smelt nice. It smelt",
+            "options": [
+              "lovely",
+              "bad",
+              "strange"
+            ],
+            "after": ".",
+            "a": "lovely"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again. Use a word that means the same as the word in capitals.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Kian is a SMART boy.",
+            "a": "Kian is a clever boy."
+          },
+          {
+            "q": "Kian RAN to get the salt.",
+            "a": "Kian rushed to get the salt. (Accept dashed or hurried.)"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a sentence about your favourite food. Use yummy or delicious.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. Biryani is delicious."
+      }
+    ]
+  },
+  {
+    "id": "synonyms-03",
+    "topic": "synonyms",
+    "number": 3,
+    "level": "Starter",
+    "title": "Night at the Desert Camp",
+    "intro": "Amira and Jack visit a desert camp near Dubai at night.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the word that means the same.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "The desert was quiet. It was",
+            "options": [
+              "silent",
+              "noisy",
+              "busy"
+            ],
+            "after": ".",
+            "a": "silent"
+          },
+          {
+            "before": "The stars were bright. They were",
+            "options": [
+              "shiny",
+              "dull",
+              "dark"
+            ],
+            "after": ".",
+            "a": "shiny"
+          },
+          {
+            "before": "The dunes were tall. They were",
+            "options": [
+              "high",
+              "short",
+              "flat"
+            ],
+            "after": ".",
+            "a": "high"
+          },
+          {
+            "before": "Jack was scared of the dark. He was",
+            "options": [
+              "frightened",
+              "calm",
+              "brave"
+            ],
+            "after": ".",
+            "a": "frightened"
+          },
+          {
+            "before": "The camel ride was fun. It was",
+            "options": [
+              "enjoyable",
+              "boring",
+              "sad"
+            ],
+            "after": ".",
+            "a": "enjoyable"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the words that mean the same.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "rock",
+            "right": "stone"
+          },
+          {
+            "left": "below",
+            "right": "under"
+          },
+          {
+            "left": "near",
+            "right": "close"
+          },
+          {
+            "left": "sick",
+            "right": "ill"
+          },
+          {
+            "left": "jump",
+            "right": "leap"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "'Easy' and 'simple' mean the same.",
+            "a": true
+          },
+          {
+            "q": "'Dark' and 'bright' are synonyms.",
+            "a": false
+          },
+          {
+            "q": "'Little' and 'tiny' mean almost the same.",
+            "a": true
+          },
+          {
+            "q": "'Fast' and 'slow' mean the same.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Describe the night sky. Use two words that mean bright.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. The stars were shiny and sparkly. Accept glowing, twinkling, gleaming."
+      }
+    ]
+  },
+  {
+    "id": "synonyms-04",
+    "topic": "synonyms",
+    "number": 4,
+    "level": "Starter",
+    "title": "Grandpa's Garden in Kerala",
+    "intro": "Vihaan spends the holidays at Grandpa's house in Kerala.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write a word that means the same.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "pretty",
+            "a": "beautiful / lovely"
+          },
+          {
+            "q": "angry",
+            "a": "cross / mad"
+          },
+          {
+            "q": "sad",
+            "a": "unhappy / upset"
+          },
+          {
+            "q": "home",
+            "a": "house"
+          },
+          {
+            "q": "road",
+            "a": "street / path"
+          },
+          {
+            "q": "hurry",
+            "a": "rush"
+          },
+          {
+            "q": "fix",
+            "a": "mend / repair"
+          },
+          {
+            "q": "collect",
+            "a": "gather"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a word that means the same as the word in brackets. Use: rest, brave, strange, giant.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Grandpa likes to ___ (relax) in his hammock.",
+            "a": "rest"
+          },
+          {
+            "q": "Vihaan was ___ (fearless) when he saw the big spider.",
+            "a": "brave"
+          },
+          {
+            "q": "A ___ (odd) bird with a long tail sat on the wall.",
+            "a": "strange"
+          },
+          {
+            "q": "We saw a ___ (huge) elephant at the temple.",
+            "a": "giant"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words. Do they mean happy or sad?",
+        "marks": 6,
+        "groups": [
+          "Means happy",
+          "Means sad"
+        ],
+        "words": [
+          "joyful",
+          "gloomy",
+          "cheerful",
+          "miserable",
+          "merry",
+          "tearful"
+        ],
+        "a": {
+          "joyful": "Means happy",
+          "gloomy": "Means sad",
+          "cheerful": "Means happy",
+          "miserable": "Means sad",
+          "merry": "Means happy",
+          "tearful": "Means sad"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "'Shout' and 'whisper' are synonyms.",
+            "a": false
+          },
+          {
+            "q": "'Smile' and 'grin' mean almost the same.",
+            "a": true
+          },
+          {
+            "q": "'Begin' and 'finish' mean the same.",
+            "a": false
+          },
+          {
+            "q": "'Woods' and 'forest' mean almost the same.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a garden. Use a word that means pretty.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Uses a synonym of pretty such as lovely or beautiful."
+      }
+    ]
+  },
+  {
+    "id": "synonyms-05",
+    "topic": "synonyms",
+    "number": 5,
+    "level": "Practice",
+    "title": "Annual Day at School",
+    "intro": "Class 2 is putting on a show for Annual Day. Choose words with the same meaning.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again. Use a word that means the same as the word in capitals.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The dancers were GOOD.",
+            "a": "The dancers were excellent. (Accept great or wonderful.)"
+          },
+          {
+            "q": "The hall was FULL.",
+            "a": "The hall was packed. (Accept crowded.)"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that means the same.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Lily was nervous. She was",
+            "options": [
+              "worried",
+              "relaxed",
+              "sleepy"
+            ],
+            "after": ".",
+            "a": "worried"
+          },
+          {
+            "before": "The song was great. It was",
+            "options": [
+              "wonderful",
+              "terrible",
+              "boring"
+            ],
+            "after": ".",
+            "a": "wonderful"
+          },
+          {
+            "before": "The show ended at eight. It",
+            "options": [
+              "finished",
+              "began",
+              "waited"
+            ],
+            "after": "at eight.",
+            "a": "finished"
+          },
+          {
+            "before": "The children were thrilled. They were",
+            "options": [
+              "excited",
+              "bored",
+              "upset"
+            ],
+            "after": ".",
+            "a": "excited"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the words that mean the same.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "toss",
+            "right": "throw"
+          },
+          {
+            "left": "rip",
+            "right": "tear"
+          },
+          {
+            "left": "silly",
+            "right": "foolish"
+          },
+          {
+            "left": "weep",
+            "right": "cry"
+          },
+          {
+            "left": "outfit",
+            "right": "costume"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A synonym is a word that means the same as another word.",
+            "a": true
+          },
+          {
+            "q": "'Correct' and 'right' are synonyms.",
+            "a": true
+          },
+          {
+            "q": "'Asleep' and 'awake' are synonyms.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a show. Use great in one and a synonym of great in the other.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. The second sentence uses a word such as wonderful, excellent or amazing."
+      }
+    ]
+  }
+]

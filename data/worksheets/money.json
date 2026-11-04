@@ -1,0 +1,679 @@
+[
+  {
+    "id": "money-01",
+    "topic": "money",
+    "number": 1,
+    "level": "Starter",
+    "title": "The School Canteen",
+    "intro": "Kiara and Sam buy snacks at the canteen. Menu: samosa ₹12, idli ₹10, juice ₹15, sandwich ₹25.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Add the coins.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "₹5 + ₹2 + ₹1",
+            "a": "₹8"
+          },
+          {
+            "q": "₹10 + ₹5 + ₹5",
+            "a": "₹20"
+          },
+          {
+            "q": "₹2 + ₹2 + ₹2 + ₹1",
+            "a": "₹7"
+          },
+          {
+            "q": "₹10 + ₹10 + ₹2",
+            "a": "₹22"
+          },
+          {
+            "q": "₹5 + ₹5 + ₹5 + ₹2",
+            "a": "₹17"
+          },
+          {
+            "q": "₹20 + ₹5 + ₹2",
+            "a": "₹27"
+          },
+          {
+            "q": "₹10 + ₹2 + ₹2 + ₹1",
+            "a": "₹15"
+          },
+          {
+            "q": "₹5 + ₹1 + ₹1 + ₹1",
+            "a": "₹8"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Look at the menu. Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A samosa costs",
+            "options": [
+              "more",
+              "less"
+            ],
+            "after": "than a juice.",
+            "a": "less"
+          },
+          {
+            "before": "The cheapest item is the",
+            "options": [
+              "samosa",
+              "idli",
+              "juice"
+            ],
+            "after": ".",
+            "a": "idli"
+          },
+          {
+            "before": "A sandwich costs",
+            "options": [
+              "more than",
+              "less than",
+              "the same as"
+            ],
+            "after": "an idli and a juice together.",
+            "a": "the same as"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add the rupees.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "34",
+            "op": "+",
+            "bottom": "25",
+            "a": "59"
+          },
+          {
+            "top": "46",
+            "op": "+",
+            "bottom": "18",
+            "a": "64"
+          },
+          {
+            "top": "27",
+            "op": "+",
+            "bottom": "27",
+            "a": "54"
+          },
+          {
+            "top": "55",
+            "op": "+",
+            "bottom": "36",
+            "a": "91"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the canteen problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Kiara buys a samosa and a juice. She pays ₹___.",
+            "a": "27"
+          },
+          {
+            "q": "Sam has ₹20. He buys an idli. He gets ₹___ back.",
+            "a": "10"
+          },
+          {
+            "q": "Two idlis cost ₹___.",
+            "a": "20"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "₹10 is more than five ₹1 coins.",
+            "a": true
+          },
+          {
+            "q": "Two ₹5 coins make ₹10.",
+            "a": true
+          },
+          {
+            "q": "Three ₹2 coins make ₹5.",
+            "a": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "money-02",
+    "topic": "money",
+    "number": 2,
+    "level": "Starter",
+    "title": "Buying Vegetables at the Sabzi Mandi",
+    "intro": "Neha helps Dadaji buy vegetables. Tomatoes ₹30 a kg, onions ₹25 a kg, potatoes ₹20 a kg, coriander ₹10 a bunch.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Find the total cost.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "1 kg tomatoes and 1 kg onions cost ₹___.",
+            "a": "55"
+          },
+          {
+            "q": "1 kg potatoes and a bunch of coriander cost ₹___.",
+            "a": "30"
+          },
+          {
+            "q": "2 kg potatoes cost ₹___.",
+            "a": "40"
+          },
+          {
+            "q": "1 kg each of tomatoes, onions and potatoes cost ₹___.",
+            "a": "75"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Find the change. Subtract.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "50",
+            "op": "-",
+            "bottom": "35",
+            "a": "15"
+          },
+          {
+            "top": "100",
+            "op": "-",
+            "bottom": "55",
+            "a": "45"
+          },
+          {
+            "top": "100",
+            "op": "-",
+            "bottom": "72",
+            "a": "28"
+          },
+          {
+            "top": "200",
+            "op": "-",
+            "bottom": "145",
+            "a": "55"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each payment to the change.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Pay ₹50 for ₹30",
+            "right": "₹20"
+          },
+          {
+            "left": "Pay ₹100 for ₹75",
+            "right": "₹25"
+          },
+          {
+            "left": "Pay ₹100 for ₹40",
+            "right": "₹60"
+          },
+          {
+            "left": "Pay ₹50 for ₹45",
+            "right": "₹5"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "₹100 is the same as ten ₹10 notes.",
+            "a": true
+          },
+          {
+            "q": "₹50 is the same as two ₹20 notes.",
+            "a": false
+          },
+          {
+            "q": "₹25 + ₹25 = ₹50",
+            "a": true
+          },
+          {
+            "q": "A bag costs ₹60. If you pay ₹100, you get ₹30 back.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Dadaji has ₹100. Pick two vegetables. Write the cost and the change.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. tomatoes ₹30 + onions ₹25 = ₹55; change ₹45."
+      }
+    ]
+  },
+  {
+    "id": "money-03",
+    "topic": "money",
+    "number": 3,
+    "level": "Starter",
+    "title": "The Diwali Mela",
+    "intro": "At the Diwali mela, Rohan and Aisha pay with notes. Our notes are ₹10, ₹20, ₹50, ₹100, ₹200 and ₹500.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Add the notes.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "₹100 + ₹50",
+            "a": "₹150"
+          },
+          {
+            "q": "₹200 + ₹100 + ₹20",
+            "a": "₹320"
+          },
+          {
+            "q": "₹500 + ₹200",
+            "a": "₹700"
+          },
+          {
+            "q": "₹50 + ₹20 + ₹10",
+            "a": "₹80"
+          },
+          {
+            "q": "₹100 + ₹100 + ₹50 + ₹10",
+            "a": "₹260"
+          },
+          {
+            "q": "₹500 + ₹50 + ₹20 + ₹20",
+            "a": "₹590"
+          },
+          {
+            "q": "₹200 + ₹200 + ₹10",
+            "a": "₹410"
+          },
+          {
+            "q": "₹20 + ₹20 + ₹20 + ₹10",
+            "a": "₹70"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "How many notes make the amount?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "₹100 = ___ notes of ₹10",
+            "a": "10"
+          },
+          {
+            "q": "₹100 = ___ notes of ₹50",
+            "a": "2"
+          },
+          {
+            "q": "₹500 = ___ notes of ₹100",
+            "a": "5"
+          },
+          {
+            "q": "₹200 = ___ notes of ₹20",
+            "a": "10"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the bigger amount.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The bigger amount is",
+            "options": [
+              "₹250",
+              "₹205"
+            ],
+            "after": ".",
+            "a": "₹250"
+          },
+          {
+            "before": "The bigger amount is",
+            "options": [
+              "₹99",
+              "₹190"
+            ],
+            "after": ".",
+            "a": "₹190"
+          },
+          {
+            "before": "The bigger amount is",
+            "options": [
+              "two ₹50 notes",
+              "one ₹200 note"
+            ],
+            "after": ".",
+            "a": "one ₹200 note"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A ₹500 note is the same as five ₹100 notes.",
+            "a": true
+          },
+          {
+            "q": "₹50 + ₹50 + ₹50 = ₹200",
+            "a": false
+          },
+          {
+            "q": "Aisha has a ₹100 note. She can buy a ₹60 lantern.",
+            "a": true
+          },
+          {
+            "q": "A ₹1 coin is worth more than a ₹10 note.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the mela problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A diya set costs ₹45 and a lantern costs ₹80. Together they cost ₹___.",
+            "a": "125"
+          },
+          {
+            "q": "Rohan has ₹200. He spends ₹125 on rides. He has ₹___ left.",
+            "a": "75"
+          },
+          {
+            "q": "Aisha buys 3 balloons at ₹20 each. She pays ₹___.",
+            "a": "60"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "money-04",
+    "topic": "money",
+    "number": 4,
+    "level": "Starter",
+    "title": "Pocket Money Piggy Bank",
+    "intro": "Every week Fatima puts her pocket money in her piggy bank. Help her count her savings.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Is it a coin or a note?",
+        "marks": 7,
+        "groups": [
+          "Coin",
+          "Note"
+        ],
+        "words": [
+          "₹1",
+          "₹50",
+          "₹2",
+          "₹100",
+          "₹5",
+          "₹200",
+          "₹500"
+        ],
+        "a": {
+          "₹1": "Coin",
+          "₹50": "Note",
+          "₹2": "Coin",
+          "₹100": "Note",
+          "₹5": "Coin",
+          "₹200": "Note",
+          "₹500": "Note"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Count the savings.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Fatima saves ₹10 every week. After 4 weeks she has ₹___.",
+            "a": "40"
+          },
+          {
+            "q": "She has ₹35 and adds ₹20. Now she has ₹___.",
+            "a": "55"
+          },
+          {
+            "q": "She had ₹60 and took out ₹25 for a book. ₹___ is left.",
+            "a": "35"
+          },
+          {
+            "q": "₹5 + ₹5 + ₹5 + ₹5 + ₹5 = ₹___",
+            "a": "25"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the two ways to make the same amount.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "₹10 + ₹10",
+            "right": "₹5 + ₹5 + ₹5 + ₹5"
+          },
+          {
+            "left": "₹50",
+            "right": "₹20 + ₹20 + ₹10"
+          },
+          {
+            "left": "₹100",
+            "right": "₹50 + ₹20 + ₹20 + ₹10"
+          },
+          {
+            "left": "₹15",
+            "right": "₹10 + ₹2 + ₹2 + ₹1"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add the savings.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "125",
+            "op": "+",
+            "bottom": "48",
+            "a": "173"
+          },
+          {
+            "top": "236",
+            "op": "+",
+            "bottom": "155",
+            "a": "391"
+          },
+          {
+            "top": "318",
+            "op": "+",
+            "bottom": "207",
+            "a": "525"
+          },
+          {
+            "top": "149",
+            "op": "+",
+            "bottom": "151",
+            "a": "300"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "What would you save money for? Write how much it costs.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any sensible item with a price in ₹."
+      }
+    ]
+  },
+  {
+    "id": "money-05",
+    "topic": "money",
+    "number": 5,
+    "level": "Practice",
+    "title": "Snacks on the Train to Jaipur",
+    "intro": "On the train to Jaipur, Mehul and Pihu buy snacks. Chai ₹15, samosa ₹20, water bottle ₹20. Remember: ₹1 = 100 paise.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write in paise.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "₹1",
+            "a": "100 paise"
+          },
+          {
+            "q": "₹2",
+            "a": "200 paise"
+          },
+          {
+            "q": "₹5",
+            "a": "500 paise"
+          },
+          {
+            "q": "₹3 and 50 paise",
+            "a": "350 paise"
+          },
+          {
+            "q": "₹4 and 50 paise",
+            "a": "450 paise"
+          },
+          {
+            "q": "₹10",
+            "a": "1000 paise"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Subtract.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "500",
+            "op": "-",
+            "bottom": "265",
+            "a": "235"
+          },
+          {
+            "top": "350",
+            "op": "-",
+            "bottom": "175",
+            "a": "175"
+          },
+          {
+            "top": "420",
+            "op": "-",
+            "bottom": "185",
+            "a": "235"
+          },
+          {
+            "top": "305",
+            "op": "-",
+            "bottom": "128",
+            "a": "177"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the train problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Mehul buys 2 chais and 1 samosa. He pays ₹___.",
+            "a": "50"
+          },
+          {
+            "q": "He pays with a ₹100 note. His change is ₹___.",
+            "a": "50"
+          },
+          {
+            "q": "Mehul has ₹50. Water costs ₹20 a bottle. He can buy ___ bottles.",
+            "a": "2"
+          },
+          {
+            "q": "Pihu buys a book for ₹85 and a comic for ₹45. She pays ₹___.",
+            "a": "130"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "₹1 =",
+            "options": [
+              "10 paise",
+              "100 paise"
+            ],
+            "after": "",
+            "a": "100 paise"
+          },
+          {
+            "before": "₹2 and 50 paise is",
+            "options": [
+              "more",
+              "less"
+            ],
+            "after": "than ₹3.",
+            "a": "less"
+          },
+          {
+            "before": "Four ₹50 notes make",
+            "options": [
+              "₹150",
+              "₹200",
+              "₹250"
+            ],
+            "after": ".",
+            "a": "₹200"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Pihu has ₹100. Pick two snacks from the list. Write the cost and her change.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. chai ₹15 + samosa ₹20 = ₹35; change ₹65."
+      }
+    ]
+  }
+]

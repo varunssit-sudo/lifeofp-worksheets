@@ -1,0 +1,628 @@
+[
+  {
+    "id": "food-groups-01",
+    "topic": "food-groups",
+    "number": 1,
+    "level": "Starter",
+    "title": "Lunch Box Day at School",
+    "intro": "Class 2 opens their lunch boxes. Some foods give us energy and some help us grow.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the foods into Energy-giving and Body-building.",
+        "marks": 8,
+        "groups": [
+          "Energy-giving",
+          "Body-building"
+        ],
+        "words": [
+          "rice",
+          "chapati",
+          "potato",
+          "bread",
+          "egg",
+          "dal",
+          "paneer",
+          "fish"
+        ],
+        "a": {
+          "rice": "Energy-giving",
+          "chapati": "Energy-giving",
+          "potato": "Energy-giving",
+          "bread": "Energy-giving",
+          "egg": "Body-building",
+          "dal": "Body-building",
+          "paneer": "Body-building",
+          "fish": "Body-building"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Energy-giving foods help us run and ___.",
+            "a": "play"
+          },
+          {
+            "q": "Body-building foods help us ___ strong.",
+            "a": "grow"
+          },
+          {
+            "q": "Aarav has an egg sandwich. The egg is a ___ food.",
+            "a": "body-building"
+          },
+          {
+            "q": "Sana has rice and curry. The rice gives her ___.",
+            "a": "energy"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Rice and wheat give us energy.",
+            "a": true
+          },
+          {
+            "q": "Dal and beans help build our body.",
+            "a": true
+          },
+          {
+            "q": "We should skip lunch to play more.",
+            "a": false
+          },
+          {
+            "q": "Butter and ghee are energy-giving foods.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the body-building food.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Lily's box has",
+            "options": [
+              "chicken",
+              "noodles"
+            ],
+            "after": "today.",
+            "a": "chicken"
+          },
+          {
+            "before": "Omar drinks a glass of",
+            "options": [
+              "milk",
+              "lemonade"
+            ],
+            "after": "at break.",
+            "a": "milk"
+          },
+          {
+            "before": "Priya's mother packs",
+            "options": [
+              "sprouts",
+              "biscuits"
+            ],
+            "after": "for her.",
+            "a": "sprouts"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write what is in your lunch box today.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary. Check that the child names real foods, e.g. \"I have roti and dal.\""
+      }
+    ]
+  },
+  {
+    "id": "food-groups-02",
+    "topic": "food-groups",
+    "number": 2,
+    "level": "Starter",
+    "title": "The Fruit and Vegetable Market",
+    "intro": "Neha goes to the Al Aweer market with her father. Fruits and vegetables are protective foods.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Fruits and vegetables protect us from illness.",
+            "a": true
+          },
+          {
+            "q": "Protective foods give us vitamins and minerals.",
+            "a": true
+          },
+          {
+            "q": "Carrots are good for our eyes.",
+            "a": true
+          },
+          {
+            "q": "We should not wash fruits before eating.",
+            "a": false
+          },
+          {
+            "q": "Oranges give us vitamin C.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the foods into Protective and Energy-giving.",
+        "marks": 8,
+        "groups": [
+          "Protective",
+          "Energy-giving"
+        ],
+        "words": [
+          "spinach",
+          "papaya",
+          "tomato",
+          "guava",
+          "oats",
+          "honey",
+          "sugar",
+          "pasta"
+        ],
+        "a": {
+          "spinach": "Protective",
+          "papaya": "Protective",
+          "tomato": "Protective",
+          "guava": "Protective",
+          "oats": "Energy-giving",
+          "honey": "Energy-giving",
+          "sugar": "Energy-giving",
+          "pasta": "Energy-giving"
+        }
+      },
+      {
+        "type": "match",
+        "title": "Match each food to its colour.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "brinjal",
+            "right": "purple"
+          },
+          {
+            "left": "banana",
+            "right": "yellow"
+          },
+          {
+            "left": "pumpkin",
+            "right": "orange"
+          },
+          {
+            "left": "peas",
+            "right": "green"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Neha buys apples. Apples are ___ foods.",
+            "a": "protective"
+          },
+          {
+            "q": "Papaya and guava give us ___ to stay healthy.",
+            "a": "vitamins"
+          },
+          {
+            "q": "We should eat fruits of many ___ every day.",
+            "a": "colours"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name two fruits or vegetables you like to eat.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I like mango and cucumber.\""
+      }
+    ]
+  },
+  {
+    "id": "food-groups-03",
+    "topic": "food-groups",
+    "number": 3,
+    "level": "Starter",
+    "title": "Sunday Breakfast at Home",
+    "intro": "On Sunday, Dad makes a big breakfast for Kian and his sister Tara.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each food group to what it does.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "energy-giving food",
+            "right": "gives us energy to work"
+          },
+          {
+            "left": "body-building food",
+            "right": "helps us grow"
+          },
+          {
+            "left": "protective food",
+            "right": "keeps illness away"
+          },
+          {
+            "left": "water",
+            "right": "keeps the body cool"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct food group.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Idli belongs to the",
+            "options": [
+              "energy-giving",
+              "protective"
+            ],
+            "after": "group.",
+            "a": "energy-giving"
+          },
+          {
+            "before": "A boiled egg belongs to the",
+            "options": [
+              "body-building",
+              "protective"
+            ],
+            "after": "group.",
+            "a": "body-building"
+          },
+          {
+            "before": "Watermelon belongs to the",
+            "options": [
+              "protective",
+              "body-building"
+            ],
+            "after": "group.",
+            "a": "protective"
+          },
+          {
+            "before": "Curd belongs to the",
+            "options": [
+              "body-building",
+              "energy-giving"
+            ],
+            "after": "group.",
+            "a": "body-building"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Breakfast is an important meal of the day.",
+            "a": true
+          },
+          {
+            "q": "Milk helps make our bones and teeth strong.",
+            "a": true
+          },
+          {
+            "q": "Cola is a healthy drink for breakfast.",
+            "a": false
+          },
+          {
+            "q": "Poha is made from rice.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the food group: E (energy), B (body-building) or P (protective).",
+        "marks": 8,
+        "items": [
+          {
+            "q": "upma",
+            "a": "E"
+          },
+          {
+            "q": "cheese",
+            "a": "B"
+          },
+          {
+            "q": "apple",
+            "a": "P"
+          },
+          {
+            "q": "paratha",
+            "a": "E"
+          },
+          {
+            "q": "cabbage",
+            "a": "P"
+          },
+          {
+            "q": "chicken",
+            "a": "B"
+          },
+          {
+            "q": "grapes",
+            "a": "P"
+          },
+          {
+            "q": "peanuts",
+            "a": "B"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Plan a healthy breakfast. Write two foods.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. Look for one energy food and one body-building or protective food, e.g. \"dosa and a banana\"."
+      }
+    ]
+  },
+  {
+    "id": "food-groups-04",
+    "topic": "food-groups",
+    "number": 4,
+    "level": "Starter",
+    "title": "The Birthday Party Table",
+    "intro": "Arjun's birthday party has lots of food. Some foods are healthy and some we should eat only sometimes.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the foods into Eat often and Eat sometimes.",
+        "marks": 8,
+        "groups": [
+          "Eat often",
+          "Eat sometimes"
+        ],
+        "words": [
+          "fruit salad",
+          "vegetable soup",
+          "sprouts chaat",
+          "buttermilk",
+          "chips",
+          "cola",
+          "candy",
+          "cream pastry"
+        ],
+        "a": {
+          "fruit salad": "Eat often",
+          "vegetable soup": "Eat often",
+          "sprouts chaat": "Eat often",
+          "buttermilk": "Eat often",
+          "chips": "Eat sometimes",
+          "cola": "Eat sometimes",
+          "candy": "Eat sometimes",
+          "cream pastry": "Eat sometimes"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Junk food has too much salt, sugar or oil.",
+            "a": true
+          },
+          {
+            "q": "Eating chips every day keeps us healthy.",
+            "a": false
+          },
+          {
+            "q": "Too many sweets can harm our teeth.",
+            "a": true
+          },
+          {
+            "q": "Fresh juice is better than a fizzy drink.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the healthier choice.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Instead of chips, Arjun eats",
+            "options": [
+              "roasted chana",
+              "fries"
+            ],
+            "after": "at the party.",
+            "a": "roasted chana"
+          },
+          {
+            "before": "Instead of cola, Maya drinks",
+            "options": [
+              "coconut water",
+              "soda"
+            ],
+            "after": "with her cake.",
+            "a": "coconut water"
+          },
+          {
+            "before": "Instead of candy, Leo eats",
+            "options": [
+              "dates",
+              "toffees"
+            ],
+            "after": "after lunch.",
+            "a": "dates"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Food cooked in a lot of oil is called ___ food.",
+            "a": "fried"
+          },
+          {
+            "q": "We should brush our teeth after eating ___ things.",
+            "a": "sweet"
+          },
+          {
+            "q": "A burger and fries every day is ___ food.",
+            "a": "junk"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one healthy snack you can bring to a party.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I can bring a fruit bowl.\""
+      }
+    ]
+  },
+  {
+    "id": "food-groups-05",
+    "topic": "food-groups",
+    "number": 5,
+    "level": "Practice",
+    "title": "Planning a Desert Camp Picnic",
+    "intro": "Class 2 is going on a picnic to a desert camp. They want to pack a balanced diet.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the picnic foods into the three groups.",
+        "marks": 9,
+        "groups": [
+          "Energy-giving",
+          "Body-building",
+          "Protective"
+        ],
+        "words": [
+          "pita bread",
+          "boiled corn",
+          "sweet potato",
+          "hummus",
+          "boiled eggs",
+          "yoghurt",
+          "cucumber",
+          "oranges",
+          "lettuce"
+        ],
+        "a": {
+          "pita bread": "Energy-giving",
+          "boiled corn": "Energy-giving",
+          "sweet potato": "Energy-giving",
+          "hummus": "Body-building",
+          "boiled eggs": "Body-building",
+          "yoghurt": "Body-building",
+          "cucumber": "Protective",
+          "oranges": "Protective",
+          "lettuce": "Protective"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A balanced diet has food from all the food groups.",
+            "a": true
+          },
+          {
+            "q": "We need to drink plenty of water in hot weather.",
+            "a": true
+          },
+          {
+            "q": "Fibre in vegetables helps our tummy work well.",
+            "a": true
+          },
+          {
+            "q": "Eating only one kind of food is a balanced diet.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A meal with all the food groups is a ___ diet.",
+            "a": "balanced"
+          },
+          {
+            "q": "Fruits and vegetables give us vitamins and ___.",
+            "a": "minerals"
+          },
+          {
+            "q": "We should wash our ___ before we eat.",
+            "a": "hands"
+          },
+          {
+            "q": "Rohan packs a bottle of ___ to stay cool in the desert.",
+            "a": "water"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each food to what it gives us.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "brown rice",
+            "right": "energy to play"
+          },
+          {
+            "left": "chickpeas",
+            "right": "protein to grow"
+          },
+          {
+            "left": "carrot sticks",
+            "right": "vitamins"
+          },
+          {
+            "left": "water",
+            "right": "stops us getting thirsty"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a balanced lunch with one food from each group.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary. One mark for each group, e.g. \"roti (energy), dal (body-building), salad (protective)\"."
+      }
+    ]
+  }
+]

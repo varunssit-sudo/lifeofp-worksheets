@@ -1,0 +1,628 @@
+[
+  {
+    "id": "seasons-01",
+    "topic": "seasons",
+    "number": 1,
+    "level": "Starter",
+    "title": "Packing for the Summer Holidays",
+    "intro": "Riya is packing for her summer trip to Goa. Summer is the hottest season of the year.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "In summer, we wear",
+            "options": [
+              "cotton",
+              "woollen"
+            ],
+            "after": "clothes.",
+            "a": "cotton"
+          },
+          {
+            "before": "Summer days are",
+            "options": [
+              "long",
+              "short"
+            ],
+            "after": ".",
+            "a": "long"
+          },
+          {
+            "before": "We drink lots of",
+            "options": [
+              "water",
+              "hot soup"
+            ],
+            "after": "in summer.",
+            "a": "water"
+          },
+          {
+            "before": "We switch on the",
+            "options": [
+              "fan",
+              "heater"
+            ],
+            "after": "on summer nights.",
+            "a": "fan"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the things.",
+        "marks": 4,
+        "groups": [
+          "Summer",
+          "Winter"
+        ],
+        "words": [
+          "cotton T-shirt",
+          "blanket",
+          "cap",
+          "gloves",
+          "woolly socks",
+          "sunglasses",
+          "sweater",
+          "ice cream"
+        ],
+        "a": {
+          "sunglasses": "Summer",
+          "cap": "Summer",
+          "ice cream": "Summer",
+          "cotton T-shirt": "Summer",
+          "sweater": "Winter",
+          "gloves": "Winter",
+          "blanket": "Winter",
+          "woolly socks": "Winter"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Summer is the hottest season.",
+            "a": true
+          },
+          {
+            "q": "It is good to play in the hot sun at noon.",
+            "a": false
+          },
+          {
+            "q": "Mangoes and watermelons are summer fruits.",
+            "a": true
+          },
+          {
+            "q": "We need raincoats on hot, dry summer days.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Riya puts on ___ to protect her skin from the sun.",
+            "a": "sunscreen"
+          },
+          {
+            "q": "We sweat a lot because it is ___.",
+            "a": "hot"
+          },
+          {
+            "q": "Summer holidays in India are often in May and ___.",
+            "a": "June"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things you like to do in summer.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. swimming, eating mangoes, going on holiday."
+      }
+    ]
+  },
+  {
+    "id": "seasons-02",
+    "topic": "seasons",
+    "number": 2,
+    "level": "Starter",
+    "title": "Monsoon Days in Mumbai",
+    "intro": "It has rained all week in Mumbai. Dev and Anna splash in the puddles on the way to school.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each thing to the rainy season.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Raincoat",
+            "right": "keeps our clothes dry"
+          },
+          {
+            "left": "Gumboots",
+            "right": "keep our feet dry in puddles"
+          },
+          {
+            "left": "Dark clouds",
+            "right": "bring rain"
+          },
+          {
+            "left": "Rainbow",
+            "right": "seen when the sun shines after rain"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In the rainy season, the sky is full of dark ___.",
+            "a": "clouds"
+          },
+          {
+            "q": "Farmers are happy because rain helps their ___ grow.",
+            "a": "crops"
+          },
+          {
+            "q": "Puddles of ___ collect on the roads.",
+            "a": "water"
+          },
+          {
+            "q": "We see flashes of ___ in a storm.",
+            "a": "lightning"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Mosquitoes lay eggs in still water.",
+            "a": true
+          },
+          {
+            "q": "We should stand under a tall tree when there is lightning.",
+            "a": false
+          },
+          {
+            "q": "In India, the rainy season comes after summer.",
+            "a": true
+          },
+          {
+            "q": "Wet clothes dry very fast in the rainy season.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Frogs",
+            "options": [
+              "croak",
+              "sleep"
+            ],
+            "after": "loudly in the rain.",
+            "a": "croak"
+          },
+          {
+            "before": "In Mumbai,",
+            "options": [
+              "July",
+              "December"
+            ],
+            "after": "is a very rainy month.",
+            "a": "July"
+          },
+          {
+            "before": "Rain makes the roads",
+            "options": [
+              "slippery",
+              "dusty"
+            ],
+            "after": ".",
+            "a": "slippery"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things you do on a rainy day.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. carry an umbrella, make paper boats, stay indoors."
+      }
+    ]
+  },
+  {
+    "id": "seasons-03",
+    "topic": "seasons",
+    "number": 3,
+    "level": "Starter",
+    "title": "A Winter Camp in the Desert",
+    "intro": "In December, Faisal and Chloe go camping in the desert of Ras Al Khaimah. The nights are cool and long.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Winter nights are long and cold.",
+            "a": true
+          },
+          {
+            "q": "In the UAE, winter is a good time for desert camping.",
+            "a": true
+          },
+          {
+            "q": "We need fans to keep cool on winter nights.",
+            "a": false
+          },
+          {
+            "q": "On a cold morning, our breath looks like smoke.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "We sit near the",
+            "options": [
+              "campfire",
+              "cooler"
+            ],
+            "after": "to keep warm.",
+            "a": "campfire"
+          },
+          {
+            "before": "Grandma knits a woollen",
+            "options": [
+              "scarf",
+              "raincoat"
+            ],
+            "after": ".",
+            "a": "scarf"
+          },
+          {
+            "before": "We drink warm",
+            "options": [
+              "milk",
+              "lemonade"
+            ],
+            "after": "before bed.",
+            "a": "milk"
+          },
+          {
+            "before": "In winter, the sun sets",
+            "options": [
+              "early",
+              "late"
+            ],
+            "after": ".",
+            "a": "early"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each winter festival to its clue.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Christmas",
+            "right": "25 December"
+          },
+          {
+            "left": "Lohri",
+            "right": "bonfire in Punjab"
+          },
+          {
+            "left": "Makar Sankranti",
+            "right": "flying kites"
+          },
+          {
+            "left": "Pongal",
+            "right": "harvest festival of Tamil Nadu"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Wool for sweaters comes from ___.",
+            "a": "sheep"
+          },
+          {
+            "q": "Some animals, like bears, sleep through the ___.",
+            "a": "winter"
+          },
+          {
+            "q": "Thick fog makes it hard to ___ far.",
+            "a": "see"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways to keep warm in winter.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. wear a sweater, use a blanket, drink warm milk, sit in the sun."
+      }
+    ]
+  },
+  {
+    "id": "seasons-04",
+    "topic": "seasons",
+    "number": 4,
+    "level": "Starter",
+    "title": "A Year at Nani's Village",
+    "intro": "Tara visits her Nani in summer, in the rainy season and in winter. Each season brings new things.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the things by season.",
+        "marks": 9,
+        "groups": [
+          "Summer",
+          "Rainy",
+          "Winter"
+        ],
+        "words": [
+          "gumboots",
+          "sweater",
+          "bonfire",
+          "paper boats",
+          "umbrella",
+          "swimming",
+          "mittens",
+          "cotton dress",
+          "sun hat"
+        ],
+        "a": {
+          "swimming": "Summer",
+          "cotton dress": "Summer",
+          "sun hat": "Summer",
+          "umbrella": "Rainy",
+          "paper boats": "Rainy",
+          "gumboots": "Rainy",
+          "sweater": "Winter",
+          "bonfire": "Winter",
+          "mittens": "Winter"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the season.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "After summer comes the ___ season.",
+            "a": "rainy"
+          },
+          {
+            "q": "Mangoes are ripe in ___.",
+            "a": "summer"
+          },
+          {
+            "q": "Nani wears a warm shawl in ___.",
+            "a": "winter"
+          },
+          {
+            "q": "The village pond fills up in the ___ season.",
+            "a": "rainy"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The weather is the same all year.",
+            "a": false
+          },
+          {
+            "q": "The three main seasons we learn about are summer, rainy and winter.",
+            "a": true
+          },
+          {
+            "q": "Fresh peas and carrots are found a lot in winter.",
+            "a": true
+          },
+          {
+            "q": "Leaves look fresh and green after the rains.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "In winter, Nani dries the clothes in the",
+            "options": [
+              "sun",
+              "shade"
+            ],
+            "after": ".",
+            "a": "sun"
+          },
+          {
+            "before": "In the rainy season, farmers",
+            "options": [
+              "sow",
+              "cut"
+            ],
+            "after": "rice.",
+            "a": "sow"
+          },
+          {
+            "before": "Winter mornings in Delhi are often",
+            "options": [
+              "foggy",
+              "sweaty"
+            ],
+            "after": ".",
+            "a": "foggy"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which season do you like best? Write why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Check the reason fits the season, e.g. \"Winter, because it is cool.\""
+      }
+    ]
+  },
+  {
+    "id": "seasons-05",
+    "topic": "seasons",
+    "number": 5,
+    "level": "Practice",
+    "title": "Aisha's Wardrobe for Every Season",
+    "intro": "Aisha lives in Dubai and visits her cousins in India. She needs the right clothes for each season.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each thing to how it helps.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "Wool sweater",
+            "right": "keeps us warm on cold days"
+          },
+          {
+            "left": "Cotton shirt",
+            "right": "lets sweat dry in the heat"
+          },
+          {
+            "left": "Raincoat",
+            "right": "stops rain from getting in"
+          },
+          {
+            "left": "Light colours",
+            "right": "keep us cooler in the sun"
+          },
+          {
+            "left": "Sunglasses",
+            "right": "protect our eyes from bright sun"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "In the UAE, the hottest months are",
+            "options": [
+              "July and August",
+              "December and January"
+            ],
+            "after": ".",
+            "a": "July and August"
+          },
+          {
+            "before": "In the UAE,",
+            "options": [
+              "December",
+              "June"
+            ],
+            "after": "is cool and pleasant.",
+            "a": "December"
+          },
+          {
+            "before": "Winter in Kashmir brings",
+            "options": [
+              "snow",
+              "sandstorms"
+            ],
+            "after": ".",
+            "a": "snow"
+          },
+          {
+            "before": "In summer, we",
+            "options": [
+              "sweat",
+              "shiver"
+            ],
+            "after": "a lot.",
+            "a": "sweat"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Woollen clothes keep us warm.",
+            "a": true
+          },
+          {
+            "q": "It rains a lot in the UAE every summer.",
+            "a": false
+          },
+          {
+            "q": "Some birds fly to warmer places in winter.",
+            "a": true
+          },
+          {
+            "q": "We should drink less water in summer.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Correct the sentence and write it again.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "We wear woollen sweaters in summer.",
+            "a": "We wear cotton clothes in summer."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "What would you pack for a trip to snowy Manali in winter?",
+        "marks": 2,
+        "lines": 2,
+        "a": "Warm things, e.g. sweater, jacket, gloves, cap, woollen socks, boots."
+      }
+    ]
+  }
+]

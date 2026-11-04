@@ -168,7 +168,7 @@
   function sheetCard(s) {
     const t = topicById(s.topic) || {};
     return `<article class="card sheet-card s-${t.subject || 'All'}">
-      <div class="thumb" aria-hidden="true"><i></i><i style="width:70%"></i><i style="width:88%"></i><i style="width:60%"></i><i style="width:82%"></i><i style="width:54%"></i><i style="width:76%"></i></div>
+      <button type="button" class="thumb" data-preview="${esc(s.id)}" data-thumb="${esc(s.id)}" aria-label="Preview sheet ${s.number}, ${esc(s.title)}"><span class="thumb-lines" aria-hidden="true"><i></i><i style="width:70%"></i><i style="width:88%"></i><i style="width:60%"></i><i style="width:82%"></i></span></button>
       <div><div class="meta"><span>Sheet ${s.number}</span><span>${esc(s.level)}</span></div><h3>${esc(s.title)}</h3><p>${esc(t.name)} · 1 page</p></div>
       <div class="actions"><button type="button" class="btn btn-soft" data-preview="${esc(s.id)}" style="flex:1">Preview</button><button type="button" class="btn btn-print" data-print="${esc(s.id)}" aria-label="Print sheet ${s.number}, ${esc(s.title)}">${PRINT_ICON}Print</button></div>
     </article>`;
@@ -258,7 +258,28 @@
     bindSheetButtons();
   }
 
+  /* ---------- worksheet thumbnails: a live, scaled-down copy of the real sheet ---------- */
+  const PAGE_PX = 794; // 210mm at 96dpi
+  function sizeThumbs() {
+    app.querySelectorAll('.thumb.ready').forEach((el) => el.style.setProperty('--ts', (el.clientWidth / PAGE_PX).toFixed(4)));
+  }
+  async function fillThumbs() {
+    const els = [...app.querySelectorAll('[data-thumb]')];
+    if (!els.length) return;
+    const sheets = await loadSheets([...new Set(els.map((el) => el.dataset.thumb))]);
+    const byId = Object.fromEntries(sheets.map((ws) => [ws.id, ws]));
+    els.forEach((el) => {
+      const ws = byId[el.dataset.thumb];
+      if (!ws || !el.isConnected) return;
+      el.innerHTML = `<span class="thumb-page" aria-hidden="true" inert>${renderSheet(ws)}</span>`;
+      el.classList.add('ready');
+    });
+    sizeThumbs();
+  }
+  window.addEventListener('resize', sizeThumbs);
+
   function bindSheetButtons() {
+    fillThumbs().catch(() => { /* keep the placeholder lines */ });
     app.querySelectorAll('[data-preview]').forEach((b) => b.addEventListener('click', () => {
       const s = state.index.find((x) => x.id === b.dataset.preview);
       openPreview([s.id], `Sheet ${s.number} · ${s.title}`);

@@ -1,0 +1,627 @@
+[
+  {
+    "id": "plant-life-01",
+    "topic": "plant-life",
+    "number": 1,
+    "level": "Starter",
+    "title": "Our Class Bean Jar",
+    "intro": "Class 2 put bean seeds in a jar with wet cotton. Every day Neha and Leo watch them grow.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "First the seed soaks up ___ and swells.",
+            "a": "water"
+          },
+          {
+            "q": "Then a tiny root comes out of the ___.",
+            "a": "seed"
+          },
+          {
+            "q": "A small shoot grows up towards the ___.",
+            "a": "light"
+          },
+          {
+            "q": "A young plant with its first leaves is a ___.",
+            "a": "seedling"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A seed needs water to sprout.",
+            "a": true
+          },
+          {
+            "q": "Plants need sunlight to grow well.",
+            "a": true
+          },
+          {
+            "q": "A plant grows best in a dark cupboard.",
+            "a": false
+          },
+          {
+            "q": "Plants need air to live.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Neha keeps the jar near the",
+            "options": [
+              "window",
+              "fridge"
+            ],
+            "after": "for light.",
+            "a": "window"
+          },
+          {
+            "before": "Seeds sprout when they get water, air and",
+            "options": [
+              "warmth",
+              "ice"
+            ],
+            "after": ".",
+            "a": "warmth"
+          },
+          {
+            "before": "The root grows",
+            "options": [
+              "down",
+              "up"
+            ],
+            "after": "into the cotton.",
+            "a": "down"
+          },
+          {
+            "before": "The shoot grows",
+            "options": [
+              "up",
+              "down"
+            ],
+            "after": "into the air.",
+            "a": "up"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each stage to what it looks like.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Seed",
+            "right": "small and hard"
+          },
+          {
+            "left": "Sprout",
+            "right": "a tiny root and shoot peep out"
+          },
+          {
+            "left": "Seedling",
+            "right": "a small plant with its first leaves"
+          },
+          {
+            "left": "Grown plant",
+            "right": "many leaves, flowers and fruits"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write three things a seed needs to sprout.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Water, air and warmth."
+      }
+    ]
+  },
+  {
+    "id": "plant-life-02",
+    "topic": "plant-life",
+    "number": 2,
+    "level": "Starter",
+    "title": "Grandpa's Farm in Punjab",
+    "intro": "Harpreet visits her grandpa's farm. She sees big and small plants of many kinds.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the plants.",
+        "marks": 9,
+        "groups": [
+          "Tree",
+          "Shrub",
+          "Herb"
+        ],
+        "words": [
+          "mehendi",
+          "mint",
+          "coriander",
+          "hibiscus",
+          "rose",
+          "mango",
+          "spinach",
+          "neem",
+          "banyan"
+        ],
+        "a": {
+          "mango": "Tree",
+          "neem": "Tree",
+          "banyan": "Tree",
+          "rose": "Shrub",
+          "hibiscus": "Shrub",
+          "mehendi": "Shrub",
+          "mint": "Herb",
+          "coriander": "Herb",
+          "spinach": "Herb"
+        }
+      },
+      {
+        "type": "match",
+        "title": "Match each plant type to what it is like.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Tree",
+            "right": "big, with a thick woody trunk"
+          },
+          {
+            "left": "Shrub",
+            "right": "bushy, with many hard stems"
+          },
+          {
+            "left": "Herb",
+            "right": "small, with a soft green stem"
+          },
+          {
+            "left": "Climber",
+            "right": "needs support to grow up"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A pumpkin plant is a",
+            "options": [
+              "creeper",
+              "tree"
+            ],
+            "after": "that spreads on the ground.",
+            "a": "creeper"
+          },
+          {
+            "before": "A money plant is a",
+            "options": [
+              "climber",
+              "shrub"
+            ],
+            "after": ".",
+            "a": "climber"
+          },
+          {
+            "before": "Grandpa cuts the",
+            "options": [
+              "wheat",
+              "banyan"
+            ],
+            "after": "crop in April.",
+            "a": "wheat"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A grapevine climbs with the help of support.",
+            "a": true
+          },
+          {
+            "q": "A banyan tree has a soft, green stem.",
+            "a": false
+          },
+          {
+            "q": "A watermelon plant is a creeper.",
+            "a": true
+          },
+          {
+            "q": "A coconut tree is a herb.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name one tree and one herb that grow near your home.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. tree: neem or date palm; herb: mint or tulsi."
+      }
+    ]
+  },
+  {
+    "id": "plant-life-03",
+    "topic": "plant-life",
+    "number": 3,
+    "level": "Starter",
+    "title": "Water for the Balcony Pots",
+    "intro": "Kabir and Hana look after the pots on their balcony. Plants need care to stay healthy.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Kabir's plant drooped because it got no ___.",
+            "a": "water"
+          },
+          {
+            "q": "Plants make their food in their ___.",
+            "a": "leaves"
+          },
+          {
+            "q": "Too much water can rot the ___.",
+            "a": "roots"
+          },
+          {
+            "q": "We keep the pots where they get ___.",
+            "a": "sunlight"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Water the plants in the",
+            "options": [
+              "morning",
+              "hot noon"
+            ],
+            "after": ".",
+            "a": "morning"
+          },
+          {
+            "before": "Pull out the",
+            "options": [
+              "weeds",
+              "flowers"
+            ],
+            "after": "so the plants get more space.",
+            "a": "weeds"
+          },
+          {
+            "before": "Do not",
+            "options": [
+              "pluck",
+              "water"
+            ],
+            "after": "the leaves for fun.",
+            "a": "pluck"
+          },
+          {
+            "before": "A plant kept in a dark room turns",
+            "options": [
+              "yellow",
+              "blue"
+            ],
+            "after": ".",
+            "a": "yellow"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match what a plant needs to how it helps.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Sunlight",
+            "right": "helps leaves make food"
+          },
+          {
+            "left": "Water",
+            "right": "keeps the plant fresh and alive"
+          },
+          {
+            "left": "Soil",
+            "right": "holds the roots in place"
+          },
+          {
+            "left": "Air",
+            "right": "plants take it in to live"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the habits.",
+        "marks": 4,
+        "groups": [
+          "Good for plants",
+          "Bad for plants"
+        ],
+        "words": [
+          "give sunlight",
+          "pour soapy water",
+          "remove weeds",
+          "step on seedlings",
+          "break branches",
+          "water the soil",
+          "pluck flowers",
+          "loosen the soil"
+        ],
+        "a": {
+          "water the soil": "Good for plants",
+          "remove weeds": "Good for plants",
+          "loosen the soil": "Good for plants",
+          "give sunlight": "Good for plants",
+          "pluck flowers": "Bad for plants",
+          "step on seedlings": "Bad for plants",
+          "pour soapy water": "Bad for plants",
+          "break branches": "Bad for plants"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Write one way you can care for a plant.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I water my plant every morning.\""
+      }
+    ]
+  },
+  {
+    "id": "plant-life-04",
+    "topic": "plant-life",
+    "number": 4,
+    "level": "Starter",
+    "title": "A Desert Safari Near Abu Dhabi",
+    "intro": "On a desert trip, Aarav and Zoe see plants that live with very little water. Plants also grow in water and on cold hills.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the plants by where they grow.",
+        "marks": 9,
+        "groups": [
+          "Desert",
+          "Water",
+          "Cold hills"
+        ],
+        "words": [
+          "water hyacinth",
+          "pine",
+          "fir",
+          "water lily",
+          "lotus",
+          "cactus",
+          "deodar",
+          "date palm",
+          "ghaf tree"
+        ],
+        "a": {
+          "cactus": "Desert",
+          "date palm": "Desert",
+          "ghaf tree": "Desert",
+          "lotus": "Water",
+          "water lily": "Water",
+          "water hyacinth": "Water",
+          "pine": "Cold hills",
+          "fir": "Cold hills",
+          "deodar": "Cold hills"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A cactus has a thick stem that stores water.",
+            "a": true
+          },
+          {
+            "q": "The ghaf tree has very long roots to find water deep underground.",
+            "a": true
+          },
+          {
+            "q": "Lotus leaves sink to the bottom of the pond.",
+            "a": false
+          },
+          {
+            "q": "Pine trees have thin, needle-like leaves.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Date palms grow well in",
+            "options": [
+              "hot",
+              "icy"
+            ],
+            "after": "places.",
+            "a": "hot"
+          },
+          {
+            "before": "Water hyacinth",
+            "options": [
+              "floats",
+              "sinks"
+            ],
+            "after": "on water.",
+            "a": "floats"
+          },
+          {
+            "before": "Pine trees are shaped like a",
+            "options": [
+              "cone",
+              "ball"
+            ],
+            "after": "so snow slides off.",
+            "a": "cone"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A cactus has sharp ___ instead of leaves.",
+            "a": "spines"
+          },
+          {
+            "q": "The national tree of the UAE is the ___ tree.",
+            "a": "ghaf"
+          },
+          {
+            "q": "The lotus is the national ___ of India.",
+            "a": "flower"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way a cactus lives with little water.",
+        "marks": 2,
+        "lines": 2,
+        "a": "It stores water in its thick stem, or it has spines instead of leaves so it loses less water."
+      }
+    ]
+  },
+  {
+    "id": "plant-life-05",
+    "topic": "plant-life",
+    "number": 5,
+    "level": "Practice",
+    "title": "The Seed Swap at School",
+    "intro": "Ishaan and Freya bring seeds and cuttings to swap at school. Learn how new plants grow and how seeds travel.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort how each new plant is grown.",
+        "marks": 6,
+        "groups": [
+          "From a seed",
+          "From a stem cutting"
+        ],
+        "words": [
+          "sunflower",
+          "money plant",
+          "rose",
+          "mango",
+          "sugarcane",
+          "bean"
+        ],
+        "a": {
+          "mango": "From a seed",
+          "bean": "From a seed",
+          "sunflower": "From a seed",
+          "money plant": "From a stem cutting",
+          "sugarcane": "From a stem cutting",
+          "rose": "From a stem cutting"
+        }
+      },
+      {
+        "type": "match",
+        "title": "Match each seed to how it travels.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Dandelion seed",
+            "right": "is blown by the wind"
+          },
+          {
+            "left": "Coconut",
+            "right": "floats on water"
+          },
+          {
+            "left": "Burr",
+            "right": "sticks to animal fur"
+          },
+          {
+            "left": "Pea pod",
+            "right": "bursts open"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Some seeds are carried by the wind.",
+            "a": true
+          },
+          {
+            "q": "A seedling is older than a grown plant.",
+            "a": false
+          },
+          {
+            "q": "A new plant can grow from a potato.",
+            "a": true
+          },
+          {
+            "q": "Seeds can sprout without any water.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A seed that has just started to grow is a ___.",
+            "a": "sprout"
+          },
+          {
+            "q": "Seeds swell when they soak up ___.",
+            "a": "water"
+          },
+          {
+            "q": "The first part to come out of a seed is the ___.",
+            "a": "root"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write the steps from seed to plant.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Seed → sprout → seedling → young plant → grown plant with flowers and fruits."
+      }
+    ]
+  }
+]

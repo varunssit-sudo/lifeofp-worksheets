@@ -1,0 +1,647 @@
+[
+  {
+    "id": "safety-rules-01",
+    "topic": "safety-rules",
+    "number": 1,
+    "level": "Starter",
+    "title": "Walking to School in Sharjah",
+    "intro": "Every morning Aditi walks to school with her dad. Learn the rules that keep us safe on the road.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each sign to what it means.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Red light",
+            "right": "stop"
+          },
+          {
+            "left": "Yellow light",
+            "right": "get ready to stop"
+          },
+          {
+            "left": "Green light",
+            "right": "go"
+          },
+          {
+            "left": "Zebra crossing",
+            "right": "a safe place to cross the road"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "We should cross the road at a zebra crossing.",
+            "a": true
+          },
+          {
+            "q": "It is safe to play on the road.",
+            "a": false
+          },
+          {
+            "q": "Look both ways before you cross the road.",
+            "a": true
+          },
+          {
+            "q": "We may run across the road when a car is coming.",
+            "a": false
+          },
+          {
+            "q": "Bright clothes help drivers see us at night.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Hold an",
+            "options": [
+              "adult's",
+              "stranger's"
+            ],
+            "after": "hand when you cross.",
+            "a": "adult's"
+          },
+          {
+            "before": "Wear a",
+            "options": [
+              "helmet",
+              "cap"
+            ],
+            "after": "when you ride a bicycle.",
+            "a": "helmet"
+          },
+          {
+            "before": "In a car, always wear a",
+            "options": [
+              "seat belt",
+              "necklace"
+            ],
+            "after": ".",
+            "a": "seat belt"
+          },
+          {
+            "before": "Get off the bus only when it",
+            "options": [
+              "stops",
+              "moves"
+            ],
+            "after": ".",
+            "a": "stops"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Walk on the ___, not on the road.",
+            "a": "footpath"
+          },
+          {
+            "q": "Never cross the road from between parked ___.",
+            "a": "cars"
+          },
+          {
+            "q": "Wait for the green ___ before you walk.",
+            "a": "signal"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two road rules you follow.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. cross at the zebra crossing, look both ways, hold an adult's hand, walk on the footpath."
+      }
+    ]
+  },
+  {
+    "id": "safety-rules-02",
+    "topic": "safety-rules",
+    "number": 2,
+    "level": "Starter",
+    "title": "Helping Mum in the Kitchen",
+    "intro": "Rohan likes to help his mum cook dinner. The kitchen has many things that can hurt us.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the actions.",
+        "marks": 4,
+        "groups": [
+          "Safe",
+          "Not safe"
+        ],
+        "words": [
+          "touch switches with dry hands",
+          "climb on the counter",
+          "ask an adult to light the stove",
+          "touch a hot pan",
+          "poke things into a plug socket",
+          "wipe up spilt water",
+          "play with matchsticks",
+          "keep knives in their stand"
+        ],
+        "a": {
+          "wipe up spilt water": "Safe",
+          "ask an adult to light the stove": "Safe",
+          "keep knives in their stand": "Safe",
+          "touch switches with dry hands": "Safe",
+          "play with matchsticks": "Not safe",
+          "touch a hot pan": "Not safe",
+          "climb on the counter": "Not safe",
+          "poke things into a plug socket": "Not safe"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Tell an adult if you smell",
+            "options": [
+              "gas",
+              "flowers"
+            ],
+            "after": "in the kitchen.",
+            "a": "gas"
+          },
+          {
+            "before": "Keep sharp knives",
+            "options": [
+              "away from",
+              "close to"
+            ],
+            "after": "small children.",
+            "a": "away from"
+          },
+          {
+            "before": "Never touch a switch with",
+            "options": [
+              "wet",
+              "dry"
+            ],
+            "after": "hands.",
+            "a": "wet"
+          },
+          {
+            "before": "Take medicine only from a",
+            "options": [
+              "grown-up",
+              "friend"
+            ],
+            "after": ".",
+            "a": "grown-up"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Matchsticks are fun toys.",
+            "a": false
+          },
+          {
+            "q": "Hot oil can burn your skin.",
+            "a": true
+          },
+          {
+            "q": "Cleaning liquids should be kept high up, away from children.",
+            "a": true
+          },
+          {
+            "q": "It is fine to put a fork into the toaster.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each thing to how it can hurt us.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Knife",
+            "right": "can cut"
+          },
+          {
+            "left": "Stove flame",
+            "right": "can burn"
+          },
+          {
+            "left": "Wet floor",
+            "right": "can make you slip"
+          },
+          {
+            "left": "Plug socket",
+            "right": "can give a shock"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one safety rule for the kitchen.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"Do not touch the stove without an adult.\""
+      }
+    ]
+  },
+  {
+    "id": "safety-rules-03",
+    "topic": "safety-rules",
+    "number": 3,
+    "level": "Starter",
+    "title": "Break Time at School",
+    "intro": "The bell rings and Class 2 runs out to play. Nina and Tom know how to stay safe at school.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "On the stairs, we",
+            "options": [
+              "walk",
+              "run"
+            ],
+            "after": "one step at a time.",
+            "a": "walk"
+          },
+          {
+            "before": "Hold the",
+            "options": [
+              "railing",
+              "bag strap"
+            ],
+            "after": "when you go down the stairs.",
+            "a": "railing"
+          },
+          {
+            "before": "Pass scissors with the",
+            "options": [
+              "handles",
+              "points"
+            ],
+            "after": "facing your friend.",
+            "a": "handles"
+          },
+          {
+            "before": "Wait for your",
+            "options": [
+              "turn",
+              "push"
+            ],
+            "after": "on the slide.",
+            "a": "turn"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Pushing friends in the line is safe.",
+            "a": false
+          },
+          {
+            "q": "We should tell a teacher if someone gets hurt.",
+            "a": true
+          },
+          {
+            "q": "Never point a sharp pencil at anyone's face.",
+            "a": true
+          },
+          {
+            "q": "During a fire drill, we run and shout.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each place to its safety rule.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Swings",
+            "right": "stay away from the front of a moving swing"
+          },
+          {
+            "left": "Corridor",
+            "right": "walk, do not run"
+          },
+          {
+            "left": "School bus",
+            "right": "stay seated till it stops"
+          },
+          {
+            "left": "Classroom",
+            "right": "keep bags under the desk"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the fire drill rules.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "When the fire bell rings, we line up ___.",
+            "a": "quietly"
+          },
+          {
+            "q": "We follow our ___ to the safe place.",
+            "a": "teacher"
+          },
+          {
+            "q": "We never use the ___ during a fire.",
+            "a": "lift"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways to stay safe in the playground.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. wait for my turn, do not push, use the slide feet first, stay away from moving swings."
+      }
+    ]
+  },
+  {
+    "id": "safety-rules-04",
+    "topic": "safety-rules",
+    "number": 4,
+    "level": "Starter",
+    "title": "A Day at Jumeirah Beach",
+    "intro": "Zara and Arjun spend Saturday at the beach with their families. Sun and water can be fun and safe.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each thing to how it keeps us safe.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Sun hat",
+            "right": "shades your face"
+          },
+          {
+            "left": "Sunscreen",
+            "right": "protects skin from sunburn"
+          },
+          {
+            "left": "Armbands",
+            "right": "help small children float"
+          },
+          {
+            "left": "Red flag",
+            "right": "no swimming today"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Swim only when an adult is watching.",
+            "a": true
+          },
+          {
+            "q": "Drink water often on a hot day.",
+            "a": true
+          },
+          {
+            "q": "It is fine to swim far into the deep sea alone.",
+            "a": false
+          },
+          {
+            "q": "Running near the pool edge is safe.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Stay",
+            "options": [
+              "near",
+              "far from"
+            ],
+            "after": "your family on a busy beach.",
+            "a": "near"
+          },
+          {
+            "before": "If you get lost, go to a",
+            "options": [
+              "lifeguard",
+              "stranger"
+            ],
+            "after": ".",
+            "a": "lifeguard"
+          },
+          {
+            "before": "Swim only between the",
+            "options": [
+              "flags",
+              "rocks"
+            ],
+            "after": ".",
+            "a": "flags"
+          },
+          {
+            "before": "Rest in the",
+            "options": [
+              "shade",
+              "hot sun"
+            ],
+            "after": "at noon.",
+            "a": "shade"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Never push anyone into the ___.",
+            "a": "pool"
+          },
+          {
+            "q": "Always wear a life ___ on a boat.",
+            "a": "jacket"
+          },
+          {
+            "q": "If someone is in trouble in the water, shout for the ___.",
+            "a": "lifeguard"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two beach safety rules.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. swim with an adult watching, wear sunscreen, swim between the flags, drink water."
+      }
+    ]
+  },
+  {
+    "id": "safety-rules-05",
+    "topic": "safety-rules",
+    "number": 5,
+    "level": "Practice",
+    "title": "Diwali Night at Home",
+    "intro": "Kavya's family lights diyas and sparklers for Diwali. Fire, strangers and emergencies need care.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the actions.",
+        "marks": 4,
+        "groups": [
+          "Safe",
+          "Not safe"
+        ],
+        "words": [
+          "stand far from crackers",
+          "go near a cracker that did not burst",
+          "keep a bucket of water ready",
+          "hold a burning cracker",
+          "keep crackers in your pocket",
+          "light diyas with an adult",
+          "light crackers alone",
+          "wear cotton clothes"
+        ],
+        "a": {
+          "light diyas with an adult": "Safe",
+          "keep a bucket of water ready": "Safe",
+          "wear cotton clothes": "Safe",
+          "stand far from crackers": "Safe",
+          "light crackers alone": "Not safe",
+          "hold a burning cracker": "Not safe",
+          "go near a cracker that did not burst": "Not safe",
+          "keep crackers in your pocket": "Not safe"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "If a stranger offers you sweets, say",
+            "options": [
+              "no",
+              "yes"
+            ],
+            "after": ".",
+            "a": "no"
+          },
+          {
+            "before": "Do not open the door to",
+            "options": [
+              "strangers",
+              "your family"
+            ],
+            "after": ".",
+            "a": "strangers"
+          },
+          {
+            "before": "Learn your home",
+            "options": [
+              "address",
+              "colour"
+            ],
+            "after": "by heart.",
+            "a": "address"
+          },
+          {
+            "before": "Put a small burn under cool running",
+            "options": [
+              "water",
+              "oil"
+            ],
+            "after": ".",
+            "a": "water"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each emergency to its phone number.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Police in the UAE",
+            "right": "999"
+          },
+          {
+            "left": "Ambulance in the UAE",
+            "right": "998"
+          },
+          {
+            "left": "Fire in the UAE",
+            "right": "997"
+          },
+          {
+            "left": "Any emergency in India",
+            "right": "112"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Tell a trusted adult if someone makes you feel scared.",
+            "a": true
+          },
+          {
+            "q": "We can light crackers inside the house.",
+            "a": false
+          },
+          {
+            "q": "Used sparklers should go into a bucket of water.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "What would you do if you saw smoke in your house?",
+        "marks": 2,
+        "lines": 2,
+        "a": "Tell an adult at once, get out of the house quickly and call the fire service (997 in the UAE, 112 or 101 in India)."
+      }
+    ]
+  }
+]

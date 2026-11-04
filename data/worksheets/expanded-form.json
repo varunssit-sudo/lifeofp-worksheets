@@ -1,0 +1,626 @@
+[
+  {
+    "id": "expanded-form-01",
+    "topic": "expanded-form",
+    "number": 1,
+    "level": "Starter",
+    "title": "The Piggy Bank Count",
+    "intro": "Ira is counting the coins in her piggy bank. Break each number into tens and ones.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write in expanded form.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "47",
+            "a": "40 + 7"
+          },
+          {
+            "q": "63",
+            "a": "60 + 3"
+          },
+          {
+            "q": "85",
+            "a": "80 + 5"
+          },
+          {
+            "q": "29",
+            "a": "20 + 9"
+          },
+          {
+            "q": "51",
+            "a": "50 + 1"
+          },
+          {
+            "q": "96",
+            "a": "90 + 6"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "30 + 8",
+            "a": "38"
+          },
+          {
+            "q": "70 + 4",
+            "a": "74"
+          },
+          {
+            "q": "10 + 9",
+            "a": "19"
+          },
+          {
+            "q": "60 + 0",
+            "a": "60"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the tens and ones to the number.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "3 tens and 4 ones",
+            "right": "34"
+          },
+          {
+            "left": "4 tens and 3 ones",
+            "right": "43"
+          },
+          {
+            "left": "7 tens and 2 ones",
+            "right": "72"
+          },
+          {
+            "left": "2 tens and 7 ones",
+            "right": "27"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "58 = 50 + 8",
+            "a": true
+          },
+          {
+            "q": "36 = 3 + 6",
+            "a": false
+          },
+          {
+            "q": "In 74, the 7 stands for 70.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the piggy bank problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ira has 4 ten-rupee coins and 6 one-rupee coins. She has ₹ ___.",
+            "a": "46"
+          },
+          {
+            "q": "Her brother has ₹52. That is 5 tens and ___ ones.",
+            "a": "2"
+          },
+          {
+            "q": "Ira wants ₹80. That is ___ ten-rupee coins.",
+            "a": "8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "expanded-form-02",
+    "topic": "expanded-form",
+    "number": 2,
+    "level": "Starter",
+    "title": "Beads for Rakhi",
+    "intro": "Pooja is making rakhis with beads. Break big numbers into hundreds, tens and ones.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write in expanded form.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "245",
+            "a": "200 + 40 + 5"
+          },
+          {
+            "q": "368",
+            "a": "300 + 60 + 8"
+          },
+          {
+            "q": "712",
+            "a": "700 + 10 + 2"
+          },
+          {
+            "q": "593",
+            "a": "500 + 90 + 3"
+          },
+          {
+            "q": "836",
+            "a": "800 + 30 + 6"
+          },
+          {
+            "q": "157",
+            "a": "100 + 50 + 7"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "426 = 400 + ___ + 6",
+            "a": "20"
+          },
+          {
+            "q": "681 = ___ + 80 + 1",
+            "a": "600"
+          },
+          {
+            "q": "937 = 900 + 30 + ___",
+            "a": "7"
+          },
+          {
+            "q": "254 = 200 + 50 + ___",
+            "a": "4"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct expanded form.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "342 =",
+            "options": [
+              "300 + 40 + 2",
+              "30 + 40 + 2",
+              "300 + 4 + 2"
+            ],
+            "after": "",
+            "a": "300 + 40 + 2"
+          },
+          {
+            "before": "519 =",
+            "options": [
+              "500 + 10 + 9",
+              "500 + 19 + 9",
+              "50 + 10 + 9"
+            ],
+            "after": "",
+            "a": "500 + 10 + 9"
+          },
+          {
+            "before": "763 =",
+            "options": [
+              "700 + 60 + 30",
+              "700 + 60 + 3",
+              "76 + 3"
+            ],
+            "after": "",
+            "a": "700 + 60 + 3"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the bead problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Pooja has 200 red, 30 gold and 5 white beads. She has ___ beads.",
+            "a": "235"
+          },
+          {
+            "q": "A box has 418 beads. That is 4 hundreds, 1 ten and ___ ones.",
+            "a": "8"
+          },
+          {
+            "q": "A pack of thread costs ₹125. Write 125 in expanded form: ___",
+            "a": "100 + 20 + 5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "expanded-form-03",
+    "topic": "expanded-form",
+    "number": 3,
+    "level": "Starter",
+    "title": "Seed Packets in the Garden",
+    "intro": "Amir and his grandfather are planting seeds in the garden. Some numbers have a zero. A zero means there are none in that place.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write in expanded form.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "305",
+            "a": "300 + 5"
+          },
+          {
+            "q": "450",
+            "a": "400 + 50"
+          },
+          {
+            "q": "708",
+            "a": "700 + 8"
+          },
+          {
+            "q": "920",
+            "a": "900 + 20"
+          },
+          {
+            "q": "601",
+            "a": "600 + 1"
+          },
+          {
+            "q": "870",
+            "a": "800 + 70"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "400 + 7",
+            "a": "407"
+          },
+          {
+            "q": "200 + 60",
+            "a": "260"
+          },
+          {
+            "q": "900 + 3",
+            "a": "903"
+          },
+          {
+            "q": "500 + 40",
+            "a": "540"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "506 = 500 + 6",
+            "a": true
+          },
+          {
+            "q": "830 = 800 + 3",
+            "a": false
+          },
+          {
+            "q": "In 409, there are 0 tens.",
+            "a": true
+          },
+          {
+            "q": "300 + 20 = 320",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each number to its expanded form.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "604",
+            "right": "600 + 4"
+          },
+          {
+            "left": "640",
+            "right": "600 + 40"
+          },
+          {
+            "left": "460",
+            "right": "400 + 60"
+          },
+          {
+            "left": "406",
+            "right": "400 + 6"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the garden problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Grandpa planted 300 bean seeds and 8 pumpkin seeds. He planted ___ seeds.",
+            "a": "308"
+          },
+          {
+            "q": "A packet has 250 seeds. That is 200 + ___.",
+            "a": "50"
+          },
+          {
+            "q": "Grandpa has 4 boxes of 100 seeds and 9 loose seeds. He has ___ seeds.",
+            "a": "409"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "expanded-form-04",
+    "topic": "expanded-form",
+    "number": 4,
+    "level": "Starter",
+    "title": "A Visit to the Old Fort",
+    "intro": "Kavya's family is visiting an old fort in Rajasthan. Find out what each digit stands for.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the value of the 6 in each number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "632",
+            "a": "600"
+          },
+          {
+            "q": "461",
+            "a": "60"
+          },
+          {
+            "q": "586",
+            "a": "6"
+          },
+          {
+            "q": "960",
+            "a": "60"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the number.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "5 hundreds, 2 tens and 9 ones = ___",
+            "a": "529"
+          },
+          {
+            "q": "8 hundreds, 0 tens and 4 ones = ___",
+            "a": "804"
+          },
+          {
+            "q": "3 hundreds, 7 tens and 0 ones = ___",
+            "a": "370"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "The parts are mixed up. Match each to its number.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "7 + 300 + 20",
+            "right": "327"
+          },
+          {
+            "left": "20 + 700 + 3",
+            "right": "723"
+          },
+          {
+            "left": "3 + 200 + 70",
+            "right": "273"
+          },
+          {
+            "left": "300 + 2 + 70",
+            "right": "372"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "In 482, the 8 stands for",
+            "options": [
+              "8",
+              "80",
+              "800"
+            ],
+            "after": ".",
+            "a": "80"
+          },
+          {
+            "before": "In 917, the 9 stands for",
+            "options": [
+              "9",
+              "90",
+              "900"
+            ],
+            "after": ".",
+            "a": "900"
+          },
+          {
+            "before": "In 354, the ones digit is",
+            "options": [
+              "3",
+              "5",
+              "4"
+            ],
+            "after": ".",
+            "a": "4"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the fort problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The fort has 365 steps. The 3 stands for ___.",
+            "a": "300"
+          },
+          {
+            "q": "The tickets cost ₹200 + ₹40 + ₹5. That is ₹ ___.",
+            "a": "245"
+          },
+          {
+            "q": "The wall is 148 m long. In expanded form, that is ___ m.",
+            "a": "100 + 40 + 8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "expanded-form-05",
+    "topic": "expanded-form",
+    "number": 5,
+    "level": "Practice",
+    "title": "The Science Fair Tickets",
+    "intro": "Ethan and Amara are selling tickets at the school science fair. Use expanded form to solve each puzzle.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Find the missing part.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "500 + ___ + 8 = 538",
+            "a": "30"
+          },
+          {
+            "q": "___ + 60 + 2 = 762",
+            "a": "700"
+          },
+          {
+            "q": "400 + 90 + ___ = 497",
+            "a": "7"
+          },
+          {
+            "q": "800 + ___ = 805",
+            "a": "5"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the number name in expanded form.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "two hundred seventy-one",
+            "a": "200 + 70 + 1"
+          },
+          {
+            "q": "six hundred eight",
+            "a": "600 + 8"
+          },
+          {
+            "q": "nine hundred fifty",
+            "a": "900 + 50"
+          },
+          {
+            "q": "four hundred thirty-three",
+            "a": "400 + 30 + 3"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort. Is the expanded form right or wrong?",
+        "marks": 6,
+        "groups": [
+          "Right",
+          "Wrong"
+        ],
+        "words": [
+          "184 = 100 + 80 + 4",
+          "327 = 300 + 20 + 70",
+          "650 = 600 + 50",
+          "409 = 400 + 90",
+          "712 = 700 + 10 + 2",
+          "563 = 500 + 30 + 6"
+        ],
+        "a": {
+          "184 = 100 + 80 + 4": "Right",
+          "327 = 300 + 20 + 70": "Wrong",
+          "650 = 600 + 50": "Right",
+          "409 = 400 + 90": "Wrong",
+          "712 = 700 + 10 + 2": "Right",
+          "563 = 500 + 30 + 6": "Wrong"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In 999, every 9 has the same value.",
+            "a": false
+          },
+          {
+            "q": "100 + 100 + 30 + 4 = 234",
+            "a": true
+          },
+          {
+            "q": "6 hundreds and 15 ones = 615",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the science fair problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ethan sold 300 + 40 + 6 tickets. He sold ___ tickets.",
+            "a": "346"
+          },
+          {
+            "q": "Amara sold 285 tickets. That is 200 + 80 + ___.",
+            "a": "5"
+          },
+          {
+            "q": "The fair made ₹900 + ₹70. That is ₹ ___.",
+            "a": "970"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,566 @@
+[
+  {
+    "id": "making-sentences-01",
+    "topic": "making-sentences",
+    "number": 1,
+    "level": "Starter",
+    "title": "Morning at the Park",
+    "intro": "Aarav goes to the park every morning. A sentence is a group of words that makes complete sense. It starts with a capital letter and ends with a full stop.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is it a sentence? Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "\"The swings are red.\"",
+            "a": true
+          },
+          {
+            "q": "\"under the big tree\"",
+            "a": false
+          },
+          {
+            "q": "\"Aarav feeds the ducks.\"",
+            "a": true
+          },
+          {
+            "q": "\"a dog and\"",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct sentence.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "the slide is tall",
+              "The slide is tall."
+            ],
+            "after": "",
+            "a": "The slide is tall."
+          },
+          {
+            "before": "",
+            "options": [
+              "Birds sing in the trees.",
+              "birds sing in the trees"
+            ],
+            "after": "",
+            "a": "Birds sing in the trees."
+          },
+          {
+            "before": "",
+            "options": [
+              "we play on the grass.",
+              "We play on the grass."
+            ],
+            "after": "",
+            "a": "We play on the grass."
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence correctly with a capital letter and a full stop.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "aarav runs round the park",
+            "a": "Aarav runs round the park."
+          },
+          {
+            "q": "the gardener waters the flowers",
+            "a": "The gardener waters the flowers."
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the start to the end to make a sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "The ducks",
+            "right": "swim in the pond."
+          },
+          {
+            "left": "A boy",
+            "right": "kicks a football."
+          },
+          {
+            "left": "My grandpa",
+            "right": "walks with his stick."
+          },
+          {
+            "left": "The sun",
+            "right": "shines in the sky."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a park.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check capital letter, full stop and complete sense."
+      }
+    ]
+  },
+  {
+    "id": "making-sentences-02",
+    "topic": "making-sentences",
+    "number": 2,
+    "level": "Starter",
+    "title": "Helping in the Kitchen",
+    "intro": "Saanvi is helping her Ammi cook dinner. Put the jumbled words in the right order to make sentences.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Put the words in order to make a sentence.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "cuts / Ammi / onions / the",
+            "a": "Ammi cuts the onions."
+          },
+          {
+            "q": "the / Saanvi / rice / washes",
+            "a": "Saanvi washes the rice."
+          },
+          {
+            "q": "boils / water / the",
+            "a": "The water boils."
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a word to finish the sentence.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Saanvi ___ the table.",
+            "a": "e.g. sets / wipes / cleans"
+          },
+          {
+            "q": "The milk is in the ___.",
+            "a": "e.g. fridge / jug / glass"
+          },
+          {
+            "q": "Ammi ___ the chapatis.",
+            "a": "e.g. makes / rolls / cooks"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that comes next.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Please pass me",
+            "options": [
+              "the",
+              "salt"
+            ],
+            "after": "salt.",
+            "a": "the"
+          },
+          {
+            "before": "We eat dinner at",
+            "options": [
+              "eight",
+              "plate"
+            ],
+            "after": "o'clock.",
+            "a": "eight"
+          },
+          {
+            "before": "Saanvi is",
+            "options": [
+              "stir",
+              "stirring"
+            ],
+            "after": "the dal.",
+            "a": "stirring"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Spoon the on table\" is a correct sentence.",
+            "a": false
+          },
+          {
+            "q": "Every sentence ends with a full stop or a question mark or an exclamation mark.",
+            "a": true
+          },
+          {
+            "q": "A sentence starts with a small letter.",
+            "a": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "making-sentences-03",
+    "topic": "making-sentences",
+    "number": 3,
+    "level": "Starter",
+    "title": "A Visit to the Doctor",
+    "intro": "Ibrahim has a cold and visits Dr Mathew. A telling sentence ends with a full stop. An asking sentence ends with a question mark.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Is it a telling sentence or an asking sentence?",
+        "marks": 6,
+        "groups": [
+          "Telling",
+          "Asking"
+        ],
+        "words": [
+          "Where does it hurt",
+          "I have a cough",
+          "Can you open your mouth",
+          "The nurse is kind",
+          "Do I need medicine",
+          "The clinic is busy"
+        ],
+        "a": {
+          "Where does it hurt": "Asking",
+          "I have a cough": "Telling",
+          "Can you open your mouth": "Asking",
+          "The nurse is kind": "Telling",
+          "Do I need medicine": "Asking",
+          "The clinic is busy": "Telling"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Put a full stop (.) or a question mark (?) at the end.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "How old are you ___",
+            "a": "?"
+          },
+          {
+            "q": "Ibrahim sat on the bed ___",
+            "a": "."
+          },
+          {
+            "q": "Is the medicine sweet ___",
+            "a": "?"
+          },
+          {
+            "q": "Dr Mathew checked my ears ___",
+            "a": "."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that starts the asking sentence.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "What",
+              "Is"
+            ],
+            "after": "is your name?",
+            "a": "What"
+          },
+          {
+            "before": "",
+            "options": [
+              "Are",
+              "When"
+            ],
+            "after": "you feeling better?",
+            "a": "Are"
+          },
+          {
+            "before": "",
+            "options": [
+              "How",
+              "Can"
+            ],
+            "after": "I go to school tomorrow?",
+            "a": "Can"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Make an asking sentence to ask the doctor something.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Start with When, What, Can or Do.",
+            "a": "Answers will vary; check a question mark, e.g. \"When will I get better?\""
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Do you have a fever?\" is an asking sentence.",
+            "a": true
+          },
+          {
+            "q": "An asking sentence ends with a full stop.",
+            "a": false
+          },
+          {
+            "q": "\"I feel much better.\" is a telling sentence.",
+            "a": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "making-sentences-04",
+    "topic": "making-sentences",
+    "number": 4,
+    "level": "Starter",
+    "title": "Our Class Garden",
+    "intro": "Class 2 has a small garden behind the school. Every sentence tells who or what, and what they do.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the who or what to what they do.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "The bees",
+            "right": "buzz around the flowers."
+          },
+          {
+            "left": "Ms Pillai",
+            "right": "gives us seeds."
+          },
+          {
+            "left": "The rain",
+            "right": "falls on the soil."
+          },
+          {
+            "left": "Two worms",
+            "right": "wriggle in the mud."
+          },
+          {
+            "left": "Kofi",
+            "right": "digs a small hole."
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write who or what this sentence is about.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The sunflower is tall.",
+            "a": "The sunflower"
+          },
+          {
+            "q": "Jaya waters the plants.",
+            "a": "Jaya"
+          },
+          {
+            "q": "A bird ate the seeds.",
+            "a": "A bird"
+          },
+          {
+            "q": "Our tomatoes are red.",
+            "a": "Our tomatoes"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a doing word to finish the sentence.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The children ___ the weeds.",
+            "a": "e.g. pull"
+          },
+          {
+            "q": "A butterfly ___ on the rose.",
+            "a": "e.g. sits / lands"
+          },
+          {
+            "q": "We ___ seeds in the pot.",
+            "a": "e.g. plant / sow"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the complete sentence.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "The green leaves.",
+              "The leaves are green."
+            ],
+            "after": "",
+            "a": "The leaves are green."
+          },
+          {
+            "before": "",
+            "options": [
+              "Rohit picks a chilli.",
+              "Picks a chilli."
+            ],
+            "after": "",
+            "a": "Rohit picks a chilli."
+          },
+          {
+            "before": "",
+            "options": [
+              "In the garden.",
+              "Flowers grow in the garden."
+            ],
+            "after": "",
+            "a": "Flowers grow in the garden."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a sentence about a plant you like.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check it says who or what and what it does or is."
+      }
+    ]
+  },
+  {
+    "id": "making-sentences-05",
+    "topic": "making-sentences",
+    "number": 5,
+    "level": "Practice",
+    "title": "A Trip to the Aquarium",
+    "intro": "Lily and her cousins visit the aquarium at Dubai Mall. Make longer sentences and use the right end marks.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Put the words in order to make a sentence.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "swims / the / shark / slowly",
+            "a": "The shark swims slowly."
+          },
+          {
+            "q": "starfish / is / the / where",
+            "a": "Where is the starfish?"
+          },
+          {
+            "q": "saw / we / a / octopus / big",
+            "a": "We saw a big octopus."
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Make each sentence longer. Add a describing word.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Lily saw a fish.",
+            "a": "Answers will vary, e.g. \"Lily saw a tiny orange fish.\""
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct end mark.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Can turtles swim fast",
+            "options": [
+              ".",
+              "?"
+            ],
+            "after": "",
+            "a": "?"
+          },
+          {
+            "before": "The penguins are cold",
+            "options": [
+              ".",
+              "?"
+            ],
+            "after": "",
+            "a": "."
+          },
+          {
+            "before": "Which fish is the biggest",
+            "options": [
+              ".",
+              "?"
+            ],
+            "after": "",
+            "a": "?"
+          },
+          {
+            "before": "My cousin took a photo",
+            "options": [
+              ".",
+              "?"
+            ],
+            "after": "",
+            "a": "."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"jellyfish glow in the dark\" is written correctly.",
+            "a": false
+          },
+          {
+            "q": "\"The tank is full of water.\" makes complete sense.",
+            "a": true
+          },
+          {
+            "q": "\"Big blue the\" is a sentence.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a sea animal: one telling and one asking.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary; one sentence ending in a full stop and one in a question mark."
+      }
+    ]
+  }
+]

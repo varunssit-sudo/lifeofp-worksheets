@@ -1,0 +1,610 @@
+[
+  {
+    "id": "reading-comprehension-01",
+    "topic": "reading-comprehension",
+    "number": 1,
+    "level": "Starter",
+    "title": "Aditi's New Bicycle",
+    "intro": "On Sunday, Aditi got a red bicycle from her grandfather. She rode it in the park near her house. Her friend Sam ran beside her. Aditi felt very happy.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Read the story. Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Aditi got a",
+            "options": [
+              "red",
+              "blue",
+              "green"
+            ],
+            "after": "bicycle.",
+            "a": "red"
+          },
+          {
+            "before": "She got it from her",
+            "options": [
+              "grandfather",
+              "aunt",
+              "teacher"
+            ],
+            "after": ".",
+            "a": "grandfather"
+          },
+          {
+            "before": "She rode it in the",
+            "options": [
+              "park",
+              "school",
+              "market"
+            ],
+            "after": ".",
+            "a": "park"
+          },
+          {
+            "before": "Aditi got the bicycle on",
+            "options": [
+              "Sunday",
+              "Monday",
+              "Friday"
+            ],
+            "after": ".",
+            "a": "Sunday"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Sam ran beside Aditi.",
+            "a": true
+          },
+          {
+            "q": "Aditi rode her bicycle at school.",
+            "a": false
+          },
+          {
+            "q": "Aditi felt sad.",
+            "a": false
+          },
+          {
+            "q": "The park is near Aditi's house.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each question to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Who gave the bicycle?",
+            "right": "Grandfather"
+          },
+          {
+            "left": "What colour was it?",
+            "right": "Red"
+          },
+          {
+            "left": "Where did Aditi ride?",
+            "right": "In the park"
+          },
+          {
+            "left": "When did she get it?",
+            "right": "On Sunday"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blank from the story.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Aditi's friend is called ___.",
+            "a": "Sam"
+          },
+          {
+            "q": "Sam ___ beside her.",
+            "a": "ran"
+          },
+          {
+            "q": "Aditi felt very ___.",
+            "a": "happy"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "What would you do with a new bicycle? Write two sentences.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Two complete sentences about riding or using a bicycle."
+      }
+    ]
+  },
+  {
+    "id": "reading-comprehension-02",
+    "topic": "reading-comprehension",
+    "number": 2,
+    "level": "Starter",
+    "title": "The Dhow Ride",
+    "intro": "Last Friday, Rehan went on a dhow ride at Dubai Creek. The boat was made of wood. He saw seagulls flying over the water. Rehan ate samosas on the boat with his mother.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blank from the story.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Rehan went on a ride at Dubai ___.",
+            "a": "Creek"
+          },
+          {
+            "q": "The boat was made of ___.",
+            "a": "wood"
+          },
+          {
+            "q": "He saw ___ flying over the water.",
+            "a": "seagulls"
+          },
+          {
+            "q": "Rehan ate ___ on the boat.",
+            "a": "samosas"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Read the story. Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Rehan went with his",
+            "options": [
+              "mother",
+              "father",
+              "teacher"
+            ],
+            "after": ".",
+            "a": "mother"
+          },
+          {
+            "before": "The ride was last",
+            "options": [
+              "Friday",
+              "Sunday",
+              "Tuesday"
+            ],
+            "after": ".",
+            "a": "Friday"
+          },
+          {
+            "before": "The birds flew over the",
+            "options": [
+              "water",
+              "desert",
+              "school"
+            ],
+            "after": ".",
+            "a": "water"
+          },
+          {
+            "before": "A dhow is a kind of",
+            "options": [
+              "boat",
+              "car",
+              "train"
+            ],
+            "after": ".",
+            "a": "boat"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The boat was made of plastic.",
+            "a": false
+          },
+          {
+            "q": "Rehan saw seagulls.",
+            "a": true
+          },
+          {
+            "q": "Rehan went on the ride last Friday.",
+            "a": true
+          },
+          {
+            "q": "Rehan ate sandwiches on the boat.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a full sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Where did Rehan go?",
+            "a": "Rehan went on a dhow ride at Dubai Creek."
+          },
+          {
+            "q": "What did Rehan see?",
+            "a": "Rehan saw seagulls flying over the water."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Have you been on a boat? Write one sentence about it.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. One complete sentence with a capital letter and full stop."
+      }
+    ]
+  },
+  {
+    "id": "reading-comprehension-03",
+    "topic": "reading-comprehension",
+    "number": 3,
+    "level": "Starter",
+    "title": "Pongal at Lakshmi's Home",
+    "intro": "Lakshmi lives in Chennai. In January, her family makes sweet pongal in a clay pot. Her mother draws a big kolam at the door. Lakshmi helps her brother feed the cows.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each question to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Where does Lakshmi live?",
+            "right": "In Chennai"
+          },
+          {
+            "left": "When do they make pongal?",
+            "right": "In January"
+          },
+          {
+            "left": "What does the family cook?",
+            "right": "Sweet pongal"
+          },
+          {
+            "left": "Who draws the kolam?",
+            "right": "Her mother"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The pongal is made in a clay pot.",
+            "a": true
+          },
+          {
+            "q": "Lakshmi lives in Mumbai.",
+            "a": false
+          },
+          {
+            "q": "The kolam is drawn at the door.",
+            "a": true
+          },
+          {
+            "q": "Lakshmi feeds the goats.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Read the story. Circle the right word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Lakshmi helps her",
+            "options": [
+              "brother",
+              "sister",
+              "father"
+            ],
+            "after": ".",
+            "a": "brother"
+          },
+          {
+            "before": "The kolam is",
+            "options": [
+              "big",
+              "small",
+              "tiny"
+            ],
+            "after": ".",
+            "a": "big"
+          },
+          {
+            "before": "They feed the",
+            "options": [
+              "cows",
+              "hens",
+              "dogs"
+            ],
+            "after": ".",
+            "a": "cows"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Find a word in the story that is the opposite of:",
+        "marks": 4,
+        "items": [
+          {
+            "q": "small",
+            "a": "big"
+          },
+          {
+            "q": "sour",
+            "a": "sweet"
+          },
+          {
+            "q": "sister",
+            "a": "brother"
+          },
+          {
+            "q": "father",
+            "a": "mother"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a festival your family enjoys.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Two complete sentences naming the festival and something the family does."
+      }
+    ]
+  },
+  {
+    "id": "reading-comprehension-04",
+    "topic": "reading-comprehension",
+    "number": 4,
+    "level": "Starter",
+    "title": "The Lost Puppy",
+    "intro": "One evening, Hana found a small brown puppy near the lift. It was shaking and hungry. Hana gave it milk in a bowl. Later, its owner Mr Das came to take it home.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Read the story. Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Hana found the puppy near the",
+            "options": [
+              "lift",
+              "park",
+              "gate"
+            ],
+            "after": ".",
+            "a": "lift"
+          },
+          {
+            "before": "The puppy was",
+            "options": [
+              "brown",
+              "white",
+              "black"
+            ],
+            "after": ".",
+            "a": "brown"
+          },
+          {
+            "before": "Hana gave it",
+            "options": [
+              "milk",
+              "juice",
+              "rice"
+            ],
+            "after": ".",
+            "a": "milk"
+          },
+          {
+            "before": "She found it in the",
+            "options": [
+              "evening",
+              "morning",
+              "afternoon"
+            ],
+            "after": ".",
+            "a": "evening"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "The puppy was big.",
+            "a": false
+          },
+          {
+            "q": "The puppy was hungry.",
+            "a": true
+          },
+          {
+            "q": "Mr Das is the owner of the puppy.",
+            "a": true
+          },
+          {
+            "q": "Hana kept the puppy for herself.",
+            "a": false
+          },
+          {
+            "q": "The milk was in a bowl.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a full sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Who found the puppy?",
+            "a": "Hana found the puppy."
+          },
+          {
+            "q": "Who came to take the puppy home?",
+            "a": "Mr Das came to take the puppy home."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "How do you think the puppy felt when Mr Das came? Write one or two sentences.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. The puppy felt happy and safe. Accept any sensible feeling with a reason."
+      }
+    ]
+  },
+  {
+    "id": "reading-comprehension-05",
+    "topic": "reading-comprehension",
+    "number": 5,
+    "level": "Practice",
+    "title": "The School Library",
+    "intro": "Every Tuesday, Class 2C goes to the school library. Ms Rao reads a story about a clever crow. Arnav picks a book about space, and Mei picks one about dinosaurs. They must return the books next Tuesday.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each question to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Who reads the story?",
+            "right": "Ms Rao"
+          },
+          {
+            "left": "When does Class 2C go?",
+            "right": "Every Tuesday"
+          },
+          {
+            "left": "What book does Arnav pick?",
+            "right": "A book about space"
+          },
+          {
+            "left": "Where does the class go?",
+            "right": "The school library"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Mei picks a book about dinosaurs.",
+            "a": true
+          },
+          {
+            "q": "The story is about a clever fox.",
+            "a": false
+          },
+          {
+            "q": "The children keep the books for a month.",
+            "a": false
+          },
+          {
+            "q": "Ms Rao reads a story to the class.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Read the story. Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The crow in the story is",
+            "options": [
+              "clever",
+              "lazy",
+              "sleepy"
+            ],
+            "after": ".",
+            "a": "clever"
+          },
+          {
+            "before": "Mei likes books about",
+            "options": [
+              "dinosaurs",
+              "space",
+              "birds"
+            ],
+            "after": ".",
+            "a": "dinosaurs"
+          },
+          {
+            "before": "The books go back next",
+            "options": [
+              "Tuesday",
+              "Monday",
+              "Friday"
+            ],
+            "after": ".",
+            "a": "Tuesday"
+          },
+          {
+            "before": "The class in the story is",
+            "options": [
+              "2C",
+              "2A",
+              "2B"
+            ],
+            "after": ".",
+            "a": "2C"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a full sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "When must they return the books?",
+            "a": "They must return the books next Tuesday."
+          },
+          {
+            "q": "What is the story about?",
+            "a": "The story is about a clever crow."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which book would you pick at the library? Write why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Names a kind of book and gives a reason, e.g. I would pick a book about sharks because I like the sea."
+      }
+    ]
+  }
+]

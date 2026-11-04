@@ -1,0 +1,602 @@
+[
+  {
+    "id": "communication-01",
+    "topic": "communication",
+    "number": 1,
+    "level": "Starter",
+    "title": "A Letter to Grandma in Kochi",
+    "intro": "Nisha writes a letter to her grandma. Her mum helps her post it.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Put the steps in order. Write 1, 2, 3, 4.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Drop it in the post box.  Write the letter.  The postman delivers it.  Put it in an envelope with a stamp and the address.",
+            "a": "3, 1, 4, 2 (write, envelope with stamp and address, post box, postman delivers)"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the word to its meaning.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "envelope",
+            "right": "a paper cover for a letter"
+          },
+          {
+            "left": "stamp",
+            "right": "small paper we stick to pay for posting"
+          },
+          {
+            "left": "postman",
+            "right": "person who delivers letters"
+          },
+          {
+            "left": "address",
+            "right": "where the person lives"
+          },
+          {
+            "left": "post box",
+            "right": "where we drop letters"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A letter takes some days to reach.",
+            "a": true
+          },
+          {
+            "q": "We must write the address on the envelope.",
+            "a": true
+          },
+          {
+            "q": "A letter reaches in one second.",
+            "a": false
+          },
+          {
+            "q": "We can buy stamps at the post office.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Nisha sticks a ___ on the envelope.",
+            "a": "stamp"
+          },
+          {
+            "q": "The ___ brings letters to our home.",
+            "a": "postman"
+          },
+          {
+            "q": "We send letters through the ___ office.",
+            "a": "post"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing you would tell your grandma in a letter.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I came first in the race.\""
+      }
+    ]
+  },
+  {
+    "id": "communication-02",
+    "topic": "communication",
+    "number": 2,
+    "level": "Starter",
+    "title": "Calling Dad on His Trip",
+    "intro": "Dad is away for work in Singapore. Zayan and his sister Lina call him from Abu Dhabi.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "We can talk to someone far away on a phone.",
+            "a": true
+          },
+          {
+            "q": "A mobile phone can be carried anywhere.",
+            "a": true
+          },
+          {
+            "q": "In a video call we can see the person we talk to.",
+            "a": true
+          },
+          {
+            "q": "A telephone works without any network.",
+            "a": false
+          },
+          {
+            "q": "We must not call strangers or share our home address with them.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A phone fixed at home is a",
+            "options": [
+              "landline",
+              "mobile"
+            ],
+            "after": "phone.",
+            "a": "landline"
+          },
+          {
+            "before": "We can",
+            "options": [
+              "see",
+              "smell"
+            ],
+            "after": "Dad on a video call.",
+            "a": "see"
+          },
+          {
+            "before": "A phone message we type is a",
+            "options": [
+              "text",
+              "stamp"
+            ],
+            "after": "message.",
+            "a": "text"
+          },
+          {
+            "before": "A phone call is",
+            "options": [
+              "faster",
+              "slower"
+            ],
+            "after": "than a letter.",
+            "a": "faster"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: can we hear the person's voice?",
+        "marks": 6,
+        "groups": [
+          "We hear their voice",
+          "We read their words"
+        ],
+        "words": [
+          "phone call",
+          "video call",
+          "voice note",
+          "letter",
+          "postcard",
+          "text message"
+        ],
+        "a": {
+          "phone call": "We hear their voice",
+          "video call": "We hear their voice",
+          "voice note": "We hear their voice",
+          "letter": "We read their words",
+          "postcard": "We read their words",
+          "text message": "We read their words"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Lina ___ Dad's number on the phone.",
+            "a": "dials"
+          },
+          {
+            "q": "We charge a mobile phone when its ___ is low.",
+            "a": "battery"
+          },
+          {
+            "q": "Zayan says ___ when Dad picks up the call.",
+            "a": "hello"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Who would you like to call? Write why.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I would call my uncle to wish him happy birthday.\""
+      }
+    ]
+  },
+  {
+    "id": "communication-03",
+    "topic": "communication",
+    "number": 3,
+    "level": "Starter",
+    "title": "Our Class Email to a Pen Pal",
+    "intro": "Class 2 in Delhi writes an email to a pen pal class in London. Ms Thomas types it on the computer.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "An email is sent through a computer or a phone.",
+            "a": true
+          },
+          {
+            "q": "We need the internet to send an email.",
+            "a": true
+          },
+          {
+            "q": "An email needs a stamp.",
+            "a": false
+          },
+          {
+            "q": "Every email address has the sign @ in it.",
+            "a": true
+          },
+          {
+            "q": "An email can reach another country in a few seconds.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the word to its meaning.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "email",
+            "right": "a message sent on the internet"
+          },
+          {
+            "left": "inbox",
+            "right": "where new emails arrive"
+          },
+          {
+            "left": "send",
+            "right": "the button that sends a message"
+          },
+          {
+            "left": "keyboard",
+            "right": "we type words with it"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Ms Thomas uses a",
+            "options": [
+              "computer",
+              "kettle"
+            ],
+            "after": "to send the email.",
+            "a": "computer"
+          },
+          {
+            "before": "An email is",
+            "options": [
+              "faster",
+              "slower"
+            ],
+            "after": "than a letter.",
+            "a": "faster"
+          },
+          {
+            "before": "We can attach a",
+            "options": [
+              "photo",
+              "pencil"
+            ],
+            "after": "to an email.",
+            "a": "photo"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write old way or new way.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "letter by pigeon",
+            "a": "old way"
+          },
+          {
+            "q": "email",
+            "a": "new way"
+          },
+          {
+            "q": "video call",
+            "a": "new way"
+          },
+          {
+            "q": "drum beats",
+            "a": "old way"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing your class could tell a pen pal.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. our school name, our favourite game, a festival we celebrate."
+      }
+    ]
+  },
+  {
+    "id": "communication-04",
+    "topic": "communication",
+    "number": 4,
+    "level": "Starter",
+    "title": "The News at Breakfast",
+    "intro": "At breakfast Grandpa reads the newspaper, Mum listens to the radio and Ali watches the news on TV.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the ways.",
+        "marks": 6,
+        "groups": [
+          "Talks to many people at once",
+          "Talks to one person"
+        ],
+        "words": [
+          "newspaper",
+          "radio",
+          "television",
+          "notice board",
+          "letter to a friend",
+          "phone call to Nani"
+        ],
+        "a": {
+          "newspaper": "Talks to many people at once",
+          "radio": "Talks to many people at once",
+          "television": "Talks to many people at once",
+          "notice board": "Talks to many people at once",
+          "letter to a friend": "Talks to one person",
+          "phone call to Nani": "Talks to one person"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "A newspaper tells us news every morning.",
+            "a": true
+          },
+          {
+            "q": "We can only listen to a radio, not watch it.",
+            "a": true
+          },
+          {
+            "q": "A television shows pictures and sound.",
+            "a": true
+          },
+          {
+            "q": "A notice board tells news to everyone in school.",
+            "a": true
+          },
+          {
+            "q": "A letter is the fastest way to share news.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Grandpa",
+            "options": [
+              "reads",
+              "hears"
+            ],
+            "after": "the newspaper.",
+            "a": "reads"
+          },
+          {
+            "before": "Mum",
+            "options": [
+              "listens to",
+              "reads"
+            ],
+            "after": "the radio.",
+            "a": "listens to"
+          },
+          {
+            "before": "Ali",
+            "options": [
+              "watches",
+              "smells"
+            ],
+            "after": "the news on TV.",
+            "a": "watches"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ways to share news and ideas are called means of ___.",
+            "a": "communication"
+          },
+          {
+            "q": "The school puts up a sign about Sports Day on the notice ___.",
+            "a": "board"
+          },
+          {
+            "q": "Papers that bring us news are called ___.",
+            "a": "newspapers"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way you get news.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. TV, newspaper, radio, my teacher, the school notice board."
+      }
+    ]
+  },
+  {
+    "id": "communication-05",
+    "topic": "communication",
+    "number": 5,
+    "level": "Practice",
+    "title": "Signs on the Road to School",
+    "intro": "Mehul and Grace walk to school in Ajman with their mums. They see many signs and signals.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the sign or signal to its message.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "red light",
+            "right": "stop"
+          },
+          {
+            "left": "green light",
+            "right": "go"
+          },
+          {
+            "left": "zebra crossing",
+            "right": "cross the road here"
+          },
+          {
+            "left": "a school bell",
+            "right": "class time"
+          },
+          {
+            "left": "a thumbs up",
+            "right": "well done"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We can share a message without speaking.",
+            "a": true
+          },
+          {
+            "q": "Some people talk using sign language with their hands.",
+            "a": true
+          },
+          {
+            "q": "Long ago, people sent messages with pigeons.",
+            "a": true
+          },
+          {
+            "q": "A traffic signal talks in words.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the ways.",
+        "marks": 6,
+        "groups": [
+          "Old way",
+          "New way"
+        ],
+        "words": [
+          "messenger on a horse",
+          "drum beats",
+          "carrier pigeon",
+          "email",
+          "mobile phone",
+          "video call"
+        ],
+        "a": {
+          "messenger on a horse": "Old way",
+          "drum beats": "Old way",
+          "carrier pigeon": "Old way",
+          "email": "New way",
+          "mobile phone": "New way",
+          "video call": "New way"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "In the UAE we call",
+            "options": [
+              "999",
+              "123"
+            ],
+            "after": "for the police.",
+            "a": "999"
+          },
+          {
+            "before": "A",
+            "options": [
+              "siren",
+              "whisper"
+            ],
+            "after": "tells cars to make way for an ambulance.",
+            "a": "siren"
+          },
+          {
+            "before": "The fastest way to send a message far away is",
+            "options": [
+              "email",
+              "a letter"
+            ],
+            "after": ".",
+            "a": "email"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways to send a message to a friend.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Any two, e.g. a letter, a phone call, a text message, an email, a video call."
+      }
+    ]
+  }
+]

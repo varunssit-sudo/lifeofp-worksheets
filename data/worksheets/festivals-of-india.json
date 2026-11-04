@@ -1,0 +1,613 @@
+[
+  {
+    "id": "festivals-of-india-01",
+    "topic": "festivals-of-india",
+    "number": 1,
+    "level": "Starter",
+    "title": "Diwali at Nani's House",
+    "intro": "Riya and her cousins visit Nani in Jaipur for Diwali. The whole house is bright with lamps.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Diwali is called the festival of ___.",
+            "a": "lights"
+          },
+          {
+            "q": "Small clay lamps lit on Diwali are called ___.",
+            "a": "diyas"
+          },
+          {
+            "q": "Riya makes a colourful ___ at the front door.",
+            "a": "rangoli"
+          },
+          {
+            "q": "On Diwali, people pray to Goddess ___.",
+            "a": "Lakshmi"
+          },
+          {
+            "q": "Diwali celebrates Lord Rama coming home to ___.",
+            "a": "Ayodhya"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Diwali usually comes in October or November.",
+            "a": true
+          },
+          {
+            "q": "People clean and decorate their homes before Diwali.",
+            "a": true
+          },
+          {
+            "q": "Children should light crackers only with an adult.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the things into Diwali and Not Diwali.",
+        "marks": 8,
+        "groups": [
+          "Diwali",
+          "Not Diwali"
+        ],
+        "words": [
+          "diyas",
+          "rangoli",
+          "sparklers",
+          "sweets box",
+          "snowman",
+          "rakhi",
+          "water balloons",
+          "kite"
+        ],
+        "a": {
+          "diyas": "Diwali",
+          "rangoli": "Diwali",
+          "sparklers": "Diwali",
+          "sweets box": "Diwali",
+          "snowman": "Not Diwali",
+          "rakhi": "Not Diwali",
+          "water balloons": "Not Diwali",
+          "kite": "Not Diwali"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Nani makes",
+            "options": [
+              "ladoos",
+              "ice cubes"
+            ],
+            "after": "for Diwali.",
+            "a": "ladoos"
+          },
+          {
+            "before": "We light diyas in the",
+            "options": [
+              "morning",
+              "evening"
+            ],
+            "after": "when it gets dark.",
+            "a": "evening"
+          },
+          {
+            "before": "On Diwali we say",
+            "options": [
+              "Happy Diwali",
+              "Eid Mubarak"
+            ],
+            "after": "to our friends.",
+            "a": "Happy Diwali"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things your family does on Diwali.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"We light diyas.\" \"We share sweets with neighbours.\""
+      }
+    ]
+  },
+  {
+    "id": "festivals-of-india-02",
+    "topic": "festivals-of-india",
+    "number": 2,
+    "level": "Starter",
+    "title": "Holi in the Colony Park",
+    "intro": "It is Holi! Kabir and his friends play with colours in the colony park in Pune.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each Holi word to its meaning.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "gulal",
+            "right": "coloured powder"
+          },
+          {
+            "left": "pichkari",
+            "right": "water gun for colours"
+          },
+          {
+            "left": "gujiya",
+            "right": "sweet stuffed dumpling"
+          },
+          {
+            "left": "Holika Dahan",
+            "right": "bonfire the night before"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Holi is the festival of colours.",
+            "a": true
+          },
+          {
+            "q": "Holi comes in spring, in the month of March.",
+            "a": true
+          },
+          {
+            "q": "People light a bonfire on the night before Holi.",
+            "a": true
+          },
+          {
+            "q": "We should throw colours into people's eyes.",
+            "a": false
+          },
+          {
+            "q": "Holi is celebrated in winter with snow.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Kabir sprays coloured water with his ___.",
+            "a": "pichkari"
+          },
+          {
+            "q": "Holi shows that good wins over ___.",
+            "a": "evil"
+          },
+          {
+            "q": "After playing, we wash off the colours with ___.",
+            "a": "water"
+          },
+          {
+            "q": "On Holi we say \"Happy ___!\" to everyone.",
+            "a": "Holi"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the safe choice.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Kabir uses",
+            "options": [
+              "natural colours",
+              "paint"
+            ],
+            "after": "made from flowers.",
+            "a": "natural colours"
+          },
+          {
+            "before": "Before playing, Meera puts",
+            "options": [
+              "oil",
+              "glue"
+            ],
+            "after": "on her hair and skin.",
+            "a": "oil"
+          },
+          {
+            "before": "We play Holi",
+            "options": [
+              "gently",
+              "roughly"
+            ],
+            "after": "with little children.",
+            "a": "gently"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way to play Holi safely.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"Use dry natural colours.\" or \"Keep colours away from eyes.\""
+      }
+    ]
+  },
+  {
+    "id": "festivals-of-india-03",
+    "topic": "festivals-of-india",
+    "number": 3,
+    "level": "Starter",
+    "title": "Eid with Our Neighbours in Dubai",
+    "intro": "Zayan's family invites their neighbours in Dubai for Eid. Everyone wears new clothes.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Eid ul-Fitr comes after the holy month of ___.",
+            "a": "Ramadan"
+          },
+          {
+            "q": "During Ramadan, many Muslims ___ from sunrise to sunset.",
+            "a": "fast"
+          },
+          {
+            "q": "Eid begins when people see the new ___ in the sky.",
+            "a": "moon"
+          },
+          {
+            "q": "On Eid, people go to the ___ to pray.",
+            "a": "mosque"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each Eid word to its meaning.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Eid Mubarak",
+            "right": "a greeting for Eid"
+          },
+          {
+            "left": "sheer khurma",
+            "right": "sweet milk dish with vermicelli"
+          },
+          {
+            "left": "Eidi",
+            "right": "gift or money for children"
+          },
+          {
+            "left": "iftar",
+            "right": "meal that ends the fast"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "On Eid, people hug and greet each other.",
+            "a": true
+          },
+          {
+            "q": "Children often get Eidi from elders.",
+            "a": true
+          },
+          {
+            "q": "In Ramadan, people eat a meal at sunset to end the day's fast.",
+            "a": true
+          },
+          {
+            "q": "Eid is celebrated by lighting a bonfire.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Zayan wishes his friend",
+            "options": [
+              "Eid Mubarak",
+              "Happy Holi"
+            ],
+            "after": "in the morning.",
+            "a": "Eid Mubarak"
+          },
+          {
+            "before": "Ammi serves",
+            "options": [
+              "sheer khurma",
+              "plum cake"
+            ],
+            "after": "to the guests.",
+            "a": "sheer khurma"
+          },
+          {
+            "before": "Many families give food to the",
+            "options": [
+              "poor",
+              "shops"
+            ],
+            "after": "on Eid.",
+            "a": "poor"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write how you would welcome a friend at your festival.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"I would greet my friend and share sweets.\""
+      }
+    ]
+  },
+  {
+    "id": "festivals-of-india-04",
+    "topic": "festivals-of-india",
+    "number": 4,
+    "level": "Starter",
+    "title": "The School Christmas Concert",
+    "intro": "Class 2 in Kochi is getting ready for the Christmas concert. Everyone is singing.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Christmas is celebrated on 25th December.",
+            "a": true
+          },
+          {
+            "q": "Christmas is the birthday of Jesus Christ.",
+            "a": true
+          },
+          {
+            "q": "People go to church on Christmas.",
+            "a": true
+          },
+          {
+            "q": "Christmas songs are called carols.",
+            "a": true
+          },
+          {
+            "q": "Santa Claus comes on Holi.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Children say \"Merry ___\" to their friends.",
+            "a": "Christmas"
+          },
+          {
+            "q": "We hang a shining ___ at the top of the tree.",
+            "a": "star"
+          },
+          {
+            "q": "Santa Claus wears a red ___.",
+            "a": "suit"
+          },
+          {
+            "q": "Christians pray in a ___.",
+            "a": "church"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the things into Christmas and Eid.",
+        "marks": 8,
+        "groups": [
+          "Christmas",
+          "Eid"
+        ],
+        "words": [
+          "carols",
+          "Christmas tree",
+          "plum cake",
+          "Santa Claus",
+          "new moon",
+          "sheer khurma",
+          "Eidi",
+          "Eid Mubarak"
+        ],
+        "a": {
+          "carols": "Christmas",
+          "Christmas tree": "Christmas",
+          "plum cake": "Christmas",
+          "Santa Claus": "Christmas",
+          "new moon": "Eid",
+          "sheer khurma": "Eid",
+          "Eidi": "Eid",
+          "Eid Mubarak": "Eid"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Christmas comes in",
+            "options": [
+              "winter",
+              "summer"
+            ],
+            "after": "in India.",
+            "a": "winter"
+          },
+          {
+            "before": "Aunty Rose bakes a",
+            "options": [
+              "plum cake",
+              "gujiya"
+            ],
+            "after": "for Christmas.",
+            "a": "plum cake"
+          },
+          {
+            "before": "We decorate a",
+            "options": [
+              "Christmas tree",
+              "kite"
+            ],
+            "after": "with bells and lights.",
+            "a": "Christmas tree"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way you can share joy at Christmas.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I can give a card to my friend.\""
+      }
+    ]
+  },
+  {
+    "id": "festivals-of-india-05",
+    "topic": "festivals-of-india",
+    "number": 5,
+    "level": "Practice",
+    "title": "Our Class Festival Calendar",
+    "intro": "Ms Thomas and Class 2 are making a festival calendar for the year. India has religious, harvest and national festivals.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each festival to what we see.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "Raksha Bandhan",
+            "right": "sister ties a rakhi"
+          },
+          {
+            "left": "Onam",
+            "right": "flower carpet called pookalam"
+          },
+          {
+            "left": "Pongal",
+            "right": "rice cooked in a new pot"
+          },
+          {
+            "left": "Ganesh Chaturthi",
+            "right": "idols of Lord Ganesha"
+          },
+          {
+            "left": "Guru Nanak Jayanti",
+            "right": "prayers at the gurudwara"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the festivals into Religious and National.",
+        "marks": 6,
+        "groups": [
+          "Religious",
+          "National"
+        ],
+        "words": [
+          "Diwali",
+          "Eid",
+          "Christmas",
+          "Independence Day",
+          "Republic Day",
+          "Gandhi Jayanti"
+        ],
+        "a": {
+          "Diwali": "Religious",
+          "Eid": "Religious",
+          "Christmas": "Religious",
+          "Independence Day": "National",
+          "Republic Day": "National",
+          "Gandhi Jayanti": "National"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the dates.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Independence Day is on 15th ___.",
+            "a": "August"
+          },
+          {
+            "q": "Republic Day is on 26th ___.",
+            "a": "January"
+          },
+          {
+            "q": "Gandhi Jayanti is on 2nd ___.",
+            "a": "October"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Pongal and Onam are harvest festivals.",
+            "a": true
+          },
+          {
+            "q": "We hoist the national flag on Independence Day.",
+            "a": true
+          },
+          {
+            "q": "Only one religion celebrates festivals in India.",
+            "a": false
+          },
+          {
+            "q": "Baisakhi is a harvest festival of Punjab.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name your favourite festival and write why you like it.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"My favourite festival is Onam because we make a pookalam.\""
+      }
+    ]
+  }
+]

@@ -1,0 +1,661 @@
+[
+  {
+    "id": "even-and-odd-numbers-01",
+    "topic": "even-and-odd-numbers",
+    "number": 1,
+    "level": "Starter",
+    "title": "Pairs of Shoes at the Door",
+    "intro": "Everyone leaves their shoes at the door at Neha's house party. Even numbers can be put into pairs. Odd numbers have one left over.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the numbers into even and odd.",
+        "marks": 8,
+        "groups": [
+          "Even",
+          "Odd"
+        ],
+        "words": [
+          "6",
+          "9",
+          "12",
+          "15",
+          "20",
+          "7",
+          "18",
+          "13"
+        ],
+        "a": {
+          "6": "Even",
+          "9": "Odd",
+          "12": "Even",
+          "15": "Odd",
+          "20": "Even",
+          "7": "Odd",
+          "18": "Even",
+          "13": "Odd"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "An even number can be put into pairs with none left over.",
+            "a": true
+          },
+          {
+            "q": "8 shoes make 4 pairs with none left over.",
+            "a": true
+          },
+          {
+            "q": "11 is an even number.",
+            "a": false
+          },
+          {
+            "q": "An odd number always has one left over when we make pairs.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle even or odd.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "14",
+            "options": [
+              "even",
+              "odd"
+            ],
+            "after": "",
+            "a": "even"
+          },
+          {
+            "before": "17",
+            "options": [
+              "even",
+              "odd"
+            ],
+            "after": "",
+            "a": "odd"
+          },
+          {
+            "before": "10",
+            "options": [
+              "even",
+              "odd"
+            ],
+            "after": "",
+            "a": "even"
+          },
+          {
+            "before": "19",
+            "options": [
+              "even",
+              "odd"
+            ],
+            "after": "",
+            "a": "odd"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the shoe problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There are 16 shoes at the door. They make ___ pairs.",
+            "a": "8"
+          },
+          {
+            "q": "There are 9 socks in the basket. After making pairs, ___ sock is left over.",
+            "a": "1"
+          },
+          {
+            "q": "Neha counted 10 slippers. Is 10 even or odd? ___",
+            "a": "even"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "even-and-odd-numbers-02",
+    "topic": "even-and-odd-numbers",
+    "number": 2,
+    "level": "Starter",
+    "title": "House Numbers on Our Street",
+    "intro": "Max lives on a street where even house numbers are on one side and odd house numbers are on the other. Look at the ones digit to tell.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Even numbers end in 0, 2, 4, 6 or ___.",
+            "a": "8"
+          },
+          {
+            "q": "Odd numbers end in 1, 3, 5, 7 or ___.",
+            "a": "9"
+          },
+          {
+            "q": "The ones digit of 47 is 7, so 47 is ___.",
+            "a": "odd"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the house numbers.",
+        "marks": 8,
+        "groups": [
+          "Even",
+          "Odd"
+        ],
+        "words": [
+          "34",
+          "51",
+          "68",
+          "27",
+          "90",
+          "85",
+          "46",
+          "73"
+        ],
+        "a": {
+          "34": "Even",
+          "51": "Odd",
+          "68": "Even",
+          "27": "Odd",
+          "90": "Even",
+          "85": "Odd",
+          "46": "Even",
+          "73": "Odd"
+        }
+      },
+      {
+        "type": "pairs",
+        "title": "Write the next even number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "38",
+            "a": "40"
+          },
+          {
+            "q": "55",
+            "a": "56"
+          },
+          {
+            "q": "70",
+            "a": "72"
+          },
+          {
+            "q": "89",
+            "a": "90"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the next odd number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "42",
+            "a": "43"
+          },
+          {
+            "q": "67",
+            "a": "69"
+          },
+          {
+            "q": "80",
+            "a": "81"
+          },
+          {
+            "q": "99",
+            "a": "101"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the street problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Max lives at number 36. He lives on the ___ side.",
+            "a": "even"
+          },
+          {
+            "q": "His friend Aditi lives at number 41. Her house is on the ___ side.",
+            "a": "odd"
+          },
+          {
+            "q": "The even houses go 32, 34, 36, 38. The next even house is number ___.",
+            "a": "40"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "even-and-odd-numbers-03",
+    "topic": "even-and-odd-numbers",
+    "number": 3,
+    "level": "Starter",
+    "title": "Counting Birds at the Park",
+    "intro": "Sana and Dhruv are counting birds at the park. Count in twos to find even and odd numbers.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Count in twos. Fill in the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "2, 4, 6, ___, 10",
+            "a": "8"
+          },
+          {
+            "q": "21, 23, 25, ___, 29",
+            "a": "27"
+          },
+          {
+            "q": "44, 46, ___, 50, 52",
+            "a": "48"
+          },
+          {
+            "q": "63, ___, 67, 69, 71",
+            "a": "65"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the even numbers between the two numbers.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "11 and 17",
+            "a": "12, 14, 16"
+          },
+          {
+            "q": "24 and 30",
+            "a": "26, 28"
+          },
+          {
+            "q": "57 and 63",
+            "a": "58, 60, 62"
+          },
+          {
+            "q": "80 and 86",
+            "a": "82, 84"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the odd number.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "26",
+              "33",
+              "48"
+            ],
+            "after": "",
+            "a": "33"
+          },
+          {
+            "before": "",
+            "options": [
+              "70",
+              "54",
+              "91"
+            ],
+            "after": "",
+            "a": "91"
+          },
+          {
+            "before": "",
+            "options": [
+              "65",
+              "82",
+              "16"
+            ],
+            "after": "",
+            "a": "65"
+          },
+          {
+            "before": "",
+            "options": [
+              "40",
+              "58",
+              "77"
+            ],
+            "after": "",
+            "a": "77"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "When we count in twos from 2, we say only even numbers.",
+            "a": true
+          },
+          {
+            "q": "When we count in twos from 1, we say only odd numbers.",
+            "a": true
+          },
+          {
+            "q": "The number just after an even number is even.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the bird problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Sana saw 18 pigeons. Is 18 even or odd? ___",
+            "a": "even"
+          },
+          {
+            "q": "Dhruv saw 2 parrots on each of 7 branches. That is ___ parrots.",
+            "a": "14"
+          },
+          {
+            "q": "There are 25 ducks. If they swim in pairs, ___ duck is left alone.",
+            "a": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "even-and-odd-numbers-04",
+    "topic": "even-and-odd-numbers",
+    "number": 4,
+    "level": "Starter",
+    "title": "The Class Lucky Draw",
+    "intro": "Class 2 is having a lucky draw with numbered tickets. Even tickets win a pencil. Odd tickets win an eraser.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the ticket numbers.",
+        "marks": 6,
+        "groups": [
+          "Even",
+          "Odd"
+        ],
+        "words": [
+          "124",
+          "307",
+          "450",
+          "289",
+          "516",
+          "633"
+        ],
+        "a": {
+          "124": "Even",
+          "307": "Odd",
+          "450": "Even",
+          "289": "Odd",
+          "516": "Even",
+          "633": "Odd"
+        }
+      },
+      {
+        "type": "pairs",
+        "title": "Add. Then write even or odd.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "4 + 6",
+            "a": "10, even"
+          },
+          {
+            "q": "3 + 5",
+            "a": "8, even"
+          },
+          {
+            "q": "2 + 7",
+            "a": "9, odd"
+          },
+          {
+            "q": "8 + 5",
+            "a": "13, odd"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Even + even always gives an even number.",
+            "a": true
+          },
+          {
+            "q": "Odd + odd always gives an odd number.",
+            "a": false
+          },
+          {
+            "q": "Even + odd always gives an odd number.",
+            "a": true
+          },
+          {
+            "q": "The number 700 is odd.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle even or odd.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "358",
+            "options": [
+              "even",
+              "odd"
+            ],
+            "after": "",
+            "a": "even"
+          },
+          {
+            "before": "241",
+            "options": [
+              "even",
+              "odd"
+            ],
+            "after": "",
+            "a": "odd"
+          },
+          {
+            "before": "902",
+            "options": [
+              "even",
+              "odd"
+            ],
+            "after": "",
+            "a": "even"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the lucky draw problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Lucas got ticket 236. What does he win? ___",
+            "a": "pencil"
+          },
+          {
+            "q": "Myra got ticket 415. What does she win? ___",
+            "a": "eraser"
+          },
+          {
+            "q": "Tickets 101 to 110 are left. ___ of them are even.",
+            "a": "5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "even-and-odd-numbers-05",
+    "topic": "even-and-odd-numbers",
+    "number": 5,
+    "level": "Practice",
+    "title": "Seats on the School Bus",
+    "intro": "The school bus has seats for two. Ayaan and Saanvi help the driver count. Use even and odd numbers to solve.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "biggest 2-digit even number",
+            "a": "98"
+          },
+          {
+            "q": "smallest 2-digit odd number",
+            "a": "11"
+          },
+          {
+            "q": "smallest 3-digit even number",
+            "a": "100"
+          },
+          {
+            "q": "biggest 3-digit odd number",
+            "a": "999"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Is the answer even or odd? Circle it.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "26 + 14 is",
+            "options": [
+              "even",
+              "odd"
+            ],
+            "after": "",
+            "a": "even"
+          },
+          {
+            "before": "35 + 12 is",
+            "options": [
+              "even",
+              "odd"
+            ],
+            "after": "",
+            "a": "odd"
+          },
+          {
+            "before": "47 + 29 is",
+            "options": [
+              "even",
+              "odd"
+            ],
+            "after": "",
+            "a": "even"
+          },
+          {
+            "before": "63 + 18 is",
+            "options": [
+              "even",
+              "odd"
+            ],
+            "after": "",
+            "a": "odd"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each number to the even number just before it.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "81",
+            "right": "80"
+          },
+          {
+            "left": "60",
+            "right": "58"
+          },
+          {
+            "left": "145",
+            "right": "144"
+          },
+          {
+            "left": "299",
+            "right": "298"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There are 5 even numbers between 10 and 20.",
+            "a": false
+          },
+          {
+            "q": "Every number that ends in 5 is odd.",
+            "a": true
+          },
+          {
+            "q": "0 is an even number.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the bus problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "27 children get on the bus. They sit in pairs. ___ child sits alone.",
+            "a": "1"
+          },
+          {
+            "q": "The bus has 20 seats for two. ___ children can sit.",
+            "a": "40"
+          },
+          {
+            "q": "There are 34 children on the bus. Is 34 even or odd? ___",
+            "a": "even"
+          }
+        ]
+      }
+    ]
+  }
+]

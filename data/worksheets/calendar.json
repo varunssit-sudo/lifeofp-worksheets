@@ -1,0 +1,667 @@
+[
+  {
+    "id": "calendar-01",
+    "topic": "calendar",
+    "number": 1,
+    "level": "Starter",
+    "title": "My Week at School",
+    "intro": "Ananya keeps a diary of her school week. Use the days of the week to answer.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the day that comes next.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Monday",
+            "a": "Tuesday"
+          },
+          {
+            "q": "Wednesday",
+            "a": "Thursday"
+          },
+          {
+            "q": "Saturday",
+            "a": "Sunday"
+          },
+          {
+            "q": "Sunday",
+            "a": "Monday"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the day that comes just before.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Tuesday",
+            "a": "Monday"
+          },
+          {
+            "q": "Friday",
+            "a": "Thursday"
+          },
+          {
+            "q": "Thursday",
+            "a": "Wednesday"
+          },
+          {
+            "q": "Monday",
+            "a": "Sunday"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "There are ___ days in a week.",
+            "a": "7"
+          },
+          {
+            "q": "The day between Tuesday and Thursday is ___.",
+            "a": "Wednesday"
+          },
+          {
+            "q": "If today is Friday, tomorrow is ___.",
+            "a": "Saturday"
+          },
+          {
+            "q": "If today is Monday, yesterday was ___.",
+            "a": "Sunday"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words. Is it a day or a month?",
+        "marks": 6,
+        "groups": [
+          "Day",
+          "Month"
+        ],
+        "words": [
+          "Tuesday",
+          "June",
+          "Saturday",
+          "October",
+          "Thursday",
+          "March"
+        ],
+        "a": {
+          "Tuesday": "Day",
+          "June": "Month",
+          "Saturday": "Day",
+          "October": "Month",
+          "Thursday": "Day",
+          "March": "Month"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Solve.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ananya has art class on Wednesday. Two days later is ___.",
+            "a": "Friday"
+          },
+          {
+            "q": "Her library day is 3 days after Monday. It is ___.",
+            "a": "Thursday"
+          },
+          {
+            "q": "Today is Sunday. Ananya visits her cousin in 4 days. That day is ___.",
+            "a": "Thursday"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "calendar-02",
+    "topic": "calendar",
+    "number": 2,
+    "level": "Starter",
+    "title": "Festivals Through the Year",
+    "intro": "Kabir is making a chart of special days in the year. Use the months of the year to answer.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the month for each number.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "1st month",
+            "a": "January"
+          },
+          {
+            "q": "3rd month",
+            "a": "March"
+          },
+          {
+            "q": "5th month",
+            "a": "May"
+          },
+          {
+            "q": "8th month",
+            "a": "August"
+          },
+          {
+            "q": "10th month",
+            "a": "October"
+          },
+          {
+            "q": "12th month",
+            "a": "December"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each special day to its month.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Republic Day of India, 26th",
+            "right": "January"
+          },
+          {
+            "left": "Independence Day of India, 15th",
+            "right": "August"
+          },
+          {
+            "left": "Children's Day in India, 14th",
+            "right": "November"
+          },
+          {
+            "left": "UAE National Day, 2nd",
+            "right": "December"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the month that comes next.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "February,",
+            "options": [
+              "March",
+              "January",
+              "April"
+            ],
+            "after": "",
+            "a": "March"
+          },
+          {
+            "before": "June,",
+            "options": [
+              "May",
+              "August",
+              "July"
+            ],
+            "after": "",
+            "a": "July"
+          },
+          {
+            "before": "December,",
+            "options": [
+              "November",
+              "January",
+              "February"
+            ],
+            "after": "",
+            "a": "January"
+          },
+          {
+            "before": "September,",
+            "options": [
+              "October",
+              "August",
+              "November"
+            ],
+            "after": "",
+            "a": "October"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "There are 12 months in a year.",
+            "a": true
+          },
+          {
+            "q": "April comes before March.",
+            "a": false
+          },
+          {
+            "q": "The last month of the year is December.",
+            "a": true
+          },
+          {
+            "q": "May is the 6th month of the year.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Kabir's birthday is in the month after July. It is in ___.",
+            "a": "August"
+          },
+          {
+            "q": "Children's Day is in the 11th month. That month is ___.",
+            "a": "November"
+          },
+          {
+            "q": "The month between September and November is ___.",
+            "a": "October"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "calendar-03",
+    "topic": "calendar",
+    "number": 3,
+    "level": "Starter",
+    "title": "The Class Birthday Chart",
+    "intro": "Miss Sharma is making a birthday chart for Class 2. Some months have 30 days and some have 31.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the months. How many days does each have?",
+        "marks": 4,
+        "groups": [
+          "30 days",
+          "31 days"
+        ],
+        "words": [
+          "April",
+          "January",
+          "September",
+          "July",
+          "June",
+          "October",
+          "November",
+          "August"
+        ],
+        "a": {
+          "April": "30 days",
+          "January": "31 days",
+          "September": "30 days",
+          "July": "31 days",
+          "June": "30 days",
+          "October": "31 days",
+          "November": "30 days",
+          "August": "31 days"
+        }
+      },
+      {
+        "type": "pairs",
+        "title": "Write the number of days in each month.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "March",
+            "a": "31"
+          },
+          {
+            "q": "December",
+            "a": "31"
+          },
+          {
+            "q": "May",
+            "a": "31"
+          },
+          {
+            "q": "February",
+            "a": "28"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "February has 29 days in a leap year.",
+            "a": true
+          },
+          {
+            "q": "June has 31 days.",
+            "a": false
+          },
+          {
+            "q": "7 months have 31 days.",
+            "a": true
+          },
+          {
+            "q": "A year has 365 days, and a leap year has 366 days.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the birthday problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Zoya's birthday is on the last day of April. It is ___ April.",
+            "a": "30"
+          },
+          {
+            "q": "Leo's birthday is on the last day of August. It is ___ August.",
+            "a": "31"
+          },
+          {
+            "q": "In a year that is not a leap year, February has ___ days.",
+            "a": "28"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the month with 30 days.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "May",
+              "November",
+              "March"
+            ],
+            "after": "",
+            "a": "November"
+          },
+          {
+            "before": "",
+            "options": [
+              "September",
+              "July",
+              "January"
+            ],
+            "after": "",
+            "a": "September"
+          },
+          {
+            "before": "",
+            "options": [
+              "October",
+              "December",
+              "June"
+            ],
+            "after": "",
+            "a": "June"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "calendar-04",
+    "topic": "calendar",
+    "number": 4,
+    "level": "Starter",
+    "title": "The Wall Calendar at Home",
+    "intro": "Rohan looks at the kitchen calendar. In this month, the 1st is a Monday. Work out the days and dates.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "The 1st is a Monday. Write the day for each date.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3rd",
+            "a": "Wednesday"
+          },
+          {
+            "q": "8th",
+            "a": "Monday"
+          },
+          {
+            "q": "12th",
+            "a": "Friday"
+          },
+          {
+            "q": "20th",
+            "a": "Saturday"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The 1st is a Monday. The next Monday is the ___th.",
+            "a": "8"
+          },
+          {
+            "q": "The 5th is a Friday. One week later is the ___th.",
+            "a": "12"
+          },
+          {
+            "q": "The 14th is a Sunday. One week before is the ___th.",
+            "a": "7"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False. The 1st is a Monday.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The 6th is a Saturday.",
+            "a": true
+          },
+          {
+            "q": "The 10th is a Thursday.",
+            "a": false
+          },
+          {
+            "q": "The 15th is a Monday.",
+            "a": true
+          },
+          {
+            "q": "The 21st is a Tuesday.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the date to its day. The 1st is a Monday.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "9th",
+            "right": "Tuesday"
+          },
+          {
+            "left": "11th",
+            "right": "Thursday"
+          },
+          {
+            "left": "13th",
+            "right": "Saturday"
+          },
+          {
+            "left": "19th",
+            "right": "Friday"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Rohan's swimming class is on the 2nd, 9th and 16th. The next class is on the ___rd.",
+            "a": "23"
+          },
+          {
+            "q": "Grandpa visits on the 17th. That day is a ___.",
+            "a": "Wednesday"
+          },
+          {
+            "q": "The first Friday of this month is the ___th.",
+            "a": "5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "calendar-05",
+    "topic": "calendar",
+    "number": 5,
+    "level": "Practice",
+    "title": "Planning a Holiday to Kerala",
+    "intro": "Aisha's family is planning a summer trip to Kerala. Use weeks, days and dates to plan the trip.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Change weeks into days.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "1 week",
+            "a": "7 days"
+          },
+          {
+            "q": "2 weeks",
+            "a": "14 days"
+          },
+          {
+            "q": "3 weeks",
+            "a": "21 days"
+          },
+          {
+            "q": "4 weeks",
+            "a": "28 days"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "1 year = ___ months",
+            "a": "12"
+          },
+          {
+            "q": "1 year = 365 days, and 1 leap year = ___ days",
+            "a": "366"
+          },
+          {
+            "q": "14 days = ___ weeks",
+            "a": "2"
+          },
+          {
+            "q": "The trip starts on 3 June and ends on 10 June. It lasts ___ days, counting both.",
+            "a": "8"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "One week after 25 May is",
+            "options": [
+              "1 June",
+              "31 May",
+              "2 June"
+            ],
+            "after": ".",
+            "a": "1 June"
+          },
+          {
+            "before": "The day after 30 April is",
+            "options": [
+              "31 April",
+              "1 May",
+              "29 April"
+            ],
+            "after": ".",
+            "a": "1 May"
+          },
+          {
+            "before": "The day before 1 March in a leap year is",
+            "options": [
+              "28 February",
+              "29 February",
+              "30 February"
+            ],
+            "after": ".",
+            "a": "29 February"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "3 weeks is the same as 21 days.",
+            "a": true
+          },
+          {
+            "q": "July and August both have 31 days.",
+            "a": true
+          },
+          {
+            "q": "If 3 June is a Wednesday, then 10 June is a Thursday.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the trip problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "They leave on a Saturday and come home 7 days later. They come home on a ___.",
+            "a": "Saturday"
+          },
+          {
+            "q": "The houseboat ride is 2 weeks from today. That is ___ days away.",
+            "a": "14"
+          },
+          {
+            "q": "They have to wait 5 days for the trip. Today is Tuesday. The trip starts on ___.",
+            "a": "Sunday"
+          }
+        ]
+      }
+    ]
+  }
+]

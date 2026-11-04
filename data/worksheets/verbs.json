@@ -1,0 +1,699 @@
+[
+  {
+    "id": "verbs-01",
+    "topic": "verbs",
+    "number": 1,
+    "level": "Starter",
+    "title": "Morning Exercise in the Park",
+    "intro": "Action words tell us what someone does. Join Arjun's family in the park.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the words. Is it an action word or not?",
+        "marks": 6,
+        "groups": [
+          "Action word",
+          "Not an action word"
+        ],
+        "words": [
+          "run",
+          "tree",
+          "stretch",
+          "bench",
+          "skip",
+          "green"
+        ],
+        "a": {
+          "run": "Action word",
+          "tree": "Not an action word",
+          "stretch": "Action word",
+          "bench": "Not an action word",
+          "skip": "Action word",
+          "green": "Not an action word"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the action word in each group.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "jog",
+              "park",
+              "shoe"
+            ],
+            "after": "",
+            "a": "jog"
+          },
+          {
+            "before": "",
+            "options": [
+              "cap",
+              "kick",
+              "grass"
+            ],
+            "after": "",
+            "a": "kick"
+          },
+          {
+            "before": "",
+            "options": [
+              "bend",
+              "ball",
+              "sun"
+            ],
+            "after": "",
+            "a": "bend"
+          },
+          {
+            "before": "",
+            "options": [
+              "bird",
+              "climb",
+              "kite"
+            ],
+            "after": "",
+            "a": "climb"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in an action word. Use: walk, throw, ride, clap.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Mama and Papa ___ around the lake.",
+            "a": "walk"
+          },
+          {
+            "q": "Arjun can ___ the ball very far.",
+            "a": "throw"
+          },
+          {
+            "q": "Riya likes to ___ her bicycle.",
+            "a": "ride"
+          },
+          {
+            "q": "The children ___ their hands to the music.",
+            "a": "clap"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write an action word for each one.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "a bird",
+            "a": "flies / sings"
+          },
+          {
+            "q": "a fish",
+            "a": "swims"
+          },
+          {
+            "q": "a dog",
+            "a": "barks / runs"
+          },
+          {
+            "q": "a baby",
+            "a": "cries / crawls"
+          },
+          {
+            "q": "a frog",
+            "a": "hops / jumps"
+          },
+          {
+            "q": "a cow",
+            "a": "moos / eats"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write three action words you do in the morning.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. wake, brush, eat."
+      }
+    ]
+  },
+  {
+    "id": "verbs-02",
+    "topic": "verbs",
+    "number": 2,
+    "level": "Starter",
+    "title": "Cleaning Day at Home",
+    "intro": "Saturday is cleaning day at Zainab's house. Everyone has a job.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the thing to the action we do with it.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "broom",
+            "right": "sweep"
+          },
+          {
+            "left": "sponge",
+            "right": "scrub"
+          },
+          {
+            "left": "watering can",
+            "right": "water"
+          },
+          {
+            "left": "scissors",
+            "right": "cut"
+          },
+          {
+            "left": "needle",
+            "right": "sew"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the action word. Add s or es.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Zainab ___ (dust) the shelves.",
+            "a": "dusts"
+          },
+          {
+            "q": "Her brother ___ (fold) the clothes.",
+            "a": "folds"
+          },
+          {
+            "q": "Mama ___ (wash) the curtains.",
+            "a": "washes"
+          },
+          {
+            "q": "Papa ___ (fix) the tap.",
+            "a": "fixes"
+          },
+          {
+            "q": "The cat ___ (sleep) on the sofa.",
+            "a": "sleeps"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "'Scrub' is an action word.",
+            "a": true
+          },
+          {
+            "q": "'Window' is an action word.",
+            "a": false
+          },
+          {
+            "q": "A verb tells us what someone does.",
+            "a": true
+          },
+          {
+            "q": "In 'Papa mops the floor', the verb is 'floor'.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle am, is or are.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Zainab",
+            "options": [
+              "am",
+              "is",
+              "are"
+            ],
+            "after": "cleaning her room.",
+            "a": "is"
+          },
+          {
+            "before": "We",
+            "options": [
+              "am",
+              "is",
+              "are"
+            ],
+            "after": "helping Mama.",
+            "a": "are"
+          },
+          {
+            "before": "I",
+            "options": [
+              "am",
+              "is",
+              "are"
+            ],
+            "after": "folding my socks.",
+            "a": "am"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one job you do at home. Use an action word.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. I make my bed. Check there is an action word."
+      }
+    ]
+  },
+  {
+    "id": "verbs-03",
+    "topic": "verbs",
+    "number": 3,
+    "level": "Starter",
+    "title": "Cricket in the Lane",
+    "intro": "The children in Rishi's lane play cricket after school.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Add ing to each action word.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "bat",
+            "a": "batting"
+          },
+          {
+            "q": "bowl",
+            "a": "bowling"
+          },
+          {
+            "q": "catch",
+            "a": "catching"
+          },
+          {
+            "q": "run",
+            "a": "running"
+          },
+          {
+            "q": "hit",
+            "a": "hitting"
+          },
+          {
+            "q": "throw",
+            "a": "throwing"
+          },
+          {
+            "q": "cheer",
+            "a": "cheering"
+          },
+          {
+            "q": "field",
+            "a": "fielding"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Rishi is",
+            "options": [
+              "batting",
+              "bat"
+            ],
+            "after": "now.",
+            "a": "batting"
+          },
+          {
+            "before": "The ball",
+            "options": [
+              "roll",
+              "rolls"
+            ],
+            "after": "to the wall.",
+            "a": "rolls"
+          },
+          {
+            "before": "Everyone",
+            "options": [
+              "shouts",
+              "shout"
+            ],
+            "after": "\"Six!\"",
+            "a": "shouts"
+          },
+          {
+            "before": "My friends",
+            "options": [
+              "play",
+              "plays"
+            ],
+            "after": "every day.",
+            "a": "play"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words. Is it an action word or a naming word?",
+        "marks": 6,
+        "groups": [
+          "Action word",
+          "Naming word"
+        ],
+        "words": [
+          "jump",
+          "wicket",
+          "clap",
+          "gloves",
+          "dive",
+          "helmet"
+        ],
+        "a": {
+          "jump": "Action word",
+          "wicket": "Naming word",
+          "clap": "Action word",
+          "gloves": "Naming word",
+          "dive": "Action word",
+          "helmet": "Naming word"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in is or are.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Rishi ___ running fast.",
+            "a": "is"
+          },
+          {
+            "q": "The boys ___ cheering loudly.",
+            "a": "are"
+          },
+          {
+            "q": "The ball ___ flying over the wall.",
+            "a": "is"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a game you like. Use an action word in each.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Each sentence has an action word such as kick, run or throw."
+      }
+    ]
+  },
+  {
+    "id": "verbs-04",
+    "topic": "verbs",
+    "number": 4,
+    "level": "Starter",
+    "title": "Baking Cookies with Aunty Grace",
+    "intro": "Mia and her aunt are baking cookies for Christmas.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the action to the thing.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "crack",
+            "right": "the eggs"
+          },
+          {
+            "left": "pour",
+            "right": "the milk"
+          },
+          {
+            "left": "roll",
+            "right": "the dough"
+          },
+          {
+            "left": "lick",
+            "right": "the spoon"
+          },
+          {
+            "left": "switch on",
+            "right": "the oven"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in an action word. Use: mix, cut, bake, wait, share.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "We ___ the butter and sugar in a bowl.",
+            "a": "mix"
+          },
+          {
+            "q": "Aunty Grace helps me ___ star shapes.",
+            "a": "cut"
+          },
+          {
+            "q": "We ___ the cookies for ten minutes.",
+            "a": "bake"
+          },
+          {
+            "q": "We ___ for them to cool.",
+            "a": "wait"
+          },
+          {
+            "q": "Then we ___ them with our friends.",
+            "a": "share"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Mia",
+            "options": [
+              "mixes",
+              "mix"
+            ],
+            "after": "the flour.",
+            "a": "mixes"
+          },
+          {
+            "before": "We",
+            "options": [
+              "bake",
+              "bakes"
+            ],
+            "after": "every Christmas.",
+            "a": "bake"
+          },
+          {
+            "before": "The oven",
+            "options": [
+              "gets",
+              "get"
+            ],
+            "after": "very hot.",
+            "a": "gets"
+          },
+          {
+            "before": "Aunty",
+            "options": [
+              "smiles",
+              "smile"
+            ],
+            "after": "at Mia.",
+            "a": "smiles"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "'Bake' is an action word.",
+            "a": true
+          },
+          {
+            "q": "'Cookie' is an action word.",
+            "a": false
+          },
+          {
+            "q": "'Stir' and 'mix' are both action words.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing you like to cook or bake. Use an action word.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. I help Mama roll chapatis."
+      }
+    ]
+  },
+  {
+    "id": "verbs-05",
+    "topic": "verbs",
+    "number": 5,
+    "level": "Practice",
+    "title": "The Science Fair",
+    "intro": "Class 2 is getting ready for the science fair. Find and use the action words.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write an action word that goes with each thing.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "a magnifying glass",
+            "a": "look / see"
+          },
+          {
+            "q": "scissors",
+            "a": "cut"
+          },
+          {
+            "q": "glue",
+            "a": "stick"
+          },
+          {
+            "q": "a balloon",
+            "a": "blow / pop"
+          },
+          {
+            "q": "a ruler",
+            "a": "measure / draw"
+          },
+          {
+            "q": "a torch",
+            "a": "shine"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in am, is or are.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "I ___ building a volcano.",
+            "a": "am"
+          },
+          {
+            "q": "Sana and Raj ___ testing magnets.",
+            "a": "are"
+          },
+          {
+            "q": "The plant ___ growing towards the light.",
+            "a": "is"
+          },
+          {
+            "q": "We ___ painting the planets.",
+            "a": "are"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words. Is it an action word or a naming word?",
+        "marks": 6,
+        "groups": [
+          "Action word",
+          "Naming word"
+        ],
+        "words": [
+          "pour",
+          "magnet",
+          "grow",
+          "volcano",
+          "explain",
+          "poster"
+        ],
+        "a": {
+          "pour": "Action word",
+          "magnet": "Naming word",
+          "grow": "Action word",
+          "volcano": "Naming word",
+          "explain": "Action word",
+          "poster": "Naming word"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Raj",
+            "options": [
+              "shows",
+              "show"
+            ],
+            "after": "his model to the judge.",
+            "a": "shows"
+          },
+          {
+            "before": "The judges",
+            "options": [
+              "walks",
+              "walk"
+            ],
+            "after": "around the hall.",
+            "a": "walk"
+          },
+          {
+            "before": "Sana",
+            "options": [
+              "is",
+              "are"
+            ],
+            "after": "explaining her poster.",
+            "a": "is"
+          },
+          {
+            "before": "The children",
+            "options": [
+              "clap",
+              "claps"
+            ],
+            "after": "for the winners.",
+            "a": "clap"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write a sentence using each action word.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "mix",
+            "a": "Answers will vary, e.g. We mix vinegar and baking soda."
+          },
+          {
+            "q": "float",
+            "a": "Answers will vary, e.g. A cork can float on water."
+          }
+        ]
+      }
+    ]
+  }
+]

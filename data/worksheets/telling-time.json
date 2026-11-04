@@ -1,0 +1,657 @@
+[
+  {
+    "id": "telling-time-01",
+    "topic": "telling-time",
+    "number": 1,
+    "level": "Starter",
+    "title": "My School Morning",
+    "intro": "Aditi looks at the clock all morning. The short hand shows the hour. The long hand shows the minutes.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the time.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The long hand is on 12. The short hand is on 6. It is ___.",
+            "a": "6 o'clock"
+          },
+          {
+            "q": "The long hand is on 12. The short hand is on 9. It is ___.",
+            "a": "9 o'clock"
+          },
+          {
+            "q": "The long hand is on 12. The short hand is on 12. It is ___.",
+            "a": "12 o'clock"
+          },
+          {
+            "q": "The long hand is on 12. The short hand is on 3. It is ___.",
+            "a": "3 o'clock"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the time the digital way.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "7 o'clock",
+            "a": "7:00"
+          },
+          {
+            "q": "10 o'clock",
+            "a": "10:00"
+          },
+          {
+            "q": "1 o'clock",
+            "a": "1:00"
+          },
+          {
+            "q": "4 o'clock",
+            "a": "4:00"
+          },
+          {
+            "q": "11 o'clock",
+            "a": "11:00"
+          },
+          {
+            "q": "5 o'clock",
+            "a": "5:00"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the clock hands to the time.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "Long hand on 12, short hand on 8",
+            "right": "8:00"
+          },
+          {
+            "left": "Long hand on 12, short hand on 2",
+            "right": "2:00"
+          },
+          {
+            "left": "Long hand on 12, short hand on 1",
+            "right": "1:00"
+          },
+          {
+            "left": "Long hand on 12, short hand on 7",
+            "right": "7:00"
+          },
+          {
+            "left": "Long hand on 12, short hand on 11",
+            "right": "11:00"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "At 3 o'clock, the long hand points to 12.",
+            "a": true
+          },
+          {
+            "q": "The short hand shows the hour.",
+            "a": true
+          },
+          {
+            "q": "At 9 o'clock, the short hand points to 12.",
+            "a": false
+          },
+          {
+            "q": "There are 60 minutes in 1 hour.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the time problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Kiara's class starts at 8 o'clock. It ends 1 hour later, at ___.",
+            "a": "9 o'clock"
+          },
+          {
+            "q": "Dev wakes at 6 o'clock and leaves 1 hour later, at ___.",
+            "a": "7 o'clock"
+          },
+          {
+            "q": "School ends at 2 o'clock. Aditi is home 1 hour later, at ___.",
+            "a": "3 o'clock"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "telling-time-02",
+    "topic": "telling-time",
+    "number": 2,
+    "level": "Starter",
+    "title": "A Saturday at the Mall",
+    "intro": "The Khan family spends Saturday at a mall in Dubai. At half past, the long hand points to 6.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the time.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The long hand is on 6. The short hand is halfway between 3 and 4. It is ___.",
+            "a": "half past 3"
+          },
+          {
+            "q": "The long hand is on 6. The short hand is halfway between 10 and 11. It is ___.",
+            "a": "half past 10"
+          },
+          {
+            "q": "The long hand is on 6. The short hand is halfway between 12 and 1. It is ___.",
+            "a": "half past 12"
+          },
+          {
+            "q": "The long hand is on 6. The short hand is halfway between 5 and 6. It is ___.",
+            "a": "half past 5"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the time the digital way.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "half past 2",
+            "a": "2:30"
+          },
+          {
+            "q": "half past 11",
+            "a": "11:30"
+          },
+          {
+            "q": "half past 6",
+            "a": "6:30"
+          },
+          {
+            "q": "half past 9",
+            "a": "9:30"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "4:30 is",
+            "options": [
+              "half past 4",
+              "half past 5"
+            ],
+            "after": ".",
+            "a": "half past 4"
+          },
+          {
+            "before": "At half past 7, the long hand points to",
+            "options": [
+              "6",
+              "12"
+            ],
+            "after": ".",
+            "a": "6"
+          },
+          {
+            "before": "At half past 8, the short hand is between",
+            "options": [
+              "8 and 9",
+              "7 and 8"
+            ],
+            "after": ".",
+            "a": "8 and 9"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Half an hour is 30 minutes.",
+            "a": true
+          },
+          {
+            "q": "At half past 1, the long hand points to 1.",
+            "a": false
+          },
+          {
+            "q": "2:30 is the same as half past 2.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the mall problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The family reaches the mall at 11 o'clock. Lunch is half an hour later, at ___.",
+            "a": "half past 11"
+          },
+          {
+            "q": "The fountain show is at 6:00 and again at 6:30. The shows are ___ minutes apart.",
+            "a": "30"
+          },
+          {
+            "q": "Aanya ice skates from half past 2 for 1 hour. She stops at ___.",
+            "a": "half past 3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "telling-time-03",
+    "topic": "telling-time",
+    "number": 3,
+    "level": "Starter",
+    "title": "Grandpa's Wall Clock",
+    "intro": "Grandpa's old wall clock chimes every hour. Read the times in his day.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the words to the clock time.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "half past 10",
+            "right": "10:30"
+          },
+          {
+            "left": "10 o'clock",
+            "right": "10:00"
+          },
+          {
+            "left": "half past 1",
+            "right": "1:30"
+          },
+          {
+            "left": "1 o'clock",
+            "right": "1:00"
+          },
+          {
+            "left": "half past 12",
+            "right": "12:30"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle morning or evening.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Grandpa has breakfast at 7 o'clock in the",
+            "options": [
+              "morning",
+              "evening"
+            ],
+            "after": ".",
+            "a": "morning"
+          },
+          {
+            "before": "The family eats dinner at 8 o'clock in the",
+            "options": [
+              "morning",
+              "evening"
+            ],
+            "after": ".",
+            "a": "evening"
+          },
+          {
+            "before": "The sun rises at 6 o'clock in the",
+            "options": [
+              "morning",
+              "evening"
+            ],
+            "after": ".",
+            "a": "morning"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the time 1 hour later.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "1 hour after 4 o'clock is ___.",
+            "a": "5 o'clock"
+          },
+          {
+            "q": "1 hour after half past 9 is ___.",
+            "a": "half past 10"
+          },
+          {
+            "q": "1 hour after 12 o'clock is ___.",
+            "a": "1 o'clock"
+          },
+          {
+            "q": "1 hour after half past 11 is ___.",
+            "a": "half past 12"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The long hand goes all the way round the clock in 1 hour.",
+            "a": true
+          },
+          {
+            "q": "The short hand moves faster than the long hand.",
+            "a": false
+          },
+          {
+            "q": "A day has 24 hours.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve Grandpa's problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Grandpa naps from 2 o'clock to 4 o'clock. He naps for ___ hours.",
+            "a": "2"
+          },
+          {
+            "q": "Grandpa walks from 6:00 to 6:30. He walks for ___ minutes.",
+            "a": "30"
+          },
+          {
+            "q": "Grandpa's tea is at 5 o'clock. His bath is 2 hours before, at ___.",
+            "a": "3 o'clock"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "telling-time-04",
+    "topic": "telling-time",
+    "number": 4,
+    "level": "Starter",
+    "title": "The Train Journey to Pune",
+    "intro": "Kunal and his mother take the train from Mumbai to Pune. Use the clock to plan the trip.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the time in words.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "3:00",
+            "a": "3 o'clock"
+          },
+          {
+            "q": "5:30",
+            "a": "half past 5"
+          },
+          {
+            "q": "8:30",
+            "a": "half past 8"
+          },
+          {
+            "q": "12:00",
+            "a": "12 o'clock"
+          },
+          {
+            "q": "11:30",
+            "a": "half past 11"
+          },
+          {
+            "q": "2:00",
+            "a": "2 o'clock"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Work out the times.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The train leaves at 7 o'clock and runs for 3 hours. It reaches at ___.",
+            "a": "10 o'clock"
+          },
+          {
+            "q": "The train stops at 9:30 for half an hour. It leaves again at ___.",
+            "a": "10:00"
+          },
+          {
+            "q": "Lunch is at 1 o'clock. Tea is 3 hours later, at ___.",
+            "a": "4 o'clock"
+          },
+          {
+            "q": "The train left at 11 o'clock. We left home 2 hours before, at ___.",
+            "a": "9 o'clock"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the earlier time.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "4:30",
+              "4:00"
+            ],
+            "after": "",
+            "a": "4:00"
+          },
+          {
+            "before": "",
+            "options": [
+              "half past 9",
+              "9 o'clock"
+            ],
+            "after": "",
+            "a": "9 o'clock"
+          },
+          {
+            "before": "",
+            "options": [
+              "12:30",
+              "1:00"
+            ],
+            "after": "",
+            "a": "12:30"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the times.",
+        "marks": 3,
+        "groups": [
+          "O'clock",
+          "Half past"
+        ],
+        "words": [
+          "6:00",
+          "3:30",
+          "10:30",
+          "12:00",
+          "7:30",
+          "9:00"
+        ],
+        "a": {
+          "6:00": "O'clock",
+          "3:30": "Half past",
+          "10:30": "Half past",
+          "12:00": "O'clock",
+          "7:30": "Half past",
+          "9:00": "O'clock"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "From 2 o'clock to 5 o'clock is 3 hours.",
+            "a": true
+          },
+          {
+            "q": "From 6:30 to 7:00 is 1 hour.",
+            "a": false
+          },
+          {
+            "q": "Half past 10 comes after 10 o'clock.",
+            "a": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "telling-time-05",
+    "topic": "telling-time",
+    "number": 5,
+    "level": "Practice",
+    "title": "Eid Holiday Plans",
+    "intro": "It is Eid! Maryam's family has a busy day. Read the clock times and plan the day.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the time.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The long hand is on 6. The short hand is halfway between 9 and 10. It is ___.",
+            "a": "half past 9"
+          },
+          {
+            "q": "The long hand is on 12. The short hand is on 2. It is ___.",
+            "a": "2 o'clock"
+          },
+          {
+            "q": "The long hand is on 12. The short hand is on 5. It is ___.",
+            "a": "5 o'clock"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "At 4 o'clock, the short hand points to",
+            "options": [
+              "4",
+              "12"
+            ],
+            "after": ".",
+            "a": "4"
+          },
+          {
+            "before": "At half past 6, the short hand is between",
+            "options": [
+              "6 and 7",
+              "5 and 6"
+            ],
+            "after": ".",
+            "a": "6 and 7"
+          },
+          {
+            "before": "At 11:30, the long hand points to",
+            "options": [
+              "6",
+              "11"
+            ],
+            "after": ".",
+            "a": "6"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the Eid problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Eid prayer is at 7 o'clock. Breakfast is half an hour later, at ___.",
+            "a": "half past 7"
+          },
+          {
+            "q": "We visit Nani at half past 10 and stay 2 hours. We leave at ___.",
+            "a": "half past 12"
+          },
+          {
+            "q": "The Eid fair is open from 4 o'clock to 9 o'clock. It is open for ___ hours.",
+            "a": "5"
+          },
+          {
+            "q": "Dinner is at 8:00. We got home one and a half hours before, at ___.",
+            "a": "6:30"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each time to half an hour later.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "3:00",
+            "right": "3:30"
+          },
+          {
+            "left": "3:30",
+            "right": "4:00"
+          },
+          {
+            "left": "12:30",
+            "right": "1:00"
+          },
+          {
+            "left": "9:00",
+            "right": "9:30"
+          },
+          {
+            "left": "11:30",
+            "right": "12:00"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write what you do at 7 o'clock in the morning.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, for example: I brush my teeth."
+      }
+    ]
+  }
+]

@@ -1,0 +1,623 @@
+[
+  {
+    "id": "addition-with-grouping-01",
+    "topic": "addition-with-grouping",
+    "number": 1,
+    "level": "Starter",
+    "title": "Shell Hunt at the Beach",
+    "intro": "Aarav and Zara are collecting shells at the beach. Add the ones first. Carry a ten when the ones make 10 or more.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Add. Carry a ten when you need to.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "36",
+            "op": "+",
+            "bottom": "47",
+            "a": "83"
+          },
+          {
+            "top": "58",
+            "op": "+",
+            "bottom": "34",
+            "a": "92"
+          },
+          {
+            "top": "19",
+            "op": "+",
+            "bottom": "56",
+            "a": "75"
+          },
+          {
+            "top": "45",
+            "op": "+",
+            "bottom": "39",
+            "a": "84"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "15 ones = 1 ten and ___ ones",
+            "a": "5"
+          },
+          {
+            "q": "23 ones = ___ tens and 3 ones",
+            "a": "2"
+          },
+          {
+            "q": "1 ten and 12 ones = ___",
+            "a": "22"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In 36 + 47, the ones add up to 13.",
+            "a": true
+          },
+          {
+            "q": "We need to carry in 52 + 34.",
+            "a": false
+          },
+          {
+            "q": "28 + 45 = 73",
+            "a": true
+          },
+          {
+            "q": "When the ones add up to 10 or more, we carry 1 ten.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each sum to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "29 + 16",
+            "right": "45"
+          },
+          {
+            "left": "37 + 48",
+            "right": "85"
+          },
+          {
+            "left": "54 + 28",
+            "right": "82"
+          },
+          {
+            "left": "66 + 17",
+            "right": "83"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the shell problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Aarav found 27 shells. Zara found 35. They found ___ shells in all.",
+            "a": "62"
+          },
+          {
+            "q": "There were 48 pink shells and 26 white shells in a bucket. There were ___ shells.",
+            "a": "74"
+          },
+          {
+            "q": "Zara bought a shell necklace for ₹39 and a bracelet for ₹46. She spent ₹ ___.",
+            "a": "85"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-with-grouping-02",
+    "topic": "addition-with-grouping",
+    "number": 2,
+    "level": "Starter",
+    "title": "Library Week at School",
+    "intro": "It is Library Week. Kabir and Mei help count the books. Add carefully and carry when you need to.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the sums. Do they need a carry?",
+        "marks": 6,
+        "groups": [
+          "Carry",
+          "No carry"
+        ],
+        "words": [
+          "43 + 29",
+          "61 + 25",
+          "57 + 38",
+          "72 + 16",
+          "34 + 48",
+          "25 + 63"
+        ],
+        "a": {
+          "43 + 29": "Carry",
+          "61 + 25": "No carry",
+          "57 + 38": "Carry",
+          "72 + 16": "No carry",
+          "34 + 48": "Carry",
+          "25 + 63": "No carry"
+        }
+      },
+      {
+        "type": "column",
+        "title": "Add the books.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "47",
+            "op": "+",
+            "bottom": "35",
+            "a": "82"
+          },
+          {
+            "top": "68",
+            "op": "+",
+            "bottom": "24",
+            "a": "92"
+          },
+          {
+            "top": "29",
+            "op": "+",
+            "bottom": "59",
+            "a": "88"
+          },
+          {
+            "top": "56",
+            "op": "+",
+            "bottom": "37",
+            "a": "93"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "43 + 29 =",
+            "options": [
+              "62",
+              "72",
+              "612"
+            ],
+            "after": "",
+            "a": "72"
+          },
+          {
+            "before": "57 + 38 =",
+            "options": [
+              "85",
+              "95",
+              "815"
+            ],
+            "after": "",
+            "a": "95"
+          },
+          {
+            "before": "34 + 48 =",
+            "options": [
+              "82",
+              "72",
+              "712"
+            ],
+            "after": "",
+            "a": "82"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the library problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The library got 38 storybooks on Monday and 45 on Tuesday. It got ___ books.",
+            "a": "83"
+          },
+          {
+            "q": "Kabir read 17 pages in the morning and 26 pages at night. He read ___ pages.",
+            "a": "43"
+          },
+          {
+            "q": "Mei counted 54 English books and 29 Hindi books. That is ___ books.",
+            "a": "83"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-with-grouping-03",
+    "topic": "addition-with-grouping",
+    "number": 3,
+    "level": "Starter",
+    "title": "The Diwali Sweet Shop",
+    "intro": "Ishaan helps at his aunt's sweet shop before Diwali. Some answers go past 100. Carry into the hundreds too.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Add. Write the answer.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "78 + 56",
+            "a": "134"
+          },
+          {
+            "q": "65 + 47",
+            "a": "112"
+          },
+          {
+            "q": "89 + 34",
+            "a": "123"
+          },
+          {
+            "q": "46 + 79",
+            "a": "125"
+          },
+          {
+            "q": "57 + 67",
+            "a": "124"
+          },
+          {
+            "q": "93 + 28",
+            "a": "121"
+          },
+          {
+            "q": "74 + 58",
+            "a": "132"
+          },
+          {
+            "q": "85 + 85",
+            "a": "170"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add. Carry to the hundreds place.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "68",
+            "op": "+",
+            "bottom": "75",
+            "a": "143"
+          },
+          {
+            "top": "97",
+            "op": "+",
+            "bottom": "48",
+            "a": "145"
+          },
+          {
+            "top": "59",
+            "op": "+",
+            "bottom": "63",
+            "a": "122"
+          },
+          {
+            "top": "84",
+            "op": "+",
+            "bottom": "39",
+            "a": "123"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In 78 + 56, the tens add up to 13 after carrying.",
+            "a": true
+          },
+          {
+            "q": "65 + 47 = 112",
+            "a": true
+          },
+          {
+            "q": "89 + 34 = 113",
+            "a": false
+          },
+          {
+            "q": "The answer to 46 + 79 is more than 100.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the sweet shop problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Aunty made 86 laddoos and 57 barfis. She made ___ sweets.",
+            "a": "143"
+          },
+          {
+            "q": "Ishaan packed 48 boxes on Friday and 64 boxes on Saturday. He packed ___ boxes.",
+            "a": "112"
+          },
+          {
+            "q": "A box of kaju katli costs ₹95 and a box of jalebi costs ₹78. Both cost ₹ ___.",
+            "a": "173"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-with-grouping-04",
+    "topic": "addition-with-grouping",
+    "number": 4,
+    "level": "Starter",
+    "title": "A Day at the Zoo",
+    "intro": "Liam and Fatima are visiting the zoo with their class. Add the big numbers. Start with the ones.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Add. Carry where you need to.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "326",
+            "op": "+",
+            "bottom": "57",
+            "a": "383"
+          },
+          {
+            "top": "418",
+            "op": "+",
+            "bottom": "236",
+            "a": "654"
+          },
+          {
+            "top": "539",
+            "op": "+",
+            "bottom": "145",
+            "a": "684"
+          },
+          {
+            "top": "207",
+            "op": "+",
+            "bottom": "184",
+            "a": "391"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the missing digit.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "4_ + 38 = 85. The missing digit is ___.",
+            "a": "7"
+          },
+          {
+            "q": "2_ + 56 = 79. The missing digit is ___.",
+            "a": "3"
+          },
+          {
+            "q": "_6 + 27 = 93. The missing digit is ___.",
+            "a": "6"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each sum to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "245 + 38",
+            "right": "283"
+          },
+          {
+            "left": "163 + 29",
+            "right": "192"
+          },
+          {
+            "left": "514 + 77",
+            "right": "591"
+          },
+          {
+            "left": "328 + 45",
+            "right": "373"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In 326 + 57, we carry 1 ten.",
+            "a": true
+          },
+          {
+            "q": "418 + 236 = 654",
+            "a": true
+          },
+          {
+            "q": "539 + 145 = 674",
+            "a": false
+          },
+          {
+            "q": "We start adding from the hundreds place.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the zoo problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The zoo had 238 visitors in the morning and 145 in the afternoon. There were ___ visitors.",
+            "a": "383"
+          },
+          {
+            "q": "Fatima saw 127 birds and 56 monkeys. She saw ___ animals.",
+            "a": "183"
+          },
+          {
+            "q": "Liam paid ₹215 for tickets and ₹68 for snacks. He paid ₹ ___ in all.",
+            "a": "283"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-with-grouping-05",
+    "topic": "addition-with-grouping",
+    "number": 5,
+    "level": "Practice",
+    "title": "Sports Day Points Table",
+    "intro": "The four school houses are adding up their Sports Day points. Carry in the ones and the tens.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Add. You may need to carry more than once.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "358",
+            "op": "+",
+            "bottom": "267",
+            "a": "625"
+          },
+          {
+            "top": "476",
+            "op": "+",
+            "bottom": "185",
+            "a": "661"
+          },
+          {
+            "top": "289",
+            "op": "+",
+            "bottom": "344",
+            "a": "633"
+          },
+          {
+            "top": "195",
+            "op": "+",
+            "bottom": "457",
+            "a": "652"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Add the three numbers.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "24 + 38 + 17",
+            "a": "79"
+          },
+          {
+            "q": "45 + 26 + 19",
+            "a": "90"
+          },
+          {
+            "q": "36 + 47 + 28",
+            "a": "111"
+          },
+          {
+            "q": "18 + 55 + 39",
+            "a": "112"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "376 + 248 =",
+            "options": [
+              "624",
+              "524",
+              "614"
+            ],
+            "after": "",
+            "a": "624"
+          },
+          {
+            "before": "459 + 163 =",
+            "options": [
+              "612",
+              "622",
+              "522"
+            ],
+            "after": "",
+            "a": "622"
+          },
+          {
+            "before": "287 + 296 =",
+            "options": [
+              "573",
+              "583",
+              "483"
+            ],
+            "after": "",
+            "a": "583"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the Sports Day problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Red House had 256 points. It won 178 more. Now it has ___ points.",
+            "a": "434"
+          },
+          {
+            "q": "Blue House scored 147 points in races and 168 in games. It scored ___ points.",
+            "a": "315"
+          },
+          {
+            "q": "The school spent ₹385 on medals and ₹249 on cups. It spent ₹ ___.",
+            "a": "634"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: Tell how you solved 358 + 267. Say when you carried.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. The answer is 625. Look for: 8 + 7 = 15, carry 1 ten; 5 + 6 + 1 = 12, carry 1 hundred."
+      }
+    ]
+  }
+]

@@ -1,0 +1,698 @@
+[
+  {
+    "id": "place-value-01",
+    "topic": "place-value",
+    "number": 1,
+    "level": "Starter",
+    "title": "Building Blocks in the Play Corner",
+    "intro": "Kabir builds numbers with blocks. H means hundreds, T means tens and O means ones.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the number.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "3H 4T 2O",
+            "a": "342"
+          },
+          {
+            "q": "6H 0T 5O",
+            "a": "605"
+          },
+          {
+            "q": "8H 7T 0O",
+            "a": "870"
+          },
+          {
+            "q": "1H 9T 9O",
+            "a": "199"
+          },
+          {
+            "q": "2H 6T 1O",
+            "a": "261"
+          },
+          {
+            "q": "9H 0T 0O",
+            "a": "900"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the digit.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In 527, the tens digit is ___.",
+            "a": "2"
+          },
+          {
+            "q": "In 384, the hundreds digit is ___.",
+            "a": "3"
+          },
+          {
+            "q": "In 916, the ones digit is ___.",
+            "a": "6"
+          },
+          {
+            "q": "In 450, the ones digit is ___.",
+            "a": "0"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the blocks to the number.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "4 hundreds, 0 tens, 6 ones",
+            "right": "406"
+          },
+          {
+            "left": "4 hundreds, 6 tens, 0 ones",
+            "right": "460"
+          },
+          {
+            "left": "6 hundreds, 4 tens, 0 ones",
+            "right": "640"
+          },
+          {
+            "left": "6 hundreds, 0 tens, 4 ones",
+            "right": "604"
+          },
+          {
+            "left": "0 hundreds, 4 tens, 6 ones",
+            "right": "46"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In 735, the 7 is in the hundreds place.",
+            "a": true
+          },
+          {
+            "q": "In 208, the tens digit is 8.",
+            "a": false
+          },
+          {
+            "q": "10 tens make 1 hundred.",
+            "a": true
+          },
+          {
+            "q": "In 591, the 9 is worth 9.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the block problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Kabir uses 2 hundreds, 3 tens and 8 ones. His number is ___.",
+            "a": "238"
+          },
+          {
+            "q": "Ayesha makes 517. She uses ___ ten block.",
+            "a": "1"
+          },
+          {
+            "q": "Omar uses 9 hundred blocks and 4 one blocks. His number is ___.",
+            "a": "904"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "place-value-02",
+    "topic": "place-value",
+    "number": 2,
+    "level": "Starter",
+    "title": "The Toy Stall at the Diwali Mela",
+    "intro": "At the mela, Sana pays with ₹100 notes, ₹10 notes and ₹1 coins.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "How much money is it?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3 notes of ₹100, 5 notes of ₹10 and 2 coins of ₹1 = ₹___",
+            "a": "352"
+          },
+          {
+            "q": "4 notes of ₹100, 0 notes of ₹10 and 7 coins of ₹1 = ₹___",
+            "a": "407"
+          },
+          {
+            "q": "7 notes of ₹100, 2 notes of ₹10 and 0 coins of ₹1 = ₹___",
+            "a": "720"
+          },
+          {
+            "q": "1 note of ₹100, 8 notes of ₹10 and 5 coins of ₹1 = ₹___",
+            "a": "185"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "How many ₹100 notes make it?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "₹300",
+            "a": "3"
+          },
+          {
+            "q": "₹800",
+            "a": "8"
+          },
+          {
+            "q": "₹500",
+            "a": "5"
+          },
+          {
+            "q": "₹900",
+            "a": "9"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle what the digit stands for.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "In ₹482, the 8 stands for",
+            "options": [
+              "₹8",
+              "₹80",
+              "₹800"
+            ],
+            "after": "",
+            "a": "₹80"
+          },
+          {
+            "before": "In ₹639, the 6 stands for",
+            "options": [
+              "₹6",
+              "₹60",
+              "₹600"
+            ],
+            "after": "",
+            "a": "₹600"
+          },
+          {
+            "before": "In ₹275, the 5 stands for",
+            "options": [
+              "₹5",
+              "₹50",
+              "₹500"
+            ],
+            "after": "",
+            "a": "₹5"
+          },
+          {
+            "before": "In ₹904, the 9 stands for",
+            "options": [
+              "₹9",
+              "₹90",
+              "₹900"
+            ],
+            "after": "",
+            "a": "₹900"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "10 notes of ₹10 make ₹100.",
+            "a": true
+          },
+          {
+            "q": "₹305 is 3 notes of ₹100 and 5 notes of ₹10.",
+            "a": false
+          },
+          {
+            "q": "A ₹1 coin is worth more than a ₹10 note.",
+            "a": false
+          },
+          {
+            "q": "₹100 + ₹100 + ₹10 = ₹210",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the mela problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Sana pays 2 notes of ₹100 and 4 notes of ₹10 for a toy. It costs ₹___.",
+            "a": "240"
+          },
+          {
+            "q": "A lamp costs ₹318. Raj pays 3 notes of ₹100, 1 note of ₹10 and ___ coins of ₹1.",
+            "a": "8"
+          },
+          {
+            "q": "A doll costs ₹560. Mohan pays with ___ notes of ₹100 and 6 notes of ₹10.",
+            "a": "5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "place-value-03",
+    "topic": "place-value",
+    "number": 3,
+    "level": "Starter",
+    "title": "Page Numbers in the Storybook",
+    "intro": "Mia is reading a thick storybook. Find the value of the digits in the page numbers.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the value of the 6.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "6 in 462",
+            "a": "60"
+          },
+          {
+            "q": "6 in 615",
+            "a": "600"
+          },
+          {
+            "q": "6 in 386",
+            "a": "6"
+          },
+          {
+            "q": "6 in 960",
+            "a": "60"
+          },
+          {
+            "q": "6 in 106",
+            "a": "6"
+          },
+          {
+            "q": "6 in 678",
+            "a": "600"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the missing part.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "347 = 300 + 40 + ___",
+            "a": "7"
+          },
+          {
+            "q": "582 = ___ + 80 + 2",
+            "a": "500"
+          },
+          {
+            "q": "709 = 700 + ___ + 9",
+            "a": "0"
+          },
+          {
+            "q": "260 = 200 + ___ + 0",
+            "a": "60"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the parts to the page number.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "500 + 30 + 1",
+            "right": "531"
+          },
+          {
+            "left": "300 + 50 + 1",
+            "right": "351"
+          },
+          {
+            "left": "100 + 30 + 5",
+            "right": "135"
+          },
+          {
+            "left": "500 + 10 + 3",
+            "right": "513"
+          },
+          {
+            "left": "100 + 50 + 3",
+            "right": "153"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the page numbers by what the 4 means.",
+        "marks": 6,
+        "groups": [
+          "4 means 400",
+          "4 means 40",
+          "4 means 4"
+        ],
+        "words": [
+          "413",
+          "245",
+          "704",
+          "480",
+          "941",
+          "134"
+        ],
+        "a": {
+          "413": "4 means 400",
+          "245": "4 means 40",
+          "704": "4 means 4",
+          "480": "4 means 400",
+          "941": "4 means 40",
+          "134": "4 means 4"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Solve the storybook problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Mia is on page 285. The 8 stands for ___.",
+            "a": "80"
+          },
+          {
+            "q": "The book has 3 hundreds, 1 ten and 9 ones pages. That is ___ pages.",
+            "a": "319"
+          },
+          {
+            "q": "Page 470 has ___ ones.",
+            "a": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "place-value-04",
+    "topic": "place-value",
+    "number": 4,
+    "level": "Starter",
+    "title": "Seat Numbers on the Train to Shimla",
+    "intro": "The toy train to Shimla has numbered seats. Find the place of each digit.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the place of the digit.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "In 705, the 0 is in the",
+            "options": [
+              "hundreds",
+              "tens",
+              "ones"
+            ],
+            "after": "place.",
+            "a": "tens"
+          },
+          {
+            "before": "In 350, the 0 is in the",
+            "options": [
+              "hundreds",
+              "tens",
+              "ones"
+            ],
+            "after": "place.",
+            "a": "ones"
+          },
+          {
+            "before": "In 813, the 8 is in the",
+            "options": [
+              "hundreds",
+              "tens",
+              "ones"
+            ],
+            "after": "place.",
+            "a": "hundreds"
+          },
+          {
+            "before": "In 296, the 6 is in the",
+            "options": [
+              "hundreds",
+              "tens",
+              "ones"
+            ],
+            "after": "place.",
+            "a": "ones"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the number. Watch the order.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "7 tens 4 ones 2 hundreds",
+            "a": "274"
+          },
+          {
+            "q": "5 ones 3 hundreds",
+            "a": "305"
+          },
+          {
+            "q": "9 hundreds 1 ten",
+            "a": "910"
+          },
+          {
+            "q": "8 ones 6 tens 1 hundred",
+            "a": "168"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "6 hundreds, 3 tens and 2 ones make 632.",
+            "a": true
+          },
+          {
+            "q": "There are 0 tens in 507.",
+            "a": true
+          },
+          {
+            "q": "4 hundreds and 5 ones make 45.",
+            "a": false
+          },
+          {
+            "q": "A digit can be 10.",
+            "a": false
+          },
+          {
+            "q": "Every 3-digit number has a hundreds place.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the seat problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The seat with 4 hundreds, 2 tens and 8 ones is seat ___.",
+            "a": "428"
+          },
+          {
+            "q": "Sameer's seat 563 has ___ tens.",
+            "a": "6"
+          },
+          {
+            "q": "Priya's seat 670 has ___ ones.",
+            "a": "0"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a 3-digit number you like. Write the value of each digit.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Check that the hundreds, tens and ones values match the number (for example 482 = 400, 80, 2)."
+      }
+    ]
+  },
+  {
+    "id": "place-value-05",
+    "topic": "place-value",
+    "number": 5,
+    "level": "Practice",
+    "title": "Tokens at the School Fete",
+    "intro": "At the school fete, children win point tokens of 100, 10 and 1.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blank.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In 863, the digit ___ is in the tens place.",
+            "a": "6"
+          },
+          {
+            "q": "The value of 9 in 498 is ___.",
+            "a": "90"
+          },
+          {
+            "q": "The number just after 299 has ___ in the hundreds place.",
+            "a": "3"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the number to its parts.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "724",
+            "right": "700 + 20 + 4"
+          },
+          {
+            "left": "742",
+            "right": "700 + 40 + 2"
+          },
+          {
+            "left": "247",
+            "right": "200 + 40 + 7"
+          },
+          {
+            "left": "274",
+            "right": "200 + 70 + 4"
+          },
+          {
+            "left": "427",
+            "right": "400 + 20 + 7"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the bigger number.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "562",
+              "526"
+            ],
+            "after": "",
+            "a": "562"
+          },
+          {
+            "before": "",
+            "options": [
+              "381",
+              "831"
+            ],
+            "after": "",
+            "a": "831"
+          },
+          {
+            "before": "",
+            "options": [
+              "709",
+              "790"
+            ],
+            "after": "",
+            "a": "790"
+          },
+          {
+            "before": "",
+            "options": [
+              "444",
+              "440"
+            ],
+            "after": "",
+            "a": "444"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the new number.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "10 more than 384",
+            "a": "394"
+          },
+          {
+            "q": "100 more than 384",
+            "a": "484"
+          },
+          {
+            "q": "1 more than 384",
+            "a": "385"
+          },
+          {
+            "q": "10 less than 610",
+            "a": "600"
+          },
+          {
+            "q": "100 less than 610",
+            "a": "510"
+          },
+          {
+            "q": "1 less than 610",
+            "a": "609"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the fete problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Leena has 3 tokens of 100, 5 tokens of 10 and 9 tokens of 1. That is ___ points.",
+            "a": "359"
+          },
+          {
+            "q": "Arjun has 4 tokens of 100 and 12 tokens of 10. That is ___ points.",
+            "a": "520"
+          },
+          {
+            "q": "The smallest 3-digit number with the digits 3, 0, 4 is ___.",
+            "a": "304"
+          }
+        ]
+      }
+    ]
+  }
+]

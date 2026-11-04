@@ -1,0 +1,580 @@
+[
+  {
+    "id": "our-environment-01",
+    "topic": "our-environment",
+    "number": 1,
+    "level": "Starter",
+    "title": "Beach Clean-Up Day",
+    "intro": "Ayaan's class joins a beach clean-up at Kite Beach. Litter harms the sea and its animals.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Plastic bags in the sea can hurt turtles and fish.",
+            "a": true
+          },
+          {
+            "q": "We should leave our litter on the sand.",
+            "a": false
+          },
+          {
+            "q": "Everything around us is called our environment.",
+            "a": true
+          },
+          {
+            "q": "Air, water, land, plants and animals are part of our environment.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Keeps it clean and Makes it dirty.",
+        "marks": 8,
+        "groups": [
+          "Keeps it clean",
+          "Makes it dirty"
+        ],
+        "words": [
+          "using a dustbin",
+          "picking up bottles",
+          "taking litter home",
+          "using a cloth bag",
+          "throwing wrappers",
+          "leaving food on the sand",
+          "dropping cans in the sea",
+          "burying plastic in the sand"
+        ],
+        "a": {
+          "using a dustbin": "Keeps it clean",
+          "picking up bottles": "Keeps it clean",
+          "taking litter home": "Keeps it clean",
+          "using a cloth bag": "Keeps it clean",
+          "throwing wrappers": "Makes it dirty",
+          "leaving food on the sand": "Makes it dirty",
+          "dropping cans in the sea": "Makes it dirty",
+          "burying plastic in the sand": "Makes it dirty"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We should throw litter in a ___.",
+            "a": "dustbin"
+          },
+          {
+            "q": "Ayaan wears ___ to pick up rubbish safely.",
+            "a": "gloves"
+          },
+          {
+            "q": "A clean beach is safe for people and ___.",
+            "a": "animals"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Plastic takes a",
+            "options": [
+              "very long",
+              "very short"
+            ],
+            "after": "time to break down.",
+            "a": "very long"
+          },
+          {
+            "before": "We should carry a",
+            "options": [
+              "cloth",
+              "plastic"
+            ],
+            "after": "bag to the shop.",
+            "a": "cloth"
+          },
+          {
+            "before": "Dirty water is",
+            "options": [
+              "harmful",
+              "good"
+            ],
+            "after": "for sea animals.",
+            "a": "harmful"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way you can keep a beach clean.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I will put my wrappers in the bin.\""
+      }
+    ]
+  },
+  {
+    "id": "our-environment-02",
+    "topic": "our-environment",
+    "number": 2,
+    "level": "Starter",
+    "title": "Saving Water at Home",
+    "intro": "Tanvi's family in Chennai is trying to save water. Every drop counts.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort into Saves water and Wastes water.",
+        "marks": 8,
+        "groups": [
+          "Saves water",
+          "Wastes water"
+        ],
+        "words": [
+          "closing the tap while brushing",
+          "using a bucket for a bath",
+          "fixing a leaking tap",
+          "watering plants in the evening",
+          "leaving the tap running",
+          "washing a car with a hose pipe",
+          "filling a bottle and spilling it",
+          "playing with the shower"
+        ],
+        "a": {
+          "closing the tap while brushing": "Saves water",
+          "using a bucket for a bath": "Saves water",
+          "fixing a leaking tap": "Saves water",
+          "watering plants in the evening": "Saves water",
+          "leaving the tap running": "Wastes water",
+          "washing a car with a hose pipe": "Wastes water",
+          "filling a bottle and spilling it": "Wastes water",
+          "playing with the shower": "Wastes water"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Clean drinking water is precious.",
+            "a": true
+          },
+          {
+            "q": "A dripping tap can waste lots of water.",
+            "a": true
+          },
+          {
+            "q": "We can reuse water from washing vegetables for plants.",
+            "a": true
+          },
+          {
+            "q": "We have endless clean water, so we can waste it.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Tanvi turns off the ___ while she soaps her hands.",
+            "a": "tap"
+          },
+          {
+            "q": "We can collect ___ water from the roof in a tank.",
+            "a": "rain"
+          },
+          {
+            "q": "Throwing rubbish in a river makes the water ___.",
+            "a": "dirty"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each use of water to the thing we use.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "drinking",
+            "right": "glass"
+          },
+          {
+            "left": "bathing",
+            "right": "bucket"
+          },
+          {
+            "left": "cooking",
+            "right": "pot"
+          },
+          {
+            "left": "watering plants",
+            "right": "watering can"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way you will save water at school.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I will close the tap after drinking.\""
+      }
+    ]
+  },
+  {
+    "id": "our-environment-03",
+    "topic": "our-environment",
+    "number": 3,
+    "level": "Starter",
+    "title": "The Tree Planting Drive",
+    "intro": "Ravi, Hana and their neighbours plant saplings along their street in Noida. Trees keep our earth green.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each part of a tree to how it helps.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "leaves",
+            "right": "make fresh oxygen"
+          },
+          {
+            "left": "branches",
+            "right": "homes for birds"
+          },
+          {
+            "left": "wood",
+            "right": "tables and doors"
+          },
+          {
+            "left": "roots",
+            "right": "hold the soil in place"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Trees give us shade on hot days.",
+            "a": true
+          },
+          {
+            "q": "Cutting down many trees is good for the earth.",
+            "a": false
+          },
+          {
+            "q": "Trees give us fruits to eat.",
+            "a": true
+          },
+          {
+            "q": "Trees help bring rain.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A young tree is called a ___.",
+            "a": "sapling"
+          },
+          {
+            "q": "Trees give out ___ that we breathe in.",
+            "a": "oxygen"
+          },
+          {
+            "q": "We should water a new plant every ___.",
+            "a": "day"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Ravi digs a",
+            "options": [
+              "hole",
+              "pond"
+            ],
+            "after": "to plant the sapling.",
+            "a": "hole"
+          },
+          {
+            "before": "Hana puts a",
+            "options": [
+              "tree guard",
+              "plastic bag"
+            ],
+            "after": "around the sapling.",
+            "a": "tree guard"
+          },
+          {
+            "before": "Trees keep the air",
+            "options": [
+              "clean",
+              "smoky"
+            ],
+            "after": "for us.",
+            "a": "clean"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things you get from trees.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"fruit, wood, shade, paper\". One mark each."
+      }
+    ]
+  },
+  {
+    "id": "our-environment-04",
+    "topic": "our-environment",
+    "number": 4,
+    "level": "Starter",
+    "title": "The Recycling Corner at School",
+    "intro": "Class 2 in Sharjah sets up a recycling corner. They learn to reduce, reuse and recycle.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the waste into Wet waste and Dry waste.",
+        "marks": 8,
+        "groups": [
+          "Wet waste",
+          "Dry waste"
+        ],
+        "words": [
+          "banana peel",
+          "tea leaves",
+          "eggshells",
+          "leftover rice",
+          "newspaper",
+          "plastic bottle",
+          "tin can",
+          "cardboard box"
+        ],
+        "a": {
+          "banana peel": "Wet waste",
+          "tea leaves": "Wet waste",
+          "eggshells": "Wet waste",
+          "leftover rice": "Wet waste",
+          "newspaper": "Dry waste",
+          "plastic bottle": "Dry waste",
+          "tin can": "Dry waste",
+          "cardboard box": "Dry waste"
+        }
+      },
+      {
+        "type": "match",
+        "title": "Match each word to its meaning.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "reduce",
+            "right": "use less"
+          },
+          {
+            "left": "reuse",
+            "right": "use again"
+          },
+          {
+            "left": "recycle",
+            "right": "make into something new"
+          },
+          {
+            "left": "compost",
+            "right": "rotted wet waste for plants"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that fits.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "We",
+            "options": [
+              "reuse",
+              "reduce"
+            ],
+            "after": "an old jar as a pencil holder.",
+            "a": "reuse"
+          },
+          {
+            "before": "We",
+            "options": [
+              "recycle",
+              "reduce"
+            ],
+            "after": "old paper to make new paper.",
+            "a": "recycle"
+          },
+          {
+            "before": "We",
+            "options": [
+              "reduce",
+              "recycle"
+            ],
+            "after": "waste by taking one paper towel, not five.",
+            "a": "reduce"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Wet waste can be turned into compost.",
+            "a": true
+          },
+          {
+            "q": "We should put all waste in one bag.",
+            "a": false
+          },
+          {
+            "q": "An old T-shirt can be reused as a duster.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing you can reuse at home.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I can reuse a box to keep my toys.\""
+      }
+    ]
+  },
+  {
+    "id": "our-environment-05",
+    "topic": "our-environment",
+    "number": 5,
+    "level": "Practice",
+    "title": "A Smoky Traffic Jam",
+    "intro": "Dhruv and his mum are stuck in traffic in Delhi. The air is full of smoke and honking.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each kind of pollution to its cause.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "air pollution",
+            "right": "smoke from cars"
+          },
+          {
+            "left": "water pollution",
+            "right": "rubbish in rivers"
+          },
+          {
+            "left": "land pollution",
+            "right": "litter on the ground"
+          },
+          {
+            "left": "noise pollution",
+            "right": "loud honking"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Smoke from factories makes the air dirty.",
+            "a": true
+          },
+          {
+            "q": "Walking or cycling short distances keeps the air clean.",
+            "a": true
+          },
+          {
+            "q": "Honking all the time is good for our ears.",
+            "a": false
+          },
+          {
+            "q": "Burning dry leaves and rubbish pollutes the air.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Good for the earth and Bad for the earth.",
+        "marks": 6,
+        "groups": [
+          "Good",
+          "Bad"
+        ],
+        "words": [
+          "taking the metro",
+          "planting trees",
+          "switching off lights",
+          "burning plastic",
+          "wasting paper",
+          "leaving the AC on"
+        ],
+        "a": {
+          "taking the metro": "Good",
+          "planting trees": "Good",
+          "switching off lights": "Good",
+          "burning plastic": "Bad",
+          "wasting paper": "Bad",
+          "leaving the AC on": "Bad"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Dirty air can make it hard to ___.",
+            "a": "breathe"
+          },
+          {
+            "q": "We should switch off the fan when we leave the ___.",
+            "a": "room"
+          },
+          {
+            "q": "Sharing a car with friends is called a ___.",
+            "a": "carpool"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things you will do to keep your city clean and green.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"I will not litter. I will plant a tree.\""
+      }
+    ]
+  }
+]

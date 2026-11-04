@@ -1,0 +1,635 @@
+[
+  {
+    "id": "shapes-01",
+    "topic": "shapes",
+    "number": 1,
+    "level": "Starter",
+    "title": "Shapes in Our Classroom",
+    "intro": "Class 2C goes on a shape hunt around the classroom. Look at the flat shapes.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write how many sides.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "triangle",
+            "a": "3"
+          },
+          {
+            "q": "square",
+            "a": "4"
+          },
+          {
+            "q": "rectangle",
+            "a": "4"
+          },
+          {
+            "q": "circle",
+            "a": "0"
+          },
+          {
+            "q": "pentagon",
+            "a": "5"
+          },
+          {
+            "q": "hexagon",
+            "a": "6"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each thing to its shape.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "the wall clock",
+            "right": "circle"
+          },
+          {
+            "left": "the classroom door",
+            "right": "rectangle"
+          },
+          {
+            "left": "a sticky note",
+            "right": "square"
+          },
+          {
+            "left": "a set square",
+            "right": "triangle"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A circle has no corners.",
+            "a": true
+          },
+          {
+            "q": "A square has 4 equal sides.",
+            "a": true
+          },
+          {
+            "q": "A triangle has 4 corners.",
+            "a": false
+          },
+          {
+            "q": "A rectangle has 2 long sides and 2 short sides.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the name of the shape.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A ___ has 3 sides and 3 corners.",
+            "a": "triangle"
+          },
+          {
+            "q": "A shape with 6 sides is a ___.",
+            "a": "hexagon"
+          },
+          {
+            "q": "A ___ is round and has no sides.",
+            "a": "circle"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things in your classroom shaped like a rectangle.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, for example a book, the board, a desk top or a window."
+      }
+    ]
+  },
+  {
+    "id": "shapes-02",
+    "topic": "shapes",
+    "number": 2,
+    "level": "Starter",
+    "title": "The Kitchen Cupboard",
+    "intro": "Ammi opens the kitchen cupboard. Many things inside are solid (3D) shapes.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each thing to its solid shape.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "a tin of peas",
+            "right": "cylinder"
+          },
+          {
+            "left": "an ice cream cone",
+            "right": "cone"
+          },
+          {
+            "left": "an orange",
+            "right": "sphere"
+          },
+          {
+            "left": "a juice box",
+            "right": "cuboid"
+          },
+          {
+            "left": "a sugar cube",
+            "right": "cube"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Is it a flat shape or a solid shape?",
+        "marks": 4,
+        "groups": [
+          "Flat (2D)",
+          "Solid (3D)"
+        ],
+        "words": [
+          "circle",
+          "cube",
+          "triangle",
+          "cone",
+          "square",
+          "sphere",
+          "rectangle",
+          "cylinder"
+        ],
+        "a": {
+          "circle": "Flat (2D)",
+          "cube": "Solid (3D)",
+          "triangle": "Flat (2D)",
+          "cone": "Solid (3D)",
+          "square": "Flat (2D)",
+          "sphere": "Solid (3D)",
+          "rectangle": "Flat (2D)",
+          "cylinder": "Solid (3D)"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Name the solid shape.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A football is shaped like a ___.",
+            "a": "sphere"
+          },
+          {
+            "q": "A matchbox is shaped like a ___.",
+            "a": "cuboid"
+          },
+          {
+            "q": "A dice is shaped like a ___.",
+            "a": "cube"
+          },
+          {
+            "q": "A birthday cap is shaped like a ___.",
+            "a": "cone"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A cylinder has a curved surface.",
+            "a": true
+          },
+          {
+            "q": "A cube is a flat shape.",
+            "a": false
+          },
+          {
+            "q": "A sphere has no corners.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name two things in your kitchen shaped like a cylinder.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, for example a glass, a tin, a rolling pin or a gas cylinder."
+      }
+    ]
+  },
+  {
+    "id": "shapes-03",
+    "topic": "shapes",
+    "number": 3,
+    "level": "Starter",
+    "title": "Toys in the Toy Box",
+    "intro": "Leo tips out his toy box. Count the flat faces, edges and corners of the solid shapes.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the numbers.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A cube has ___ flat faces.",
+            "a": "6"
+          },
+          {
+            "q": "A cube has ___ corners.",
+            "a": "8"
+          },
+          {
+            "q": "A cuboid has ___ edges.",
+            "a": "12"
+          },
+          {
+            "q": "A cylinder has ___ flat faces.",
+            "a": "2"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle what each toy does.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A marble",
+            "options": [
+              "rolls",
+              "slides"
+            ],
+            "after": ".",
+            "a": "rolls"
+          },
+          {
+            "before": "A square building block",
+            "options": [
+              "rolls",
+              "slides"
+            ],
+            "after": "on the floor.",
+            "a": "slides"
+          },
+          {
+            "before": "A cuboid pencil box",
+            "options": [
+              "rolls",
+              "slides"
+            ],
+            "after": ".",
+            "a": "slides"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A cylinder can roll and slide.",
+            "a": true
+          },
+          {
+            "q": "A cone has a pointed tip.",
+            "a": true
+          },
+          {
+            "q": "A sphere has 1 flat face.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the toy to its shape.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "a puzzle cube",
+            "right": "cube"
+          },
+          {
+            "left": "a toy drum",
+            "right": "cylinder"
+          },
+          {
+            "left": "a marble",
+            "right": "sphere"
+          },
+          {
+            "left": "a clown's hat",
+            "right": "cone"
+          },
+          {
+            "left": "a toy brick",
+            "right": "cuboid"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the toy problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Zara has 2 dice. Together they have ___ flat faces.",
+            "a": "12"
+          },
+          {
+            "q": "Ali has 2 toy drums shaped like cylinders. They have ___ flat faces in all.",
+            "a": "4"
+          },
+          {
+            "q": "Leo has 3 toy bricks shaped like cuboids. They have ___ corners in all.",
+            "a": "24"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shapes-04",
+    "topic": "shapes",
+    "number": 4,
+    "level": "Starter",
+    "title": "Kite Festival in Ahmedabad",
+    "intro": "It is Uttarayan and the sky is full of kites. Kites and their tails use many flat shapes.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Count the sides and corners.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "2 triangles have ___ sides altogether.",
+            "a": "6"
+          },
+          {
+            "q": "A square and a triangle have ___ corners together.",
+            "a": "7"
+          },
+          {
+            "q": "3 rectangles have ___ sides altogether.",
+            "a": "12"
+          },
+          {
+            "q": "A hexagon has ___ more sides than a square.",
+            "a": "2"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the shapes.",
+        "marks": 3,
+        "groups": [
+          "4 sides",
+          "Not 4 sides"
+        ],
+        "words": [
+          "square",
+          "rectangle",
+          "kite",
+          "triangle",
+          "circle",
+          "pentagon"
+        ],
+        "a": {
+          "square": "4 sides",
+          "rectangle": "4 sides",
+          "kite": "4 sides",
+          "triangle": "Not 4 sides",
+          "circle": "Not 4 sides",
+          "pentagon": "Not 4 sides"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct shape.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A shape with 5 sides is a",
+            "options": [
+              "pentagon",
+              "hexagon"
+            ],
+            "after": ".",
+            "a": "pentagon"
+          },
+          {
+            "before": "A shape with 4 equal sides and 4 square corners is a",
+            "options": [
+              "square",
+              "rectangle"
+            ],
+            "after": ".",
+            "a": "square"
+          },
+          {
+            "before": "A flat shape like an egg is an",
+            "options": [
+              "oval",
+              "circle"
+            ],
+            "after": ".",
+            "a": "oval"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A kite shape has 4 sides.",
+            "a": true
+          },
+          {
+            "q": "An oval has 2 corners.",
+            "a": false
+          },
+          {
+            "q": "A hexagon has 6 corners.",
+            "a": true
+          },
+          {
+            "q": "Two triangles can join to make a square.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the kite problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Om cuts out 5 triangles for kite tails. They have ___ corners in all.",
+            "a": "15"
+          },
+          {
+            "q": "Each kite shape has 4 sides. 6 kites have ___ sides.",
+            "a": "24"
+          },
+          {
+            "q": "Riya draws a pentagon and a hexagon. They have ___ sides in all.",
+            "a": "11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shapes-05",
+    "topic": "shapes",
+    "number": 5,
+    "level": "Practice",
+    "title": "Building a Sandcastle at the Beach",
+    "intro": "Rhea and Yusuf build a sandcastle at Kite Beach. They use buckets and moulds of many shapes.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the shape of the flat face.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The flat faces of a cube are",
+            "options": [
+              "squares",
+              "circles"
+            ],
+            "after": ".",
+            "a": "squares"
+          },
+          {
+            "before": "The flat face of a cone is a",
+            "options": [
+              "circle",
+              "triangle"
+            ],
+            "after": ".",
+            "a": "circle"
+          },
+          {
+            "before": "The flat faces of a cylinder are",
+            "options": [
+              "circles",
+              "rectangles"
+            ],
+            "after": ".",
+            "a": "circles"
+          },
+          {
+            "before": "The faces of a long cuboid box are",
+            "options": [
+              "rectangles",
+              "triangles"
+            ],
+            "after": ".",
+            "a": "rectangles"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the beach thing to its shape.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "a beach ball",
+            "right": "sphere"
+          },
+          {
+            "left": "a pointed tower top",
+            "right": "cone"
+          },
+          {
+            "left": "a cooler box",
+            "right": "cuboid"
+          },
+          {
+            "left": "an ice cube",
+            "right": "cube"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Can it roll?",
+        "marks": 3,
+        "groups": [
+          "Can roll",
+          "Cannot roll"
+        ],
+        "words": [
+          "beach ball",
+          "tin can",
+          "ice cream cone",
+          "dice",
+          "brick",
+          "shoe box"
+        ],
+        "a": {
+          "beach ball": "Can roll",
+          "tin can": "Can roll",
+          "ice cream cone": "Can roll",
+          "dice": "Cannot roll",
+          "brick": "Cannot roll",
+          "shoe box": "Cannot roll"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A sphere has no edges.",
+            "a": true
+          },
+          {
+            "q": "A cuboid has 6 faces.",
+            "a": true
+          },
+          {
+            "q": "A cone has 2 flat faces.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the sandcastle problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A cube and a cuboid have ___ corners in all.",
+            "a": "16"
+          },
+          {
+            "q": "A cylinder and a cone have ___ flat faces in all.",
+            "a": "3"
+          },
+          {
+            "q": "A cube has ___ more corners than a cone.",
+            "a": "7"
+          }
+        ]
+      }
+    ]
+  }
+]

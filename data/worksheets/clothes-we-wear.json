@@ -1,0 +1,605 @@
+[
+  {
+    "id": "clothes-we-wear-01",
+    "topic": "clothes-we-wear",
+    "number": 1,
+    "level": "Starter",
+    "title": "A Summer Holiday in Dubai",
+    "intro": "It is very hot in Dubai in July. Aisha and her cousin Rohan pack clothes for the beach.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "We wear cotton clothes in summer.",
+            "a": true
+          },
+          {
+            "q": "Cotton clothes soak up sweat and keep us cool.",
+            "a": true
+          },
+          {
+            "q": "Thick woollen sweaters are good for a hot day.",
+            "a": false
+          },
+          {
+            "q": "Light-coloured clothes keep us cooler in the sun.",
+            "a": true
+          },
+          {
+            "q": "A cap protects our head from the hot sun.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the things.",
+        "marks": 8,
+        "groups": [
+          "Good for a hot day",
+          "Not good for a hot day"
+        ],
+        "words": [
+          "cotton T-shirt",
+          "shorts",
+          "sun hat",
+          "sandals",
+          "woollen sweater",
+          "gloves",
+          "thick muffler",
+          "fur boots"
+        ],
+        "a": {
+          "cotton T-shirt": "Good for a hot day",
+          "shorts": "Good for a hot day",
+          "sun hat": "Good for a hot day",
+          "sandals": "Good for a hot day",
+          "woollen sweater": "Not good for a hot day",
+          "gloves": "Not good for a hot day",
+          "thick muffler": "Not good for a hot day",
+          "fur boots": "Not good for a hot day"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Cotton comes from the cotton ___.",
+            "a": "plant"
+          },
+          {
+            "q": "In summer we wear loose and ___ clothes.",
+            "a": "light"
+          },
+          {
+            "q": "Aisha wears ___ to protect her eyes from the sun.",
+            "a": "sunglasses"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Rohan wears a",
+            "options": [
+              "cotton",
+              "woollen"
+            ],
+            "after": "shirt to the beach.",
+            "a": "cotton"
+          },
+          {
+            "before": "On a hot day we feel",
+            "options": [
+              "sweaty",
+              "cold"
+            ],
+            "after": ".",
+            "a": "sweaty"
+          },
+          {
+            "before": "We wear clothes to protect our",
+            "options": [
+              "body",
+              "books"
+            ],
+            "after": ".",
+            "a": "body"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two clothes you would pack for a summer trip.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any two summer clothes, e.g. cotton T-shirt, shorts, cap, sandals, cotton frock."
+      }
+    ]
+  },
+  {
+    "id": "clothes-we-wear-02",
+    "topic": "clothes-we-wear",
+    "number": 2,
+    "level": "Starter",
+    "title": "A Winter Trip to Shimla",
+    "intro": "Vikram's family goes to Shimla in December. It is snowing.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the woollen thing to where we wear it.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "cap",
+            "right": "on our head"
+          },
+          {
+            "left": "gloves",
+            "right": "on our hands"
+          },
+          {
+            "left": "muffler",
+            "right": "around our neck"
+          },
+          {
+            "left": "socks",
+            "right": "on our feet"
+          },
+          {
+            "left": "sweater",
+            "right": "on our body"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Wool comes from sheep.",
+            "a": true
+          },
+          {
+            "q": "Woollen clothes keep us warm.",
+            "a": true
+          },
+          {
+            "q": "We wear thin cotton clothes in the snow.",
+            "a": false
+          },
+          {
+            "q": "Some wool also comes from goats and camels.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "In winter we wear",
+            "options": [
+              "woollen",
+              "thin"
+            ],
+            "after": "clothes.",
+            "a": "woollen"
+          },
+          {
+            "before": "A thick",
+            "options": [
+              "jacket",
+              "vest"
+            ],
+            "after": "keeps Vikram warm.",
+            "a": "jacket"
+          },
+          {
+            "before": "We use a",
+            "options": [
+              "blanket",
+              "fan"
+            ],
+            "after": "on cold nights.",
+            "a": "blanket"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the season we wear it in: summer or winter.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "sweater",
+            "a": "winter"
+          },
+          {
+            "q": "cotton frock",
+            "a": "summer"
+          },
+          {
+            "q": "mittens",
+            "a": "winter"
+          },
+          {
+            "q": "half-sleeve shirt",
+            "a": "summer"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why do we wear woollen clothes in winter? Write it.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Woollen clothes keep us warm in the cold."
+      }
+    ]
+  },
+  {
+    "id": "clothes-we-wear-03",
+    "topic": "clothes-we-wear",
+    "number": 3,
+    "level": "Starter",
+    "title": "Monsoon Days in Mumbai",
+    "intro": "It is raining hard in Mumbai. Ananya and her friend Peter get ready for school.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the rainwear to how it helps.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "raincoat",
+            "right": "keeps our body dry"
+          },
+          {
+            "left": "umbrella",
+            "right": "we hold it over our head"
+          },
+          {
+            "left": "gumboots",
+            "right": "keep our feet dry in puddles"
+          },
+          {
+            "left": "rain hat",
+            "right": "keeps rain off our hair"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A raincoat does not let water pass through.",
+            "a": true
+          },
+          {
+            "q": "Cotton shirts keep us dry in the rain.",
+            "a": false
+          },
+          {
+            "q": "Raincoats are often made of plastic or rubber.",
+            "a": true
+          },
+          {
+            "q": "We should dry wet clothes before wearing them again.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: does it let water through?",
+        "marks": 6,
+        "groups": [
+          "Keeps water out",
+          "Lets water in"
+        ],
+        "words": [
+          "raincoat",
+          "rubber boots",
+          "plastic umbrella",
+          "cotton shirt",
+          "woollen socks",
+          "cloth shoes"
+        ],
+        "a": {
+          "raincoat": "Keeps water out",
+          "rubber boots": "Keeps water out",
+          "plastic umbrella": "Keeps water out",
+          "cotton shirt": "Lets water in",
+          "woollen socks": "Lets water in",
+          "cloth shoes": "Lets water in"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ananya wears her ___ over her uniform.",
+            "a": "raincoat"
+          },
+          {
+            "q": "Peter jumps in a puddle in his ___.",
+            "a": "gumboots"
+          },
+          {
+            "q": "In the rainy season we carry an ___.",
+            "a": "umbrella"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write what you wear to school on a rainy day.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. a raincoat and gumboots, or I carry an umbrella."
+      }
+    ]
+  },
+  {
+    "id": "clothes-we-wear-04",
+    "topic": "clothes-we-wear",
+    "number": 4,
+    "level": "Starter",
+    "title": "Career Day at School",
+    "intro": "Children in Class 2 dress up as helpers. They guess who wears what.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the helper to their special clothes.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "doctor",
+            "right": "white coat"
+          },
+          {
+            "left": "firefighter",
+            "right": "fireproof suit"
+          },
+          {
+            "left": "chef",
+            "right": "tall white cap and apron"
+          },
+          {
+            "left": "police officer",
+            "right": "uniform with a badge"
+          },
+          {
+            "left": "astronaut",
+            "right": "space suit"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Some people wear special clothes for their work.",
+            "a": true
+          },
+          {
+            "q": "A firefighter's suit keeps out heat.",
+            "a": true
+          },
+          {
+            "q": "Children wear a uniform to school.",
+            "a": true
+          },
+          {
+            "q": "A swimmer wears a woollen sweater in the pool.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A cook wears an",
+            "options": [
+              "apron",
+              "raincoat"
+            ],
+            "after": "to keep clothes clean.",
+            "a": "apron"
+          },
+          {
+            "before": "A builder wears a hard",
+            "options": [
+              "helmet",
+              "pillow"
+            ],
+            "after": "to keep the head safe.",
+            "a": "helmet"
+          },
+          {
+            "before": "A swimmer wears a",
+            "options": [
+              "swimsuit",
+              "sweater"
+            ],
+            "after": ".",
+            "a": "swimsuit"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Nurses and doctors wear a ___ over the nose and mouth.",
+            "a": "mask"
+          },
+          {
+            "q": "Players in one team wear the same ___.",
+            "a": "jersey"
+          },
+          {
+            "q": "Kavya dresses up as a doctor in a white ___.",
+            "a": "coat"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "What would you like to be? Write what clothes you would wear.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"I want to be a pilot. I will wear a uniform and a cap.\""
+      }
+    ]
+  },
+  {
+    "id": "clothes-we-wear-05",
+    "topic": "clothes-we-wear",
+    "number": 5,
+    "level": "Practice",
+    "title": "Eid and Diwali Dress-Up",
+    "intro": "Hamza celebrates Eid and his friend Ishita celebrates Diwali. They show each other their new clothes.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the material to where it comes from.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "cotton",
+            "right": "cotton plant"
+          },
+          {
+            "left": "wool",
+            "right": "sheep"
+          },
+          {
+            "left": "silk",
+            "right": "silkworm"
+          },
+          {
+            "left": "jute",
+            "right": "jute plant"
+          },
+          {
+            "left": "leather",
+            "right": "animal skin"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the clothes.",
+        "marks": 6,
+        "groups": [
+          "Festival clothes",
+          "Everyday clothes"
+        ],
+        "words": [
+          "silk saree",
+          "lehenga",
+          "sherwani",
+          "school uniform",
+          "pyjamas",
+          "shorts"
+        ],
+        "a": {
+          "silk saree": "Festival clothes",
+          "lehenga": "Festival clothes",
+          "sherwani": "Festival clothes",
+          "school uniform": "Everyday clothes",
+          "pyjamas": "Everyday clothes",
+          "shorts": "Everyday clothes"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Silk is a soft and shiny material.",
+            "a": true
+          },
+          {
+            "q": "Nylon is made in factories.",
+            "a": true
+          },
+          {
+            "q": "Leather is used to make shoes and belts.",
+            "a": true
+          },
+          {
+            "q": "Jute comes from sheep.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Hamza wears a white",
+            "options": [
+              "kandura",
+              "raincoat"
+            ],
+            "after": "for Eid.",
+            "a": "kandura"
+          },
+          {
+            "before": "We",
+            "options": [
+              "wash",
+              "throw"
+            ],
+            "after": "dirty clothes.",
+            "a": "wash"
+          },
+          {
+            "before": "We",
+            "options": [
+              "iron",
+              "burn"
+            ],
+            "after": "clothes to make them smooth.",
+            "a": "iron"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways to take care of your clothes.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. wash them, iron them, fold them, hang them up, do not throw them on the floor."
+      }
+    ]
+  }
+]

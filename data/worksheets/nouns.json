@@ -1,0 +1,602 @@
+[
+  {
+    "id": "nouns-01",
+    "topic": "nouns",
+    "number": 1,
+    "level": "Starter",
+    "title": "Our Classroom",
+    "intro": "Welcome to Class 2B. A noun is a naming word. It names a person, place, animal or thing.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the words into naming words and other words.",
+        "marks": 8,
+        "groups": [
+          "Naming word",
+          "Not a naming word"
+        ],
+        "words": [
+          "desk",
+          "run",
+          "chalk",
+          "happy",
+          "teacher",
+          "quickly",
+          "window",
+          "jump"
+        ],
+        "a": {
+          "desk": "Naming word",
+          "run": "Not a naming word",
+          "chalk": "Naming word",
+          "happy": "Not a naming word",
+          "teacher": "Naming word",
+          "quickly": "Not a naming word",
+          "window": "Naming word",
+          "jump": "Not a naming word"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the naming word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "sing",
+              "globe"
+            ],
+            "after": "",
+            "a": "globe"
+          },
+          {
+            "before": "",
+            "options": [
+              "duster",
+              "soft"
+            ],
+            "after": "",
+            "a": "duster"
+          },
+          {
+            "before": "",
+            "options": [
+              "clap",
+              "monitor"
+            ],
+            "after": "",
+            "a": "monitor"
+          },
+          {
+            "before": "",
+            "options": [
+              "slowly",
+              "crayon"
+            ],
+            "after": "",
+            "a": "crayon"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the naming word in each sentence.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The clock ticks. ___",
+            "a": "clock"
+          },
+          {
+            "q": "Hana smiled. ___",
+            "a": "Hana"
+          },
+          {
+            "q": "The fan is on. ___",
+            "a": "fan"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Blackboard\" is a naming word.",
+            "a": true
+          },
+          {
+            "q": "\"Write\" is a naming word.",
+            "a": false
+          },
+          {
+            "q": "A noun can name a person.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write the names of three things in your school bag.",
+        "marks": 3,
+        "lines": 1,
+        "a": "Any three nouns, e.g. pencil, book, bottle."
+      }
+    ]
+  },
+  {
+    "id": "nouns-02",
+    "topic": "nouns",
+    "number": 2,
+    "level": "Starter",
+    "title": "A Morning at the Farm",
+    "intro": "Vikram visits his uncle's farm in Punjab. Nouns name people, animals, places and things.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the nouns into people, animals and things.",
+        "marks": 9,
+        "groups": [
+          "Person",
+          "Animal",
+          "Thing"
+        ],
+        "words": [
+          "farmer",
+          "cow",
+          "bucket",
+          "uncle",
+          "hen",
+          "tractor",
+          "milkman",
+          "goat",
+          "rope"
+        ],
+        "a": {
+          "farmer": "Person",
+          "cow": "Animal",
+          "bucket": "Thing",
+          "uncle": "Person",
+          "hen": "Animal",
+          "tractor": "Thing",
+          "milkman": "Person",
+          "goat": "Animal",
+          "rope": "Thing"
+        }
+      },
+      {
+        "type": "match",
+        "title": "Match the animal to the place it lives on the farm.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "horse",
+            "right": "stable"
+          },
+          {
+            "left": "hen",
+            "right": "coop"
+          },
+          {
+            "left": "pig",
+            "right": "sty"
+          },
+          {
+            "left": "cow",
+            "right": "shed"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the noun that names an animal.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "field",
+              "buffalo"
+            ],
+            "after": "",
+            "a": "buffalo"
+          },
+          {
+            "before": "",
+            "options": [
+              "duck",
+              "basket"
+            ],
+            "after": "",
+            "a": "duck"
+          },
+          {
+            "before": "",
+            "options": [
+              "sheep",
+              "farmer"
+            ],
+            "after": "",
+            "a": "sheep"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the two nouns in each sentence.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "The dog chased the cat. ___",
+            "a": "dog, cat"
+          },
+          {
+            "q": "Vikram fed the calf. ___",
+            "a": "Vikram, calf"
+          },
+          {
+            "q": "The hen laid an egg. ___",
+            "a": "hen, egg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nouns-03",
+    "topic": "nouns",
+    "number": 3,
+    "level": "Starter",
+    "title": "Around Our Neighbourhood",
+    "intro": "Aisha walks around her neighbourhood in Sharjah. Some nouns name places.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the person to the place where they work.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "doctor",
+            "right": "hospital"
+          },
+          {
+            "left": "teacher",
+            "right": "school"
+          },
+          {
+            "left": "chef",
+            "right": "restaurant"
+          },
+          {
+            "left": "pilot",
+            "right": "airport"
+          },
+          {
+            "left": "baker",
+            "right": "bakery"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the noun that names a place.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "park",
+              "swing"
+            ],
+            "after": "",
+            "a": "park"
+          },
+          {
+            "before": "",
+            "options": [
+              "book",
+              "library"
+            ],
+            "after": "",
+            "a": "library"
+          },
+          {
+            "before": "",
+            "options": [
+              "mosque",
+              "lamp"
+            ],
+            "after": "",
+            "a": "mosque"
+          },
+          {
+            "before": "",
+            "options": [
+              "stamp",
+              "post office"
+            ],
+            "after": "",
+            "a": "post office"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a place noun from the box: shop, garden, pool.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We buy bread at the ___.",
+            "a": "shop"
+          },
+          {
+            "q": "Aisha swims in the ___.",
+            "a": "pool"
+          },
+          {
+            "q": "Flowers grow in the ___.",
+            "a": "garden"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Market\" names a place.",
+            "a": true
+          },
+          {
+            "q": "\"Mechanic\" names a place.",
+            "a": false
+          },
+          {
+            "q": "\"Bus stop\" names a place.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write the names of two places near your home.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any two place nouns, e.g. park, supermarket."
+      }
+    ]
+  },
+  {
+    "id": "nouns-04",
+    "topic": "nouns",
+    "number": 4,
+    "level": "Starter",
+    "title": "A Desert Safari Evening",
+    "intro": "Daniel and his family go on a desert safari near Dubai. Find the nouns in their evening.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the noun that names a thing in each sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The jeep went fast. ___",
+            "a": "jeep"
+          },
+          {
+            "q": "Mum drank the tea. ___",
+            "a": "tea"
+          },
+          {
+            "q": "Daniel wore his cap. ___",
+            "a": "cap"
+          },
+          {
+            "q": "The guide lit a lantern. ___",
+            "a": "lantern"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the nouns into person, place, animal and thing.",
+        "marks": 8,
+        "groups": [
+          "Person",
+          "Place",
+          "Animal",
+          "Thing"
+        ],
+        "words": [
+          "driver",
+          "desert",
+          "camel",
+          "hat",
+          "dancer",
+          "camp",
+          "falcon",
+          "torch"
+        ],
+        "a": {
+          "driver": "Person",
+          "desert": "Place",
+          "camel": "Animal",
+          "hat": "Thing",
+          "dancer": "Person",
+          "camp": "Place",
+          "falcon": "Animal",
+          "torch": "Thing"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Sand\" is a noun.",
+            "a": true
+          },
+          {
+            "q": "\"Ride\" is a noun in \"We ride the camel.\"",
+            "a": false
+          },
+          {
+            "q": "\"Sister\" names a person.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write a sentence about the safari. Underline the nouns.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Use at least two nouns.",
+            "a": "Answers will vary; check two or more nouns are underlined, e.g. \"The camel walked on the sand.\""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nouns-05",
+    "topic": "nouns",
+    "number": 5,
+    "level": "Practice",
+    "title": "A Visit to the Toy Shop",
+    "intro": "Priya and Josh are at a toy shop. One noun names one thing. Add s or es when there are many.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the noun for many. Add s or es.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "doll",
+            "a": "dolls"
+          },
+          {
+            "q": "box",
+            "a": "boxes"
+          },
+          {
+            "q": "ball",
+            "a": "balls"
+          },
+          {
+            "q": "bus",
+            "a": "buses"
+          },
+          {
+            "q": "car",
+            "a": "cars"
+          },
+          {
+            "q": "watch",
+            "a": "watches"
+          },
+          {
+            "q": "kite",
+            "a": "kites"
+          },
+          {
+            "q": "brush",
+            "a": "brushes"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Josh bought two",
+            "options": [
+              "robot",
+              "robots"
+            ],
+            "after": ".",
+            "a": "robots"
+          },
+          {
+            "before": "Priya found one",
+            "options": [
+              "puzzle",
+              "puzzles"
+            ],
+            "after": "she liked.",
+            "a": "puzzle"
+          },
+          {
+            "before": "The shop had five",
+            "options": [
+              "dress",
+              "dresses"
+            ],
+            "after": "for dolls.",
+            "a": "dresses"
+          },
+          {
+            "before": "We saw three toy",
+            "options": [
+              "trains",
+              "train"
+            ],
+            "after": "on a track.",
+            "a": "trains"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the nouns into one and many.",
+        "marks": 6,
+        "groups": [
+          "One",
+          "Many"
+        ],
+        "words": [
+          "teddies",
+          "drum",
+          "blocks",
+          "whistle",
+          "marbles",
+          "bench"
+        ],
+        "a": {
+          "teddies": "Many",
+          "drum": "One",
+          "blocks": "Many",
+          "whistle": "One",
+          "marbles": "Many",
+          "bench": "One"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the noun for many.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Josh has three ___ (bat).",
+            "a": "bats"
+          },
+          {
+            "q": "There are two ___ (fox) on the box.",
+            "a": "foxes"
+          },
+          {
+            "q": "Priya counted six ___ (crayon).",
+            "a": "crayons"
+          }
+        ]
+      }
+    ]
+  }
+]

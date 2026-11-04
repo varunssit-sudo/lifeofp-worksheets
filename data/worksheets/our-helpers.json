@@ -1,0 +1,603 @@
+[
+  {
+    "id": "our-helpers-01",
+    "topic": "our-helpers",
+    "number": 1,
+    "level": "Starter",
+    "title": "The Busy Market Street",
+    "intro": "Pooja walks down the market street in Mysuru with her aunt. Many helpers are at work.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each helper to the tool they use.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "tailor",
+            "right": "sewing machine"
+          },
+          {
+            "left": "barber",
+            "right": "comb and scissors"
+          },
+          {
+            "left": "cobbler",
+            "right": "needle and thread for shoes"
+          },
+          {
+            "left": "baker",
+            "right": "oven"
+          },
+          {
+            "left": "vegetable seller",
+            "right": "weighing scale"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the helper.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The ___ stitches Pooja's new dress.",
+            "a": "tailor"
+          },
+          {
+            "q": "The ___ cuts and styles hair.",
+            "a": "barber"
+          },
+          {
+            "q": "The ___ mends torn shoes and sandals.",
+            "a": "cobbler"
+          },
+          {
+            "q": "The ___ makes fresh bread and cakes.",
+            "a": "baker"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A cobbler bakes bread.",
+            "a": false
+          },
+          {
+            "q": "We should say thank you to our helpers.",
+            "a": true
+          },
+          {
+            "q": "A florist sells flowers.",
+            "a": true
+          },
+          {
+            "q": "A tailor sells vegetables.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct helper.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Aunty buys medicines from the",
+            "options": [
+              "chemist",
+              "barber"
+            ],
+            "after": "at the corner.",
+            "a": "chemist"
+          },
+          {
+            "before": "Pooja buys a garland from the",
+            "options": [
+              "florist",
+              "cobbler"
+            ],
+            "after": "near the temple.",
+            "a": "florist"
+          },
+          {
+            "before": "They buy fresh fish from the",
+            "options": [
+              "fishmonger",
+              "tailor"
+            ],
+            "after": "in the market.",
+            "a": "fishmonger"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write the name of one helper you meet every week.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I meet the vegetable seller.\""
+      }
+    ]
+  },
+  {
+    "id": "our-helpers-02",
+    "topic": "our-helpers",
+    "number": 2,
+    "level": "Starter",
+    "title": "The Helpers in Our School",
+    "intro": "Many people help Class 2 at school in Dubai every day. Leela thanks each one of them.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the helpers into Inside the classroom and Outside the classroom.",
+        "marks": 6,
+        "groups": [
+          "Inside the classroom",
+          "Outside the classroom"
+        ],
+        "words": [
+          "class teacher",
+          "music teacher",
+          "art teacher",
+          "bus driver",
+          "security guard",
+          "gardener"
+        ],
+        "a": {
+          "class teacher": "Inside the classroom",
+          "music teacher": "Inside the classroom",
+          "art teacher": "Inside the classroom",
+          "bus driver": "Outside the classroom",
+          "security guard": "Outside the classroom",
+          "gardener": "Outside the classroom"
+        }
+      },
+      {
+        "type": "match",
+        "title": "Match each school helper to their job.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "principal",
+            "right": "runs the whole school"
+          },
+          {
+            "left": "librarian",
+            "right": "looks after the books"
+          },
+          {
+            "left": "school nurse",
+            "right": "helps when we are hurt"
+          },
+          {
+            "left": "cleaner",
+            "right": "keeps the floors clean"
+          },
+          {
+            "left": "bus driver",
+            "right": "drives us to school"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct helper.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Leela fell and hurt her knee. She goes to the",
+            "options": [
+              "school nurse",
+              "gardener"
+            ],
+            "after": "for help.",
+            "a": "school nurse"
+          },
+          {
+            "before": "Raj wants a new storybook. He asks the",
+            "options": [
+              "librarian",
+              "guard"
+            ],
+            "after": "in the library.",
+            "a": "librarian"
+          },
+          {
+            "before": "The",
+            "options": [
+              "security guard",
+              "art teacher"
+            ],
+            "after": "checks visitors at the gate.",
+            "a": "security guard"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The gardener takes care of plants in the school.",
+            "a": true
+          },
+          {
+            "q": "We should keep our classroom tidy to help the cleaner.",
+            "a": true
+          },
+          {
+            "q": "The bus driver teaches maths in class.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a thank-you line for one school helper.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"Thank you, Mr Ali, for driving us safely.\""
+      }
+    ]
+  },
+  {
+    "id": "our-helpers-03",
+    "topic": "our-helpers",
+    "number": 3,
+    "level": "Starter",
+    "title": "The Fire Drill at School",
+    "intro": "The fire alarm rings for a practice drill. Firefighters come to show Class 2 how to stay safe.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each helper to how they keep us safe.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "firefighter",
+            "right": "puts out fires"
+          },
+          {
+            "left": "police officer",
+            "right": "keeps law and order"
+          },
+          {
+            "left": "paramedic",
+            "right": "helps sick people in an ambulance"
+          },
+          {
+            "left": "lifeguard",
+            "right": "saves swimmers at the pool"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Firefighters ride in a red fire ___.",
+            "a": "engine"
+          },
+          {
+            "q": "They spray ___ on the fire with a long hose.",
+            "a": "water"
+          },
+          {
+            "q": "An ___ takes sick people to the hospital fast.",
+            "a": "ambulance"
+          },
+          {
+            "q": "In the UAE, we call 999 for the ___.",
+            "a": "police"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "During a fire drill we walk out in a line.",
+            "a": true
+          },
+          {
+            "q": "We should hide under the bed if there is a fire.",
+            "a": false
+          },
+          {
+            "q": "Firefighters wear helmets and special suits.",
+            "a": true
+          },
+          {
+            "q": "We should never play with matches.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "When the alarm rings, we",
+            "options": [
+              "walk",
+              "run and push"
+            ],
+            "after": "to the field.",
+            "a": "walk"
+          },
+          {
+            "before": "A police officer blows a",
+            "options": [
+              "whistle",
+              "trumpet"
+            ],
+            "after": "to stop traffic.",
+            "a": "whistle"
+          },
+          {
+            "before": "We stay",
+            "options": [
+              "calm",
+              "noisy"
+            ],
+            "after": "during a fire drill.",
+            "a": "calm"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one rule to follow in a fire drill.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"Walk quietly and follow the teacher.\""
+      }
+    ]
+  },
+  {
+    "id": "our-helpers-04",
+    "topic": "our-helpers",
+    "number": 4,
+    "level": "Starter",
+    "title": "Building Our New House",
+    "intro": "Farhan's family is building a new house in Hyderabad. Many helpers work together.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each helper to their work.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "mason",
+            "right": "builds walls with bricks"
+          },
+          {
+            "left": "carpenter",
+            "right": "makes doors and windows"
+          },
+          {
+            "left": "plumber",
+            "right": "fixes pipes and taps"
+          },
+          {
+            "left": "electrician",
+            "right": "fixes wires and lights"
+          },
+          {
+            "left": "painter",
+            "right": "colours the walls"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write who uses each tool.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "saw",
+            "a": "carpenter"
+          },
+          {
+            "q": "wrench",
+            "a": "plumber"
+          },
+          {
+            "q": "brush and roller",
+            "a": "painter"
+          },
+          {
+            "q": "trowel",
+            "a": "mason"
+          },
+          {
+            "q": "tester screwdriver",
+            "a": "electrician"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the helper the family needs.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The kitchen tap is leaking. Call the",
+            "options": [
+              "plumber",
+              "painter"
+            ],
+            "after": "today.",
+            "a": "plumber"
+          },
+          {
+            "before": "The fan does not work. Call the",
+            "options": [
+              "electrician",
+              "mason"
+            ],
+            "after": "to fix it.",
+            "a": "electrician"
+          },
+          {
+            "before": "The cupboard door is broken. Call the",
+            "options": [
+              "carpenter",
+              "plumber"
+            ],
+            "after": "to mend it.",
+            "a": "carpenter"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "An architect draws the plan of a house.",
+            "a": true
+          },
+          {
+            "q": "A carpenter works with wood.",
+            "a": true
+          },
+          {
+            "q": "A plumber paints the walls.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write what would happen if there were no plumbers.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"Leaking pipes would not be fixed and we would waste water.\""
+      }
+    ]
+  },
+  {
+    "id": "our-helpers-05",
+    "topic": "our-helpers",
+    "number": 5,
+    "level": "Practice",
+    "title": "Who Am I? Riddle Time",
+    "intro": "Class 2 in Ajmer plays a riddle game about helpers. Read each clue and guess the helper.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the clue. Name the helper.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "I grow rice and wheat in the fields. I am a ___.",
+            "a": "farmer"
+          },
+          {
+            "q": "I bring letters and parcels to your door. I am a ___.",
+            "a": "postman"
+          },
+          {
+            "q": "I check your teeth and keep them healthy. I am a ___.",
+            "a": "dentist"
+          },
+          {
+            "q": "I fly an aeroplane high in the sky. I am a ___.",
+            "a": "pilot"
+          },
+          {
+            "q": "I collect rubbish to keep the streets clean. I am a ___.",
+            "a": "sanitation worker"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each helper to where they work.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "doctor",
+            "right": "hospital"
+          },
+          {
+            "left": "teacher",
+            "right": "school"
+          },
+          {
+            "left": "librarian",
+            "right": "library"
+          },
+          {
+            "left": "vet",
+            "right": "animal clinic"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the helpers into Keeps us healthy and Helps us travel.",
+        "marks": 6,
+        "groups": [
+          "Keeps us healthy",
+          "Helps us travel"
+        ],
+        "words": [
+          "doctor",
+          "nurse",
+          "pharmacist",
+          "train driver",
+          "bus driver",
+          "taxi driver"
+        ],
+        "a": {
+          "doctor": "Keeps us healthy",
+          "nurse": "Keeps us healthy",
+          "pharmacist": "Keeps us healthy",
+          "train driver": "Helps us travel",
+          "bus driver": "Helps us travel",
+          "taxi driver": "Helps us travel"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A mechanic repairs cars.",
+            "a": true
+          },
+          {
+            "q": "A potter makes pots from clay.",
+            "a": true
+          },
+          {
+            "q": "A farmer flies a plane.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write which helper you want to be and why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"I want to be a doctor so I can help sick people.\""
+      }
+    ]
+  }
+]

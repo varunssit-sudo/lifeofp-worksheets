@@ -1,0 +1,657 @@
+[
+  {
+    "id": "number-patterns-01",
+    "topic": "number-patterns",
+    "number": 1,
+    "level": "Starter",
+    "title": "Hopscotch in the Park",
+    "intro": "Mia and Arnav play hopscotch in the park. They jump in 2s and in 5s.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Count in 2s. Fill the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "2, 4, 6, ___, 10",
+            "a": "8"
+          },
+          {
+            "q": "14, 16, ___, 20, 22",
+            "a": "18"
+          },
+          {
+            "q": "30, 32, 34, ___",
+            "a": "36"
+          },
+          {
+            "q": "___, 50, 52, 54",
+            "a": "48"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Count in 5s. Write the next number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "5, 10, 15",
+            "a": "20"
+          },
+          {
+            "q": "25, 30, 35",
+            "a": "40"
+          },
+          {
+            "q": "45, 50, 55",
+            "a": "60"
+          },
+          {
+            "q": "70, 75, 80",
+            "a": "85"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Counting in 2s from 2 gives only even numbers.",
+            "a": true
+          },
+          {
+            "q": "Counting in 5s from 5, every number ends in 0 or 5.",
+            "a": true
+          },
+          {
+            "q": "10, 15, 20, 24 is counting in 5s.",
+            "a": false
+          },
+          {
+            "q": "Counting in 2s from 1 gives 1, 3, 5, 7.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the missing number.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "6, 8,",
+            "options": [
+              "9",
+              "10",
+              "11"
+            ],
+            "after": ", 12",
+            "a": "10"
+          },
+          {
+            "before": "35,",
+            "options": [
+              "38",
+              "40",
+              "50"
+            ],
+            "after": ", 45",
+            "a": "40"
+          },
+          {
+            "before": "90, 95,",
+            "options": [
+              "96",
+              "100",
+              "105"
+            ],
+            "after": ", 110",
+            "a": "100"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the hopscotch problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Mia starts at 0 and jumps 2 squares each time. After 5 jumps she is on square ___.",
+            "a": "10"
+          },
+          {
+            "q": "Arnav hops in 5s from 0. His 4th hop lands on ___.",
+            "a": "20"
+          },
+          {
+            "q": "Mia counts back in 2s from 20: 20, 18, 16, ___.",
+            "a": "14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "number-patterns-02",
+    "topic": "number-patterns",
+    "number": 2,
+    "level": "Starter",
+    "title": "Stacking Cans at the Supermarket",
+    "intro": "Naveen helps stack cans at the supermarket. Each shelf holds 10 cans and each crate holds 100.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Count in 10s. Write the next number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "10, 20, 30",
+            "a": "40"
+          },
+          {
+            "q": "47, 57, 67",
+            "a": "77"
+          },
+          {
+            "q": "120, 130, 140",
+            "a": "150"
+          },
+          {
+            "q": "85, 95, 105",
+            "a": "115"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Count in 100s. Fill the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "100, 200, ___, 400",
+            "a": "300"
+          },
+          {
+            "q": "350, 450, ___, 650",
+            "a": "550"
+          },
+          {
+            "q": "___, 600, 700, 800",
+            "a": "500"
+          },
+          {
+            "q": "210, 310, 410, ___",
+            "a": "510"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each pattern to its rule.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "10, 20, 30, 40",
+            "right": "add 10"
+          },
+          {
+            "left": "100, 200, 300",
+            "right": "add 100"
+          },
+          {
+            "left": "5, 10, 15, 20",
+            "right": "add 5"
+          },
+          {
+            "left": "2, 4, 6, 8",
+            "right": "add 2"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "60, 70, 80, 90 goes up by 10.",
+            "a": true
+          },
+          {
+            "q": "300, 400, 500 goes up by 10.",
+            "a": false
+          },
+          {
+            "q": "Counting back in 10s from 90 gives 90, 80, 70.",
+            "a": true
+          },
+          {
+            "q": "Counting in 10s, 1000 comes after 990.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the supermarket problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Naveen has 3 crates of 100 cans. He gets 1 more crate. Now he has ___ cans.",
+            "a": "400"
+          },
+          {
+            "q": "A shelf has 65 cans. He adds 10 more each hour. After 2 hours there are ___ cans.",
+            "a": "85"
+          },
+          {
+            "q": "Naveen counts cans in 10s: 10, 20, 30, 40, 50, 60. There are ___ tens.",
+            "a": "6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "number-patterns-03",
+    "topic": "number-patterns",
+    "number": 3,
+    "level": "Starter",
+    "title": "Climbing Steps to the Hill Temple",
+    "intro": "Diya and her grandmother climb the steps to a hill temple. They count the steps in different ways.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Count in 3s. Fill the missing number.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "3, 6, 9, ___, 15",
+            "a": "12"
+          },
+          {
+            "q": "18, 21, ___, 27",
+            "a": "24"
+          },
+          {
+            "q": "33, 36, 39, ___",
+            "a": "42"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Count in 4s. Circle the missing number.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "4, 8, 12,",
+            "options": [
+              "14",
+              "16",
+              "18"
+            ],
+            "after": "",
+            "a": "16"
+          },
+          {
+            "before": "20, 24,",
+            "options": [
+              "26",
+              "28",
+              "30"
+            ],
+            "after": ", 32",
+            "a": "28"
+          },
+          {
+            "before": "36, 40, 44,",
+            "options": [
+              "46",
+              "48",
+              "50"
+            ],
+            "after": "",
+            "a": "48"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Count back. Write the next number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "50, 48, 46",
+            "a": "44"
+          },
+          {
+            "q": "30, 27, 24",
+            "a": "21"
+          },
+          {
+            "q": "100, 90, 80",
+            "a": "70"
+          },
+          {
+            "q": "65, 60, 55",
+            "a": "50"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the step numbers.",
+        "marks": 8,
+        "groups": [
+          "Count in 3s",
+          "Count in 4s"
+        ],
+        "words": [
+          "9",
+          "15",
+          "21",
+          "27",
+          "8",
+          "16",
+          "20",
+          "28"
+        ],
+        "a": {
+          "9": "Count in 3s",
+          "15": "Count in 3s",
+          "21": "Count in 3s",
+          "27": "Count in 3s",
+          "8": "Count in 4s",
+          "16": "Count in 4s",
+          "20": "Count in 4s",
+          "28": "Count in 4s"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Solve the temple problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Diya climbs 3 steps each time. After 6 goes she is on step ___.",
+            "a": "18"
+          },
+          {
+            "q": "Dadi rests on steps 4, 8, 12 and so on. Her 5th rest is on step ___.",
+            "a": "20"
+          },
+          {
+            "q": "Going down, Diya counts back in 10s: 70, 60, 50, ___.",
+            "a": "40"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "number-patterns-04",
+    "topic": "number-patterns",
+    "number": 4,
+    "level": "Starter",
+    "title": "Seat Numbers at the Cinema",
+    "intro": "Sara and Jay look for their seats at the cinema. The seat numbers follow patterns.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the rule: add or take away?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "11, 14, 17, 20: the rule is ___",
+            "a": "add 3"
+          },
+          {
+            "q": "40, 35, 30, 25: the rule is ___",
+            "a": "take away 5"
+          },
+          {
+            "q": "7, 9, 11, 13: the rule is ___",
+            "a": "add 2"
+          },
+          {
+            "q": "92, 82, 72, 62: the rule is ___",
+            "a": "take away 10"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Continue the pattern.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "12, 16, 20",
+            "a": "24"
+          },
+          {
+            "q": "81, 79, 77",
+            "a": "75"
+          },
+          {
+            "q": "23, 33, 43",
+            "a": "53"
+          },
+          {
+            "q": "60, 54, 48",
+            "a": "42"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the number that does not fit.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "In 5, 10, 15, 21, 25 the wrong number is",
+            "options": [
+              "10",
+              "21",
+              "25"
+            ],
+            "after": ".",
+            "a": "21"
+          },
+          {
+            "before": "In 3, 6, 9, 12, 14 the wrong number is",
+            "options": [
+              "6",
+              "12",
+              "14"
+            ],
+            "after": ".",
+            "a": "14"
+          },
+          {
+            "before": "In 50, 40, 35, 20, 10 the wrong number is",
+            "options": [
+              "40",
+              "35",
+              "10"
+            ],
+            "after": ".",
+            "a": "35"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Seats 2, 4, 6, 8 are all even numbers.",
+            "a": true
+          },
+          {
+            "q": "In 1, 4, 7, 10 the next number is 12.",
+            "a": false
+          },
+          {
+            "q": "The pattern 9, 18, 27, 36 adds 9 each time.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Make your own pattern with 5 numbers. Write its rule.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any 5 numbers that change by the same amount, with the correct rule, e.g. 4, 7, 10, 13, 16: add 3."
+      }
+    ]
+  },
+  {
+    "id": "number-patterns-05",
+    "topic": "number-patterns",
+    "number": 5,
+    "level": "Practice",
+    "title": "Bead Bracelets at the Craft Fair",
+    "intro": "At the school craft fair, Elena and Kunal thread beads in number patterns.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill the missing number.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "205, 210, ___, 220",
+            "a": "215"
+          },
+          {
+            "q": "430, 420, ___, 400",
+            "a": "410"
+          },
+          {
+            "q": "125, 225, ___, 425",
+            "a": "325"
+          },
+          {
+            "q": "612, 614, ___, 618",
+            "a": "616"
+          },
+          {
+            "q": "999, 998, ___, 996",
+            "a": "997"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the next two numbers.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "16, 20, 24",
+            "a": "28, 32"
+          },
+          {
+            "q": "75, 70, 65",
+            "a": "60, 55"
+          },
+          {
+            "q": "300, 250, 200",
+            "a": "150, 100"
+          },
+          {
+            "q": "41, 44, 47",
+            "a": "50, 53"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each pattern to its rule.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "18, 27, 36",
+            "right": "add 9"
+          },
+          {
+            "left": "64, 56, 48",
+            "right": "take away 8"
+          },
+          {
+            "left": "110, 130, 150",
+            "right": "add 20"
+          },
+          {
+            "left": "77, 70, 63",
+            "right": "take away 7"
+          },
+          {
+            "left": "500, 550, 600",
+            "right": "add 50"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the bead problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Elena threads 3 red beads, then 3 more each time: 3, 6, 9 and so on. After 7 times she has ___ red beads.",
+            "a": "21"
+          },
+          {
+            "q": "Kunal had 50 beads. He used 5 beads each day. After 4 days he had ___ beads left.",
+            "a": "30"
+          },
+          {
+            "q": "A bracelet has beads 2, 4, 6, 8, 10, 12. The next bead is ___.",
+            "a": "14"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the next number.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Odd numbers: 21, 23, 25,",
+            "options": [
+              "26",
+              "27",
+              "28"
+            ],
+            "after": "",
+            "a": "27"
+          },
+          {
+            "before": "Count back in 3s: 30, 27, 24,",
+            "options": [
+              "22",
+              "21",
+              "20"
+            ],
+            "after": "",
+            "a": "21"
+          },
+          {
+            "before": "Count in 25s: 25, 50, 75,",
+            "options": [
+              "80",
+              "100",
+              "125"
+            ],
+            "after": "",
+            "a": "100"
+          }
+        ]
+      }
+    ]
+  }
+]

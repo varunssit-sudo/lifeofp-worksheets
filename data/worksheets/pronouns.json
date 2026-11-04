@@ -1,0 +1,677 @@
+[
+  {
+    "id": "pronouns-01",
+    "topic": "pronouns",
+    "number": 1,
+    "level": "Starter",
+    "title": "Meet My Family",
+    "intro": "Siya tells us about her family. Use he, she, it, they and we.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write he, she, it or they.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "Papa",
+            "a": "he"
+          },
+          {
+            "q": "Nani",
+            "a": "she"
+          },
+          {
+            "q": "the dog",
+            "a": "it"
+          },
+          {
+            "q": "my brothers",
+            "a": "they"
+          },
+          {
+            "q": "Aunt Meena",
+            "a": "she"
+          },
+          {
+            "q": "the car",
+            "a": "it"
+          },
+          {
+            "q": "Uncle Raj",
+            "a": "he"
+          },
+          {
+            "q": "the twins",
+            "a": "they"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right pronoun.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Mama is a doctor.",
+            "options": [
+              "She",
+              "He"
+            ],
+            "after": "works at a hospital.",
+            "a": "She"
+          },
+          {
+            "before": "My brother Arjun is six.",
+            "options": [
+              "He",
+              "It"
+            ],
+            "after": "likes cricket.",
+            "a": "He"
+          },
+          {
+            "before": "Our cat is white.",
+            "options": [
+              "It",
+              "They"
+            ],
+            "after": "sleeps all day.",
+            "a": "It"
+          },
+          {
+            "before": "Siya and I play ludo.",
+            "options": [
+              "We",
+              "They"
+            ],
+            "after": "play every evening.",
+            "a": "We"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with I, we or they.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "My name is Siya. ___ am seven years old.",
+            "a": "I"
+          },
+          {
+            "q": "My grandparents live in Pune. ___ visit us in summer.",
+            "a": "They"
+          },
+          {
+            "q": "Arjun and I share a room. ___ keep it tidy.",
+            "a": "We"
+          },
+          {
+            "q": "My cousins live in Abu Dhabi. ___ have a big garden.",
+            "a": "They"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again. Change the name to he, she, it or they.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Nani makes tea every morning.",
+            "a": "She makes tea every morning."
+          },
+          {
+            "q": "The puppies drink milk.",
+            "a": "They drink milk."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about someone in your family. Use he or she.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. The second sentence uses he or she in place of the name."
+      }
+    ]
+  },
+  {
+    "id": "pronouns-02",
+    "topic": "pronouns",
+    "number": 2,
+    "level": "Starter",
+    "title": "Sports Day at School",
+    "intro": "It is Sports Day. Kavya, Omar and their friends are racing.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the pronouns. One, or more than one?",
+        "marks": 6,
+        "groups": [
+          "One",
+          "More than one"
+        ],
+        "words": [
+          "he",
+          "they",
+          "she",
+          "we",
+          "it",
+          "I"
+        ],
+        "a": {
+          "he": "One",
+          "they": "More than one",
+          "she": "One",
+          "we": "More than one",
+          "it": "One",
+          "I": "One"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right pronoun.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "Omar won the race.",
+            "options": [
+              "He",
+              "She"
+            ],
+            "after": "got a gold medal.",
+            "a": "He"
+          },
+          {
+            "before": "Kavya fell down.",
+            "options": [
+              "She",
+              "They"
+            ],
+            "after": "got up and ran again.",
+            "a": "She"
+          },
+          {
+            "before": "The flag is red.",
+            "options": [
+              "It",
+              "He"
+            ],
+            "after": "flaps in the wind.",
+            "a": "It"
+          },
+          {
+            "before": "The parents clapped.",
+            "options": [
+              "They",
+              "It"
+            ],
+            "after": "were very proud.",
+            "a": "They"
+          },
+          {
+            "before": "Kavya and I ran the relay.",
+            "options": [
+              "We",
+              "They"
+            ],
+            "after": "came second.",
+            "a": "We"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with him, her, it or them.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Omar dropped the baton. Coach picked ___ up.",
+            "a": "it"
+          },
+          {
+            "q": "Kavya was tired, so Mama gave ___ a hug.",
+            "a": "her"
+          },
+          {
+            "q": "The runners were thirsty, so we gave ___ water.",
+            "a": "them"
+          },
+          {
+            "q": "Omar won, so we cheered for ___.",
+            "a": "him"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A pronoun takes the place of a noun.",
+            "a": true
+          },
+          {
+            "q": "We use 'she' for a boy.",
+            "a": false
+          },
+          {
+            "q": "We use 'it' for a ball or a box.",
+            "a": true
+          },
+          {
+            "q": "We use 'he' for a girl.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a race you ran. Use I or we.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. The sentence uses I or we, e.g. We ran very fast."
+      }
+    ]
+  },
+  {
+    "id": "pronouns-03",
+    "topic": "pronouns",
+    "number": 3,
+    "level": "Starter",
+    "title": "Helping at the Grocery Shop",
+    "intro": "Mr Thomas runs a small grocery shop in Karama. Eva and Noah help him on Saturdays.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the words to the pronoun.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "Mr Thomas",
+            "right": "he"
+          },
+          {
+            "left": "Eva",
+            "right": "she"
+          },
+          {
+            "left": "the rice bag",
+            "right": "it"
+          },
+          {
+            "left": "Eva and Noah",
+            "right": "they"
+          },
+          {
+            "left": "Noah and I",
+            "right": "we"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with he, she, it, we or they.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Noah stacks the tins. ___ is very careful.",
+            "a": "He"
+          },
+          {
+            "q": "The eggs are in a tray. ___ can break easily.",
+            "a": "They"
+          },
+          {
+            "q": "Eva counts the coins. ___ is good at maths.",
+            "a": "She"
+          },
+          {
+            "q": "Noah and I fill the shelves. ___ work fast.",
+            "a": "We"
+          },
+          {
+            "q": "The scale is new. ___ shows the weight.",
+            "a": "It"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again. Use a pronoun for the names.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Eva and Noah sweep the floor.",
+            "a": "They sweep the floor."
+          },
+          {
+            "q": "Mr Thomas opens the shop at eight.",
+            "a": "He opens the shop at eight."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "This bag is heavy. Can you help",
+            "options": [
+              "me",
+              "I"
+            ],
+            "after": "carry it?",
+            "a": "me"
+          },
+          {
+            "before": "Mr Thomas gave",
+            "options": [
+              "us",
+              "we"
+            ],
+            "after": "a sweet each.",
+            "a": "us"
+          },
+          {
+            "before": "",
+            "options": [
+              "I",
+              "Me"
+            ],
+            "after": "like helping in the shop.",
+            "a": "I"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a shopkeeper you know. Use he or she.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. The sentence uses he or she."
+      }
+    ]
+  },
+  {
+    "id": "pronouns-04",
+    "topic": "pronouns",
+    "number": 4,
+    "level": "Starter",
+    "title": "A Picnic at Al Mamzar Beach",
+    "intro": "Ayaan, his sister Lina and their grandparents go for a beach picnic.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the right pronoun.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "Lina builds a sandcastle.",
+            "options": [
+              "She",
+              "He"
+            ],
+            "after": "uses a red bucket.",
+            "a": "She"
+          },
+          {
+            "before": "Grandpa reads the paper.",
+            "options": [
+              "He",
+              "It"
+            ],
+            "after": "sits under the umbrella.",
+            "a": "He"
+          },
+          {
+            "before": "The waves are big.",
+            "options": [
+              "They",
+              "It"
+            ],
+            "after": "splash on the sand.",
+            "a": "They"
+          },
+          {
+            "before": "The sun is hot.",
+            "options": [
+              "It",
+              "She"
+            ],
+            "after": "shines brightly.",
+            "a": "It"
+          },
+          {
+            "before": "Ayaan and Lina swim.",
+            "options": [
+              "They",
+              "It"
+            ],
+            "after": "wear life jackets.",
+            "a": "They"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words. Is it a naming word or a pronoun?",
+        "marks": 6,
+        "groups": [
+          "Naming word",
+          "Pronoun"
+        ],
+        "words": [
+          "beach",
+          "she",
+          "Lina",
+          "we",
+          "basket",
+          "they"
+        ],
+        "a": {
+          "beach": "Naming word",
+          "she": "Pronoun",
+          "Lina": "Naming word",
+          "we": "Pronoun",
+          "basket": "Naming word",
+          "they": "Pronoun"
+        }
+      },
+      {
+        "type": "pairs",
+        "title": "Write the pronoun for each.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "Grandma",
+            "a": "she"
+          },
+          {
+            "q": "the kite",
+            "a": "it"
+          },
+          {
+            "q": "Ayaan",
+            "a": "he"
+          },
+          {
+            "q": "the shells",
+            "a": "they"
+          },
+          {
+            "q": "Lina and I",
+            "a": "we"
+          },
+          {
+            "q": "the boat",
+            "a": "it"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with his, her or their.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Lina lost ___ hat in the wind.",
+            "a": "her"
+          },
+          {
+            "q": "Ayaan dug a hole with ___ spade.",
+            "a": "his"
+          },
+          {
+            "q": "Grandma and Grandpa sat on ___ mat.",
+            "a": "their"
+          },
+          {
+            "q": "Grandpa forgot ___ glasses at home.",
+            "a": "his"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a picnic. Use a pronoun in each.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Each sentence uses a pronoun such as he, she, it, we or they."
+      }
+    ]
+  },
+  {
+    "id": "pronouns-05",
+    "topic": "pronouns",
+    "number": 5,
+    "level": "Practice",
+    "title": "The Eid Visit",
+    "intro": "On Eid, Fatima and her brother Yusuf visit their aunt in Abu Dhabi.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Write it again. Use pronouns so the names are not repeated.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Yusuf hugged Aunty. Yusuf gave Aunty a card.",
+            "a": "Yusuf hugged Aunty. He gave her a card."
+          },
+          {
+            "q": "The cousins played games. The cousins laughed a lot.",
+            "a": "The cousins played games. They laughed a lot."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "Aunty gave",
+            "options": [
+              "we",
+              "us"
+            ],
+            "after": "sweet sheer khurma.",
+            "a": "us"
+          },
+          {
+            "before": "",
+            "options": [
+              "She",
+              "Her"
+            ],
+            "after": "hugged Fatima tightly.",
+            "a": "She"
+          },
+          {
+            "before": "Yusuf got eidi. Uncle gave",
+            "options": [
+              "him",
+              "he"
+            ],
+            "after": "₹100.",
+            "a": "him"
+          },
+          {
+            "before": "The lanterns were pretty. Fatima liked",
+            "options": [
+              "them",
+              "they"
+            ],
+            "after": "a lot.",
+            "a": "them"
+          },
+          {
+            "before": "",
+            "options": [
+              "We",
+              "Us"
+            ],
+            "after": "prayed together in the morning.",
+            "a": "We"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blank with a pronoun.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Fatima wore a green dress. ___ looked lovely.",
+            "a": "She"
+          },
+          {
+            "q": "The house was full of people. ___ was very noisy.",
+            "a": "It"
+          },
+          {
+            "q": "Yusuf and I ate biryani. ___ had two plates each!",
+            "a": "We"
+          },
+          {
+            "q": "Our cousins came late. ___ came from Al Ain.",
+            "a": "They"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the pairs that go together, like I and me.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "I",
+            "right": "me"
+          },
+          {
+            "left": "he",
+            "right": "him"
+          },
+          {
+            "left": "we",
+            "right": "us"
+          },
+          {
+            "left": "they",
+            "right": "them"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a visit to family. Use we or they.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. The sentence uses we or they."
+      }
+    ]
+  }
+]

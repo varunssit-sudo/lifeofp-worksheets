@@ -1,0 +1,574 @@
+[
+  {
+    "id": "conjunctions-01",
+    "topic": "conjunctions",
+    "number": 1,
+    "level": "Starter",
+    "title": "Lunch Time at School",
+    "intro": "It is lunch time for Class 2. We use and to join two ideas that go together.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in and.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Tara has rice ___ dal in her tiffin.",
+            "a": "and"
+          },
+          {
+            "q": "Yusuf washed his hands ___ sat down to eat.",
+            "a": "and"
+          },
+          {
+            "q": "I like apples ___ grapes.",
+            "a": "and"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the two parts with and.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "Bread and",
+            "right": "butter"
+          },
+          {
+            "left": "Salt and",
+            "right": "pepper"
+          },
+          {
+            "left": "Cup and",
+            "right": "saucer"
+          },
+          {
+            "left": "Knife and",
+            "right": "fork"
+          },
+          {
+            "left": "Bat and",
+            "right": "ball"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Join the two sentences with and.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Neha ate a sandwich. Neha drank juice.",
+            "a": "Neha ate a sandwich and drank juice."
+          },
+          {
+            "q": "Leo has a red bottle. Max has a red bottle.",
+            "a": "Leo and Max have red bottles."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"And\" is a joining word.",
+            "a": true
+          },
+          {
+            "q": "\"Puri and chole\" uses and to join two foods.",
+            "a": true
+          },
+          {
+            "q": "\"And\" is a naming word.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two foods you like. Join them with and.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I like idli and sambar.\""
+      }
+    ]
+  },
+  {
+    "id": "conjunctions-02",
+    "topic": "conjunctions",
+    "number": 2,
+    "level": "Starter",
+    "title": "A Rainy Day at Home",
+    "intro": "It is raining in Bengaluru, so Diya stays home. We use but to join two ideas that are different.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in but.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Diya wanted to play outside, ___ it was raining.",
+            "a": "but"
+          },
+          {
+            "q": "The sky is grey, ___ the house is warm.",
+            "a": "but"
+          },
+          {
+            "q": "I have an umbrella, ___ my brother does not.",
+            "a": "but"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle and or but.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Diya made paper boats",
+            "options": [
+              "and",
+              "but"
+            ],
+            "after": "sailed them in a bucket.",
+            "a": "and"
+          },
+          {
+            "before": "Her boat floated,",
+            "options": [
+              "and",
+              "but"
+            ],
+            "after": "her brother's boat sank.",
+            "a": "but"
+          },
+          {
+            "before": "Mum made hot pakoras",
+            "options": [
+              "and",
+              "but"
+            ],
+            "after": "tea for us.",
+            "a": "and"
+          },
+          {
+            "before": "I wanted more pakoras,",
+            "options": [
+              "and",
+              "but"
+            ],
+            "after": "the plate was empty.",
+            "a": "but"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the start to the best ending.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "I wanted to fly my kite,",
+            "right": "but the rain did not stop."
+          },
+          {
+            "left": "We played a board game",
+            "right": "and I won."
+          },
+          {
+            "left": "The power went off,",
+            "right": "but we had a torch."
+          },
+          {
+            "left": "Dad read a story",
+            "right": "and we all listened."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We use but when two ideas are different.",
+            "a": true
+          },
+          {
+            "q": "\"I am tired but happy\" is correct.",
+            "a": true
+          },
+          {
+            "q": "\"It rained, but the ground got wet\" is a good sentence.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Finish this: I like the rain, but ...",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I like the rain, but I cannot go out.\""
+      }
+    ]
+  },
+  {
+    "id": "conjunctions-03",
+    "topic": "conjunctions",
+    "number": 3,
+    "level": "Starter",
+    "title": "Choosing at the Ice Cream Shop",
+    "intro": "Kabir is choosing an ice cream at a shop in Jumeirah. We use or to show a choice.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in or.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Do you want a cone ___ a cup?",
+            "a": "or"
+          },
+          {
+            "q": "Kabir can pick mango ___ chocolate.",
+            "a": "or"
+          },
+          {
+            "q": "Should we sit inside ___ outside?",
+            "a": "or"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle and, but or or.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Would you like a small cup",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "a big cup?",
+            "a": "or"
+          },
+          {
+            "before": "Kabir ate his ice cream",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "licked the spoon.",
+            "a": "and"
+          },
+          {
+            "before": "The ice cream was tasty,",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "it melted fast.",
+            "a": "but"
+          },
+          {
+            "before": "Is your ice cream big",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "small?",
+            "a": "or"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each question to its ending.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Shall we walk home",
+            "right": "or take a taxi?"
+          },
+          {
+            "left": "Is the shop open",
+            "right": "or closed?"
+          },
+          {
+            "left": "Do you want one scoop",
+            "right": "or two scoops?"
+          },
+          {
+            "left": "Shall I pay with cash",
+            "right": "or with a card?"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We use or to show a choice.",
+            "a": true
+          },
+          {
+            "q": "\"Do you want juice or water?\" asks you to choose.",
+            "a": true
+          },
+          {
+            "q": "\"I ate rice or dal for lunch\" means I ate both.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write a question with or about ice cream.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Use the word or.",
+            "a": "Answers will vary, e.g. \"Do you want a cone or a cup?\""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conjunctions-04",
+    "topic": "conjunctions",
+    "number": 4,
+    "level": "Starter",
+    "title": "Holi in the Park",
+    "intro": "Ananya and her friends are playing Holi in the park. Choose and, but or or.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Do you want pink or blue?\" uses the right joining word.",
+            "a": true
+          },
+          {
+            "q": "\"I fell down and I did not cry\" uses the best joining word.",
+            "a": false
+          },
+          {
+            "q": "\"Mum and Dad played Holi with us\" is correct.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct joining word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "We threw colours",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "splashed water.",
+            "a": "and"
+          },
+          {
+            "before": "Ananya wanted gulal,",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "the shop had none left.",
+            "a": "but"
+          },
+          {
+            "before": "Do you want a water gun",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "a balloon?",
+            "a": "or"
+          },
+          {
+            "before": "I wanted to play more,",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "it was time to go home.",
+            "a": "but"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in and, but or or.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Will you wear a white shirt ___ an old shirt?",
+            "a": "or"
+          },
+          {
+            "q": "Grandma did not play, ___ she gave us gujiyas.",
+            "a": "but"
+          },
+          {
+            "q": "We danced ___ sang Holi songs.",
+            "a": "and"
+          },
+          {
+            "q": "Do you want to play with water ___ dry colours?",
+            "a": "or"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Join the two sentences with but.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "The colours were bright. The colours were hard to wash off.",
+            "a": "The colours were bright, but they were hard to wash off."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a sentence about a festival. Use and.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check the sentence uses and correctly."
+      }
+    ]
+  },
+  {
+    "id": "conjunctions-05",
+    "topic": "conjunctions",
+    "number": 5,
+    "level": "Practice",
+    "title": "The Global Village Visit",
+    "intro": "Sana's family visits Global Village in Dubai. Use and, but or or to join the sentences.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Join the two sentences with the word in brackets.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "We saw the India stall. We saw the Egypt stall. (and)",
+            "a": "We saw the India stall and the Egypt stall."
+          },
+          {
+            "q": "Sana wanted a toy. It cost too much. (but)",
+            "a": "Sana wanted a toy, but it cost too much."
+          },
+          {
+            "q": "We can ride the wheel. We can watch the show. (or)",
+            "a": "We can ride the wheel or watch the show."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct joining word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Pick one. Do you want churros",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "corn?",
+            "a": "or"
+          },
+          {
+            "before": "Papa bought a cap",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "a scarf.",
+            "a": "and"
+          },
+          {
+            "before": "The line was long,",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "it moved fast.",
+            "a": "but"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in and, but or or.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The lights were pretty ___ bright.",
+            "a": "and"
+          },
+          {
+            "q": "We were tired, ___ we did not want to go home.",
+            "a": "but"
+          },
+          {
+            "q": "Shall we eat now ___ after the show?",
+            "a": "or"
+          },
+          {
+            "q": "Sana ___ her brother rode the boat.",
+            "a": "and"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"But\" joins two ideas that are different.",
+            "a": true
+          },
+          {
+            "q": "\"Do you want tea and milk?\" is the best way to ask someone to choose one.",
+            "a": false
+          },
+          {
+            "q": "We can use and to join two names.",
+            "a": true
+          }
+        ]
+      }
+    ]
+  }
+]

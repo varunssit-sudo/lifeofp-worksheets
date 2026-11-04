@@ -1,0 +1,652 @@
+[
+  {
+    "id": "water-and-its-forms-01",
+    "topic": "water-and-its-forms",
+    "number": 1,
+    "level": "Starter",
+    "title": "Ice Lollies on a Hot Day",
+    "intro": "Maya and Kenji make mango ice lollies in the freezer. Water can be a solid, a liquid or a gas.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the forms of water.",
+        "marks": 5,
+        "groups": [
+          "Solid",
+          "Liquid",
+          "Gas"
+        ],
+        "words": [
+          "tap water",
+          "steam",
+          "water vapour",
+          "dew",
+          "sea water",
+          "icicle",
+          "ice cube",
+          "rain",
+          "snow",
+          "hailstone"
+        ],
+        "a": {
+          "ice cube": "Solid",
+          "snow": "Solid",
+          "hailstone": "Solid",
+          "icicle": "Solid",
+          "rain": "Liquid",
+          "sea water": "Liquid",
+          "tap water": "Liquid",
+          "dew": "Liquid",
+          "steam": "Gas",
+          "water vapour": "Gas"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Water turns into ice in the ___.",
+            "a": "freezer"
+          },
+          {
+            "q": "Ice ___ into water when it gets warm.",
+            "a": "melts"
+          },
+          {
+            "q": "Boiling water turns into ___.",
+            "a": "steam"
+          },
+          {
+            "q": "The water we drink is a ___.",
+            "a": "liquid"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Ice is the solid form of water.",
+            "a": true
+          },
+          {
+            "q": "Water takes the shape of the glass it is in.",
+            "a": true
+          },
+          {
+            "q": "Steam is very cold.",
+            "a": false
+          },
+          {
+            "q": "An ice lolly melts faster in the sun than in the shade.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Ice is",
+            "options": [
+              "hard",
+              "runny"
+            ],
+            "after": ".",
+            "a": "hard"
+          },
+          {
+            "before": "Water",
+            "options": [
+              "flows",
+              "stays still"
+            ],
+            "after": "when we pour it.",
+            "a": "flows"
+          },
+          {
+            "before": "A boiling kettle gives off",
+            "options": [
+              "steam",
+              "smoke"
+            ],
+            "after": ".",
+            "a": "steam"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "What happens to an ice lolly left in the sun?",
+        "marks": 2,
+        "lines": 2,
+        "a": "It melts and turns into liquid water."
+      }
+    ]
+  },
+  {
+    "id": "water-and-its-forms-02",
+    "topic": "water-and-its-forms",
+    "number": 2,
+    "level": "Starter",
+    "title": "Saving Water at Home",
+    "intro": "Arjun's family wants to save water. Water is precious, so we must not waste it.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the habits.",
+        "marks": 4,
+        "groups": [
+          "Saves water",
+          "Wastes water"
+        ],
+        "words": [
+          "water plants with leftover water",
+          "play with the garden hose",
+          "wash the car with a bucket",
+          "take very long showers",
+          "wash the car with a running pipe",
+          "turn off the tap while brushing",
+          "leave the tap running",
+          "fix a leaking tap"
+        ],
+        "a": {
+          "turn off the tap while brushing": "Saves water",
+          "wash the car with a bucket": "Saves water",
+          "fix a leaking tap": "Saves water",
+          "water plants with leftover water": "Saves water",
+          "leave the tap running": "Wastes water",
+          "take very long showers": "Wastes water",
+          "play with the garden hose": "Wastes water",
+          "wash the car with a running pipe": "Wastes water"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Close the tap",
+            "options": [
+              "tightly",
+              "loosely"
+            ],
+            "after": "after use.",
+            "a": "tightly"
+          },
+          {
+            "before": "A dripping tap",
+            "options": [
+              "wastes",
+              "saves"
+            ],
+            "after": "water.",
+            "a": "wastes"
+          },
+          {
+            "before": "We should take",
+            "options": [
+              "short",
+              "long"
+            ],
+            "after": "showers.",
+            "a": "short"
+          },
+          {
+            "before": "Water the plants in the",
+            "options": [
+              "evening",
+              "afternoon heat"
+            ],
+            "after": ".",
+            "a": "evening"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Most of the water on Earth is salty sea water.",
+            "a": true
+          },
+          {
+            "q": "We can drink sea water straight from the sea.",
+            "a": false
+          },
+          {
+            "q": "All living things need water.",
+            "a": true
+          },
+          {
+            "q": "Clean water will never run out, so we can waste it.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each person to how they use water.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Farmer",
+            "right": "waters the crops"
+          },
+          {
+            "left": "Firefighter",
+            "right": "puts out fires"
+          },
+          {
+            "left": "Cook",
+            "right": "boils rice and dal"
+          },
+          {
+            "left": "Cleaner",
+            "right": "mops the floor"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way you save water.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I close the tap while I brush my teeth.\""
+      }
+    ]
+  },
+  {
+    "id": "water-and-its-forms-03",
+    "topic": "water-and-its-forms",
+    "number": 3,
+    "level": "Starter",
+    "title": "Rainy Day Puddles at School",
+    "intro": "After the rain, Pooja and Liam see puddles in the playground. By lunch time the puddles are gone.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The sun heats the puddle and the water",
+            "options": [
+              "evaporates",
+              "freezes"
+            ],
+            "after": ".",
+            "a": "evaporates"
+          },
+          {
+            "before": "Water vapour rises and makes",
+            "options": [
+              "clouds",
+              "rocks"
+            ],
+            "after": ".",
+            "a": "clouds"
+          },
+          {
+            "before": "When clouds get heavy, it",
+            "options": [
+              "rains",
+              "shines"
+            ],
+            "after": ".",
+            "a": "rains"
+          },
+          {
+            "before": "Drops form outside a cold glass because of",
+            "options": [
+              "condensation",
+              "melting"
+            ],
+            "after": ".",
+            "a": "condensation"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each word to what happens.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Melting",
+            "right": "ice turns into water"
+          },
+          {
+            "left": "Freezing",
+            "right": "water turns into ice"
+          },
+          {
+            "left": "Evaporation",
+            "right": "water turns into vapour"
+          },
+          {
+            "left": "Condensation",
+            "right": "vapour turns into water drops"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Wet clothes dry faster on a sunny, windy day.",
+            "a": true
+          },
+          {
+            "q": "Puddles dry up because the water goes into the air.",
+            "a": true
+          },
+          {
+            "q": "Clouds are made of tiny drops of water.",
+            "a": true
+          },
+          {
+            "q": "Rain water comes out of the ground.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Water vapour is a ___.",
+            "a": "gas"
+          },
+          {
+            "q": "Tiny drops of water on grass in the morning are called ___.",
+            "a": "dew"
+          },
+          {
+            "q": "Water falls from clouds as rain, snow or ___.",
+            "a": "hail"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why do puddles disappear after the sun comes out?",
+        "marks": 2,
+        "lines": 2,
+        "a": "The heat of the sun makes the water evaporate into the air as water vapour."
+      }
+    ]
+  },
+  {
+    "id": "water-and-its-forms-04",
+    "topic": "water-and-its-forms",
+    "number": 4,
+    "level": "Starter",
+    "title": "The Village Well in Rajasthan",
+    "intro": "Kiran visits her aunt in a village in Rajasthan. Water there comes from many places.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the sources of water.",
+        "marks": 4,
+        "groups": [
+          "Natural",
+          "Man-made"
+        ],
+        "words": [
+          "spring",
+          "water tank",
+          "river",
+          "tap",
+          "hand pump",
+          "rain",
+          "well",
+          "lake"
+        ],
+        "a": {
+          "rain": "Natural",
+          "river": "Natural",
+          "lake": "Natural",
+          "spring": "Natural",
+          "well": "Man-made",
+          "tap": "Man-made",
+          "water tank": "Man-made",
+          "hand pump": "Man-made"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Many rivers begin high up in the ___.",
+            "a": "mountains"
+          },
+          {
+            "q": "Rivers flow into the ___.",
+            "a": "sea"
+          },
+          {
+            "q": "In Rajasthan, people store ___ water in tanks.",
+            "a": "rain"
+          },
+          {
+            "q": "Water from the river is cleaned before it reaches our ___.",
+            "a": "homes"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The UAE gets most of its drinking water by taking the salt out of sea water.",
+            "a": true
+          },
+          {
+            "q": "Pond water is always safe to drink.",
+            "a": false
+          },
+          {
+            "q": "Boiling water kills germs.",
+            "a": true
+          },
+          {
+            "q": "River water is fresh, not salty.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A",
+            "options": [
+              "river",
+              "pond"
+            ],
+            "after": "has flowing water.",
+            "a": "river"
+          },
+          {
+            "before": "Rain water can be collected in",
+            "options": [
+              "tanks",
+              "baskets"
+            ],
+            "after": ".",
+            "a": "tanks"
+          },
+          {
+            "before": "Sea water tastes",
+            "options": [
+              "salty",
+              "sweet"
+            ],
+            "after": ".",
+            "a": "salty"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Where does the water in your home come from?",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. a tap, a tank on the roof, a well. Accept any sensible source."
+      }
+    ]
+  },
+  {
+    "id": "water-and-its-forms-05",
+    "topic": "water-and-its-forms",
+    "number": 5,
+    "level": "Practice",
+    "title": "Holi Without Wasting Water",
+    "intro": "Kunal and Ruby plan a fun Holi that saves water. Use all you know about water.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write solid, liquid or gas.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "ice",
+            "a": "solid"
+          },
+          {
+            "q": "steam",
+            "a": "gas"
+          },
+          {
+            "q": "dew",
+            "a": "liquid"
+          },
+          {
+            "q": "snow",
+            "a": "solid"
+          },
+          {
+            "q": "water vapour",
+            "a": "gas"
+          },
+          {
+            "q": "river water",
+            "a": "liquid"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Play a",
+            "options": [
+              "dry",
+              "wet"
+            ],
+            "after": "Holi with gulal to save water.",
+            "a": "dry"
+          },
+          {
+            "before": "Wash off the colours with a",
+            "options": [
+              "bucket",
+              "running pipe"
+            ],
+            "after": "of water.",
+            "a": "bucket"
+          },
+          {
+            "before": "Turn off the tap while you",
+            "options": [
+              "soap",
+              "rinse"
+            ],
+            "after": "your hands.",
+            "a": "soap"
+          },
+          {
+            "before": "Use leftover water for the",
+            "options": [
+              "plants",
+              "TV"
+            ],
+            "after": ".",
+            "a": "plants"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Water turns into ice when it gets very cold.",
+            "a": true
+          },
+          {
+            "q": "Hot water evaporates faster than cold water.",
+            "a": true
+          },
+          {
+            "q": "Only people need water.",
+            "a": false
+          },
+          {
+            "q": "Saving water helps people, plants and animals.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the water problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A dripping tap wastes 1 bucket of water each day. In 7 days it wastes ___ buckets.",
+            "a": "7"
+          },
+          {
+            "q": "Tara saves 3 buckets of water each day. In 5 days she saves ___ buckets.",
+            "a": "15"
+          },
+          {
+            "q": "Kunal's family used 8 buckets last Holi and 3 this Holi. They saved ___ buckets.",
+            "a": "5"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways your family can save water.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. close taps tightly, fix leaks, use a bucket not a pipe, reuse water for plants."
+      }
+    ]
+  }
+]
