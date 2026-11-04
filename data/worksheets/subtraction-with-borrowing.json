@@ -123,5 +123,1607 @@
         ]
       }
     ]
+  },
+  {
+    "id": "subtraction-with-borrowing-02",
+    "topic": "subtraction-with-borrowing",
+    "number": 2,
+    "level": "Starter",
+    "title": "The Fruit Stall at the Mandi",
+    "intro": "Ravi and his uncle sell fruit at the sabzi mandi. Subtract to see what is left at the end of the day.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Subtract. Borrow a ten when you need to.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "61",
+            "op": "-",
+            "bottom": "34",
+            "a": "27"
+          },
+          {
+            "top": "92",
+            "op": "-",
+            "bottom": "57",
+            "a": "35"
+          },
+          {
+            "top": "74",
+            "op": "-",
+            "bottom": "36",
+            "a": "38"
+          },
+          {
+            "top": "50",
+            "op": "-",
+            "bottom": "23",
+            "a": "27"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the sums. Do they need borrowing?",
+        "marks": 6,
+        "groups": [
+          "Borrow",
+          "No borrow"
+        ],
+        "words": [
+          "68 − 25",
+          "81 − 47",
+          "97 − 43",
+          "54 − 38",
+          "79 − 56",
+          "36 − 19"
+        ],
+        "a": {
+          "68 − 25": "No borrow",
+          "81 − 47": "Borrow",
+          "97 − 43": "No borrow",
+          "54 − 38": "Borrow",
+          "79 − 56": "No borrow",
+          "36 − 19": "Borrow"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Solve the fruit stall problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Uncle had 65 mangoes. He sold 48. ___ mangoes are left.",
+            "a": "17"
+          },
+          {
+            "q": "There were 42 bananas. 26 were sold. ___ bananas are left.",
+            "a": "16"
+          },
+          {
+            "q": "Ravi had ₹80. He paid ₹35 for a bag of guavas. He has ₹ ___ left.",
+            "a": "45"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In 61 − 34, the 6 tens become 5 tens.",
+            "a": true
+          },
+          {
+            "q": "After borrowing, 92 becomes 8 tens and 12 ones.",
+            "a": true
+          },
+          {
+            "q": "74 − 36 = 42",
+            "a": false
+          },
+          {
+            "q": "We borrow to solve 88 − 54.",
+            "a": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "subtraction-with-borrowing-03",
+    "topic": "subtraction-with-borrowing",
+    "number": 3,
+    "level": "Starter",
+    "title": "Sports Day",
+    "intro": "It is Sports Day at school. Help the teachers keep count.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Find the difference.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "44 − 17",
+            "a": "27"
+          },
+          {
+            "q": "85 − 58",
+            "a": "27"
+          },
+          {
+            "q": "31 − 14",
+            "a": "17"
+          },
+          {
+            "q": "66 − 39",
+            "a": "27"
+          },
+          {
+            "q": "73 − 45",
+            "a": "28"
+          },
+          {
+            "q": "57 − 18",
+            "a": "39"
+          },
+          {
+            "q": "94 − 67",
+            "a": "27"
+          },
+          {
+            "q": "25 − 16",
+            "a": "9"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each race result to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "62 − 38",
+            "right": "24"
+          },
+          {
+            "left": "91 − 75",
+            "right": "16"
+          },
+          {
+            "left": "47 − 29",
+            "right": "18"
+          },
+          {
+            "left": "80 − 53",
+            "right": "27"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Do we borrow in 58 − 24?",
+            "options": [
+              "Yes",
+              "No"
+            ],
+            "after": "",
+            "a": "No"
+          },
+          {
+            "before": "Do we borrow in 46 − 27?",
+            "options": [
+              "Yes",
+              "No"
+            ],
+            "after": "",
+            "a": "Yes"
+          },
+          {
+            "before": "Do we borrow in 93 − 68?",
+            "options": [
+              "Yes",
+              "No"
+            ],
+            "after": "",
+            "a": "Yes"
+          },
+          {
+            "before": "Do we borrow in 77 − 35?",
+            "options": [
+              "Yes",
+              "No"
+            ],
+            "after": "",
+            "a": "No"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the Sports Day problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There were 54 runners. 36 finished the race first. ___ runners finished later.",
+            "a": "18"
+          },
+          {
+            "q": "The Red House had 81 points. The Blue House had 64 points. Red House won by ___ points.",
+            "a": "17"
+          },
+          {
+            "q": "Coach Sana had 70 cones. She put out 43. ___ cones are still in the box.",
+            "a": "27"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "subtraction-with-borrowing-04",
+    "topic": "subtraction-with-borrowing",
+    "number": 4,
+    "level": "Starter",
+    "title": "Grandma's Kitchen",
+    "intro": "Grandma is making sweets for Diwali. Subtract to see how many are left.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Borrow a ten. Fill in the tens and ones.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "53 = 4 tens and ___ ones",
+            "a": "13"
+          },
+          {
+            "q": "71 = 6 tens and ___ ones",
+            "a": "11"
+          },
+          {
+            "q": "80 = 7 tens and ___ ones",
+            "a": "10"
+          },
+          {
+            "q": "36 = ___ tens and 16 ones",
+            "a": "2"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Subtract.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "53",
+            "op": "-",
+            "bottom": "29",
+            "a": "24"
+          },
+          {
+            "top": "71",
+            "op": "-",
+            "bottom": "46",
+            "a": "25"
+          },
+          {
+            "top": "36",
+            "op": "-",
+            "bottom": "18",
+            "a": "18"
+          },
+          {
+            "top": "82",
+            "op": "-",
+            "bottom": "57",
+            "a": "25"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "53 − 29 = 24",
+            "a": true
+          },
+          {
+            "q": "We never borrow when the top ones digit is 0.",
+            "a": false
+          },
+          {
+            "q": "If 71 − 46 = 25, then 25 + 46 = 71.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve Grandma's problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Grandma made 64 laddoos. The family ate 38. ___ laddoos are left.",
+            "a": "26"
+          },
+          {
+            "q": "She had 45 diyas. 19 were lit. ___ diyas are not lit yet.",
+            "a": "26"
+          },
+          {
+            "q": "There were 92 kaju katlis. 75 went to the neighbours. ___ are left.",
+            "a": "17"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Tell a friend how you solve 53 − 29. Write two sentences.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Ones: 3 is less than 9, so borrow 1 ten: 13 − 9 = 4. Tens: 4 − 2 = 2. Answer 24."
+      }
+    ]
+  },
+  {
+    "id": "subtraction-with-borrowing-05",
+    "topic": "subtraction-with-borrowing",
+    "number": 5,
+    "level": "Practice",
+    "title": "A Trip to the Souk",
+    "intro": "Aisha and her family visit the old souk in Dubai. Subtract to find out what is left.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Subtract. Borrow from the tens.",
+        "marks": 6,
+        "items": [
+          {
+            "top": "253",
+            "op": "-",
+            "bottom": "128",
+            "a": "125"
+          },
+          {
+            "top": "461",
+            "op": "-",
+            "bottom": "236",
+            "a": "225"
+          },
+          {
+            "top": "375",
+            "op": "-",
+            "bottom": "149",
+            "a": "226"
+          },
+          {
+            "top": "582",
+            "op": "-",
+            "bottom": "347",
+            "a": "235"
+          },
+          {
+            "top": "690",
+            "op": "-",
+            "bottom": "254",
+            "a": "436"
+          },
+          {
+            "top": "834",
+            "op": "-",
+            "bottom": "516",
+            "a": "318"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each sum to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "144 − 26",
+            "right": "118"
+          },
+          {
+            "left": "361 − 152",
+            "right": "209"
+          },
+          {
+            "left": "570 − 435",
+            "right": "135"
+          },
+          {
+            "left": "283 − 67",
+            "right": "216"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the souk problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A spice seller had 245 bags of saffron. He sold 128. ___ bags are left.",
+            "a": "117"
+          },
+          {
+            "q": "A lamp shop had 360 lamps. 125 were sold. ___ lamps are left.",
+            "a": "235"
+          },
+          {
+            "q": "Aisha counted 473 steps on the way in and 247 on the way out. That is ___ more steps going in.",
+            "a": "226"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In 253 − 128, we borrow from the tens.",
+            "a": true
+          },
+          {
+            "q": "In 253 − 128, the hundreds digit changes.",
+            "a": false
+          },
+          {
+            "q": "690 − 254 = 436",
+            "a": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "subtraction-with-borrowing-06",
+    "topic": "subtraction-with-borrowing",
+    "number": 6,
+    "level": "Practice",
+    "title": "The School Library",
+    "intro": "Mrs Kapoor runs the school library. Help her count the books.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the sums. Do they need borrowing?",
+        "marks": 6,
+        "groups": [
+          "Borrow",
+          "No borrow"
+        ],
+        "words": [
+          "457 − 123",
+          "632 − 218",
+          "785 − 341",
+          "924 − 507",
+          "368 − 145",
+          "843 − 619"
+        ],
+        "a": {
+          "457 − 123": "No borrow",
+          "632 − 218": "Borrow",
+          "785 − 341": "No borrow",
+          "924 − 507": "Borrow",
+          "368 − 145": "No borrow",
+          "843 − 619": "Borrow"
+        }
+      },
+      {
+        "type": "column",
+        "title": "Now solve these. Borrow where you need to.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "746",
+            "op": "-",
+            "bottom": "329",
+            "a": "417"
+          },
+          {
+            "top": "851",
+            "op": "-",
+            "bottom": "526",
+            "a": "325"
+          },
+          {
+            "top": "935",
+            "op": "-",
+            "bottom": "618",
+            "a": "317"
+          },
+          {
+            "top": "551",
+            "op": "-",
+            "bottom": "326",
+            "a": "225"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the library problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The library had 381 books. Children borrowed 154. ___ books are on the shelves.",
+            "a": "227"
+          },
+          {
+            "q": "There are 520 picture books and 315 storybooks. There are ___ more picture books.",
+            "a": "205"
+          },
+          {
+            "q": "Leo read 92 pages. Zara read 67 pages. Leo read ___ more pages.",
+            "a": "25"
+          },
+          {
+            "q": "Mrs Kapoor ordered 215 new books. 148 have come. ___ books are still to come.",
+            "a": "67"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which sum above was the easiest? Write why.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Any sum with no borrowing, e.g. 457 − 123, because every top digit is bigger."
+      }
+    ]
+  },
+  {
+    "id": "subtraction-with-borrowing-07",
+    "topic": "subtraction-with-borrowing",
+    "number": 7,
+    "level": "Practice",
+    "title": "The Bus Ride to School",
+    "intro": "The school bus picks up and drops off children every morning.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Find the difference.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "86 − 49",
+            "a": "37"
+          },
+          {
+            "q": "512 − 138",
+            "a": "374"
+          },
+          {
+            "q": "374 − 159",
+            "a": "215"
+          },
+          {
+            "q": "65 − 27",
+            "a": "38"
+          },
+          {
+            "q": "623 − 341",
+            "a": "282"
+          },
+          {
+            "q": "758 − 472",
+            "a": "286"
+          },
+          {
+            "q": "91 − 46",
+            "a": "45"
+          },
+          {
+            "q": "416 − 183",
+            "a": "233"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Which is more: 81 − 45 or 73 − 29?",
+            "options": [
+              "81 − 45",
+              "73 − 29"
+            ],
+            "after": "",
+            "a": "73 − 29"
+          },
+          {
+            "before": "Which is more: 60 − 24 or 57 − 38?",
+            "options": [
+              "60 − 24",
+              "57 − 38"
+            ],
+            "after": "",
+            "a": "60 − 24"
+          },
+          {
+            "before": "Which is more: 342 − 118 or 430 − 209?",
+            "options": [
+              "342 − 118",
+              "430 − 209"
+            ],
+            "after": "",
+            "a": "342 − 118"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the bus problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The bus had 46 seats. 29 children got on. ___ seats are still empty.",
+            "a": "17"
+          },
+          {
+            "q": "The bus drove 328 km this week and 154 km last week. That is ___ km more this week.",
+            "a": "174"
+          },
+          {
+            "q": "There were 63 children on the bus. 37 got off at the first stop. ___ are still on the bus.",
+            "a": "26"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "512 − 138 needs borrowing in the ones and the tens.",
+            "a": true
+          },
+          {
+            "q": "623 − 341 needs borrowing in the ones.",
+            "a": false
+          },
+          {
+            "q": "91 − 46 = 45",
+            "a": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "subtraction-with-borrowing-08",
+    "topic": "subtraction-with-borrowing",
+    "number": 8,
+    "level": "Practice",
+    "title": "The Birthday Party",
+    "intro": "It is Kabir's birthday. Count what is left after the party.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Subtract. You may need to borrow twice.",
+        "marks": 6,
+        "items": [
+          {
+            "top": "432",
+            "op": "-",
+            "bottom": "175",
+            "a": "257"
+          },
+          {
+            "top": "621",
+            "op": "-",
+            "bottom": "348",
+            "a": "273"
+          },
+          {
+            "top": "513",
+            "op": "-",
+            "bottom": "296",
+            "a": "217"
+          },
+          {
+            "top": "745",
+            "op": "-",
+            "bottom": "368",
+            "a": "377"
+          },
+          {
+            "top": "806",
+            "op": "-",
+            "bottom": "429",
+            "a": "377"
+          },
+          {
+            "top": "352",
+            "op": "-",
+            "bottom": "184",
+            "a": "168"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Check by adding.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "432 − 175 = 257. Check: 257 + 175 = ___",
+            "a": "432"
+          },
+          {
+            "q": "621 − 348 = 273. Check: 273 + 348 = ___",
+            "a": "621"
+          },
+          {
+            "q": "745 − 368 = 377. Check: 377 + 368 = ___",
+            "a": "745"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the party problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Mum blew up 125 balloons. 68 popped. ___ balloons are left.",
+            "a": "57"
+          },
+          {
+            "q": "There were 240 sweets. The children ate 175. ___ sweets are left.",
+            "a": "65"
+          },
+          {
+            "q": "Kabir got ₹500. He spent ₹265 on a puzzle. He has ₹ ___ left.",
+            "a": "235"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each sum to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "214 − 56",
+            "right": "158"
+          },
+          {
+            "left": "331 − 87",
+            "right": "244"
+          },
+          {
+            "left": "425 − 169",
+            "right": "256"
+          },
+          {
+            "left": "612 − 483",
+            "right": "129"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "subtraction-with-borrowing-09",
+    "topic": "subtraction-with-borrowing",
+    "number": 9,
+    "level": "Practice",
+    "title": "Planting Day in the Garden",
+    "intro": "Class 2 is planting seeds in the school garden.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each sum to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "96 − 58",
+            "right": "38"
+          },
+          {
+            "left": "73 − 26",
+            "right": "47"
+          },
+          {
+            "left": "55 − 37",
+            "right": "18"
+          },
+          {
+            "left": "64 − 45",
+            "right": "19"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Subtract.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "436",
+            "op": "-",
+            "bottom": "218",
+            "a": "218"
+          },
+          {
+            "top": "725",
+            "op": "-",
+            "bottom": "483",
+            "a": "242"
+          },
+          {
+            "top": "563",
+            "op": "-",
+            "bottom": "275",
+            "a": "288"
+          },
+          {
+            "top": "914",
+            "op": "-",
+            "bottom": "638",
+            "a": "276"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "725 − 483 = 242",
+            "a": true
+          },
+          {
+            "q": "563 − 275 = 398",
+            "a": false
+          },
+          {
+            "q": "In 436 − 218, we borrow from the tens.",
+            "a": true
+          },
+          {
+            "q": "After borrowing, 914 can be 8 hundreds, 10 tens and 4 ones.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the garden problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ms Fatima had 150 seeds. The class planted 86. ___ seeds are left.",
+            "a": "64"
+          },
+          {
+            "q": "The sunflower grew to 92 cm. The bean plant grew to 58 cm. The sunflower is ___ cm taller.",
+            "a": "34"
+          },
+          {
+            "q": "There were 312 worms counted in May and 147 in June. That is ___ fewer in June.",
+            "a": "165"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Make up your own garden subtraction story. Use borrowing.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any story with a subtraction that needs borrowing, with the right answer."
+      }
+    ]
+  },
+  {
+    "id": "subtraction-with-borrowing-10",
+    "topic": "subtraction-with-borrowing",
+    "number": 10,
+    "level": "Practice",
+    "title": "The Toy Shop Sale",
+    "intro": "The toy shop has a big sale. Work out the change and what is left.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Find the change.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A kite costs ₹45. Ananya pays ₹100. She gets ₹ ___ back.",
+            "a": "55"
+          },
+          {
+            "q": "A ball costs ₹138. Omar pays ₹200. He gets ₹ ___ back.",
+            "a": "62"
+          },
+          {
+            "q": "A doll costs ₹275. Priya pays ₹500. She gets ₹ ___ back.",
+            "a": "225"
+          },
+          {
+            "q": "A car set costs ₹364. Dad pays ₹450. He gets ₹ ___ back.",
+            "a": "86"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Subtract.",
+        "marks": 6,
+        "items": [
+          {
+            "top": "731",
+            "op": "-",
+            "bottom": "456",
+            "a": "275"
+          },
+          {
+            "top": "408",
+            "op": "-",
+            "bottom": "193",
+            "a": "215"
+          },
+          {
+            "top": "625",
+            "op": "-",
+            "bottom": "187",
+            "a": "438"
+          },
+          {
+            "top": "310",
+            "op": "-",
+            "bottom": "174",
+            "a": "136"
+          },
+          {
+            "top": "547",
+            "op": "-",
+            "bottom": "269",
+            "a": "278"
+          },
+          {
+            "top": "862",
+            "op": "-",
+            "bottom": "395",
+            "a": "467"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A toy was ₹350. Now it is ₹185. It is cheaper by",
+            "options": [
+              "₹165",
+              "₹175",
+              "₹235"
+            ],
+            "after": ".",
+            "a": "₹165"
+          },
+          {
+            "before": "The shop had 420 toys. It sold 265. Toys left:",
+            "options": [
+              "145",
+              "155",
+              "255"
+            ],
+            "after": ".",
+            "a": "155"
+          },
+          {
+            "before": "Ali had ₹96. He spent ₹59. He has",
+            "options": [
+              "₹47",
+              "₹37",
+              "₹43"
+            ],
+            "after": "left.",
+            "a": "₹37"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Ananya buys one kite with ₹100. Can she buy a second kite with her change? Show your working.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Yes: ₹100 − ₹45 = ₹55, and ₹55 − ₹45 = ₹10 left."
+      }
+    ]
+  },
+  {
+    "id": "subtraction-with-borrowing-11",
+    "topic": "subtraction-with-borrowing",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Train to Jaipur",
+    "intro": "Nisha and her family take the train to Jaipur. Some sums have zeros, so borrow carefully.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Subtract. Borrow across the zeros.",
+        "marks": 6,
+        "items": [
+          {
+            "top": "400",
+            "op": "-",
+            "bottom": "167",
+            "a": "233"
+          },
+          {
+            "top": "503",
+            "op": "-",
+            "bottom": "248",
+            "a": "255"
+          },
+          {
+            "top": "700",
+            "op": "-",
+            "bottom": "326",
+            "a": "374"
+          },
+          {
+            "top": "602",
+            "op": "-",
+            "bottom": "175",
+            "a": "427"
+          },
+          {
+            "top": "800",
+            "op": "-",
+            "bottom": "459",
+            "a": "341"
+          },
+          {
+            "top": "305",
+            "op": "-",
+            "bottom": "118",
+            "a": "187"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the train problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The train has 600 seats. 384 are full. ___ seats are empty.",
+            "a": "216"
+          },
+          {
+            "q": "Jaipur is 307 km away. They have gone 129 km. They have ___ km to go.",
+            "a": "178"
+          },
+          {
+            "q": "Tickets cost ₹900 for the family. Mum has paid ₹475. She still has to pay ₹ ___.",
+            "a": "425"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "To solve 400 − 167, we borrow from the hundreds first.",
+            "a": true
+          },
+          {
+            "q": "400 is the same as 3 hundreds, 9 tens and 10 ones.",
+            "a": true
+          },
+          {
+            "q": "503 − 248 = 355",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each sum to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "200 − 73",
+            "right": "127"
+          },
+          {
+            "left": "500 − 284",
+            "right": "216"
+          },
+          {
+            "left": "301 − 145",
+            "right": "156"
+          },
+          {
+            "left": "700 − 553",
+            "right": "147"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "subtraction-with-borrowing-12",
+    "topic": "subtraction-with-borrowing",
+    "number": 12,
+    "level": "Challenge",
+    "title": "The Beach Clean-Up",
+    "intro": "Class 2 helps clean the beach at Jumeirah. Find what is left to do.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Find the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "___ − 26 = 37",
+            "a": "63"
+          },
+          {
+            "q": "81 − ___ = 45",
+            "a": "36"
+          },
+          {
+            "q": "___ − 158 = 214",
+            "a": "372"
+          },
+          {
+            "q": "630 − ___ = 275",
+            "a": "355"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Find the difference.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "273 − 98",
+            "a": "175"
+          },
+          {
+            "q": "415 − 276",
+            "a": "139"
+          },
+          {
+            "q": "907 − 539",
+            "a": "368"
+          },
+          {
+            "q": "162 − 85",
+            "a": "77"
+          },
+          {
+            "q": "534 − 367",
+            "a": "167"
+          },
+          {
+            "q": "820 − 648",
+            "a": "172"
+          },
+          {
+            "q": "96 − 17",
+            "a": "79"
+          },
+          {
+            "q": "701 − 302",
+            "a": "399"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the clean-up problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The children picked up 342 bottles. 187 were plastic. ___ were glass.",
+            "a": "155"
+          },
+          {
+            "q": "They had 250 bags. They used 163. ___ bags are left.",
+            "a": "87"
+          },
+          {
+            "q": "Group A found 128 shells. Group B found 93. Group A found ___ more.",
+            "a": "35"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why do we check a subtraction by adding? Write one sentence.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Because the answer plus the number taken away must give the starting number."
+      }
+    ]
+  },
+  {
+    "id": "subtraction-with-borrowing-13",
+    "topic": "subtraction-with-borrowing",
+    "number": 13,
+    "level": "Challenge",
+    "title": "The Diwali Mela",
+    "intro": "The school Diwali mela is here. Use subtraction to plan the stalls.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Which is more: 512 − 267 or 604 − 371?",
+            "options": [
+              "512 − 267",
+              "604 − 371"
+            ],
+            "after": "",
+            "a": "512 − 267"
+          },
+          {
+            "before": "Which is more: 450 − 186 or 333 − 98?",
+            "options": [
+              "450 − 186",
+              "333 − 98"
+            ],
+            "after": "",
+            "a": "450 − 186"
+          },
+          {
+            "before": "Which is more: 721 − 459 or 815 − 538?",
+            "options": [
+              "721 − 459",
+              "815 − 538"
+            ],
+            "after": "",
+            "a": "815 − 538"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Subtract.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "642",
+            "op": "-",
+            "bottom": "385",
+            "a": "257"
+          },
+          {
+            "top": "910",
+            "op": "-",
+            "bottom": "476",
+            "a": "434"
+          },
+          {
+            "top": "523",
+            "op": "-",
+            "bottom": "264",
+            "a": "259"
+          },
+          {
+            "top": "817",
+            "op": "-",
+            "bottom": "549",
+            "a": "268"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the two-step mela problems.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "The food stall made 300 samosas. It sold 145 in the morning and 87 at night. ___ samosas are left.",
+            "a": "68"
+          },
+          {
+            "q": "Rhea had ₹250. She spent ₹68 on bangles and ₹95 on a diya set. She has ₹ ___ left.",
+            "a": "87"
+          },
+          {
+            "q": "There were 420 tickets. 156 were sold on Friday and 198 on Saturday. ___ tickets are left.",
+            "a": "66"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "642 − 385 = 257",
+            "a": true
+          },
+          {
+            "q": "910 − 476 = 544",
+            "a": false
+          },
+          {
+            "q": "The answer to a subtraction is called the difference.",
+            "a": true
+          },
+          {
+            "q": "523 − 264 needs borrowing twice.",
+            "a": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "subtraction-with-borrowing-14",
+    "topic": "subtraction-with-borrowing",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Science Fair",
+    "intro": "The Class 2 science fair is busy. Be a detective and find the mistakes.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Spot the mistake. Circle True if the answer is right.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "534 − 278 = 256",
+            "a": true
+          },
+          {
+            "q": "720 − 345 = 485",
+            "a": false
+          },
+          {
+            "q": "86 − 47 = 49",
+            "a": false
+          },
+          {
+            "q": "613 − 457 = 156",
+            "a": true
+          },
+          {
+            "q": "405 − 236 = 231",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Now solve these the right way.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "720",
+            "op": "-",
+            "bottom": "345",
+            "a": "375"
+          },
+          {
+            "top": "86",
+            "op": "-",
+            "bottom": "47",
+            "a": "39"
+          },
+          {
+            "top": "405",
+            "op": "-",
+            "bottom": "236",
+            "a": "169"
+          },
+          {
+            "top": "951",
+            "op": "-",
+            "bottom": "672",
+            "a": "279"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the missing number.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "___ − 247 = 389",
+            "a": "636"
+          },
+          {
+            "q": "802 − ___ = 516",
+            "a": "286"
+          },
+          {
+            "q": "___ − 75 = 168",
+            "a": "243"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the science fair problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The fair had 500 visitors. 238 were parents. ___ were not parents.",
+            "a": "262"
+          },
+          {
+            "q": "A plant grew 143 mm in July. It grew 96 mm in June. It grew ___ mm more in July.",
+            "a": "47"
+          },
+          {
+            "q": "Judges gave 200 stickers. 126 went to Class 2A. ___ went to Class 2B.",
+            "a": "74"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Look at the mistakes above. What went wrong? Write one sentence.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Accept: forgot to borrow / forgot to take 1 away from the tens or hundreds after borrowing."
+      }
+    ]
+  },
+  {
+    "id": "subtraction-with-borrowing-15",
+    "topic": "subtraction-with-borrowing",
+    "number": 15,
+    "level": "Challenge",
+    "title": "The Desert Safari Camp",
+    "intro": "Mira and Tom go on a desert safari. Use everything you know about borrowing.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Find the difference.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "900 − 358",
+            "a": "542"
+          },
+          {
+            "q": "604 − 289",
+            "a": "315"
+          },
+          {
+            "q": "830 − 467",
+            "a": "363"
+          },
+          {
+            "q": "715 − 198",
+            "a": "517"
+          },
+          {
+            "q": "402 − 256",
+            "a": "146"
+          },
+          {
+            "q": "563 − 384",
+            "a": "179"
+          },
+          {
+            "q": "990 − 795",
+            "a": "195"
+          },
+          {
+            "q": "271 − 184",
+            "a": "87"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the missing number.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "___ − 364 = 458",
+            "a": "822"
+          },
+          {
+            "q": "700 − ___ = 213",
+            "a": "487"
+          },
+          {
+            "q": "615 − ___ = 147",
+            "a": "468"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the safari problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The camp had 400 camel rides. 235 were taken. ___ rides are left.",
+            "a": "165"
+          },
+          {
+            "q": "Mira took 312 photos. Tom took 178. Mira took ___ more.",
+            "a": "134"
+          },
+          {
+            "q": "The jeep drove 186 km. It went 59 km before lunch. It went ___ km after lunch.",
+            "a": "127"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The camp had 250 water bottles. 118 were used on Day 1 and 75 on Day 2. Left:",
+            "options": [
+              "57",
+              "67",
+              "132"
+            ],
+            "after": ".",
+            "a": "57"
+          },
+          {
+            "before": "A lamp costs ₹185. Tom pays ₹300. His change is",
+            "options": [
+              "₹115",
+              "₹125",
+              "₹215"
+            ],
+            "after": ".",
+            "a": "₹115"
+          },
+          {
+            "before": "Which needs borrowing in both the ones and the tens?",
+            "options": [
+              "830 − 467",
+              "758 − 425",
+              "964 − 531"
+            ],
+            "after": "",
+            "a": "830 − 467"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a desert safari story that uses 500 − 236. Give the answer.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any safari story ending with the answer 264."
+      }
+    ]
   }
 ]
