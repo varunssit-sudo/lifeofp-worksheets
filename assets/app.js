@@ -13,6 +13,7 @@
   const PLAY_ICON = '<svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24"><path d="M7 5l12 7-12 7z"/></svg>';
   const BELL_ICON = '<svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"/></svg>';
 
+  const PEN_ICON = '<svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4z"/></svg>';
   const state = { topics: [], index: [], full: {}, subject: 'All', level: 'All', q: '', withKey: false, previewIds: [] };
   const app = document.getElementById('app');
   const $ = (id) => document.getElementById(id);
@@ -170,7 +171,7 @@
     return `<article class="card sheet-card s-${t.subject || 'All'}">
       <button type="button" class="thumb" data-preview="${esc(s.id)}" data-thumb="${esc(s.id)}" aria-label="Preview sheet ${s.number}, ${esc(s.title)}"><span class="thumb-lines" aria-hidden="true"><i></i><i style="width:70%"></i><i style="width:88%"></i><i style="width:60%"></i><i style="width:82%"></i></span></button>
       <div><div class="meta"><span>Sheet ${s.number}</span><span>${esc(s.level)}</span></div><h3>${esc(s.title)}</h3><p>${esc(t.name)} · 1 page</p></div>
-      <div class="actions"><button type="button" class="btn btn-soft" data-preview="${esc(s.id)}" style="flex:1">Preview</button><button type="button" class="btn btn-print" data-print="${esc(s.id)}" aria-label="Print sheet ${s.number}, ${esc(s.title)}">${PRINT_ICON}Print</button></div>
+      <div class="actions sheet-actions"><a class="btn btn-main btn-online" href="#do/${esc(s.id)}" aria-label="Do sheet ${s.number}, ${esc(s.title)}, online">${PEN_ICON}Do it online</a><button type="button" class="btn btn-soft" data-preview="${esc(s.id)}">Preview</button><button type="button" class="btn btn-print" data-print="${esc(s.id)}" aria-label="Print sheet ${s.number}, ${esc(s.title)}">${PRINT_ICON}Print</button></div>
     </article>`;
   }
 
@@ -261,6 +262,194 @@
     bindSheetButtons();
   }
 
+  /* ---------- online worksheets: fill in on screen, then check ---------- */
+  const norm = (v) => String(v ?? '').toLowerCase()
+    .replace(/[‘’]/g, "'").replace(/[“”]/g, '"')
+    .replace(/[−–—]/g, '-').replace(/[x*]/g, (c, i, str) => (/\d\s*$/.test(str.slice(0, i)) ? '×' : c))
+    .replace(/₹|\brs\.?(?=\s*\d)/g, '').replace(/[\s,]+/g, '').replace(/[.!?]+$/, '');
+  const isOpen = (a) => /^\s*(e\.g\.|answers? (will )?vary|any )/i.test(String(a));
+  function accepts(a, given) {
+    if (!/[a-z0-9]/i.test(String(a))) return String(given).trim() === String(a).trim(); // punctuation answers: . , ? !
+    const g = norm(given);
+    if (!g) return false;
+    const opts = String(a).split(/\s+\/\s+/);
+    const more = [];
+    opts.forEach((o) => { const m = o.match(/^(.*?)\s*\((.+)\)\s*$/); if (m) more.push(m[1], m[2]); });
+    return [...opts, ...more].some((o) => norm(o) === g);
+  }
+  const loose = (v) => norm(v).replace(/[^a-z0-9×+\-=]/g, '');
+  const field = (key, a, cls = '') => `<input class="ol-in ${cls}" data-k="${key}" ${/^\d+$/.test(String(a)) ? 'inputmode="numeric"' : ''} autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="Answer">`;
+  const fb = (key) => `<span class="ol-fb" data-fb="${key}" aria-live="polite"></span>`;
+
+  function onlineSection(sec, i) {
+    const it = sec.items || [];
+    const k = (j) => `${i}.${j}`;
+    const head = `<div class="ws-sec-h"><span class="badge" style="background:${BADGE[i % BADGE.length]}">${letter(i)}</span><b>${esc(sec.title)}</b><span>${sec.marks} mark${sec.marks === 1 ? '' : 's'}</span></div>`;
+    let body = '';
+    switch (sec.type) {
+      case 'fill':
+        body = `<ol class="ol-list">${it.map((x, j) => { const [a, b] = esc(x.q).split('___'); return `<li class="ol-item" data-item="${k(j)}">${a}${field(k(j), x.a, 'inline')}${b ?? ''}${fb(k(j))}</li>`; }).join('')}</ol>`; break;
+      case 'pairs':
+        body = `<div class="ol-pairs">${it.map((x, j) => `<label class="ol-item ol-pair" data-item="${k(j)}"><b>${esc(x.q)}</b><span aria-hidden="true">→</span>${field(k(j), x.a)}${fb(k(j))}</label>`).join('')}</div>`; break;
+      case 'column':
+        body = `<div class="ol-cols">${it.map((x, j) => `<div class="ol-item ol-col" data-item="${k(j)}"><span>${esc(x.top)}</span><span><i>${esc(x.op === '-' ? '−' : x.op)}</i>${esc(x.bottom)}</span>${field(k(j), x.a)}${fb(k(j))}</div>`).join('')}</div>`; break;
+      case 'choice':
+        body = `<ol class="ol-list">${it.map((x, j) => `<li class="ol-item" data-item="${k(j)}"><span>${esc(x.before)}</span> <span class="ol-opts" role="radiogroup">${x.options.map((o) => `<button type="button" class="ol-opt" role="radio" aria-checked="false" data-k="${k(j)}" data-v="${esc(o)}">${esc(o)}</button>`).join('')}</span> <span>${esc(x.after)}</span>${fb(k(j))}</li>`).join('')}</ol>`; break;
+      case 'truefalse':
+        body = `<ol class="ol-list">${it.map((x, j) => `<li class="ol-item" data-item="${k(j)}"><span>${esc(x.q)}</span> <span class="ol-opts" role="radiogroup">${['True', 'False'].map((o) => `<button type="button" class="ol-opt" role="radio" aria-checked="false" data-k="${k(j)}" data-v="${o}">${o}</button>`).join('')}</span>${fb(k(j))}</li>`).join('')}</ol>`; break;
+      case 'match': {
+        const right = rotate(it.map((x) => x.right), 2);
+        body = `<ol class="ol-list">${it.map((x, j) => `<li class="ol-item" data-item="${k(j)}"><span>${esc(x.left)}</span> <span aria-hidden="true">→</span> <select class="ol-in" data-k="${k(j)}" aria-label="Match for ${esc(x.left)}"><option value="">Choose…</option>${right.map((r) => `<option>${esc(r)}</option>`).join('')}</select>${fb(k(j))}</li>`).join('')}</ol>`; break;
+      }
+      case 'sort':
+        body = `<ol class="ol-list">${sec.words.map((w, j) => `<li class="ol-item" data-item="${k(j)}"><b>${esc(w)}</b> <span class="ol-opts" role="radiogroup">${sec.groups.map((g) => `<button type="button" class="ol-opt" role="radio" aria-checked="false" data-k="${k(j)}" data-v="${esc(g)}">${esc(g)}</button>`).join('')}</span>${fb(k(j))}</li>`).join('')}</ol>`; break;
+      case 'rewrite':
+        body = `<ol class="ol-list">${it.map((x, j) => `<li class="ol-item ol-block" data-item="${k(j)}"><span>${esc(x.q)}</span><textarea class="ol-in" data-k="${k(j)}" rows="2" aria-label="Write your sentence"></textarea>${fb(k(j))}</li>`).join('')}</ol>`; break;
+      case 'lines':
+        body = `<div class="ol-item ol-block" data-item="${k(0)}"><textarea class="ol-in" data-k="${k(0)}" rows="${Math.max(2, sec.lines || 2)}" aria-label="Write your answer"></textarea>${fb(k(0))}</div>`; break;
+    }
+    return `<section class="ws-sec ol-sec">${head}${body}</section>`;
+  }
+
+  // every answerable item on a sheet: { key, kind: 'auto' | 'self' | 'open', answer, show }
+  function onlineKey(ws) {
+    const out = [];
+    ws.sections.forEach((sec, i) => {
+      const it = sec.items || [];
+      const add = (j, kind, answer, show) => out.push({ key: `${i}.${j}`, kind, answer, show: show ?? String(answer) });
+      switch (sec.type) {
+        case 'fill': case 'pairs': case 'column': it.forEach((x, j) => add(j, isOpen(x.a) ? 'open' : 'auto', x.a)); break;
+        case 'choice': it.forEach((x, j) => add(j, 'exact', x.a)); break;
+        case 'truefalse': it.forEach((x, j) => add(j, 'exact', x.a ? 'True' : 'False')); break;
+        case 'match': it.forEach((x, j) => add(j, 'exact', x.right)); break;
+        case 'sort': sec.words.forEach((w, j) => add(j, 'exact', sec.a[w])); break;
+        case 'rewrite': it.forEach((x, j) => add(j, 'self', x.a)); break;
+        case 'lines': add(0, 'open', sec.a); break;
+      }
+    });
+    return out;
+  }
+
+  const saveKey = (id) => `lop-online-${id}`;
+  function readAnswers() {
+    const v = {};
+    app.querySelectorAll('.ol-in[data-k]').forEach((el) => { v[el.dataset.k] = el.value; });
+    app.querySelectorAll('.ol-opt[aria-checked="true"]').forEach((el) => { v[el.dataset.k] = el.dataset.v; });
+    return v;
+  }
+  function writeAnswers(v) {
+    app.querySelectorAll('.ol-in[data-k]').forEach((el) => { if (v[el.dataset.k] != null) el.value = v[el.dataset.k]; });
+    app.querySelectorAll('.ol-opt').forEach((el) => el.setAttribute('aria-checked', String(v[el.dataset.k] === el.dataset.v)));
+  }
+
+  async function renderOnline(id) {
+    const meta = state.index.find((x) => x.id === id);
+    const t = meta && topicById(meta.topic);
+    if (!meta || !t) { app.innerHTML = '<p class="empty">That worksheet could not be found. <a href="#">Back to all subjects</a></p>'; return; }
+    document.title = `${meta.title} · Do it online · Life of P Worksheets`;
+    app.innerHTML = '<p class="empty">Loading the worksheet…</p>';
+    const ws = (await loadSheets([id]))[0];
+    if (!ws || location.hash !== '#do/' + id) return;
+    const key = onlineKey(ws);
+    const nAuto = key.filter((x) => x.kind !== 'open').length;
+    const sib = listFor(t.id);
+    const pos = sib.findIndex((x) => x.id === id);
+    const next = sib[pos + 1];
+    app.innerHTML = `
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="#">All subjects</a><span aria-hidden="true">/</span><a href="#${esc(t.subject.toLowerCase())}">${esc(t.subject)}</a><span aria-hidden="true">/</span><a href="#${esc(t.id)}">${esc(t.name)}</a><span aria-hidden="true">/</span><b>Sheet ${ws.number}</b></nav>
+      <section class="online s-${t.subject}">
+        <header class="ol-head">
+          <div class="ws-tag">${esc(t.subject)} · ${esc(t.name)} · Sheet ${ws.number} · ${esc(ws.level)}</div>
+          <h1>${esc(ws.title)}</h1>
+          <p class="ws-intro">${esc(ws.intro)}</p>
+          <label class="ol-name">Your name <input id="ol-name" autocomplete="off" placeholder="Type your name"></label>
+        </header>
+        <div id="ol-result" class="ol-result" hidden></div>
+        <form id="ol-form" class="ol-form" novalidate>
+          ${ws.sections.map(onlineSection).join('')}
+          <div class="ol-bar">
+            <button type="submit" class="btn btn-main ol-submit">Submit and check</button>
+            <button type="button" class="btn btn-ghost" id="ol-reset">Start again</button>
+          </div>
+        </form>
+        <div class="ol-after" id="ol-after" hidden>
+          <button type="button" class="btn btn-ghost ol-again">Try again</button>
+          <a class="btn btn-soft" href="#${esc(t.id)}">Back to ${esc(t.name)}</a>
+          ${next ? `<a class="btn btn-main" href="#do/${esc(next.id)}">Next sheet: ${esc(next.title)}</a>` : ''}
+          <button type="button" class="btn btn-print" data-print="${esc(ws.id)}">${PRINT_ICON}Print it</button>
+        </div>
+      </section>`;
+
+    let saved = {};
+    try { saved = JSON.parse(store.get(saveKey(id)) || '{}'); } catch (e) { saved = {}; }
+    if (saved.answers) writeAnswers(saved.answers);
+    $('ol-name').value = saved.name || store.get('lop-name') || '';
+    const persist = () => store.set(saveKey(id), JSON.stringify({ answers: readAnswers(), name: $('ol-name').value }));
+
+    app.querySelectorAll('.ol-opts').forEach((g) => g.addEventListener('click', (e) => {
+      const b = e.target.closest('.ol-opt');
+      if (!b || $('ol-form').classList.contains('checked')) return;
+      g.querySelectorAll('.ol-opt').forEach((o) => o.setAttribute('aria-checked', String(o === b)));
+      persist();
+    }));
+    app.querySelectorAll('.ol-in').forEach((el) => el.addEventListener('input', persist));
+    $('ol-name').addEventListener('input', () => { store.set('lop-name', $('ol-name').value); persist(); });
+
+    const grade = () => {
+      const v = readAnswers();
+      let right = 0;
+      key.forEach((x) => {
+        const item = app.querySelector(`[data-item="${x.key}"]`);
+        const box = app.querySelector(`[data-fb="${x.key}"]`);
+        const given = v[x.key] || '';
+        let ok;
+        if (x.kind === 'exact') ok = given === x.answer;
+        else if (x.kind === 'auto') ok = accepts(x.answer, given);
+        else if (x.kind === 'self') ok = loose(given) === loose(x.answer);
+        item.classList.remove('is-right', 'is-wrong', 'is-open');
+        if (x.kind === 'open') {
+          item.classList.add('is-open');
+          box.innerHTML = `<span class="ol-tag">Check with a grown-up</span> ${esc(x.show)}`;
+          return;
+        }
+        if (ok) right++;
+        item.classList.add(ok ? 'is-right' : 'is-wrong');
+        box.innerHTML = ok
+          ? '<span class="ol-tag">Correct</span>'
+          : `<span class="ol-tag">${given.trim() ? 'Wrong' : 'Not answered'}</span> Correct answer: <b>${esc(x.show)}</b>${x.kind === 'self' ? ' <small>(small spelling or punctuation differences are fine; check with a grown-up)</small>' : ''}`;
+        app.querySelectorAll(`.ol-opt[data-k="${x.key}"]`).forEach((o) => { if (o.dataset.v === x.answer) o.classList.add('is-answer'); });
+      });
+      const pct = nAuto ? Math.round(right / nAuto * 100) : 0;
+      const msg = pct === 100 ? 'Excellent! Every answer is correct.' : pct >= 80 ? 'Great work! Look at the red ones to see where to fix.' : pct >= 50 ? 'Good try! Read the correct answers in red, then try again.' : 'Keep practising! Watch the video, then try again.';
+      const name = $('ol-name').value.trim();
+      const res = $('ol-result');
+      res.hidden = false;
+      res.innerHTML = `<div class="ol-score"><b>${right}</b><span>/ ${nAuto}</span></div>
+        <div><h2>${name ? esc(name) + ', you' : 'You'} got ${right} out of ${nAuto} correct (${pct}%)</h2><p>${msg}</p>
+        <p class="ol-legend"><span class="ol-key r">Correct</span><span class="ol-key w">Wrong, with the correct answer</span>${key.some((x) => x.kind === 'open') ? '<span class="ol-key o">Open answer: check with a grown-up</span>' : ''}</p></div>`;
+      $('ol-form').classList.add('checked');
+      app.querySelectorAll('.ol-in').forEach((el) => { el.readOnly = true; el.disabled = el.tagName === 'SELECT'; });
+      $('ol-after').hidden = false;
+      app.querySelector('.ol-bar').hidden = true;
+      res.insertAdjacentHTML('beforeend', `<div class="ol-after">${$('ol-after').innerHTML}</div>`);
+      res.querySelectorAll('.ol-again').forEach((b) => b.addEventListener('click', again));
+      res.querySelectorAll('[data-print]').forEach((b) => b.addEventListener('click', () => printSheets([b.dataset.print], state.withKey)));
+      const log = (() => { try { return JSON.parse(store.get('lop-scores') || '{}'); } catch (e) { return {}; } })();
+      log[id] = { right, total: nAuto, at: Date.now() };
+      store.set('lop-scores', JSON.stringify(log));
+      res.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    };
+    $('ol-form').addEventListener('submit', (e) => { e.preventDefault(); grade(); });
+    function again() {
+      store.set(saveKey(id), '');
+      renderOnline(id);
+      window.scrollTo(0, 0);
+    }
+    $('ol-reset').addEventListener('click', again);
+    app.querySelectorAll('.ol-again').forEach((b) => b.addEventListener('click', again));
+    bindSheetButtons();
+  }
+
   /* ---------- worksheet thumbnails: a live, scaled-down copy of the real sheet ---------- */
   const PAGE_PX = 794; // 210mm at 96dpi
   function sizeThumbs() {
@@ -292,6 +481,7 @@
 
   function render() {
     const h = decodeURIComponent(location.hash.replace(/^#/, ''));
+    if (h.startsWith('do/')) { renderOnline(h.slice(3)); return; }
     const t = topicById(h);
     if (!t) state.subject = SUBJECTS.find((s) => s.toLowerCase() === h.toLowerCase()) || 'All'; // #maths, #english, #science
 

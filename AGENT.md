@@ -46,6 +46,7 @@ This is the job the nightly worksheet agent runs on this repository. It keeps th
   - Every item carries its answer, because the answer key prints from it.
   - Work out every number answer with Python before writing it down. Never do the sums in your head.
   - Read each English and Science answer back against the question.
+  - Children can also do every sheet online, and the site marks it from these answers. So a `fill`, `pairs` or `column` answer should be the short thing a child would type. Separate other accepted answers with ` / ` (for example `close / shut`), and start an open answer with `e.g.` so it is shown as "check with a grown-up" instead of marked wrong.
 - **Money** is in Indian Rupees (₹), matching the channel's Money video.
 - **Look.** Graphics stay subtle and text-based; the site handles the styling. Never use emoji in worksheet text.
 
