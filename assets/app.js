@@ -195,7 +195,8 @@
     app.innerHTML = `
       <section class="hero">
         <div><h1>Practice sheets for every <span>Life of P</span> video</h1>
-        <p>Pick a subject, open a topic, print a sheet. Each topic grows to 15 worksheets, each with a fresh real-life scenario.</p></div>
+        <p>Pick a subject, open a topic, print a sheet. Each topic grows to 15 worksheets, each with a fresh real-life scenario.</p>
+        <p class="hero-ask">Need a topic we do not have yet? <a href="#request">Ask for a worksheet or video</a></p></div>
         <div class="stats">
           <div class="stat"><b style="color:var(--maths)">${state.topics.length}</b><span>topics</span></div>
           <div class="stat"><b style="color:var(--english)">${total}</b><span>worksheets</span></div>
@@ -254,12 +255,141 @@
         </div>
         <div class="sheets">${list.map(sheetCard).join('')}${pending}</div>
         ${!list.length && !pending ? '<p class="empty">No worksheets at this level yet.</p>' : ''}
-      </section>`;
+      </section>
+      <p class="ask-more">Need something else for ${esc(t.name)}? <a href="#request?topic=${esc(t.id)}">Ask for more worksheets or a video</a></p>`;
     app.querySelectorAll('[data-level]').forEach((b) => b.addEventListener('click', () => { state.level = b.dataset.level; render(); }));
     $('key-all').addEventListener('change', (e) => { state.withKey = e.target.checked; });
     const pa = $('print-all');
     if (pa) pa.addEventListener('click', () => printSheets(all.map((s) => s.id), state.withKey));
     bindSheetButtons();
+  }
+
+  /* ---------- parent requests: a topic, worksheet or video they need ---------- */
+  // Sent to a Make.com webhook, which adds a row to "Parent Requests.xlsx" in OneDrive and saves the files beside it.
+  const REQUEST_HOOK = 'https://hook.eu1.make.com/ks9rfvj9h52o46u7wr86gm8rdatbulom';
+  const MAX_FILE = 4.5 * 1024 * 1024; // the webhook accepts up to 5 MB per request
+  const MAX_FILES = 6;
+
+  async function shrinkImage(file) {
+    if (!/^image\//.test(file.type) || file.type === 'image/gif') return file;
+    try {
+      const bmp = await createImageBitmap(file);
+      const scale = Math.min(1, 1800 / Math.max(bmp.width, bmp.height));
+      const c = document.createElement('canvas');
+      c.width = Math.round(bmp.width * scale); c.height = Math.round(bmp.height * scale);
+      c.getContext('2d').drawImage(bmp, 0, 0, c.width, c.height);
+      const blob = await new Promise((res) => c.toBlob(res, 'image/jpeg', 0.82));
+      if (!blob || blob.size >= file.size) return file;
+      return new File([blob], file.name.replace(/\.[^.]+$/, '') + '.jpg', { type: 'image/jpeg' });
+    } catch (e) { return file; }
+  }
+  const fmtSize = (n) => (n > 1048576 ? (n / 1048576).toFixed(1) + ' MB' : Math.max(1, Math.round(n / 1024)) + ' KB');
+  const safeName = (n) => String(n).replace(/[^\w.\-]+/g, '_').slice(-80);
+  async function postHook(fields, file) {
+    const fd = new FormData();
+    Object.entries(fields).forEach(([k, v]) => fd.append(k, v == null ? '' : String(v)));
+    if (file) fd.append('file', file, file.name);
+    await fetch(REQUEST_HOOK, { method: 'POST', body: fd, mode: 'no-cors' });
+  }
+
+  function renderRequest() {
+    document.title = 'Request a worksheet or video · Life of P Worksheets';
+    const pre = decodeURIComponent((location.hash.split('?topic=')[1] || ''));
+    const preT = topicById(pre);
+    let mine = [];
+    try { mine = JSON.parse(store.get('lop-requests') || '[]'); } catch (e) { mine = []; }
+    app.innerHTML = `
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="#">All subjects</a><span aria-hidden="true">/</span><b>Request a worksheet or video</b></nav>
+      <section class="rq">
+        <div class="rq-intro">
+          <h1>Ask for a worksheet or video</h1>
+          <p>Is your child learning something we have not covered yet, or do you need more practice on a topic? Tell us here. You can add photos of the textbook page or notebook, a short video, or just type what you need.</p>
+          <ul class="rq-points"><li>We usually have it ready within a day.</li><li>New sheets appear on this site and new videos on the Life of P YouTube channel.</li><li>Please do not include your child's full name, school name or photos of faces.</li></ul>
+        </div>
+        <form id="rq-form" class="rq-form" novalidate>
+          <div class="rq-row">
+            <label>Your name <input name="name" required maxlength="60" autocomplete="name" placeholder="For example: Meera (Riya's mum)"></label>
+            <label>Email <small>(optional, so we can tell you when it is ready)</small> <input name="email" type="email" maxlength="100" autocomplete="email" placeholder="you@example.com"></label>
+          </div>
+          <div class="rq-row">
+            <label>Subject <select name="subject"><option>Not sure</option>${['Maths', 'English', 'Science'].map((x) => `<option ${preT && preT.subject === x ? 'selected' : ''}>${x}</option>`).join('')}</select></label>
+            <label>Topic <input name="topic" required maxlength="100" list="rq-topics" placeholder="For example: Fractions, or Telling time to the quarter hour" value="${preT ? esc(preT.name) : ''}">
+              <datalist id="rq-topics">${state.topics.map((t) => `<option value="${esc(t.name)}">`).join('')}</datalist></label>
+          </div>
+          <fieldset class="rq-wants"><legend>What do you need?</legend>
+            ${['Worksheets and video', 'Worksheets only', 'Video only'].map((w, i) => `<label class="rq-pill"><input type="radio" name="wants" value="${w}" ${i === 0 ? 'checked' : ''}> ${w}</label>`).join('')}
+          </fieldset>
+          <label>Tell us what you need <textarea name="details" rows="5" maxlength="3000" placeholder="What is the class learning? Which page or exercise? Anything your child finds hard? You can also paste a link to a photo album or video."></textarea></label>
+          <div class="rq-files">
+            <label class="btn btn-soft s-All" for="rq-file">Add photos, videos or PDF</label>
+            <input id="rq-file" type="file" accept="image/*,video/*,application/pdf" multiple hidden>
+            <small>Up to ${MAX_FILES} files. Photos are made smaller before sending. Each video or PDF must be under 4.5 MB; for a longer video, paste a link above.</small>
+            <ul id="rq-list" class="rq-list"></ul>
+          </div>
+          <input type="text" name="website" class="rq-hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+          <p id="rq-error" class="rq-error" role="alert" hidden></p>
+          <button type="submit" class="btn btn-main s-All rq-send">Send request</button>
+        </form>
+        <div id="rq-done" class="rq-done" hidden role="status"></div>
+        ${mine.length ? `<section class="rq-mine"><h2>Your requests from this device</h2><ul>${mine.slice(0, 10).map((r) => `<li><b>${esc(r.topic)}</b> <span>${esc(r.wants)} · sent ${fmtDate(r.at)} · ref ${esc(r.rid)}</span></li>`).join('')}</ul></section>` : ''}
+      </section>`;
+
+    let files = [];
+    const list = $('rq-list');
+    const showFiles = () => {
+      list.innerHTML = files.map((f, i) => `<li><span>${esc(f.name)}</span><small>${fmtSize(f.size)}</small><button type="button" class="rq-x" data-i="${i}" aria-label="Remove ${esc(f.name)}">Remove</button></li>`).join('');
+      list.querySelectorAll('.rq-x').forEach((b) => b.addEventListener('click', () => { files.splice(+b.dataset.i, 1); showFiles(); }));
+    };
+    const err = (m) => { const e = $('rq-error'); e.hidden = !m; e.textContent = m || ''; };
+    $('rq-file').addEventListener('change', async (e) => {
+      err('');
+      const picked = [...e.target.files];
+      e.target.value = '';
+      for (const f0 of picked) {
+        if (files.length >= MAX_FILES) { err(`You can add up to ${MAX_FILES} files.`); break; }
+        const f = await shrinkImage(f0);
+        if (f.size > MAX_FILE) { err(`"${f0.name}" is ${fmtSize(f.size)}, which is too big. Please paste a link to it in the box above instead.`); continue; }
+        files.push(f);
+      }
+      showFiles();
+    });
+
+    $('rq-form').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const f = e.target;
+      const v = (n) => (f.elements[n].value || '').trim();
+      err('');
+      if (!v('name')) { err('Please type your name.'); f.elements.name.focus(); return; }
+      if (!v('topic')) { err('Please tell us the topic.'); f.elements.topic.focus(); return; }
+      if (v('email') && !/^\S+@\S+\.\S+$/.test(v('email'))) { err('That email does not look right. You can also leave it empty.'); f.elements.email.focus(); return; }
+      const now = new Date();
+      const rid = `R${String(now.getFullYear()).slice(2)}${String(now.getMonth() + 1).padStart(2, '0')}${String(now.getDate()).padStart(2, '0')}-${Math.random().toString(36).slice(2, 6).toUpperCase()}`;
+      const names = files.map((x, i) => `${String(i + 1).padStart(2, '0')}-${safeName(x.name)}`);
+      const btn = f.querySelector('.rq-send');
+      btn.disabled = true; btn.textContent = 'Sending…';
+      try {
+        await postHook({ kind: 'request', rid, name: v('name'), email: v('email'), subject: v('subject'), topic: v('topic'), wants: f.elements.wants.value, details: v('details'),
+          attachments: names.length ? `${names.length} file(s) in "Parent Requests" folder: ${names.map((n) => rid + '-' + n).join(', ')}` : '', page: location.href, website: v('website') });
+        for (let i = 0; i < files.length; i++) {
+          btn.textContent = `Sending file ${i + 1} of ${files.length}…`;
+          await postHook({ kind: 'file', rid, fileName: names[i], website: v('website') }, files[i]);
+        }
+      } catch (ex) {
+        btn.disabled = false; btn.textContent = 'Send request';
+        err('Sorry, the request could not be sent. Please check your internet connection and try again.');
+        return;
+      }
+      try { mine.unshift({ rid, topic: v('topic'), wants: f.elements.wants.value, at: Date.now() }); store.set('lop-requests', JSON.stringify(mine.slice(0, 20))); } catch (ex) { /* ignore */ }
+      f.hidden = true;
+      const done = $('rq-done');
+      done.hidden = false;
+      done.innerHTML = `<h2>Thank you, ${esc(v('name').split(' ')[0])}! Your request has been sent.</h2>
+        <p>Please allow us a day to get the worksheet and video done. New worksheets appear on this site, and new videos on the <a href="${CHANNEL}" target="_blank" rel="noopener">Life of P YouTube channel</a>.</p>
+        <p class="rq-ref">Your reference: <b>${esc(rid)}</b></p>
+        <div class="actions"><a class="btn btn-main s-All" href="#">Back to worksheets</a><a class="btn btn-sub" href="${SUBSCRIBE}" target="_blank" rel="noopener">${BELL_ICON}Subscribe for new videos</a><button type="button" class="btn btn-ghost" id="rq-again">Send another request</button></div>`;
+      $('rq-again').addEventListener('click', () => renderRequest());
+      done.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
   }
 
   /* ---------- progress, kept only in this browser ---------- */
@@ -668,6 +798,7 @@
     const h = decodeURIComponent(location.hash.replace(/^#/, ''));
     if (h.startsWith('do/')) { renderOnline(h.slice(3)); return; }
     if (h === 'progress') { renderProgress(); return; }
+    if (h === 'request' || h.startsWith('request?')) { renderRequest(); return; }
     const t = topicById(h);
     if (!t) state.subject = SUBJECTS.find((s) => s.toLowerCase() === h.toLowerCase()) || 'All'; // #maths, #english, #science
 

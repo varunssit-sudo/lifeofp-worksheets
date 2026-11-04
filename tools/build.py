@@ -63,6 +63,12 @@ def sync():
             continue
         name, subject = m.group(1).strip(), m.group(2)
         tid = slug(name)
+        waiting = next((t for t in topics if t['id'] == tid and not t.get('videoId')), None)
+        if waiting:  # a topic added from a parent request now has its video
+            waiting.update(videoId=vid, videoUrl=f'https://www.youtube.com/watch?v={vid}')
+            have.add(vid)
+            added += 1
+            continue
         if any(t['id'] == tid for t in topics):
             tid += '-2'
         topics.append({'id': tid, 'subject': subject, 'name': name,

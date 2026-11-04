@@ -7,21 +7,31 @@ This is the job the nightly worksheet agent runs on this repository. It keeps th
 1. **Sync new videos.** Fetch the channel feed at https://www.youtube.com/feeds/videos.xml?channel_id=UC5nxfittOf_8ColIHS4MFwg. For each video not already listed in `tools/videos.txt`, add a line in the form `VIDEO_ID | Title | subtitle`. Then run `python3 tools/build.py sync`.
    - Shorts and non-lesson uploads are skipped automatically, because sync only reads titles shaped like "<Topic> for Kids – Grade 2 Maths/English/Science".
    - If the feed can't be reached, skip this step and carry on.
-2. **Pick the work.** Choose **2 topics**:
+2. **Read parent requests.** Parents ask for worksheets and videos with the form on the site (`#request`). Each request is a row in **Parent Requests.xlsx** in Varun's OneDrive folder `3. Kids Video`. Any photos, videos or PDFs they attached are in the `3. Kids Video/Parent Requests` folder, named `<Request ID>-NN-<file>`.
+   - Use the Microsoft 365 connector. Find the file with `sharepoint_search` (query "Parent Requests", fileType xlsx) and read it with `read_resource`. The sheet is `Requests`, with columns A–M: Received, Request ID, Parent name, Email, Subject, Topic, Wants, Details, Attachments, Sent from page, Status, Video ID / topic id, Notes.
+   - Take rows whose Status is `New`, oldest first. Ignore spam and anything that is not a Standard 2 learning request: set those to `Declined` with a short reason.
+   - Read the details, and look at the attached images with `read_resource`, to learn exactly what the class is doing (book page, exercise style, the teacher's method). Use that when you write the sheets. Never copy textbook pages or pictures, and never put a child's name, school or face into a sheet.
+   - **A topic already on the site:** that topic goes first in this run's topic count. Write sheets that match what the parent described, adding to the topic (keep the 1–15 numbering).
+   - **A new topic that has no video yet:** add it to `data/topics.json` with `videoId` and `videoUrl` set to "", and fill in `about`. Write its first 5 sheets (sheets 1–4 Starter, sheet 5 Practice). The site shows "Video link coming soon", and the video is attached automatically when it appears in the channel feed.
+   - **"Video only" or "Worksheets and video":** the video is made by the separate video job. Put `Video needed` in Notes, so the video job (or Varun) can pick it up. Do not try to make videos here.
+   - When the sheets are pushed, update the row. Status becomes `Done` (or `In progress` if only the worksheets are done and a video is still needed). Column L gets the topic id, and Notes gets a short note (for example "5 sheets added to fractions, 5 Nov").
+   - To update the row, download the workbook, change only those cells with openpyxl, and upload it back with `sharepoint_upload_file` (conflictBehavior `replace`). Read the file again just before writing, so a request that arrived in the meantime is not lost. If the update fails, say so in the report.
+   - In the final report, list each request handled, with its Request ID.
+3. **Pick the work.** Choose **2 topics** (requested topics count first):
    - First, topics that already have some worksheets but fewer than 15.
    - Then untouched topics, in the order they appear in `data/topics.json`. Alternate subjects so Maths, English and Science all move forward.
    - Bring each chosen topic up to 15 sheets in this run.
-3. **Research the topic.**
+4. **Research the topic.**
    - Search the web for "<topic> grade 2 worksheet" and "<topic> class 2 ICSE worksheet". Include Pinterest pins and teacher sites.
    - Use them only to see which skills the topic covers at Standard 2 level and which activity styles work well (matching, sorting, word boxes, fill-ins, true/false, column sums).
    - **Never copy** questions, wording or images. Every question you write must be your own.
-4. **Fill the topic's `about`** in `data/topics.json` if it is empty. Write one or two plain sentences a parent would understand, saying what the child learns.
-5. **Write the worksheets** into `data/worksheets/<topic-id>.json`. Add to the file if it exists; never rewrite sheets that are already there. Follow the rules below.
-6. **Check:** run `python3 tools/build.py check`.
+5. **Fill the topic's `about`** in `data/topics.json` if it is empty. Write one or two plain sentences a parent would understand, saying what the child learns.
+6. **Write the worksheets** into `data/worksheets/<topic-id>.json`. Add to the file if it exists; never rewrite sheets that are already there. Follow the rules below.
+7. **Check:** run `python3 tools/build.py check`.
    - Fix every problem it reports and run it again until it prints `OK`.
    - It also rebuilds `data/index.json`. Never edit that file by hand.
-7. **Commit and push** to `main`, with a message like `Worksheets: Fractions 1–15, Adjectives 6–15`. The site updates itself a minute later.
-8. **Report** in a few lines: topics filled, how many sheets, total progress (the `OK:` line), and anything skipped.
+8. **Commit and push** to `main`, with a message like `Worksheets: Fractions 1–15, Adjectives 6–15`. The site updates itself a minute later.
+9. **Report** in a few lines: topics filled, how many sheets, total progress (the `OK:` line), and anything skipped.
 
 ## Worksheet rules
 
