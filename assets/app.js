@@ -170,7 +170,7 @@
     const t = topicById(s.topic) || {};
     return `<article class="card sheet-card s-${t.subject || 'All'}">
       <button type="button" class="thumb" data-preview="${esc(s.id)}" data-thumb="${esc(s.id)}" aria-label="Preview sheet ${s.number}, ${esc(s.title)}"><span class="thumb-lines" aria-hidden="true"><i></i><i style="width:70%"></i><i style="width:88%"></i><i style="width:60%"></i><i style="width:82%"></i></span></button>
-      <div><div class="meta"><span>Sheet ${s.number}</span><span>${esc(s.level)}</span></div><h3>${esc(s.title)}</h3><p>${esc(t.name)} · 1 page</p></div>
+      <div><div class="meta"><span>Sheet ${s.number}</span><span>${esc(s.level)}</span></div>${(() => { const sc = kidScores()[s.id]; return sc ? `<span class="done-badge ${pctOf(sc.best) >= 80 ? 'good' : pctOf(sc.best) >= 50 ? 'ok' : 'low'}">Done · best ${sc.best.r}/${sc.best.t}</span>` : ''; })()}<h3>${esc(s.title)}</h3><p>${esc(t.name)} · 1 page</p></div>
       <div class="actions sheet-actions"><a class="btn btn-main btn-online" href="#do/${esc(s.id)}" aria-label="Do sheet ${s.number}, ${esc(s.title)}, online">${PEN_ICON}Do it online</a><button type="button" class="btn btn-soft" data-preview="${esc(s.id)}">Preview</button><button type="button" class="btn btn-print" data-print="${esc(s.id)}" aria-label="Print sheet ${s.number}, ${esc(s.title)}">${PRINT_ICON}Print</button></div>
     </article>`;
   }
@@ -262,6 +262,180 @@
     bindSheetButtons();
   }
 
+  /* ---------- progress, kept only in this browser ---------- */
+  // lop-progress = { active, kids: [{ id, name }], scores: { kidId: { sheetId: { best: {r,t}, last: {r,t,at}, tries, hist: [{r,t,at}] } } } }
+  function prog() {
+    let d = null;
+    try { d = JSON.parse(store.get('lop-progress') || 'null'); } catch (e) { d = null; }
+    if (!d || !Array.isArray(d.kids)) {
+      d = { active: null, kids: [], scores: {} };
+      let old = {};
+      try { old = JSON.parse(store.get('lop-scores') || '{}'); } catch (e) { old = {}; }
+      const ids = Object.keys(old);
+      if (ids.length) {
+        const kid = { id: 'k' + Date.now().toString(36), name: (store.get('lop-name') || '').trim() || 'My child' };
+        d.kids.push(kid); d.active = kid.id; d.scores[kid.id] = {};
+        ids.forEach((sid) => { const o = old[sid]; const e = { r: o.right, t: o.total, at: o.at }; d.scores[kid.id][sid] = { best: { r: e.r, t: e.t }, last: e, tries: 1, hist: [e] }; });
+      }
+    }
+    d.scores = d.scores || {};
+    if (d.active && !d.kids.some((k) => k.id === d.active)) d.active = d.kids[0] ? d.kids[0].id : null;
+    if (!d.active && d.kids[0]) d.active = d.kids[0].id;
+    return d;
+  }
+  const saveProg = (d) => store.set('lop-progress', JSON.stringify(d));
+  const activeKid = (d = prog()) => d.kids.find((k) => k.id === d.active) || null;
+  function addKid(name) {
+    const d = prog();
+    const kid = { id: 'k' + Date.now().toString(36) + Math.random().toString(36).slice(2, 5), name: String(name).trim().slice(0, 40) || 'My child' };
+    d.kids.push(kid); d.active = kid.id; d.scores[kid.id] = {};
+    saveProg(d);
+    return kid;
+  }
+  function setActive(id) { const d = prog(); if (d.kids.some((k) => k.id === id)) { d.active = id; saveProg(d); } }
+  function recordScore(sheetId, r, t) {
+    const d = prog();
+    if (!d.active) return;
+    const all = d.scores[d.active] = d.scores[d.active] || {};
+    const e = { r, t, at: Date.now() };
+    const cur = all[sheetId] || { best: null, tries: 0, hist: [] };
+    if (!cur.best || r / t > cur.best.r / cur.best.t) cur.best = { r, t };
+    cur.last = e; cur.tries += 1; cur.hist = [e, ...(cur.hist || [])].slice(0, 10);
+    all[sheetId] = cur;
+    saveProg(d);
+  }
+  const kidScores = (d = prog()) => (d.active && d.scores[d.active]) || {};
+  const pctOf = (x) => (x && x.t ? Math.round(x.r / x.t * 100) : 0);
+  const dayKey = (ms) => { const z = new Date(ms); return `${z.getFullYear()}-${z.getMonth() + 1}-${z.getDate()}`; };
+  const fmtDate = (ms) => new Date(ms).toLocaleDateString(undefined, { day: 'numeric', month: 'short' });
+
+  function progressSummary(scores) {
+    const ids = Object.keys(scores).filter((id) => state.index.some((x) => x.id === id));
+    const attempts = ids.flatMap((id) => (scores[id].hist || []).map((h) => ({ id, ...h }))).sort((a, b) => b.at - a.at);
+    const avg = ids.length ? Math.round(ids.reduce((n, id) => n + pctOf(scores[id].best), 0) / ids.length) : 0;
+    const weekAgo = Date.now() - 7 * 864e5;
+    const week = new Set(attempts.filter((a) => a.at >= weekAgo).map((a) => a.id)).size;
+    const days = new Set(attempts.map((a) => dayKey(a.at)));
+    let streak = 0;
+    const d = new Date();
+    if (!days.has(dayKey(d.getTime()))) d.setDate(d.getDate() - 1); // a streak still counts if today is not done yet
+    while (days.has(dayKey(d.getTime()))) { streak++; d.setDate(d.getDate() - 1); }
+    const byTopic = {};
+    ids.forEach((id) => {
+      const m = state.index.find((x) => x.id === id);
+      (byTopic[m.topic] = byTopic[m.topic] || []).push({ meta: m, s: scores[id] });
+    });
+    const topics = Object.entries(byTopic).map(([tid, rows]) => {
+      const t = topicById(tid);
+      const avgT = Math.round(rows.reduce((n, x) => n + pctOf(x.s.best), 0) / rows.length);
+      const last = Math.max(...rows.map((x) => x.s.last.at));
+      const next = listFor(tid).find((x) => !scores[x.id]);
+      return { t, rows, avg: avgT, last, next, avail: listFor(tid).length };
+    }).filter((x) => x.t).sort((a, b) => b.last - a.last);
+    return { ids, attempts, avg, week, streak, topics };
+  }
+
+  function kidChips(d) {
+    return `<div class="kids" role="group" aria-label="Choose a child">${d.kids.map((k) => `<button type="button" class="tab s-All" data-kid="${esc(k.id)}" aria-pressed="${k.id === d.active}">${esc(k.name)}</button>`).join('')}<button type="button" class="tab s-All kid-add" id="kid-add">+ Add a child</button></div>`;
+  }
+
+  function renderProgress() {
+    document.title = 'My progress · Life of P Worksheets';
+    const d = prog();
+    const kid = activeKid(d);
+    const sum = progressSummary(kidScores(d));
+    const weak = sum.topics.filter((x) => x.avg < 70);
+    const bar = (pct) => `<div class="bar"><i style="width:${pct}%"></i></div>`;
+    const subjects = ['Maths', 'English', 'Science'].map((subj) => {
+      const rows = sum.topics.filter((x) => x.t.subject === subj);
+      if (!rows.length) return '';
+      return `<section class="pg-subject s-${subj}"><h2><span class="chip">${subj}</span> ${rows.length} topic${rows.length === 1 ? '' : 's'} started</h2>
+        <div class="pg-rows">${rows.map((x) => `<article class="pg-row">
+          <div class="pg-name"><a href="#${esc(x.t.id)}">${esc(x.t.name)}</a><small>${x.rows.length} of ${x.avail} sheets done · last tried ${fmtDate(x.last)}</small></div>
+          <div class="pg-score"><b>${x.avg}%</b>${bar(x.avg)}</div>
+          <div class="pg-sheets">${x.rows.sort((a, b) => a.meta.number - b.meta.number).map((r) => `<a class="pg-chip ${pctOf(r.s.best) >= 80 ? 'good' : pctOf(r.s.best) >= 50 ? 'ok' : 'low'}" href="#do/${esc(r.meta.id)}" title="${esc(r.meta.title)}">S${r.meta.number} · ${r.s.best.r}/${r.s.best.t}</a>`).join('')}</div>
+          <div class="pg-next">${x.next ? `<a class="btn btn-main" href="#do/${esc(x.next.id)}">Next: Sheet ${x.next.number}</a>` : '<span class="pg-done">All sheets done</span>'}</div>
+        </article>`).join('')}</div></section>`;
+    }).join('');
+    const recent = sum.attempts.slice(0, 10).map((a) => {
+      const m = state.index.find((x) => x.id === a.id); const t = topicById(m.topic);
+      return `<li><a href="#do/${esc(a.id)}">${esc(t.name)} · Sheet ${m.number}: ${esc(m.title)}</a><span><b>${a.r}/${a.t}</b> · ${fmtDate(a.at)}</span></li>`;
+    }).join('');
+
+    app.innerHTML = `
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="#">All subjects</a><span aria-hidden="true">/</span><b>My progress</b></nav>
+      <section class="pg-head">
+        <div><h1>${kid ? esc(kid.name) + "'s progress" : 'My progress'}</h1>
+        <p>Scores from sheets done online on this device. They stay in this browser only, so use Download backup to keep a copy or move them to another device.</p></div>
+        ${d.kids.length ? kidChips(d) : ''}
+        ${kid ? `<div class="pg-kid-actions"><button type="button" class="btn btn-ghost" id="kid-rename">Rename</button><button type="button" class="btn btn-ghost" id="kid-remove">Remove ${esc(kid.name)}</button></div>` : ''}
+      </section>
+      ${!kid ? `<section class="pg-empty"><h2>No progress yet</h2><p>Open any topic, press <b>Do it online</b> on a sheet and submit it. The score will appear here.</p><button type="button" class="btn btn-main" id="kid-add-first">Add a child</button> <a class="btn btn-soft s-All" href="#">Find a worksheet</a></section>`
+      : !sum.ids.length ? `<section class="pg-empty"><h2>No sheets done yet</h2><p>Open any topic and press <b>Do it online</b> on a sheet. When ${esc(kid.name)} submits it, the score will appear here.</p><a class="btn btn-main s-All" href="#">Find a worksheet</a></section>`
+      : `
+      <section class="pg-stats">
+        <div class="stat"><b style="color:var(--maths)">${sum.ids.length}</b><span>sheets done</span></div>
+        <div class="stat"><b style="color:var(--science)">${sum.avg}%</b><span>average best score</span></div>
+        <div class="stat"><b style="color:var(--english)">${sum.week}</b><span>sheets this week</span></div>
+        <div class="stat"><b style="color:var(--pink)">${sum.streak}</b><span>day streak</span></div>
+      </section>
+      ${weak.length ? `<section class="pg-weak"><h2>Needs more practice</h2><p>Topics where the best scores average under 70%. Watching the video again often helps.</p><ul>${weak.map((x) => `<li><b>${esc(x.t.name)}</b> <span>${x.avg}%</span> ${x.t.videoUrl ? `<a class="btn btn-video" href="${esc(x.t.videoUrl)}" target="_blank" rel="noopener">${PLAY_ICON}Video</a>` : ''}<a class="btn btn-soft s-${x.t.subject}" href="#do/${esc((x.rows.slice().sort((a, b) => pctOf(a.s.best) - pctOf(b.s.best))[0]).meta.id)}">Try the lowest again</a></li>`).join('')}</ul></section>` : ''}
+      ${subjects}
+      <section class="pg-recent"><h2>Recent sheets</h2><ol>${recent}</ol></section>`}
+      <section class="pg-tools"><h2>Report and backup</h2>
+        <div class="actions">
+          ${kid && sum.ids.length ? `<button type="button" class="btn btn-print s-All" id="pg-print">${PRINT_ICON}Print report</button>` : ''}
+          <button type="button" class="btn btn-ghost" id="pg-backup">Download backup</button>
+          <label class="btn btn-ghost" for="pg-restore">Load backup<input type="file" id="pg-restore" accept="application/json,.json" hidden></label>
+        </div>
+        <p class="empty">The backup is a small file with every child's scores on this device. Load it on another phone, tablet or computer to carry on there.</p>
+      </section>`;
+
+    app.querySelectorAll('[data-kid]').forEach((b) => b.addEventListener('click', () => { setActive(b.dataset.kid); renderProgress(); }));
+    const ask = () => { const n = window.prompt("Child's name"); if (n && n.trim()) { addKid(n); renderProgress(); } };
+    [$('kid-add'), $('kid-add-first')].forEach((b) => b && b.addEventListener('click', ask));
+    if ($('kid-rename')) $('kid-rename').addEventListener('click', () => {
+      const n = window.prompt('New name', kid.name); if (!n || !n.trim()) return;
+      const dd = prog(); dd.kids.find((k) => k.id === kid.id).name = n.trim().slice(0, 40); saveProg(dd); renderProgress();
+    });
+    if ($('kid-remove')) $('kid-remove').addEventListener('click', () => {
+      if (!window.confirm(`Remove ${kid.name} and all their scores from this device?`)) return;
+      const dd = prog(); dd.kids = dd.kids.filter((k) => k.id !== kid.id); delete dd.scores[kid.id]; dd.active = dd.kids[0] ? dd.kids[0].id : null; saveProg(dd); renderProgress();
+    });
+    if ($('pg-print')) $('pg-print').addEventListener('click', () => printReport(kid, sum));
+    $('pg-backup').addEventListener('click', () => {
+      const blob = new Blob([JSON.stringify({ app: 'life-of-p-worksheets', version: 1, saved: new Date().toISOString(), progress: prog() }, null, 1)], { type: 'application/json' });
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = `life-of-p-progress-${new Date().toISOString().slice(0, 10)}.json`;
+      document.body.appendChild(a); a.click(); a.remove();
+      setTimeout(() => URL.revokeObjectURL(a.href), 2000);
+    });
+    $('pg-restore').addEventListener('change', async (e) => {
+      const f = e.target.files[0]; if (!f) return;
+      try {
+        const j = JSON.parse(await f.text());
+        const pd = j && j.progress;
+        if (!pd || !Array.isArray(pd.kids) || typeof pd.scores !== 'object') throw new Error('bad');
+        if (!window.confirm('Replace the progress on this device with the backup?')) return;
+        saveProg(pd); renderProgress();
+      } catch (err) { window.alert('That file is not a Life of P progress backup.'); }
+    });
+  }
+
+  function printReport(kid, sum) {
+    const rows = sum.topics.map((x) => `<tr><td>${esc(x.t.subject)}</td><td>${esc(x.t.name)}</td><td>${x.rows.length} of ${x.avail}</td><td>${x.avg}%</td><td>${x.rows.sort((a, b) => a.meta.number - b.meta.number).map((r) => `S${r.meta.number}: ${r.s.best.r}/${r.s.best.t}`).join(', ')}</td></tr>`).join('');
+    $('print-area').innerHTML = `<article class="page report">
+      <div class="ws-tag">Life of P Worksheets · Progress report</div>
+      <h1>${esc(kid.name)}</h1>
+      <p>Printed ${new Date().toLocaleDateString(undefined, { day: 'numeric', month: 'long', year: 'numeric' })} · Standard 2 (ICSE)</p>
+      <div class="rep-stats"><div><b>${sum.ids.length}</b>sheets done</div><div><b>${sum.avg}%</b>average best score</div><div><b>${sum.week}</b>sheets this week</div><div><b>${sum.streak}</b>day streak</div></div>
+      <table class="rep"><thead><tr><th>Subject</th><th>Topic</th><th>Sheets</th><th>Average</th><th>Best score on each sheet</th></tr></thead><tbody>${rows}</tbody></table>
+      <footer class="ws-foot"><span>Scores are the best try on each sheet done online.</span><span>varunssit-sudo.github.io/lifeofp-worksheets</span></footer>
+    </article>`;
+    setTimeout(() => window.print(), 50);
+  }
+
   /* ---------- online worksheets: fill in on screen, then check ---------- */
   const norm = (v) => String(v ?? '').toLowerCase()
     .replace(/[‘’]/g, "'").replace(/[“”]/g, '"')
@@ -330,7 +504,7 @@
     return out;
   }
 
-  const saveKey = (id) => `lop-online-${id}`;
+  const saveKey = (id) => `lop-online-${prog().active || 'x'}-${id}`;
   function readAnswers() {
     const v = {};
     app.querySelectorAll('.ol-in[data-k]').forEach((el) => { v[el.dataset.k] = el.value; });
@@ -362,7 +536,7 @@
           <div class="ws-tag">${esc(t.subject)} · ${esc(t.name)} · Sheet ${ws.number} · ${esc(ws.level)}</div>
           <h1>${esc(ws.title)}</h1>
           <p class="ws-intro">${esc(ws.intro)}</p>
-          <label class="ol-name">Your name <input id="ol-name" autocomplete="off" placeholder="Type your name"></label>
+          <div class="ol-name" id="ol-who"></div>
         </header>
         <div id="ol-result" class="ol-result" hidden></div>
         <form id="ol-form" class="ol-form" novalidate>
@@ -383,8 +557,20 @@
     let saved = {};
     try { saved = JSON.parse(store.get(saveKey(id)) || '{}'); } catch (e) { saved = {}; }
     if (saved.answers) writeAnswers(saved.answers);
-    $('ol-name').value = saved.name || store.get('lop-name') || '';
-    const persist = () => store.set(saveKey(id), JSON.stringify({ answers: readAnswers(), name: $('ol-name').value }));
+    const who = () => {
+      const d = prog();
+      $('ol-who').innerHTML = d.kids.length
+        ? `<label for="ol-kid">Who is doing this sheet?</label> <select id="ol-kid">${d.kids.map((k) => `<option value="${esc(k.id)}" ${k.id === d.active ? 'selected' : ''}>${esc(k.name)}</option>`).join('')}<option value="__new">+ Add a child</option></select> <a href="#progress">See progress</a>`
+        : '<label for="ol-newname">Your name</label> <input id="ol-newname" autocomplete="off" placeholder="Type your name">';
+      const sel = $('ol-kid');
+      if (sel) sel.addEventListener('change', () => {
+        if (sel.value === '__new') { const n = window.prompt("Child's name"); if (n && n.trim()) addKid(n); }
+        else setActive(sel.value);
+        renderOnline(id);
+      });
+    };
+    who();
+    const persist = () => store.set(saveKey(id), JSON.stringify({ answers: readAnswers() }));
 
     app.querySelectorAll('.ol-opts').forEach((g) => g.addEventListener('click', (e) => {
       const b = e.target.closest('.ol-opt');
@@ -393,7 +579,6 @@
       persist();
     }));
     app.querySelectorAll('.ol-in').forEach((el) => el.addEventListener('input', persist));
-    $('ol-name').addEventListener('input', () => { store.set('lop-name', $('ol-name').value); persist(); });
 
     const grade = () => {
       const v = readAnswers();
@@ -421,7 +606,8 @@
       });
       const pct = nAuto ? Math.round(right / nAuto * 100) : 0;
       const msg = pct === 100 ? 'Excellent! Every answer is correct.' : pct >= 80 ? 'Great work! Look at the red ones to see where to fix.' : pct >= 50 ? 'Good try! Read the correct answers in red, then try again.' : 'Keep practising! Watch the video, then try again.';
-      const name = $('ol-name').value.trim();
+      if (!prog().kids.length) addKid(($('ol-newname') && $('ol-newname').value) || 'My child');
+      const name = (activeKid() || {}).name || '';
       const res = $('ol-result');
       res.hidden = false;
       res.innerHTML = `<div class="ol-score"><b>${right}</b><span>/ ${nAuto}</span></div>
@@ -434,9 +620,8 @@
       res.insertAdjacentHTML('beforeend', `<div class="ol-after">${$('ol-after').innerHTML}</div>`);
       res.querySelectorAll('.ol-again').forEach((b) => b.addEventListener('click', again));
       res.querySelectorAll('[data-print]').forEach((b) => b.addEventListener('click', () => printSheets([b.dataset.print], state.withKey)));
-      const log = (() => { try { return JSON.parse(store.get('lop-scores') || '{}'); } catch (e) { return {}; } })();
-      log[id] = { right, total: nAuto, at: Date.now() };
-      store.set('lop-scores', JSON.stringify(log));
+      if (nAuto) recordScore(id, right, nAuto);
+      who();
       res.scrollIntoView({ behavior: 'smooth', block: 'start' });
     };
     $('ol-form').addEventListener('submit', (e) => { e.preventDefault(); grade(); });
@@ -482,6 +667,7 @@
   function render() {
     const h = decodeURIComponent(location.hash.replace(/^#/, ''));
     if (h.startsWith('do/')) { renderOnline(h.slice(3)); return; }
+    if (h === 'progress') { renderProgress(); return; }
     const t = topicById(h);
     if (!t) state.subject = SUBJECTS.find((s) => s.toLowerCase() === h.toLowerCase()) || 'All'; // #maths, #english, #science
 
@@ -491,7 +677,8 @@
 
   $('search').addEventListener('input', (e) => {
     state.q = e.target.value.trim().toLowerCase();
-    if (topicById(decodeURIComponent(location.hash.replace(/^#/, '')))) { history.replaceState(null, '', state.subject === 'All' ? location.pathname : '#' + state.subject.toLowerCase()); }
+    const hh = decodeURIComponent(location.hash.replace(/^#/, ''));
+    if (hh && !SUBJECTS.some((x) => x.toLowerCase() === hh.toLowerCase())) { history.replaceState(null, '', state.subject === 'All' ? location.pathname : '#' + state.subject.toLowerCase()); }
     render();
   });
   window.addEventListener('hashchange', () => { state.level = 'All'; render(); window.scrollTo(0, 0); });
