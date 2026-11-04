@@ -1,0 +1,143 @@
+[
+  {
+    "id": "present-tense-and-past-tense-03",
+    "topic": "present-tense-and-past-tense",
+    "number": 3,
+    "level": "Starter",
+    "title": "Beach Day at JBR",
+    "intro": "Yesterday Riya's family spent the day at the beach. Tell the story in the past tense.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the past tense of each verb.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "play",
+            "a": "played"
+          },
+          {
+            "q": "jump",
+            "a": "jumped"
+          },
+          {
+            "q": "carry",
+            "a": "carried"
+          },
+          {
+            "q": "stop",
+            "a": "stopped"
+          },
+          {
+            "q": "go",
+            "a": "went"
+          },
+          {
+            "q": "eat",
+            "a": "ate"
+          },
+          {
+            "q": "swim",
+            "a": "swam"
+          },
+          {
+            "q": "see",
+            "a": "saw"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blank with the past tense of the word in brackets.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Yesterday we ___ (go) to JBR beach.",
+            "a": "went"
+          },
+          {
+            "q": "My brother ___ (build) a tall sandcastle.",
+            "a": "built"
+          },
+          {
+            "q": "Mama ___ (buy) mango ice cream for everyone.",
+            "a": "bought"
+          },
+          {
+            "q": "I ___ (swim) in the shallow water with Papa.",
+            "a": "swam"
+          },
+          {
+            "q": "We ___ (walk) back to the car at sunset.",
+            "a": "walked"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The waves",
+            "options": [
+              "crash",
+              "crashed"
+            ],
+            "after": "on the sand last evening.",
+            "a": "crashed"
+          },
+          {
+            "before": "Papa",
+            "options": [
+              "finds",
+              "found"
+            ],
+            "after": "a pink shell near the rocks.",
+            "a": "found"
+          },
+          {
+            "before": "We",
+            "options": [
+              "are",
+              "were"
+            ],
+            "after": "very tired after the long day.",
+            "a": "were"
+          },
+          {
+            "before": "I",
+            "options": [
+              "drinked",
+              "drank"
+            ],
+            "after": "cold water from my bottle.",
+            "a": "drank"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Change each sentence to the past tense.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "I eat a cheese sandwich under the umbrella.",
+            "a": "I ate a cheese sandwich under the umbrella."
+          },
+          {
+            "q": "The seagulls fly over the water.",
+            "a": "The seagulls flew over the water."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about the last time you went out. Use the past tense.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Check that every action word is in the past tense."
+      }
+    ]
+  }
+]

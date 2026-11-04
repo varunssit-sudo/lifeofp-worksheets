@@ -1,46 +1,13 @@
 # Life of P Worksheets
 
-Printable Standard 2 (ICSE) worksheets for every video on the Life of P YouTube channel.
-The site is plain HTML/CSS/JS served by GitHub Pages. It has no build step and no server.
+Printable Standard 2 (ICSE) worksheets for every video on the [Life of P YouTube channel](https://www.youtube.com/@lifeofp5750).
+The site is plain HTML, CSS and JavaScript, served by GitHub Pages. It has no build server.
 
-## How it fits together
+- `index.html` and `assets/`: the site.
+- `data/topics.json`: one topic per channel video, with its YouTube link.
+- `data/worksheets/<topic-id>.json`: the worksheets for that topic.
+- `data/index.json`: the list of all worksheets, rebuilt by `python3 tools/build.py check`.
+- `tools/build.py`: adds topics for new videos (`sync`) and validates every worksheet (`check`).
+- `AGENT.md`: the playbook the nightly worksheet agent follows, including the worksheet format.
 
-- `index.html`: the site. It reads the data files and draws the pages.
-- `data/topics.json`: one entry per video topic. It holds the subject, name, about text, YouTube link and target sheet count (15).
-- `data/worksheets.json`: every worksheet. **Adding a worksheet means appending an object here.**
-- `assets/`: styles and script.
-
-Printing uses the browser's print dialog. Each worksheet is one A4 page. The answer key prints as an extra page when it is switched on. The site has no download button.
-
-## Worksheet format (for the worksheet agent)
-
-```json
-{
-  "id": "EN-PT-03",            // SUBJECT-TOPIC-NN, unique
-  "topic": "past-tense",       // id from topics.json
-  "number": 3,                 // 1–15 within the topic
-  "level": "Starter",          // Starter (1–4) | Practice (5–9) | Challenge (10–15)
-  "title": "Beach Day at JBR", // the real-life scenario
-  "intro": "One line that sets the scene.",
-  "sections": [ ... ]          // 4–6 sections, about 20–26 marks, must fit one A4 page
-}
-```
-
-Section types:
-
-| type | fields | prints as |
-|---|---|---|
-| `pairs` | `items: [{q, a}]` (8 max) | 4-across boxes: `q → ____` |
-| `fill` | `items: [{q, a}]`, `q` contains `___` | numbered sentences with a blank |
-| `choice` | `items: [{before, options[], after, a}]` | circle the correct word |
-| `rewrite` | `items: [{q, a}]` | sentence plus a writing line |
-| `lines` | `lines`, `a` | free writing lines |
-
-Every section also has `title` (the instruction) and `marks`.
-
-## Content rules
-
-- Grade 2 level: full coverage of the topic, not toddler-style.
-- Each sheet in a topic uses a different real-life scenario and different examples.
-- Graphics stay subtle. The sheet must print well in black and white.
-- Children named in scenarios are made up.
+Printing uses the browser's print dialog. Each worksheet is one A4 page, and the answer key prints as an extra page when it is switched on. The site has no download button.

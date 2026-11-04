@@ -1,0 +1,127 @@
+[
+  {
+    "id": "subtraction-with-borrowing-01",
+    "topic": "subtraction-with-borrowing",
+    "number": 1,
+    "level": "Starter",
+    "title": "The School Book Fair",
+    "intro": "Class 2 is helping at the book fair. Subtract to find out what is left. Borrow a ten when the ones are too small.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Subtract. Borrow where you need to.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "52",
+            "op": "-",
+            "bottom": "27",
+            "a": "25"
+          },
+          {
+            "top": "83",
+            "op": "-",
+            "bottom": "46",
+            "a": "37"
+          },
+          {
+            "top": "45",
+            "op": "-",
+            "bottom": "28",
+            "a": "17"
+          },
+          {
+            "top": "342",
+            "op": "-",
+            "bottom": "127",
+            "a": "215"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We must borrow to solve 75 − 32.",
+            "a": false
+          },
+          {
+            "q": "In 43 − 18, we borrow 1 ten from the 4 tens.",
+            "a": true
+          },
+          {
+            "q": "After borrowing, 43 becomes 3 tens and 13 ones.",
+            "a": true
+          },
+          {
+            "q": "60 − 25 = 45",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each subtraction to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "40 − 15",
+            "right": "25"
+          },
+          {
+            "left": "33 − 19",
+            "right": "14"
+          },
+          {
+            "left": "72 − 48",
+            "right": "24"
+          },
+          {
+            "left": "56 − 29",
+            "right": "27"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the book fair problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The fair had 84 storybooks. Children bought 39. ___ storybooks are left.",
+            "a": "45"
+          },
+          {
+            "q": "Meera had ₹70. She spent ₹46 on a comic. She has ₹ ___ left.",
+            "a": "24"
+          },
+          {
+            "q": "There were 63 bookmarks. 27 were given away. ___ bookmarks are left.",
+            "a": "36"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Check by adding.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "52 − 27 = 25. Check: 25 + 27 = ___",
+            "a": "52"
+          },
+          {
+            "q": "71 − 38 = 33. Check: 33 + 38 = ___",
+            "a": "71"
+          },
+          {
+            "q": "90 − 54 = 36. Check: 36 + 54 = ___",
+            "a": "90"
+          }
+        ]
+      }
+    ]
+  }
+]
