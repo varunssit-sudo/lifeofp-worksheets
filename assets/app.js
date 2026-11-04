@@ -215,7 +215,10 @@
           <section class="panel panel-sun"><h2>Printed on this device</h2><ul>${printed || '<li><small>Nothing printed yet.</small></li>'}</ul></section>
         </aside>
       </div>`;
-    app.querySelectorAll('[data-subject]').forEach((b) => b.addEventListener('click', () => { state.subject = b.dataset.subject; render(); }));
+    app.querySelectorAll('[data-subject]').forEach((b) => b.addEventListener('click', () => {
+      const h = b.dataset.subject === 'All' ? '' : b.dataset.subject.toLowerCase();
+      if (location.hash.replace(/^#/, '') === h) { state.subject = b.dataset.subject; render(); } else { location.hash = h; }
+    }));
     bindSheetButtons();
   }
 
@@ -226,7 +229,7 @@
     const pending = state.level === 'All' && !state.q ? Array.from({ length: pendingCount }, (_, i) => `<div class="pending"><span class="meta">Sheet ${all.length + i + 1}</span><b>On the way</b><span>The worksheet agent is writing this one.</span></div>`).join('') : '';
     const thumb = t.videoId ? `<img src="https://i.ytimg.com/vi/${esc(t.videoId)}/hqdefault.jpg" alt="" loading="lazy">` : `<b>${esc(t.name)}</b>`;
     app.innerHTML = `
-      <nav class="crumbs" aria-label="Breadcrumb"><a href="#">All subjects</a><span aria-hidden="true">/</span><span>${esc(t.subject)}</span><span aria-hidden="true">/</span><b>${esc(t.name)}</b></nav>
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="#">All subjects</a><span aria-hidden="true">/</span><a href="#${esc(t.subject.toLowerCase())}">${esc(t.subject)}</a><span aria-hidden="true">/</span><b>${esc(t.name)}</b></nav>
       <section class="topic-head s-${t.subject}">
         <div class="topic-text">
           <span class="chip">${esc(t.subject)}</span>
@@ -288,14 +291,17 @@
   }
 
   function render() {
-    const t = topicById(decodeURIComponent(location.hash.replace(/^#/, '')));
+    const h = decodeURIComponent(location.hash.replace(/^#/, ''));
+    const t = topicById(h);
+    if (!t) state.subject = SUBJECTS.find((s) => s.toLowerCase() === h.toLowerCase()) || 'All'; // #maths, #english, #science
+
     document.title = t ? `${t.name} · Life of P Worksheets` : 'Life of P Worksheets';
     t ? renderTopic(t) : renderHome();
   }
 
   $('search').addEventListener('input', (e) => {
     state.q = e.target.value.trim().toLowerCase();
-    if (location.hash && location.hash !== '#') { history.replaceState(null, '', location.pathname); }
+    if (topicById(decodeURIComponent(location.hash.replace(/^#/, '')))) { history.replaceState(null, '', state.subject === 'All' ? location.pathname : '#' + state.subject.toLowerCase()); }
     render();
   });
   window.addEventListener('hashchange', () => { state.level = 'All'; render(); window.scrollTo(0, 0); });
