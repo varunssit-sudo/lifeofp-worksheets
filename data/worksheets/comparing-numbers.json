@@ -720,5 +720,1306 @@
         ]
       }
     ]
+  },
+  {
+    "id": "comparing-numbers-06",
+    "topic": "comparing-numbers",
+    "number": 6,
+    "level": "Practice",
+    "title": "The Vegetable Market in Pune",
+    "intro": "Anika and her dad buy vegetables at a busy market in Pune. Compare the prices and the weights.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "274",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "247",
+            "a": ">"
+          },
+          {
+            "before": "508",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "580",
+            "a": "<"
+          },
+          {
+            "before": "316",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "316",
+            "a": "="
+          },
+          {
+            "before": "689",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "698",
+            "a": "<"
+          },
+          {
+            "before": "901",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "899",
+            "a": ">"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the greater price.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "₹136 or ₹163",
+            "a": "₹163 / 163"
+          },
+          {
+            "q": "₹420 or ₹402",
+            "a": "₹420 / 420"
+          },
+          {
+            "q": "₹95 or ₹159",
+            "a": "₹159 / 159"
+          },
+          {
+            "q": "₹378 or ₹387",
+            "a": "₹387 / 387"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "₹245 > ₹254",
+            "a": false
+          },
+          {
+            "q": "₹600 > ₹599",
+            "a": true
+          },
+          {
+            "q": "The sign > means \"is greater than\".",
+            "a": true
+          },
+          {
+            "q": "₹88 < ₹808",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the market problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A kilo of peas costs ₹120 and a kilo of beans costs ₹102. The ___ cost more.",
+            "a": "peas"
+          },
+          {
+            "q": "The onion bag weighs 650 g and the potato bag weighs 605 g. The ___ bag is lighter.",
+            "a": "potato"
+          },
+          {
+            "q": "Dad has ₹350. A basket of tomatoes costs ₹305. Can he buy it? ___ (yes or no)",
+            "a": "yes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "comparing-numbers-07",
+    "topic": "comparing-numbers",
+    "number": 7,
+    "level": "Practice",
+    "title": "The Spelling Bee Points",
+    "intro": "Five children are in the school spelling bee. Compare their points. Look at the hundreds, then the tens, then the ones.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In 362 and 382, the hundreds are the same. 362 has 6 tens and 382 has ___ tens.",
+            "a": "8"
+          },
+          {
+            "q": "So ___ is greater.",
+            "a": "382"
+          },
+          {
+            "q": "In 547 and 543, the hundreds and tens are the same. So we compare the ___.",
+            "a": "ones"
+          },
+          {
+            "q": "547 ___ 543 (write >, < or =)",
+            "a": ">"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the pairs. Is the first number greater or smaller?",
+        "marks": 6,
+        "groups": [
+          "First is greater",
+          "First is smaller"
+        ],
+        "words": [
+          "715 and 751",
+          "836 and 833",
+          "294 and 249",
+          "460 and 604",
+          "589 and 598",
+          "927 and 792"
+        ],
+        "a": {
+          "715 and 751": "First is smaller",
+          "836 and 833": "First is greater",
+          "294 and 249": "First is greater",
+          "460 and 604": "First is smaller",
+          "589 and 598": "First is smaller",
+          "927 and 792": "First is greater"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the greatest number.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "413",
+              "431",
+              "341"
+            ],
+            "after": "",
+            "a": "431"
+          },
+          {
+            "before": "",
+            "options": [
+              "756",
+              "765",
+              "675"
+            ],
+            "after": "",
+            "a": "765"
+          },
+          {
+            "before": "",
+            "options": [
+              "298",
+              "289",
+              "302"
+            ],
+            "after": "",
+            "a": "302"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the spelling bee problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Lakshmi got 245 points and Owen got 254. ___ got more points.",
+            "a": "Owen"
+          },
+          {
+            "q": "Farah got 318 points and Nikhil got 381. ___ got fewer points.",
+            "a": "Farah"
+          },
+          {
+            "q": "Jia got 400 points. Arnav got 399. Write >, < or =: 400 ___ 399",
+            "a": ">"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "comparing-numbers-08",
+    "topic": "comparing-numbers",
+    "number": 8,
+    "level": "Practice",
+    "title": "The Science Museum Visit",
+    "intro": "Class 2 visits a science museum in Dubai with Mr Thomas. Work out each side first, then compare.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Work out each side. Then circle >, < or =.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "35 + 27",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "60",
+            "a": ">"
+          },
+          {
+            "before": "48 + 16",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "64",
+            "a": "="
+          },
+          {
+            "before": "90 − 25",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "70",
+            "a": "<"
+          },
+          {
+            "before": "26 + 26",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "50 + 3",
+            "a": "<"
+          },
+          {
+            "before": "100 + 45",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "150 − 5",
+            "a": "="
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add or subtract.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "57",
+            "op": "+",
+            "bottom": "38",
+            "a": "95"
+          },
+          {
+            "top": "82",
+            "op": "-",
+            "bottom": "19",
+            "a": "63"
+          },
+          {
+            "top": "46",
+            "op": "+",
+            "bottom": "47",
+            "a": "93"
+          },
+          {
+            "top": "100",
+            "op": "-",
+            "bottom": "8",
+            "a": "92"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "57 + 38 > 82 − 19",
+            "a": true
+          },
+          {
+            "q": "46 + 47 < 100 − 8",
+            "a": false
+          },
+          {
+            "q": "200 + 30 = 230",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the museum problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Group A saw 34 rockets and 19 robots. Group B saw 56 things. Group ___ saw more.",
+            "a": "B"
+          },
+          {
+            "q": "Mr Thomas had ₹100. He spent ₹45. Mia has ₹60. ___ has more money now.",
+            "a": "Mia"
+          },
+          {
+            "q": "The dinosaur room has 120 seats and the space room has 102. The ___ room has fewer seats.",
+            "a": "space"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "comparing-numbers-09",
+    "topic": "comparing-numbers",
+    "number": 9,
+    "level": "Practice",
+    "title": "Letters at the Post Office",
+    "intro": "Ravi helps his uncle sort letters at the post office in Kochi. Some numbers are in words and some in figures.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each number name to its number.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "six hundred eight",
+            "right": "608"
+          },
+          {
+            "left": "six hundred eighty",
+            "right": "680"
+          },
+          {
+            "left": "eight hundred six",
+            "right": "806"
+          },
+          {
+            "left": "eight hundred sixty",
+            "right": "860"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Compare. Circle >, < or =.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "seven hundred seventy",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "770",
+            "a": "="
+          },
+          {
+            "before": "four hundred nineteen",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "491",
+            "a": "<"
+          },
+          {
+            "before": "three hundred fifty-two",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "325",
+            "a": ">"
+          },
+          {
+            "before": "one hundred one",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "one hundred ten",
+            "a": "<"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the smaller number in figures.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "two hundred fourteen or two hundred forty-one",
+            "a": "214"
+          },
+          {
+            "q": "five hundred thirty or five hundred three",
+            "a": "503"
+          },
+          {
+            "q": "nine hundred ninety-nine or nine hundred",
+            "a": "900"
+          },
+          {
+            "q": "sixty-seven or seventy-six",
+            "a": "67"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "nine hundred is greater than ninety-nine",
+            "a": true
+          },
+          {
+            "q": "six hundred eight < 680",
+            "a": true
+          },
+          {
+            "q": "two hundred twenty = 202",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the post office problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A big parcel weighs four hundred grams. A small one weighs 350 g. The ___ parcel is heavier.",
+            "a": "big"
+          },
+          {
+            "q": "On Monday, 286 letters came. On Tuesday, 268 came. More letters came on ___.",
+            "a": "Monday"
+          },
+          {
+            "q": "Box A has 715 stamps. Box B has seven hundred fifty. Box ___ has more stamps.",
+            "a": "B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "comparing-numbers-10",
+    "topic": "comparing-numbers",
+    "number": 10,
+    "level": "Practice",
+    "title": "Rain in the Monsoon",
+    "intro": "Isha keeps a chart of rain in July. Mumbai 512 mm, Goa 487 mm, Kochi 521 mm, Pune 309 mm.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Use the rain chart to answer.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The city with the most rain is ___.",
+            "a": "Kochi"
+          },
+          {
+            "q": "The city with the least rain is ___.",
+            "a": "Pune"
+          },
+          {
+            "q": "Mumbai ___ Goa (write >, < or =)",
+            "a": ">"
+          },
+          {
+            "q": "Kochi ___ Mumbai (write >, < or =)",
+            "a": ">"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the numbers.",
+        "marks": 6,
+        "groups": [
+          "More than 500",
+          "Less than 500"
+        ],
+        "words": [
+          "550",
+          "450",
+          "499",
+          "505",
+          "501",
+          "390"
+        ],
+        "a": {
+          "550": "More than 500",
+          "450": "Less than 500",
+          "499": "Less than 500",
+          "505": "More than 500",
+          "501": "More than 500",
+          "390": "Less than 500"
+        }
+      },
+      {
+        "type": "pairs",
+        "title": "Compare each number with 500. Write >, < or =.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "498",
+            "a": "<"
+          },
+          {
+            "q": "510",
+            "a": ">"
+          },
+          {
+            "q": "50 tens",
+            "a": "="
+          },
+          {
+            "q": "4 hundreds 99 ones",
+            "a": "<"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "487",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "478",
+            "a": ">"
+          },
+          {
+            "before": "309",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "390",
+            "a": "<"
+          },
+          {
+            "before": "521",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "512",
+            "a": ">"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: Did Goa get more or less rain than Mumbai? How do you know?",
+        "marks": 2,
+        "lines": 2,
+        "a": "Less. 487 < 512, because 4 hundreds is less than 5 hundreds."
+      }
+    ]
+  },
+  {
+    "id": "comparing-numbers-11",
+    "topic": "comparing-numbers",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Football League Table",
+    "intro": "Four teams in a children's football league in Abu Dhabi add up their goals from two seasons. Add first, then compare.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Add each team's goals.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Falcons: 156 + 87",
+            "a": "243"
+          },
+          {
+            "q": "Eagles: 134 + 112",
+            "a": "246"
+          },
+          {
+            "q": "Hawks: 179 + 58",
+            "a": "237"
+          },
+          {
+            "q": "Owls: 148 + 95",
+            "a": "243"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Use your answers. Circle >, < or =.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Falcons",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "Eagles",
+            "a": "<"
+          },
+          {
+            "before": "Hawks",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "Owls",
+            "a": "<"
+          },
+          {
+            "before": "Eagles",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "Hawks",
+            "a": ">"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Answer the questions.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The team with the most goals is the ___.",
+            "a": "Eagles"
+          },
+          {
+            "q": "The Eagles scored ___ more goals than the Falcons.",
+            "a": "3"
+          },
+          {
+            "q": "In season 1, the ___ scored the most goals.",
+            "a": "Hawks"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The Hawks scored the most in season 1, so they have the most goals in all.",
+            "a": false
+          },
+          {
+            "q": "243 > 246",
+            "a": false
+          },
+          {
+            "q": "The Owls and the Falcons have the same number of goals.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: Why is it not enough to look only at season 1?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. A team can score more in season 2, so we must add both seasons before we compare."
+      }
+    ]
+  },
+  {
+    "id": "comparing-numbers-12",
+    "topic": "comparing-numbers",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Spot the Sign Mistakes",
+    "intro": "Mrs Khan's class wrote >, < and = signs on the board. Some signs are wrong. Find and fix them.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is the sign right? Circle True or False.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "472 > 427",
+            "a": true
+          },
+          {
+            "q": "358 < 385",
+            "a": true
+          },
+          {
+            "q": "610 > 616",
+            "a": false
+          },
+          {
+            "q": "93 > 309",
+            "a": false
+          },
+          {
+            "q": "750 = 705",
+            "a": false
+          },
+          {
+            "q": "888 < 898",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the right sign for the wrong ones.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "610 ___ 616",
+            "a": "<"
+          },
+          {
+            "q": "93 ___ 309",
+            "a": "<"
+          },
+          {
+            "q": "750 ___ 705",
+            "a": ">"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the number that makes it true.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "536 >",
+            "options": [
+              "563",
+              "529",
+              "540"
+            ],
+            "after": "",
+            "a": "529"
+          },
+          {
+            "before": "___ < 271",
+            "options": [
+              "217",
+              "272",
+              "299"
+            ],
+            "after": "",
+            "a": "217"
+          },
+          {
+            "before": "405 =",
+            "options": [
+              "450",
+              "405",
+              "504"
+            ],
+            "after": "",
+            "a": "405"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each clue to its number.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "1 more than 799",
+            "right": "800"
+          },
+          {
+            "left": "the greatest 3-digit number",
+            "right": "999"
+          },
+          {
+            "left": "10 less than 210",
+            "right": "200"
+          },
+          {
+            "left": "the smallest 3-digit number",
+            "right": "100"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: Sana wrote 93 > 309 because 9 > 3. What did she forget?",
+        "marks": 1,
+        "lines": 1,
+        "a": "Accept: 93 is a 2-digit number and 309 has 3 digits, so 309 is greater. Compare the number of digits first."
+      }
+    ]
+  },
+  {
+    "id": "comparing-numbers-13",
+    "topic": "comparing-numbers",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Digits on the Locker Doors",
+    "intro": "Some digits have rubbed off the locker numbers at the swimming pool. Work out which digits can go in the box.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Find the digits.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "5_3 > 560. The smallest digit that fits is ___.",
+            "a": "6"
+          },
+          {
+            "q": "3_8 < 348. The biggest digit that fits is ___.",
+            "a": "3"
+          },
+          {
+            "q": "7_2 > 702. The smallest digit that fits is ___.",
+            "a": "1"
+          },
+          {
+            "q": "_45 < 445. How many digits from 1 to 9 fit? ___",
+            "a": "3"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the digit that makes it true.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "62_ > 628",
+            "options": [
+              "7",
+              "8",
+              "9"
+            ],
+            "after": "",
+            "a": "9"
+          },
+          {
+            "before": "4_1 < 421",
+            "options": [
+              "0",
+              "2",
+              "3"
+            ],
+            "after": "",
+            "a": "0"
+          },
+          {
+            "before": "_99 > 800",
+            "options": [
+              "6",
+              "7",
+              "8"
+            ],
+            "after": "",
+            "a": "8"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the greatest number you can make with these digits.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "4, 9, 2",
+            "a": "942"
+          },
+          {
+            "q": "0, 5, 7",
+            "a": "750"
+          },
+          {
+            "q": "6, 1, 8",
+            "a": "861"
+          },
+          {
+            "q": "3, 0, 2",
+            "a": "320"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Any number 6_4 is greater than any number 5_9.",
+            "a": true
+          },
+          {
+            "q": "3_8 < 348 is true when the missing digit is 4.",
+            "a": false
+          },
+          {
+            "q": "_45 < 445 can be true with 3 in the box.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the locker problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Dev's locker is 23_. It is greater than 237. It is locker ___ or 239.",
+            "a": "238"
+          },
+          {
+            "q": "Grace's locker is between 450 and 460, and it ends in 5. It is locker ___.",
+            "a": "455"
+          },
+          {
+            "q": "Locker 506 is next to locker 507. Write >, < or =: 506 ___ 507",
+            "a": "<"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "comparing-numbers-14",
+    "topic": "comparing-numbers",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Camel Race in Al Ain",
+    "intro": "Children cheer at a camel race in Al Ain. Some numbers are shown in hundreds, tens and ones. Change them to numbers first.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "4 hundreds 6 tens",
+            "a": "460"
+          },
+          {
+            "q": "3 hundreds 15 tens",
+            "a": "450"
+          },
+          {
+            "q": "5 hundreds 12 ones",
+            "a": "512"
+          },
+          {
+            "q": "2 hundreds 9 tens 14 ones",
+            "a": "304"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "4 hundreds 6 tens",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "3 hundreds 15 tens",
+            "a": ">"
+          },
+          {
+            "before": "5 hundreds 12 ones",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "512",
+            "a": "="
+          },
+          {
+            "before": "2 hundreds 9 tens 14 ones",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "300",
+            "a": ">"
+          },
+          {
+            "before": "7 tens 25 ones",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "1 hundred",
+            "a": "<"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add or subtract.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "146",
+            "op": "+",
+            "bottom": "87",
+            "a": "233"
+          },
+          {
+            "top": "205",
+            "op": "-",
+            "bottom": "68",
+            "a": "137"
+          },
+          {
+            "top": "128",
+            "op": "+",
+            "bottom": "128",
+            "a": "256"
+          },
+          {
+            "top": "300",
+            "op": "-",
+            "bottom": "54",
+            "a": "246"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Use the camel answers. Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "146 + 87 > 205 − 68",
+            "a": true
+          },
+          {
+            "q": "128 + 128 < 300 − 54",
+            "a": false
+          },
+          {
+            "q": "205 − 68 < 146 + 87",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the race problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Camel Noor ran 785 m. Camel Sultan ran 7 hundreds 9 tens. ___ ran farther.",
+            "a": "Sultan"
+          },
+          {
+            "q": "Aryan counted 3 hundreds, 4 tens and 16 ones flags. Leila counted 355 flags. ___ counted more flags.",
+            "a": "Aryan"
+          },
+          {
+            "q": "A camel toy costs ₹245 and a hat costs ₹254. The ___ costs less.",
+            "a": "camel toy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "comparing-numbers-15",
+    "topic": "comparing-numbers",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Saving for a New Bicycle",
+    "intro": "Tanish is saving money in his piggy bank in Bengaluru for a bicycle. Compare the amounts and decide.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "₹675",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "₹657",
+            "a": ">"
+          },
+          {
+            "before": "₹480",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "₹840",
+            "a": "<"
+          },
+          {
+            "before": "₹999",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "₹990",
+            "a": ">"
+          },
+          {
+            "before": "₹305",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "₹350",
+            "a": "<"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the saving problems.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "Tanish has ₹460. The bicycle costs ₹750. Does he have enough? ___ (yes or no)",
+            "a": "no"
+          },
+          {
+            "q": "How much more does he need? ₹ ___",
+            "a": "290"
+          },
+          {
+            "q": "Grandma gives him ₹200 and Dad gives ₹100. Now he has ₹ ___.",
+            "a": "760"
+          },
+          {
+            "q": "Now can he buy the bicycle? ___ (yes or no)",
+            "a": "yes"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "₹760 > ₹750",
+            "a": true
+          },
+          {
+            "q": "₹500 + ₹250 = ₹750",
+            "a": true
+          },
+          {
+            "q": "₹460 + ₹200 > ₹750",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the prices. Can Tanish buy each one with ₹300?",
+        "marks": 6,
+        "groups": [
+          "Yes, ₹300 is enough",
+          "No, ₹300 is not enough"
+        ],
+        "words": [
+          "bell ₹85",
+          "helmet ₹320",
+          "lock ₹299",
+          "light ₹303",
+          "basket ₹300",
+          "seat ₹330"
+        ],
+        "a": {
+          "bell ₹85": "Yes, ₹300 is enough",
+          "helmet ₹320": "No, ₹300 is not enough",
+          "lock ₹299": "Yes, ₹300 is enough",
+          "light ₹303": "No, ₹300 is not enough",
+          "basket ₹300": "Yes, ₹300 is enough",
+          "seat ₹330": "No, ₹300 is not enough"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: Tanish says ₹299 is more than ₹300 because 9 is big. Is he right? Why?",
+        "marks": 1,
+        "lines": 1,
+        "a": "No. 299 < 300 because 2 hundreds is less than 3 hundreds."
+      }
+    ]
   }
 ]

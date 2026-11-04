@@ -593,5 +593,1154 @@
         "a": "Answers will vary, e.g. tell an adult, give it water, keep it in a safe box, call an animal rescue."
       }
     ]
+  },
+  {
+    "id": "caring-for-animals-06",
+    "topic": "caring-for-animals",
+    "number": 6,
+    "level": "Practice",
+    "title": "Looking After the Class Fish Tank",
+    "intro": "Class 2 in Al Ain has a fish tank. This week, Kabir and Lucy are the fish monitors.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Fish should get only a small pinch of food.",
+            "a": true
+          },
+          {
+            "q": "Too much food makes the tank water dirty.",
+            "a": true
+          },
+          {
+            "q": "We should tap on the glass to wake up the fish.",
+            "a": false
+          },
+          {
+            "q": "Some of the tank water should be changed often.",
+            "a": true
+          },
+          {
+            "q": "A fish tank should be kept in hot sunshine all day.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Kabir feeds the fish",
+            "options": [
+              "once or twice a day",
+              "every ten minutes"
+            ],
+            "after": ".",
+            "a": "once or twice a day"
+          },
+          {
+            "before": "The tank needs a",
+            "options": [
+              "lid",
+              "fan"
+            ],
+            "after": "so the fish cannot jump out.",
+            "a": "lid"
+          },
+          {
+            "before": "Lucy washes her",
+            "options": [
+              "hands",
+              "feet"
+            ],
+            "after": "before and after cleaning the tank.",
+            "a": "hands"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the tank part to its job.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "filter",
+            "right": "keeps the water clean"
+          },
+          {
+            "left": "air pump",
+            "right": "puts air bubbles in the water"
+          },
+          {
+            "left": "lid",
+            "right": "keeps the fish in and dust out"
+          },
+          {
+            "left": "water plants",
+            "right": "give fish places to hide"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Kabir checks that the water is clear and not ___.",
+            "a": "cloudy / dirty"
+          },
+          {
+            "q": "In the holidays, a ___ must feed the fish.",
+            "a": "grown-up / teacher"
+          },
+          {
+            "q": "A sick fish should be shown to a ___.",
+            "a": "vet"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one job you would do as a fish monitor.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. feed a pinch of food, check the filter, check that the water is clean."
+      }
+    ]
+  },
+  {
+    "id": "caring-for-animals-07",
+    "topic": "caring-for-animals",
+    "number": 7,
+    "level": "Practice",
+    "title": "A Quiet Diwali for Pets",
+    "intro": "On Diwali night in Nagpur, loud crackers scare Pari's dog Toffee. Her family helps him feel safe.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Loud crackers can scare dogs, cats and birds.",
+            "a": true
+          },
+          {
+            "q": "Dogs and cats can hear better than we can.",
+            "a": true
+          },
+          {
+            "q": "It is fine to burst crackers next to a sleeping street dog.",
+            "a": false
+          },
+          {
+            "q": "A scared pet may hide under the bed.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Pari keeps Toffee in a",
+            "options": [
+              "quiet room",
+              "noisy balcony"
+            ],
+            "after": "at night.",
+            "a": "quiet room"
+          },
+          {
+            "before": "She closes the",
+            "options": [
+              "windows",
+              "fridge"
+            ],
+            "after": "to keep the noise out.",
+            "a": "windows"
+          },
+          {
+            "before": "A scared dog needs",
+            "options": [
+              "calm",
+              "shouting"
+            ],
+            "after": "people around it.",
+            "a": "calm"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: does it help a scared pet?",
+        "marks": 8,
+        "groups": [
+          "Helps",
+          "Does not help"
+        ],
+        "words": [
+          "a favourite toy",
+          "leaving it alone outside",
+          "soft music",
+          "a cosy blanket",
+          "taking it out to watch crackers",
+          "staying close and calm",
+          "laughing at the pet",
+          "pulling it out of its hiding place"
+        ],
+        "a": {
+          "soft music": "Helps",
+          "a cosy blanket": "Helps",
+          "staying close and calm": "Helps",
+          "a favourite toy": "Helps",
+          "laughing at the pet": "Does not help",
+          "taking it out to watch crackers": "Does not help",
+          "leaving it alone outside": "Does not help",
+          "pulling it out of its hiding place": "Does not help"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Pari sits ___ to Toffee to keep him calm.",
+            "a": "close / next"
+          },
+          {
+            "q": "Street dogs may run onto the road when they are ___.",
+            "a": "scared / frightened"
+          },
+          {
+            "q": "Pari's family lights ___ instead of loud crackers.",
+            "a": "diyas / lamps"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways to have a Diwali that is kind to animals.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Light diyas, burst no loud crackers, keep pets inside, put water out for street dogs."
+      }
+    ]
+  },
+  {
+    "id": "caring-for-animals-08",
+    "topic": "caring-for-animals",
+    "number": 8,
+    "level": "Practice",
+    "title": "Rabbit Sitting for a Neighbour",
+    "intro": "Ishan looks after his neighbour's rabbit, Snowy, for a week in Ras Al Khaimah.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match what Snowy needs to what Ishan gives.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "food",
+            "right": "hay, carrots and leafy greens"
+          },
+          {
+            "left": "drink",
+            "right": "a clean water bottle"
+          },
+          {
+            "left": "sleep",
+            "right": "a dry hutch with straw"
+          },
+          {
+            "left": "exercise",
+            "right": "a safe space to hop"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A rabbit should be lifted gently, with a hand under its bottom.",
+            "a": true
+          },
+          {
+            "q": "We should lift a rabbit by its ears.",
+            "a": false
+          },
+          {
+            "q": "Rabbits need lots of hay to chew.",
+            "a": true
+          },
+          {
+            "q": "Rabbits love loud noises.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Snowy's teeth stay short because he",
+            "options": [
+              "chews hay",
+              "drinks water"
+            ],
+            "after": ".",
+            "a": "chews hay"
+          },
+          {
+            "before": "Ishan gives Snowy a piece of",
+            "options": [
+              "carrot",
+              "chocolate"
+            ],
+            "after": "as a treat.",
+            "a": "carrot"
+          },
+          {
+            "before": "Snowy's hutch should be in a",
+            "options": [
+              "shady",
+              "hot"
+            ],
+            "after": "place.",
+            "a": "shady"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with: gently, fresh, hutch.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ishan puts ___ water in the bottle.",
+            "a": "fresh"
+          },
+          {
+            "q": "He strokes Snowy ___.",
+            "a": "gently"
+          },
+          {
+            "q": "He sweeps the old straw out of the ___.",
+            "a": "hutch"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "If Snowy stops eating, what should Ishan do?",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. Tell a grown-up and take Snowy to a vet."
+      }
+    ]
+  },
+  {
+    "id": "caring-for-animals-09",
+    "topic": "caring-for-animals",
+    "number": 9,
+    "level": "Practice",
+    "title": "The Saadiyat Beach Clean-Up",
+    "intro": "Sea turtles lay eggs on the beach in Abu Dhabi. Noura and Kai pick up litter so the turtles stay safe.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A sea turtle can mistake a plastic bag for a jellyfish and eat it.",
+            "a": true
+          },
+          {
+            "q": "Mother turtles lay their eggs in the sand.",
+            "a": true
+          },
+          {
+            "q": "Baby turtles crawl to the sea after they hatch.",
+            "a": true
+          },
+          {
+            "q": "We should take turtle eggs home to keep them safe.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: pick it up or leave it?",
+        "marks": 8,
+        "groups": [
+          "Pick it up",
+          "Leave it"
+        ],
+        "words": [
+          "crisp packet",
+          "sea shell",
+          "plastic bottle",
+          "old fishing net",
+          "turtle nest",
+          "straw",
+          "seaweed",
+          "crab hole"
+        ],
+        "a": {
+          "plastic bottle": "Pick it up",
+          "old fishing net": "Pick it up",
+          "straw": "Pick it up",
+          "crisp packet": "Pick it up",
+          "seaweed": "Leave it",
+          "turtle nest": "Leave it",
+          "sea shell": "Leave it",
+          "crab hole": "Leave it"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Noura puts the litter in a",
+            "options": [
+              "bin bag",
+              "hole in the sand"
+            ],
+            "after": ".",
+            "a": "bin bag"
+          },
+          {
+            "before": "When we see a turtle nest, we should",
+            "options": [
+              "keep away",
+              "dig it up"
+            ],
+            "after": ".",
+            "a": "keep away"
+          },
+          {
+            "before": "Old fishing nets can",
+            "options": [
+              "trap",
+              "feed"
+            ],
+            "after": "sea animals.",
+            "a": "trap"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Kai wears ___ to pick up sharp litter.",
+            "a": "gloves"
+          },
+          {
+            "q": "We can carry a cloth ___ instead of a plastic one.",
+            "a": "bag"
+          },
+          {
+            "q": "Noura fills her own water ___ again and again.",
+            "a": "bottle"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why is plastic in the sea bad for animals? Write it.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Animals eat it or get trapped in it, and they get sick or die."
+      }
+    ]
+  },
+  {
+    "id": "caring-for-animals-10",
+    "topic": "caring-for-animals",
+    "number": 10,
+    "level": "Practice",
+    "title": "Adopting a Cat from the Shelter",
+    "intro": "Vihaan's family adopts a kitten called Mango from an animal shelter in Thane.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match what Mango needs to the thing that helps.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "somewhere to sleep",
+            "right": "a soft cat bed"
+          },
+          {
+            "left": "somewhere to scratch",
+            "right": "a scratching post"
+          },
+          {
+            "left": "something to play with",
+            "right": "a ball or a toy mouse"
+          },
+          {
+            "left": "to stay healthy",
+            "right": "injections at the vet"
+          },
+          {
+            "left": "food",
+            "right": "kitten food"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "An animal shelter looks after animals that have no home.",
+            "a": true
+          },
+          {
+            "q": "Adopting a pet means caring for it all its life.",
+            "a": true
+          },
+          {
+            "q": "A kitten can be left alone for a whole week.",
+            "a": false
+          },
+          {
+            "q": "Cats like a clean litter box.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "To save the sofa, Vihaan gives Mango a",
+            "options": [
+              "scratching post",
+              "bath"
+            ],
+            "after": ".",
+            "a": "scratching post"
+          },
+          {
+            "before": "A pet is a friend for",
+            "options": [
+              "life",
+              "one day"
+            ],
+            "after": ".",
+            "a": "life"
+          },
+          {
+            "before": "Mum takes Mango to the vet for her",
+            "options": [
+              "injections",
+              "haircut"
+            ],
+            "after": ".",
+            "a": "injections"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Mango's toilet is a ___ box.",
+            "a": "litter"
+          },
+          {
+            "q": "A place that cares for animals with no home is a ___.",
+            "a": "shelter"
+          },
+          {
+            "q": "When we take a pet home from a shelter, we ___ it.",
+            "a": "adopt"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one question you would ask before adopting a pet.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. What does it eat? Who will clean up after it? How big will it grow?"
+      }
+    ]
+  },
+  {
+    "id": "caring-for-animals-11",
+    "topic": "caring-for-animals",
+    "number": 11,
+    "level": "Challenge",
+    "title": "A Pet Care Chart for Coco",
+    "intro": "Rhea's family in Dubai has a parrot called Coco. Rhea makes a chart of jobs to do every day and every week.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the jobs.",
+        "marks": 6,
+        "groups": [
+          "Every day",
+          "Every week"
+        ],
+        "words": [
+          "wash all the toys",
+          "give fresh water",
+          "wash the perches",
+          "scrub the whole cage",
+          "give fresh food",
+          "talk and play with Coco"
+        ],
+        "a": {
+          "give fresh water": "Every day",
+          "give fresh food": "Every day",
+          "talk and play with Coco": "Every day",
+          "scrub the whole cage": "Every week",
+          "wash all the toys": "Every week",
+          "wash the perches": "Every week"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A parrot needs time out of its cage to stretch its wings.",
+            "a": true
+          },
+          {
+            "q": "Chocolate and avocado are safe for parrots.",
+            "a": false
+          },
+          {
+            "q": "A parrot's cage should be big enough for it to spread its wings.",
+            "a": true
+          },
+          {
+            "q": "Parrots get bored and sad if they are alone all day.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Rhea made a mistake. Write it correctly.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Give Coco fresh water once a month.",
+            "a": "Give Coco fresh water every day."
+          },
+          {
+            "q": "Keep the cage in a dark cupboard.",
+            "a": "e.g. Keep the cage in a bright, safe place out of strong sun."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "If Coco stops eating and sits all fluffed up, Rhea should",
+            "options": [
+              "take her to the vet",
+              "give her chips"
+            ],
+            "after": ".",
+            "a": "take her to the vet"
+          },
+          {
+            "before": "Wild parrots live in",
+            "options": [
+              "flocks",
+              "kennels"
+            ],
+            "after": ", so a pet parrot needs company.",
+            "a": "flocks"
+          },
+          {
+            "before": "Before Rhea cleans the cage, Coco should go to a",
+            "options": [
+              "safe place",
+              "bathtub"
+            ],
+            "after": ".",
+            "a": "safe place"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why is it nice to see birds flying free in the sky?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Birds love to fly far and live with other birds."
+      }
+    ]
+  },
+  {
+    "id": "caring-for-animals-12",
+    "topic": "caring-for-animals",
+    "number": 12,
+    "level": "Challenge",
+    "title": "A Pony Ride in Matheran",
+    "intro": "Cars are not allowed in the hill town of Matheran, so people ride ponies. Aman notices how the ponies are treated.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A tired pony needs rest, water and shade.",
+            "a": true
+          },
+          {
+            "q": "A pony can carry any weight all day long.",
+            "a": false
+          },
+          {
+            "q": "A pony's hooves should be checked and cared for.",
+            "a": true
+          },
+          {
+            "q": "Hitting a pony makes it work happily.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the kind choice.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The pony is panting. The owner should",
+            "options": [
+              "let it rest",
+              "make it run"
+            ],
+            "after": ".",
+            "a": "let it rest"
+          },
+          {
+            "before": "At noon on a hot day, ponies need",
+            "options": [
+              "shade",
+              "more riders"
+            ],
+            "after": ".",
+            "a": "shade"
+          },
+          {
+            "before": "Aman thanks the pony with a gentle",
+            "options": [
+              "pat",
+              "kick"
+            ],
+            "after": ".",
+            "a": "pat"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the problem to how to help.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "the pony is thirsty",
+            "right": "give it a bucket of clean water"
+          },
+          {
+            "left": "the pony has a hurt leg",
+            "right": "let it rest and call a vet"
+          },
+          {
+            "left": "the pony is wet from rain",
+            "right": "dry it and keep it in a shed"
+          },
+          {
+            "left": "the pony is hungry",
+            "right": "give it hay and grain"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Why should a pony not carry too much?",
+            "a": "e.g. It can get hurt, very tired or sick."
+          },
+          {
+            "q": "Aman sees a man hitting a pony. What should he do?",
+            "a": "e.g. Tell a grown-up or call an animal helpline."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one rule for pony owners.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. Give the ponies rest, water and food, and never load them too much."
+      }
+    ]
+  },
+  {
+    "id": "caring-for-animals-13",
+    "topic": "caring-for-animals",
+    "number": 13,
+    "level": "Challenge",
+    "title": "A Forest Walk in Kanha",
+    "intro": "Shreya and Liam walk with a forest guard in Madhya Pradesh. He explains how we can protect wild animals.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort: does it protect or harm wild animals?",
+        "marks": 8,
+        "groups": [
+          "Protects wild animals",
+          "Harms wild animals"
+        ],
+        "words": [
+          "taking only photos",
+          "leaving plastic in the forest",
+          "planting trees",
+          "keeping forests clean",
+          "hunting animals",
+          "staying on the path",
+          "cutting down forests",
+          "honking near animals"
+        ],
+        "a": {
+          "planting trees": "Protects wild animals",
+          "keeping forests clean": "Protects wild animals",
+          "staying on the path": "Protects wild animals",
+          "taking only photos": "Protects wild animals",
+          "cutting down forests": "Harms wild animals",
+          "hunting animals": "Harms wild animals",
+          "leaving plastic in the forest": "Harms wild animals",
+          "honking near animals": "Harms wild animals"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Wild animals should be kept as pets at home.",
+            "a": false
+          },
+          {
+            "q": "Forests are the homes of many wild animals.",
+            "a": true
+          },
+          {
+            "q": "Buying things made from tiger skin or ivory harms animals.",
+            "a": true
+          },
+          {
+            "q": "Feeding our snacks to wild animals is good for them.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A forest guard keeps animals safe from",
+            "options": [
+              "hunters",
+              "rain"
+            ],
+            "after": ".",
+            "a": "hunters"
+          },
+          {
+            "before": "When we cut trees, animals lose their food and",
+            "options": [
+              "homes",
+              "colours"
+            ],
+            "after": ".",
+            "a": "homes"
+          },
+          {
+            "before": "We should drive",
+            "options": [
+              "slowly",
+              "fast"
+            ],
+            "after": "through a forest.",
+            "a": "slowly"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Why is it wrong to take a baby deer from the forest as a pet?",
+            "a": "e.g. It belongs in the wild with its mother and needs the forest to live."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing your class can do to help wild animals.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. plant trees, save paper, make posters, never litter."
+      }
+    ]
+  },
+  {
+    "id": "caring-for-animals-14",
+    "topic": "caring-for-animals",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Spot the Mistakes at the Pet Fair",
+    "intro": "At a pet fair in Dubai, Jake and Meenal see some owners making mistakes. Help them say what is right.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Write what the owner should do instead.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "A man leaves his dog in a hot car.",
+            "a": "e.g. He should take the dog with him or leave it at home in a cool place."
+          },
+          {
+            "q": "A girl gives her hamster chocolate.",
+            "a": "e.g. She should give it seeds or vegetables that are safe for hamsters."
+          },
+          {
+            "q": "A boy keeps his goldfish in a tiny, dirty bowl.",
+            "a": "e.g. He should keep it in a big, clean tank with a filter."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Is this right? Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "A dog on a busy street should be on a lead.",
+            "a": true
+          },
+          {
+            "q": "Pets can drink from any dirty puddle.",
+            "a": false
+          },
+          {
+            "q": "A cat should get its injections from a vet.",
+            "a": true
+          },
+          {
+            "q": "Pet poo should be picked up and put in a bin.",
+            "a": true
+          },
+          {
+            "q": "Small children should play with pets only when a grown-up is near.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A dog panting in the sun needs",
+            "options": [
+              "shade and water",
+              "a coat"
+            ],
+            "after": ".",
+            "a": "shade and water"
+          },
+          {
+            "before": "A pet's collar should have its",
+            "options": [
+              "name tag",
+              "price tag"
+            ],
+            "after": ".",
+            "a": "name tag"
+          },
+          {
+            "before": "A tired puppy should be allowed to",
+            "options": [
+              "sleep",
+              "run more"
+            ],
+            "after": ".",
+            "a": "sleep"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one tip for a new pet owner.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. Give fresh water every day and take your pet to the vet."
+      }
+    ]
+  },
+  {
+    "id": "caring-for-animals-15",
+    "topic": "caring-for-animals",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Kindness to Animals Week",
+    "intro": "It is Kindness to Animals Week at a school in Ludhiana. Each day, Class 2 talks about what they would do.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the problem to the kind action.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "a kitten stuck up a tree",
+            "right": "ask a grown-up to help it down"
+          },
+          {
+            "left": "a thirsty street dog",
+            "right": "put out a bowl of water"
+          },
+          {
+            "left": "a bird with a hurt wing",
+            "right": "keep it in a box and call a rescue centre"
+          },
+          {
+            "left": "a cow eating plastic",
+            "right": "tell an adult and put plastic in the bin"
+          },
+          {
+            "left": "a puppy shivering in the rain",
+            "right": "give it a dry, sheltered spot"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Animals feel pain and fear, just like us.",
+            "a": true
+          },
+          {
+            "q": "Only pets need our kindness.",
+            "a": false
+          },
+          {
+            "q": "Caring for animals means giving food, water, shelter and love.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "What would you do? Write a sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "You see a boy throwing stones at a street dog.",
+            "a": "e.g. I would ask him to stop and tell a grown-up."
+          },
+          {
+            "q": "Your friend wants to keep a wild bird in a box at home.",
+            "a": "e.g. I would say wild birds must stay free, and call a rescue centre if it is hurt."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "If you see a hurt animal, first tell a",
+            "options": [
+              "grown-up",
+              "stranger"
+            ],
+            "after": ".",
+            "a": "grown-up"
+          },
+          {
+            "before": "A stray dog that looks scared should be",
+            "options": [
+              "left calm",
+              "chased"
+            ],
+            "after": ".",
+            "a": "left calm"
+          },
+          {
+            "before": "An animal helpline helps",
+            "options": [
+              "hurt animals",
+              "lost toys"
+            ],
+            "after": ".",
+            "a": "hurt animals"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Make a kindness promise. Write one thing you will do for animals.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"I will keep a bowl of water out for birds.\""
+      }
+    ]
   }
 ]

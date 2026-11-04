@@ -639,5 +639,1218 @@
         "a": "Leaves make food for the plant using sunlight, air and water."
       }
     ]
+  },
+  {
+    "id": "parts-of-a-plant-06",
+    "topic": "parts-of-a-plant",
+    "number": 6,
+    "level": "Practice",
+    "title": "Market Day at the Sabzi Mandi",
+    "intro": "Ravi goes to the sabzi mandi in Hyderabad with his mum. Every vegetable comes from a plant part.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the foods into Fruit and Seed.",
+        "marks": 8,
+        "groups": [
+          "Fruit",
+          "Seed"
+        ],
+        "words": [
+          "lentils",
+          "okra",
+          "sesame",
+          "mustard",
+          "cucumber",
+          "chickpeas",
+          "pumpkin",
+          "capsicum"
+        ],
+        "a": {
+          "okra": "Fruit",
+          "cucumber": "Fruit",
+          "pumpkin": "Fruit",
+          "capsicum": "Fruit",
+          "mustard": "Seed",
+          "lentils": "Seed",
+          "sesame": "Seed",
+          "chickpeas": "Seed"
+        }
+      },
+      {
+        "type": "match",
+        "title": "Match each food to the part we eat.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "tapioca",
+            "right": "root"
+          },
+          {
+            "left": "banana flower",
+            "right": "flower"
+          },
+          {
+            "left": "curry leaves",
+            "right": "leaf"
+          },
+          {
+            "left": "lotus stem",
+            "right": "stem"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Okra has many seeds inside, so it is a fruit.",
+            "a": true
+          },
+          {
+            "q": "Lotus stem grows under water, in the mud.",
+            "a": true
+          },
+          {
+            "q": "Tapioca grows at the top of a tall tree.",
+            "a": false
+          },
+          {
+            "q": "Oil can be made from sesame seeds.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Mum buys fresh coriander",
+            "options": [
+              "leaves",
+              "roots"
+            ],
+            "after": "to put on the dal.",
+            "a": "leaves"
+          },
+          {
+            "before": "A pumpkin grows from a",
+            "options": [
+              "flower",
+              "root"
+            ],
+            "after": "of the pumpkin plant.",
+            "a": "flower"
+          },
+          {
+            "before": "Cucumber seeds are",
+            "options": [
+              "inside",
+              "outside"
+            ],
+            "after": "the cucumber.",
+            "a": "inside"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name one fruit and one seed you eat at home.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. fruit: tomato or brinjal; seed: dal or rice."
+      }
+    ]
+  },
+  {
+    "id": "parts-of-a-plant-07",
+    "topic": "parts-of-a-plant",
+    "number": 7,
+    "level": "Practice",
+    "title": "Nani's Tea Garden in Assam",
+    "intro": "Bina visits her Nani's tea garden in Assam. We get many useful things from different plant parts.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the plant part.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Tea is made from the ___ of the tea plant.",
+            "a": "leaves / leaf"
+          },
+          {
+            "q": "Wood for tables comes from the ___ of a tree.",
+            "a": "trunk / stem"
+          },
+          {
+            "q": "Soft cotton grows around the ___ of the cotton plant.",
+            "a": "seeds / seed"
+          },
+          {
+            "q": "Jute bags are made from the ___ of the jute plant.",
+            "a": "stem / stems"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each thing to where it comes from.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "coffee",
+            "right": "seeds of the coffee plant"
+          },
+          {
+            "left": "coconut oil",
+            "right": "fruit of the coconut tree"
+          },
+          {
+            "left": "rubber",
+            "right": "sap of the rubber tree"
+          },
+          {
+            "left": "tulsi tea",
+            "right": "leaves of the tulsi plant"
+          },
+          {
+            "left": "paper",
+            "right": "wood of trees"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the things from plants.",
+        "marks": 4,
+        "groups": [
+          "Food",
+          "Not food"
+        ],
+        "words": [
+          "wooden chair",
+          "tea",
+          "notebook",
+          "cotton shirt",
+          "rice",
+          "rubber ball",
+          "coconut",
+          "banana"
+        ],
+        "a": {
+          "tea": "Food",
+          "rice": "Food",
+          "coconut": "Food",
+          "banana": "Food",
+          "cotton shirt": "Not food",
+          "wooden chair": "Not food",
+          "notebook": "Not food",
+          "rubber ball": "Not food"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Tea plants need plenty of rain to grow.",
+            "a": true
+          },
+          {
+            "q": "We get wood from the roots of trees.",
+            "a": false
+          },
+          {
+            "q": "Some leaves, like neem and tulsi, are used as medicine.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things in your home that come from plants.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any two, e.g. wooden table, cotton clothes, paper, tea, rice, fruit."
+      }
+    ]
+  },
+  {
+    "id": "parts-of-a-plant-08",
+    "topic": "parts-of-a-plant",
+    "number": 8,
+    "level": "Practice",
+    "title": "A Leaf Collection for Science Class",
+    "intro": "Tanvi and Ali collect leaves in Bengaluru for their science class. Every leaf has a stalk, a midrib and veins.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the part of the leaf.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The thick line down the middle of a leaf is the ___.",
+            "a": "midrib"
+          },
+          {
+            "q": "A leaf is joined to the stem by the leaf ___.",
+            "a": "stalk"
+          },
+          {
+            "q": "The flat green part of a leaf is the leaf ___.",
+            "a": "blade"
+          },
+          {
+            "q": "The pointed end of a leaf is the leaf ___.",
+            "a": "tip"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each leaf to its shape.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "peepal leaf",
+            "right": "heart-shaped with a long tip"
+          },
+          {
+            "left": "pine leaf",
+            "right": "thin like a needle"
+          },
+          {
+            "left": "banana leaf",
+            "right": "very big and long"
+          },
+          {
+            "left": "lotus leaf",
+            "right": "round and flat"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Leaves take in air through tiny holes.",
+            "a": true
+          },
+          {
+            "q": "All leaves are the same size.",
+            "a": false
+          },
+          {
+            "q": "Leaves make food for the whole plant.",
+            "a": true
+          },
+          {
+            "q": "Some leaves turn brown and fall off.",
+            "a": true
+          },
+          {
+            "q": "Leaves get water from the roots through the stem.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Banana leaves are",
+            "options": [
+              "big",
+              "tiny"
+            ],
+            "after": "enough to eat a meal on.",
+            "a": "big"
+          },
+          {
+            "before": "Tanvi presses the leaves inside a heavy",
+            "options": [
+              "book",
+              "cup"
+            ],
+            "after": "to dry them.",
+            "a": "book"
+          },
+          {
+            "before": "Neem leaves have",
+            "options": [
+              "jagged",
+              "smooth"
+            ],
+            "after": "edges.",
+            "a": "jagged"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write three parts of a leaf.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any three of: stalk, midrib, veins, blade, tip."
+      }
+    ]
+  },
+  {
+    "id": "parts-of-a-plant-09",
+    "topic": "parts-of-a-plant",
+    "number": 9,
+    "level": "Practice",
+    "title": "Pulling Weeds with Uncle in Kochi",
+    "intro": "Aman and Uncle Joseph pull weeds in their backyard in Kochi. They see two kinds of roots.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each word to its meaning.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "tap root",
+            "right": "one thick main root with small side roots"
+          },
+          {
+            "left": "fibrous roots",
+            "right": "a bunch of thin roots of the same size"
+          },
+          {
+            "left": "root hairs",
+            "right": "tiny hairs that take in water"
+          },
+          {
+            "left": "weed",
+            "right": "a plant growing where it is not wanted"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the plants by their roots.",
+        "marks": 8,
+        "groups": [
+          "Tap root",
+          "Fibrous roots"
+        ],
+        "words": [
+          "rice",
+          "bean",
+          "wheat",
+          "grass",
+          "mustard",
+          "onion",
+          "neem",
+          "tomato"
+        ],
+        "a": {
+          "bean": "Tap root",
+          "mustard": "Tap root",
+          "neem": "Tap root",
+          "tomato": "Tap root",
+          "grass": "Fibrous roots",
+          "rice": "Fibrous roots",
+          "wheat": "Fibrous roots",
+          "onion": "Fibrous roots"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Roots grow towards water in the soil.",
+            "a": true
+          },
+          {
+            "q": "Roots are always bright green.",
+            "a": false
+          },
+          {
+            "q": "Weeds take water and food away from garden plants.",
+            "a": true
+          },
+          {
+            "q": "A plant with fibrous roots has one thick main root.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Roots stop the soil from being",
+            "options": [
+              "washed away",
+              "heated up"
+            ],
+            "after": "by rain.",
+            "a": "washed away"
+          },
+          {
+            "before": "A mango tree has a",
+            "options": [
+              "tap root",
+              "fibrous root"
+            ],
+            "after": "that goes deep.",
+            "a": "tap root"
+          },
+          {
+            "before": "Uncle pulls weeds out",
+            "options": [
+              "with",
+              "without"
+            ],
+            "after": "their roots so they do not grow back.",
+            "a": "with"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "What would happen to a plant if all its roots were cut?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. It could not take in water, so it would dry up and die. It could also fall over."
+      }
+    ]
+  },
+  {
+    "id": "parts-of-a-plant-10",
+    "topic": "parts-of-a-plant",
+    "number": 10,
+    "level": "Practice",
+    "title": "The Coloured Water Experiment",
+    "intro": "Class 2 put a white rose in water with blue ink. The next day its petals had blue lines.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The ___ carried the blue water up to the petals.",
+            "a": "stem"
+          },
+          {
+            "q": "The water went up from the bottom of the stem to the ___.",
+            "a": "flower / petals"
+          },
+          {
+            "q": "The stem also carries food made in the ___.",
+            "a": "leaves"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each stem to a plant.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "strong, woody stem",
+            "right": "neem tree"
+          },
+          {
+            "left": "weak stem that climbs",
+            "right": "pea plant"
+          },
+          {
+            "left": "weak stem that creeps on the ground",
+            "right": "strawberry"
+          },
+          {
+            "left": "hollow stem with joints",
+            "right": "bamboo"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The stem holds the leaves up towards the light.",
+            "a": true
+          },
+          {
+            "q": "A small plant can have a soft, green stem.",
+            "a": true
+          },
+          {
+            "q": "All stems are thick and hard.",
+            "a": false
+          },
+          {
+            "q": "New buds grow on the stem.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The petals turned",
+            "options": [
+              "blue",
+              "red"
+            ],
+            "after": "because of the ink.",
+            "a": "blue"
+          },
+          {
+            "before": "If we cut the stem, the flower gets no",
+            "options": [
+              "water",
+              "sound"
+            ],
+            "after": "and wilts.",
+            "a": "water"
+          },
+          {
+            "before": "Branches grow out of the",
+            "options": [
+              "stem",
+              "flower"
+            ],
+            "after": ".",
+            "a": "stem"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "What job of the stem did this experiment show?",
+        "marks": 2,
+        "lines": 2,
+        "a": "The stem carries water from the roots up to the leaves and flowers."
+      }
+    ]
+  },
+  {
+    "id": "parts-of-a-plant-11",
+    "topic": "parts-of-a-plant",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Lunchbox Detective",
+    "intro": "Rhea from Dubai checks what is in her friends' lunchboxes. Every dish has plant parts, and some are tricky!",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the part of the plant we eat.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "potato",
+            "a": "stem"
+          },
+          {
+            "q": "ginger",
+            "a": "stem"
+          },
+          {
+            "q": "cashew",
+            "a": "seed"
+          },
+          {
+            "q": "banana",
+            "a": "fruit"
+          },
+          {
+            "q": "basil",
+            "a": "leaf / leaves"
+          },
+          {
+            "q": "bitter gourd",
+            "a": "fruit"
+          },
+          {
+            "q": "almond",
+            "a": "seed"
+          },
+          {
+            "q": "jackfruit",
+            "a": "fruit"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A potato is a root because it grows under the soil.",
+            "a": false
+          },
+          {
+            "q": "Ginger grows under the ground, but it is a stem.",
+            "a": true
+          },
+          {
+            "q": "We eat the roots of a cauliflower.",
+            "a": false
+          },
+          {
+            "q": "Coffee is made from roasted seeds.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Each sentence has a mistake. Write it correctly.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Aloo paratha has potato, which is a root.",
+            "a": "Aloo paratha has potato, which is a stem."
+          },
+          {
+            "q": "Sarson ka saag is made from the roots of the mustard plant.",
+            "a": "Sarson ka saag is made from the leaves of the mustard plant."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Rice and wheat are both",
+            "options": [
+              "seeds",
+              "leaves"
+            ],
+            "after": "that we eat.",
+            "a": "seeds"
+          },
+          {
+            "before": "Jam is made from",
+            "options": [
+              "fruits",
+              "roots"
+            ],
+            "after": "cooked with sugar.",
+            "a": "fruits"
+          },
+          {
+            "before": "A pea pod is the",
+            "options": [
+              "fruit",
+              "root"
+            ],
+            "after": "of the pea plant.",
+            "a": "fruit"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "How can you tell that a tomato is a fruit?",
+        "marks": 2,
+        "lines": 2,
+        "a": "It grows from a flower and has seeds inside."
+      }
+    ]
+  },
+  {
+    "id": "parts-of-a-plant-12",
+    "topic": "parts-of-a-plant",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Spot the Mistakes on Zayd's Poster",
+    "intro": "Zayd from Sharjah made a poster about plant parts, but some facts are wrong. Can you spot them?",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Each fact is wrong. Write it correctly.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Leaves hold the plant firmly in the soil.",
+            "a": "Roots hold the plant firmly in the soil."
+          },
+          {
+            "q": "The roots make food using sunlight.",
+            "a": "The leaves make food using sunlight."
+          },
+          {
+            "q": "Seeds are found inside the roots.",
+            "a": "Seeds are found inside the fruit."
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Find the odd one out.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "root, stem, leaf, stone",
+            "a": "stone"
+          },
+          {
+            "q": "carrot, radish, beetroot, mango",
+            "a": "mango"
+          },
+          {
+            "q": "spinach, lettuce, cabbage, peanut",
+            "a": "peanut"
+          },
+          {
+            "q": "neem, banyan, mango, grass",
+            "a": "grass"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Is Zayd right? Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "\"The stem carries water up from the roots.\"",
+            "a": true
+          },
+          {
+            "q": "\"Flowers grow under the ground.\"",
+            "a": false
+          },
+          {
+            "q": "\"A tree trunk is a kind of stem.\"",
+            "a": true
+          },
+          {
+            "q": "\"Leaves need moonlight to make food.\"",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle what Zayd should write.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The",
+            "options": [
+              "stem",
+              "seed"
+            ],
+            "after": "joins the roots to the leaves.",
+            "a": "stem"
+          },
+          {
+            "before": "Bright flowers call",
+            "options": [
+              "bees",
+              "fish"
+            ],
+            "after": "to visit them.",
+            "a": "bees"
+          },
+          {
+            "before": "Fruits grow from",
+            "options": [
+              "flowers",
+              "roots"
+            ],
+            "after": ".",
+            "a": "flowers"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one correct fact about leaves for Zayd's poster.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"Leaves make food for the plant using sunlight, air and water.\""
+      }
+    ]
+  },
+  {
+    "id": "parts-of-a-plant-13",
+    "topic": "parts-of-a-plant",
+    "number": 13,
+    "level": "Challenge",
+    "title": "The Mangroves of Abu Dhabi",
+    "intro": "Yusuf and Elena kayak through the mangroves in Abu Dhabi. Some plants have special parts to live in hard places.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each plant to its special part.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "mangrove",
+            "right": "roots poke up out of the mud to breathe"
+          },
+          {
+            "left": "banyan",
+            "right": "roots hang down from the branches"
+          },
+          {
+            "left": "cactus",
+            "right": "spines instead of leaves"
+          },
+          {
+            "left": "lotus",
+            "right": "waxy leaves that float on water"
+          },
+          {
+            "left": "pitcher plant",
+            "right": "jug-shaped leaves that trap insects"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Mangrove trees can grow in salty sea water.",
+            "a": true
+          },
+          {
+            "q": "The hanging roots of a banyan can become thick like trunks.",
+            "a": true
+          },
+          {
+            "q": "A lotus leaf soaks up water and sinks.",
+            "a": false
+          },
+          {
+            "q": "Cactus spines help stop animals from eating it.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Mangrove roots stick",
+            "options": [
+              "up",
+              "down"
+            ],
+            "after": "out of the mud like pencils.",
+            "a": "up"
+          },
+          {
+            "before": "A lotus stem has",
+            "options": [
+              "air spaces",
+              "stones"
+            ],
+            "after": "inside to help it float.",
+            "a": "air spaces"
+          },
+          {
+            "before": "A bottle gourd has a",
+            "options": [
+              "weak",
+              "very thick"
+            ],
+            "after": "stem, so it climbs.",
+            "a": "weak"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Yusuf sees little crabs hiding between the mangrove ___.",
+            "a": "roots"
+          },
+          {
+            "q": "Tendrils are thin, curly parts that help a plant ___.",
+            "a": "climb"
+          },
+          {
+            "q": "The tall trunk of a date palm is its ___.",
+            "a": "stem"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why do mangrove roots grow up out of the mud?",
+        "marks": 2,
+        "lines": 2,
+        "a": "To take in air, because the wet, salty mud has very little air."
+      }
+    ]
+  },
+  {
+    "id": "parts-of-a-plant-14",
+    "topic": "parts-of-a-plant",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Questions at the Miracle Garden",
+    "intro": "At the Dubai Miracle Garden, Ishita asks the gardener many 'what if' questions about plant parts.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match what is missing to what happens.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "no roots",
+            "right": "it cannot take in water from the soil"
+          },
+          {
+            "left": "no leaves",
+            "right": "it cannot make enough food"
+          },
+          {
+            "left": "no flowers",
+            "right": "it cannot make fruits and seeds"
+          },
+          {
+            "left": "a broken stem",
+            "right": "water cannot reach the leaves"
+          },
+          {
+            "left": "no fruit",
+            "right": "the seeds have no cover to keep them safe"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A plant has dry, yellow leaves. It needs more",
+            "options": [
+              "water",
+              "darkness"
+            ],
+            "after": ".",
+            "a": "water"
+          },
+          {
+            "before": "The gardener ties a weak stem to a stick so it can",
+            "options": [
+              "stand up",
+              "sink"
+            ],
+            "after": ".",
+            "a": "stand up"
+          },
+          {
+            "before": "Flowers are bright so that",
+            "options": [
+              "butterflies",
+              "snakes"
+            ],
+            "after": "visit them.",
+            "a": "butterflies"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Each part of a plant has its own job.",
+            "a": true
+          },
+          {
+            "q": "Most plants need roots to get water.",
+            "a": true
+          },
+          {
+            "q": "If we pluck all the flowers, the plant will make more fruit.",
+            "a": false
+          },
+          {
+            "q": "Plant parts work together to keep the plant alive.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Petals drop off when the flower starts turning into a ___.",
+            "a": "fruit"
+          },
+          {
+            "q": "The gardener plants a ___ to grow a new plant.",
+            "a": "seed"
+          },
+          {
+            "q": "Water travels from the roots, up the stem, to the ___.",
+            "a": "leaves"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which plant part do you think is most important? Write why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"Leaves, because they make food for the whole plant.\" Accept any part with a correct reason."
+      }
+    ]
+  },
+  {
+    "id": "parts-of-a-plant-15",
+    "topic": "parts-of-a-plant",
+    "number": 15,
+    "level": "Challenge",
+    "title": "The Science Fair at Al Ain",
+    "intro": "Read Vihaan's report. My bean plant has white roots and a green stem. It has twelve leaves and three purple flowers. Soon the flowers will turn into bean pods.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the report and fill in.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Vihaan's bean plant has ___ roots.",
+            "a": "white"
+          },
+          {
+            "q": "It has ___ leaves.",
+            "a": "twelve / 12"
+          },
+          {
+            "q": "The flowers are ___.",
+            "a": "purple"
+          },
+          {
+            "q": "The flowers will turn into bean ___.",
+            "a": "pods"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The bean pods will have",
+            "options": [
+              "seeds",
+              "roots"
+            ],
+            "after": "inside.",
+            "a": "seeds"
+          },
+          {
+            "before": "The part of the bean plant under the soil is the",
+            "options": [
+              "roots",
+              "flowers"
+            ],
+            "after": ".",
+            "a": "roots"
+          },
+          {
+            "before": "The bean plant makes food in its",
+            "options": [
+              "leaves",
+              "flowers"
+            ],
+            "after": ".",
+            "a": "leaves"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the parts by where they grow.",
+        "marks": 4,
+        "groups": [
+          "Under the ground",
+          "Above the ground"
+        ],
+        "words": [
+          "buds",
+          "root hairs",
+          "branches",
+          "petals",
+          "tap root",
+          "fruits",
+          "fibrous roots",
+          "peanut pods"
+        ],
+        "a": {
+          "root hairs": "Under the ground",
+          "tap root": "Under the ground",
+          "fibrous roots": "Under the ground",
+          "peanut pods": "Under the ground",
+          "petals": "Above the ground",
+          "buds": "Above the ground",
+          "branches": "Above the ground",
+          "fruits": "Above the ground"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Vihaan's bean plant has flowers.",
+            "a": true
+          },
+          {
+            "q": "The stem of the bean plant is yellow.",
+            "a": false
+          },
+          {
+            "q": "Bean pods are the fruits of the bean plant.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write the parts of Vihaan's plant from the bottom to the top.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Roots, stem, leaves, flowers (then pods)."
+      }
+    ]
   }
 ]

@@ -661,5 +661,1344 @@
         ]
       }
     ]
+  },
+  {
+    "id": "number-names-06",
+    "topic": "number-names",
+    "number": 6,
+    "level": "Practice",
+    "title": "Price Tags at the Book Shop",
+    "intro": "Ananya helps at her aunt's book shop in Kochi. She writes the prices on the tags in words.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the price in words.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "₹39",
+            "a": "thirty-nine / thirty-nine rupees"
+          },
+          {
+            "q": "₹57",
+            "a": "fifty-seven / fifty-seven rupees"
+          },
+          {
+            "q": "₹84",
+            "a": "eighty-four / eighty-four rupees"
+          },
+          {
+            "q": "₹116",
+            "a": "one hundred sixteen / one hundred sixteen rupees"
+          },
+          {
+            "q": "₹350",
+            "a": "three hundred fifty / three hundred fifty rupees"
+          },
+          {
+            "q": "₹409",
+            "a": "four hundred nine / four hundred nine rupees"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the price in figures.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A comic costs sixty-three rupees: ₹ ___",
+            "a": "63"
+          },
+          {
+            "q": "A map book costs two hundred ninety rupees: ₹ ___",
+            "a": "290"
+          },
+          {
+            "q": "A diary costs one hundred four rupees: ₹ ___",
+            "a": "104"
+          },
+          {
+            "q": "A dictionary costs four hundred seventy-five rupees: ₹ ___",
+            "a": "475"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct spelling.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "13 is",
+            "options": [
+              "thirtteen",
+              "thirteen"
+            ],
+            "after": ".",
+            "a": "thirteen"
+          },
+          {
+            "before": "19 is",
+            "options": [
+              "nineteen",
+              "ninteen"
+            ],
+            "after": ".",
+            "a": "nineteen"
+          },
+          {
+            "before": "100 is one",
+            "options": [
+              "hunderd",
+              "hundred"
+            ],
+            "after": ".",
+            "a": "hundred"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "₹60 is sixty rupees.",
+            "a": true
+          },
+          {
+            "q": "Eighty-four is the number 48.",
+            "a": false
+          },
+          {
+            "q": "Two hundred nine has a 0 in the tens place.",
+            "a": true
+          },
+          {
+            "q": "Thirty-three is written as 303.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again with the price in words.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "The storybook costs ₹245.",
+            "a": "The storybook costs two hundred forty-five rupees."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "number-names-07",
+    "topic": "number-names",
+    "number": 7,
+    "level": "Practice",
+    "title": "Runner Numbers at the Dubai Run",
+    "intro": "Runners in the Dubai Run wear a number on their shirts. Read the numbers carefully.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each runner number to its name.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "606",
+            "right": "six hundred six"
+          },
+          {
+            "left": "660",
+            "right": "six hundred sixty"
+          },
+          {
+            "left": "616",
+            "right": "six hundred sixteen"
+          },
+          {
+            "left": "661",
+            "right": "six hundred sixty-one"
+          },
+          {
+            "left": "166",
+            "right": "one hundred sixty-six"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write in words.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "210",
+            "a": "two hundred ten"
+          },
+          {
+            "q": "333",
+            "a": "three hundred thirty-three"
+          },
+          {
+            "q": "419",
+            "a": "four hundred nineteen"
+          },
+          {
+            "q": "547",
+            "a": "five hundred forty-seven"
+          },
+          {
+            "q": "808",
+            "a": "eight hundred eight"
+          },
+          {
+            "q": "925",
+            "a": "nine hundred twenty-five"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the runner numbers.",
+        "marks": 6,
+        "groups": [
+          "Less than 500",
+          "500 or more"
+        ],
+        "words": [
+          "four hundred ninety",
+          "five hundred one",
+          "three hundred fifty-six",
+          "seven hundred",
+          "five hundred",
+          "two hundred eighty"
+        ],
+        "a": {
+          "four hundred ninety": "Less than 500",
+          "five hundred one": "500 or more",
+          "three hundred fifty-six": "Less than 500",
+          "seven hundred": "500 or more",
+          "five hundred": "500 or more",
+          "two hundred eighty": "Less than 500"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Eight hundred seventy has 7 tens.",
+            "a": true
+          },
+          {
+            "q": "Nine hundred three is written as 930.",
+            "a": false
+          },
+          {
+            "q": "Runner 450 is four hundred fifty.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the race problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Runner six hundred forty-two came first. In figures, that is ___.",
+            "a": "642"
+          },
+          {
+            "q": "Zoya's number is 517. In words, that is ___.",
+            "a": "five hundred seventeen"
+          },
+          {
+            "q": "Ben's number is 1 more than 299. In words, his number is ___.",
+            "a": "three hundred"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "number-names-08",
+    "topic": "number-names",
+    "number": 8,
+    "level": "Practice",
+    "title": "Seashells at Al Mamzar Beach",
+    "intro": "Class 2C has a picnic at Al Mamzar Beach. The children count what they find and write the totals.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the number in figures.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "seventy-nine shells = ___ shells",
+            "a": "79"
+          },
+          {
+            "q": "sixty-four pebbles = ___ pebbles",
+            "a": "64"
+          },
+          {
+            "q": "eighty-seven footprints = ___ footprints",
+            "a": "87"
+          },
+          {
+            "q": "thirty-eight starfish = ___ starfish",
+            "a": "38"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the number name.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "21",
+            "a": "twenty-one"
+          },
+          {
+            "q": "36",
+            "a": "thirty-six"
+          },
+          {
+            "q": "47",
+            "a": "forty-seven"
+          },
+          {
+            "q": "56",
+            "a": "fifty-six"
+          },
+          {
+            "q": "62",
+            "a": "sixty-two"
+          },
+          {
+            "q": "73",
+            "a": "seventy-three"
+          },
+          {
+            "q": "89",
+            "a": "eighty-nine"
+          },
+          {
+            "q": "98",
+            "a": "ninety-eight"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the bigger number.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "forty-nine",
+              "ninety-four"
+            ],
+            "after": "is bigger.",
+            "a": "ninety-four"
+          },
+          {
+            "before": "",
+            "options": [
+              "seventy-one",
+              "seventeen"
+            ],
+            "after": "is bigger.",
+            "a": "seventy-one"
+          },
+          {
+            "before": "",
+            "options": [
+              "sixteen",
+              "sixty"
+            ],
+            "after": "is bigger.",
+            "a": "sixty"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Fifteen and fifty are the same number.",
+            "a": false
+          },
+          {
+            "q": "We spell 40 without a u: forty.",
+            "a": true
+          },
+          {
+            "q": "Thirty comes just after twenty-nine.",
+            "a": true
+          },
+          {
+            "q": "Ninety-nine is the biggest 2-digit number.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write how many children are in your class, in figures and in words.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. 32, thirty-two. Check the spelling."
+      }
+    ]
+  },
+  {
+    "id": "number-names-09",
+    "topic": "number-names",
+    "number": 9,
+    "level": "Practice",
+    "title": "House Numbers on Our Street",
+    "intro": "Farhan takes party invitations to the houses on his street in Lucknow. Every house has a number.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the house number in figures.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "one hundred one",
+            "a": "101"
+          },
+          {
+            "q": "two hundred twenty-two",
+            "a": "222"
+          },
+          {
+            "q": "three hundred thirty",
+            "a": "330"
+          },
+          {
+            "q": "four hundred three",
+            "a": "403"
+          },
+          {
+            "q": "six hundred eleven",
+            "a": "611"
+          },
+          {
+            "q": "nine hundred fourteen",
+            "a": "914"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right number name.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "560 is",
+            "options": [
+              "five hundred sixty",
+              "five hundred six"
+            ],
+            "after": ".",
+            "a": "five hundred sixty"
+          },
+          {
+            "before": "817 is",
+            "options": [
+              "eight hundred seventy",
+              "eight hundred seventeen"
+            ],
+            "after": ".",
+            "a": "eight hundred seventeen"
+          },
+          {
+            "before": "209 is",
+            "options": [
+              "two hundred nine",
+              "two hundred ninety"
+            ],
+            "after": ".",
+            "a": "two hundred nine"
+          },
+          {
+            "before": "1000 is",
+            "options": [
+              "one hundred",
+              "one thousand"
+            ],
+            "after": ".",
+            "a": "one thousand"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Is the house number odd or even? Sort.",
+        "marks": 6,
+        "groups": [
+          "Odd",
+          "Even"
+        ],
+        "words": [
+          "forty-one",
+          "seventy-six",
+          "ninety-three",
+          "one hundred twelve",
+          "two hundred five",
+          "three hundred fifty-eight"
+        ],
+        "a": {
+          "forty-one": "Odd",
+          "seventy-six": "Even",
+          "ninety-three": "Odd",
+          "one hundred twelve": "Even",
+          "two hundred five": "Odd",
+          "three hundred fifty-eight": "Even"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "One thousand is written as 1000.",
+            "a": true
+          },
+          {
+            "q": "In six hundred eleven, the 6 means 6 hundreds.",
+            "a": true
+          },
+          {
+            "q": "Four hundred three is written as 430.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the street problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Farhan lives at number three hundred twenty-eight. In figures, that is ___.",
+            "a": "328"
+          },
+          {
+            "q": "The house after number 449 is number ___. Write it in words.",
+            "a": "four hundred fifty"
+          },
+          {
+            "q": "The last house is number 700. In words, that is ___.",
+            "a": "seven hundred"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "number-names-10",
+    "topic": "number-names",
+    "number": 10,
+    "level": "Practice",
+    "title": "The Plant Nursery in Bengaluru",
+    "intro": "Grandpa Ramesh grows plants at his nursery. Ishita writes the plant counts on the signboards.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the number name.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "128 rose plants: ___ rose plants",
+            "a": "one hundred twenty-eight"
+          },
+          {
+            "q": "95 cactus pots: ___ cactus pots",
+            "a": "ninety-five"
+          },
+          {
+            "q": "450 seed packets: ___ seed packets",
+            "a": "four hundred fifty"
+          },
+          {
+            "q": "602 bags of soil: ___ bags of soil",
+            "a": "six hundred two"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write in figures.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "seventy-two",
+            "a": "72"
+          },
+          {
+            "q": "one hundred eighty",
+            "a": "180"
+          },
+          {
+            "q": "three hundred seven",
+            "a": "307"
+          },
+          {
+            "q": "five hundred ninety-five",
+            "a": "595"
+          },
+          {
+            "q": "eight hundred forty",
+            "a": "840"
+          },
+          {
+            "q": "nine hundred sixty-nine",
+            "a": "969"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Eleven, twelve and thirteen all start with the letter t.",
+            "a": false
+          },
+          {
+            "q": "We write 12 as twelve, not twoteen.",
+            "a": true
+          },
+          {
+            "q": "Seven hundred seven is written as 707.",
+            "a": true
+          },
+          {
+            "q": "Five hundred ninety-five is less than five hundred fifty-nine.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the smallest number.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "two hundred twelve",
+              "two hundred twenty",
+              "two hundred two"
+            ],
+            "after": "is the smallest.",
+            "a": "two hundred two"
+          },
+          {
+            "before": "",
+            "options": [
+              "nine hundred",
+              "ninety",
+              "nineteen"
+            ],
+            "after": "is the smallest.",
+            "a": "nineteen"
+          },
+          {
+            "before": "",
+            "options": [
+              "three hundred thirty",
+              "three hundred three",
+              "three hundred thirteen"
+            ],
+            "after": "is the smallest.",
+            "a": "three hundred three"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Pick a number between 100 and 999. Write it in figures and in words.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. 365, three hundred sixty-five. Check the spelling."
+      }
+    ]
+  },
+  {
+    "id": "number-names-11",
+    "topic": "number-names",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Mistakes on the Notice Board",
+    "intro": "The school notice board has numbers in words. Some are spelt wrong or do not match the figures.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Does the name match the number? Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "34 = thirty-four",
+            "a": true
+          },
+          {
+            "q": "90 = ninty",
+            "a": false
+          },
+          {
+            "q": "412 = four hundred twelve",
+            "a": true
+          },
+          {
+            "q": "580 = five hundred eight",
+            "a": false
+          },
+          {
+            "q": "113 = one hundred thirteen",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Fix the spelling.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "fourty-two",
+            "a": "forty-two"
+          },
+          {
+            "q": "ninty-one",
+            "a": "ninety-one"
+          },
+          {
+            "q": "fiveteen",
+            "a": "fifteen"
+          },
+          {
+            "q": "eigthy-three",
+            "a": "eighty-three"
+          },
+          {
+            "q": "ninteen",
+            "a": "nineteen"
+          },
+          {
+            "q": "sevan hundred",
+            "a": "seven hundred"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the number that comes just after, in words.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "After 99 comes ___.",
+            "a": "one hundred"
+          },
+          {
+            "q": "After 509 comes ___.",
+            "a": "five hundred ten"
+          },
+          {
+            "q": "After 739 comes ___.",
+            "a": "seven hundred forty"
+          },
+          {
+            "q": "After 999 comes ___.",
+            "a": "one thousand"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the number that matches.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "nine hundred nine",
+            "options": [
+              "909",
+              "990",
+              "99"
+            ],
+            "after": "",
+            "a": "909"
+          },
+          {
+            "before": "four hundred forty",
+            "options": [
+              "404",
+              "440",
+              "444"
+            ],
+            "after": "",
+            "a": "440"
+          },
+          {
+            "before": "eight hundred eighteen",
+            "options": [
+              "818",
+              "881",
+              "880"
+            ],
+            "after": "",
+            "a": "818"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the notice again with the numbers in words.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Sports Day is for 360 children.",
+            "a": "Sports Day is for three hundred sixty children."
+          },
+          {
+            "q": "Please bring 15 bottle caps.",
+            "a": "Please bring fifteen bottle caps."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "number-names-12",
+    "topic": "number-names",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Seats on the Overnight Train",
+    "intro": "Aditya takes the overnight train from Delhi to Varanasi. He reads the numbers on tickets and signs.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Work it out. Write the answer in words.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "10 more than 245 is ___.",
+            "a": "two hundred fifty-five"
+          },
+          {
+            "q": "100 more than 618 is ___.",
+            "a": "seven hundred eighteen"
+          },
+          {
+            "q": "10 less than 400 is ___.",
+            "a": "three hundred ninety"
+          },
+          {
+            "q": "100 less than 1000 is ___.",
+            "a": "nine hundred"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the parts to the number name.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "5 hundreds 7 tens",
+            "right": "five hundred seventy"
+          },
+          {
+            "left": "7 hundreds 5 ones",
+            "right": "seven hundred five"
+          },
+          {
+            "left": "5 hundreds 7 ones",
+            "right": "five hundred seven"
+          },
+          {
+            "left": "7 hundreds 5 tens",
+            "right": "seven hundred fifty"
+          },
+          {
+            "left": "5 tens 7 ones",
+            "right": "fifty-seven"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "In seven hundred thirty-six, the 3 stands for 3",
+            "options": [
+              "ones",
+              "tens",
+              "hundreds"
+            ],
+            "after": ".",
+            "a": "tens"
+          },
+          {
+            "before": "In nine hundred eighty, the ones digit is",
+            "options": [
+              "0",
+              "8",
+              "9"
+            ],
+            "after": ".",
+            "a": "0"
+          },
+          {
+            "before": "In four hundred fifty-two, the hundreds digit is",
+            "options": [
+              "4",
+              "5",
+              "2"
+            ],
+            "after": ".",
+            "a": "4"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the numbers in figures, from smallest to largest.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "six hundred one, one hundred six, six hundred ten → ___",
+            "a": "106, 601, 610"
+          },
+          {
+            "q": "two hundred ninety, nine hundred twenty, two hundred nine → ___",
+            "a": "209, 290, 920"
+          },
+          {
+            "q": "eighty-five, five hundred eighty, five hundred eight → ___",
+            "a": "85, 508, 580"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a seat number between 400 and 500, in figures and in words.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. 456, four hundred fifty-six"
+      }
+    ]
+  },
+  {
+    "id": "number-names-13",
+    "topic": "number-names",
+    "number": 13,
+    "level": "Challenge",
+    "title": "The Iftar Grocery Order",
+    "intro": "Yusuf and his mum order food for the family iftar in Ramadan. The shop writes the amounts in words and figures.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write in words.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "312",
+            "a": "three hundred twelve"
+          },
+          {
+            "q": "486",
+            "a": "four hundred eighty-six"
+          },
+          {
+            "q": "529",
+            "a": "five hundred twenty-nine"
+          },
+          {
+            "q": "674",
+            "a": "six hundred seventy-four"
+          },
+          {
+            "q": "993",
+            "a": "nine hundred ninety-three"
+          },
+          {
+            "q": "1000",
+            "a": "one thousand"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write in figures.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Two hundred eighty-one samosas = ___ samosas",
+            "a": "281"
+          },
+          {
+            "q": "Nine hundred sixty grams of rice = ___ grams of rice",
+            "a": "960"
+          },
+          {
+            "q": "Four hundred eight dates = ___ dates",
+            "a": "408"
+          },
+          {
+            "q": "Seventy-eight cups of laban = ___ cups of laban",
+            "a": "78"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "three hundred eighty",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "308",
+            "a": ">"
+          },
+          {
+            "before": "five hundred five",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "550",
+            "a": "<"
+          },
+          {
+            "before": "two hundred twenty",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "220",
+            "a": "="
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Nine hundred ninety-nine and one more make one thousand.",
+            "a": true
+          },
+          {
+            "q": "Six hundred seventy-four has 6 hundreds, 7 tens and 4 ones.",
+            "a": true
+          },
+          {
+            "q": "Four hundred eight is written as 4008.",
+            "a": false
+          },
+          {
+            "q": "Fifty-five and five hundred five are the same.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the shopping problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The shop has 3 boxes of 100 dates and 6 loose dates. In words, that is ___ dates.",
+            "a": "three hundred six"
+          },
+          {
+            "q": "Mum pays four hundred fifty rupees. In figures, that is ₹ ___.",
+            "a": "450"
+          },
+          {
+            "q": "The bill is ₹999. In words, that is ___ rupees.",
+            "a": "nine hundred ninety-nine"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "number-names-14",
+    "topic": "number-names",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Votes for School Captain",
+    "intro": "Every child in the school votes for the new school captain. The teachers write the votes in words.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each child's votes to the number.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Tanvi: two hundred thirty",
+            "right": "230"
+          },
+          {
+            "left": "Sam: two hundred three",
+            "right": "203"
+          },
+          {
+            "left": "Kiara: three hundred twenty",
+            "right": "320"
+          },
+          {
+            "left": "Dev: three hundred two",
+            "right": "302"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle who has more votes.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Tanvi has two hundred thirty and Sam has two hundred three. The winner is",
+            "options": [
+              "Tanvi",
+              "Sam"
+            ],
+            "after": ".",
+            "a": "Tanvi"
+          },
+          {
+            "before": "Kiara has three hundred twenty and Dev has three hundred two. The winner is",
+            "options": [
+              "Kiara",
+              "Dev"
+            ],
+            "after": ".",
+            "a": "Kiara"
+          },
+          {
+            "before": "Out of all four children, the winner is",
+            "options": [
+              "Tanvi",
+              "Sam",
+              "Kiara",
+              "Dev"
+            ],
+            "after": ".",
+            "a": "Kiara"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the answer in words.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "1 more than 349",
+            "a": "three hundred fifty"
+          },
+          {
+            "q": "1 more than 609",
+            "a": "six hundred ten"
+          },
+          {
+            "q": "1 less than 800",
+            "a": "seven hundred ninety-nine"
+          },
+          {
+            "q": "1 less than 501",
+            "a": "five hundred"
+          },
+          {
+            "q": "10 more than 990",
+            "a": "one thousand"
+          },
+          {
+            "q": "10 less than 115",
+            "a": "one hundred five"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write in figures, from biggest to smallest.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "four hundred seventy, seven hundred forty, four hundred seven → ___",
+            "a": "740, 470, 407"
+          },
+          {
+            "q": "ninety-nine, nine hundred, one hundred → ___",
+            "a": "900, 100, 99"
+          },
+          {
+            "q": "five hundred fifteen, five hundred fifty-one, one hundred fifty-five → ___",
+            "a": "551, 515, 155"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Tanvi got 230 votes and Sam got 203. Explain why the numbers are different.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. 230 has 3 tens and 0 ones. 203 has 0 tens and 3 ones."
+      }
+    ]
+  },
+  {
+    "id": "number-names-15",
+    "topic": "number-names",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Points in the Inter-School Quiz",
+    "intro": "Four schools in Abu Dhabi play in a big quiz. The scoreboard shows the points in words.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write in figures.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "five hundred fifty-five",
+            "a": "555"
+          },
+          {
+            "q": "seven hundred seventy",
+            "a": "770"
+          },
+          {
+            "q": "nine hundred one",
+            "a": "901"
+          },
+          {
+            "q": "one hundred nineteen",
+            "a": "119"
+          },
+          {
+            "q": "two hundred eighty-two",
+            "a": "282"
+          },
+          {
+            "q": "eight hundred seven",
+            "a": "807"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In words, 1000 is one thousand.",
+            "a": true
+          },
+          {
+            "q": "Two hundred and two hundred make four hundred.",
+            "a": true
+          },
+          {
+            "q": "Ninety tens make nine hundred.",
+            "a": true
+          },
+          {
+            "q": "Eight hundred seven has 8 tens.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right number name.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The digits 7, 0, 4 in that order make",
+            "options": [
+              "seven hundred four",
+              "seventy-four",
+              "seven hundred forty"
+            ],
+            "after": "",
+            "a": "seven hundred four"
+          },
+          {
+            "before": "The biggest number made with 3, 8, 1 is",
+            "options": [
+              "eight hundred thirty-one",
+              "eight hundred thirteen",
+              "three hundred eighteen"
+            ],
+            "after": "",
+            "a": "eight hundred thirty-one"
+          },
+          {
+            "before": "The smallest number made with 6, 2, 9 is",
+            "options": [
+              "two hundred sixty-nine",
+              "two hundred ninety-six",
+              "six hundred twenty-nine"
+            ],
+            "after": "",
+            "a": "two hundred sixty-nine"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the quiz problems. Answer in words.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Green School has 300 points and wins 50 more. Now it has ___ points.",
+            "a": "three hundred fifty"
+          },
+          {
+            "q": "Blue School has 640 points and loses 20. Now it has ___ points.",
+            "a": "six hundred twenty"
+          },
+          {
+            "q": "Red School has 99 points and wins 1 more. Now it has ___ points.",
+            "a": "one hundred"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write 315 and 351 in words. Which one is bigger?",
+        "marks": 2,
+        "lines": 2,
+        "a": "three hundred fifteen and three hundred fifty-one; 351 is bigger."
+      }
+    ]
   }
 ]

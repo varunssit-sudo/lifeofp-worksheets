@@ -608,5 +608,1247 @@
         ]
       }
     ]
+  },
+  {
+    "id": "ascending-and-descending-order-06",
+    "topic": "ascending-and-descending-order",
+    "number": 6,
+    "level": "Practice",
+    "title": "The Book Fair Price Tags",
+    "intro": "Rhea and Samuel are at the school book fair. Put the book prices and page numbers in order.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the smallest number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "57, 75, 51",
+            "a": "51"
+          },
+          {
+            "q": "128, 182, 112",
+            "a": "112"
+          },
+          {
+            "q": "406, 460, 404",
+            "a": "404"
+          },
+          {
+            "q": "93, 39, 99",
+            "a": "39"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write in ascending order.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "₹85, ₹58, ₹105, ₹50 → ___",
+            "a": "₹50, ₹58, ₹85, ₹105"
+          },
+          {
+            "q": "426, 246, 624, 264 → ___",
+            "a": "246, 264, 426, 624"
+          },
+          {
+            "q": "317, 137, 371, 173 → ___",
+            "a": "137, 173, 317, 371"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write in descending order.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "72, 27, 77, 22 → ___",
+            "a": "77, 72, 27, 22"
+          },
+          {
+            "q": "509, 590, 950, 905 → ___",
+            "a": "950, 905, 590, 509"
+          },
+          {
+            "q": "184, 148, 841, 418 → ___",
+            "a": "841, 418, 184, 148"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the list that is in descending order.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "62, 48, 51",
+              "62, 51, 48",
+              "48, 51, 62"
+            ],
+            "after": "",
+            "a": "62, 51, 48"
+          },
+          {
+            "before": "",
+            "options": [
+              "305, 350, 503",
+              "530, 503, 350",
+              "530, 350, 503"
+            ],
+            "after": "",
+            "a": "530, 503, 350"
+          },
+          {
+            "before": "",
+            "options": [
+              "97, 79, 77",
+              "79, 97, 77",
+              "77, 79, 97"
+            ],
+            "after": "",
+            "a": "97, 79, 77"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the book fair problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A storybook costs ₹145, a comic costs ₹90 and an atlas costs ₹215. The cheapest book is the ___.",
+            "a": "comic"
+          },
+          {
+            "q": "Rhea's book has 132 pages, Samuel's has 123 and Mia's has 213. ___ has the longest book.",
+            "a": "Mia"
+          },
+          {
+            "q": "Write their pages in ascending order. ___",
+            "a": "123, 132, 213"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ascending-and-descending-order-07",
+    "topic": "ascending-and-descending-order",
+    "number": 7,
+    "level": "Practice",
+    "title": "Bags at the Airport",
+    "intro": "Kiran's family is flying from Dubai to Kochi. When the hundreds are the same, look at the tens.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each list to its smallest number.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "538, 583, 535",
+            "right": "535"
+          },
+          {
+            "left": "712, 721, 717",
+            "right": "712"
+          },
+          {
+            "left": "264, 246, 249",
+            "right": "246"
+          },
+          {
+            "left": "390, 309, 399",
+            "right": "309"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write in ascending order.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "347, 374, 341, 370 → ___",
+            "a": "341, 347, 370, 374"
+          },
+          {
+            "q": "856, 865, 850, 868 → ___",
+            "a": "850, 856, 865, 868"
+          },
+          {
+            "q": "429, 492, 422, 494 → ___",
+            "a": "422, 429, 492, 494"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In 645, 654, 648, the biggest number is 654.",
+            "a": true
+          },
+          {
+            "q": "When the hundreds are the same, we look at the ones next.",
+            "a": false
+          },
+          {
+            "q": "213, 231, 312, 321 is in ascending order.",
+            "a": true
+          },
+          {
+            "q": "570, 507, 557 is in descending order.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the number that comes in the middle.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "418, 481, 448",
+            "a": "448"
+          },
+          {
+            "q": "62, 26, 60",
+            "a": "60"
+          },
+          {
+            "q": "735, 753, 737",
+            "a": "737"
+          },
+          {
+            "q": "901, 910, 190",
+            "a": "901"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the airport problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Bags weigh 23 kg, 18 kg, 27 kg and 20 kg. Write them from lightest to heaviest. ___",
+            "a": "18 kg, 20 kg, 23 kg, 27 kg"
+          },
+          {
+            "q": "The gates are 34, 43 and 30. Kiran's gate has the biggest number. It is Gate ___.",
+            "a": "43"
+          },
+          {
+            "q": "Flights carry 186, 168 and 196 people. The smallest number of people on a flight is ___.",
+            "a": "168"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ascending-and-descending-order-08",
+    "topic": "ascending-and-descending-order",
+    "number": 8,
+    "level": "Practice",
+    "title": "The Kite Festival in Ahmedabad",
+    "intro": "Parth and Elif fly kites at Uttarayan, the kite festival. Use ascending and descending order to answer.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort each list. Is it ascending, descending or neither?",
+        "marks": 6,
+        "groups": [
+          "Ascending",
+          "Descending",
+          "Neither"
+        ],
+        "words": [
+          "15, 28, 46, 63",
+          "94, 81, 67, 55",
+          "32, 58, 41, 70",
+          "207, 270, 702, 720",
+          "865, 856, 658, 586",
+          "613, 631, 136, 163"
+        ],
+        "a": {
+          "15, 28, 46, 63": "Ascending",
+          "94, 81, 67, 55": "Descending",
+          "32, 58, 41, 70": "Neither",
+          "207, 270, 702, 720": "Ascending",
+          "865, 856, 658, 586": "Descending",
+          "613, 631, 136, 163": "Neither"
+        }
+      },
+      {
+        "type": "pairs",
+        "title": "Write the biggest number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "381, 318, 388",
+            "a": "388"
+          },
+          {
+            "q": "86, 68, 80",
+            "a": "86"
+          },
+          {
+            "q": "702, 720, 727",
+            "a": "727"
+          },
+          {
+            "q": "444, 404, 440",
+            "a": "444"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write in descending order.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Kites flew 45 m, 54 m, 40 m and 50 m high. → ___",
+            "a": "54 m, 50 m, 45 m, 40 m"
+          },
+          {
+            "q": "613, 361, 136, 631 → ___",
+            "a": "631, 613, 361, 136"
+          },
+          {
+            "q": "290, 209, 920, 902 → ___",
+            "a": "920, 902, 290, 209"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the number that comes next in descending order.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "90, 80, 70,",
+            "options": [
+              "60",
+              "75",
+              "80"
+            ],
+            "after": "",
+            "a": "60"
+          },
+          {
+            "before": "500, 450, 400,",
+            "options": [
+              "350",
+              "300",
+              "450"
+            ],
+            "after": "",
+            "a": "350"
+          },
+          {
+            "before": "875, 865, 855,",
+            "options": [
+              "856",
+              "845",
+              "865"
+            ],
+            "after": "",
+            "a": "845"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the kite problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Parth has 128 kites, Elif has 112 and their cousin has 121. Write them in descending order. ___",
+            "a": "128, 121, 112"
+          },
+          {
+            "q": "The red string is 315 m, the blue is 351 m and the green is 305 m. The ___ string is the shortest.",
+            "a": "green"
+          },
+          {
+            "q": "Kites cost ₹35, ₹53 and ₹30. The costliest kite costs ₹ ___.",
+            "a": "53"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ascending-and-descending-order-09",
+    "topic": "ascending-and-descending-order",
+    "number": 9,
+    "level": "Practice",
+    "title": "Steps at the Old Fort",
+    "intro": "Anaya and Lucas climb the steps of an old fort in Jaipur. Read each number carefully, then put them in order.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the numbers in ascending order.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "two hundred five, two hundred fifty, twenty-five, two hundred fifteen → ___",
+            "a": "25, 205, 215, 250"
+          },
+          {
+            "q": "three hundred six, three hundred sixty, three hundred sixteen, six hundred three → ___",
+            "a": "306, 316, 360, 603"
+          },
+          {
+            "q": "eighty, eight hundred, eighty-eight, eight hundred eight → ___",
+            "a": "80, 88, 800, 808"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Use each digit once. Make the biggest 3-digit number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "6, 1, 9",
+            "a": "961"
+          },
+          {
+            "q": "0, 7, 4",
+            "a": "740"
+          },
+          {
+            "q": "2, 8, 5",
+            "a": "852"
+          },
+          {
+            "q": "1, 0, 6",
+            "a": "610"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Use each digit once. Make the smallest 3-digit number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "6, 1, 9",
+            "a": "169"
+          },
+          {
+            "q": "0, 7, 4",
+            "a": "407"
+          },
+          {
+            "q": "2, 8, 5",
+            "a": "258"
+          },
+          {
+            "q": "1, 0, 6",
+            "a": "106"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The smallest 3-digit number is 100.",
+            "a": true
+          },
+          {
+            "q": "The biggest 3-digit number is 990.",
+            "a": false
+          },
+          {
+            "q": "With 4, 0 and 7, the smallest 3-digit number is 047.",
+            "a": false
+          },
+          {
+            "q": "In descending order, the biggest number comes first.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the fort problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Gate A has 148 steps, Gate B has 184 and Gate C has 141. Gate ___ has the most steps.",
+            "a": "B"
+          },
+          {
+            "q": "Write the steps in ascending order. ___",
+            "a": "141, 148, 184"
+          },
+          {
+            "q": "Anaya saw 96 pigeons, Lucas saw 69 and Dad saw 99. Write them in descending order. ___",
+            "a": "99, 96, 69"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ascending-and-descending-order-10",
+    "topic": "ascending-and-descending-order",
+    "number": 10,
+    "level": "Practice",
+    "title": "The Ice Cream Vote",
+    "intro": "Class 2 voted for ice cream for their party in Sharjah. Mango 46, Chocolate 64, Vanilla 38, Pista 52, Strawberry 41.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Use the votes to answer.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The flavour with the most votes is ___.",
+            "a": "Chocolate"
+          },
+          {
+            "q": "The flavour with the fewest votes is ___.",
+            "a": "Vanilla"
+          },
+          {
+            "q": "Write the votes in ascending order. ___",
+            "a": "38, 41, 46, 52, 64"
+          },
+          {
+            "q": "Write the flavours from most votes to fewest votes. ___",
+            "a": "Chocolate, Pista, Mango, Strawberry, Vanilla"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the smallest number.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "478",
+              "487",
+              "474"
+            ],
+            "after": "",
+            "a": "474"
+          },
+          {
+            "before": "",
+            "options": [
+              "302",
+              "320",
+              "230"
+            ],
+            "after": "",
+            "a": "230"
+          },
+          {
+            "before": "",
+            "options": [
+              "699",
+              "969",
+              "996"
+            ],
+            "after": "",
+            "a": "699"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each list to its ascending order.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "35, 53, 33",
+            "right": "33, 35, 53"
+          },
+          {
+            "left": "610, 601, 160",
+            "right": "160, 601, 610"
+          },
+          {
+            "left": "88, 80, 8",
+            "right": "8, 80, 88"
+          },
+          {
+            "left": "427, 472, 247",
+            "right": "247, 427, 472"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "64, 52, 46 is in descending order.",
+            "a": true
+          },
+          {
+            "q": "Ascending order is like climbing up the stairs.",
+            "a": true
+          },
+          {
+            "q": "38, 41, 46 is in descending order.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: Which flavour should the class buy the most of? Why?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Chocolate, because it got the most votes (64)."
+      }
+    ]
+  },
+  {
+    "id": "ascending-and-descending-order-11",
+    "topic": "ascending-and-descending-order",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Bib Numbers at the Fun Run",
+    "intro": "Runners at the school fun run wear bib numbers. Put five numbers in order. Check every digit.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write in ascending order.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "564, 456, 645, 465, 546 → ___",
+            "a": "456, 465, 546, 564, 645"
+          },
+          {
+            "q": "809, 890, 980, 908, 899 → ___",
+            "a": "809, 890, 899, 908, 980"
+          },
+          {
+            "q": "312, 321, 231, 213, 132 → ___",
+            "a": "132, 213, 231, 312, 321"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write in descending order.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "734, 743, 437, 473, 347 → ___",
+            "a": "743, 734, 473, 437, 347"
+          },
+          {
+            "q": "150, 105, 510, 501, 115 → ___",
+            "a": "510, 501, 150, 115, 105"
+          },
+          {
+            "q": "628, 682, 286, 268, 826 → ___",
+            "a": "826, 682, 628, 286, 268"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the number that fits in the gap.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Ascending: 345, ___, 367",
+            "options": [
+              "340",
+              "356",
+              "370"
+            ],
+            "after": "",
+            "a": "356"
+          },
+          {
+            "before": "Descending: 782, ___, 765",
+            "options": [
+              "760",
+              "790",
+              "771"
+            ],
+            "after": "",
+            "a": "771"
+          },
+          {
+            "before": "Ascending: 199, ___, 210",
+            "options": [
+              "201",
+              "190",
+              "211"
+            ],
+            "after": "",
+            "a": "201"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In descending order, 1000 comes before 999.",
+            "a": true
+          },
+          {
+            "q": "If 5 numbers are in ascending order, the 5th one is the biggest.",
+            "a": true
+          },
+          {
+            "q": "609, 690, 906, 960 is in descending order.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the fun run problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Zainab ran 465 m, Theo ran 456 m and Rudra ran 546 m. ___ ran the farthest.",
+            "a": "Rudra"
+          },
+          {
+            "q": "Who ran the shortest distance? ___",
+            "a": "Theo"
+          },
+          {
+            "q": "Write the three distances in descending order. ___",
+            "a": "546 m, 465 m, 456 m"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ascending-and-descending-order-12",
+    "topic": "ascending-and-descending-order",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Mistakes on the Class Board",
+    "intro": "Some children put numbers in order on the board, but some got it wrong. Check each one.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is the order right? Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Ascending: 238, 283, 328, 382",
+            "a": true
+          },
+          {
+            "q": "Descending: 917, 971, 791, 719",
+            "a": false
+          },
+          {
+            "q": "Ascending: 56, 65, 506, 560",
+            "a": true
+          },
+          {
+            "q": "Descending: 804, 840, 480, 408",
+            "a": false
+          },
+          {
+            "q": "Ascending: 199, 919, 991, 911",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Now write the wrong ones the right way.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Descending: 917, 971, 791, 719 → ___",
+            "a": "971, 917, 791, 719"
+          },
+          {
+            "q": "Descending: 804, 840, 480, 408 → ___",
+            "a": "840, 804, 480, 408"
+          },
+          {
+            "q": "Ascending: 199, 919, 991, 911 → ___",
+            "a": "199, 911, 919, 991"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "One number is in the wrong place. Circle it.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Ascending: 302, 318, 296, 345",
+            "options": [
+              "302",
+              "318",
+              "296",
+              "345"
+            ],
+            "after": "",
+            "a": "296"
+          },
+          {
+            "before": "Ascending: 71, 77, 97, 83, 88",
+            "options": [
+              "71",
+              "77",
+              "97",
+              "83",
+              "88"
+            ],
+            "after": "",
+            "a": "97"
+          },
+          {
+            "before": "Ascending: 455, 545, 554, 445",
+            "options": [
+              "455",
+              "545",
+              "554",
+              "445"
+            ],
+            "after": "",
+            "a": "445"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Look at 405, 450, 504, 540. Match each clue to its number.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "the biggest",
+            "right": "540"
+          },
+          {
+            "left": "the smallest",
+            "right": "405"
+          },
+          {
+            "left": "2nd in ascending order",
+            "right": "450"
+          },
+          {
+            "left": "2nd in descending order",
+            "right": "504"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: What mistake was made in 917, 971, 791, 719?",
+        "marks": 1,
+        "lines": 1,
+        "a": "Accept: 971 is bigger than 917, so it should come first. When the hundreds are the same, compare the tens."
+      }
+    ]
+  },
+  {
+    "id": "ascending-and-descending-order-13",
+    "topic": "ascending-and-descending-order",
+    "number": 13,
+    "level": "Challenge",
+    "title": "The Model City Project",
+    "intro": "Arav and Hannah build a model city for a school project in Dubai. Some numbers are in words and some in figures.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write in ascending order.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "four hundred two, 420, two hundred forty, 204 → ___",
+            "a": "204, 240, 402, 420"
+          },
+          {
+            "q": "seven hundred, 77, 707, seventy → ___",
+            "a": "70, 77, 700, 707"
+          },
+          {
+            "q": "nine hundred nine, 990, 99, nine hundred → ___",
+            "a": "99, 900, 909, 990"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the digit that keeps the order right.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Ascending: 418, 4_5, 437",
+            "options": [
+              "0",
+              "2",
+              "4"
+            ],
+            "after": "",
+            "a": "2"
+          },
+          {
+            "before": "Descending: 672, 6_8, 651",
+            "options": [
+              "5",
+              "7",
+              "8"
+            ],
+            "after": "",
+            "a": "5"
+          },
+          {
+            "before": "Ascending: 289, 2_1, 309",
+            "options": [
+              "7",
+              "8",
+              "9"
+            ],
+            "after": "",
+            "a": "9"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the next number in descending order.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "500, 490, 480",
+            "a": "470"
+          },
+          {
+            "q": "835, 825, 815",
+            "a": "805"
+          },
+          {
+            "q": "1000, 900, 800",
+            "a": "700"
+          },
+          {
+            "q": "362, 352, 342",
+            "a": "332"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Every 3-digit number is bigger than every 2-digit number.",
+            "a": true
+          },
+          {
+            "q": "seventy-seven < 707",
+            "a": true
+          },
+          {
+            "q": "In ascending order, 909 comes after 990.",
+            "a": false
+          },
+          {
+            "q": "two hundred four > two hundred forty",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the model city problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Tower A has 48 floors, Tower B has 84 and Tower C has 64. Write the floors in descending order. ___",
+            "a": "84, 64, 48"
+          },
+          {
+            "q": "Hannah's tower is taller than 312 cm but shorter than 321 cm. Is it 309 cm, 318 cm or 325 cm? ___ cm",
+            "a": "318"
+          },
+          {
+            "q": "Arav's towers are 156 cm, 165 cm and 151 cm tall. The middle one in order is ___ cm.",
+            "a": "156"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ascending-and-descending-order-14",
+    "topic": "ascending-and-descending-order",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Quiz Show Scores",
+    "intro": "Four teams play a quiz at the community centre in Bengaluru. Add each team's points, then put them in order.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Add each team's points from round 1 and round 2.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Lotus: 125 + 48",
+            "a": "173"
+          },
+          {
+            "q": "Peacock: 98 + 87",
+            "a": "185"
+          },
+          {
+            "q": "Tiger: 136 + 29",
+            "a": "165"
+          },
+          {
+            "q": "Banyan: 117 + 64",
+            "a": "181"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Use your answers.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Write the totals in descending order. ___",
+            "a": "185, 181, 173, 165"
+          },
+          {
+            "q": "The winning team is ___.",
+            "a": "Peacock"
+          },
+          {
+            "q": "The team that came 2nd is ___.",
+            "a": "Banyan"
+          },
+          {
+            "q": "The team that came last is ___.",
+            "a": "Tiger"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the sum with the bigger answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "34 + 25",
+              "41 + 16"
+            ],
+            "after": "",
+            "a": "34 + 25"
+          },
+          {
+            "before": "",
+            "options": [
+              "150 + 60",
+              "120 + 95"
+            ],
+            "after": "",
+            "a": "120 + 95"
+          },
+          {
+            "before": "",
+            "options": [
+              "99 + 9",
+              "50 + 55"
+            ],
+            "after": "",
+            "a": "99 + 9"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "If Lotus gets 15 more points, it will have the most points.",
+            "a": true
+          },
+          {
+            "q": "Banyan has 16 more points than Tiger.",
+            "a": true
+          },
+          {
+            "q": "185, 181, 173, 165 is in ascending order.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: Peacock scored less than Lotus in round 1. How did Peacock still win?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Peacock scored a lot more in round 2 (87), so its total of 185 is the biggest."
+      }
+    ]
+  },
+  {
+    "id": "ascending-and-descending-order-15",
+    "topic": "ascending-and-descending-order",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Number Cards from the Souk",
+    "intro": "Ibrahim and Pooja buy number cards at a souk in Sharjah. Make numbers with the cards and put them in order.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Use the cards 3, 5 and 8 once each.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The biggest number you can make is ___.",
+            "a": "853"
+          },
+          {
+            "q": "The smallest number you can make is ___.",
+            "a": "358"
+          },
+          {
+            "q": "Write all six numbers in ascending order. ___",
+            "a": "358, 385, 538, 583, 835, 853"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Use the cards 2, 6 and 9 once each. Write the number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "biggest",
+            "a": "962"
+          },
+          {
+            "q": "smallest",
+            "a": "269"
+          },
+          {
+            "q": "2nd biggest",
+            "a": "926"
+          },
+          {
+            "q": "2nd smallest",
+            "a": "296"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the list that is in ascending order.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "470, 407, 704",
+              "407, 470, 704",
+              "704, 470, 407"
+            ],
+            "after": "",
+            "a": "407, 470, 704"
+          },
+          {
+            "before": "",
+            "options": [
+              "98, 89, 908",
+              "89, 98, 908",
+              "908, 98, 89"
+            ],
+            "after": "",
+            "a": "89, 98, 908"
+          },
+          {
+            "before": "",
+            "options": [
+              "615, 651, 156",
+              "156, 651, 615",
+              "156, 615, 651"
+            ],
+            "after": "",
+            "a": "156, 615, 651"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Cards 1, 4 and 7 make six numbers. Match each place in ascending order to its number.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "1st",
+            "right": "147"
+          },
+          {
+            "left": "2nd",
+            "right": "174"
+          },
+          {
+            "left": "4th",
+            "right": "471"
+          },
+          {
+            "left": "6th",
+            "right": "741"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the souk problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Pooja paid ₹95, ₹59 and ₹90 for three sets of cards. Write the prices in ascending order. ___",
+            "a": "₹59, ₹90, ₹95"
+          },
+          {
+            "q": "Ibrahim made 538 with the cards 3, 5 and 8. The next number in ascending order is ___.",
+            "a": "583"
+          },
+          {
+            "q": "Pooja made 853. The number just before it in ascending order is ___.",
+            "a": "835"
+          }
+        ]
+      }
+    ]
   }
 ]

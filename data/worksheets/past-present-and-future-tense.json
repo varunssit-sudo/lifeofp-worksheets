@@ -717,5 +717,1286 @@
         "a": "Answers will vary. One sentence in the past tense, one using will."
       }
     ]
+  },
+  {
+    "id": "past-present-and-future-tense-06",
+    "topic": "past-present-and-future-tense",
+    "number": 6,
+    "level": "Practice",
+    "title": "The Cricket Match in the Lane",
+    "intro": "Aman and Riya play cricket with their friends in the lane behind their building in Pune.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the past tense of each verb.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "hit",
+            "a": "hit"
+          },
+          {
+            "q": "run",
+            "a": "ran"
+          },
+          {
+            "q": "throw",
+            "a": "threw"
+          },
+          {
+            "q": "win",
+            "a": "won"
+          },
+          {
+            "q": "shout",
+            "a": "shouted"
+          },
+          {
+            "q": "score",
+            "a": "scored"
+          },
+          {
+            "q": "drop",
+            "a": "dropped"
+          },
+          {
+            "q": "begin",
+            "a": "began"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the sentences into past, present and future.",
+        "marks": 6,
+        "groups": [
+          "Past",
+          "Present",
+          "Future"
+        ],
+        "words": [
+          "We will play again on Sunday.",
+          "Dad will buy a new bat.",
+          "The ball is flying over the wall.",
+          "Riya bowled very fast.",
+          "Aman hit a six.",
+          "The fielders are running."
+        ],
+        "a": {
+          "Aman hit a six.": "Past",
+          "The ball is flying over the wall.": "Present",
+          "We will play again on Sunday.": "Future",
+          "Riya bowled very fast.": "Past",
+          "The fielders are running.": "Present",
+          "Dad will buy a new bat.": "Future"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with am, is or are.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "I ___ batting now.",
+            "a": "am"
+          },
+          {
+            "q": "The boys ___ cheering loudly.",
+            "a": "are"
+          },
+          {
+            "q": "Riya ___ keeping the score.",
+            "a": "is"
+          },
+          {
+            "q": "We ___ looking for the lost ball.",
+            "a": "are"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Tomorrow we",
+            "options": [
+              "played",
+              "will play",
+              "plays"
+            ],
+            "after": "in the park.",
+            "a": "will play"
+          },
+          {
+            "before": "Last week Aman",
+            "options": [
+              "breaks",
+              "broke",
+              "will break"
+            ],
+            "after": "a window!",
+            "a": "broke"
+          },
+          {
+            "before": "Look! Riya",
+            "options": [
+              "is catching",
+              "caught",
+              "will catch"
+            ],
+            "after": "the ball.",
+            "a": "is catching"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one game you will play this weekend.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. The sentence uses will, e.g. I will play football."
+      }
+    ]
+  },
+  {
+    "id": "past-present-and-future-tense-07",
+    "topic": "past-present-and-future-tense",
+    "number": 7,
+    "level": "Practice",
+    "title": "Getting Ready for Pongal",
+    "intro": "Kavin's family in Tamil Nadu celebrates Pongal every January. Read the time words to choose the tense.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "Every January we",
+            "options": [
+              "celebrate",
+              "celebrated",
+              "will celebrate"
+            ],
+            "after": "Pongal.",
+            "a": "celebrate"
+          },
+          {
+            "before": "Yesterday Amma",
+            "options": [
+              "buys",
+              "bought",
+              "will buy"
+            ],
+            "after": "a new clay pot.",
+            "a": "bought"
+          },
+          {
+            "before": "Look! The milk",
+            "options": [
+              "is boiling",
+              "boiled",
+              "will boil"
+            ],
+            "after": "over the pot.",
+            "a": "is boiling"
+          },
+          {
+            "before": "Next year Kavin",
+            "options": [
+              "draws",
+              "drew",
+              "will draw"
+            ],
+            "after": "the kolam himself.",
+            "a": "will draw"
+          },
+          {
+            "before": "Last night the cows",
+            "options": [
+              "are",
+              "were",
+              "will be"
+            ],
+            "after": "painted with colours.",
+            "a": "were"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the present tense of the word in brackets.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Amma ___ (stir) the sweet pongal.",
+            "a": "stirs"
+          },
+          {
+            "q": "Kavin ___ (fix) the mango leaves on the door.",
+            "a": "fixes"
+          },
+          {
+            "q": "The cow ___ (munch) the sugarcane.",
+            "a": "munches"
+          },
+          {
+            "q": "Paati ___ (try) the pongal first.",
+            "a": "tries"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Change each sentence to the past tense.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Kavin draws a kolam.",
+            "a": "Kavin drew a kolam."
+          },
+          {
+            "q": "We eat sweet pongal.",
+            "a": "We ate sweet pongal."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "'Kavin will fly a kite tomorrow.' is in the future tense.",
+            "a": true
+          },
+          {
+            "q": "'Amma is cooking.' tells us about now.",
+            "a": true
+          },
+          {
+            "q": "'Drew' is the present tense of 'draw'.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing your family does at a festival every year.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. The sentence is in the present tense, e.g. We light lamps."
+      }
+    ]
+  },
+  {
+    "id": "past-present-and-future-tense-08",
+    "topic": "past-present-and-future-tense",
+    "number": 8,
+    "level": "Practice",
+    "title": "Our Class Trip to the Planetarium",
+    "intro": "Tara's class went to the planetarium last week. They will write about it tomorrow.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each verb to its past tense.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "go",
+            "right": "went"
+          },
+          {
+            "left": "know",
+            "right": "knew"
+          },
+          {
+            "left": "find",
+            "right": "found"
+          },
+          {
+            "left": "feel",
+            "right": "felt"
+          },
+          {
+            "left": "ring",
+            "right": "rang"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with will and the word in brackets.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Next week Ms Iyer ___ (take) us to the zoo.",
+            "a": "will take"
+          },
+          {
+            "q": "The bus ___ (leave) at nine o'clock.",
+            "a": "will leave"
+          },
+          {
+            "q": "Tomorrow I ___ (look) for the Moon at night.",
+            "a": "will look"
+          },
+          {
+            "q": "Tara ___ (ask) the guide a question.",
+            "a": "will ask"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle was or were.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The planetarium",
+            "options": [
+              "was",
+              "were"
+            ],
+            "after": "cold inside.",
+            "a": "was"
+          },
+          {
+            "before": "The seats",
+            "options": [
+              "was",
+              "were"
+            ],
+            "after": "soft and comfy.",
+            "a": "were"
+          },
+          {
+            "before": "Tara and I",
+            "options": [
+              "was",
+              "were"
+            ],
+            "after": "amazed by the stars.",
+            "a": "were"
+          },
+          {
+            "before": "The film about Mars",
+            "options": [
+              "was",
+              "were"
+            ],
+            "after": "short.",
+            "a": "was"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "'We went to the planetarium.' tells about the past.",
+            "a": true
+          },
+          {
+            "q": "'The guide will switch off the lights.' is in the present tense.",
+            "a": false
+          },
+          {
+            "q": "We use was for one and were for more than one.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing you saw on a school trip.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. The sentence is in the past tense, e.g. I saw a big fish."
+      }
+    ]
+  },
+  {
+    "id": "past-present-and-future-tense-09",
+    "topic": "past-present-and-future-tense",
+    "number": 9,
+    "level": "Practice",
+    "title": "Washing the Car on Saturday",
+    "intro": "Every Saturday Dev and his mum wash the car. They are washing it right now.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the -ing form of each verb.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "wash",
+            "a": "washing"
+          },
+          {
+            "q": "rub",
+            "a": "rubbing"
+          },
+          {
+            "q": "wipe",
+            "a": "wiping"
+          },
+          {
+            "q": "spray",
+            "a": "spraying"
+          },
+          {
+            "q": "scrub",
+            "a": "scrubbing"
+          },
+          {
+            "q": "shine",
+            "a": "shining"
+          },
+          {
+            "q": "dry",
+            "a": "drying"
+          },
+          {
+            "q": "polish",
+            "a": "polishing"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Look! Dev",
+            "options": [
+              "is splashing",
+              "splashed",
+              "will splash"
+            ],
+            "after": "water on the dog.",
+            "a": "is splashing"
+          },
+          {
+            "before": "Last Saturday it",
+            "options": [
+              "rains",
+              "rained",
+              "will rain"
+            ],
+            "after": "all day.",
+            "a": "rained"
+          },
+          {
+            "before": "Next Saturday Mum",
+            "options": [
+              "buys",
+              "bought",
+              "will buy"
+            ],
+            "after": "a new sponge.",
+            "a": "will buy"
+          },
+          {
+            "before": "Every week the car",
+            "options": [
+              "gets",
+              "got",
+              "will get"
+            ],
+            "after": "dusty again.",
+            "a": "gets"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Change each sentence to now. Use is or are and -ing.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Dev rinsed the mirrors.",
+            "a": "Dev is rinsing the mirrors."
+          },
+          {
+            "q": "The dog barked at the hose.",
+            "a": "The dog is barking at the hose."
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the time words into past, present and future.",
+        "marks": 6,
+        "groups": [
+          "Past",
+          "Present",
+          "Future"
+        ],
+        "words": [
+          "at present",
+          "next month",
+          "last year",
+          "nowadays",
+          "an hour ago",
+          "the day after tomorrow"
+        ],
+        "a": {
+          "an hour ago": "Past",
+          "last year": "Past",
+          "at present": "Present",
+          "nowadays": "Present",
+          "the day after tomorrow": "Future",
+          "next month": "Future"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Write what someone at home is doing right now.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. The sentence uses is or are with -ing, e.g. Mum is reading."
+      }
+    ]
+  },
+  {
+    "id": "past-present-and-future-tense-10",
+    "topic": "past-present-and-future-tense",
+    "number": 10,
+    "level": "Practice",
+    "title": "A Visit to the Dentist",
+    "intro": "Noor went to the dentist in Dubai yesterday. She has a clean smile now.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle has, had or will have.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "Yesterday Noor",
+            "options": [
+              "has",
+              "had",
+              "will have"
+            ],
+            "after": "a toothache.",
+            "a": "had"
+          },
+          {
+            "before": "Now she",
+            "options": [
+              "has",
+              "had",
+              "will have"
+            ],
+            "after": "a clean smile.",
+            "a": "has"
+          },
+          {
+            "before": "Next month Noor",
+            "options": [
+              "has",
+              "had",
+              "will have"
+            ],
+            "after": "another check-up.",
+            "a": "will have"
+          },
+          {
+            "before": "Last year her brother",
+            "options": [
+              "has",
+              "had",
+              "will have"
+            ],
+            "after": "a loose tooth.",
+            "a": "had"
+          },
+          {
+            "before": "Every child",
+            "options": [
+              "has",
+              "had",
+              "will have"
+            ],
+            "after": "milk teeth.",
+            "a": "has"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the past tense of the word in brackets.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Noor ___ (open) her mouth wide.",
+            "a": "opened"
+          },
+          {
+            "q": "The dentist ___ (count) her teeth.",
+            "a": "counted"
+          },
+          {
+            "q": "Noor ___ (spit) into the little sink.",
+            "a": "spat"
+          },
+          {
+            "q": "Mama ___ (hold) her hand.",
+            "a": "held"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write each verb for he or she, like run → runs.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "brush",
+            "a": "brushes"
+          },
+          {
+            "q": "rinse",
+            "a": "rinses"
+          },
+          {
+            "q": "smile",
+            "a": "smiles"
+          },
+          {
+            "q": "worry",
+            "a": "worries"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "'Noor will visit the dentist next month.' is in the future tense.",
+            "a": true
+          },
+          {
+            "q": "'The dentist checks my teeth every year.' is in the past tense.",
+            "a": false
+          },
+          {
+            "q": "'Had' is the past tense of 'has'.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing you will do to keep your teeth clean.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. The sentence uses will, e.g. I will brush my teeth twice a day."
+      }
+    ]
+  },
+  {
+    "id": "past-present-and-future-tense-11",
+    "topic": "past-present-and-future-tense",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Science Project at Home",
+    "intro": "Ali is making a science model at home. Some of his sentences have tense mistakes.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is the sentence correct? Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Yesterday Ali makes a volcano.",
+            "a": false
+          },
+          {
+            "q": "Tomorrow we will paint the model.",
+            "a": true
+          },
+          {
+            "q": "Right now Mama is helping me.",
+            "a": true
+          },
+          {
+            "q": "Last night the glue dry.",
+            "a": false
+          },
+          {
+            "q": "Next week I showed it to the class.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Each sentence has a mistake. Write it correctly.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Last Sunday we cutted the card.",
+            "a": "Last Sunday we cut the card."
+          },
+          {
+            "q": "Tomorrow Ali will shows the model.",
+            "a": "Tomorrow Ali will show the model."
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the right form of the word in brackets.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Last week Ali ___ (build) a bridge with sticks.",
+            "a": "built"
+          },
+          {
+            "q": "Now he ___ (test) it with coins.",
+            "a": "is testing"
+          },
+          {
+            "q": "Tomorrow the teacher ___ (check) it.",
+            "a": "will check"
+          },
+          {
+            "q": "Every day Ali ___ (read) a science book.",
+            "a": "reads"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the time word that fits.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "Yesterday",
+              "Tomorrow",
+              "Right now"
+            ],
+            "after": "Ali will take the model to school.",
+            "a": "Tomorrow"
+          },
+          {
+            "before": "",
+            "options": [
+              "Last week",
+              "Next week",
+              "Right now"
+            ],
+            "after": "we stuck the paper on.",
+            "a": "Last week"
+          },
+          {
+            "before": "",
+            "options": [
+              "Yesterday",
+              "Tomorrow",
+              "Right now"
+            ],
+            "after": "the paint is drying.",
+            "a": "Right now"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing you made and one thing you will make.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. The first sentence is in the past tense; the second uses will."
+      }
+    ]
+  },
+  {
+    "id": "past-present-and-future-tense-12",
+    "topic": "past-present-and-future-tense",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Grandpa's Village in Punjab",
+    "intro": "Simran is staying in her grandpa's village in Punjab. Write her sentences in every tense.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Write each sentence in the tense in brackets.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "The farmer ploughs the field. (past)",
+            "a": "The farmer ploughed the field."
+          },
+          {
+            "q": "The buffaloes drank water from the pond. (future)",
+            "a": "The buffaloes will drink water from the pond."
+          },
+          {
+            "q": "Simran will feed the chickens. (present)",
+            "a": "Simran feeds the chickens. / Simran is feeding the chickens."
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the past tense of each verb.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "ride",
+            "a": "rode"
+          },
+          {
+            "q": "swim",
+            "a": "swam"
+          },
+          {
+            "q": "dig",
+            "a": "dug"
+          },
+          {
+            "q": "shake",
+            "a": "shook"
+          },
+          {
+            "q": "blow",
+            "a": "blew"
+          },
+          {
+            "q": "stand",
+            "a": "stood"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Simran",
+            "options": [
+              "goes",
+              "went",
+              "will go"
+            ],
+            "after": "to the fields every morning.",
+            "a": "goes"
+          },
+          {
+            "before": "Last Baisakhi the farmers",
+            "options": [
+              "dance",
+              "danced",
+              "will dance"
+            ],
+            "after": "the bhangra.",
+            "a": "danced"
+          },
+          {
+            "before": "Look! The tractor",
+            "options": [
+              "is pulling",
+              "pulled",
+              "will pull"
+            ],
+            "after": "the cart.",
+            "a": "is pulling"
+          },
+          {
+            "before": "Later tonight Grandpa",
+            "options": [
+              "tells",
+              "told",
+              "will tell"
+            ],
+            "after": "us a story.",
+            "a": "will tell"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write about your day: one sentence in the past, one in the present and one in the future.",
+        "marks": 3,
+        "lines": 3,
+        "a": "Answers will vary, e.g. I ate toast. I am writing. I will play later."
+      }
+    ]
+  },
+  {
+    "id": "past-present-and-future-tense-13",
+    "topic": "past-present-and-future-tense",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Training for the Swimming Gala",
+    "intro": "Ritu is training hard for the school swimming gala in Abu Dhabi.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the sentences into past, present and future.",
+        "marks": 6,
+        "groups": [
+          "Past",
+          "Present",
+          "Future"
+        ],
+        "words": [
+          "The coach blows the whistle every morning.",
+          "Mum will bring the towels.",
+          "We swam ten laps on Monday.",
+          "The pool is getting cold.",
+          "Ritu had a cold last week.",
+          "Ritu will swim the last lap."
+        ],
+        "a": {
+          "Ritu had a cold last week.": "Past",
+          "We swam ten laps on Monday.": "Past",
+          "The coach blows the whistle every morning.": "Present",
+          "The pool is getting cold.": "Present",
+          "Ritu will swim the last lap.": "Future",
+          "Mum will bring the towels.": "Future"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the word in brackets in the right tense.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Two days ago Ritu ___ (break) her own record.",
+            "a": "broke"
+          },
+          {
+            "q": "At this moment the swimmers ___ (warm) up.",
+            "a": "are warming"
+          },
+          {
+            "q": "Next Friday the gala ___ (start) at ten.",
+            "a": "will start"
+          },
+          {
+            "q": "Every evening Ritu ___ (practise) her kicks.",
+            "a": "practises / practices"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the two parts of each sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Last week Ritu",
+            "right": "swam two laps."
+          },
+          {
+            "left": "Right now Ritu",
+            "right": "is swimming four laps."
+          },
+          {
+            "left": "Next week Ritu",
+            "right": "will swim six laps."
+          },
+          {
+            "left": "Every day Ritu",
+            "right": "swims a little more."
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Change each sentence to the future tense with will.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The coach timed the race.",
+            "a": "The coach will time the race."
+          },
+          {
+            "q": "The crowd cheered for Ritu.",
+            "a": "The crowd will cheer for Ritu."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing you will practise next week.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. The sentence uses will, e.g. I will practise my spellings."
+      }
+    ]
+  },
+  {
+    "id": "past-present-and-future-tense-14",
+    "topic": "past-present-and-future-tense",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Iftar at the Community Tent",
+    "intro": "Last Ramadan, Huda helped at an iftar tent in Abu Dhabi. She carried dates to every table. Her brother poured water. Next year they will cook the soup too.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the story. Fill in the missing word.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Huda carried ___ to every table.",
+            "a": "dates"
+          },
+          {
+            "q": "Her brother poured ___.",
+            "a": "water"
+          },
+          {
+            "q": "Next year they will cook the ___.",
+            "a": "soup"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the verbs into past, present and future.",
+        "marks": 6,
+        "groups": [
+          "Past",
+          "Present",
+          "Future"
+        ],
+        "words": [
+          "carries",
+          "will set",
+          "poured",
+          "is serving",
+          "helped",
+          "will cook"
+        ],
+        "a": {
+          "helped": "Past",
+          "poured": "Past",
+          "carries": "Present",
+          "is serving": "Present",
+          "will cook": "Future",
+          "will set": "Future"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "'Huda carried dates' is in the",
+            "options": [
+              "past",
+              "present",
+              "future"
+            ],
+            "after": "tense.",
+            "a": "past"
+          },
+          {
+            "before": "'They will cook the soup' is in the",
+            "options": [
+              "past",
+              "present",
+              "future"
+            ],
+            "after": "tense.",
+            "a": "future"
+          },
+          {
+            "before": "If it happens now, we say 'Huda",
+            "options": [
+              "carries",
+              "carried",
+              "will carry"
+            ],
+            "after": "dates.'",
+            "a": "carries"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write these story sentences in the present tense.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Huda carried dates to every table.",
+            "a": "Huda carries dates to every table."
+          },
+          {
+            "q": "Her brother poured water.",
+            "a": "Her brother pours water."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing you will do to help someone next week.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. The sentence uses will, e.g. I will help Dad wash the dishes."
+      }
+    ]
+  },
+  {
+    "id": "past-present-and-future-tense-15",
+    "topic": "past-present-and-future-tense",
+    "number": 15,
+    "level": "Challenge",
+    "title": "The Class Picnic at Mushrif Park",
+    "intro": "Ms Ali's class had a picnic at Mushrif Park last Friday. They will go there again in March.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the past tense of each verb.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "teach",
+            "a": "taught"
+          },
+          {
+            "q": "catch",
+            "a": "caught"
+          },
+          {
+            "q": "sweep",
+            "a": "swept"
+          },
+          {
+            "q": "plan",
+            "a": "planned"
+          },
+          {
+            "q": "copy",
+            "a": "copied"
+          },
+          {
+            "q": "spend",
+            "a": "spent"
+          },
+          {
+            "q": "lead",
+            "a": "led"
+          },
+          {
+            "q": "fry",
+            "a": "fried"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Last Friday the bus",
+            "options": [
+              "leaves",
+              "left",
+              "will leave"
+            ],
+            "after": "at eight.",
+            "a": "left"
+          },
+          {
+            "before": "In March the class",
+            "options": [
+              "visits",
+              "visited",
+              "will visit"
+            ],
+            "after": "the park again.",
+            "a": "will visit"
+          },
+          {
+            "before": "The photos are on the board, and now Leila",
+            "options": [
+              "is looking",
+              "looked",
+              "will look"
+            ],
+            "after": "at them.",
+            "a": "is looking"
+          },
+          {
+            "before": "At the picnic, the children",
+            "options": [
+              "feed",
+              "fed",
+              "will feed"
+            ],
+            "after": "the ducks.",
+            "a": "fed"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in was, were, is, are or will be.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Last Friday the weather ___ cool.",
+            "a": "was"
+          },
+          {
+            "q": "The sandwiches ___ tasty that day.",
+            "a": "were"
+          },
+          {
+            "q": "Now the class ___ writing about the picnic.",
+            "a": "is"
+          },
+          {
+            "q": "In March the trees ___ full of flowers.",
+            "a": "will be"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Is the sentence correct? Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Last Friday we will play games.",
+            "a": false
+          },
+          {
+            "q": "Next March we will go again.",
+            "a": true
+          },
+          {
+            "q": "Now Leila is looking at the photos.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write about a picnic: what you did, what you are doing now, and what you will do next time.",
+        "marks": 3,
+        "lines": 3,
+        "a": "Answers will vary. One sentence in the past, one with is/am/are and -ing, and one with will."
+      }
+    ]
   }
 ]

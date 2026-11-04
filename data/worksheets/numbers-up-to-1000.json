@@ -671,5 +671,1336 @@
         ]
       }
     ]
+  },
+  {
+    "id": "numbers-up-to-1000-06",
+    "topic": "numbers-up-to-1000",
+    "number": 6,
+    "level": "Practice",
+    "title": "Notes at the Bank Counter",
+    "intro": "Uncle Suresh counts money at a bank in Mysuru. He uses ₹100 notes, ₹10 notes and ₹1 coins.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the number.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "5 hundreds 2 tens 7 ones",
+            "a": "527"
+          },
+          {
+            "q": "8 hundreds 3 ones",
+            "a": "803"
+          },
+          {
+            "q": "2 hundreds 6 tens",
+            "a": "260"
+          },
+          {
+            "q": "9 hundreds 1 ten 1 one",
+            "a": "911"
+          },
+          {
+            "q": "4 hundreds 7 tens 5 ones",
+            "a": "475"
+          },
+          {
+            "q": "1 hundred 8 ones",
+            "a": "108"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "How much money?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "4 notes of ₹100, 6 notes of ₹10 and 3 coins of ₹1 make ₹ ___.",
+            "a": "463"
+          },
+          {
+            "q": "7 notes of ₹100 and 5 coins of ₹1 make ₹ ___.",
+            "a": "705"
+          },
+          {
+            "q": "9 notes of ₹10 make ₹ ___.",
+            "a": "90"
+          },
+          {
+            "q": "10 notes of ₹100 make ₹ ___.",
+            "a": "1000"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the value of the digit.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "In 362, the 6 means",
+            "options": [
+              "6",
+              "60",
+              "600"
+            ],
+            "after": "",
+            "a": "60"
+          },
+          {
+            "before": "In 847, the 8 means",
+            "options": [
+              "8",
+              "80",
+              "800"
+            ],
+            "after": "",
+            "a": "800"
+          },
+          {
+            "before": "In 194, the 4 means",
+            "options": [
+              "4",
+              "40",
+              "400"
+            ],
+            "after": "",
+            "a": "4"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "529 has 2 tens.",
+            "a": true
+          },
+          {
+            "q": "703 has 0 tens.",
+            "a": true
+          },
+          {
+            "q": "451 has 5 hundreds.",
+            "a": false
+          },
+          {
+            "q": "100 tens make 1000.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the bank problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Suresh has ₹245. He gets one more ₹100 note. Now he has ₹ ___.",
+            "a": "345"
+          },
+          {
+            "q": "Ruby has ₹580. She gives away one ₹10 note. She has ₹ ___ left.",
+            "a": "570"
+          },
+          {
+            "q": "Which is more, ₹609 or ₹690? ₹ ___ is more.",
+            "a": "690"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "numbers-up-to-1000-07",
+    "topic": "numbers-up-to-1000",
+    "number": 7,
+    "level": "Practice",
+    "title": "Bricks for the New School Wall",
+    "intro": "Builders are making a new wall at a school in Ajman. They stack the bricks in hundreds, tens and ones.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill the missing part.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "467 = 400 + ___ + 7",
+            "a": "60"
+          },
+          {
+            "q": "385 = ___ + 80 + 5",
+            "a": "300"
+          },
+          {
+            "q": "902 = 900 + ___",
+            "a": "2"
+          },
+          {
+            "q": "650 = 600 + ___",
+            "a": "50"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the number.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "300 + 40 + 9",
+            "a": "349"
+          },
+          {
+            "q": "700 + 10 + 6",
+            "a": "716"
+          },
+          {
+            "q": "500 + 90",
+            "a": "590"
+          },
+          {
+            "q": "200 + 3",
+            "a": "203"
+          },
+          {
+            "q": "800 + 60 + 4",
+            "a": "864"
+          },
+          {
+            "q": "100 + 70 + 1",
+            "a": "171"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each number to its parts.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "472",
+            "right": "4 hundreds 7 tens 2 ones"
+          },
+          {
+            "left": "427",
+            "right": "4 hundreds 2 tens 7 ones"
+          },
+          {
+            "left": "742",
+            "right": "7 hundreds 4 tens 2 ones"
+          },
+          {
+            "left": "247",
+            "right": "2 hundreds 4 tens 7 ones"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right place.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "In 538, the 5 is in the",
+            "options": [
+              "hundreds",
+              "tens",
+              "ones"
+            ],
+            "after": "place.",
+            "a": "hundreds"
+          },
+          {
+            "before": "In 905, the 5 is in the",
+            "options": [
+              "hundreds",
+              "tens",
+              "ones"
+            ],
+            "after": "place.",
+            "a": "ones"
+          },
+          {
+            "before": "In 156, the 5 is in the",
+            "options": [
+              "hundreds",
+              "tens",
+              "ones"
+            ],
+            "after": "place.",
+            "a": "tens"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the brick problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A pile has 2 hundreds, 9 tens and 6 ones bricks. That is ___ bricks.",
+            "a": "296"
+          },
+          {
+            "q": "The builders need 600 bricks. They have 500. They need ___ more.",
+            "a": "100"
+          },
+          {
+            "q": "8 crates of 100 bricks and 30 loose bricks make ___ bricks.",
+            "a": "830"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "numbers-up-to-1000-08",
+    "topic": "numbers-up-to-1000",
+    "number": 8,
+    "level": "Practice",
+    "title": "Room Numbers at a Hotel in Goa",
+    "intro": "The Pinto family stays at a beach hotel in Goa. The room numbers go up in order on every floor.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Find the number.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "10 more than 285",
+            "a": "295"
+          },
+          {
+            "q": "10 more than 391",
+            "a": "401"
+          },
+          {
+            "q": "10 more than 604",
+            "a": "614"
+          },
+          {
+            "q": "10 more than 990",
+            "a": "1000"
+          },
+          {
+            "q": "100 more than 128",
+            "a": "228"
+          },
+          {
+            "q": "100 more than 455",
+            "a": "555"
+          },
+          {
+            "q": "100 more than 870",
+            "a": "970"
+          },
+          {
+            "q": "100 less than 312",
+            "a": "212"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "465",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "456",
+            "a": ">"
+          },
+          {
+            "before": "709",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "790",
+            "a": "<"
+          },
+          {
+            "before": "300 + 20 + 1",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "321",
+            "a": "="
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Is the room number odd or even? Look at the ones digit.",
+        "marks": 6,
+        "groups": [
+          "Odd",
+          "Even"
+        ],
+        "words": [
+          "243",
+          "318",
+          "425",
+          "560",
+          "677",
+          "802"
+        ],
+        "a": {
+          "243": "Odd",
+          "318": "Even",
+          "425": "Odd",
+          "560": "Even",
+          "677": "Odd",
+          "802": "Even"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill the missing room number.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Rooms 306, 307, ___, 309",
+            "a": "308"
+          },
+          {
+            "q": "Rooms 519, ___, 521",
+            "a": "520"
+          },
+          {
+            "q": "Rooms 799, 800, ___",
+            "a": "801"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the hotel problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The Pintos are in room 412. Their friends are 10 rooms on, in room ___.",
+            "a": "422"
+          },
+          {
+            "q": "Floor 6 has rooms 601 to 610. That is ___ rooms.",
+            "a": "10"
+          },
+          {
+            "q": "Room 238 is on floor 2. Room 538 is on floor ___.",
+            "a": "5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "numbers-up-to-1000-09",
+    "topic": "numbers-up-to-1000",
+    "number": 9,
+    "level": "Practice",
+    "title": "Stamps in Grandpa's Album",
+    "intro": "Grandpa Anwar has a big stamp album. Each page has a number, and he keeps count of his stamps.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write from largest to smallest.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "548, 845, 485 → ___",
+            "a": "845, 548, 485"
+          },
+          {
+            "q": "906, 960, 609 → ___",
+            "a": "960, 906, 609"
+          },
+          {
+            "q": "333, 303, 330 → ___",
+            "a": "333, 330, 303"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the biggest number.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "672",
+              "726",
+              "627"
+            ],
+            "after": "is the biggest.",
+            "a": "726"
+          },
+          {
+            "before": "",
+            "options": [
+              "489",
+              "498",
+              "849"
+            ],
+            "after": "is the biggest.",
+            "a": "849"
+          },
+          {
+            "before": "",
+            "options": [
+              "1000",
+              "999",
+              "990"
+            ],
+            "after": "is the biggest.",
+            "a": "1000"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In 586, the 8 means 80.",
+            "a": true
+          },
+          {
+            "q": "Every 3-digit number is bigger than every 2-digit number.",
+            "a": true
+          },
+          {
+            "q": "640 is less than 604.",
+            "a": false
+          },
+          {
+            "q": "The smallest 3-digit number is 100.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Make the smallest 3-digit number with these digits.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "8, 3, 5",
+            "a": "358"
+          },
+          {
+            "q": "9, 4, 0",
+            "a": "409"
+          },
+          {
+            "q": "7, 2, 6",
+            "a": "267"
+          },
+          {
+            "q": "1, 9, 9",
+            "a": "199"
+          },
+          {
+            "q": "5, 0, 0",
+            "a": "500"
+          },
+          {
+            "q": "3, 1, 4",
+            "a": "134"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the stamp problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Grandpa has 475 stamps from India and 457 from the UAE. He has more stamps from ___.",
+            "a": "India"
+          },
+          {
+            "q": "A page holds 100 stamps. 6 full pages hold ___ stamps.",
+            "a": "600"
+          },
+          {
+            "q": "He has 899 stamps. He gets 1 more. Now he has ___.",
+            "a": "900"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "numbers-up-to-1000-10",
+    "topic": "numbers-up-to-1000",
+    "number": 10,
+    "level": "Practice",
+    "title": "Parcels at the Post Office",
+    "intro": "Ms Nair sorts parcels at the post office in Thrissur. Every parcel has a number on it.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Find the number.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "10 less than 507",
+            "a": "497"
+          },
+          {
+            "q": "10 less than 230",
+            "a": "220"
+          },
+          {
+            "q": "10 less than 811",
+            "a": "801"
+          },
+          {
+            "q": "10 less than 1000",
+            "a": "990"
+          },
+          {
+            "q": "100 less than 145",
+            "a": "45"
+          },
+          {
+            "q": "100 less than 900",
+            "a": "800"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the parcel numbers.",
+        "marks": 6,
+        "groups": [
+          "From 100 to 399",
+          "From 400 to 699",
+          "From 700 to 999"
+        ],
+        "words": [
+          "129",
+          "398",
+          "402",
+          "655",
+          "701",
+          "999"
+        ],
+        "a": {
+          "129": "From 100 to 399",
+          "398": "From 100 to 399",
+          "402": "From 400 to 699",
+          "655": "From 400 to 699",
+          "701": "From 700 to 999",
+          "999": "From 700 to 999"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill the missing number on the number line.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Count in 10s: 470, 480, ___, 500",
+            "a": "490"
+          },
+          {
+            "q": "Count in 100s: 160, 260, ___, 460",
+            "a": "360"
+          },
+          {
+            "q": "Count in 1s: 897, 898, ___, 900",
+            "a": "899"
+          },
+          {
+            "q": "Count in 50s: 600, 650, ___, 750",
+            "a": "700"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Parcel 615 comes after parcel 561.",
+            "a": true
+          },
+          {
+            "q": "380 is 10 less than 390.",
+            "a": true
+          },
+          {
+            "q": "1000 is 1 more than 999.",
+            "a": true
+          },
+          {
+            "q": "207 has 7 tens.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the post office problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There were 350 parcels. 100 more came in. Now there are ___ parcels.",
+            "a": "450"
+          },
+          {
+            "q": "Ms Nair has sent 290 parcels. After 10 more she will have sent ___.",
+            "a": "300"
+          },
+          {
+            "q": "The parcels go 512, 513, 514. The next parcel is ___.",
+            "a": "515"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "numbers-up-to-1000-11",
+    "topic": "numbers-up-to-1000",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Mango Orchard in Ratnagiri",
+    "intro": "Aunt Vidya grows mangoes in Ratnagiri. Pickers count them in crates of 100, boxes of 10 and loose ones.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the number. Watch out for more than 9 tens or ones!",
+        "marks": 4,
+        "items": [
+          {
+            "q": "2 hundreds, 14 tens and 3 ones = ___",
+            "a": "343"
+          },
+          {
+            "q": "5 hundreds, 0 tens and 16 ones = ___",
+            "a": "516"
+          },
+          {
+            "q": "3 hundreds and 10 tens = ___",
+            "a": "400"
+          },
+          {
+            "q": "6 hundreds, 12 tens and 5 ones = ___",
+            "a": "725"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "450 is the same as",
+            "options": [
+              "45 tens",
+              "54 tens",
+              "4 tens"
+            ],
+            "after": ".",
+            "a": "45 tens"
+          },
+          {
+            "before": "1000 is the same as",
+            "options": [
+              "10 tens",
+              "100 tens",
+              "1000 tens"
+            ],
+            "after": ".",
+            "a": "100 tens"
+          },
+          {
+            "before": "300 is the same as",
+            "options": [
+              "3 tens",
+              "30 tens",
+              "300 tens"
+            ],
+            "after": ".",
+            "a": "30 tens"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "6 hundreds and 15 tens make 750.",
+            "a": true
+          },
+          {
+            "q": "908 is the same as 90 tens and 8 ones.",
+            "a": true
+          },
+          {
+            "q": "The number just after 699 has a 7 in the hundreds place.",
+            "a": true
+          },
+          {
+            "q": "999 + 1 = 1100",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the orchard problems. Use two steps.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Pickers fill 3 crates of 100 and 7 boxes of 10. Then they fill 4 more boxes of 10. They have ___ mangoes.",
+            "a": "410"
+          },
+          {
+            "q": "Vidya had 820 mangoes. She sold 2 crates of 100. She has ___ left.",
+            "a": "620"
+          },
+          {
+            "q": "The truck can take 900 mangoes. It has 750. It can take ___ more.",
+            "a": "150"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write 563 in two different ways using hundreds, tens and ones.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. 5 hundreds 6 tens 3 ones; 500 + 60 + 3; 4 hundreds 16 tens 3 ones"
+      }
+    ]
+  },
+  {
+    "id": "numbers-up-to-1000-12",
+    "topic": "numbers-up-to-1000",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Counting Fish at the Aquarium",
+    "intro": "Lina's class visits a big aquarium in Dubai. The keepers count hundreds of fish in the tanks.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "400 + 30 + 9",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "493",
+            "a": "<"
+          },
+          {
+            "before": "6 hundreds 5 ones",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "650",
+            "a": "<"
+          },
+          {
+            "before": "70 tens",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "700",
+            "a": "="
+          },
+          {
+            "before": "800 + 90",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "809",
+            "a": ">"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write from smallest to largest.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "582, 258, 825, 528 → ___",
+            "a": "258, 528, 582, 825"
+          },
+          {
+            "q": "710, 107, 170, 701 → ___",
+            "a": "107, 170, 701, 710"
+          },
+          {
+            "q": "999, 909, 990, 99 → ___",
+            "a": "99, 909, 990, 999"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Who am I? Write the number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "I am 10 more than 795.",
+            "a": "805"
+          },
+          {
+            "q": "I am 100 less than 1000.",
+            "a": "900"
+          },
+          {
+            "q": "I am between 649 and 651.",
+            "a": "650"
+          },
+          {
+            "q": "I am 1 less than 780.",
+            "a": "779"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The largest number made with 5, 0, 8 is 850.",
+            "a": true
+          },
+          {
+            "q": "The smallest 3-digit number made with 5, 0, 8 is 058.",
+            "a": false
+          },
+          {
+            "q": "There are 100 numbers from 101 to 200.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the aquarium problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The big tank has 865 fish. The small tank has 568. The ___ tank has more fish.",
+            "a": "big"
+          },
+          {
+            "q": "The keepers add 10 fish to a tank of 395. Now it has ___ fish.",
+            "a": "405"
+          },
+          {
+            "q": "A tank has 7 hundreds, 0 tens and 9 ones fish. That is ___ fish.",
+            "a": "709"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "numbers-up-to-1000-13",
+    "topic": "numbers-up-to-1000",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Checking the Shop's Price List",
+    "intro": "Kofi helps at his uncle's electronics shop in Karama. Some prices and sums on the list are wrong.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "₹508 is the same as 5 hundreds and 8 ones.",
+            "a": true
+          },
+          {
+            "q": "₹460 is more than ₹604.",
+            "a": false
+          },
+          {
+            "q": "₹10 more than ₹990 is ₹1000.",
+            "a": true
+          },
+          {
+            "q": "₹100 less than ₹310 is ₹300.",
+            "a": false
+          },
+          {
+            "q": "In ₹732, the 3 means ₹30.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Each one is wrong. Write the right answer.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "10 more than 386 is 387.",
+            "a": "396"
+          },
+          {
+            "q": "100 less than 742 is 732.",
+            "a": "642"
+          },
+          {
+            "q": "1 more than 599 is 5100.",
+            "a": "600"
+          },
+          {
+            "q": "Just before 300 is 301.",
+            "a": "299"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the price in figures.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "4 hundreds and 9 tens rupees: ₹ ___",
+            "a": "490"
+          },
+          {
+            "q": "8 hundreds and 3 ones rupees: ₹ ___",
+            "a": "803"
+          },
+          {
+            "q": "Six hundred seventy rupees: ₹ ___",
+            "a": "670"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The cheapest is",
+            "options": [
+              "₹389",
+              "₹398",
+              "₹383"
+            ],
+            "after": ".",
+            "a": "₹383"
+          },
+          {
+            "before": "The cheapest is",
+            "options": [
+              "₹701",
+              "₹710",
+              "₹170"
+            ],
+            "after": ".",
+            "a": "₹170"
+          },
+          {
+            "before": "The most expensive is",
+            "options": [
+              "₹555",
+              "₹505",
+              "₹550"
+            ],
+            "after": ".",
+            "a": "₹555"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "A torch costs ₹245 and a lamp costs ₹254. Which costs more? Explain.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. The lamp. Both have 2 hundreds, but 254 has 5 tens and 245 has only 4 tens."
+      }
+    ]
+  },
+  {
+    "id": "numbers-up-to-1000-14",
+    "topic": "numbers-up-to-1000",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Book Donation Drive",
+    "intro": "Schools in Dubai collect books for children who need them. Help count and compare the books.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "How many tens make each number?",
+        "marks": 6,
+        "items": [
+          {
+            "q": "260",
+            "a": "26"
+          },
+          {
+            "q": "500",
+            "a": "50"
+          },
+          {
+            "q": "710",
+            "a": "71"
+          },
+          {
+            "q": "1000",
+            "a": "100"
+          },
+          {
+            "q": "380",
+            "a": "38"
+          },
+          {
+            "q": "90",
+            "a": "9"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the box numbers.",
+        "marks": 6,
+        "groups": [
+          "Less than 450",
+          "From 450 to 550",
+          "More than 550"
+        ],
+        "words": [
+          "449",
+          "451",
+          "545",
+          "555",
+          "405",
+          "590"
+        ],
+        "a": {
+          "449": "Less than 450",
+          "451": "From 450 to 550",
+          "545": "From 450 to 550",
+          "555": "More than 550",
+          "405": "Less than 450",
+          "590": "More than 550"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the number.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "I have 7 hundreds, 0 tens and 7 ones. I am",
+            "options": [
+              "707",
+              "770",
+              "77"
+            ],
+            "after": "",
+            "a": "707"
+          },
+          {
+            "before": "I am 1 more than the biggest 3-digit number. I am",
+            "options": [
+              "1000",
+              "999",
+              "100"
+            ],
+            "after": "",
+            "a": "1000"
+          },
+          {
+            "before": "My digits are 3, 4 and 5, and I am the biggest. I am",
+            "options": [
+              "543",
+              "534",
+              "453"
+            ],
+            "after": "",
+            "a": "543"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the book problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Class 2A collected 128 books. Class 2B collected 100 more. Class 2B collected ___ books.",
+            "a": "228"
+          },
+          {
+            "q": "The goal is 1000 books. They have 900. They need ___ more.",
+            "a": "100"
+          },
+          {
+            "q": "Books are packed in boxes of 10. 46 boxes hold ___ books.",
+            "a": "460"
+          },
+          {
+            "q": "300 English books and 50 Arabic books make ___ books.",
+            "a": "350"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "numbers-up-to-1000-15",
+    "topic": "numbers-up-to-1000",
+    "number": 15,
+    "level": "Challenge",
+    "title": "A Road Trip to Hatta",
+    "intro": "Dev's family drives from Dubai to Hatta. They read numbers on the road signs and the car's meter.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve the road problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The meter shows 698 km. After 2 more km it shows ___ km.",
+            "a": "700"
+          },
+          {
+            "q": "The meter showed 455 km. After 100 more km it shows ___ km.",
+            "a": "555"
+          },
+          {
+            "q": "The meter shows 470 km. They drive 10 km, then 10 km, then 10 km more. Now it shows ___ km.",
+            "a": "500"
+          },
+          {
+            "q": "They stop every 100 km: at 150, 250, 350 km and so on. The 4th stop is at ___ km.",
+            "a": "450"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "345",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "354",
+            "a": "<"
+          },
+          {
+            "before": "800 + 7",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "870",
+            "a": "<"
+          },
+          {
+            "before": "99 tens",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "990",
+            "a": "="
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "To get from 495 to 505, you count on 10.",
+            "a": true
+          },
+          {
+            "q": "From 100, count on 9 tens to reach 190.",
+            "a": true
+          },
+          {
+            "q": "The number after 909 is 1000.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the number exactly halfway.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Between 300 and 400",
+            "a": "350"
+          },
+          {
+            "q": "Between 500 and 600",
+            "a": "550"
+          },
+          {
+            "q": "Between 120 and 140",
+            "a": "130"
+          },
+          {
+            "q": "Between 990 and 1000",
+            "a": "995"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Dev sees three signs: 607, 760 and 670. Write them from smallest to largest. How did you know?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. 607, 670, 760. Look at the hundreds first, then the tens."
+      }
+    ]
   }
 ]

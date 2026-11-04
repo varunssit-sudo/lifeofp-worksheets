@@ -660,5 +660,1298 @@
         "a": "Answers will vary, e.g. a light jacket, a kite, food in closed boxes. Check the items suit cloudy, windy weather."
       }
     ]
+  },
+  {
+    "id": "weather-06",
+    "topic": "weather",
+    "number": 6,
+    "level": "Practice",
+    "title": "The Monsoon Comes to Mumbai",
+    "intro": "In June, dark clouds roll over Mumbai and the monsoon rains begin. Sneha and Jack splash home from school.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each season to its weather.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Summer",
+            "right": "hot and sunny"
+          },
+          {
+            "left": "Monsoon",
+            "right": "heavy rain"
+          },
+          {
+            "left": "Winter",
+            "right": "cool or cold"
+          },
+          {
+            "left": "Spring",
+            "right": "pleasant, and flowers bloom"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The monsoon in Mumbai begins in",
+            "options": [
+              "June",
+              "December"
+            ],
+            "after": ".",
+            "a": "June"
+          },
+          {
+            "before": "Very heavy rain can cause",
+            "options": [
+              "floods",
+              "sandstorms"
+            ],
+            "after": ".",
+            "a": "floods"
+          },
+          {
+            "before": "Farmers are happy because rain helps their",
+            "options": [
+              "crops",
+              "cars"
+            ],
+            "after": "grow.",
+            "a": "crops"
+          },
+          {
+            "before": "After the rain, the air feels",
+            "options": [
+              "cool",
+              "dusty"
+            ],
+            "after": ".",
+            "a": "cool"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Monsoon winds bring rain to India.",
+            "a": true
+          },
+          {
+            "q": "It is safe to walk in deep flood water.",
+            "a": false
+          },
+          {
+            "q": "Many frogs croak in the rainy season.",
+            "a": true
+          },
+          {
+            "q": "Rain water fills up lakes and wells.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Sneha keeps her school bag dry with a plastic ___.",
+            "a": "cover / bag"
+          },
+          {
+            "q": "Lightning and ___ often come with heavy rain.",
+            "a": "thunder"
+          },
+          {
+            "q": "In India, the ___ season comes after summer.",
+            "a": "monsoon / rainy"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things you like to do on a rainy day.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. jump in puddles, read a book indoors, drink hot soup. Accept any two."
+      }
+    ]
+  },
+  {
+    "id": "weather-07",
+    "topic": "weather",
+    "number": 7,
+    "level": "Practice",
+    "title": "Winter Camp in Manali",
+    "intro": "Arnav and Sophie go to a winter camp in the snowy hills of Manali. It is the coldest trip they have ever taken.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the things.",
+        "marks": 4,
+        "groups": [
+          "For cold weather",
+          "For hot weather"
+        ],
+        "words": [
+          "sandals",
+          "sweater",
+          "air cooler",
+          "cotton T-shirt",
+          "muffler",
+          "straw hat",
+          "quilt",
+          "room heater"
+        ],
+        "a": {
+          "sweater": "For cold weather",
+          "muffler": "For cold weather",
+          "quilt": "For cold weather",
+          "room heater": "For cold weather",
+          "cotton T-shirt": "For hot weather",
+          "sandals": "For hot weather",
+          "air cooler": "For hot weather",
+          "straw hat": "For hot weather"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "In winter, the days are",
+            "options": [
+              "shorter",
+              "longer"
+            ],
+            "after": "than in summer.",
+            "a": "shorter"
+          },
+          {
+            "before": "Water in the pipes can",
+            "options": [
+              "freeze",
+              "boil"
+            ],
+            "after": "on a very cold night.",
+            "a": "freeze"
+          },
+          {
+            "before": "In cold air, our breath looks like",
+            "options": [
+              "mist",
+              "sparks"
+            ],
+            "after": ".",
+            "a": "mist"
+          },
+          {
+            "before": "A hot drink helps to keep us",
+            "options": [
+              "warm",
+              "wet"
+            ],
+            "after": ".",
+            "a": "warm"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Snow falls when it is very cold.",
+            "a": true
+          },
+          {
+            "q": "We should wear thin clothes in the snow.",
+            "a": false
+          },
+          {
+            "q": "Frost can form on grass on cold mornings.",
+            "a": true
+          },
+          {
+            "q": "Heavy snow can close hill roads.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Sophie builds a ___ with a carrot nose.",
+            "a": "snowman"
+          },
+          {
+            "q": "Thick ___ clothes keep us warm.",
+            "a": "woollen / warm"
+          },
+          {
+            "q": "The coldest season of the year is ___.",
+            "a": "winter"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways to keep warm on a cold day.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. wear woollen clothes, drink something hot, sit by a heater, use a quilt."
+      }
+    ]
+  },
+  {
+    "id": "weather-08",
+    "topic": "weather",
+    "number": 8,
+    "level": "Practice",
+    "title": "Summer Holidays in Dubai",
+    "intro": "In August it is very hot in Dubai. Fatima and Ryan find ways to stay cool and safe.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Light-coloured cotton clothes help keep us cool.",
+            "a": true
+          },
+          {
+            "q": "A car left in the sun gets very hot inside.",
+            "a": true
+          },
+          {
+            "q": "We should play outside in the hottest part of the day.",
+            "a": false
+          },
+          {
+            "q": "Sweating helps to cool our body.",
+            "a": true
+          },
+          {
+            "q": "Dark clothes keep us cooler than white clothes in the sun.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Fatima puts on",
+            "options": [
+              "sunscreen",
+              "mittens"
+            ],
+            "after": "before going to the beach.",
+            "a": "sunscreen"
+          },
+          {
+            "before": "The",
+            "options": [
+              "air conditioner",
+              "heater"
+            ],
+            "after": "keeps the room cool.",
+            "a": "air conditioner"
+          },
+          {
+            "before": "Too much heat can make us feel",
+            "options": [
+              "tired",
+              "frozen"
+            ],
+            "after": ".",
+            "a": "tired"
+          },
+          {
+            "before": "Summer in the UAE is",
+            "options": [
+              "long and hot",
+              "short and snowy"
+            ],
+            "after": ".",
+            "a": "long and hot"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "It was 42 degrees on Monday and 45 degrees on Tuesday. Tuesday was ___ degrees hotter.",
+            "a": "3"
+          },
+          {
+            "q": "Fatima drinks 6 glasses of water a day. In 4 days she drinks ___ glasses.",
+            "a": "24"
+          },
+          {
+            "q": "Ryan swims for 20 minutes in the morning and 15 minutes in the evening. He swims ___ minutes a day.",
+            "a": "35"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the problem to what helps.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Feeling thirsty",
+            "right": "drink water"
+          },
+          {
+            "left": "Hot sun on your head",
+            "right": "wear a cap"
+          },
+          {
+            "left": "A hot, sunny room",
+            "right": "close the curtains"
+          },
+          {
+            "left": "Hot sand under your feet",
+            "right": "wear slippers"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things you can do indoors on a very hot day.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. read, play board games, draw, build with blocks. Accept any two."
+      }
+    ]
+  },
+  {
+    "id": "weather-09",
+    "topic": "weather",
+    "number": 9,
+    "level": "Practice",
+    "title": "A Week of Temperatures in Al Ain",
+    "intro": "Noura writes down the temperature at noon each day: Sun 30, Mon 32, Tue 35, Wed 33, Thu 29, Fri 31, Sat 34 degrees.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the temperatures and fill in the blanks.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "The hottest day was ___.",
+            "a": "Tuesday"
+          },
+          {
+            "q": "The coolest day was ___.",
+            "a": "Thursday"
+          },
+          {
+            "q": "Tuesday was ___ degrees hotter than Thursday.",
+            "a": "6"
+          },
+          {
+            "q": "On ___ days it was hotter than 32 degrees.",
+            "a": "3"
+          },
+          {
+            "q": "Saturday was ___ degrees hotter than Sunday.",
+            "a": "4"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Wednesday was",
+            "options": [
+              "warmer",
+              "cooler"
+            ],
+            "after": "than Monday.",
+            "a": "warmer"
+          },
+          {
+            "before": "Friday was",
+            "options": [
+              "cooler",
+              "warmer"
+            ],
+            "after": "than Saturday.",
+            "a": "cooler"
+          },
+          {
+            "before": "From Monday to Tuesday, the temperature went",
+            "options": [
+              "up",
+              "down"
+            ],
+            "after": ".",
+            "a": "up"
+          },
+          {
+            "before": "A bigger number on a thermometer means it is",
+            "options": [
+              "hotter",
+              "colder"
+            ],
+            "after": ".",
+            "a": "hotter"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Sunday and Thursday were both cooler than 31 degrees.",
+            "a": true
+          },
+          {
+            "q": "Every day was hotter than 28 degrees.",
+            "a": true
+          },
+          {
+            "q": "Saturday was the hottest day.",
+            "a": false
+          },
+          {
+            "q": "Two days had the same temperature.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each temperature to how it feels.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "45 degrees",
+            "right": "very hot"
+          },
+          {
+            "left": "25 degrees",
+            "right": "warm and pleasant"
+          },
+          {
+            "left": "10 degrees",
+            "right": "cool"
+          },
+          {
+            "left": "0 degrees",
+            "right": "freezing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "weather-10",
+    "topic": "weather",
+    "number": 10,
+    "level": "Practice",
+    "title": "Rain Stops the Cricket Match",
+    "intro": "Kiaan's team is playing cricket in Kochi when dark clouds gather. Soon the umpires stop the game for rain.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The covers keep the cricket pitch",
+            "options": [
+              "dry",
+              "wet"
+            ],
+            "after": ".",
+            "a": "dry"
+          },
+          {
+            "before": "When the wind gets strong and the sky turns dark, a",
+            "options": [
+              "storm",
+              "rainbow"
+            ],
+            "after": "may come.",
+            "a": "storm"
+          },
+          {
+            "before": "When it rains, the ball gets",
+            "options": [
+              "wet and slippery",
+              "dry and light"
+            ],
+            "after": ".",
+            "a": "wet and slippery"
+          },
+          {
+            "before": "The umpires stop the game when there is",
+            "options": [
+              "lightning",
+              "a light breeze"
+            ],
+            "after": ".",
+            "a": "lightning"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the signs.",
+        "marks": 4,
+        "groups": [
+          "Rain may come",
+          "Fair weather"
+        ],
+        "words": [
+          "white fluffy clouds",
+          "dark clouds",
+          "bright sunshine",
+          "clear blue sky",
+          "thunder rumbles",
+          "a gentle breeze",
+          "a cool, damp wind",
+          "the sky turns grey"
+        ],
+        "a": {
+          "dark clouds": "Rain may come",
+          "thunder rumbles": "Rain may come",
+          "a cool, damp wind": "Rain may come",
+          "the sky turns grey": "Rain may come",
+          "clear blue sky": "Fair weather",
+          "white fluffy clouds": "Fair weather",
+          "bright sunshine": "Fair weather",
+          "a gentle breeze": "Fair weather"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Clouds can be white or grey.",
+            "a": true
+          },
+          {
+            "q": "A cloudy day is always a rainy day.",
+            "a": false
+          },
+          {
+            "q": "Clouds move with the wind.",
+            "a": true
+          },
+          {
+            "q": "It is safe to play cricket in a thunderstorm.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The ground staff pull ___ over the pitch.",
+            "a": "covers / sheets"
+          },
+          {
+            "q": "When the sun comes out, the wet pitch ___.",
+            "a": "dries"
+          },
+          {
+            "q": "The match starts again when the ___ stops.",
+            "a": "rain"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why do players leave the field when there is lightning?",
+        "marks": 2,
+        "lines": 2,
+        "a": "Lightning is dangerous and can strike people in open ground, so they go indoors to be safe."
+      }
+    ]
+  },
+  {
+    "id": "weather-11",
+    "topic": "weather",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Fixing Pranav's Weather Report",
+    "intro": "Pranav read out the weather report in class, but he made some mistakes. Find them and fix them.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is Pranav right? Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "A rain gauge tells us how hot it is.",
+            "a": false
+          },
+          {
+            "q": "A breeze is a gentle wind.",
+            "a": true
+          },
+          {
+            "q": "Fog makes it easy to see far away.",
+            "a": false
+          },
+          {
+            "q": "Thunder is the sound that comes with lightning.",
+            "a": true
+          },
+          {
+            "q": "Hail is made of small balls of ice.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Fix each sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "It is cold and snowy in Dubai in July.",
+            "a": "It is hot and sunny in Dubai in July."
+          },
+          {
+            "q": "A thermometer measures how much rain falls.",
+            "a": "A thermometer measures how hot or cold it is. / A rain gauge measures how much rain falls."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the odd one out.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "sunny",
+              "rainy",
+              "windy",
+              "happy"
+            ],
+            "after": "",
+            "a": "happy"
+          },
+          {
+            "before": "",
+            "options": [
+              "thermometer",
+              "rain gauge",
+              "wind vane",
+              "toothbrush"
+            ],
+            "after": "",
+            "a": "toothbrush"
+          },
+          {
+            "before": "",
+            "options": [
+              "raincoat",
+              "umbrella",
+              "gumboots",
+              "sunglasses"
+            ],
+            "after": "",
+            "a": "sunglasses"
+          },
+          {
+            "before": "",
+            "options": [
+              "summer",
+              "winter",
+              "monsoon",
+              "Monday"
+            ],
+            "after": "",
+            "a": "Monday"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the weather riddles.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "I am a loud boom you hear after a flash in the sky. I am ___.",
+            "a": "thunder"
+          },
+          {
+            "q": "I fall from the sky as soft white flakes. I am ___.",
+            "a": "snow"
+          },
+          {
+            "q": "I spin on a roof and point where the wind blows. I am a wind ___.",
+            "a": "vane"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Pranav says wind is not real because we cannot see it. Is he right? Write why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "No. We cannot see wind, but we can feel it and see it move things like leaves, flags and kites."
+      }
+    ]
+  },
+  {
+    "id": "weather-12",
+    "topic": "weather",
+    "number": 12,
+    "level": "Challenge",
+    "title": "The School Weather Station",
+    "intro": "Class 2 in Sharjah has a weather station on the roof. Each day Mariam and Lucas read the tools and write down the results.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve the problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "November has 30 days. It rained on 3 days and was cloudy on 7 days. It was sunny on ___ days.",
+            "a": "20"
+          },
+          {
+            "q": "The rain gauge showed 4 mm on Monday and 9 mm on Tuesday. That is ___ mm in all.",
+            "a": "13"
+          },
+          {
+            "q": "It was 31 degrees at noon and 24 degrees at night. It got ___ degrees cooler.",
+            "a": "7"
+          },
+          {
+            "q": "The children check the station 2 times a day. In 5 school days that is ___ times.",
+            "a": "10"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each tool to what it tells us.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Thermometer",
+            "right": "how hot or cold it is"
+          },
+          {
+            "left": "Rain gauge",
+            "right": "how much rain fell"
+          },
+          {
+            "left": "Wind vane",
+            "right": "which way the wind blows"
+          },
+          {
+            "left": "Wind cups (anemometer)",
+            "right": "how fast the wind blows"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "If the rain gauge is empty, no rain fell.",
+            "a": true
+          },
+          {
+            "q": "A thermometer reading of 40 degrees means a cool day.",
+            "a": false
+          },
+          {
+            "q": "Weather records help farmers plan their work.",
+            "a": true
+          },
+          {
+            "q": "The wind cups spin faster when the wind is strong.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "More sunny days than rainy days means November was mostly",
+            "options": [
+              "dry",
+              "wet"
+            ],
+            "after": ".",
+            "a": "dry"
+          },
+          {
+            "before": "31 degrees is",
+            "options": [
+              "hotter",
+              "colder"
+            ],
+            "after": "than 24 degrees.",
+            "a": "hotter"
+          },
+          {
+            "before": "To read the air temperature, keep the thermometer in the",
+            "options": [
+              "shade",
+              "hot sun"
+            ],
+            "after": ".",
+            "a": "shade"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why is it useful to know the weather each day?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. To know what to wear, whether to carry an umbrella, and to plan games, trips or farm work."
+      }
+    ]
+  },
+  {
+    "id": "weather-13",
+    "topic": "weather",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Packing for Three Cities",
+    "intro": "In December, Tanya's family visits Shimla, Chennai and Dubai. Shimla is snowy, Chennai is rainy, and Dubai is sunny and pleasant.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort what Tanya packs for each city.",
+        "marks": 6,
+        "groups": [
+          "Shimla",
+          "Chennai",
+          "Dubai"
+        ],
+        "words": [
+          "umbrella",
+          "sun hat",
+          "rain jacket",
+          "woollen jacket",
+          "beach towel",
+          "snow boots",
+          "woolly hat",
+          "waterproof sandals",
+          "light T-shirt"
+        ],
+        "a": {
+          "woollen jacket": "Shimla",
+          "snow boots": "Shimla",
+          "woolly hat": "Shimla",
+          "umbrella": "Chennai",
+          "rain jacket": "Chennai",
+          "waterproof sandals": "Chennai",
+          "sun hat": "Dubai",
+          "light T-shirt": "Dubai",
+          "beach towel": "Dubai"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Shimla is cold because it is high up in the",
+            "options": [
+              "mountains",
+              "sea"
+            ],
+            "after": ".",
+            "a": "mountains"
+          },
+          {
+            "before": "Chennai is near the sea, so the air feels",
+            "options": [
+              "damp",
+              "snowy"
+            ],
+            "after": ".",
+            "a": "damp"
+          },
+          {
+            "before": "The coldest of the three cities is",
+            "options": [
+              "Shimla",
+              "Dubai"
+            ],
+            "after": ".",
+            "a": "Shimla"
+          },
+          {
+            "before": "In December, Dubai is",
+            "options": [
+              "cooler",
+              "hotter"
+            ],
+            "after": "than in August.",
+            "a": "cooler"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "It is 2 degrees in Shimla and 25 degrees in Dubai. Dubai is ___ degrees warmer.",
+            "a": "23"
+          },
+          {
+            "q": "Tanya packs 3 T-shirts for each city. For 3 cities she packs ___ T-shirts.",
+            "a": "9"
+          },
+          {
+            "q": "It rained on 4 of their 7 days in Chennai. ___ days were dry.",
+            "a": "3"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Different places can have different weather on the same day.",
+            "a": true
+          },
+          {
+            "q": "Tanya needs thick woollens in all three cities.",
+            "a": false
+          },
+          {
+            "q": "An umbrella is useful in rainy Chennai.",
+            "a": true
+          },
+          {
+            "q": "Snow falls on Dubai's city streets in December.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which city would you visit in December? Write what you would pack.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Shimla; I would pack a woollen jacket, gloves and snow boots. Check the things suit that city's weather."
+      }
+    ]
+  },
+  {
+    "id": "weather-14",
+    "topic": "weather",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Thunderstorm Safety at Home",
+    "intro": "A big thunderstorm hits Bhopal one evening. Ira and her little brother Leo learn how to stay safe.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the actions.",
+        "marks": 4,
+        "groups": [
+          "Safe in a storm",
+          "Not safe in a storm"
+        ],
+        "words": [
+          "swim in a lake",
+          "unplug the TV",
+          "hold a metal pole",
+          "fly a kite",
+          "stay away from windows",
+          "shelter under a lone tree",
+          "keep a torch ready",
+          "get out of the pool"
+        ],
+        "a": {
+          "unplug the TV": "Safe in a storm",
+          "stay away from windows": "Safe in a storm",
+          "keep a torch ready": "Safe in a storm",
+          "get out of the pool": "Safe in a storm",
+          "fly a kite": "Not safe in a storm",
+          "swim in a lake": "Not safe in a storm",
+          "hold a metal pole": "Not safe in a storm",
+          "shelter under a lone tree": "Not safe in a storm"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Think and circle the answer.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "We see lightning before we hear thunder because light travels",
+            "options": [
+              "faster",
+              "slower"
+            ],
+            "after": "than sound.",
+            "a": "faster"
+          },
+          {
+            "before": "If the thunder comes right after the flash, the storm is",
+            "options": [
+              "close",
+              "far away"
+            ],
+            "after": ".",
+            "a": "close"
+          },
+          {
+            "before": "Lightning often strikes",
+            "options": [
+              "tall things",
+              "small stones"
+            ],
+            "after": ".",
+            "a": "tall things"
+          },
+          {
+            "before": "Strong winds in a storm can blow down",
+            "options": [
+              "trees",
+              "mountains"
+            ],
+            "after": ".",
+            "a": "trees"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A car with its windows shut is a safe place in a storm.",
+            "a": true
+          },
+          {
+            "q": "The sound of thunder can hurt you.",
+            "a": false
+          },
+          {
+            "q": "Touching switches with wet hands is dangerous.",
+            "a": true
+          },
+          {
+            "q": "Hail can fall during a thunderstorm.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ira counts 3 seconds between the flash and the boom. Next time she counts 6. The storm is moving ___.",
+            "a": "away"
+          },
+          {
+            "q": "The storm started at 6 o'clock and ended at 8 o'clock. It lasted ___ hours.",
+            "a": "2"
+          },
+          {
+            "q": "Leo counted 4 flashes, then 5, then 3. He saw ___ flashes in all.",
+            "a": "12"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Leo is scared of thunder. What would you tell him?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Thunder is only a sound and cannot hurt you; we are safe inside the house."
+      }
+    ]
+  },
+  {
+    "id": "weather-15",
+    "topic": "weather",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Weather Riddles at the Science Club",
+    "intro": "Mr Khan's science club plays a weather riddle game. Amira and Josh take turns to answer.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve the riddles.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "I am cold balls of ice that bounce on the roof. I am ___.",
+            "a": "hail"
+          },
+          {
+            "q": "I make kites fly and windmills turn, but no one can see me. I am the ___.",
+            "a": "wind"
+          },
+          {
+            "q": "I am the rainy season in India. I am the ___.",
+            "a": "monsoon"
+          },
+          {
+            "q": "I am the tool that tells how hot it is. I am a ___.",
+            "a": "thermometer"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the opposite.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "hot",
+            "a": "cold"
+          },
+          {
+            "q": "wet",
+            "a": "dry"
+          },
+          {
+            "q": "summer",
+            "a": "winter"
+          },
+          {
+            "q": "windy",
+            "a": "calm / still"
+          },
+          {
+            "q": "heavy rain",
+            "a": "light rain"
+          },
+          {
+            "q": "sunrise",
+            "a": "sunset"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Think and circle the answer.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "If the thermometer goes from 20 to 30 degrees, it is getting",
+            "options": [
+              "warmer",
+              "colder"
+            ],
+            "after": ".",
+            "a": "warmer"
+          },
+          {
+            "before": "A cyclone is a very strong",
+            "options": [
+              "storm",
+              "breeze"
+            ],
+            "after": ".",
+            "a": "storm"
+          },
+          {
+            "before": "The usual weather of a place over many years is its",
+            "options": [
+              "climate",
+              "forecast"
+            ],
+            "after": ".",
+            "a": "climate"
+          },
+          {
+            "before": "A cloud that touches the ground is called",
+            "options": [
+              "fog",
+              "hail"
+            ],
+            "after": ".",
+            "a": "fog"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The UAE gets most of its rain in winter.",
+            "a": true
+          },
+          {
+            "q": "To see a rainbow, the sun should be behind you and the rain in front.",
+            "a": true
+          },
+          {
+            "q": "The weather never changes.",
+            "a": false
+          },
+          {
+            "q": "Warm air rises.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write your own weather riddle.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. I am white and fluffy and I float in the sky. What am I? (a cloud)"
+      }
+    ]
   }
 ]

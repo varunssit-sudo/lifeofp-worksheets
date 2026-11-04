@@ -615,5 +615,1186 @@
         "a": "Any two, e.g. give milk or eggs, carry loads, pull carts, guard homes, give wool."
       }
     ]
+  },
+  {
+    "id": "animals-around-us-06",
+    "topic": "animals-around-us",
+    "number": 6,
+    "level": "Practice",
+    "title": "The Pushkar Camel Fair",
+    "intro": "Bhavya and her uncle visit the camel fair in Rajasthan. Farmers bring many animals to show.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the animal to how it helps the farmer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "camel",
+            "right": "carries goods across the sand"
+          },
+          {
+            "left": "bullock",
+            "right": "pulls a heavy cart"
+          },
+          {
+            "left": "buffalo",
+            "right": "gives thick milk"
+          },
+          {
+            "left": "horse",
+            "right": "people ride it in races"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Camels can go many days without drinking water.",
+            "a": true
+          },
+          {
+            "q": "A camel's hump is full of water.",
+            "a": false
+          },
+          {
+            "q": "Farm animals get food, water and shelter from people.",
+            "a": true
+          },
+          {
+            "q": "Buffaloes like to cool off in water.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The camel kneels down so people can",
+            "options": [
+              "climb on",
+              "swim"
+            ],
+            "after": ".",
+            "a": "climb on"
+          },
+          {
+            "before": "A camel has long eyelashes to keep out the",
+            "options": [
+              "sand",
+              "rain"
+            ],
+            "after": ".",
+            "a": "sand"
+          },
+          {
+            "before": "Bullocks and camels are",
+            "options": [
+              "domestic",
+              "wild"
+            ],
+            "after": "animals.",
+            "a": "domestic"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the animals.",
+        "marks": 8,
+        "groups": [
+          "Domestic",
+          "Wild"
+        ],
+        "words": [
+          "pony",
+          "nilgai",
+          "camel",
+          "bullock",
+          "desert fox",
+          "buffalo",
+          "blackbuck",
+          "wild boar"
+        ],
+        "a": {
+          "camel": "Domestic",
+          "bullock": "Domestic",
+          "buffalo": "Domestic",
+          "pony": "Domestic",
+          "blackbuck": "Wild",
+          "desert fox": "Wild",
+          "nilgai": "Wild",
+          "wild boar": "Wild"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Write two things farmers get from their animals.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. milk, wool, ghee, help to pull carts or carry loads."
+      }
+    ]
+  },
+  {
+    "id": "animals-around-us-07",
+    "topic": "animals-around-us",
+    "number": 7,
+    "level": "Practice",
+    "title": "Round the Pond Park in Al Barsha",
+    "intro": "Mehak and Jack walk round the park pond in Dubai. They see animals fly, swim, hop and crawl.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort by how they move.",
+        "marks": 9,
+        "groups": [
+          "Fly",
+          "Swim",
+          "Crawl"
+        ],
+        "words": [
+          "whale",
+          "dragonfly",
+          "caterpillar",
+          "butterfly",
+          "earthworm",
+          "tadpole",
+          "fish",
+          "snail",
+          "sparrow"
+        ],
+        "a": {
+          "sparrow": "Fly",
+          "butterfly": "Fly",
+          "dragonfly": "Fly",
+          "fish": "Swim",
+          "tadpole": "Swim",
+          "whale": "Swim",
+          "snail": "Crawl",
+          "caterpillar": "Crawl",
+          "earthworm": "Crawl"
+        }
+      },
+      {
+        "type": "match",
+        "title": "Match the animal to how it moves.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "kangaroo",
+            "right": "hops on two strong legs"
+          },
+          {
+            "left": "snake",
+            "right": "slides on its belly"
+          },
+          {
+            "left": "horse",
+            "right": "gallops on four legs"
+          },
+          {
+            "left": "monkey",
+            "right": "swings from branch to branch"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Some animals can both swim and fly, like a duck.",
+            "a": true
+          },
+          {
+            "q": "A snake has many legs.",
+            "a": false
+          },
+          {
+            "q": "A fish uses its fins to swim.",
+            "a": true
+          },
+          {
+            "q": "A frog can hop on land and swim in water.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with: wings, fins, legs.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Birds fly with their ___.",
+            "a": "wings"
+          },
+          {
+            "q": "Fish swim with their ___.",
+            "a": "fins"
+          },
+          {
+            "q": "A cat walks on four ___.",
+            "a": "legs"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one animal that can move in two ways.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. A duck swims and flies. A frog hops and swims."
+      }
+    ]
+  },
+  {
+    "id": "animals-around-us-08",
+    "topic": "animals-around-us",
+    "number": 8,
+    "level": "Practice",
+    "title": "Lunch Time at the Zoo",
+    "intro": "Tanvi and Felix watch the keepers feed the animals at the zoo in Lucknow.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort: what does it eat?",
+        "marks": 9,
+        "groups": [
+          "Plant eaters",
+          "Flesh eaters",
+          "Eat both"
+        ],
+        "words": [
+          "eagle",
+          "elephant",
+          "crow",
+          "giraffe",
+          "hen",
+          "crocodile",
+          "tiger",
+          "bear",
+          "deer"
+        ],
+        "a": {
+          "deer": "Plant eaters",
+          "giraffe": "Plant eaters",
+          "elephant": "Plant eaters",
+          "tiger": "Flesh eaters",
+          "crocodile": "Flesh eaters",
+          "eagle": "Flesh eaters",
+          "bear": "Eat both",
+          "crow": "Eat both",
+          "hen": "Eat both"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A deer eats grass and leaves.",
+            "a": true
+          },
+          {
+            "q": "A tiger eats only plants.",
+            "a": false
+          },
+          {
+            "q": "Animals that eat other animals are called flesh eaters.",
+            "a": true
+          },
+          {
+            "q": "A bear eats fruit, honey and fish.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A cow is a",
+            "options": [
+              "plant eater",
+              "flesh eater"
+            ],
+            "after": ".",
+            "a": "plant eater"
+          },
+          {
+            "before": "A lion has sharp",
+            "options": [
+              "teeth",
+              "beaks"
+            ],
+            "after": "to tear meat.",
+            "a": "teeth"
+          },
+          {
+            "before": "A goat has flat teeth to chew",
+            "options": [
+              "grass",
+              "bones"
+            ],
+            "after": ".",
+            "a": "grass"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with: meat, leaves, both.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The keeper gives the tiger ___ for lunch.",
+            "a": "meat"
+          },
+          {
+            "q": "The giraffe eats ___ from tall trees.",
+            "a": "leaves"
+          },
+          {
+            "q": "A crow eats plants and small animals, so it eats ___.",
+            "a": "both"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two foods that a plant eater might eat.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. grass, leaves, fruit, seeds, hay, vegetables."
+      }
+    ]
+  },
+  {
+    "id": "animals-around-us-09",
+    "topic": "animals-around-us",
+    "number": 9,
+    "level": "Practice",
+    "title": "The Insect Hunt at Lalbagh",
+    "intro": "Pranav and Yuki look for small animals in a garden in Bengaluru with a magnifying glass.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "An insect has six legs.",
+            "a": true
+          },
+          {
+            "q": "A spider is an insect.",
+            "a": false
+          },
+          {
+            "q": "A spider has eight legs.",
+            "a": true
+          },
+          {
+            "q": "A butterfly is an insect.",
+            "a": true
+          },
+          {
+            "q": "Many insects have wings.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the small animals.",
+        "marks": 8,
+        "groups": [
+          "Insects",
+          "Not insects"
+        ],
+        "words": [
+          "ladybird",
+          "snail",
+          "ant",
+          "butterfly",
+          "earthworm",
+          "grasshopper",
+          "spider",
+          "centipede"
+        ],
+        "a": {
+          "ant": "Insects",
+          "butterfly": "Insects",
+          "grasshopper": "Insects",
+          "ladybird": "Insects",
+          "spider": "Not insects",
+          "earthworm": "Not insects",
+          "snail": "Not insects",
+          "centipede": "Not insects"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A caterpillar grows into a",
+            "options": [
+              "butterfly",
+              "spider"
+            ],
+            "after": ".",
+            "a": "butterfly"
+          },
+          {
+            "before": "A ladybird is red with black",
+            "options": [
+              "spots",
+              "stripes"
+            ],
+            "after": ".",
+            "a": "spots"
+          },
+          {
+            "before": "A grasshopper moves by",
+            "options": [
+              "jumping",
+              "swimming"
+            ],
+            "after": ".",
+            "a": "jumping"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Yuki looks at the ant through a ___ glass.",
+            "a": "magnifying"
+          },
+          {
+            "q": "The ___ spins a web to catch flies.",
+            "a": "spider"
+          },
+          {
+            "q": "We should look at insects gently and not ___ them.",
+            "a": "hurt / squash / kill"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name one insect that helps us and write how.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. A bee gives us honey. A silkworm gives us silk."
+      }
+    ]
+  },
+  {
+    "id": "animals-around-us-10",
+    "topic": "animals-around-us",
+    "number": 10,
+    "level": "Practice",
+    "title": "Fur and Feathers at the Petting Farm",
+    "intro": "Class 2 in Fujairah visits a small petting farm. The children gently touch the animals.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the animal to its body covering.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "sheep",
+            "right": "thick wool"
+          },
+          {
+            "left": "parrot",
+            "right": "feathers"
+          },
+          {
+            "left": "crocodile",
+            "right": "hard scaly skin"
+          },
+          {
+            "left": "tortoise",
+            "right": "hard shell"
+          },
+          {
+            "left": "rabbit",
+            "right": "soft fur"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort by body covering.",
+        "marks": 9,
+        "groups": [
+          "Fur or hair",
+          "Feathers",
+          "Scales"
+        ],
+        "words": [
+          "owl",
+          "camel",
+          "lizard",
+          "goat",
+          "goldfish",
+          "peacock",
+          "duck",
+          "snake",
+          "cat"
+        ],
+        "a": {
+          "cat": "Fur or hair",
+          "goat": "Fur or hair",
+          "camel": "Fur or hair",
+          "duck": "Feathers",
+          "peacock": "Feathers",
+          "owl": "Feathers",
+          "snake": "Scales",
+          "lizard": "Scales",
+          "goldfish": "Scales"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Fur helps to keep animals warm.",
+            "a": true
+          },
+          {
+            "q": "Only birds have feathers.",
+            "a": true
+          },
+          {
+            "q": "A snake has fur.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A camel has a coat of rough ___.",
+            "a": "hair / fur"
+          },
+          {
+            "q": "The children wash their ___ after touching the animals.",
+            "a": "hands"
+          },
+          {
+            "q": "A goat has a short beard and two ___ on its head.",
+            "a": "horns"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which animal would you like to touch? Write how it feels.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"A rabbit. It feels soft.\""
+      }
+    ]
+  },
+  {
+    "id": "animals-around-us-11",
+    "topic": "animals-around-us",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Wildlife Club Meeting",
+    "intro": "Pooja's school wildlife club in Kolkata makes animal riddles. Can you solve them?",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve the riddle.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "I am a pet. I have long ears and I hop. I am a ___.",
+            "a": "rabbit"
+          },
+          {
+            "q": "I am wild. I have a very long neck and eat leaves. I am a ___.",
+            "a": "giraffe"
+          },
+          {
+            "q": "I live on a farm. I give milk and I say moo. I am a ___.",
+            "a": "cow"
+          },
+          {
+            "q": "I am wild. I have black and white stripes and eat grass. I am a ___.",
+            "a": "zebra"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the odd one out.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The wild animal in this group is the",
+            "options": [
+              "cow",
+              "goat",
+              "fox"
+            ],
+            "after": ".",
+            "a": "fox"
+          },
+          {
+            "before": "The one that is not a plant eater is the",
+            "options": [
+              "deer",
+              "wolf",
+              "horse"
+            ],
+            "after": ".",
+            "a": "wolf"
+          },
+          {
+            "before": "The one that does not live on a farm is the",
+            "options": [
+              "hen",
+              "duck",
+              "panda"
+            ],
+            "after": ".",
+            "a": "panda"
+          },
+          {
+            "before": "The one without fur is the",
+            "options": [
+              "cat",
+              "lizard",
+              "dog"
+            ],
+            "after": ".",
+            "a": "lizard"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Why should we not keep a tiger as a pet?",
+            "a": "e.g. It is wild and dangerous, and it needs a forest to live in."
+          },
+          {
+            "q": "A cow and a deer both eat grass. Why is one domestic and one wild?",
+            "a": "e.g. People keep and care for the cow, but the deer lives on its own in the forest."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Is it true? Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "All animals that eat meat are wild.",
+            "a": false
+          },
+          {
+            "q": "A dog can be a pet and a guard.",
+            "a": true
+          },
+          {
+            "q": "Some wild animals, like crows, live in cities.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write your own riddle about an animal.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"I am a pet. I purr and drink milk. Who am I?\" (a cat)"
+      }
+    ]
+  },
+  {
+    "id": "animals-around-us-12",
+    "topic": "animals-around-us",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Sheep Shearing Day in Himachal",
+    "intro": "Dolma's family cuts the wool from their sheep each spring in Kullu. Then the wool is made into shawls.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Put the steps in order. Write 1, 2, 3, 4.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The wool is spun into yarn.   The sheep's wool is cut.   A shawl is woven.   The wool is washed.",
+            "a": "3, 1, 4, 2 (cut the wool, wash it, spin it, weave the shawl)"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the animal product to what we make from it.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "milk",
+            "right": "ghee"
+          },
+          {
+            "left": "wool",
+            "right": "shawl"
+          },
+          {
+            "left": "silk",
+            "right": "sari"
+          },
+          {
+            "left": "egg",
+            "right": "omelette"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Cutting a sheep's wool does not hurt it, just like a haircut.",
+            "a": true
+          },
+          {
+            "q": "The wool grows back on the sheep.",
+            "a": true
+          },
+          {
+            "q": "Silk comes from the cocoon of a silkworm.",
+            "a": true
+          },
+          {
+            "q": "We get wool only from sheep.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Follow the steps. Circle the answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Cow, milk, curd. Curd comes from the milk of a",
+            "options": [
+              "cow",
+              "hen"
+            ],
+            "after": ".",
+            "a": "cow"
+          },
+          {
+            "before": "Hen, egg, cake. The cake needs an",
+            "options": [
+              "egg",
+              "orange"
+            ],
+            "after": ".",
+            "a": "egg"
+          },
+          {
+            "before": "Silkworm, silk, sari. With no silkworms there would be no",
+            "options": [
+              "silk",
+              "milk"
+            ],
+            "after": ".",
+            "a": "silk"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing in your home that comes from an animal.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. a woollen sweater, ghee, honey, a silk scarf."
+      }
+    ]
+  },
+  {
+    "id": "animals-around-us-13",
+    "topic": "animals-around-us",
+    "number": 13,
+    "level": "Challenge",
+    "title": "The Street Animals of Old Delhi",
+    "intro": "Ayesha and her cousin Ryan walk through busy lanes. They see cows, dogs, monkeys and squirrels.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the animals in the lanes.",
+        "marks": 8,
+        "groups": [
+          "Domestic",
+          "Wild"
+        ],
+        "words": [
+          "horse",
+          "crow",
+          "cow",
+          "dog",
+          "squirrel",
+          "goat",
+          "monkey",
+          "mongoose"
+        ],
+        "a": {
+          "cow": "Domestic",
+          "dog": "Domestic",
+          "goat": "Domestic",
+          "horse": "Domestic",
+          "monkey": "Wild",
+          "squirrel": "Wild",
+          "crow": "Wild",
+          "mongoose": "Wild"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Ayesha says these things. Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Monkeys in the city are still wild animals.",
+            "a": true
+          },
+          {
+            "q": "We should feed street monkeys chips and biscuits.",
+            "a": false
+          },
+          {
+            "q": "A street dog may bite if we tease it.",
+            "a": true
+          },
+          {
+            "q": "Cows on the road should be given plastic bags to eat.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Ryan made a mistake. Write it correctly.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "A crow is a domestic animal.",
+            "a": "A crow is a wild animal."
+          },
+          {
+            "q": "A pigeon has four legs.",
+            "a": "A pigeon has two legs."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "When a monkey comes near, Ryan should",
+            "options": [
+              "stay calm",
+              "shout and run"
+            ],
+            "after": ".",
+            "a": "stay calm"
+          },
+          {
+            "before": "A cow standing on a busy road is",
+            "options": [
+              "in danger",
+              "a pet"
+            ],
+            "after": ".",
+            "a": "in danger"
+          },
+          {
+            "before": "Street dogs need water most in",
+            "options": [
+              "summer",
+              "winter"
+            ],
+            "after": ".",
+            "a": "summer"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way to stay safe around street animals.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. Do not tease them, do not feed monkeys, keep a safe distance."
+      }
+    ]
+  },
+  {
+    "id": "animals-around-us-14",
+    "topic": "animals-around-us",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Class Animal Chart",
+    "intro": "Zayed and Chloe make an animal chart for their classroom in Abu Dhabi. Some facts are wrong.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Correct the fact. Write it again.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A puppy is the young one of a cat.",
+            "a": "A puppy is the young one of a dog. / A kitten is the young one of a cat."
+          },
+          {
+            "q": "A hen gives us wool.",
+            "a": "A hen gives us eggs."
+          },
+          {
+            "q": "A zebra is a pet animal.",
+            "a": "A zebra is a wild animal."
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the young one.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "horse",
+            "a": "foal"
+          },
+          {
+            "q": "lion",
+            "a": "cub"
+          },
+          {
+            "q": "frog",
+            "a": "tadpole"
+          },
+          {
+            "q": "kangaroo",
+            "a": "joey"
+          },
+          {
+            "q": "deer",
+            "a": "fawn"
+          },
+          {
+            "q": "pig",
+            "a": "piglet"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A tadpole lives in water.",
+            "a": true
+          },
+          {
+            "q": "A kangaroo carries its joey in a pouch.",
+            "a": true
+          },
+          {
+            "q": "A cub grows up to be a lion or a tiger.",
+            "a": true
+          },
+          {
+            "q": "A fawn is a baby goat.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The animal that is both a pet and a helper is the",
+            "options": [
+              "dog",
+              "tiger"
+            ],
+            "after": ".",
+            "a": "dog"
+          },
+          {
+            "before": "An animal that is kept on a farm is a",
+            "options": [
+              "domestic",
+              "wild"
+            ],
+            "after": "animal.",
+            "a": "domestic"
+          },
+          {
+            "before": "A wild cat of the UAE desert is the",
+            "options": [
+              "sand cat",
+              "house cat"
+            ],
+            "after": ".",
+            "a": "sand cat"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Add one true fact about any animal to the chart.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"A camel can go many days without water.\""
+      }
+    ]
+  },
+  {
+    "id": "animals-around-us-15",
+    "topic": "animals-around-us",
+    "number": 15,
+    "level": "Challenge",
+    "title": "The Arabian Wildlife Centre in Sharjah",
+    "intro": "Hessa and Aditya see rare desert animals. A keeper tells them these animals need our help.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the desert animal to a fact.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Arabian oryx",
+            "right": "white antelope with long straight horns"
+          },
+          {
+            "left": "falcon",
+            "right": "national bird of the UAE"
+          },
+          {
+            "left": "Arabian leopard",
+            "right": "rare spotted big cat of the mountains"
+          },
+          {
+            "left": "gazelle",
+            "right": "fast runner with thin legs"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The Arabian oryx was once almost gone from the wild.",
+            "a": true
+          },
+          {
+            "q": "Hunting can make animals disappear.",
+            "a": true
+          },
+          {
+            "q": "Wild animals in danger need safe places to live.",
+            "a": true
+          },
+          {
+            "q": "We should take wild animals home as pets.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A falcon catches its food with its sharp",
+            "options": [
+              "claws",
+              "fins"
+            ],
+            "after": ".",
+            "a": "claws"
+          },
+          {
+            "before": "The oryx can live in the hot",
+            "options": [
+              "desert",
+              "sea"
+            ],
+            "after": ".",
+            "a": "desert"
+          },
+          {
+            "before": "We protect wild animals by keeping their homes",
+            "options": [
+              "safe",
+              "dirty"
+            ],
+            "after": ".",
+            "a": "safe"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Why are wildlife centres important?",
+            "a": "e.g. They keep rare animals safe and help them have babies."
+          },
+          {
+            "q": "Write one way you can help wild animals.",
+            "a": "e.g. Do not litter, plant trees, never buy things made from wild animals."
+          }
+        ]
+      }
+    ]
   }
 ]

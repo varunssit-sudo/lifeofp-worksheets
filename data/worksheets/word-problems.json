@@ -616,5 +616,1217 @@
         ]
       }
     ]
+  },
+  {
+    "id": "word-problems-06",
+    "topic": "word-problems",
+    "number": 6,
+    "level": "Practice",
+    "title": "The Stationery Shop",
+    "intro": "Jiya and her brother Neil buy school things at a stationery shop in Lucknow before the new term.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve the shop problems.",
+        "items": [
+          {
+            "q": "A pencil box costs ₹65 and a ruler costs ₹18. Together they cost ₹___.",
+            "a": "83"
+          },
+          {
+            "q": "The shop had 140 notebooks. It sold 56. ___ notebooks are left.",
+            "a": "84"
+          },
+          {
+            "q": "Each pack has 6 crayons. Jiya buys 4 packs. She has ___ crayons.",
+            "a": "24"
+          },
+          {
+            "q": "Neil has ₹50. An eraser costs ₹7. He has ₹___ left.",
+            "a": "43"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "choice",
+        "title": "Circle add, subtract or multiply.",
+        "items": [
+          {
+            "before": "3 boxes with 10 pens each. How many pens?",
+            "options": [
+              "add",
+              "subtract",
+              "multiply"
+            ],
+            "after": "",
+            "a": "multiply"
+          },
+          {
+            "before": "Neil had 25 stickers. He gave 9 to Jiya. How many are left?",
+            "options": [
+              "add",
+              "subtract",
+              "multiply"
+            ],
+            "after": "",
+            "a": "subtract"
+          },
+          {
+            "before": "Jiya has 12 red beads and 15 blue beads. How many beads?",
+            "options": [
+              "add",
+              "subtract",
+              "multiply"
+            ],
+            "after": "",
+            "a": "add"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "column",
+        "title": "Work out each sum.",
+        "items": [
+          {
+            "top": "238",
+            "op": "+",
+            "bottom": "154",
+            "a": "392"
+          },
+          {
+            "top": "405",
+            "op": "-",
+            "bottom": "167",
+            "a": "238"
+          },
+          {
+            "top": "14",
+            "op": "×",
+            "bottom": "2",
+            "a": "28"
+          },
+          {
+            "top": "21",
+            "op": "×",
+            "bottom": "4",
+            "a": "84"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "'How many more' tells us to subtract.",
+            "a": true
+          },
+          {
+            "q": "'Each' always means we add.",
+            "a": false
+          },
+          {
+            "q": "3 packs of 5 pens make 15 pens.",
+            "a": true
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the number sentence and the answer.",
+        "items": [
+          {
+            "q": "A shelf has 48 glue sticks. The shopkeeper puts 35 more. How many glue sticks are on the shelf now?",
+            "a": "48 + 35 = 83 glue sticks"
+          }
+        ],
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "word-problems-07",
+    "topic": "word-problems",
+    "number": 7,
+    "level": "Practice",
+    "title": "Mango Picking at the Orchard",
+    "intro": "Sakshi visits her uncle's mango orchard in Ratnagiri. Everyone helps to pick and pack the mangoes.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve the orchard problems.",
+        "items": [
+          {
+            "q": "Uncle picks 8 mangoes from each of 5 trees. He picks ___ mangoes.",
+            "a": "40"
+          },
+          {
+            "q": "Sakshi picks 37 mangoes. Her cousin picks 46. They pick ___ in all.",
+            "a": "83"
+          },
+          {
+            "q": "A crate had 90 mangoes. 28 were sold. ___ mangoes are left.",
+            "a": "62"
+          },
+          {
+            "q": "Each box holds 10 mangoes. 6 boxes hold ___ mangoes.",
+            "a": "60"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "match",
+        "title": "Match the problem to its answer.",
+        "items": [
+          {
+            "left": "7 baskets of 3 mangoes",
+            "right": "21"
+          },
+          {
+            "left": "55 mangoes take away 30",
+            "right": "25"
+          },
+          {
+            "left": "16 mangoes and 18 mangoes",
+            "right": "34"
+          },
+          {
+            "left": "4 rows of 9 trees",
+            "right": "36"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "pairs",
+        "title": "Write the answer.",
+        "items": [
+          {
+            "q": "63 + 29",
+            "a": "92"
+          },
+          {
+            "q": "81 − 47",
+            "a": "34"
+          },
+          {
+            "q": "5 × 8",
+            "a": "40"
+          },
+          {
+            "q": "72 + 19",
+            "a": "91"
+          },
+          {
+            "q": "100 − 36",
+            "a": "64"
+          },
+          {
+            "q": "3 × 9",
+            "a": "27"
+          }
+        ],
+        "marks": 6
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "8 + 8 + 8 is the same as 3 × 8.",
+            "a": true
+          },
+          {
+            "q": "If 45 mangoes fall and 12 are picked up, 33 are still on the ground.",
+            "a": true
+          },
+          {
+            "q": "4 × 6 = 46",
+            "a": false
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the number sentence and the answer.",
+        "items": [
+          {
+            "q": "There are 6 mango trees. Each tree gives 9 mangoes. How many mangoes in all?",
+            "a": "6 × 9 = 54 mangoes"
+          }
+        ],
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "word-problems-08",
+    "topic": "word-problems",
+    "number": 8,
+    "level": "Practice",
+    "title": "The School Bake Sale",
+    "intro": "Class 2 holds a bake sale to raise money for the school garden. Every price is in rupees.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Add or subtract.",
+        "items": [
+          {
+            "top": "125",
+            "op": "+",
+            "bottom": "98",
+            "a": "223"
+          },
+          {
+            "top": "250",
+            "op": "-",
+            "bottom": "136",
+            "a": "114"
+          },
+          {
+            "top": "367",
+            "op": "+",
+            "bottom": "245",
+            "a": "612"
+          },
+          {
+            "top": "500",
+            "op": "-",
+            "bottom": "283",
+            "a": "217"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "fill",
+        "title": "Solve the bake sale problems.",
+        "items": [
+          {
+            "q": "A cupcake costs ₹15. Ria buys 3 cupcakes. She pays ₹___.",
+            "a": "45"
+          },
+          {
+            "q": "Class 2A made ₹245 and Class 2B made ₹278. They made ₹___ together.",
+            "a": "523"
+          },
+          {
+            "q": "Arjun had ₹100. He spent ₹45 on brownies. He has ₹___ left.",
+            "a": "55"
+          },
+          {
+            "q": "There were 64 cookies. 39 were sold. ___ cookies were not sold.",
+            "a": "25"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right number sentence.",
+        "items": [
+          {
+            "before": "5 plates with 4 muffins on each. How many muffins?",
+            "options": [
+              "5 × 4",
+              "5 + 4",
+              "5 − 4"
+            ],
+            "after": "",
+            "a": "5 × 4"
+          },
+          {
+            "before": "80 biscuits. 25 were eaten. How many are left?",
+            "options": [
+              "80 + 25",
+              "80 − 25",
+              "80 × 25"
+            ],
+            "after": "",
+            "a": "80 − 25"
+          },
+          {
+            "before": "36 lemon tarts and 27 jam tarts. How many tarts?",
+            "options": [
+              "36 − 27",
+              "36 + 27",
+              "36 × 27"
+            ],
+            "after": "",
+            "a": "36 + 27"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "3 cupcakes at ₹15 each cost ₹45.",
+            "a": true
+          },
+          {
+            "q": "₹100 − ₹45 = ₹65",
+            "a": false
+          },
+          {
+            "q": "'Altogether' tells us to add.",
+            "a": true
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the number sentence and the answer.",
+        "items": [
+          {
+            "q": "The class wants ₹600 for the garden. They have made ₹523. How much more do they need?",
+            "a": "600 − 523 = 77 rupees / ₹77"
+          }
+        ],
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "word-problems-09",
+    "topic": "word-problems",
+    "number": 9,
+    "level": "Practice",
+    "title": "Buses for the Zoo Trip",
+    "intro": "Class 2 goes to Al Ain Zoo. Ms Kapoor counts children, buses and tickets.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve the zoo trip problems.",
+        "items": [
+          {
+            "q": "There are 3 buses. Each bus has 40 seats. There are ___ seats.",
+            "a": "120"
+          },
+          {
+            "q": "112 children go on the trip. 9 teachers go too. That is ___ people.",
+            "a": "121"
+          },
+          {
+            "q": "The giraffes had 75 leaves. They ate 48. ___ leaves are left.",
+            "a": "27"
+          },
+          {
+            "q": "Each tiger eats 5 kg of meat. 4 tigers eat ___ kg.",
+            "a": "20"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "choice",
+        "title": "Circle add, subtract or multiply.",
+        "items": [
+          {
+            "before": "There are 6 cages with 2 parrots in each. How many parrots?",
+            "options": [
+              "add",
+              "subtract",
+              "multiply"
+            ],
+            "after": "",
+            "a": "multiply"
+          },
+          {
+            "before": "A lion sleeps 18 hours. A cat sleeps 14 hours. How many more hours does the lion sleep?",
+            "options": [
+              "add",
+              "subtract",
+              "multiply"
+            ],
+            "after": "",
+            "a": "subtract"
+          },
+          {
+            "before": "There are 23 zebras and 19 deer. How many animals?",
+            "options": [
+              "add",
+              "subtract",
+              "multiply"
+            ],
+            "after": "",
+            "a": "add"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "column",
+        "title": "Work out each sum.",
+        "items": [
+          {
+            "top": "23",
+            "op": "×",
+            "bottom": "3",
+            "a": "69"
+          },
+          {
+            "top": "112",
+            "op": "+",
+            "bottom": "89",
+            "a": "201"
+          },
+          {
+            "top": "240",
+            "op": "-",
+            "bottom": "175",
+            "a": "65"
+          },
+          {
+            "top": "32",
+            "op": "×",
+            "bottom": "3",
+            "a": "96"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "match",
+        "title": "Match the problem to its answer.",
+        "items": [
+          {
+            "left": "6 cages of 2 parrots",
+            "right": "12"
+          },
+          {
+            "left": "18 hours − 14 hours",
+            "right": "4 hours"
+          },
+          {
+            "left": "23 zebras and 19 deer",
+            "right": "42 animals"
+          },
+          {
+            "left": "3 buses of 40 seats",
+            "right": "120 seats"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the number sentence and the answer.",
+        "items": [
+          {
+            "q": "The zoo sold 268 tickets in the morning and 195 in the afternoon. How many tickets did it sell?",
+            "a": "268 + 195 = 463 tickets"
+          }
+        ],
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "word-problems-10",
+    "topic": "word-problems",
+    "number": 10,
+    "level": "Practice",
+    "title": "Christmas Cookies for the Neighbours",
+    "intro": "Maria and her grandmother bake Christmas cookies in Goa to share with the neighbours.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the answer.",
+        "items": [
+          {
+            "q": "4 × 7",
+            "a": "28"
+          },
+          {
+            "q": "55 + 38",
+            "a": "93"
+          },
+          {
+            "q": "90 − 62",
+            "a": "28"
+          },
+          {
+            "q": "2 × 10",
+            "a": "20"
+          },
+          {
+            "q": "146 + 27",
+            "a": "173"
+          },
+          {
+            "q": "83 − 45",
+            "a": "38"
+          },
+          {
+            "q": "5 × 5",
+            "a": "25"
+          },
+          {
+            "q": "300 − 150",
+            "a": "150"
+          }
+        ],
+        "marks": 8
+      },
+      {
+        "type": "fill",
+        "title": "Solve the cookie problems.",
+        "items": [
+          {
+            "q": "Each tray holds 9 cookies. 3 trays hold ___ cookies.",
+            "a": "27"
+          },
+          {
+            "q": "Maria bakes 48 star cookies and 36 tree cookies. She bakes ___ cookies.",
+            "a": "84"
+          },
+          {
+            "q": "Grandma had 120 sweets. She used 75 for decorating. ___ sweets are left.",
+            "a": "45"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "3 × 9 is the same as 9 + 9 + 9.",
+            "a": true
+          },
+          {
+            "q": "Maria baked more star cookies than tree cookies.",
+            "a": true
+          },
+          {
+            "q": "3 trays of 9 cookies make 12 cookies.",
+            "a": false
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best clue word.",
+        "items": [
+          {
+            "before": "To add, look for: \"How many cookies",
+            "options": [
+              "in all",
+              "left",
+              "each"
+            ],
+            "after": "?\"",
+            "a": "in all"
+          },
+          {
+            "before": "To subtract, look for: \"How many sweets are",
+            "options": [
+              "in all",
+              "left",
+              "each"
+            ],
+            "after": "?\"",
+            "a": "left"
+          },
+          {
+            "before": "To multiply, look for: \"9 cookies on",
+            "options": [
+              "in all",
+              "left",
+              "each"
+            ],
+            "after": "tray\"",
+            "a": "each"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the number sentence and the answer.",
+        "items": [
+          {
+            "q": "Maria gives 4 cookies to each of 8 neighbours. How many cookies does she give away?",
+            "a": "8 × 4 = 32 cookies / 4 × 8 = 32 cookies"
+          }
+        ],
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "word-problems-11",
+    "topic": "word-problems",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Shopping at Global Village",
+    "intro": "Rayan's family visits Global Village in Dubai. In these problems, prices are in rupees.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve. Each problem has two steps.",
+        "items": [
+          {
+            "q": "A toy car costs ₹85 and a ball costs ₹60. Rayan pays with ₹200. He gets ₹___ back.",
+            "a": "55"
+          },
+          {
+            "q": "Mum buys 3 bags of popcorn at ₹20 each and a juice for ₹35. She pays ₹___.",
+            "a": "95"
+          },
+          {
+            "q": "Dad has ₹500. He buys 2 hats at ₹150 each. He has ₹___ left.",
+            "a": "200"
+          },
+          {
+            "q": "Rayan had 46 tokens. He used 18 and then won 25. Now he has ___ tokens.",
+            "a": "53"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "column",
+        "title": "Work out each sum.",
+        "items": [
+          {
+            "top": "200",
+            "op": "-",
+            "bottom": "145",
+            "a": "55"
+          },
+          {
+            "top": "150",
+            "op": "×",
+            "bottom": "2",
+            "a": "300"
+          },
+          {
+            "top": "286",
+            "op": "+",
+            "bottom": "179",
+            "a": "465"
+          },
+          {
+            "top": "43",
+            "op": "×",
+            "bottom": "2",
+            "a": "86"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "choice",
+        "title": "Circle the first step.",
+        "items": [
+          {
+            "before": "A kite costs ₹45 and a yo-yo ₹30. What change from ₹100?",
+            "options": [
+              "45 + 30",
+              "100 + 45",
+              "45 × 30"
+            ],
+            "after": "",
+            "a": "45 + 30"
+          },
+          {
+            "before": "4 friends each buy a ₹25 ice cream. They pay with ₹200. What change?",
+            "options": [
+              "4 × 25",
+              "200 + 4",
+              "25 − 4"
+            ],
+            "after": "",
+            "a": "4 × 25"
+          },
+          {
+            "before": "There are 60 lanterns. 15 break and 20 are sold. How many are left?",
+            "options": [
+              "60 − 15",
+              "60 + 20",
+              "15 × 20"
+            ],
+            "after": "",
+            "a": "60 − 15"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "A two-step problem can use both + and −.",
+            "a": true
+          },
+          {
+            "q": "₹85 + ₹60 = ₹135",
+            "a": false
+          },
+          {
+            "q": "60 − 15 − 20 = 25",
+            "a": true
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the number sentences and the answer.",
+        "items": [
+          {
+            "q": "Rayan buys 2 keyrings at ₹35 each. He pays with ₹100. How much change does he get?",
+            "a": "2 × 35 = 70, then 100 − 70 = 30. He gets ₹30 back."
+          }
+        ],
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "word-problems-12",
+    "topic": "word-problems",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Planting Trees on Earth Day",
+    "intro": "On Earth Day, Class 2 in Nagpur plants trees and flowers in the school garden.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve. Some need two steps.",
+        "items": [
+          {
+            "q": "There are 4 rows with 8 saplings in each. The class plants ___ saplings.",
+            "a": "32"
+          },
+          {
+            "q": "They plant 32 saplings in the garden and 19 near the gate. That is ___ in all.",
+            "a": "51"
+          },
+          {
+            "q": "There were 150 seeds. Group A sowed 65 and Group B sowed 48. ___ seeds are left.",
+            "a": "37"
+          },
+          {
+            "q": "Each child waters 3 plants. 9 children water ___ plants.",
+            "a": "27"
+          },
+          {
+            "q": "5 children each carry 6 pots. 4 pots break. ___ pots are left.",
+            "a": "26"
+          }
+        ],
+        "marks": 5
+      },
+      {
+        "type": "sort",
+        "title": "Which operation do you need?",
+        "groups": [
+          "Add",
+          "Subtract",
+          "Multiply"
+        ],
+        "words": [
+          "in all",
+          "left",
+          "each",
+          "altogether",
+          "how many more",
+          "groups of"
+        ],
+        "a": {
+          "in all": "Add",
+          "left": "Subtract",
+          "each": "Multiply",
+          "altogether": "Add",
+          "how many more": "Subtract",
+          "groups of": "Multiply"
+        },
+        "marks": 6
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "For 4 rows of 8, we can work out 4 × 8.",
+            "a": true
+          },
+          {
+            "q": "150 − 65 − 48 = 47",
+            "a": false
+          },
+          {
+            "q": "Watering 3 plants each for 9 children means 9 + 3.",
+            "a": false
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the number sentences and the answer.",
+        "items": [
+          {
+            "q": "The class wants 100 plants. They have planted 4 rows of 8 and 26 flowers. How many more plants do they need?",
+            "a": "4 × 8 = 32, 32 + 26 = 58, then 100 − 58 = 42 plants"
+          }
+        ],
+        "marks": 2
+      },
+      {
+        "type": "lines",
+        "title": "Why do you think trees are good for our city?",
+        "lines": 1,
+        "a": "e.g. Trees give shade, clean the air and are homes for birds.",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "word-problems-13",
+    "topic": "word-problems",
+    "number": 13,
+    "level": "Challenge",
+    "title": "The Durga Puja Pandal",
+    "intro": "Tara and Sid visit pandals in Kolkata during Durga Puja. Some problems hide the starting number.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Find the missing number.",
+        "items": [
+          {
+            "q": "Sid had some balloons. He gave away 14. He has 27 left. He had ___ at first.",
+            "a": "41"
+          },
+          {
+            "q": "The pandal had 85 lamps. Some more came. Now there are 120. ___ lamps came.",
+            "a": "35"
+          },
+          {
+            "q": "Tara ate some sweets. She had 30 and now has 12. She ate ___.",
+            "a": "18"
+          },
+          {
+            "q": "___ + 46 = 93",
+            "a": "47"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "pairs",
+        "title": "Find the missing number.",
+        "items": [
+          {
+            "q": "___ − 25 = 50",
+            "a": "75"
+          },
+          {
+            "q": "60 − ___ = 38",
+            "a": "22"
+          },
+          {
+            "q": "5 × ___ = 35",
+            "a": "7"
+          },
+          {
+            "q": "___ + 18 = 64",
+            "a": "46"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right number sentence.",
+        "items": [
+          {
+            "before": "Sid had some coins. He got 20 more. Now he has 55. How many at first?",
+            "options": [
+              "55 − 20",
+              "55 + 20",
+              "55 × 20"
+            ],
+            "after": "",
+            "a": "55 − 20"
+          },
+          {
+            "before": "Tara counts 6 drummers in each of 3 groups. How many drummers?",
+            "options": [
+              "6 + 3",
+              "6 × 3",
+              "6 − 3"
+            ],
+            "after": "",
+            "a": "6 × 3"
+          },
+          {
+            "before": "One pandal has 248 visitors and another 310. How many more at the second?",
+            "options": [
+              "310 − 248",
+              "310 + 248",
+              "248 − 310"
+            ],
+            "after": "",
+            "a": "310 − 248"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "fill",
+        "title": "Solve the pandal problems.",
+        "items": [
+          {
+            "q": "6 drummers in each of 3 groups make ___ drummers.",
+            "a": "18"
+          },
+          {
+            "q": "The second pandal has ___ more visitors than the first.",
+            "a": "62"
+          },
+          {
+            "q": "Sid had ___ coins at first.",
+            "a": "35"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "lines",
+        "title": "Make up a puja problem where the answer is 25.",
+        "lines": 2,
+        "a": "e.g. Tara had 40 flowers. She used 15 for a garland. How many are left? (25)",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "word-problems-14",
+    "topic": "word-problems",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Children's Reading Festival",
+    "intro": "At the Sharjah Children's Reading Festival, some children solved book problems. Check their work.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is the answer right? Circle True or False.",
+        "items": [
+          {
+            "q": "Ali: 156 books + 78 books = 234 books.",
+            "a": true
+          },
+          {
+            "q": "Bela: 200 bookmarks − 85 = 125 bookmarks.",
+            "a": false
+          },
+          {
+            "q": "Chen: 4 shelves of 9 books = 13 books.",
+            "a": false
+          },
+          {
+            "q": "Diya: 63 − 27 = 36 pages.",
+            "a": true
+          },
+          {
+            "q": "Ezra: 5 boxes of 10 pens = 50 pens.",
+            "a": true
+          }
+        ],
+        "marks": 5
+      },
+      {
+        "type": "rewrite",
+        "title": "Find the mistake. Write the correct number sentence.",
+        "items": [
+          {
+            "q": "Bela said 200 − 85 = 125.",
+            "a": "200 − 85 = 115"
+          },
+          {
+            "q": "Chen said 4 shelves of 9 books is 4 + 9 = 13.",
+            "a": "4 × 9 = 36"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "column",
+        "title": "Work out each sum.",
+        "items": [
+          {
+            "top": "318",
+            "op": "+",
+            "bottom": "294",
+            "a": "612"
+          },
+          {
+            "top": "600",
+            "op": "-",
+            "bottom": "347",
+            "a": "253"
+          },
+          {
+            "top": "42",
+            "op": "×",
+            "bottom": "4",
+            "a": "168"
+          },
+          {
+            "top": "25",
+            "op": "×",
+            "bottom": "3",
+            "a": "75"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "fill",
+        "title": "Solve the festival problems.",
+        "items": [
+          {
+            "q": "A story session has 4 rows of 12 chairs. There are ___ chairs.",
+            "a": "48"
+          },
+          {
+            "q": "The book stall had 350 books. It sold 168 on Friday and 95 on Saturday. ___ books are left.",
+            "a": "87"
+          },
+          {
+            "q": "Zara reads 15 pages a day for 3 days, then 10 more. She reads ___ pages.",
+            "a": "55"
+          }
+        ],
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "word-problems-15",
+    "topic": "word-problems",
+    "number": 15,
+    "level": "Challenge",
+    "title": "The Inter-School Football Tournament",
+    "intro": "Eight schools in Bengaluru play a football tournament. Help the organisers with the numbers.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve. Some need two steps.",
+        "items": [
+          {
+            "q": "8 teams each bring 11 players. There are ___ players.",
+            "a": "88"
+          },
+          {
+            "q": "Each team also brings 3 extra players. That is ___ extra players.",
+            "a": "24"
+          },
+          {
+            "q": "The match has 124 people watching. 59 are parents. ___ are children.",
+            "a": "65"
+          },
+          {
+            "q": "Our team scored 3 goals in each of 4 games and 2 in the final. We scored ___ goals in all.",
+            "a": "14"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "match",
+        "title": "Match the problem to its answer.",
+        "items": [
+          {
+            "left": "8 teams of 11",
+            "right": "88"
+          },
+          {
+            "left": "250 − 165 water bottles",
+            "right": "85"
+          },
+          {
+            "left": "47 oranges and 39 oranges",
+            "right": "86"
+          },
+          {
+            "left": "5 rows of 9 cones",
+            "right": "45"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "items": [
+          {
+            "before": "A ticket costs ₹30. 5 tickets cost",
+            "options": [
+              "₹35",
+              "₹150",
+              "₹300"
+            ],
+            "after": "",
+            "a": "₹150"
+          },
+          {
+            "before": "The coach has 40 bibs and gives out 22. He has",
+            "options": [
+              "18",
+              "28",
+              "62"
+            ],
+            "after": "left.",
+            "a": "18"
+          },
+          {
+            "before": "There are 16 boys and 15 girls in the team. That is",
+            "options": [
+              "31",
+              "29",
+              "1"
+            ],
+            "after": "children.",
+            "a": "31"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the number sentences and the answer.",
+        "items": [
+          {
+            "q": "There are 60 medals. Each of 2 teams gets 11 medals. How many medals are left?",
+            "a": "2 × 11 = 22, then 60 − 22 = 38 medals"
+          }
+        ],
+        "marks": 2
+      },
+      {
+        "type": "lines",
+        "title": "Write your own football word problem and solve it.",
+        "lines": 2,
+        "a": "e.g. 12 players and 9 more join. 12 + 9 = 21 players.",
+        "marks": 2
+      }
+    ]
   }
 ]

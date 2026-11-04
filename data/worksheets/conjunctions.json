@@ -570,5 +570,1198 @@
         ]
       }
     ]
+  },
+  {
+    "id": "conjunctions-06",
+    "topic": "conjunctions",
+    "number": 6,
+    "level": "Practice",
+    "title": "Getting Ready for School",
+    "intro": "Every morning Rhea gets ready for school. Use and to join ideas that go together.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Join the two sentences with and.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Rhea brushed her teeth. Rhea combed her hair.",
+            "a": "Rhea brushed her teeth and combed her hair."
+          },
+          {
+            "q": "Papa made toast. Mummy made tea.",
+            "a": "Papa made toast and Mummy made tea."
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the two things that go together.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "Socks and",
+            "right": "shoes"
+          },
+          {
+            "left": "Toothbrush and",
+            "right": "toothpaste"
+          },
+          {
+            "left": "Pencil and",
+            "right": "eraser"
+          },
+          {
+            "left": "Tie and",
+            "right": "belt"
+          },
+          {
+            "left": "Lunch box and",
+            "right": "water bottle"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in and or but.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Rhea was sleepy, ___ she got up on time.",
+            "a": "but"
+          },
+          {
+            "q": "She ate her cereal ___ drank her milk.",
+            "a": "and"
+          },
+          {
+            "q": "The bus came ___ Rhea got on.",
+            "a": "and"
+          },
+          {
+            "q": "Her brother was ready, ___ he could not find his shoe.",
+            "a": "but"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Rhea and her brother\" uses and to join two people.",
+            "a": true
+          },
+          {
+            "q": "We use and to show a choice.",
+            "a": false
+          },
+          {
+            "q": "\"I put on my shoes and socks\" is a good sentence.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things you do every morning. Join them with and.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I wash my face and eat breakfast.\""
+      }
+    ]
+  },
+  {
+    "id": "conjunctions-07",
+    "topic": "conjunctions",
+    "number": 7,
+    "level": "Practice",
+    "title": "The Weekend Cricket Match",
+    "intro": "Yash's team plays cricket every Friday. We use but to show something different or surprising.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the start to the best ending.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Yash hit the ball hard,",
+            "right": "but it was caught."
+          },
+          {
+            "left": "Our team tried our best,",
+            "right": "but we lost by two runs."
+          },
+          {
+            "left": "The pitch was wet,",
+            "right": "but the match went on."
+          },
+          {
+            "left": "Faisal is small,",
+            "right": "but he bowls very fast."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle and or but.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Yash bowled",
+            "options": [
+              "and",
+              "but"
+            ],
+            "after": "Faisal batted.",
+            "a": "and"
+          },
+          {
+            "before": "The ball was old,",
+            "options": [
+              "and",
+              "but"
+            ],
+            "after": "it still bounced well.",
+            "a": "but"
+          },
+          {
+            "before": "We were hot",
+            "options": [
+              "and",
+              "but"
+            ],
+            "after": "thirsty.",
+            "a": "and"
+          },
+          {
+            "before": "I wanted to bat first,",
+            "options": [
+              "and",
+              "but"
+            ],
+            "after": "the captain said no.",
+            "a": "but"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Join the two sentences with but.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The sun was hot. We kept playing.",
+            "a": "The sun was hot, but we kept playing."
+          },
+          {
+            "q": "Dad cannot play. He cheers for us.",
+            "a": "Dad cannot play, but he cheers for us."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"We won, but we were happy\" is a good sentence.",
+            "a": false
+          },
+          {
+            "q": "We often put a comma before but.",
+            "a": true
+          },
+          {
+            "q": "\"The bat is heavy, but I can lift it\" uses but correctly.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Finish each sentence your own way.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We won the toss, but ___",
+            "a": "e.g. we lost the match."
+          },
+          {
+            "q": "I like batting, but ___",
+            "a": "e.g. I do not like fielding."
+          },
+          {
+            "q": "The match was fun, but ___",
+            "a": "e.g. I was very tired."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conjunctions-08",
+    "topic": "conjunctions",
+    "number": 8,
+    "level": "Practice",
+    "title": "Choosing a Bedtime Story",
+    "intro": "At bedtime, Ella's Mum lets her choose a book. We use or when there is a choice.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle and or or.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Do you want the dragon story",
+            "options": [
+              "and",
+              "or"
+            ],
+            "after": "the pirate story?",
+            "a": "or"
+          },
+          {
+            "before": "Ella brushed her teeth",
+            "options": [
+              "and",
+              "or"
+            ],
+            "after": "put on her pyjamas.",
+            "a": "and"
+          },
+          {
+            "before": "Shall we read in bed",
+            "options": [
+              "and",
+              "or"
+            ],
+            "after": "on the sofa?",
+            "a": "or"
+          },
+          {
+            "before": "Mum read one page",
+            "options": [
+              "and",
+              "or"
+            ],
+            "after": "Ella read the next.",
+            "a": "and"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Make one question with or.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Do you want milk? Do you want water?",
+            "a": "Do you want milk or water?"
+          },
+          {
+            "q": "Shall I switch on the lamp? Shall I switch on the big light?",
+            "a": "Shall I switch on the lamp or the big light?"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in and, but or or.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Ella wanted two stories, ___ Mum said only one.",
+            "a": "but"
+          },
+          {
+            "q": "Should we read a short book ___ a long book?",
+            "a": "or"
+          },
+          {
+            "q": "Her teddy ___ her blanket are on the bed.",
+            "a": "and"
+          },
+          {
+            "q": "Is the owl in the story kind ___ mean?",
+            "a": "or"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Do you want the red book or the blue book?\" asks you to pick one.",
+            "a": true
+          },
+          {
+            "q": "\"Ella or Mum read together\" is a good sentence.",
+            "a": false
+          },
+          {
+            "q": "Or is a joining word.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a question for your family. Use or.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"Shall we have pasta or rice tonight?\""
+      }
+    ]
+  },
+  {
+    "id": "conjunctions-09",
+    "topic": "conjunctions",
+    "number": 9,
+    "level": "Practice",
+    "title": "Ganesh Chaturthi at Home",
+    "intro": "Om's family brings home a Ganesha idol for the festival. Use and, but or or.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in and, but or or.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "We made modaks ___ laddoos.",
+            "a": "and"
+          },
+          {
+            "q": "Om wanted to light the lamp, ___ he was too small.",
+            "a": "but"
+          },
+          {
+            "q": "Shall we put the flowers on the left ___ on the right?",
+            "a": "or"
+          },
+          {
+            "q": "Aaji ___ Om sang a song.",
+            "a": "and"
+          },
+          {
+            "q": "The drums were loud, ___ the baby did not wake up.",
+            "a": "but"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct joining word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Do you want a modak",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "a banana?",
+            "a": "or"
+          },
+          {
+            "before": "We cleaned the house",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "made a rangoli.",
+            "a": "and"
+          },
+          {
+            "before": "Om was tired,",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "he stayed up for the aarti.",
+            "a": "but"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Join the two sentences with the word in brackets.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We bought marigolds. We bought lotus flowers. (and)",
+            "a": "We bought marigolds and lotus flowers."
+          },
+          {
+            "q": "The idol is small. It is very pretty. (but)",
+            "a": "The idol is small, but it is very pretty."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"And\" adds one idea to another.",
+            "a": true
+          },
+          {
+            "q": "\"Will you come today but tomorrow?\" is correct.",
+            "a": false
+          },
+          {
+            "q": "\"But\" means the same as \"and\".",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a sentence about a festival. Use but.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I love Diwali, but the crackers are too loud.\""
+      }
+    ]
+  },
+  {
+    "id": "conjunctions-10",
+    "topic": "conjunctions",
+    "number": 10,
+    "level": "Practice",
+    "title": "An Abra Ride on Dubai Creek",
+    "intro": "Emma and her Baba ride a small wooden abra boat across Dubai Creek. Join the ideas with and, but or or.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Join the two sentences with the word in brackets.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "The abra was small. It was fast. (and)",
+            "a": "The abra was small and fast."
+          },
+          {
+            "q": "Emma wanted to sit at the front. It was full. (but)",
+            "a": "Emma wanted to sit at the front, but it was full."
+          },
+          {
+            "q": "We can go to the spice souk. We can go to the gold souk. (or)",
+            "a": "We can go to the spice souk or the gold souk."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct joining word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The water was green",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "calm.",
+            "a": "and"
+          },
+          {
+            "before": "Would you like to sit",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "stand?",
+            "a": "or"
+          },
+          {
+            "before": "The wind was cool,",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "the sun was hot.",
+            "a": "but"
+          },
+          {
+            "before": "Emma waved at the boats",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "the people waved back.",
+            "a": "and"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the start to the best ending.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Seagulls flew over us",
+            "right": "and one landed on the roof."
+          },
+          {
+            "left": "Emma felt a little scared,",
+            "right": "but Baba held her hand."
+          },
+          {
+            "left": "Shall we take the abra back",
+            "right": "or take a taxi?"
+          },
+          {
+            "left": "The driver started the engine,",
+            "right": "and the abra moved off."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"The abra was old, but it was safe\" uses but correctly.",
+            "a": true
+          },
+          {
+            "q": "\"Do you want to ride or walk?\" asks for a choice.",
+            "a": true
+          },
+          {
+            "q": "\"We were hungry, or we ate shawarma\" is correct.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write about a ride you have taken. Use and or but.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"The bus was slow, but the ride was fun.\""
+      }
+    ]
+  },
+  {
+    "id": "conjunctions-11",
+    "topic": "conjunctions",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Science Lab Experiment",
+    "intro": "Class 2 tests which things float and which sink. Some joining words are wrong. Find and fix them.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Fix the joining word and write the sentence again.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "Do you want to test the sponge but the spoon?",
+            "a": "Do you want to test the sponge or the spoon?"
+          },
+          {
+            "q": "I wanted to drop the egg in, or Ms Lee said no.",
+            "a": "I wanted to drop the egg in, but Ms Lee said no."
+          },
+          {
+            "q": "Pooja dried the table but her hands.",
+            "a": "Pooja dried the table and her hands."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Is the joining word correct? Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The key sank, but the feather floated.",
+            "a": true
+          },
+          {
+            "q": "Shall we test a cork or a key?",
+            "a": true
+          },
+          {
+            "q": "The ball floated, but the toy boat floated too.",
+            "a": false
+          },
+          {
+            "q": "Ali poured the water and stirred it.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct joining word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The apple floated,",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "the coin sank.",
+            "a": "but"
+          },
+          {
+            "before": "Ms Lee gave us a tub",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "a jug.",
+            "a": "and"
+          },
+          {
+            "before": "Is the toy boat heavy",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "light?",
+            "a": "or"
+          },
+          {
+            "before": "The paper boat floated at first,",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "then it got wet and sank.",
+            "a": "but"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Finish each sentence your own way.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The pencil floated, but ___",
+            "a": "e.g. the stone sank."
+          },
+          {
+            "q": "Shall we test a leaf or ___?",
+            "a": "e.g. a marble"
+          },
+          {
+            "q": "I dropped a coin in the water and ___",
+            "a": "e.g. it sank to the bottom."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conjunctions-12",
+    "topic": "conjunctions",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Planting Trees on Earth Day",
+    "intro": "Class 2 plants trees on Earth Day. Because tells why something happens. So tells what happens next.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle because or so.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "We watered the plants",
+            "options": [
+              "because",
+              "so"
+            ],
+            "after": "the soil was dry.",
+            "a": "because"
+          },
+          {
+            "before": "The soil was dry,",
+            "options": [
+              "because",
+              "so"
+            ],
+            "after": "we watered the plants.",
+            "a": "so"
+          },
+          {
+            "before": "Zayn wore a hat",
+            "options": [
+              "because",
+              "so"
+            ],
+            "after": "the sun was hot.",
+            "a": "because"
+          },
+          {
+            "before": "It started to rain,",
+            "options": [
+              "because",
+              "so"
+            ],
+            "after": "we ran inside.",
+            "a": "so"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the start to the best ending.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "We planted a neem tree",
+            "right": "because it gives shade."
+          },
+          {
+            "left": "The sapling was tiny,",
+            "right": "so we put a fence around it."
+          },
+          {
+            "left": "Rina wore gloves",
+            "right": "because the soil was muddy."
+          },
+          {
+            "left": "We were very thirsty,",
+            "right": "so we drank some water."
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in and, but or or.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Do you want to dig ___ water the plants?",
+            "a": "or"
+          },
+          {
+            "q": "The spade was heavy, ___ Ravi lifted it.",
+            "a": "but"
+          },
+          {
+            "q": "We planted mango ___ lemon trees.",
+            "a": "and"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Join the two sentences with because.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "I love trees. They give us fruit.",
+            "a": "I love trees because they give us fruit."
+          },
+          {
+            "q": "The birds came. The tree had berries.",
+            "a": "The birds came because the tree had berries."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why should we plant trees? Use because.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"We should plant trees because they give us clean air.\""
+      }
+    ]
+  },
+  {
+    "id": "conjunctions-13",
+    "topic": "conjunctions",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Grandma's Birthday Surprise",
+    "intro": "Tanvi and Rohan planned a surprise for Grandma. Tanvi made a card, and Rohan baked a cake. Grandma was surprised, but she was very happy. She asked, \"Shall we eat the cake now or later?\"",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the story. Write the joining word.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Which joining word shows that Grandma gave a choice? ___",
+            "a": "or"
+          },
+          {
+            "q": "Which joining word adds what Rohan did? ___",
+            "a": "and"
+          },
+          {
+            "q": "Which joining word comes between \"surprised\" and \"she was very happy\"? ___",
+            "a": "but"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Join the sentences. Do not repeat words you do not need.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "Tanvi blew up balloons. Tanvi hung them up.",
+            "a": "Tanvi blew up balloons and hung them up."
+          },
+          {
+            "q": "Rohan wanted to sing. Rohan forgot the words.",
+            "a": "Rohan wanted to sing, but he forgot the words."
+          },
+          {
+            "q": "Grandma can have tea. Grandma can have juice.",
+            "a": "Grandma can have tea or juice."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Read the story. Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Grandma was surprised and happy.",
+            "a": true
+          },
+          {
+            "q": "Rohan made the card.",
+            "a": false
+          },
+          {
+            "q": "Grandma asked a question with or.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct joining word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Tanvi wrapped the gift",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "tied a bow.",
+            "a": "and"
+          },
+          {
+            "before": "Shall we hide behind the door",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "behind the curtain?",
+            "a": "or"
+          },
+          {
+            "before": "The candles were lit,",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "the fan blew them out.",
+            "a": "but"
+          },
+          {
+            "before": "Grandma clapped",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "laughed.",
+            "a": "and"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write about a surprise you planned. Use but.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I made a card for Dad, but he found it early.\""
+      }
+    ]
+  },
+  {
+    "id": "conjunctions-14",
+    "topic": "conjunctions",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Desert Safari Trip",
+    "intro": "Mateo's family goes on a desert safari near Dubai. Choose and, but, or or because.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the best joining word.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "We rode over the dunes",
+            "options": [
+              "and",
+              "but",
+              "or",
+              "because"
+            ],
+            "after": "we laughed all the way.",
+            "a": "and"
+          },
+          {
+            "before": "Mateo held on tight",
+            "options": [
+              "and",
+              "but",
+              "or",
+              "because"
+            ],
+            "after": "the jeep was bumpy.",
+            "a": "because"
+          },
+          {
+            "before": "The sand was hot in the day,",
+            "options": [
+              "and",
+              "but",
+              "or",
+              "because"
+            ],
+            "after": "it was cold at night.",
+            "a": "but"
+          },
+          {
+            "before": "Do you want to ride a camel",
+            "options": [
+              "and",
+              "but",
+              "or",
+              "because"
+            ],
+            "after": "a quad bike?",
+            "a": "or"
+          },
+          {
+            "before": "We ate dinner",
+            "options": [
+              "and",
+              "but",
+              "or",
+              "because"
+            ],
+            "after": "watched a dance show.",
+            "a": "and"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Join the two sentences with the word in brackets.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Mateo wore sunglasses. The sun was bright. (because)",
+            "a": "Mateo wore sunglasses because the sun was bright."
+          },
+          {
+            "q": "The camel was tall. Mateo was not scared. (but)",
+            "a": "The camel was tall, but Mateo was not scared."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "\"Because\" tells us why.",
+            "a": true
+          },
+          {
+            "q": "\"We can sit inside or outside the tent\" gives a choice.",
+            "a": true
+          },
+          {
+            "q": "\"I was cold because I wore a jacket\" makes sense.",
+            "a": false
+          },
+          {
+            "q": "\"And\" and \"but\" mean the same thing.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Finish each sentence your own way.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "I like the desert because ___",
+            "a": "e.g. the dunes are fun to slide down."
+          },
+          {
+            "q": "We saw a falcon and ___",
+            "a": "e.g. a camel."
+          },
+          {
+            "q": "The dunes were high, but ___",
+            "a": "e.g. I climbed to the top."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conjunctions-15",
+    "topic": "conjunctions",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Packing for a Trip to Shimla",
+    "intro": "Priya's family is packing for a cold trip to Shimla. Use joining words to make your writing better.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Join the sentences with and, but or or.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Shimla is cold. Priya loves it.",
+            "a": "Shimla is cold, but Priya loves it."
+          },
+          {
+            "q": "Shall we take the train? Shall we take the car?",
+            "a": "Shall we take the train or the car?"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct joining word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Do you want the blue scarf",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "the red one?",
+            "a": "or"
+          },
+          {
+            "before": "Papa packed the snacks",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "the maps.",
+            "a": "and"
+          },
+          {
+            "before": "The bag was full,",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "Priya still added one more toy.",
+            "a": "but"
+          },
+          {
+            "before": "Shall we leave at six",
+            "options": [
+              "and",
+              "but",
+              "or"
+            ],
+            "after": "at seven?",
+            "a": "or"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the start to the best ending.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Priya wanted to bring her bike,",
+            "right": "but it was too big."
+          },
+          {
+            "left": "Should we pack apples",
+            "right": "or oranges?"
+          },
+          {
+            "left": "Mummy folded the jackets",
+            "right": "and put them in the bag."
+          },
+          {
+            "left": "We will see snow",
+            "right": "and make a snowman."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Priya packed socks or shoes\" means she packed both.",
+            "a": false
+          },
+          {
+            "q": "A joining word can make two short sentences into one.",
+            "a": true
+          },
+          {
+            "q": "\"The bag is old but strong\" is correct.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write about a trip you would like to take. Use and, but and or.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary; check and, but and or are each used correctly."
+      }
+    ]
   }
 ]

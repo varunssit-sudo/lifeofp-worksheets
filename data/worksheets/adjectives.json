@@ -637,5 +637,1282 @@
         "a": "Answers will vary; check a fitting adjective, e.g. \"I was the fastest in the flat race.\""
       }
     ]
+  },
+  {
+    "id": "adjectives-06",
+    "topic": "adjectives",
+    "number": 6,
+    "level": "Practice",
+    "title": "A Walk on Jumeirah Beach",
+    "intro": "Ayaan and his Abba walk on the beach in the evening. Some describing words tell how things feel.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each word to its opposite.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "hot",
+            "right": "cold"
+          },
+          {
+            "left": "wet",
+            "right": "dry"
+          },
+          {
+            "left": "soft",
+            "right": "hard"
+          },
+          {
+            "left": "deep",
+            "right": "shallow"
+          },
+          {
+            "left": "empty",
+            "right": "full"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that fits best.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "At noon the sand feels",
+            "options": [
+              "hot",
+              "frozen"
+            ],
+            "after": ".",
+            "a": "hot"
+          },
+          {
+            "before": "Ayaan found a",
+            "options": [
+              "smooth",
+              "hungry"
+            ],
+            "after": "shell.",
+            "a": "smooth"
+          },
+          {
+            "before": "His towel was",
+            "options": [
+              "wet",
+              "noisy"
+            ],
+            "after": "after the swim.",
+            "a": "wet"
+          },
+          {
+            "before": "The seaweed felt",
+            "options": [
+              "slimy",
+              "sunny"
+            ],
+            "after": ".",
+            "a": "slimy"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with: salty, tiny, sticky, gentle.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The sea water tasted ___.",
+            "a": "salty"
+          },
+          {
+            "q": "A ___ crab ran into a hole.",
+            "a": "tiny"
+          },
+          {
+            "q": "Ayaan's hands were ___ after his ice lolly.",
+            "a": "sticky"
+          },
+          {
+            "q": "A ___ breeze blew from the sea.",
+            "a": "gentle"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Rough\" tells how something feels.",
+            "a": true
+          },
+          {
+            "q": "\"Sandcastle\" is a describing word.",
+            "a": false
+          },
+          {
+            "q": "In \"the cool water\", cool is the describing word.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two words that tell how sand feels.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any two fitting adjectives, e.g. hot, soft, dry, warm, rough."
+      }
+    ]
+  },
+  {
+    "id": "adjectives-07",
+    "topic": "adjectives",
+    "number": 7,
+    "level": "Practice",
+    "title": "Getting Ready for Eid",
+    "intro": "Hana wore a new green dress for Eid. Grandpa gave her five shiny coins. Mama made soft, sweet sheer khurma. They went to the big white mosque.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the story. Answer with one word.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "What colour was Hana's dress? ___",
+            "a": "green"
+          },
+          {
+            "q": "How many coins did Grandpa give? ___",
+            "a": "five"
+          },
+          {
+            "q": "Which word tells how the coins looked? ___",
+            "a": "shiny"
+          },
+          {
+            "q": "Which word tells the size of the mosque? ___",
+            "a": "big"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the describing words into colour, number and feel.",
+        "marks": 6,
+        "groups": [
+          "Colour",
+          "Number",
+          "Feel"
+        ],
+        "words": [
+          "silver",
+          "seven",
+          "silky",
+          "maroon",
+          "eleven",
+          "fluffy"
+        ],
+        "a": {
+          "silver": "Colour",
+          "seven": "Number",
+          "silky": "Feel",
+          "maroon": "Colour",
+          "eleven": "Number",
+          "fluffy": "Feel"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that is NOT a describing word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "new",
+              "kind",
+              "dress"
+            ],
+            "after": "",
+            "a": "dress"
+          },
+          {
+            "before": "",
+            "options": [
+              "shiny",
+              "coin",
+              "happy"
+            ],
+            "after": "",
+            "a": "coin"
+          },
+          {
+            "before": "",
+            "options": [
+              "mosque",
+              "white",
+              "tall"
+            ],
+            "after": "",
+            "a": "mosque"
+          },
+          {
+            "before": "",
+            "options": [
+              "sweet",
+              "warm",
+              "plate"
+            ],
+            "after": "",
+            "a": "plate"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Add a describing word to each sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Hana ate a date.",
+            "a": "Any fitting adjective, e.g. Hana ate a sweet date."
+          },
+          {
+            "q": "We hugged our cousins.",
+            "a": "Any fitting adjective, e.g. We hugged our happy cousins."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a sentence about a festival. Use a colour word.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check a colour adjective, e.g. \"We wore new red clothes for Holi.\""
+      }
+    ]
+  },
+  {
+    "id": "adjectives-08",
+    "topic": "adjectives",
+    "number": 8,
+    "level": "Practice",
+    "title": "The Toy Shop Sale",
+    "intro": "Riya and Sam are choosing toys at a sale in Sharjah. Some words change spelling when we add er: big, bigger.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Add er to each word.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "big",
+            "a": "bigger"
+          },
+          {
+            "q": "thin",
+            "a": "thinner"
+          },
+          {
+            "q": "large",
+            "a": "larger"
+          },
+          {
+            "q": "cute",
+            "a": "cuter"
+          },
+          {
+            "q": "soft",
+            "a": "softer"
+          },
+          {
+            "q": "cheap",
+            "a": "cheaper"
+          },
+          {
+            "q": "light",
+            "a": "lighter"
+          },
+          {
+            "q": "wide",
+            "a": "wider"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The teddy is",
+            "options": [
+              "bigger",
+              "biggest"
+            ],
+            "after": "than the doll.",
+            "a": "bigger"
+          },
+          {
+            "before": "This kite is the",
+            "options": [
+              "cheaper",
+              "cheapest"
+            ],
+            "after": "toy in the shop.",
+            "a": "cheapest"
+          },
+          {
+            "before": "The red ball is",
+            "options": [
+              "lighter",
+              "lightest"
+            ],
+            "after": "than the cricket bat.",
+            "a": "lighter"
+          },
+          {
+            "before": "Sam picked the",
+            "options": [
+              "newer",
+              "newest"
+            ],
+            "after": "game of all.",
+            "a": "newest"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the word in brackets with er or est.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The blue car is ___ (small) than the bus.",
+            "a": "smaller"
+          },
+          {
+            "q": "This is the ___ (thin) book on the shelf.",
+            "a": "thinnest"
+          },
+          {
+            "q": "The robot's box is ___ (large) than the puzzle box.",
+            "a": "larger"
+          },
+          {
+            "q": "That puppet has the ___ (nice) smile of all.",
+            "a": "nicest"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We write \"bigger\" with two g's.",
+            "a": true
+          },
+          {
+            "q": "\"Wide\" becomes \"wider\" when we add er.",
+            "a": true
+          },
+          {
+            "q": "We use \"cheapest\" to compare only two toys.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Compare two of your toys. Use an er word.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"My teddy is softer than my doll.\""
+      }
+    ]
+  },
+  {
+    "id": "adjectives-09",
+    "topic": "adjectives",
+    "number": 9,
+    "level": "Practice",
+    "title": "Class Picnic at Mushrif Park",
+    "intro": "Class 2 had a picnic in Mushrif Park. Describing words can tell shape, colour and how many.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the describing words into shape, colour and number.",
+        "marks": 9,
+        "groups": [
+          "Shape",
+          "Colour",
+          "Number"
+        ],
+        "words": [
+          "round",
+          "brown",
+          "eight",
+          "square",
+          "violet",
+          "twelve",
+          "oval",
+          "cream",
+          "twenty"
+        ],
+        "a": {
+          "round": "Shape",
+          "brown": "Colour",
+          "eight": "Number",
+          "square": "Shape",
+          "violet": "Colour",
+          "twelve": "Number",
+          "oval": "Shape",
+          "cream": "Colour",
+          "twenty": "Number"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with: striped, crunchy, fifteen, flat.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Ali brought a ___ umbrella with red and white lines.",
+            "a": "striped"
+          },
+          {
+            "q": "We ate ___ chips.",
+            "a": "crunchy"
+          },
+          {
+            "q": "Ms Rao gave each child ___ grapes.",
+            "a": "fifteen"
+          },
+          {
+            "q": "Jo sat on a ___ rock.",
+            "a": "flat"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Add two describing words to each sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Kabir held a kite.",
+            "a": "Any two fitting adjectives, e.g. Kabir held a big red kite."
+          },
+          {
+            "q": "We sat under a tree.",
+            "a": "Any two fitting adjectives, e.g. We sat under a tall green tree."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that tells how many.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "Many",
+              "Green"
+            ],
+            "after": "children played tag.",
+            "a": "Many"
+          },
+          {
+            "before": "There were only a",
+            "options": [
+              "few",
+              "loud"
+            ],
+            "after": "swings free.",
+            "a": "few"
+          },
+          {
+            "before": "Teacher poured us",
+            "options": [
+              "some",
+              "silly"
+            ],
+            "after": "juice.",
+            "a": "some"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write about your picnic food. Use a shape or colour word.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I ate a round yellow laddoo.\""
+      }
+    ]
+  },
+  {
+    "id": "adjectives-10",
+    "topic": "adjectives",
+    "number": 10,
+    "level": "Practice",
+    "title": "Monsoon Day in Mumbai",
+    "intro": "It is pouring in Mumbai. Describing words can also tell how people feel: happy, sad or scared.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each child to how they feel.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "Om got a new raincoat.",
+            "right": "happy"
+          },
+          {
+            "left": "Thunder woke Pia up.",
+            "right": "scared"
+          },
+          {
+            "left": "Rehan's paper boat sank.",
+            "right": "sad"
+          },
+          {
+            "left": "Lina waited and waited with nothing to do.",
+            "right": "bored"
+          },
+          {
+            "left": "Tia heard school is closed today!",
+            "right": "excited"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the opposite of each word.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "clean",
+            "a": "dirty"
+          },
+          {
+            "q": "early",
+            "a": "late"
+          },
+          {
+            "q": "rich",
+            "a": "poor"
+          },
+          {
+            "q": "bright",
+            "a": "dark / dull"
+          },
+          {
+            "q": "old",
+            "a": "new / young"
+          },
+          {
+            "q": "heavy",
+            "a": "light"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that fits best.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "After the rain, the roads were",
+            "options": [
+              "muddy",
+              "dusty"
+            ],
+            "after": ".",
+            "a": "muddy"
+          },
+          {
+            "before": "Dadi made",
+            "options": [
+              "hot",
+              "frozen"
+            ],
+            "after": "bhutta for us.",
+            "a": "hot"
+          },
+          {
+            "before": "The sky was dark and",
+            "options": [
+              "cloudy",
+              "sunny"
+            ],
+            "after": ".",
+            "a": "cloudy"
+          },
+          {
+            "before": "Our cat stayed",
+            "options": [
+              "dry",
+              "soggy"
+            ],
+            "after": "under the bed.",
+            "a": "dry"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Scared\" is a feeling word.",
+            "a": true
+          },
+          {
+            "q": "\"Umbrella\" is a describing word.",
+            "a": false
+          },
+          {
+            "q": "\"Excited\" and \"happy\" are both describing words.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Finish the sentence about you.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "On a rainy day I feel ___.",
+            "a": "Answers will vary; check a feeling word, e.g. \"On a rainy day I feel cosy and happy.\""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "adjectives-11",
+    "topic": "adjectives",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Camel Race Day",
+    "intro": "Families watch a camel race in the desert. When a word ends in y, change y to i before er or est: happy, happier.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Add er or est as shown.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "heavy + er",
+            "a": "heavier"
+          },
+          {
+            "q": "dusty + est",
+            "a": "dustiest"
+          },
+          {
+            "q": "hot + er",
+            "a": "hotter"
+          },
+          {
+            "q": "lazy + est",
+            "a": "laziest"
+          },
+          {
+            "q": "early + er",
+            "a": "earlier"
+          },
+          {
+            "q": "noisy + est",
+            "a": "noisiest"
+          },
+          {
+            "q": "funny + er",
+            "a": "funnier"
+          },
+          {
+            "q": "slim + er",
+            "a": "slimmer"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Read and fill in the word.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Zain's camel took 5 minutes. Laila's took 7 minutes. Zain's camel was ___.",
+            "a": "faster / quicker"
+          },
+          {
+            "q": "Mira is 7, Dev is 8 and Kai is 9. Kai is the ___ of the three.",
+            "a": "oldest"
+          },
+          {
+            "q": "Dev is ___ than Mira.",
+            "a": "older"
+          },
+          {
+            "q": "The white camel came last. It was the ___ camel.",
+            "a": "slowest"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The grey camel is the",
+            "options": [
+              "taller",
+              "tallest"
+            ],
+            "after": "of all.",
+            "a": "tallest"
+          },
+          {
+            "before": "My seat is",
+            "options": [
+              "shadier",
+              "shadiest"
+            ],
+            "after": "than yours.",
+            "a": "shadier"
+          },
+          {
+            "before": "This is the",
+            "options": [
+              "happier",
+              "happiest"
+            ],
+            "after": "day of my week!",
+            "a": "happiest"
+          },
+          {
+            "before": "Ali's flag is",
+            "options": [
+              "bigger",
+              "biggest"
+            ],
+            "after": "than mine.",
+            "a": "bigger"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Find the mistake and write the sentence again.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The black camel is more fast than the brown one.",
+            "a": "The black camel is faster than the brown one."
+          },
+          {
+            "q": "This is the dustyest track.",
+            "a": "This is the dustiest track."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Compare three animals. Use an est word.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"The camel is the tallest of the three.\""
+      }
+    ]
+  },
+  {
+    "id": "adjectives-12",
+    "topic": "adjectives",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Grandpa's Farm in Punjab",
+    "intro": "Jasleen visits Grandpa's farm. Some words change completely: good, better, best and bad, worse, worst.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in better or best.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Grandpa's new tractor is ___ than the old one.",
+            "a": "better"
+          },
+          {
+            "q": "These are the ___ carrots on the whole farm.",
+            "a": "best"
+          },
+          {
+            "q": "Jasleen is a ___ rider than her little cousin.",
+            "a": "better"
+          },
+          {
+            "q": "This is the ___ field of all for wheat.",
+            "a": "best"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Yesterday's storm was",
+            "options": [
+              "worse",
+              "worst"
+            ],
+            "after": "than last week's.",
+            "a": "worse"
+          },
+          {
+            "before": "That was the",
+            "options": [
+              "worse",
+              "worst"
+            ],
+            "after": "mud I have ever seen.",
+            "a": "worst"
+          },
+          {
+            "before": "The path is",
+            "options": [
+              "bad",
+              "worse"
+            ],
+            "after": "today than yesterday.",
+            "a": "worse"
+          },
+          {
+            "before": "Jasleen's mango is good, but Grandpa's mango is",
+            "options": [
+              "better",
+              "best"
+            ],
+            "after": ".",
+            "a": "better"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the missing word.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "good, better, ___",
+            "a": "best"
+          },
+          {
+            "q": "bad, ___, worst",
+            "a": "worse"
+          },
+          {
+            "q": "tall, taller, ___",
+            "a": "tallest"
+          },
+          {
+            "q": "___, greener, greenest",
+            "a": "green"
+          },
+          {
+            "q": "dry, ___, driest",
+            "a": "drier"
+          },
+          {
+            "q": "sunny, sunnier, ___",
+            "a": "sunniest"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Gooder\" is a correct word.",
+            "a": false
+          },
+          {
+            "q": "\"Worst\" compares more than two things.",
+            "a": true
+          },
+          {
+            "q": "\"Better\" compares two things.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Finish the sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "The best day I had was ___.",
+            "a": "Answers will vary, e.g. \"The best day I had was my trip to the farm.\""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "adjectives-13",
+    "topic": "adjectives",
+    "number": 13,
+    "level": "Challenge",
+    "title": "The Lost Teddy at the Mall",
+    "intro": "Little Zoe lost her teddy at the mall. It is small and brown. It has a red bow and one button eye. It wears a soft blue jacket.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the notice. Answer with a describing word.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "What size is the teddy? ___",
+            "a": "small"
+          },
+          {
+            "q": "What colour is the bow? ___",
+            "a": "red"
+          },
+          {
+            "q": "How many button eyes does it have? ___",
+            "a": "one"
+          },
+          {
+            "q": "How does the jacket feel? ___",
+            "a": "soft"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Join the two sentences into one.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The teddy is small. The teddy is brown.",
+            "a": "The teddy is small and brown. / It is a small brown teddy."
+          },
+          {
+            "q": "Zoe has a bag. The bag is pink.",
+            "a": "Zoe has a pink bag."
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the describing words into size, colour and feel.",
+        "marks": 6,
+        "groups": [
+          "Size",
+          "Colour",
+          "Feel"
+        ],
+        "words": [
+          "tiny",
+          "purple",
+          "woolly",
+          "enormous",
+          "golden",
+          "prickly"
+        ],
+        "a": {
+          "tiny": "Size",
+          "purple": "Colour",
+          "woolly": "Feel",
+          "enormous": "Size",
+          "golden": "Colour",
+          "prickly": "Feel"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In \"a soft blue jacket\" there are two describing words.",
+            "a": true
+          },
+          {
+            "q": "\"Teddy\" is a describing word.",
+            "a": false
+          },
+          {
+            "q": "In \"one button eye\", one tells the number.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a notice for a lost toy. Use three describing words.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary; check three adjectives, e.g. \"Lost: a small green car with four black wheels.\""
+      }
+    ]
+  },
+  {
+    "id": "adjectives-14",
+    "topic": "adjectives",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Onam Feast on a Banana Leaf",
+    "intro": "Meera's family eats an Onam sadya on banana leaves. Find the describing words and fix the mistakes.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the describing words into looks, feels and tastes.",
+        "marks": 6,
+        "groups": [
+          "Looks",
+          "Feels",
+          "Tastes"
+        ],
+        "words": [
+          "pretty",
+          "slippery",
+          "tangy",
+          "spotty",
+          "warm",
+          "bitter"
+        ],
+        "a": {
+          "pretty": "Looks",
+          "slippery": "Feels",
+          "tangy": "Tastes",
+          "spotty": "Looks",
+          "warm": "Feels",
+          "bitter": "Tastes"
+        }
+      },
+      {
+        "type": "rewrite",
+        "title": "Each sentence has a mistake. Write it correctly.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "The payasam was the sweeter dish of all.",
+            "a": "The payasam was the sweetest dish of all."
+          },
+          {
+            "q": "Meera's leaf is more big than mine.",
+            "a": "Meera's leaf is bigger than mine."
+          },
+          {
+            "q": "This is the goodest sadya ever!",
+            "a": "This is the best sadya ever!"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the opposite to finish the sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The rice is hot, but the curd is",
+            "options": [
+              "cold",
+              "warm"
+            ],
+            "after": ".",
+            "a": "cold"
+          },
+          {
+            "before": "The chips are crunchy, but the rice is",
+            "options": [
+              "soft",
+              "crispy"
+            ],
+            "after": ".",
+            "a": "soft"
+          },
+          {
+            "before": "Ammamma is old, but the baby is",
+            "options": [
+              "young",
+              "tired"
+            ],
+            "after": ".",
+            "a": "young"
+          },
+          {
+            "before": "The pickle jar is full, but the rice pot is",
+            "options": [
+              "empty",
+              "open"
+            ],
+            "after": ".",
+            "a": "empty"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In \"fried banana chips\", fried is a describing word.",
+            "a": true
+          },
+          {
+            "q": "In \"crispy papad\", papad is the describing word.",
+            "a": false
+          },
+          {
+            "q": "We can use two describing words together, like \"a big green leaf\".",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about your favourite meal. Use describing words.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary; check fitting adjectives, e.g. \"I love hot, spicy biryani.\""
+      }
+    ]
+  },
+  {
+    "id": "adjectives-15",
+    "topic": "adjectives",
+    "number": 15,
+    "level": "Challenge",
+    "title": "The School Art Exhibition",
+    "intro": "Class 2 is showing paintings at the art exhibition. Use describing words to talk about the art.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the best describing word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Tanvi painted a",
+            "options": [
+              "stormy",
+              "sleepy"
+            ],
+            "after": "sea with big waves.",
+            "a": "stormy"
+          },
+          {
+            "before": "Luis drew a giraffe with",
+            "options": [
+              "brown",
+              "square"
+            ],
+            "after": "patches.",
+            "a": "brown"
+          },
+          {
+            "before": "The",
+            "options": [
+              "huge",
+              "tiny"
+            ],
+            "after": "painting covered the whole wall.",
+            "a": "huge"
+          },
+          {
+            "before": "Arif's sunset is bright",
+            "options": [
+              "orange",
+              "frozen"
+            ],
+            "after": ".",
+            "a": "orange"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Read and fill in the word.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Tanvi's painting is 40 cm wide. Luis's is 60 cm wide. Luis's painting is ___.",
+            "a": "wider"
+          },
+          {
+            "q": "Arif's painting is 80 cm wide. It is the ___ of the three.",
+            "a": "widest"
+          },
+          {
+            "q": "Tanvi's painting is the ___ of the three.",
+            "a": "narrowest / smallest"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Is it a naming word or a describing word?",
+        "marks": 8,
+        "groups": [
+          "Naming word",
+          "Describing word"
+        ],
+        "words": [
+          "brush",
+          "messy",
+          "easel",
+          "bold",
+          "frame",
+          "neat",
+          "crayon",
+          "wet"
+        ],
+        "a": {
+          "brush": "Naming word",
+          "messy": "Describing word",
+          "easel": "Naming word",
+          "bold": "Describing word",
+          "frame": "Naming word",
+          "neat": "Describing word",
+          "crayon": "Naming word",
+          "wet": "Describing word"
+        }
+      },
+      {
+        "type": "rewrite",
+        "title": "Make this sentence more interesting. Add two describing words.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "The girl painted a flower.",
+            "a": "Any two fitting adjectives, e.g. \"The little girl painted a pink flower.\""
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write three sentences about a painting you would make. Use describing words.",
+        "marks": 3,
+        "lines": 3,
+        "a": "Answers will vary; check each sentence has at least one fitting adjective."
+      }
+    ]
   }
 ]

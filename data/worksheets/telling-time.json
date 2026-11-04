@@ -653,5 +653,1232 @@
         "a": "Answers will vary, for example: I brush my teeth."
       }
     ]
+  },
+  {
+    "id": "telling-time-06",
+    "topic": "telling-time",
+    "number": 6,
+    "level": "Practice",
+    "title": "Bedtime at Nani's House",
+    "intro": "Ishita stays the night at Nani's house in Jaipur. Read the clock times in her evening.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the time.",
+        "items": [
+          {
+            "q": "The long hand is on 6. The short hand is halfway between 7 and 8. It is ___.",
+            "a": "half past 7 / 7:30"
+          },
+          {
+            "q": "The long hand is on 12. The short hand is on 4. It is ___.",
+            "a": "4 o'clock / 4:00"
+          },
+          {
+            "q": "The long hand is on 6. The short hand is halfway between 8 and 9. It is ___.",
+            "a": "half past 8 / 8:30"
+          },
+          {
+            "q": "The long hand is on 12. The short hand is on 10. It is ___.",
+            "a": "10 o'clock / 10:00"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "pairs",
+        "title": "Write the time in words.",
+        "items": [
+          {
+            "q": "6:30",
+            "a": "half past 6"
+          },
+          {
+            "q": "9:00",
+            "a": "9 o'clock"
+          },
+          {
+            "q": "1:30",
+            "a": "half past 1"
+          },
+          {
+            "q": "12:30",
+            "a": "half past 12"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "items": [
+          {
+            "before": "At 9 o'clock, the long hand points to",
+            "options": [
+              "9",
+              "12",
+              "6"
+            ],
+            "after": "",
+            "a": "12"
+          },
+          {
+            "before": "At half past 4, the short hand is between",
+            "options": [
+              "3 and 4",
+              "4 and 5",
+              "5 and 6"
+            ],
+            "after": "",
+            "a": "4 and 5"
+          },
+          {
+            "before": "Half past 7 is the same as",
+            "options": [
+              "7:30",
+              "7:00",
+              "8:30"
+            ],
+            "after": "",
+            "a": "7:30"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "At half past 10, the long hand points to 6.",
+            "a": true
+          },
+          {
+            "q": "8:30 comes before 8:00.",
+            "a": false
+          },
+          {
+            "q": "The long hand is longer than the short hand.",
+            "a": true
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "fill",
+        "title": "Solve Nani's problems.",
+        "items": [
+          {
+            "q": "Ishita has dinner at 7 o'clock. She has a bath 1 hour later, at ___.",
+            "a": "8 o'clock / 8:00"
+          },
+          {
+            "q": "Nani tells a story from 8:30 to 9:00. The story takes ___ minutes.",
+            "a": "30"
+          },
+          {
+            "q": "Ishita falls asleep at half past 9. Nani sleeps 1 hour later, at ___.",
+            "a": "half past 10 / 10:30"
+          }
+        ],
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "telling-time-07",
+    "topic": "telling-time",
+    "number": 7,
+    "level": "Practice",
+    "title": "The Cricket Practice Timetable",
+    "intro": "Coach Fernandes has a timetable: batting 4:00 to 5:00, bowling 5:00 to 5:30, fielding 5:30 to 6:30.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the timetable.",
+        "items": [
+          {
+            "q": "Batting starts at ___.",
+            "a": "4:00 / 4 o'clock"
+          },
+          {
+            "q": "Bowling lasts ___ minutes.",
+            "a": "30"
+          },
+          {
+            "q": "Fielding lasts ___ hour.",
+            "a": "1"
+          },
+          {
+            "q": "Practice ends at ___.",
+            "a": "6:30 / half past 6"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "sort",
+        "title": "Sort the times.",
+        "groups": [
+          "O'clock",
+          "Half past"
+        ],
+        "words": [
+          "1:30",
+          "11:00",
+          "2:30",
+          "8:00",
+          "5:30",
+          "3:00"
+        ],
+        "a": {
+          "1:30": "Half past",
+          "11:00": "O'clock",
+          "2:30": "Half past",
+          "8:00": "O'clock",
+          "5:30": "Half past",
+          "3:00": "O'clock"
+        },
+        "marks": 3
+      },
+      {
+        "type": "match",
+        "title": "Match each time to 1 hour later.",
+        "items": [
+          {
+            "left": "4:00",
+            "right": "5:00"
+          },
+          {
+            "left": "5:30",
+            "right": "6:30"
+          },
+          {
+            "left": "11:30",
+            "right": "12:30"
+          },
+          {
+            "left": "12:00",
+            "right": "1:00"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "Batting is longer than bowling.",
+            "a": true
+          },
+          {
+            "q": "Bowling starts at half past 5.",
+            "a": false
+          },
+          {
+            "q": "The whole practice lasts 2 and a half hours.",
+            "a": true
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "fill",
+        "title": "Solve the practice problems.",
+        "items": [
+          {
+            "q": "Tom comes 30 minutes late for batting. He arrives at ___.",
+            "a": "4:30 / half past 4"
+          },
+          {
+            "q": "Asha leaves after bowling. She leaves at ___.",
+            "a": "5:30 / half past 5"
+          },
+          {
+            "q": "The coach gets there 1 hour before batting, at ___.",
+            "a": "3:00 / 3 o'clock"
+          }
+        ],
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "telling-time-08",
+    "topic": "telling-time",
+    "number": 8,
+    "level": "Practice",
+    "title": "Cooking Biryani with Papa",
+    "intro": "On Sunday, Rehan helps Papa cook biryani for the family lunch in Hyderabad.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the time the digital way.",
+        "items": [
+          {
+            "q": "10 o'clock",
+            "a": "10:00"
+          },
+          {
+            "q": "half past 10",
+            "a": "10:30"
+          },
+          {
+            "q": "half past 11",
+            "a": "11:30"
+          },
+          {
+            "q": "1 o'clock",
+            "a": "1:00"
+          },
+          {
+            "q": "half past 2",
+            "a": "2:30"
+          },
+          {
+            "q": "3 o'clock",
+            "a": "3:00"
+          }
+        ],
+        "marks": 6
+      },
+      {
+        "type": "fill",
+        "title": "Work out the cooking times.",
+        "items": [
+          {
+            "q": "They wash the rice at 10 o'clock. It soaks for half an hour, until ___.",
+            "a": "half past 10 / 10:30"
+          },
+          {
+            "q": "The meat cooks from 10:30 to 11:30. That is ___ hour.",
+            "a": "1"
+          },
+          {
+            "q": "The biryani goes on the stove at half past 11 and cooks for 1 hour. It is ready at ___.",
+            "a": "half past 12 / 12:30"
+          },
+          {
+            "q": "Lunch is at 1:00. They set the table half an hour before, at ___.",
+            "a": "12:30 / half past 12"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "choice",
+        "title": "Circle the later time.",
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "10:30",
+              "11:00"
+            ],
+            "after": "",
+            "a": "11:00"
+          },
+          {
+            "before": "",
+            "options": [
+              "half past 12",
+              "12 o'clock"
+            ],
+            "after": "",
+            "a": "half past 12"
+          },
+          {
+            "before": "",
+            "options": [
+              "2:00",
+              "1:30"
+            ],
+            "after": "",
+            "a": "2:00"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "From 11:30 to 12:30 is 1 hour.",
+            "a": true
+          },
+          {
+            "q": "Half an hour is 60 minutes.",
+            "a": false
+          },
+          {
+            "q": "At 1 o'clock, the long hand points to 1.",
+            "a": false
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "lines",
+        "title": "What do you like to eat for lunch? At what time do you eat it?",
+        "lines": 1,
+        "a": "e.g. I eat rice and dal at 1 o'clock.",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "telling-time-09",
+    "topic": "telling-time",
+    "number": 9,
+    "level": "Practice",
+    "title": "A Picnic at Al Safa Park",
+    "intro": "The Menon family goes to Al Safa Park for a picnic on a cool winter day.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle morning, afternoon or evening.",
+        "items": [
+          {
+            "before": "The family leaves home at 8 o'clock in the",
+            "options": [
+              "morning",
+              "afternoon",
+              "evening"
+            ],
+            "after": "after breakfast.",
+            "a": "morning"
+          },
+          {
+            "before": "They eat lunch at 1 o'clock in the",
+            "options": [
+              "morning",
+              "afternoon",
+              "evening"
+            ],
+            "after": "",
+            "a": "afternoon"
+          },
+          {
+            "before": "They watch the sunset at half past 5 in the",
+            "options": [
+              "morning",
+              "afternoon",
+              "evening"
+            ],
+            "after": "",
+            "a": "evening"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "fill",
+        "title": "Write the time.",
+        "items": [
+          {
+            "q": "The long hand is on 6. The short hand is halfway between 9 and 10. It is ___.",
+            "a": "half past 9 / 9:30"
+          },
+          {
+            "q": "The long hand is on 12. The short hand is on 11. It is ___.",
+            "a": "11 o'clock / 11:00"
+          },
+          {
+            "q": "The long hand is on 6. The short hand is halfway between 2 and 3. It is ___.",
+            "a": "half past 2 / 2:30"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "match",
+        "title": "Match the picnic time to the clock time.",
+        "items": [
+          {
+            "left": "Reach the park: 9 o'clock",
+            "right": "9:00"
+          },
+          {
+            "left": "Play football: half past 9",
+            "right": "9:30"
+          },
+          {
+            "left": "Feed the ducks: half past 11",
+            "right": "11:30"
+          },
+          {
+            "left": "Ride bikes: 3 o'clock",
+            "right": "3:00"
+          },
+          {
+            "left": "Go home: half past 5",
+            "right": "5:30"
+          }
+        ],
+        "marks": 5
+      },
+      {
+        "type": "fill",
+        "title": "Solve the picnic problems.",
+        "items": [
+          {
+            "q": "They play football from 9:30 to 11:30. They play for ___ hours.",
+            "a": "2"
+          },
+          {
+            "q": "The bike ride starts at 3:00 and lasts half an hour. It ends at ___.",
+            "a": "3:30 / half past 3"
+          },
+          {
+            "q": "They leave home at 8:00 and reach the park at 9:00. The drive takes ___ hour.",
+            "a": "1"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "They feed the ducks before they play football.",
+            "a": false
+          },
+          {
+            "q": "Sunset comes in the evening.",
+            "a": true
+          },
+          {
+            "q": "Lunch at 1 o'clock is after feeding the ducks.",
+            "a": true
+          }
+        ],
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "telling-time-10",
+    "topic": "telling-time",
+    "number": 10,
+    "level": "Practice",
+    "title": "The Onam Feast Day",
+    "intro": "It is Onam in Kerala. Anjali's family makes a flower carpet and eats a big feast on banana leaves.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the time half an hour later.",
+        "items": [
+          {
+            "q": "6:00",
+            "a": "6:30"
+          },
+          {
+            "q": "7:30",
+            "a": "8:00"
+          },
+          {
+            "q": "12:00",
+            "a": "12:30"
+          },
+          {
+            "q": "12:30",
+            "a": "1:00"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "fill",
+        "title": "Write the time in words.",
+        "items": [
+          {
+            "q": "6:00 is ___.",
+            "a": "6 o'clock"
+          },
+          {
+            "q": "7:30 is ___.",
+            "a": "half past 7"
+          },
+          {
+            "q": "12:30 is ___.",
+            "a": "half past 12"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "items": [
+          {
+            "before": "The hour hand is the",
+            "options": [
+              "short",
+              "long"
+            ],
+            "after": "hand.",
+            "a": "short"
+          },
+          {
+            "before": "One hour has",
+            "options": [
+              "30",
+              "60",
+              "100"
+            ],
+            "after": "minutes.",
+            "a": "60"
+          },
+          {
+            "before": "Half an hour has",
+            "options": [
+              "30",
+              "60",
+              "15"
+            ],
+            "after": "minutes.",
+            "a": "30"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "fill",
+        "title": "Solve the Onam problems.",
+        "items": [
+          {
+            "q": "Anjali starts the flower carpet at 6:00. She works for 2 hours. She stops at ___.",
+            "a": "8:00 / 8 o'clock"
+          },
+          {
+            "q": "The feast starts at half past 12 and lasts 1 hour. It ends at ___.",
+            "a": "half past 1 / 1:30"
+          },
+          {
+            "q": "The boat race is at 3 o'clock. The family leaves 1 hour before, at ___.",
+            "a": "2 o'clock / 2:00"
+          },
+          {
+            "q": "The dance show runs from 5:00 to 7:00. It lasts ___ hours.",
+            "a": "2"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "2 hours after 11:00 is 1:00.",
+            "a": true
+          },
+          {
+            "q": "Half an hour after 12:30 is 12:60.",
+            "a": false
+          },
+          {
+            "q": "The long hand goes round the clock once every hour.",
+            "a": true
+          }
+        ],
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "telling-time-11",
+    "topic": "telling-time",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Swimming Lessons at the Club",
+    "intro": "Kai and Zainab go to swimming lessons. At quarter past, the long hand points to 3. Quarter of an hour is 15 minutes.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the time.",
+        "items": [
+          {
+            "q": "The long hand is on 3. The short hand is just past 4. It is ___.",
+            "a": "quarter past 4 / 4:15"
+          },
+          {
+            "q": "The long hand is on 6. The short hand is halfway between 6 and 7. It is ___.",
+            "a": "half past 6 / 6:30"
+          },
+          {
+            "q": "The long hand is on 3. The short hand is just past 9. It is ___.",
+            "a": "quarter past 9 / 9:15"
+          },
+          {
+            "q": "The long hand is on 12. The short hand is on 11. It is ___.",
+            "a": "11 o'clock / 11:00"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "pairs",
+        "title": "Write the time the digital way.",
+        "items": [
+          {
+            "q": "quarter past 2",
+            "a": "2:15"
+          },
+          {
+            "q": "quarter past 5",
+            "a": "5:15"
+          },
+          {
+            "q": "quarter past 10",
+            "a": "10:15"
+          },
+          {
+            "q": "half past 7",
+            "a": "7:30"
+          },
+          {
+            "q": "quarter past 12",
+            "a": "12:15"
+          },
+          {
+            "q": "8 o'clock",
+            "a": "8:00"
+          }
+        ],
+        "marks": 6
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "items": [
+          {
+            "before": "At quarter past 3, the long hand points to",
+            "options": [
+              "3",
+              "6",
+              "12"
+            ],
+            "after": "",
+            "a": "3"
+          },
+          {
+            "before": "Quarter past 6 is",
+            "options": [
+              "6:15",
+              "6:30",
+              "3:06"
+            ],
+            "after": "",
+            "a": "6:15"
+          },
+          {
+            "before": "15 minutes after 1:00 is",
+            "options": [
+              "1:15",
+              "1:30",
+              "2:15"
+            ],
+            "after": "",
+            "a": "1:15"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "fill",
+        "title": "Solve the swimming problems.",
+        "items": [
+          {
+            "q": "The lesson starts at 4:15 and lasts half an hour. It ends at ___.",
+            "a": "4:45 / quarter to 5"
+          },
+          {
+            "q": "Kai gets in the pool at 4:00. He swims for 15 minutes. He stops at ___.",
+            "a": "4:15 / quarter past 4"
+          },
+          {
+            "q": "Zainab dries off from 4:45 to 5:00. That takes ___ minutes.",
+            "a": "15"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "Quarter past 9 is 9:15.",
+            "a": true
+          },
+          {
+            "q": "Quarter of an hour is 30 minutes.",
+            "a": false
+          },
+          {
+            "q": "At 2:15, the short hand is just past 2.",
+            "a": true
+          }
+        ],
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "telling-time-12",
+    "topic": "telling-time",
+    "number": 12,
+    "level": "Challenge",
+    "title": "The Flight to Kochi",
+    "intro": "Pooja's family flies from Dubai to Kochi for the holidays. The flight takes 4 hours. Use Dubai time for every answer.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Work out the times. Some need two steps.",
+        "items": [
+          {
+            "q": "They leave home at 5:30. The drive to the airport takes 1 hour. They arrive at ___.",
+            "a": "6:30 / half past 6"
+          },
+          {
+            "q": "The plane takes off at half past 8. It lands 4 hours later, at ___.",
+            "a": "half past 12 / 12:30"
+          },
+          {
+            "q": "They wait for bags from 12:30 to 1:00. They wait ___ minutes.",
+            "a": "30"
+          },
+          {
+            "q": "Grandma's house is 2 hours from the airport. If they leave at 1:00, they arrive at ___.",
+            "a": "3:00 / 3 o'clock"
+          },
+          {
+            "q": "They reach the airport at 6:30. Take-off is at 8:30. They wait ___ hours.",
+            "a": "2"
+          }
+        ],
+        "marks": 5
+      },
+      {
+        "type": "match",
+        "title": "Match each time to 2 hours later.",
+        "items": [
+          {
+            "left": "10:00",
+            "right": "12:00"
+          },
+          {
+            "left": "11:30",
+            "right": "1:30"
+          },
+          {
+            "left": "12:30",
+            "right": "2:30"
+          },
+          {
+            "left": "3:00",
+            "right": "5:00"
+          },
+          {
+            "left": "9:15",
+            "right": "11:15"
+          }
+        ],
+        "marks": 5
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "items": [
+          {
+            "before": "3 hours after 11:00 is",
+            "options": [
+              "2:00",
+              "1:00",
+              "3:00"
+            ],
+            "after": "",
+            "a": "2:00"
+          },
+          {
+            "before": "From 7:30 to 9:00 is",
+            "options": [
+              "1 hour",
+              "one and a half hours",
+              "2 hours"
+            ],
+            "after": "",
+            "a": "one and a half hours"
+          },
+          {
+            "before": "Half an hour before 12:00 is",
+            "options": [
+              "11:30",
+              "12:30",
+              "11:00"
+            ],
+            "after": "",
+            "a": "11:30"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "lines",
+        "title": "How long is your journey to school? Write the start and end times.",
+        "lines": 1,
+        "a": "e.g. I leave at 7:00 and reach at 7:30. It takes half an hour.",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "telling-time-13",
+    "topic": "telling-time",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Shows at the Science Centre",
+    "intro": "Class 2 visits the science centre in Sharjah. At quarter to, the long hand points to 9 and the short hand is nearly at the next hour.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the time.",
+        "items": [
+          {
+            "q": "The long hand is on 9. The short hand is nearly at 11. It is ___.",
+            "a": "quarter to 11 / 10:45"
+          },
+          {
+            "q": "The long hand is on 9. The short hand is nearly at 2. It is ___.",
+            "a": "quarter to 2 / 1:45"
+          },
+          {
+            "q": "The long hand is on 3. The short hand is just past 3. It is ___.",
+            "a": "quarter past 3 / 3:15"
+          },
+          {
+            "q": "The long hand is on 6. The short hand is halfway between 12 and 1. It is ___.",
+            "a": "half past 12 / 12:30"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "pairs",
+        "title": "Write the time in words.",
+        "items": [
+          {
+            "q": "2:45",
+            "a": "quarter to 3"
+          },
+          {
+            "q": "9:45",
+            "a": "quarter to 10"
+          },
+          {
+            "q": "6:15",
+            "a": "quarter past 6"
+          },
+          {
+            "q": "11:45",
+            "a": "quarter to 12"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "match",
+        "title": "Match the show to its time.",
+        "items": [
+          {
+            "left": "Planet show: quarter to 10",
+            "right": "9:45"
+          },
+          {
+            "left": "Robot show: quarter past 11",
+            "right": "11:15"
+          },
+          {
+            "left": "Bubble show: half past 12",
+            "right": "12:30"
+          },
+          {
+            "left": "Space film: quarter to 2",
+            "right": "1:45"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "fill",
+        "title": "Solve the science centre problems.",
+        "items": [
+          {
+            "q": "The planet show starts at 9:45 and lasts 15 minutes. It ends at ___.",
+            "a": "10:00 / 10 o'clock"
+          },
+          {
+            "q": "The bus should leave at 2:45. It is 15 minutes late. It leaves at ___.",
+            "a": "3:00 / 3 o'clock"
+          },
+          {
+            "q": "The robot show is at 11:15. Lunch is half an hour later, at ___.",
+            "a": "11:45 / quarter to 12"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "Quarter to 4 is 4:45.",
+            "a": false
+          },
+          {
+            "q": "Quarter to 4 is 15 minutes before 4 o'clock.",
+            "a": true
+          },
+          {
+            "q": "At quarter to 8, the long hand points to 9.",
+            "a": true
+          },
+          {
+            "q": "The bubble show is before the robot show.",
+            "a": false
+          }
+        ],
+        "marks": 4
+      }
+    ]
+  },
+  {
+    "id": "telling-time-14",
+    "topic": "telling-time",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Waiting for Iftar in Ramadan",
+    "intro": "It is Ramadan in Abu Dhabi. Yasmin's family breaks the fast at iftar, which is at quarter to 6 today.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Work out the times before iftar.",
+        "items": [
+          {
+            "q": "Iftar is at 5:45. Yasmin sets the dates on the table 15 minutes before, at ___.",
+            "a": "5:30 / half past 5"
+          },
+          {
+            "q": "Mama starts the soup 1 hour before iftar, at ___.",
+            "a": "4:45 / quarter to 5"
+          },
+          {
+            "q": "The family prays at 7:15. That is ___ minutes after iftar.",
+            "a": "90"
+          },
+          {
+            "q": "Grandpa comes home at 5:00. Iftar is ___ minutes later.",
+            "a": "45"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "choice",
+        "title": "Circle the earlier time.",
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "5:45",
+              "5:15"
+            ],
+            "after": "",
+            "a": "5:15"
+          },
+          {
+            "before": "",
+            "options": [
+              "6:15",
+              "5:45"
+            ],
+            "after": "",
+            "a": "5:45"
+          },
+          {
+            "before": "",
+            "options": [
+              "12:45",
+              "1:15"
+            ],
+            "after": "",
+            "a": "12:45"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "pairs",
+        "title": "Write the time 15 minutes later.",
+        "items": [
+          {
+            "q": "5:30",
+            "a": "5:45"
+          },
+          {
+            "q": "6:00",
+            "a": "6:15"
+          },
+          {
+            "q": "6:45",
+            "a": "7:00"
+          },
+          {
+            "q": "7:15",
+            "a": "7:30"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "Quarter to 6 comes after half past 5.",
+            "a": true
+          },
+          {
+            "q": "From 5:45 to 6:45 is half an hour.",
+            "a": false
+          },
+          {
+            "q": "4 quarters of an hour make 1 hour.",
+            "a": true
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "lines",
+        "title": "What does your family do in the evening? Write the time.",
+        "lines": 1,
+        "a": "e.g. We eat dinner at half past 7.",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "telling-time-15",
+    "topic": "telling-time",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Mix-Ups on the Class Timetable",
+    "intro": "Ms Pillai's class timetable has some mistakes. Help Class 2 check the times.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is it right? Circle True or False.",
+        "items": [
+          {
+            "q": "Assembly at 8:15 is quarter past 8.",
+            "a": true
+          },
+          {
+            "q": "Maths from 8:30 to 9:15 lasts 1 hour.",
+            "a": false
+          },
+          {
+            "q": "Break at 10:45 is quarter to 10.",
+            "a": false
+          },
+          {
+            "q": "Art at half past 11 is 11:30.",
+            "a": true
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "rewrite",
+        "title": "Fix the mistake. Write it correctly.",
+        "items": [
+          {
+            "q": "Break at 10:45 is quarter to 10.",
+            "a": "Break at 10:45 is quarter to 11."
+          },
+          {
+            "q": "Maths from 8:30 to 9:15 lasts 1 hour.",
+            "a": "Maths from 8:30 to 9:15 lasts 45 minutes."
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "fill",
+        "title": "Solve the timetable problems.",
+        "items": [
+          {
+            "q": "Music starts at 12:15 and lasts half an hour. It ends at ___.",
+            "a": "12:45 / quarter to 1"
+          },
+          {
+            "q": "School starts at 7:45 and ends at 1:45. The school day is ___ hours.",
+            "a": "6"
+          },
+          {
+            "q": "Lunch is from 11:45 to 12:15. It lasts ___ minutes.",
+            "a": "30"
+          },
+          {
+            "q": "Story time is at 12:45. Home time is 1 hour later, at ___.",
+            "a": "1:45 / quarter to 2"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right time.",
+        "items": [
+          {
+            "before": "Half an hour after quarter past 9 is",
+            "options": [
+              "quarter to 10",
+              "half past 9",
+              "10 o'clock"
+            ],
+            "after": "",
+            "a": "quarter to 10"
+          },
+          {
+            "before": "Quarter of an hour before 11:00 is",
+            "options": [
+              "10:45",
+              "11:15",
+              "10:15"
+            ],
+            "after": "",
+            "a": "10:45"
+          },
+          {
+            "before": "1 hour after quarter to 12 is",
+            "options": [
+              "quarter to 1",
+              "quarter past 12",
+              "1:45"
+            ],
+            "after": "",
+            "a": "quarter to 1"
+          }
+        ],
+        "marks": 3
+      }
+    ]
   }
 ]

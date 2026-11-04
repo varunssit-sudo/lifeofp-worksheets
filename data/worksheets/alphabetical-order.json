@@ -567,5 +567,1191 @@
         "a": "Answers will vary; check the three names are in correct ABC order."
       }
     ]
+  },
+  {
+    "id": "alphabetical-order-06",
+    "topic": "alphabetical-order",
+    "number": 6,
+    "level": "Practice",
+    "title": "The Fruit and Vegetable Cart",
+    "intro": "Uncle Joseph sells fruit and vegetables from his cart. Help him put his labels in ABC order.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the letter that comes between.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "c  ___  e",
+            "a": "d"
+          },
+          {
+            "q": "h  ___  j",
+            "a": "i"
+          },
+          {
+            "q": "l  ___  n",
+            "a": "m"
+          },
+          {
+            "q": "p  ___  r",
+            "a": "q"
+          },
+          {
+            "q": "s  ___  u",
+            "a": "t"
+          },
+          {
+            "q": "v  ___  x",
+            "a": "w"
+          },
+          {
+            "q": "a  ___  c",
+            "a": "b"
+          },
+          {
+            "q": "e  ___  g",
+            "a": "f"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the words in ABC order.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "potato, beans, lemon",
+            "a": "beans, lemon, potato"
+          },
+          {
+            "q": "okra, grapes, carrot, yam",
+            "a": "carrot, grapes, okra, yam"
+          },
+          {
+            "q": "radish, apple, mango, figs",
+            "a": "apple, figs, mango, radish"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that comes last in ABC order.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "onion",
+              "kiwi",
+              "plum"
+            ],
+            "after": "comes last.",
+            "a": "plum"
+          },
+          {
+            "before": "",
+            "options": [
+              "garlic",
+              "corn",
+              "tomato"
+            ],
+            "after": "comes last.",
+            "a": "tomato"
+          },
+          {
+            "before": "",
+            "options": [
+              "peas",
+              "banana",
+              "ladyfinger"
+            ],
+            "after": "comes last.",
+            "a": "peas"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"lime\" comes before \"jackfruit\".",
+            "a": false
+          },
+          {
+            "q": "\"guava\" comes before \"melon\".",
+            "a": true
+          },
+          {
+            "q": "\"spinach\" comes after \"dates\".",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write three fruits you like in ABC order.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check three fruits in correct ABC order, e.g. apple, grapes, mango."
+      }
+    ]
+  },
+  {
+    "id": "alphabetical-order-07",
+    "topic": "alphabetical-order",
+    "number": 7,
+    "level": "Practice",
+    "title": "The Class Birthday Chart",
+    "intro": "Ms Kapoor writes the class birthday chart. Names and months can go in ABC order too.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the name that comes first in ABC order.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "Tariq",
+              "Esha"
+            ],
+            "after": "comes first.",
+            "a": "Esha"
+          },
+          {
+            "before": "",
+            "options": [
+              "Vivek",
+              "Mariam"
+            ],
+            "after": "comes first.",
+            "a": "Mariam"
+          },
+          {
+            "before": "",
+            "options": [
+              "Ishan",
+              "Clara"
+            ],
+            "after": "comes first.",
+            "a": "Clara"
+          },
+          {
+            "before": "",
+            "options": [
+              "Zubin",
+              "Fatima"
+            ],
+            "after": "comes first.",
+            "a": "Fatima"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the months in ABC order.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "June, April, October",
+            "a": "April, June, October"
+          },
+          {
+            "q": "March, December, July, February",
+            "a": "December, February, July, March"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a name from the box to keep ABC order: Hari, Nadia, Uday.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Gopal, ___, Kim",
+            "a": "Hari"
+          },
+          {
+            "q": "Lara, ___, Pedro",
+            "a": "Nadia"
+          },
+          {
+            "q": "Rania, ___, Wen",
+            "a": "Uday"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Sunita, Tom, Usha\" is in ABC order.",
+            "a": true
+          },
+          {
+            "q": "\"Kiran, Bilal, Dev\" is in ABC order.",
+            "a": false
+          },
+          {
+            "q": "\"May\" comes before \"November\".",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write the birthday months of three people at home in ABC order.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check the months are in correct ABC order, e.g. August, January, May."
+      }
+    ]
+  },
+  {
+    "id": "alphabetical-order-08",
+    "topic": "alphabetical-order",
+    "number": 8,
+    "level": "Practice",
+    "title": "Tidying the Toy Box",
+    "intro": "Samir is tidying his toy box. When the first letters match, look at the second letter.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the toy that comes first in ABC order.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "kite",
+              "kazoo"
+            ],
+            "after": "comes first.",
+            "a": "kazoo"
+          },
+          {
+            "before": "",
+            "options": [
+              "blocks",
+              "bear"
+            ],
+            "after": "comes first.",
+            "a": "bear"
+          },
+          {
+            "before": "",
+            "options": [
+              "puzzle",
+              "plane"
+            ],
+            "after": "comes first.",
+            "a": "plane"
+          },
+          {
+            "before": "",
+            "options": [
+              "train",
+              "top"
+            ],
+            "after": "comes first.",
+            "a": "top"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the toys in ABC order. Look at the second letter.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "stickers, slide, spinner",
+            "a": "slide, spinner, stickers"
+          },
+          {
+            "q": "ribbon, rattle, ruler",
+            "a": "rattle, ribbon, ruler"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Does the word come before or after \"monkey\" in ABC order?",
+        "marks": 6,
+        "groups": [
+          "Before monkey",
+          "After monkey"
+        ],
+        "words": [
+          "magnet",
+          "music",
+          "mask",
+          "mud",
+          "mirror",
+          "mug"
+        ],
+        "a": {
+          "magnet": "Before monkey",
+          "music": "After monkey",
+          "mask": "Before monkey",
+          "mud": "After monkey",
+          "mirror": "Before monkey",
+          "mug": "After monkey"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"car\" comes before \"clock\".",
+            "a": true
+          },
+          {
+            "q": "\"fan\" comes after \"frog\".",
+            "a": false
+          },
+          {
+            "q": "\"sword\" comes after \"sail\".",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two toys that start with the same letter, in ABC order.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check the second letters are in order, e.g. ball, bus."
+      }
+    ]
+  },
+  {
+    "id": "alphabetical-order-09",
+    "topic": "alphabetical-order",
+    "number": 9,
+    "level": "Practice",
+    "title": "Party Invitation Cards",
+    "intro": "Ruby is writing invitation cards for her party. She stacks them in ABC order.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Write the names in ABC order.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "Pari, Kabir, Elif",
+            "a": "Elif, Kabir, Pari"
+          },
+          {
+            "q": "Sofia, Sana, Siddharth",
+            "a": "Sana, Siddharth, Sofia"
+          },
+          {
+            "q": "Arjun, Alina, Ahmed",
+            "a": "Ahmed, Alina, Arjun"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the letters just before and just after.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "e",
+            "a": "d, f"
+          },
+          {
+            "q": "i",
+            "a": "h, j"
+          },
+          {
+            "q": "l",
+            "a": "k, m"
+          },
+          {
+            "q": "o",
+            "a": "n, p"
+          },
+          {
+            "q": "y",
+            "a": "x, z"
+          },
+          {
+            "q": "d",
+            "a": "c, e"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the name that comes last in ABC order.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "Nikhil",
+              "Neha",
+              "Nora"
+            ],
+            "after": "comes last.",
+            "a": "Nora"
+          },
+          {
+            "before": "",
+            "options": [
+              "Bilal",
+              "Ben",
+              "Bob"
+            ],
+            "after": "comes last.",
+            "a": "Bob"
+          },
+          {
+            "before": "",
+            "options": [
+              "Hugo",
+              "Heer",
+              "Hana"
+            ],
+            "after": "comes last.",
+            "a": "Hugo"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Diya\" comes before \"Daniel\".",
+            "a": false
+          },
+          {
+            "q": "\"Mira\" comes before \"Mohan\".",
+            "a": true
+          },
+          {
+            "q": "\"Leo\" comes after \"Lakshmi\".",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write the names of three friends you would invite, in ABC order.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check the three names are in correct ABC order."
+      }
+    ]
+  },
+  {
+    "id": "alphabetical-order-10",
+    "topic": "alphabetical-order",
+    "number": 10,
+    "level": "Practice",
+    "title": "The Picture Dictionary",
+    "intro": "Riddhi is using a picture dictionary. All the words in a dictionary are in ABC order.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the word that comes between the two words.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "bat ...",
+            "options": [
+              "ant",
+              "bus"
+            ],
+            "after": "... cow",
+            "a": "bus"
+          },
+          {
+            "before": "hen ...",
+            "options": [
+              "jam",
+              "lamp"
+            ],
+            "after": "... king",
+            "a": "jam"
+          },
+          {
+            "before": "nest ...",
+            "options": [
+              "pen",
+              "star"
+            ],
+            "after": "... rope",
+            "a": "pen"
+          },
+          {
+            "before": "tap ...",
+            "options": [
+              "umbrella",
+              "wall"
+            ],
+            "after": "... van",
+            "a": "umbrella"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the letter.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The first letter of the alphabet is ___.",
+            "a": "a"
+          },
+          {
+            "q": "The last letter of the alphabet is ___.",
+            "a": "z"
+          },
+          {
+            "q": "The letter after m is ___.",
+            "a": "n"
+          },
+          {
+            "q": "The fifth letter of the alphabet is ___.",
+            "a": "e"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the words in ABC order.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "nose, eye, hand, leg, ear",
+            "a": "ear, eye, hand, leg, nose"
+          },
+          {
+            "q": "violin, drum, flute, harp",
+            "a": "drum, flute, harp, violin"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A dictionary puts words in ABC order.",
+            "a": true
+          },
+          {
+            "q": "\"zebra\" would be near the start of a dictionary.",
+            "a": false
+          },
+          {
+            "q": "\"apple\" would be near the start of a dictionary.",
+            "a": true
+          },
+          {
+            "q": "\"queen\" comes after \"pencil\".",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write three animal names in ABC order.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check three animals in correct ABC order, e.g. cat, dog, lion."
+      }
+    ]
+  },
+  {
+    "id": "alphabetical-order-11",
+    "topic": "alphabetical-order",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Mango Season at Nani's House",
+    "intro": "Ishita labels mango boxes at Nani's house in Lucknow. When the first two letters match, look at the third letter.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the word that comes first. Look at the third letter.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "mat",
+              "mango"
+            ],
+            "after": "comes first.",
+            "a": "mango"
+          },
+          {
+            "before": "",
+            "options": [
+              "salt",
+              "sack"
+            ],
+            "after": "comes first.",
+            "a": "sack"
+          },
+          {
+            "before": "",
+            "options": [
+              "pear",
+              "peach"
+            ],
+            "after": "comes first.",
+            "a": "peach"
+          },
+          {
+            "before": "",
+            "options": [
+              "chips",
+              "chilli"
+            ],
+            "after": "comes first.",
+            "a": "chilli"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the words in ABC order. Look at the third letter.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "basket, bag, bamboo",
+            "a": "bag, bamboo, basket"
+          },
+          {
+            "q": "stone, stick, stamp",
+            "a": "stamp, stick, stone"
+          },
+          {
+            "q": "fruit, fresh, from",
+            "a": "fresh, from, fruit"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"seed\" comes before \"seat\".",
+            "a": false
+          },
+          {
+            "q": "\"tree\" comes after \"trap\".",
+            "a": true
+          },
+          {
+            "q": "\"grape, green, grow\" is in ABC order.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a word from the box to keep ABC order: shell, shirt, shop.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "sheep, ___, shine",
+            "a": "shell"
+          },
+          {
+            "q": "ship, ___, shoe",
+            "a": "shirt"
+          },
+          {
+            "q": "shoe, ___, shut",
+            "a": "shop"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write three words that start with ch, in ABC order.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check the third letters are in order, e.g. chair, cheese, chop."
+      }
+    ]
+  },
+  {
+    "id": "alphabetical-order-12",
+    "topic": "alphabetical-order",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Spelling Bee Practice",
+    "intro": "Class 2 is getting ready for the spelling bee. Some word lists are in the wrong order. Find and fix them.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is the list in ABC order? Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "\"rocket, rose, ruby\"",
+            "a": true
+          },
+          {
+            "q": "\"jelly, juice, jam\"",
+            "a": false
+          },
+          {
+            "q": "\"wagon, whale, window\"",
+            "a": true
+          },
+          {
+            "q": "\"nail, needle, noodle\"",
+            "a": true
+          },
+          {
+            "q": "\"quiet, quack, quick\"",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Fix these lists. Write them in ABC order.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "jelly, juice, jam",
+            "a": "jam, jelly, juice"
+          },
+          {
+            "q": "quiet, quack, quick",
+            "a": "quack, quick, quiet"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Skip one letter. Write the letter two places after.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "b",
+            "a": "d"
+          },
+          {
+            "q": "g",
+            "a": "i"
+          },
+          {
+            "q": "j",
+            "a": "l"
+          },
+          {
+            "q": "n",
+            "a": "p"
+          },
+          {
+            "q": "s",
+            "a": "u"
+          },
+          {
+            "q": "v",
+            "a": "x"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that is in the wrong place.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "\"bell, cake, ant, dog\"",
+            "options": [
+              "bell",
+              "cake",
+              "ant",
+              "dog"
+            ],
+            "after": "",
+            "a": "ant"
+          },
+          {
+            "before": "\"fish, goat, hen, eel\"",
+            "options": [
+              "fish",
+              "goat",
+              "hen",
+              "eel"
+            ],
+            "after": "",
+            "a": "eel"
+          },
+          {
+            "before": "\"pin, rug, sun, quilt\"",
+            "options": [
+              "pin",
+              "rug",
+              "sun",
+              "quilt"
+            ],
+            "after": "",
+            "a": "quilt"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write four spelling words you know in ABC order.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check four words in correct ABC order."
+      }
+    ]
+  },
+  {
+    "id": "alphabetical-order-13",
+    "topic": "alphabetical-order",
+    "number": 13,
+    "level": "Challenge",
+    "title": "The Camping Kit List",
+    "intro": "Aryan's scout group is going camping in Hatta. The kit list must be in ABC order.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Write the kit list in ABC order.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "rope, map, mat, torch, kettle",
+            "a": "kettle, map, mat, rope, torch"
+          },
+          {
+            "q": "stove, spoon, sleeping bag, snacks, socks",
+            "a": "sleeping bag, snacks, socks, spoon, stove"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that comes third in ABC order.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "tent",
+              "axe",
+              "lamp"
+            ],
+            "after": "is third.",
+            "a": "tent"
+          },
+          {
+            "before": "",
+            "options": [
+              "whistle",
+              "cap",
+              "net"
+            ],
+            "after": "is third.",
+            "a": "whistle"
+          },
+          {
+            "before": "",
+            "options": [
+              "pegs",
+              "bucket",
+              "hat"
+            ],
+            "after": "is third.",
+            "a": "pegs"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the missing letters.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "g  ___  i  ___  k",
+            "a": "h, j"
+          },
+          {
+            "q": "o  ___  ___  r",
+            "a": "p, q"
+          },
+          {
+            "q": "___  v  w  ___",
+            "a": "u, x"
+          },
+          {
+            "q": "b  ___  ___  e",
+            "a": "c, d"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"first aid kit\" comes before \"flask\".",
+            "a": true
+          },
+          {
+            "q": "\"water\" comes after \"wood\".",
+            "a": false
+          },
+          {
+            "q": "\"blanket\" comes before \"boots\".",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "What would you pack for camping? Write three things in ABC order.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check three things in correct ABC order, e.g. hat, rope, torch."
+      }
+    ]
+  },
+  {
+    "id": "alphabetical-order-14",
+    "topic": "alphabetical-order",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Building Name Board",
+    "intro": "Kai's building in Sharjah lists families in ABC order. Names a to h live on floor 1, i to p on floor 2, and q to z on floor 3.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Write the family names in ABC order.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "Nair, Ali, Menon, Gupta",
+            "a": "Ali, Gupta, Menon, Nair"
+          },
+          {
+            "q": "Sharma, Smith, Sato, Sen",
+            "a": "Sato, Sen, Sharma, Smith"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the floor for each family.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The Kim family lives on floor",
+            "options": [
+              "1",
+              "2",
+              "3"
+            ],
+            "after": ".",
+            "a": "2"
+          },
+          {
+            "before": "The Reddy family lives on floor",
+            "options": [
+              "1",
+              "2",
+              "3"
+            ],
+            "after": ".",
+            "a": "3"
+          },
+          {
+            "before": "The Bose family lives on floor",
+            "options": [
+              "1",
+              "2",
+              "3"
+            ],
+            "after": ".",
+            "a": "1"
+          },
+          {
+            "before": "The Patel family lives on floor",
+            "options": [
+              "1",
+              "2",
+              "3"
+            ],
+            "after": ".",
+            "a": "2"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a name from the box to keep ABC order: Joshi, Lee, Ortiz.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Iyer, ___, Khan",
+            "a": "Joshi"
+          },
+          {
+            "q": "Kapoor, ___, Mehta",
+            "a": "Lee"
+          },
+          {
+            "q": "Nanda, ___, Patel",
+            "a": "Ortiz"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Thomas\" comes before \"Taylor\".",
+            "a": false
+          },
+          {
+            "q": "\"Das\" comes before \"Dutta\".",
+            "a": true
+          },
+          {
+            "q": "\"Bakshi\" comes before \"Bose\".",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write your family name and two friends' family names in ABC order.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check the three names are in correct ABC order."
+      }
+    ]
+  },
+  {
+    "id": "alphabetical-order-15",
+    "topic": "alphabetical-order",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Planning a Trip to Jaipur",
+    "intro": "Neel's family is planning a holiday in Jaipur. Use ABC order to make their lists neat.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Write the words in ABC order.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "palace, fort, camel, bazaar, elephant",
+            "a": "bazaar, camel, elephant, fort, palace"
+          },
+          {
+            "q": "kite, kulfi, kachori, kurta",
+            "a": "kachori, kite, kulfi, kurta"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that comes between the two words.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "ham ...",
+            "options": [
+              "hall",
+              "hand"
+            ],
+            "after": "... hat",
+            "a": "hand"
+          },
+          {
+            "before": "rain ...",
+            "options": [
+              "rake",
+              "rat"
+            ],
+            "after": "... rash",
+            "a": "rake"
+          },
+          {
+            "before": "sand ...",
+            "options": [
+              "sari",
+              "sun"
+            ],
+            "after": "... sea",
+            "a": "sari"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"lassi\" comes after \"laddoo\".",
+            "a": true
+          },
+          {
+            "q": "\"puppet\" comes before \"pottery\".",
+            "a": false
+          },
+          {
+            "q": "A word starting with b always comes before a word starting with c.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write a word that fits in ABC order.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "dog, ___, fish",
+            "a": "e.g. egg (a word between dog and fish)"
+          },
+          {
+            "q": "hat, ___, jug",
+            "a": "e.g. ice (a word between hat and jug)"
+          },
+          {
+            "q": "sun, ___, van",
+            "a": "e.g. umbrella (a word between sun and van)"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write five things you might see on a holiday, in ABC order.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary; check five things in correct ABC order."
+      }
+    ]
   }
 ]

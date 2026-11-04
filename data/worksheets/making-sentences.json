@@ -562,5 +562,1159 @@
         "a": "Answers will vary; one sentence ending in a full stop and one in a question mark."
       }
     ]
+  },
+  {
+    "id": "making-sentences-06",
+    "topic": "making-sentences",
+    "number": 6,
+    "level": "Practice",
+    "title": "The School Bus Ride",
+    "intro": "Every day Arya rides the school bus. Make sentences that tell about the ride.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Put the words in order to make a sentence.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "bus / the / yellow / is",
+            "a": "The bus is yellow."
+          },
+          {
+            "q": "driver / Mr Gill / the / is",
+            "a": "Mr Gill is the driver. / The driver is Mr Gill."
+          },
+          {
+            "q": "window / Arya / sits / the / by",
+            "a": "Arya sits by the window."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Is it a sentence? Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "\"The bus stops at the gate.\"",
+            "a": true
+          },
+          {
+            "q": "\"near the big signal\"",
+            "a": false
+          },
+          {
+            "q": "\"Ben waves to his mum.\"",
+            "a": true
+          },
+          {
+            "q": "\"the seat belt\"",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Add a word to finish the sentence.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The bus ___ at seven o'clock.",
+            "a": "e.g. comes / leaves / stops"
+          },
+          {
+            "q": "Arya ___ her seat belt.",
+            "a": "e.g. wears / fastens / buckles"
+          },
+          {
+            "q": "We sing ___ on the bus.",
+            "a": "e.g. songs"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct sentence.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "The bus is full.",
+              "the bus is full"
+            ],
+            "after": "",
+            "a": "The bus is full."
+          },
+          {
+            "before": "",
+            "options": [
+              "can you see our school?",
+              "Can you see our school?"
+            ],
+            "after": "",
+            "a": "Can you see our school?"
+          },
+          {
+            "before": "",
+            "options": [
+              "We get off at school.",
+              "We get off at school"
+            ],
+            "after": "",
+            "a": "We get off at school."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about how you go to school.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check capital letter, full stop and complete sense."
+      }
+    ]
+  },
+  {
+    "id": "making-sentences-07",
+    "topic": "making-sentences",
+    "number": 7,
+    "level": "Practice",
+    "title": "At the Vegetable Market",
+    "intro": "Zoya goes to the vegetable market with her Ammi in Hyderabad. Make telling and asking sentences.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Is it a telling sentence or an asking sentence?",
+        "marks": 6,
+        "groups": [
+          "Telling",
+          "Asking"
+        ],
+        "words": [
+          "How much are the tomatoes",
+          "The carrots are fresh",
+          "Do you have green chillies",
+          "Ammi buys two cabbages",
+          "Which beans are the best",
+          "The seller weighs the potatoes"
+        ],
+        "a": {
+          "How much are the tomatoes": "Asking",
+          "The carrots are fresh": "Telling",
+          "Do you have green chillies": "Asking",
+          "Ammi buys two cabbages": "Telling",
+          "Which beans are the best": "Asking",
+          "The seller weighs the potatoes": "Telling"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Put a full stop (.) or a question mark (?) at the end.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Are the bananas ripe ___",
+            "a": "?"
+          },
+          {
+            "q": "The basket is very heavy ___",
+            "a": "."
+          },
+          {
+            "q": "Where is the coriander ___",
+            "a": "?"
+          },
+          {
+            "q": "Zoya carries the bag ___",
+            "a": "."
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Put the words in order to make an asking sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "you / do / onions / sell",
+            "a": "Do you sell onions?"
+          },
+          {
+            "q": "the / are / where / lemons",
+            "a": "Where are the lemons?"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that makes the sentence complete.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Ammi",
+            "options": [
+              "buys",
+              "peas"
+            ],
+            "after": "fresh spinach.",
+            "a": "buys"
+          },
+          {
+            "before": "The",
+            "options": [
+              "seller",
+              "quickly"
+            ],
+            "after": "smiles at us.",
+            "a": "seller"
+          },
+          {
+            "before": "Zoya",
+            "options": [
+              "likes",
+              "green"
+            ],
+            "after": "red apples.",
+            "a": "likes"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one question you could ask the seller.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check it ends with a question mark, e.g. \"How much is the cauliflower?\""
+      }
+    ]
+  },
+  {
+    "id": "making-sentences-08",
+    "topic": "making-sentences",
+    "number": 8,
+    "level": "Practice",
+    "title": "Sandcastles at Kite Beach",
+    "intro": "Ethan and Ruhi build sandcastles at Kite Beach. A sentence can tell who, what they do and where.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match who to what they do.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "The waves",
+            "right": "crash on the shore."
+          },
+          {
+            "left": "Ruhi",
+            "right": "digs a deep moat."
+          },
+          {
+            "left": "A crab",
+            "right": "walks sideways."
+          },
+          {
+            "left": "Ethan",
+            "right": "fills his bucket with sand."
+          },
+          {
+            "left": "The lifeguard",
+            "right": "watches the swimmers."
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the doing word in each sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Ruhi pats the sand.",
+            "a": "pats"
+          },
+          {
+            "q": "Ethan builds a tower.",
+            "a": "builds"
+          },
+          {
+            "q": "Gulls fly over us.",
+            "a": "fly"
+          },
+          {
+            "q": "Dad reads a book.",
+            "a": "reads"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Make the sentence longer. Add where it happens.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Ethan built a castle.",
+            "a": "e.g. \"Ethan built a castle on the beach.\""
+          },
+          {
+            "q": "The children played.",
+            "a": "e.g. \"The children played near the water.\""
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the group of words that is a sentence.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "on the wet sand",
+              "We sat on the wet sand."
+            ],
+            "after": "",
+            "a": "We sat on the wet sand."
+          },
+          {
+            "before": "",
+            "options": [
+              "Ruhi found a shell.",
+              "a pink shell"
+            ],
+            "after": "",
+            "a": "Ruhi found a shell."
+          },
+          {
+            "before": "",
+            "options": [
+              "blue and calm",
+              "The sea is blue."
+            ],
+            "after": "",
+            "a": "The sea is blue."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Ethan builds\" tells who and what he does.",
+            "a": true
+          },
+          {
+            "q": "\"In the sand\" is a full sentence.",
+            "a": false
+          },
+          {
+            "q": "A sentence must make complete sense.",
+            "a": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "making-sentences-09",
+    "topic": "making-sentences",
+    "number": 9,
+    "level": "Practice",
+    "title": "Story Hour at the Library",
+    "intro": "Ms Chen reads a story to Class 2 in the library. Choose words to make complete sentences.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the word that fits.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Ms Chen",
+            "options": [
+              "reads",
+              "book"
+            ],
+            "after": "us a funny story.",
+            "a": "reads"
+          },
+          {
+            "before": "The children",
+            "options": [
+              "sit",
+              "chairs"
+            ],
+            "after": "on the carpet.",
+            "a": "sit"
+          },
+          {
+            "before": "The story is about a",
+            "options": [
+              "lazy",
+              "run"
+            ],
+            "after": "lion.",
+            "a": "lazy"
+          },
+          {
+            "before": "We",
+            "options": [
+              "laugh",
+              "happy"
+            ],
+            "after": "at the end.",
+            "a": "laugh"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Put the words in order to make a sentence.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "loves / Nisha / books / picture",
+            "a": "Nisha loves picture books."
+          },
+          {
+            "q": "quiet / the / is / library",
+            "a": "The library is quiet."
+          },
+          {
+            "q": "book / which / you / like / did",
+            "a": "Which book did you like?"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"The librarian stamps my book.\" is a complete sentence.",
+            "a": true
+          },
+          {
+            "q": "\"reads a story\" is a complete sentence.",
+            "a": false
+          },
+          {
+            "q": "An asking sentence can start with Which.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a naming word to tell who or what.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "___ turns the page.",
+            "a": "e.g. Ms Chen / The teacher"
+          },
+          {
+            "q": "The ___ has a red cover.",
+            "a": "e.g. book"
+          },
+          {
+            "q": "___ put the books back on the shelf.",
+            "a": "e.g. We / The children"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a sentence about a book you like.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check capital letter, full stop and complete sense."
+      }
+    ]
+  },
+  {
+    "id": "making-sentences-10",
+    "topic": "making-sentences",
+    "number": 10,
+    "level": "Practice",
+    "title": "Feeding Birds on the Balcony",
+    "intro": "Every evening Laila puts out water and grain for the birds on her balcony in Abu Dhabi.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Write it correctly with a capital letter and an end mark.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "laila fills a bowl with water",
+            "a": "Laila fills a bowl with water."
+          },
+          {
+            "q": "a pigeon drinks the water",
+            "a": "A pigeon drinks the water."
+          },
+          {
+            "q": "do sparrows like rice",
+            "a": "Do sparrows like rice?"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the start to the end.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Two sparrows",
+            "right": "hop on the railing."
+          },
+          {
+            "left": "Laila's brother",
+            "right": "takes a photo."
+          },
+          {
+            "left": "The grain",
+            "right": "is in a small dish."
+          },
+          {
+            "left": "A myna",
+            "right": "sings a loud song."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct end mark.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "What do pigeons eat",
+            "options": [
+              ".",
+              "?"
+            ],
+            "after": "",
+            "a": "?"
+          },
+          {
+            "before": "The birds come at sunset",
+            "options": [
+              ".",
+              "?"
+            ],
+            "after": "",
+            "a": "."
+          },
+          {
+            "before": "Is the dish empty",
+            "options": [
+              ".",
+              "?"
+            ],
+            "after": "",
+            "a": "?"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"the birds are hungry.\" is written correctly.",
+            "a": false
+          },
+          {
+            "q": "\"Laila loves birds.\" is a telling sentence.",
+            "a": true
+          },
+          {
+            "q": "\"bowl on the\" makes complete sense.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a bird you have seen.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary; check capital letters, end marks and complete sense."
+      }
+    ]
+  },
+  {
+    "id": "making-sentences-11",
+    "topic": "making-sentences",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Visiting the Fire Station",
+    "intro": "Class 2 visits the fire station. We can turn a telling sentence into an asking one: The truck is red. Is the truck red?",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Change each telling sentence into an asking sentence.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "The fire truck is big.",
+            "a": "Is the fire truck big?"
+          },
+          {
+            "q": "The firefighters are brave.",
+            "a": "Are the firefighters brave?"
+          },
+          {
+            "q": "The ladder is very long.",
+            "a": "Is the ladder very long?"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best question word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "Who",
+              "Where",
+              "What",
+              "When"
+            ],
+            "after": "drives the fire truck?",
+            "a": "Who"
+          },
+          {
+            "before": "",
+            "options": [
+              "Who",
+              "Where",
+              "What",
+              "When"
+            ],
+            "after": "do they keep the hoses?",
+            "a": "Where"
+          },
+          {
+            "before": "",
+            "options": [
+              "Who",
+              "Where",
+              "What",
+              "When"
+            ],
+            "after": "colour is the helmet?",
+            "a": "What"
+          },
+          {
+            "before": "",
+            "options": [
+              "Who",
+              "Where",
+              "What",
+              "When"
+            ],
+            "after": "did the visit start? At ten o'clock.",
+            "a": "When"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Put a full stop (.) or a question mark (?) at the end.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Firefighters wear thick boots ___",
+            "a": "."
+          },
+          {
+            "q": "Can I sit in the truck ___",
+            "a": "?"
+          },
+          {
+            "q": "How fast does the truck go ___",
+            "a": "?"
+          },
+          {
+            "q": "The siren is very loud ___",
+            "a": "."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Is the hose long?\" is an asking sentence.",
+            "a": true
+          },
+          {
+            "q": "\"Are the trucks red.\" is written correctly.",
+            "a": false
+          },
+          {
+            "q": "To ask a question, we can move \"is\" to the start.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a question you would ask a firefighter.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check capital letter and question mark, e.g. \"How do you slide down the pole?\""
+      }
+    ]
+  },
+  {
+    "id": "making-sentences-12",
+    "topic": "making-sentences",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Raksha Bandhan Morning",
+    "intro": "It is Raksha Bandhan! An exclamation sentence shows a strong feeling. It ends with an exclamation mark (!).",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Is it a telling, asking or exclamation sentence?",
+        "marks": 6,
+        "groups": [
+          "Telling",
+          "Asking",
+          "Exclamation"
+        ],
+        "words": [
+          "What a beautiful rakhi",
+          "Did you bring sweets",
+          "Diya ties a rakhi on Aman",
+          "Wow, this is so shiny",
+          "Where is my rakhi",
+          "Aman gives her a gift"
+        ],
+        "a": {
+          "What a beautiful rakhi": "Exclamation",
+          "Did you bring sweets": "Asking",
+          "Diya ties a rakhi on Aman": "Telling",
+          "Wow, this is so shiny": "Exclamation",
+          "Where is my rakhi": "Asking",
+          "Aman gives her a gift": "Telling"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Put . or ? or ! at the end.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Hurray, it is a holiday ___",
+            "a": "!"
+          },
+          {
+            "q": "Aman wears a new kurta ___",
+            "a": "."
+          },
+          {
+            "q": "Do you like the rakhi ___",
+            "a": "?"
+          },
+          {
+            "q": "What a lovely gift ___",
+            "a": "!"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct sentence.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "what a big box of sweets!",
+              "What a big box of sweets!"
+            ],
+            "after": "",
+            "a": "What a big box of sweets!"
+          },
+          {
+            "before": "",
+            "options": [
+              "Is the thali ready?",
+              "Is the thali ready."
+            ],
+            "after": "",
+            "a": "Is the thali ready?"
+          },
+          {
+            "before": "",
+            "options": [
+              "Diya smiles at her brother.",
+              "diya smiles at her brother"
+            ],
+            "after": "",
+            "a": "Diya smiles at her brother."
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Put the words in order. Add the right end mark.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "rakhi / sparkly / a / what",
+            "a": "What a sparkly rakhi!"
+          },
+          {
+            "q": "you / did / sweets / eat / the",
+            "a": "Did you eat the sweets?"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one exclamation sentence about a festival.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check it ends with !, e.g. \"What bright lights!\""
+      }
+    ]
+  },
+  {
+    "id": "making-sentences-13",
+    "topic": "making-sentences",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Houseboat Day in Kerala",
+    "intro": "Sneha's family spends a day on a houseboat in Alleppey. Some sentences have two mistakes.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Each sentence has two mistakes. Write it correctly.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "the boat moves slowly",
+            "a": "The boat moves slowly."
+          },
+          {
+            "q": "can we see ducks.",
+            "a": "Can we see ducks?"
+          },
+          {
+            "q": "sneha waves at the fishermen",
+            "a": "Sneha waves at the fishermen."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Is it written correctly? Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The water is green and still.",
+            "a": true
+          },
+          {
+            "q": "where is the cook?",
+            "a": false
+          },
+          {
+            "q": "We ate fish curry for lunch.",
+            "a": true
+          },
+          {
+            "q": "The boat has a roof made of straw?",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the sentence with the words in the right order.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "Sneha sees a kingfisher.",
+              "Sees Sneha a kingfisher."
+            ],
+            "after": "",
+            "a": "Sneha sees a kingfisher."
+          },
+          {
+            "before": "",
+            "options": [
+              "Makes the cook appams.",
+              "The cook makes appams."
+            ],
+            "after": "",
+            "a": "The cook makes appams."
+          },
+          {
+            "before": "",
+            "options": [
+              "Where are the oars?",
+              "Where the oars are?"
+            ],
+            "after": "",
+            "a": "Where are the oars?"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a word to make a complete sentence.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The houseboat ___ on the backwaters.",
+            "a": "e.g. floats / sails / moves"
+          },
+          {
+            "q": "___ sleeps in the cabin.",
+            "a": "e.g. Grandpa / Sneha"
+          },
+          {
+            "q": "We ___ the sunset from the deck.",
+            "a": "e.g. watch / see"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a holiday. Check the capitals and end marks.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary; check capital letters, end marks and complete sense."
+      }
+    ]
+  },
+  {
+    "id": "making-sentences-14",
+    "topic": "making-sentences",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Our Class Pet Hamster",
+    "intro": "Class 2 has a pet hamster named Peanut. Make longer sentences about him.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Put the words in order to make a sentence.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "Peanut / in / sleeps / day / the",
+            "a": "Peanut sleeps in the day."
+          },
+          {
+            "q": "seeds / eats / he / sunflower / tiny",
+            "a": "He eats tiny sunflower seeds."
+          },
+          {
+            "q": "Peanut / who / today / will / feed",
+            "a": "Who will feed Peanut today?"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Is it a sentence or not a sentence?",
+        "marks": 6,
+        "groups": [
+          "Sentence",
+          "Not a sentence"
+        ],
+        "words": [
+          "Peanut runs on his wheel.",
+          "a soft brown",
+          "We clean his cage on Friday.",
+          "inside the little house",
+          "Does Peanut like carrots?",
+          "and the water bottle"
+        ],
+        "a": {
+          "Peanut runs on his wheel.": "Sentence",
+          "a soft brown": "Not a sentence",
+          "We clean his cage on Friday.": "Sentence",
+          "inside the little house": "Not a sentence",
+          "Does Peanut like carrots?": "Sentence",
+          "and the water bottle": "Not a sentence"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that makes the best sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Peanut has",
+            "options": [
+              "soft",
+              "run"
+            ],
+            "after": "fur.",
+            "a": "soft"
+          },
+          {
+            "before": "He",
+            "options": [
+              "stuffs",
+              "cheeks"
+            ],
+            "after": "food in his cheeks.",
+            "a": "stuffs"
+          },
+          {
+            "before": "Ms Ade",
+            "options": [
+              "gives",
+              "under"
+            ],
+            "after": "him fresh water.",
+            "a": "gives"
+          },
+          {
+            "before": "Does he",
+            "options": [
+              "sleep",
+              "sleeps"
+            ],
+            "after": "at night?",
+            "a": "sleep"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a pet. Make each one at least six words long.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary; check each sentence has six or more words, a capital letter and an end mark."
+      }
+    ]
+  },
+  {
+    "id": "making-sentences-15",
+    "topic": "making-sentences",
+    "number": 15,
+    "level": "Challenge",
+    "title": "The Winter Fair at School",
+    "intro": "Our school has a winter fair with games and food stalls. Use all you know to write good sentences.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the right end mark.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "What fun this fair is",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "!"
+          },
+          {
+            "before": "Which stall sells popcorn",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "?"
+          },
+          {
+            "before": "My brother won a teddy",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "."
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Put the words in order to make a sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "the / at / candy floss / we / bought / stall",
+            "a": "We bought candy floss at the stall. / At the stall we bought candy floss."
+          },
+          {
+            "q": "game / can / which / play / I",
+            "a": "Which game can I play?"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A sentence can be a telling, asking or exclamation sentence.",
+            "a": true
+          },
+          {
+            "q": "\"Ring toss game\" is a complete sentence.",
+            "a": false
+          },
+          {
+            "q": "\"How tall the giant wheel is!\" is an exclamation sentence.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the start to the end.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "The face painter",
+            "right": "draws a tiger on my cheek."
+          },
+          {
+            "left": "Two clowns",
+            "right": "juggle red balls."
+          },
+          {
+            "left": "Our principal",
+            "right": "opens the fair."
+          },
+          {
+            "left": "Hot corn",
+            "right": "smells buttery."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write three sentences about a fair: one telling, one asking and one exclamation.",
+        "marks": 3,
+        "lines": 3,
+        "a": "Answers will vary; check one ends with a full stop, one with a question mark and one with an exclamation mark."
+      }
+    ]
   }
 ]

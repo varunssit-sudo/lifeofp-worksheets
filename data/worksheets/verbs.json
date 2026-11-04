@@ -695,5 +695,1277 @@
         ]
       }
     ]
+  },
+  {
+    "id": "verbs-06",
+    "topic": "verbs",
+    "number": 6,
+    "level": "Practice",
+    "title": "Getting Ready for School",
+    "intro": "Every morning, Pooja gets ready for school. Find the action words.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the verb in each sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Pooja brushes her teeth. The verb is",
+            "options": [
+              "Pooja",
+              "brushes",
+              "teeth"
+            ],
+            "after": "",
+            "a": "brushes"
+          },
+          {
+            "before": "Papa irons her uniform. The verb is",
+            "options": [
+              "Papa",
+              "irons",
+              "uniform"
+            ],
+            "after": "",
+            "a": "irons"
+          },
+          {
+            "before": "The kettle whistles loudly. The verb is",
+            "options": [
+              "kettle",
+              "whistles",
+              "loudly"
+            ],
+            "after": "",
+            "a": "whistles"
+          },
+          {
+            "before": "Pooja combs her hair. The verb is",
+            "options": [
+              "Pooja",
+              "combs",
+              "hair"
+            ],
+            "after": "",
+            "a": "combs"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Add s or es to the verb in brackets.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Pooja ___ (wake) up at six.",
+            "a": "wakes"
+          },
+          {
+            "q": "Her brother ___ (yawn) loudly.",
+            "a": "yawns"
+          },
+          {
+            "q": "Mama ___ (pack) the lunch box.",
+            "a": "packs"
+          },
+          {
+            "q": "Pooja ___ (catch) the school bus.",
+            "a": "catches"
+          },
+          {
+            "q": "The bus ___ (rush) down the road.",
+            "a": "rushes"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each one to its action.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "The milkman",
+            "right": "delivers the milk."
+          },
+          {
+            "left": "The driver",
+            "right": "drives the bus."
+          },
+          {
+            "left": "The alarm clock",
+            "right": "rings."
+          },
+          {
+            "left": "Grandpa",
+            "right": "reads the newspaper."
+          },
+          {
+            "left": "The puppy",
+            "right": "wags its tail."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things you do every morning. Use verbs.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. I wash my face. I eat my breakfast."
+      }
+    ]
+  },
+  {
+    "id": "verbs-07",
+    "topic": "verbs",
+    "number": 7,
+    "level": "Practice",
+    "title": "The Swimming Lesson",
+    "intro": "Kabir and Fatima have a swimming lesson at the club pool. Watch the spelling when you add ing.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Add ing. Watch the spelling!",
+        "marks": 8,
+        "items": [
+          {
+            "q": "swim",
+            "a": "swimming"
+          },
+          {
+            "q": "splash",
+            "a": "splashing"
+          },
+          {
+            "q": "paddle",
+            "a": "paddling"
+          },
+          {
+            "q": "dip",
+            "a": "dipping"
+          },
+          {
+            "q": "wave",
+            "a": "waving"
+          },
+          {
+            "q": "breathe",
+            "a": "breathing"
+          },
+          {
+            "q": "slide",
+            "a": "sliding"
+          },
+          {
+            "q": "shiver",
+            "a": "shivering"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "How do we add ing?",
+        "marks": 6,
+        "groups": [
+          "Just add ing",
+          "Drop the e, add ing",
+          "Double the last letter"
+        ],
+        "words": [
+          "dry",
+          "race",
+          "sit",
+          "laugh",
+          "come",
+          "stop"
+        ],
+        "a": {
+          "dry": "Just add ing",
+          "race": "Drop the e, add ing",
+          "sit": "Double the last letter",
+          "laugh": "Just add ing",
+          "come": "Drop the e, add ing",
+          "stop": "Double the last letter"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in am, is or are and the ing word.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Fatima ___ (hold) the side of the pool.",
+            "a": "is holding"
+          },
+          {
+            "q": "The boys ___ (chase) a ball in the water.",
+            "a": "are chasing"
+          },
+          {
+            "q": "I ___ (wear) my goggles.",
+            "a": "am wearing"
+          },
+          {
+            "q": "The coach ___ (blow) her whistle.",
+            "a": "is blowing"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Swimming has a double m.",
+            "a": true
+          },
+          {
+            "q": "The ing word for make is makeing.",
+            "a": false
+          },
+          {
+            "q": "The ing word for clap is claping.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about what you are doing now. Use am and an ing word.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. I am writing on my worksheet."
+      }
+    ]
+  },
+  {
+    "id": "verbs-08",
+    "topic": "verbs",
+    "number": 8,
+    "level": "Practice",
+    "title": "Animals at Ranthambore",
+    "intro": "Ritu goes on a jeep safari at Ranthambore. What do the animals do?",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each animal to its action.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "peacock",
+            "right": "dances"
+          },
+          {
+            "left": "snake",
+            "right": "slithers"
+          },
+          {
+            "left": "tiger",
+            "right": "roars"
+          },
+          {
+            "left": "monkey",
+            "right": "swings"
+          },
+          {
+            "left": "owl",
+            "right": "hoots"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the verb with s, es or ies.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The mother monkey ___ (carry) her baby.",
+            "a": "carries"
+          },
+          {
+            "q": "The baby deer ___ (hurry) after its mother.",
+            "a": "hurries"
+          },
+          {
+            "q": "The bee ___ (buzz) round the flowers.",
+            "a": "buzzes"
+          },
+          {
+            "q": "The tiger ___ (hunt) at night.",
+            "a": "hunts"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The elephants",
+            "options": [
+              "splash",
+              "splashes"
+            ],
+            "after": "in the lake.",
+            "a": "splash"
+          },
+          {
+            "before": "A crocodile",
+            "options": [
+              "rest",
+              "rests"
+            ],
+            "after": "on the bank.",
+            "a": "rests"
+          },
+          {
+            "before": "The jeeps",
+            "options": [
+              "stop",
+              "stops"
+            ],
+            "after": "near the trees.",
+            "a": "stop"
+          },
+          {
+            "before": "Ritu",
+            "options": [
+              "watch",
+              "watches"
+            ],
+            "after": "a tiger cub.",
+            "a": "watches"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In 'The snake hides under a rock', the verb is 'rock'.",
+            "a": false
+          },
+          {
+            "q": "'They tries' is correct.",
+            "a": false
+          },
+          {
+            "q": "'It carries' is correct.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about your favourite animal. Use an action word.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. A kangaroo jumps very high."
+      }
+    ]
+  },
+  {
+    "id": "verbs-09",
+    "topic": "verbs",
+    "number": 9,
+    "level": "Practice",
+    "title": "Granny's Sweet Shop in Kolkata",
+    "intro": "Sneha helps her granny at a small sweet shop in Kolkata.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle has or have.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "Granny",
+            "options": [
+              "has",
+              "have"
+            ],
+            "after": "a big tray of rasgullas.",
+            "a": "has"
+          },
+          {
+            "before": "We",
+            "options": [
+              "has",
+              "have"
+            ],
+            "after": "many boxes.",
+            "a": "have"
+          },
+          {
+            "before": "Sneha",
+            "options": [
+              "has",
+              "have"
+            ],
+            "after": "a red apron.",
+            "a": "has"
+          },
+          {
+            "before": "The customers",
+            "options": [
+              "has",
+              "have"
+            ],
+            "after": "lots of questions.",
+            "a": "have"
+          },
+          {
+            "before": "I",
+            "options": [
+              "has",
+              "have"
+            ],
+            "after": "a sweet tooth.",
+            "a": "have"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a verb. Use: weighs, counts, wipes, ties.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Granny ___ the sweets on the scale.",
+            "a": "weighs"
+          },
+          {
+            "q": "Sneha ___ the coins in the box.",
+            "a": "counts"
+          },
+          {
+            "q": "Uncle ___ the glass counter.",
+            "a": "wipes"
+          },
+          {
+            "q": "Sneha ___ a ribbon on each box.",
+            "a": "ties"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words. Is it a verb or not?",
+        "marks": 6,
+        "groups": [
+          "Verb",
+          "Not a verb"
+        ],
+        "words": [
+          "sell",
+          "sugar",
+          "fry",
+          "counter",
+          "taste",
+          "sticky"
+        ],
+        "a": {
+          "sell": "Verb",
+          "sugar": "Not a verb",
+          "fry": "Verb",
+          "counter": "Not a verb",
+          "taste": "Verb",
+          "sticky": "Not a verb"
+        }
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again. Change Sneha to They.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Sneha packs the sweets.",
+            "a": "They pack the sweets."
+          },
+          {
+            "q": "Sneha fixes the lid.",
+            "a": "They fix the lid."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a shop. Use has or have.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. The shop has fresh jalebis. Check has goes with one and have with many."
+      }
+    ]
+  },
+  {
+    "id": "verbs-10",
+    "topic": "verbs",
+    "number": 10,
+    "level": "Practice",
+    "title": "Sandcastles at Kite Beach",
+    "intro": "Zayd and Lily build a sandcastle at Kite Beach in Dubai.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the verb from each sentence.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "Zayd digs a hole.",
+            "a": "digs"
+          },
+          {
+            "q": "Lily fills the bucket.",
+            "a": "fills"
+          },
+          {
+            "q": "The waves crash on the shore.",
+            "a": "crash"
+          },
+          {
+            "q": "We decorate the castle with shells.",
+            "a": "decorate"
+          },
+          {
+            "q": "A crab crawls past.",
+            "a": "crawls"
+          },
+          {
+            "q": "Dad takes a photo.",
+            "a": "takes"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Zayd and Lily",
+            "options": [
+              "is",
+              "are"
+            ],
+            "after": "building a tower.",
+            "a": "are"
+          },
+          {
+            "before": "The sun",
+            "options": [
+              "is",
+              "are"
+            ],
+            "after": "shining brightly.",
+            "a": "is"
+          },
+          {
+            "before": "Lily",
+            "options": [
+              "pat",
+              "pats"
+            ],
+            "after": "the wet sand.",
+            "a": "pats"
+          },
+          {
+            "before": "The gulls",
+            "options": [
+              "fly",
+              "flies"
+            ],
+            "after": "over the sea.",
+            "a": "fly"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Add ing to the verb in brackets.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Zayd is ___ (shape) a tower.",
+            "a": "shaping"
+          },
+          {
+            "q": "The children are ___ (dig) a moat.",
+            "a": "digging"
+          },
+          {
+            "q": "Mum is ___ (read) under the umbrella.",
+            "a": "reading"
+          },
+          {
+            "q": "The water is ___ (creep) up the sand.",
+            "a": "creeping"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "'Shell' is a verb.",
+            "a": false
+          },
+          {
+            "q": "'Build' is a verb.",
+            "a": true
+          },
+          {
+            "q": "In 'We swim in the sea', the verb is 'swim'.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a day at the beach. Use a verb in each.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. I splash in the waves. My sister collects shells."
+      }
+    ]
+  },
+  {
+    "id": "verbs-11",
+    "topic": "verbs",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Kayaking at Hatta Dam",
+    "intro": "Jai wrote about his kayak trip, but some verbs are wrong. Help him fix them.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Each sentence has a wrong verb. Write it correctly.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Jai row the kayak.",
+            "a": "Jai rows the kayak."
+          },
+          {
+            "q": "My sisters wears life jackets.",
+            "a": "My sisters wear life jackets."
+          },
+          {
+            "q": "The water are very green.",
+            "a": "The water is very green."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Mum",
+            "options": [
+              "do",
+              "does"
+            ],
+            "after": "not like cold water.",
+            "a": "does"
+          },
+          {
+            "before": "",
+            "options": [
+              "Do",
+              "Does"
+            ],
+            "after": "you like kayaking?",
+            "a": "Do"
+          },
+          {
+            "before": "Papa",
+            "options": [
+              "carry",
+              "carries"
+            ],
+            "after": "the paddles.",
+            "a": "carries"
+          },
+          {
+            "before": "The ducks",
+            "options": [
+              "swim",
+              "swims"
+            ],
+            "after": "beside us.",
+            "a": "swim"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Does the verb go with He or They?",
+        "marks": 6,
+        "groups": [
+          "He",
+          "They"
+        ],
+        "words": [
+          "paddles",
+          "steer",
+          "waves",
+          "laugh",
+          "tries",
+          "cheer"
+        ],
+        "a": {
+          "paddles": "He",
+          "steer": "They",
+          "waves": "He",
+          "laugh": "They",
+          "tries": "He",
+          "cheer": "They"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "'He try' is correct.",
+            "a": false
+          },
+          {
+            "q": "'They try' is correct.",
+            "a": true
+          },
+          {
+            "q": "'She watches' is correct.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a trip. Use the verb tries or carries.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. My brother carries the picnic bag."
+      }
+    ]
+  },
+  {
+    "id": "verbs-12",
+    "topic": "verbs",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Getting Ready for Onam",
+    "intro": "Malavika's class gets ready for the Onam celebration at school.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the words. Is it a verb or a naming word?",
+        "marks": 8,
+        "groups": [
+          "Verb",
+          "Naming word"
+        ],
+        "words": [
+          "pick",
+          "petals",
+          "arrange",
+          "lamp",
+          "decorate",
+          "garland",
+          "welcome",
+          "courtyard"
+        ],
+        "a": {
+          "pick": "Verb",
+          "petals": "Naming word",
+          "arrange": "Verb",
+          "lamp": "Naming word",
+          "decorate": "Verb",
+          "garland": "Naming word",
+          "welcome": "Verb",
+          "courtyard": "Naming word"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the verb that makes sense.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Mum",
+            "options": [
+              "serves",
+              "sleeps",
+              "sinks"
+            ],
+            "after": "rice on a banana leaf.",
+            "a": "serves"
+          },
+          {
+            "before": "The boat race",
+            "options": [
+              "starts",
+              "eats",
+              "sings"
+            ],
+            "after": "at ten.",
+            "a": "starts"
+          },
+          {
+            "before": "The dancers",
+            "options": [
+              "sway",
+              "bark",
+              "melt"
+            ],
+            "after": "to the music.",
+            "a": "sway"
+          },
+          {
+            "before": "We",
+            "options": [
+              "taste",
+              "throw",
+              "climb"
+            ],
+            "after": "the sweet payasam.",
+            "a": "taste"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the right form of the verb in brackets.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Malavika ___ (try) on her new skirt.",
+            "a": "tries"
+          },
+          {
+            "q": "The boys ___ (practise) the boat song every day.",
+            "a": "practise / practice"
+          },
+          {
+            "q": "Grandma ___ (fry) banana chips.",
+            "a": "fries"
+          },
+          {
+            "q": "Everyone ___ (enjoy) the feast.",
+            "a": "enjoys"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Change He to They. Write the sentence again.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "He decorates the swing and pushes his sister.",
+            "a": "They decorate the swing and push their sister."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a festival. Use two verbs in each.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. We light lamps and pray. We eat sweets and dance."
+      }
+    ]
+  },
+  {
+    "id": "verbs-13",
+    "topic": "verbs",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Gardening on the Terrace",
+    "intro": "Ahmed and his grandpa look after the plants on their terrace in Hyderabad.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "Is",
+              "Are"
+            ],
+            "after": "Grandpa watering the roses?",
+            "a": "Is"
+          },
+          {
+            "before": "",
+            "options": [
+              "Is",
+              "Are"
+            ],
+            "after": "the bees buzzing?",
+            "a": "Are"
+          },
+          {
+            "before": "Ahmed is not",
+            "options": [
+              "digging",
+              "dig"
+            ],
+            "after": "today.",
+            "a": "digging"
+          },
+          {
+            "before": "The plants",
+            "options": [
+              "is",
+              "are"
+            ],
+            "after": "not growing well.",
+            "a": "are"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Change each sentence to a question.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Grandpa is planting seeds.",
+            "a": "Is Grandpa planting seeds?"
+          },
+          {
+            "q": "The tomatoes are turning red.",
+            "a": "Are the tomatoes turning red?"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Add ing. Watch the spelling!",
+        "marks": 6,
+        "items": [
+          {
+            "q": "trim",
+            "a": "trimming"
+          },
+          {
+            "q": "rake",
+            "a": "raking"
+          },
+          {
+            "q": "tie",
+            "a": "tying"
+          },
+          {
+            "q": "spray",
+            "a": "spraying"
+          },
+          {
+            "q": "weed",
+            "a": "weeding"
+          },
+          {
+            "q": "pot",
+            "a": "potting"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "'Is the snail eating the leaf?' is a question.",
+            "a": true
+          },
+          {
+            "q": "'The ants is marching' is correct.",
+            "a": false
+          },
+          {
+            "q": "'Grandpa are resting' is correct.",
+            "a": false
+          },
+          {
+            "q": "In 'Ahmed is picking chillies', the action word is 'picking'.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one question about what someone is doing. Begin with Is or Are.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. Is Mama cooking dinner?"
+      }
+    ]
+  },
+  {
+    "id": "verbs-14",
+    "topic": "verbs",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Advik's Birthday Party",
+    "intro": "It is Advik's birthday party. Choose the best action words.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each verb to its meaning.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "tiptoe",
+            "right": "walk very quietly"
+          },
+          {
+            "left": "gobble",
+            "right": "eat very fast"
+          },
+          {
+            "left": "whisper",
+            "right": "speak very softly"
+          },
+          {
+            "left": "giggle",
+            "right": "laugh in a silly way"
+          },
+          {
+            "left": "sip",
+            "right": "drink a little at a time"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best verb.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Everyone",
+            "options": [
+              "sings",
+              "sleeps",
+              "sneezes"
+            ],
+            "after": "\"Happy Birthday\".",
+            "a": "sings"
+          },
+          {
+            "before": "Advik",
+            "options": [
+              "unwraps",
+              "cooks",
+              "digs"
+            ],
+            "after": "his presents.",
+            "a": "unwraps"
+          },
+          {
+            "before": "The candles",
+            "options": [
+              "flicker",
+              "jump",
+              "laugh"
+            ],
+            "after": "on the cake.",
+            "a": "flicker"
+          },
+          {
+            "before": "Mum",
+            "options": [
+              "slices",
+              "sweeps",
+              "sews"
+            ],
+            "after": "the cake.",
+            "a": "slices"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the right form of the verb in brackets.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Advik ___ (hug) his grandma.",
+            "a": "hugs"
+          },
+          {
+            "q": "His friends ___ (wish) him a happy birthday.",
+            "a": "wish"
+          },
+          {
+            "q": "The magician ___ (amaze) everyone.",
+            "a": "amazes"
+          },
+          {
+            "q": "Advik ___ (dash) to the door.",
+            "a": "dashes"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Make the sentence better with a stronger verb.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "The boy eats his cake very fast.",
+            "a": "e.g. The boy gobbles his cake."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a party. Use two strong verbs.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. We giggled at the clown. The children raced to the door."
+      }
+    ]
+  },
+  {
+    "id": "verbs-15",
+    "topic": "verbs",
+    "number": 15,
+    "level": "Challenge",
+    "title": "A Day at the Fire Station",
+    "intro": "Class 2 visits a fire station. The firefighters show them what they do.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the verb in each sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The siren wails loudly. The verb is",
+            "options": [
+              "siren",
+              "wails",
+              "loudly"
+            ],
+            "after": "",
+            "a": "wails"
+          },
+          {
+            "before": "A firefighter slides down the pole. The verb is",
+            "options": [
+              "firefighter",
+              "slides",
+              "pole"
+            ],
+            "after": "",
+            "a": "slides"
+          },
+          {
+            "before": "The hose sprays water. The verb is",
+            "options": [
+              "hose",
+              "sprays",
+              "water"
+            ],
+            "after": "",
+            "a": "sprays"
+          },
+          {
+            "before": "The children wear shiny helmets. The verb is",
+            "options": [
+              "children",
+              "wear",
+              "helmets"
+            ],
+            "after": "",
+            "a": "wear"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in am, is or are and add ing.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The fire truck ___ (leave) the station.",
+            "a": "is leaving"
+          },
+          {
+            "q": "The firefighters ___ (check) the ladder.",
+            "a": "are checking"
+          },
+          {
+            "q": "I ___ (try) on a big helmet.",
+            "a": "am trying"
+          },
+          {
+            "q": "Our teacher ___ (take) photos.",
+            "a": "is taking"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "How does each verb change with he or she?",
+        "marks": 6,
+        "groups": [
+          "Add s",
+          "Add es",
+          "Change y to ies"
+        ],
+        "words": [
+          "rescue",
+          "polish",
+          "worry",
+          "point",
+          "reach",
+          "dry"
+        ],
+        "a": {
+          "rescue": "Add s",
+          "polish": "Add es",
+          "worry": "Change y to ies",
+          "point": "Add s",
+          "reach": "Add es",
+          "dry": "Change y to ies"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "'The firefighters is brave' is correct.",
+            "a": false
+          },
+          {
+            "q": "'She has a red helmet' is correct.",
+            "a": true
+          },
+          {
+            "q": "'Ladder' is a verb.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a job you would like to do. Use verbs to say what you would do.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. I want to be a pilot. I would fly a big plane."
+      }
+    ]
   }
 ]

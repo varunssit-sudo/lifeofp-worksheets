@@ -598,5 +598,1266 @@
         ]
       }
     ]
+  },
+  {
+    "id": "nouns-06",
+    "topic": "nouns",
+    "number": 6,
+    "level": "Practice",
+    "title": "The Fruit Market in Deira",
+    "intro": "Rohit and his mum shop at the fruit market in Deira. When a noun ends in a consonant and y, change y to ies for many.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the noun for many.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "cherry",
+            "a": "cherries"
+          },
+          {
+            "q": "peach",
+            "a": "peaches"
+          },
+          {
+            "q": "lemon",
+            "a": "lemons"
+          },
+          {
+            "q": "berry",
+            "a": "berries"
+          },
+          {
+            "q": "mango",
+            "a": "mangoes / mangos"
+          },
+          {
+            "q": "basket",
+            "a": "baskets"
+          },
+          {
+            "q": "lady",
+            "a": "ladies"
+          },
+          {
+            "q": "fly",
+            "a": "flies"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Rohit bought one",
+            "options": [
+              "pineapple",
+              "pineapples"
+            ],
+            "after": "for the party.",
+            "a": "pineapple"
+          },
+          {
+            "before": "Three",
+            "options": [
+              "ladys",
+              "ladies"
+            ],
+            "after": "were selling flowers.",
+            "a": "ladies"
+          },
+          {
+            "before": "Mum put ten",
+            "options": [
+              "cherrys",
+              "cherries"
+            ],
+            "after": "in a bowl.",
+            "a": "cherries"
+          },
+          {
+            "before": "The seller had a sack of",
+            "options": [
+              "potatos",
+              "potatoes"
+            ],
+            "after": "too.",
+            "a": "potatoes"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the nouns into person, place, animal and thing.",
+        "marks": 8,
+        "groups": [
+          "Person",
+          "Place",
+          "Animal",
+          "Thing"
+        ],
+        "words": [
+          "donkey",
+          "seller",
+          "scale",
+          "parrot",
+          "customer",
+          "bag",
+          "stall",
+          "market"
+        ],
+        "a": {
+          "seller": "Person",
+          "customer": "Person",
+          "stall": "Place",
+          "market": "Place",
+          "parrot": "Animal",
+          "donkey": "Animal",
+          "scale": "Thing",
+          "bag": "Thing"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The noun for many of \"baby\" is \"babies\".",
+            "a": true
+          },
+          {
+            "q": "The noun for many of \"toy\" is \"toies\".",
+            "a": false
+          },
+          {
+            "q": "\"Sweet\" is a noun in \"The dates are sweet.\"",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write the names of three fruits you like. Use the noun for many.",
+        "marks": 3,
+        "lines": 1,
+        "a": "Any three fruit nouns for many, e.g. apples, bananas, grapes."
+      }
+    ]
+  },
+  {
+    "id": "nouns-07",
+    "topic": "nouns",
+    "number": 7,
+    "level": "Practice",
+    "title": "A Walk Through Lodhi Garden",
+    "intro": "Ritu and her grandpa walk in Lodhi Garden in Delhi. A proper noun is the special name of a person, place, day or month. It starts with a capital letter.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the nouns into common nouns and proper nouns.",
+        "marks": 8,
+        "groups": [
+          "Common noun",
+          "Proper noun"
+        ],
+        "words": [
+          "Monday",
+          "garden",
+          "pond",
+          "tree",
+          "Delhi",
+          "India",
+          "path",
+          "Ritu"
+        ],
+        "a": {
+          "garden": "Common noun",
+          "Delhi": "Proper noun",
+          "path": "Common noun",
+          "Ritu": "Proper noun",
+          "tree": "Common noun",
+          "Monday": "Proper noun",
+          "pond": "Common noun",
+          "India": "Proper noun"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the proper noun.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "city",
+              "Mumbai"
+            ],
+            "after": "",
+            "a": "Mumbai"
+          },
+          {
+            "before": "",
+            "options": [
+              "Kabir",
+              "boy"
+            ],
+            "after": "",
+            "a": "Kabir"
+          },
+          {
+            "before": "",
+            "options": [
+              "river",
+              "Ganga"
+            ],
+            "after": "",
+            "a": "Ganga"
+          },
+          {
+            "before": "",
+            "options": [
+              "month",
+              "April"
+            ],
+            "after": "",
+            "a": "April"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write a proper noun for each.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "a day",
+            "a": "e.g. Sunday"
+          },
+          {
+            "q": "a month",
+            "a": "e.g. May"
+          },
+          {
+            "q": "a country",
+            "a": "e.g. India"
+          },
+          {
+            "q": "a festival",
+            "a": "e.g. Eid"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again. Give the proper nouns capital letters.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We met ritu in lodhi garden.",
+            "a": "We met Ritu in Lodhi Garden."
+          },
+          {
+            "q": "My cousin aman lives in delhi.",
+            "a": "My cousin Aman lives in Delhi."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write your name and the name of your town or city.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. Both are proper nouns and start with capital letters, e.g. Sara, Ajman."
+      }
+    ]
+  },
+  {
+    "id": "nouns-08",
+    "topic": "nouns",
+    "number": 8,
+    "level": "Practice",
+    "title": "Story Time at the Library",
+    "intro": "Ms Joseph reads a story to Class 2. Some nouns do not add s for many. They change in a special way.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the noun for many.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "child",
+            "a": "children"
+          },
+          {
+            "q": "man",
+            "a": "men"
+          },
+          {
+            "q": "woman",
+            "a": "women"
+          },
+          {
+            "q": "foot",
+            "a": "feet"
+          },
+          {
+            "q": "tooth",
+            "a": "teeth"
+          },
+          {
+            "q": "mouse",
+            "a": "mice"
+          },
+          {
+            "q": "goose",
+            "a": "geese"
+          },
+          {
+            "q": "sheep",
+            "a": "sheep"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match one to many.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "leaf",
+            "right": "leaves"
+          },
+          {
+            "left": "wolf",
+            "right": "wolves"
+          },
+          {
+            "left": "knife",
+            "right": "knives"
+          },
+          {
+            "left": "half",
+            "right": "halves"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Ms Joseph read to ten",
+            "options": [
+              "childs",
+              "children"
+            ],
+            "after": ".",
+            "a": "children"
+          },
+          {
+            "before": "A little",
+            "options": [
+              "mouse",
+              "mice"
+            ],
+            "after": "lived inside the old book.",
+            "a": "mouse"
+          },
+          {
+            "before": "Two",
+            "options": [
+              "mans",
+              "men"
+            ],
+            "after": "fixed the broken shelf.",
+            "a": "men"
+          },
+          {
+            "before": "The giant in the story had huge",
+            "options": [
+              "foots",
+              "feet"
+            ],
+            "after": ".",
+            "a": "feet"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The noun for many of \"tooth\" is \"teeths\".",
+            "a": false
+          },
+          {
+            "q": "We say \"one sheep, two sheep\".",
+            "a": true
+          },
+          {
+            "q": "\"Book\" and \"story\" are both nouns.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a story you like. Use a noun for many.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"The three bears lived in a wood.\" Check a noun for many is used."
+      }
+    ]
+  },
+  {
+    "id": "nouns-09",
+    "topic": "nouns",
+    "number": 9,
+    "level": "Practice",
+    "title": "Beach Clean-Up Day at Jumeirah",
+    "intro": "Maya's class is cleaning the beach at Jumeirah. A sentence can have more than one noun.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the two nouns in each sentence.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "Maya picked up a bottle. ___",
+            "a": "Maya, bottle / bottle, Maya"
+          },
+          {
+            "q": "The crab hid under a rock. ___",
+            "a": "crab, rock / rock, crab"
+          },
+          {
+            "q": "Dad filled the sack with cans. ___",
+            "a": "sack, cans / cans, sack"
+          },
+          {
+            "q": "Volunteers came to the beach. ___",
+            "a": "Volunteers, beach / beach, Volunteers"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the nouns into animal, place and thing.",
+        "marks": 6,
+        "groups": [
+          "Animal",
+          "Place",
+          "Thing"
+        ],
+        "words": [
+          "shore",
+          "glove",
+          "turtle",
+          "island",
+          "seagull",
+          "net"
+        ],
+        "a": {
+          "seagull": "Animal",
+          "turtle": "Animal",
+          "shore": "Place",
+          "island": "Place",
+          "net": "Thing",
+          "glove": "Thing"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the noun.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "shell",
+              "pick"
+            ],
+            "after": "",
+            "a": "shell"
+          },
+          {
+            "before": "",
+            "options": [
+              "wet",
+              "towel"
+            ],
+            "after": "",
+            "a": "towel"
+          },
+          {
+            "before": "",
+            "options": [
+              "carry",
+              "spade"
+            ],
+            "after": "",
+            "a": "spade"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Litter\" is a noun.",
+            "a": true
+          },
+          {
+            "q": "\"Throw\" is a noun in \"Do not throw rubbish.\"",
+            "a": false
+          },
+          {
+            "q": "\"Beach\" names a place.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write three things you might find on a beach.",
+        "marks": 3,
+        "lines": 1,
+        "a": "Any three nouns, e.g. shells, sand, seaweed."
+      }
+    ]
+  },
+  {
+    "id": "nouns-10",
+    "topic": "nouns",
+    "number": 10,
+    "level": "Practice",
+    "title": "A Big Wedding in Jaipur",
+    "intro": "Anjali goes to her cousin's wedding in Jaipur. Some nouns name a boy or man, and some name a girl or woman.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each word to its partner.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "groom",
+            "right": "bride"
+          },
+          {
+            "left": "headmaster",
+            "right": "headmistress"
+          },
+          {
+            "left": "nephew",
+            "right": "niece"
+          },
+          {
+            "left": "son",
+            "right": "daughter"
+          },
+          {
+            "left": "grandfather",
+            "right": "grandmother"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the noun for a girl or woman.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "king",
+            "a": "queen"
+          },
+          {
+            "q": "prince",
+            "a": "princess"
+          },
+          {
+            "q": "brother",
+            "a": "sister"
+          },
+          {
+            "q": "husband",
+            "a": "wife"
+          },
+          {
+            "q": "lion",
+            "a": "lioness"
+          },
+          {
+            "q": "boy",
+            "a": "girl"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the nouns. Is it a boy or man, a girl or woman, or can it be both?",
+        "marks": 6,
+        "groups": [
+          "Boy or man",
+          "Girl or woman",
+          "Can be both"
+        ],
+        "words": [
+          "waitress",
+          "friend",
+          "father",
+          "mother",
+          "waiter",
+          "cousin"
+        ],
+        "a": {
+          "waiter": "Boy or man",
+          "father": "Boy or man",
+          "waitress": "Girl or woman",
+          "mother": "Girl or woman",
+          "cousin": "Can be both",
+          "friend": "Can be both"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a noun from the box: guests, band, horse.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The groom rode a white ___.",
+            "a": "horse"
+          },
+          {
+            "q": "The ___ played loud music.",
+            "a": "band"
+          },
+          {
+            "q": "Many ___ came to the wedding.",
+            "a": "guests"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a wedding or a party. Use two nouns.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"The bride wore red bangles.\" Check two nouns are used."
+      }
+    ]
+  },
+  {
+    "id": "nouns-11",
+    "topic": "nouns",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Animal Groups at Al Ain Zoo",
+    "intro": "Karan visits Al Ain Zoo. Some nouns name a group, like a herd of zebras.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each group word to the animals.",
+        "marks": 6,
+        "items": [
+          {
+            "left": "a flock",
+            "right": "of birds"
+          },
+          {
+            "left": "a herd",
+            "right": "of zebras"
+          },
+          {
+            "left": "a pride",
+            "right": "of lions"
+          },
+          {
+            "left": "a swarm",
+            "right": "of bees"
+          },
+          {
+            "left": "a school",
+            "right": "of fish"
+          },
+          {
+            "left": "a troop",
+            "right": "of monkeys"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct group word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "We saw a",
+            "options": [
+              "bunch",
+              "crowd"
+            ],
+            "after": "of people at the gate.",
+            "a": "crowd"
+          },
+          {
+            "before": "Papa bought a",
+            "options": [
+              "bunch",
+              "pack"
+            ],
+            "after": "of bananas.",
+            "a": "bunch"
+          },
+          {
+            "before": "A",
+            "options": [
+              "team",
+              "herd"
+            ],
+            "after": "of keepers fed the giraffes.",
+            "a": "team"
+          },
+          {
+            "before": "Karan wore a new",
+            "options": [
+              "pair",
+              "flock"
+            ],
+            "after": "of shoes.",
+            "a": "pair"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Each noun for many has a mistake. Write the sentence correctly.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Two babys slept in their prams.",
+            "a": "Two babies slept in their prams."
+          },
+          {
+            "q": "The keeper has three childs.",
+            "a": "The keeper has three children."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A group word, like \"herd\", is also a noun.",
+            "a": true
+          },
+          {
+            "q": "We say \"a swarm of lions\".",
+            "a": false
+          },
+          {
+            "q": "\"Zoo\" on its own is a common noun, but \"Al Ain Zoo\" is a proper noun.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a sentence about a group of animals.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I saw a flock of birds in the sky.\" Check the group word fits."
+      }
+    ]
+  },
+  {
+    "id": "nouns-12",
+    "topic": "nouns",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Writing the Class Newsletter",
+    "intro": "Class 2C is writing a newsletter. Check their nouns for mistakes before it is printed.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is the noun for many right? Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "one dish, two dishes",
+            "a": true
+          },
+          {
+            "q": "one shelf, two shelfs",
+            "a": false
+          },
+          {
+            "q": "one story, two storys",
+            "a": false
+          },
+          {
+            "q": "one day, two days",
+            "a": true
+          },
+          {
+            "q": "one class, two classes",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again. Give the proper nouns capital letters.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "Our newsletter comes out every friday.",
+            "a": "Our newsletter comes out every Friday."
+          },
+          {
+            "q": "We wrote about diwali and christmas.",
+            "a": "We wrote about Diwali and Christmas."
+          },
+          {
+            "q": "Leena visited the taj mahal in agra.",
+            "a": "Leena visited the Taj Mahal in Agra."
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the nouns into common nouns and proper nouns.",
+        "marks": 8,
+        "groups": [
+          "Common noun",
+          "Proper noun"
+        ],
+        "words": [
+          "Sameer",
+          "newspaper",
+          "reporter",
+          "camera",
+          "Tuesday",
+          "Goa",
+          "editor",
+          "Kenya"
+        ],
+        "a": {
+          "newspaper": "Common noun",
+          "Tuesday": "Proper noun",
+          "editor": "Common noun",
+          "Kenya": "Proper noun",
+          "camera": "Common noun",
+          "Sameer": "Proper noun",
+          "reporter": "Common noun",
+          "Goa": "Proper noun"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the noun for many.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Two ___ (party) were held this term.",
+            "a": "parties"
+          },
+          {
+            "q": "We took lots of ___ (photo) at the fair.",
+            "a": "photos"
+          },
+          {
+            "q": "The class drank six ___ (glass) of juice.",
+            "a": "glasses"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nouns-13",
+    "topic": "nouns",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Packing for a Hill Trip to Shimla",
+    "intro": "Ella and her family are going to Shimla in winter. Think hard: is each word really a noun?",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the word that is NOT a noun.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "jacket",
+              "warm",
+              "scarf"
+            ],
+            "after": "",
+            "a": "warm"
+          },
+          {
+            "before": "",
+            "options": [
+              "Shimla",
+              "hill",
+              "climb"
+            ],
+            "after": "",
+            "a": "climb"
+          },
+          {
+            "before": "",
+            "options": [
+              "mitten",
+              "slowly",
+              "boot"
+            ],
+            "after": "",
+            "a": "slowly"
+          },
+          {
+            "before": "",
+            "options": [
+              "cold",
+              "snow",
+              "sledge"
+            ],
+            "after": "",
+            "a": "cold"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the noun for many.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "scarf",
+            "a": "scarves / scarfs"
+          },
+          {
+            "q": "family",
+            "a": "families"
+          },
+          {
+            "q": "monkey",
+            "a": "monkeys"
+          },
+          {
+            "q": "deer",
+            "a": "deer"
+          },
+          {
+            "q": "flask",
+            "a": "flasks"
+          },
+          {
+            "q": "sandwich",
+            "a": "sandwiches"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the noun for many.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We rode two ___ (pony) up the hill.",
+            "a": "ponies"
+          },
+          {
+            "q": "Snow fell on the ___ (branch) of the pine trees.",
+            "a": "branches"
+          },
+          {
+            "q": "The train went past green ___ (valley).",
+            "a": "valleys"
+          },
+          {
+            "q": "Many ___ (person) were selling hot corn.",
+            "a": "people"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Shimla\" starts with a capital letter because it is a proper noun.",
+            "a": true
+          },
+          {
+            "q": "\"Snowy\" is a noun.",
+            "a": false
+          },
+          {
+            "q": "The noun for many of \"valley\" is \"vallies\".",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a cold place. Underline the nouns.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"The mountains were white. We made a snowman.\" Check the nouns are underlined."
+      }
+    ]
+  },
+  {
+    "id": "nouns-14",
+    "topic": "nouns",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Onam Feast in Kerala",
+    "intro": "Anu's family in Kerala is getting ready for Onam. Look closely at every noun.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Count the nouns in each sentence. Write the number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The elephant wore bells. ___",
+            "a": "2"
+          },
+          {
+            "q": "Anu made a pookalam with petals. ___",
+            "a": "3"
+          },
+          {
+            "q": "The boats raced on the river. ___",
+            "a": "2"
+          },
+          {
+            "q": "Grandma served rice, sambar and payasam. ___",
+            "a": "4"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word written the right way.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "We live in",
+            "options": [
+              "kerala",
+              "Kerala"
+            ],
+            "after": ".",
+            "a": "Kerala"
+          },
+          {
+            "before": "Our favourite festival is",
+            "options": [
+              "onam",
+              "Onam"
+            ],
+            "after": ".",
+            "a": "Onam"
+          },
+          {
+            "before": "Onam often comes in",
+            "options": [
+              "august",
+              "August"
+            ],
+            "after": ".",
+            "a": "August"
+          },
+          {
+            "before": "We watched the snake",
+            "options": [
+              "Boat",
+              "boat"
+            ],
+            "after": "race.",
+            "a": "boat"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each noun to what it names.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Kochi",
+            "right": "a place"
+          },
+          {
+            "left": "Mahabali",
+            "right": "a person"
+          },
+          {
+            "left": "elephant",
+            "right": "an animal"
+          },
+          {
+            "left": "lamp",
+            "right": "a thing"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Each sentence has two mistakes. Write it correctly.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The two boy ate three banana.",
+            "a": "The two boys ate three bananas."
+          },
+          {
+            "q": "We gave sweets to the childs and the womans.",
+            "a": "We gave sweets to the children and the women."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a festival meal. Use three nouns.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"Dad put rice and curry on my plate.\" Check three nouns are used."
+      }
+    ]
+  },
+  {
+    "id": "nouns-15",
+    "topic": "nouns",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Planning a Class Trip to the Museum",
+    "intro": "Sana's class will visit a museum in Sharjah. Use everything you know about nouns.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the words: common noun, proper noun or not a noun.",
+        "marks": 9,
+        "groups": [
+          "Common noun",
+          "Proper noun",
+          "Not a noun"
+        ],
+        "words": [
+          "Sharjah",
+          "quietly",
+          "Saturday",
+          "museum",
+          "old",
+          "guide",
+          "ticket",
+          "Sana",
+          "look"
+        ],
+        "a": {
+          "museum": "Common noun",
+          "guide": "Common noun",
+          "ticket": "Common noun",
+          "Sharjah": "Proper noun",
+          "Saturday": "Proper noun",
+          "Sana": "Proper noun",
+          "quietly": "Not a noun",
+          "look": "Not a noun",
+          "old": "Not a noun"
+        }
+      },
+      {
+        "type": "pairs",
+        "title": "Write the noun for many.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "ox",
+            "a": "oxen"
+          },
+          {
+            "q": "copy",
+            "a": "copies"
+          },
+          {
+            "q": "tray",
+            "a": "trays"
+          },
+          {
+            "q": "calf",
+            "a": "calves"
+          },
+          {
+            "q": "match",
+            "a": "matches"
+          },
+          {
+            "q": "hero",
+            "a": "heroes"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a noun that makes sense.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The ___ showed us old coins.",
+            "a": "e.g. guide"
+          },
+          {
+            "q": "We saw a big ___ made of stone.",
+            "a": "e.g. statue"
+          },
+          {
+            "q": "Sana wrote notes in her ___.",
+            "a": "e.g. notebook"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Every proper noun starts with a capital letter.",
+            "a": true
+          },
+          {
+            "q": "\"Shone\" is a noun in \"The old sword shone.\"",
+            "a": false
+          },
+          {
+            "q": "\"Museum\" names a place.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a place you visited. Use one proper noun and one noun for many.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"We went to Abu Dhabi. We saw two camels.\" Check the proper noun has a capital letter."
+      }
+    ]
   }
 ]

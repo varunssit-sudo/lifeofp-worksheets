@@ -646,5 +646,1334 @@
         "a": "Answers will vary. The second sentence uses a word such as wonderful, excellent or amazing."
       }
     ]
+  },
+  {
+    "id": "synonyms-06",
+    "topic": "synonyms",
+    "number": 6,
+    "level": "Practice",
+    "title": "Shopping at the Mall",
+    "intro": "Rania and her aunt go shopping at a big mall in Dubai. Find words that mean the same.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the words that mean the same.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "shop",
+            "right": "store"
+          },
+          {
+            "left": "cap",
+            "right": "hat"
+          },
+          {
+            "left": "sofa",
+            "right": "couch"
+          },
+          {
+            "left": "rug",
+            "right": "mat"
+          },
+          {
+            "left": "bag",
+            "right": "sack"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that means the same.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The shoes were costly. They were",
+            "options": [
+              "expensive",
+              "cheap",
+              "old"
+            ],
+            "after": ".",
+            "a": "expensive"
+          },
+          {
+            "before": "The floor was very clean. It was",
+            "options": [
+              "spotless",
+              "dirty",
+              "dusty"
+            ],
+            "after": ".",
+            "a": "spotless"
+          },
+          {
+            "before": "The clown was funny. He was",
+            "options": [
+              "amusing",
+              "serious",
+              "sleepy"
+            ],
+            "after": ".",
+            "a": "amusing"
+          },
+          {
+            "before": "Aunty purchased a scarf. She",
+            "options": [
+              "bought",
+              "sold",
+              "lost"
+            ],
+            "after": "a scarf.",
+            "a": "bought"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "'Cheap' and 'costly' are synonyms.",
+            "a": false
+          },
+          {
+            "q": "'Choose' and 'select' mean the same.",
+            "a": true
+          },
+          {
+            "q": "'Above' and 'over' mean the same.",
+            "a": true
+          },
+          {
+            "q": "'Dirty' and 'clean' are synonyms.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a word that means the same as the word in brackets. Use: wait, saw, ached.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Please ___ (hold on) for me at the door.",
+            "a": "wait"
+          },
+          {
+            "q": "Rania ___ (spotted) a toy panda.",
+            "a": "saw"
+          },
+          {
+            "q": "Rania's feet ___ (hurt) from walking.",
+            "a": "ached"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a shop. Use the word store.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. We buy milk at the store near our flat."
+      }
+    ]
+  },
+  {
+    "id": "synonyms-07",
+    "topic": "synonyms",
+    "number": 7,
+    "level": "Practice",
+    "title": "Monsoon Picnic at Lonavala",
+    "intro": "Kunal and his cousins go on a monsoon picnic in the green hills of Lonavala.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write a word that means the same.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "trip",
+            "a": "journey / outing"
+          },
+          {
+            "q": "sound",
+            "a": "noise"
+          },
+          {
+            "q": "dirty",
+            "a": "muddy / messy / filthy"
+          },
+          {
+            "q": "pull",
+            "a": "tug / drag"
+          },
+          {
+            "q": "grab",
+            "a": "snatch / grip / seize"
+          },
+          {
+            "q": "fall",
+            "a": "drop / tumble / trip"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words. Do they mean walk slowly or move fast?",
+        "marks": 6,
+        "groups": [
+          "Means walk slowly",
+          "Means move fast"
+        ],
+        "words": [
+          "stroll",
+          "sprint",
+          "wander",
+          "race",
+          "plod",
+          "zoom"
+        ],
+        "a": {
+          "stroll": "Means walk slowly",
+          "sprint": "Means move fast",
+          "wander": "Means walk slowly",
+          "race": "Means move fast",
+          "plod": "Means walk slowly",
+          "zoom": "Means move fast"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that means the same.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Kunal was soaked. He was",
+            "options": [
+              "drenched",
+              "dry",
+              "warm"
+            ],
+            "after": ".",
+            "a": "drenched"
+          },
+          {
+            "before": "The waterfall was very wide. It was",
+            "options": [
+              "broad",
+              "narrow",
+              "thin"
+            ],
+            "after": ".",
+            "a": "broad"
+          },
+          {
+            "before": "The hills were calm. They were",
+            "options": [
+              "peaceful",
+              "busy",
+              "noisy"
+            ],
+            "after": ".",
+            "a": "peaceful"
+          },
+          {
+            "before": "Kunal's tummy hurt from eating so much. His",
+            "options": [
+              "stomach",
+              "back",
+              "head"
+            ],
+            "after": "hurt.",
+            "a": "stomach"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again. Use a word that means the same as the word in capitals.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The rain was STRONG.",
+            "a": "The rain was heavy. (Accept powerful.)"
+          },
+          {
+            "q": "We LOOKED at the waterfall.",
+            "a": "We stared at the waterfall. (Accept gazed or watched.)"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about the rain. Use a word that means very wet.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. My shirt was soaked in the rain. Accept drenched or dripping."
+      }
+    ]
+  },
+  {
+    "id": "synonyms-08",
+    "topic": "synonyms",
+    "number": 8,
+    "level": "Practice",
+    "title": "A Walk Through Chandni Chowk",
+    "intro": "Tanya and her grandfather walk through the busy lanes of Chandni Chowk in Delhi.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the word that means the same.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "The shopkeeper was rich. He was",
+            "options": [
+              "wealthy",
+              "poor",
+              "kind"
+            ],
+            "after": ".",
+            "a": "wealthy"
+          },
+          {
+            "before": "The lamps glowed. They",
+            "options": [
+              "shone",
+              "broke",
+              "fell"
+            ],
+            "after": ".",
+            "a": "shone"
+          },
+          {
+            "before": "Tanya was shy. She was",
+            "options": [
+              "timid",
+              "bold",
+              "loud"
+            ],
+            "after": ".",
+            "a": "timid"
+          },
+          {
+            "before": "Grandpa told an old story. It was an old",
+            "options": [
+              "tale",
+              "song",
+              "game"
+            ],
+            "after": ".",
+            "a": "tale"
+          },
+          {
+            "before": "The puzzle was hard. It was",
+            "options": [
+              "difficult",
+              "soft",
+              "simple"
+            ],
+            "after": ".",
+            "a": "difficult"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the words that mean the same.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "job",
+            "right": "work"
+          },
+          {
+            "left": "kid",
+            "right": "child"
+          },
+          {
+            "left": "reply",
+            "right": "answer"
+          },
+          {
+            "left": "strong",
+            "right": "powerful"
+          },
+          {
+            "left": "thin",
+            "right": "slim"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a word that means the same as the word in brackets. Use: laughed, smell, keep, build.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Tanya ___ (giggled) at the monkey on the roof.",
+            "a": "laughed"
+          },
+          {
+            "q": "The ___ (scent) of samosas filled the air.",
+            "a": "smell"
+          },
+          {
+            "q": "Grandpa said she could ___ (save) one coin.",
+            "a": "keep"
+          },
+          {
+            "q": "The workers ___ (make) a big stage for the fair.",
+            "a": "build"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a busy market. Use a word that means the same as busy.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. The market was crowded. Accept packed, full or bustling."
+      }
+    ]
+  },
+  {
+    "id": "synonyms-09",
+    "topic": "synonyms",
+    "number": 9,
+    "level": "Practice",
+    "title": "Snow Fun at the Indoor Ski Park",
+    "intro": "Sana and Leo visit an indoor snow park in a big mall in Dubai.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the words. Do they mean look or talk?",
+        "marks": 6,
+        "groups": [
+          "Means look",
+          "Means talk"
+        ],
+        "words": [
+          "stare",
+          "speak",
+          "peep",
+          "say",
+          "glance",
+          "mutter"
+        ],
+        "a": {
+          "stare": "Means look",
+          "speak": "Means talk",
+          "peep": "Means look",
+          "say": "Means talk",
+          "glance": "Means look",
+          "mutter": "Means talk"
+        }
+      },
+      {
+        "type": "pairs",
+        "title": "Write a word that means the same.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "jacket",
+            "a": "coat"
+          },
+          {
+            "q": "shiver",
+            "a": "shake / tremble"
+          },
+          {
+            "q": "slide",
+            "a": "glide / slip"
+          },
+          {
+            "q": "enjoy",
+            "a": "like / love"
+          },
+          {
+            "q": "real",
+            "a": "true"
+          },
+          {
+            "q": "wish",
+            "a": "hope / want"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that means the same.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The snow was soft. It was",
+            "options": [
+              "fluffy",
+              "hard",
+              "sharp"
+            ],
+            "after": ".",
+            "a": "fluffy"
+          },
+          {
+            "before": "Leo built a snowman quickly. He built it",
+            "options": [
+              "rapidly",
+              "slowly",
+              "sadly"
+            ],
+            "after": ".",
+            "a": "rapidly"
+          },
+          {
+            "before": "Sana loved the snow park. She",
+            "options": [
+              "adored",
+              "hated",
+              "left"
+            ],
+            "after": "it.",
+            "a": "adored"
+          },
+          {
+            "before": "Leo was exhausted after the game. He was",
+            "options": [
+              "very tired",
+              "awake",
+              "angry"
+            ],
+            "after": ".",
+            "a": "very tired"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "'Cold' and 'freezing' mean almost the same.",
+            "a": true
+          },
+          {
+            "q": "'Push' and 'pull' are synonyms.",
+            "a": false
+          },
+          {
+            "q": "'Lift' and 'raise' mean the same.",
+            "a": true
+          },
+          {
+            "q": "'Wild' and 'tame' are synonyms.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about snow. Use a word that means very cold.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. The snow was freezing. Accept icy, frosty or frozen."
+      }
+    ]
+  },
+  {
+    "id": "synonyms-10",
+    "topic": "synonyms",
+    "number": 10,
+    "level": "Practice",
+    "title": "Helping at the Gurudwara Langar",
+    "intro": "Simran and her brother help to serve food at the langar in the gurudwara.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in a word that means the same as the word in brackets. Use: serve, plenty, wash, guests.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We ___ (give out) food to everyone.",
+            "a": "serve"
+          },
+          {
+            "q": "There is ___ (lots) of dal for all.",
+            "a": "plenty"
+          },
+          {
+            "q": "We ___ (clean) the plates after lunch.",
+            "a": "wash"
+          },
+          {
+            "q": "The ___ (visitors) sit in long rows.",
+            "a": "guests"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the words that mean the same.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "cook",
+            "right": "prepare"
+          },
+          {
+            "left": "hungry",
+            "right": "starving"
+          },
+          {
+            "left": "fresh",
+            "right": "new"
+          },
+          {
+            "left": "polite",
+            "right": "respectful"
+          },
+          {
+            "left": "everyone",
+            "right": "everybody"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that means the same.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Simran's brother was helpful. He was",
+            "options": [
+              "useful",
+              "lazy",
+              "rude"
+            ],
+            "after": ".",
+            "a": "useful"
+          },
+          {
+            "before": "Simran's grandma is old. She is",
+            "options": [
+              "elderly",
+              "young",
+              "new"
+            ],
+            "after": ".",
+            "a": "elderly"
+          },
+          {
+            "before": "Simran carried the jug with care. She carried it",
+            "options": [
+              "carefully",
+              "roughly",
+              "loudly"
+            ],
+            "after": ".",
+            "a": "carefully"
+          },
+          {
+            "before": "A man said thank you. He was",
+            "options": [
+              "grateful",
+              "angry",
+              "sleepy"
+            ],
+            "after": ".",
+            "a": "grateful"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again. Use a word that means the same as the word in capitals.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Simran WASHED the bowls.",
+            "a": "Simran cleaned the bowls. (Accept rinsed or scrubbed.)"
+          },
+          {
+            "q": "The cook GAVE each person a roti.",
+            "a": "The cook handed each person a roti. (Accept served.)"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a time you helped someone. Use a word that means help.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. I assisted my mother in the kitchen. Accept assist, aid or support."
+      }
+    ]
+  },
+  {
+    "id": "synonyms-11",
+    "topic": "synonyms",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Class Newspaper",
+    "intro": "Class 2 is making a class newspaper. Help Aryan use better words than said and nice.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the best word to use instead of said.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "\"Shh, the baby is asleep,\" Mum",
+            "options": [
+              "whispered",
+              "shouted",
+              "laughed"
+            ],
+            "after": ".",
+            "a": "whispered"
+          },
+          {
+            "before": "\"Where is my bag?\" Kabir",
+            "options": [
+              "asked",
+              "answered",
+              "sang"
+            ],
+            "after": ".",
+            "a": "asked"
+          },
+          {
+            "before": "\"Watch out for the ball!\" Coach",
+            "options": [
+              "warned",
+              "giggled",
+              "mumbled"
+            ],
+            "after": ".",
+            "a": "warned"
+          },
+          {
+            "before": "\"Yes, I know the answer,\" Rina",
+            "options": [
+              "replied",
+              "asked",
+              "snored"
+            ],
+            "after": ".",
+            "a": "replied"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again. Use a better word for nice.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We had a nice lunch.",
+            "a": "e.g. We had a tasty lunch."
+          },
+          {
+            "q": "It was a nice sunny day.",
+            "a": "e.g. It was a lovely sunny day."
+          },
+          {
+            "q": "My teacher is very nice.",
+            "a": "e.g. My teacher is very kind."
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words. Do they mean good or bad?",
+        "marks": 6,
+        "groups": [
+          "Means good",
+          "Means bad"
+        ],
+        "words": [
+          "superb",
+          "awful",
+          "terrific",
+          "horrible",
+          "fantastic",
+          "dreadful"
+        ],
+        "a": {
+          "superb": "Means good",
+          "awful": "Means bad",
+          "terrific": "Means good",
+          "horrible": "Means bad",
+          "fantastic": "Means good",
+          "dreadful": "Means bad"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "'Whisper' means to say something very softly.",
+            "a": true
+          },
+          {
+            "q": "'Shout' and 'mumble' mean the same.",
+            "a": false
+          },
+          {
+            "q": "'Awful' and 'terrible' mean almost the same.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one news sentence about your class. Use a word instead of said.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"We won the quiz!\" shouted Meena."
+      }
+    ]
+  },
+  {
+    "id": "synonyms-12",
+    "topic": "synonyms",
+    "number": 12,
+    "level": "Challenge",
+    "title": "The Camel Race in Al Ain",
+    "intro": "Faisal and his sister watch a camel race in the desert. Look for the word that does not belong.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the word that does NOT mean the same as the others.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "speedy",
+              "rapid",
+              "swift",
+              "sluggish"
+            ],
+            "after": "",
+            "a": "sluggish"
+          },
+          {
+            "before": "",
+            "options": [
+              "scared",
+              "afraid",
+              "fearful",
+              "bold"
+            ],
+            "after": "",
+            "a": "bold"
+          },
+          {
+            "before": "",
+            "options": [
+              "tired",
+              "weary",
+              "sleepy",
+              "lively"
+            ],
+            "after": "",
+            "a": "lively"
+          },
+          {
+            "before": "",
+            "options": [
+              "clever",
+              "wise",
+              "smart",
+              "silly"
+            ],
+            "after": "",
+            "a": "silly"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write a word that means the same.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "far",
+            "a": "distant / away"
+          },
+          {
+            "q": "winner",
+            "a": "champion"
+          },
+          {
+            "q": "scream",
+            "a": "shriek / yell / shout"
+          },
+          {
+            "q": "notice",
+            "a": "spot / see"
+          },
+          {
+            "q": "middle",
+            "a": "centre / center"
+          },
+          {
+            "q": "dark",
+            "a": "dim / gloomy"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Are they synonyms? Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "'Win' and 'lose' are synonyms.",
+            "a": false
+          },
+          {
+            "q": "'Below' and 'beneath' mean the same.",
+            "a": true
+          },
+          {
+            "q": "'Always' and 'never' are synonyms.",
+            "a": false
+          },
+          {
+            "q": "A synonym is a word that means the opposite.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a word that means the same as the word in brackets. Use: won, exciting, trophy.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Faisal's favourite camel ___ (came first in) the race.",
+            "a": "won"
+          },
+          {
+            "q": "The race was very ___ (thrilling).",
+            "a": "exciting"
+          },
+          {
+            "q": "The owner got a gold ___ (prize).",
+            "a": "trophy"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a race. Use a word that means fast.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. The speedy camel ran to the end. Accept quick, swift, rapid or speedy."
+      }
+    ]
+  },
+  {
+    "id": "synonyms-13",
+    "topic": "synonyms",
+    "number": 13,
+    "level": "Challenge",
+    "title": "A Letter to Granny in Chennai",
+    "intro": "Ishita writes a letter to her granny in Chennai. Help her choose the best words.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the words. Same as kind, or the opposite of kind?",
+        "marks": 6,
+        "groups": [
+          "Means the same as kind",
+          "Means the opposite of kind"
+        ],
+        "words": [
+          "caring",
+          "cruel",
+          "gentle",
+          "unkind",
+          "friendly",
+          "mean"
+        ],
+        "a": {
+          "caring": "Means the same as kind",
+          "cruel": "Means the opposite of kind",
+          "gentle": "Means the same as kind",
+          "unkind": "Means the opposite of kind",
+          "friendly": "Means the same as kind",
+          "mean": "Means the opposite of kind"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that means the same.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "I was very happy to get your parcel. I was",
+            "options": [
+              "delighted",
+              "gloomy",
+              "sleepy"
+            ],
+            "after": ".",
+            "a": "delighted"
+          },
+          {
+            "before": "My teacher says I write with care. I write",
+            "options": [
+              "neatly",
+              "messily",
+              "loudly"
+            ],
+            "after": ".",
+            "a": "neatly"
+          },
+          {
+            "before": "Our new flat is big inside. It is",
+            "options": [
+              "roomy",
+              "cramped",
+              "tiny"
+            ],
+            "after": ".",
+            "a": "roomy"
+          },
+          {
+            "before": "Last week I was sick. I felt",
+            "options": [
+              "unwell",
+              "strong",
+              "cheerful"
+            ],
+            "after": ".",
+            "a": "unwell"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again. Change the word in capitals to a synonym.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "I WANT to visit you soon.",
+            "a": "e.g. I wish to visit you soon. (Accept hope.)"
+          },
+          {
+            "q": "My little brother is NAUGHTY.",
+            "a": "e.g. My little brother is cheeky. (Accept mischievous.)"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "'Delighted' and 'pleased' mean almost the same.",
+            "a": true
+          },
+          {
+            "q": "'Sweet' and 'sour' are synonyms.",
+            "a": false
+          },
+          {
+            "q": "'Letter' and 'note' can mean the same.",
+            "a": true
+          },
+          {
+            "q": "'Far' and 'near' are synonyms.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two lines to someone you miss. Use a synonym for happy.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Uses a word such as glad, delighted, pleased or cheerful."
+      }
+    ]
+  },
+  {
+    "id": "synonyms-14",
+    "topic": "synonyms",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Hot Air Balloon over Jaipur",
+    "intro": "Aarav and Grace take a hot air balloon ride over Jaipur at sunrise. Some words are stronger than others.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write a word that means the same.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "float",
+            "a": "drift / glide"
+          },
+          {
+            "q": "view",
+            "a": "sight / scene"
+          },
+          {
+            "q": "shaky",
+            "a": "wobbly"
+          },
+          {
+            "q": "wind",
+            "a": "breeze"
+          },
+          {
+            "q": "sunrise",
+            "a": "dawn"
+          },
+          {
+            "q": "ground",
+            "a": "earth / land"
+          },
+          {
+            "q": "fear",
+            "a": "fright"
+          },
+          {
+            "q": "calm",
+            "a": "still / peaceful / quiet"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the stronger word that fits best.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The balloon",
+            "options": [
+              "soared",
+              "crawled",
+              "waddled"
+            ],
+            "after": "high into the sky.",
+            "a": "soared"
+          },
+          {
+            "before": "Aarav was not just a bit scared. He was",
+            "options": [
+              "terrified",
+              "calm",
+              "sleepy"
+            ],
+            "after": ".",
+            "a": "terrified"
+          },
+          {
+            "before": "The fort below was not just big. It was",
+            "options": [
+              "gigantic",
+              "little",
+              "broken"
+            ],
+            "after": ".",
+            "a": "gigantic"
+          },
+          {
+            "before": "The sunrise was not just pretty. It was",
+            "options": [
+              "stunning",
+              "plain",
+              "grey"
+            ],
+            "after": ".",
+            "a": "stunning"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each word to a stronger word that means the same.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "angry",
+            "right": "furious"
+          },
+          {
+            "left": "wet",
+            "right": "soaked"
+          },
+          {
+            "left": "funny",
+            "right": "hilarious"
+          },
+          {
+            "left": "happy",
+            "right": "overjoyed"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "'Drift' means to move slowly in the air or on water.",
+            "a": true
+          },
+          {
+            "q": "'Terrified' means a little bit scared.",
+            "a": false
+          },
+          {
+            "q": "'Gigantic' means very small.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Imagine you are in a hot air balloon. Write two sentences. Use one strong word like soared or stunning.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. We soared over the city. The view was stunning."
+      }
+    ]
+  },
+  {
+    "id": "synonyms-15",
+    "topic": "synonyms",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Our Trip to the Planetarium",
+    "intro": "Vivaan and Lucia visit a planetarium. Use synonyms to make their report more interesting.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the words that mean the same.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "twinkle",
+            "right": "sparkle"
+          },
+          {
+            "left": "spin",
+            "right": "whirl"
+          },
+          {
+            "left": "learn",
+            "right": "find out"
+          },
+          {
+            "left": "idea",
+            "right": "thought"
+          },
+          {
+            "left": "show",
+            "right": "display"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the synonym that fits the sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Lucia felt dizzy after the spinning show. She felt",
+            "options": [
+              "giddy",
+              "calm",
+              "hungry"
+            ],
+            "after": ".",
+            "a": "giddy"
+          },
+          {
+            "before": "Vivaan wanted to know more. He was",
+            "options": [
+              "curious",
+              "bored",
+              "angry"
+            ],
+            "after": ".",
+            "a": "curious"
+          },
+          {
+            "before": "The trip was short. It was",
+            "options": [
+              "brief",
+              "long",
+              "boring"
+            ],
+            "after": ".",
+            "a": "brief"
+          },
+          {
+            "before": "Vivaan was amazed. He was",
+            "options": [
+              "astonished",
+              "bored",
+              "sleepy"
+            ],
+            "after": ".",
+            "a": "astonished"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again. Use a synonym for both words in capitals.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The BIG dome was very DARK.",
+            "a": "e.g. The large dome was very dim."
+          },
+          {
+            "q": "We LOOKED at the TINY stars.",
+            "a": "e.g. We stared at the little stars."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Using synonyms can make our writing more interesting.",
+            "a": true
+          },
+          {
+            "q": "'Big' and 'large' are opposites.",
+            "a": false
+          },
+          {
+            "q": "Every word has only one synonym.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about the night sky. Use two synonyms you learnt this year.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. The stars sparkle in the dark sky. The moon looks enormous."
+      }
+    ]
   }
 ]

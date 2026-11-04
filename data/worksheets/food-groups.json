@@ -624,5 +624,1236 @@
         "a": "Answers will vary. One mark for each group, e.g. \"roti (energy), dal (body-building), salad (protective)\"."
       }
     ]
+  },
+  {
+    "id": "food-groups-06",
+    "topic": "food-groups",
+    "number": 6,
+    "level": "Practice",
+    "title": "Weekly Shopping at the Hypermarket",
+    "intro": "Arav and his mother buy groceries for the week at a hypermarket in Abu Dhabi.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the shopping into the three food groups.",
+        "marks": 9,
+        "groups": [
+          "Energy-giving",
+          "Body-building",
+          "Protective"
+        ],
+        "words": [
+          "tofu",
+          "vermicelli",
+          "soya chunks",
+          "cooking oil",
+          "broccoli",
+          "red pepper",
+          "kiwi",
+          "tuna",
+          "brown bread"
+        ],
+        "a": {
+          "brown bread": "Energy-giving",
+          "vermicelli": "Energy-giving",
+          "cooking oil": "Energy-giving",
+          "soya chunks": "Body-building",
+          "tofu": "Body-building",
+          "tuna": "Body-building",
+          "broccoli": "Protective",
+          "kiwi": "Protective",
+          "red pepper": "Protective"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Cooking oil gives us energy.",
+            "a": true
+          },
+          {
+            "q": "Soya chunks help build our muscles.",
+            "a": true
+          },
+          {
+            "q": "Kiwi is a protective food.",
+            "a": true
+          },
+          {
+            "q": "A trolley full of only sweets is a healthy shopping list.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the protective food.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Arav picks a bag of",
+            "options": [
+              "carrots",
+              "crisps"
+            ],
+            "after": ".",
+            "a": "carrots"
+          },
+          {
+            "before": "Mum buys a box of",
+            "options": [
+              "strawberries",
+              "chocolates"
+            ],
+            "after": ".",
+            "a": "strawberries"
+          },
+          {
+            "before": "Arav adds a bunch of",
+            "options": [
+              "spinach",
+              "lollipops"
+            ],
+            "after": "to the trolley.",
+            "a": "spinach"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Tuna is a fish that gives us ___ to grow.",
+            "a": "protein"
+          },
+          {
+            "q": "Bread, oil and vermicelli give us ___.",
+            "a": "energy"
+          },
+          {
+            "q": "Kiwi and broccoli help keep away ___.",
+            "a": "illness / germs / sickness"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a shopping list of three foods, one from each group.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary. One mark for each group, e.g. \"rice, eggs, apples\"."
+      }
+    ]
+  },
+  {
+    "id": "food-groups-07",
+    "topic": "food-groups",
+    "number": 7,
+    "level": "Practice",
+    "title": "Dinner at a Punjabi Dhaba",
+    "intro": "On a road trip to Amritsar, the Grewal family stops at a dhaba for dinner.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the dhaba food to what it does for us.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "makki ki roti",
+            "right": "gives energy for the long drive"
+          },
+          {
+            "left": "rajma",
+            "right": "helps build muscles"
+          },
+          {
+            "left": "sarson ka saag",
+            "right": "protects us from illness"
+          },
+          {
+            "left": "a glass of water",
+            "right": "helps our body digest food"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Healthy choice and Eat only sometimes.",
+        "marks": 8,
+        "groups": [
+          "Healthy choice",
+          "Eat only sometimes"
+        ],
+        "words": [
+          "plain curd",
+          "extra butter on everything",
+          "sweet fizzy drink",
+          "tandoori roti",
+          "jalebi",
+          "dal tadka",
+          "samosa",
+          "fresh salad"
+        ],
+        "a": {
+          "tandoori roti": "Healthy choice",
+          "dal tadka": "Healthy choice",
+          "fresh salad": "Healthy choice",
+          "plain curd": "Healthy choice",
+          "jalebi": "Eat only sometimes",
+          "samosa": "Eat only sometimes",
+          "sweet fizzy drink": "Eat only sometimes",
+          "extra butter on everything": "Eat only sometimes"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Rajma and chole are body-building foods.",
+            "a": true
+          },
+          {
+            "q": "Leafy greens like saag are protective foods.",
+            "a": true
+          },
+          {
+            "q": "Ghee gives us a lot of energy.",
+            "a": true
+          },
+          {
+            "q": "Eating very fast helps our tummy.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the healthier choice.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "After the long drive, Kabir drinks",
+            "options": [
+              "water",
+              "cola"
+            ],
+            "after": ".",
+            "a": "water"
+          },
+          {
+            "before": "Papa asks for",
+            "options": [
+              "less",
+              "more"
+            ],
+            "after": "oil in the dal.",
+            "a": "less"
+          },
+          {
+            "before": "For dessert, Jaspreet picks",
+            "options": [
+              "a bowl of fruit",
+              "three jalebis"
+            ],
+            "after": ".",
+            "a": "a bowl of fruit"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one healthy dish you would order at a dhaba.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. dal with roti, or paneer tikka with salad."
+      }
+    ]
+  },
+  {
+    "id": "food-groups-08",
+    "topic": "food-groups",
+    "number": 8,
+    "level": "Practice",
+    "title": "Go, Grow and Glow at the Canteen",
+    "intro": "The school canteen in Ajman puts up a new menu. It uses three words: Go foods, Grow foods and Glow foods.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the word to what it does.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Go foods",
+            "right": "give energy to run and jump"
+          },
+          {
+            "left": "Grow foods",
+            "right": "make muscles and bones strong"
+          },
+          {
+            "left": "Glow foods",
+            "right": "keep skin, eyes and hair healthy"
+          },
+          {
+            "left": "water",
+            "right": "stops us getting dehydrated"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write Go, Grow or Glow.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "poha",
+            "a": "Go"
+          },
+          {
+            "q": "boiled chana",
+            "a": "Grow"
+          },
+          {
+            "q": "pear",
+            "a": "Glow"
+          },
+          {
+            "q": "millet roti",
+            "a": "Go"
+          },
+          {
+            "q": "egg bhurji",
+            "a": "Grow"
+          },
+          {
+            "q": "beetroot",
+            "a": "Glow"
+          },
+          {
+            "q": "grilled fish",
+            "a": "Grow"
+          },
+          {
+            "q": "plum",
+            "a": "Glow"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Go foods are the same as energy-giving foods.",
+            "a": true
+          },
+          {
+            "q": "Glow foods are mostly fruits and vegetables.",
+            "a": true
+          },
+          {
+            "q": "Grow foods are body-building foods.",
+            "a": true
+          },
+          {
+            "q": "A meal of only Go foods is a balanced meal.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the better canteen choice.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "For a snack, Sofia buys",
+            "options": [
+              "a fruit cup",
+              "a packet of crisps"
+            ],
+            "after": ".",
+            "a": "a fruit cup"
+          },
+          {
+            "before": "To drink, Musa picks",
+            "options": [
+              "plain milk",
+              "an energy drink"
+            ],
+            "after": ".",
+            "a": "plain milk"
+          },
+          {
+            "before": "For lunch, Neel takes",
+            "options": [
+              "a vegetable wrap",
+              "a chocolate bar"
+            ],
+            "after": ".",
+            "a": "a vegetable wrap"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Plan a canteen lunch with one Go, one Grow and one Glow food.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary. One mark for each, e.g. \"Go: rice, Grow: dal, Glow: cucumber\"."
+      }
+    ]
+  },
+  {
+    "id": "food-groups-09",
+    "topic": "food-groups",
+    "number": 9,
+    "level": "Practice",
+    "title": "Water Break at Summer Camp",
+    "intro": "It is 40 degrees outside at a summer camp in Dubai. The coach blows the whistle for a water break.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Water is not a food group, but our body needs it every day.",
+            "a": true
+          },
+          {
+            "q": "We lose water from our body when we sweat.",
+            "a": true
+          },
+          {
+            "q": "We should wait until we feel very thirsty before we drink.",
+            "a": false
+          },
+          {
+            "q": "Watermelon and cucumber have lots of water in them.",
+            "a": true
+          },
+          {
+            "q": "Sugary drinks are the best way to stay cool.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Lina drinks 2 glasses in the morning, 3 at camp and 2 at night. She drinks ___ glasses.",
+            "a": "7"
+          },
+          {
+            "q": "Dark yellow pee means we need to drink more ___.",
+            "a": "water"
+          },
+          {
+            "q": "More than half of our ___ is made of water.",
+            "a": "body"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Good drinks and Drink only sometimes.",
+        "marks": 8,
+        "groups": [
+          "Good drinks",
+          "Drink only sometimes"
+        ],
+        "words": [
+          "energy drink",
+          "plain water",
+          "milk",
+          "thick milkshake with cream",
+          "lemon water",
+          "cola",
+          "sweet iced tea",
+          "laban"
+        ],
+        "a": {
+          "plain water": "Good drinks",
+          "laban": "Good drinks",
+          "lemon water": "Good drinks",
+          "milk": "Good drinks",
+          "cola": "Drink only sometimes",
+          "energy drink": "Drink only sometimes",
+          "sweet iced tea": "Drink only sometimes",
+          "thick milkshake with cream": "Drink only sometimes"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Water carries food to all parts of our",
+            "options": [
+              "body",
+              "school bag"
+            ],
+            "after": ".",
+            "a": "body"
+          },
+          {
+            "before": "On a hot day we should drink",
+            "options": [
+              "more",
+              "less"
+            ],
+            "after": "water.",
+            "a": "more"
+          },
+          {
+            "before": "The coach fills his",
+            "options": [
+              "water bottle",
+              "lunch box"
+            ],
+            "after": "before the game.",
+            "a": "water bottle"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways to remember to drink water.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. keep a bottle on my desk, drink a glass after every class."
+      }
+    ]
+  },
+  {
+    "id": "food-groups-10",
+    "topic": "food-groups",
+    "number": 10,
+    "level": "Practice",
+    "title": "Good Food Habits at Nani's House",
+    "intro": "Nani in Hyderabad has rules for every meal. Tanya and her cousin Max follow them.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort into Good habits and Bad habits.",
+        "marks": 8,
+        "groups": [
+          "Good habits",
+          "Bad habits"
+        ],
+        "words": [
+          "eat food that fell on the road",
+          "chew food well",
+          "watch TV while eating",
+          "eat meals at the same time each day",
+          "gulp food very fast",
+          "wash hands before eating",
+          "skip breakfast",
+          "take only what you can finish"
+        ],
+        "a": {
+          "wash hands before eating": "Good habits",
+          "chew food well": "Good habits",
+          "eat meals at the same time each day": "Good habits",
+          "take only what you can finish": "Good habits",
+          "watch TV while eating": "Bad habits",
+          "skip breakfast": "Bad habits",
+          "eat food that fell on the road": "Bad habits",
+          "gulp food very fast": "Bad habits"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Chewing food well helps our tummy.",
+            "a": true
+          },
+          {
+            "q": "We should wash fruit before eating it.",
+            "a": true
+          },
+          {
+            "q": "Wasting food is a good habit.",
+            "a": false
+          },
+          {
+            "q": "We should rinse our mouth after meals.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Before lunch, Max washes his hands with",
+            "options": [
+              "soap",
+              "sand"
+            ],
+            "after": ".",
+            "a": "soap"
+          },
+          {
+            "before": "Tanya covers the food to keep",
+            "options": [
+              "flies",
+              "friends"
+            ],
+            "after": "away.",
+            "a": "flies"
+          },
+          {
+            "before": "Nani says we should eat",
+            "options": [
+              "fresh",
+              "stale"
+            ],
+            "after": "food.",
+            "a": "fresh"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We should not talk with food in our ___.",
+            "a": "mouth"
+          },
+          {
+            "q": "Tanya sits down at the ___ to eat her meal.",
+            "a": "table"
+          },
+          {
+            "q": "Nani puts leftover rice in the ___ to keep it fresh.",
+            "a": "fridge"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in one sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Why should we wash our hands before eating?",
+            "a": "e.g. To wash away germs so we do not fall ill."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "food-groups-11",
+    "topic": "food-groups",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Rahul's Food Chart Mistakes",
+    "intro": "Rahul made a food group chart for the science fair in Kochi. His sister found some mistakes.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is Rahul right? Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Rice is a body-building food.",
+            "a": false
+          },
+          {
+            "q": "Eggs help us grow.",
+            "a": true
+          },
+          {
+            "q": "Carrots are energy-giving foods.",
+            "a": false
+          },
+          {
+            "q": "Fish is a body-building food.",
+            "a": true
+          },
+          {
+            "q": "Butter gives us energy.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the wrong sentences correctly.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Rice is a body-building food.",
+            "a": "Rice is an energy-giving food."
+          },
+          {
+            "q": "Carrots are energy-giving foods.",
+            "a": "Carrots are protective foods."
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Help Rahul sort these Kerala foods.",
+        "marks": 9,
+        "groups": [
+          "Energy-giving",
+          "Body-building",
+          "Protective"
+        ],
+        "words": [
+          "appam",
+          "drumstick leaves",
+          "egg roast",
+          "sardines",
+          "pineapple",
+          "jackfruit",
+          "green gram",
+          "tapioca",
+          "puttu"
+        ],
+        "a": {
+          "appam": "Energy-giving",
+          "puttu": "Energy-giving",
+          "tapioca": "Energy-giving",
+          "sardines": "Body-building",
+          "egg roast": "Body-building",
+          "green gram": "Body-building",
+          "jackfruit": "Protective",
+          "drumstick leaves": "Protective",
+          "pineapple": "Protective"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the food that is from a different group.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Odd one out:",
+            "options": [
+              "rice",
+              "wheat",
+              "egg"
+            ],
+            "after": "",
+            "a": "egg"
+          },
+          {
+            "before": "Odd one out:",
+            "options": [
+              "apple",
+              "spinach",
+              "bread"
+            ],
+            "after": "",
+            "a": "bread"
+          },
+          {
+            "before": "Odd one out:",
+            "options": [
+              "fish",
+              "paneer",
+              "sugar"
+            ],
+            "after": "",
+            "a": "sugar"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "food-groups-12",
+    "topic": "food-groups",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Building a Balanced Thali",
+    "intro": "At a Gujarati restaurant in Dubai, the children check each thali. Each one is missing a food group.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Which group is missing? Circle it.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Thali 1: roti, dal, rice. Missing:",
+            "options": [
+              "protective",
+              "energy-giving"
+            ],
+            "after": "",
+            "a": "protective"
+          },
+          {
+            "before": "Thali 2: rice, potato, cucumber salad. Missing:",
+            "options": [
+              "body-building",
+              "protective"
+            ],
+            "after": "",
+            "a": "body-building"
+          },
+          {
+            "before": "Thali 3: paneer, salad, fruit. Missing:",
+            "options": [
+              "energy-giving",
+              "protective"
+            ],
+            "after": "",
+            "a": "energy-giving"
+          },
+          {
+            "before": "Thali 4: bread, egg, ghee. Missing:",
+            "options": [
+              "protective",
+              "energy-giving"
+            ],
+            "after": "",
+            "a": "protective"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Add food to make each meal balanced.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "upma and tea",
+            "a": "e.g. Add curd (body-building) and a banana (protective)."
+          },
+          {
+            "q": "chicken curry and salad",
+            "a": "e.g. Add rice or roti (energy-giving)."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A thali with roti, dal and vegetables is balanced.",
+            "a": true
+          },
+          {
+            "q": "Two energy foods and no vegetables make a balanced meal.",
+            "a": false
+          },
+          {
+            "q": "We should eat vegetables at lunch and dinner.",
+            "a": true
+          },
+          {
+            "q": "Eating too much of one food, even a healthy one, is not good.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Kadhi is made from curd, so it is a ___ food.",
+            "a": "body-building"
+          },
+          {
+            "q": "Kachumber salad is a ___ food.",
+            "a": "protective"
+          },
+          {
+            "q": "Thepla made from wheat flour is an ___ food.",
+            "a": "energy-giving"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Plan your own thali. Write one food from each group.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary. One mark for each group, e.g. \"bajra roti, moong dal, bhindi\"."
+      }
+    ]
+  },
+  {
+    "id": "food-groups-13",
+    "topic": "food-groups",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Why Meera Felt Sleepy in Class",
+    "intro": "Meera skipped breakfast and ate only chips at break. By the third class, she felt tired and could not think well. The next day she ate oats with milk and an apple. She felt full of energy all morning.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Read the story. Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "On the first day Meera ate",
+            "options": [
+              "chips",
+              "oats"
+            ],
+            "after": "at break.",
+            "a": "chips"
+          },
+          {
+            "before": "In the third class she felt",
+            "options": [
+              "tired",
+              "strong"
+            ],
+            "after": ".",
+            "a": "tired"
+          },
+          {
+            "before": "The next day she ate oats with",
+            "options": [
+              "milk",
+              "cola"
+            ],
+            "after": ".",
+            "a": "milk"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Meera ate a good breakfast on the first day.",
+            "a": false
+          },
+          {
+            "q": "The chips gave her energy all day.",
+            "a": false
+          },
+          {
+            "q": "On the second day she ate food from more than one group.",
+            "a": true
+          },
+          {
+            "q": "Breakfast helps our brain work well at school.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the group: E (energy), B (body-building) or P (protective).",
+        "marks": 4,
+        "items": [
+          {
+            "q": "oats",
+            "a": "E"
+          },
+          {
+            "q": "milk",
+            "a": "B"
+          },
+          {
+            "q": "apple",
+            "a": "P"
+          },
+          {
+            "q": "honey",
+            "a": "E"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in one sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Why did Meera feel tired?",
+            "a": "e.g. She skipped breakfast and ate only chips, so her body did not get enough good food."
+          },
+          {
+            "q": "What would you tell Meera to do every morning?",
+            "a": "e.g. Always eat a healthy breakfast."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write your favourite healthy breakfast.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"idli with sambar and a banana\"."
+      }
+    ]
+  },
+  {
+    "id": "food-groups-14",
+    "topic": "food-groups",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Nutrient Detectives in the Science Lab",
+    "intro": "Mr Khan's class in Dubai learns the names of the helpers hidden in food: carbohydrates, fats, proteins, vitamins and minerals.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the nutrient to its job.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "carbohydrates",
+            "right": "give us quick energy"
+          },
+          {
+            "left": "fats",
+            "right": "give stored energy and keep us warm"
+          },
+          {
+            "left": "proteins",
+            "right": "build muscles and heal cuts"
+          },
+          {
+            "left": "vitamins and minerals",
+            "right": "protect us from illness"
+          },
+          {
+            "left": "fibre",
+            "right": "helps food move through the tummy"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the foods by the main nutrient in them.",
+        "marks": 9,
+        "groups": [
+          "Carbohydrates",
+          "Proteins",
+          "Fats"
+        ],
+        "words": [
+          "grilled chicken",
+          "sabudana",
+          "butter",
+          "moong sprouts",
+          "egg white",
+          "coconut oil",
+          "bajra roti",
+          "bread roll",
+          "cream"
+        ],
+        "a": {
+          "bajra roti": "Carbohydrates",
+          "sabudana": "Carbohydrates",
+          "bread roll": "Carbohydrates",
+          "moong sprouts": "Proteins",
+          "grilled chicken": "Proteins",
+          "egg white": "Proteins",
+          "butter": "Fats",
+          "coconut oil": "Fats",
+          "cream": "Fats"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Proteins help us grow and heal.",
+            "a": true
+          },
+          {
+            "q": "Fats are found in butter, oil and ghee.",
+            "a": true
+          },
+          {
+            "q": "Lemons and oranges give us vitamin C.",
+            "a": true
+          },
+          {
+            "q": "We need only fats to stay healthy.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Energy-giving foods have carbohydrates and ___.",
+            "a": "fats"
+          },
+          {
+            "q": "Body-building foods have lots of ___.",
+            "a": "proteins / protein"
+          },
+          {
+            "q": "Protective foods give us ___ and minerals.",
+            "a": "vitamins"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one food with protein and one food with carbohydrates.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"Protein: dal. Carbohydrates: rice.\""
+      }
+    ]
+  },
+  {
+    "id": "food-groups-15",
+    "topic": "food-groups",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Our Class Food Diary",
+    "intro": "For one week, Class 2 in Chennai writes down everything they eat. Then they check their diaries.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Is the meal balanced? Write yes or no.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "idli, sambar and papaya",
+            "a": "yes"
+          },
+          {
+            "q": "only biscuits and tea",
+            "a": "no"
+          },
+          {
+            "q": "chapati, egg curry and salad",
+            "a": "yes"
+          },
+          {
+            "q": "noodles and a fizzy drink",
+            "a": "no"
+          },
+          {
+            "q": "rice, fish curry and green beans",
+            "a": "yes"
+          },
+          {
+            "q": "chips and chocolate",
+            "a": "no"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Work it out. Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Arjun ate fruit on 5 of the 7 days. He had no fruit on ___ days.",
+            "a": "2"
+          },
+          {
+            "q": "Zoya drank 6 glasses of water each day. In 2 days she drank ___ glasses.",
+            "a": "12"
+          },
+          {
+            "q": "Kiran ate junk food on 3 days. Next week he will eat it on 1 day. That is ___ days fewer.",
+            "a": "2"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A healthy diary has fruits or vegetables every day.",
+            "a": true
+          },
+          {
+            "q": "Eating breakfast only on Sunday is enough.",
+            "a": false
+          },
+          {
+            "q": "Eating junk food once in a while is all right.",
+            "a": true
+          },
+          {
+            "q": "We need to drink water every day.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Zoya's diary has no vegetables. She should add",
+            "options": [
+              "salad",
+              "sweets"
+            ],
+            "after": ".",
+            "a": "salad"
+          },
+          {
+            "before": "Kiran eats chips every day. He can swap them for",
+            "options": [
+              "roasted makhana",
+              "fries"
+            ],
+            "after": ".",
+            "a": "roasted makhana"
+          },
+          {
+            "before": "Arjun forgot to drink water. He should carry a",
+            "options": [
+              "water bottle",
+              "soda can"
+            ],
+            "after": ".",
+            "a": "water bottle"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write what you ate yesterday. Was it balanced? Why?",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary. Check the child names foods and says if all three groups were there."
+      }
+    ]
   }
 ]

@@ -642,5 +642,1251 @@
         ]
       }
     ]
+  },
+  {
+    "id": "patterns-and-symmetry-06",
+    "topic": "patterns-and-symmetry",
+    "number": 6,
+    "level": "Practice",
+    "title": "Mehendi Designs for Eid",
+    "intro": "Aisha's aunt draws mehendi on her hands for Eid. The designs have repeating patterns and matching halves.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "What comes next?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "leaf, dot, leaf, dot, leaf, ___",
+            "a": "dot"
+          },
+          {
+            "q": "swirl, swirl, flower, swirl, swirl, flower, swirl, ___",
+            "a": "swirl"
+          },
+          {
+            "q": "big dot, small dot, small dot, big dot, small dot, small dot, ___",
+            "a": "big dot"
+          },
+          {
+            "q": "line, wave, star, line, wave, ___",
+            "a": "star"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the part that repeats.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "dot, line, line, dot, line, line",
+            "options": [
+              "dot, line",
+              "dot, line, line"
+            ],
+            "after": "",
+            "a": "dot, line, line"
+          },
+          {
+            "before": "moon, star, sun, moon, star, sun",
+            "options": [
+              "moon, star, sun",
+              "moon, star"
+            ],
+            "after": "",
+            "a": "moon, star, sun"
+          },
+          {
+            "before": "up, up, down, up, up, down",
+            "options": [
+              "up, down",
+              "up, up, down"
+            ],
+            "after": "",
+            "a": "up, up, down"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A mehendi design with matching left and right halves is symmetrical.",
+            "a": true
+          },
+          {
+            "q": "The letter E has a line of symmetry across the middle.",
+            "a": true
+          },
+          {
+            "q": "The letter G has a line of symmetry.",
+            "a": false
+          },
+          {
+            "q": "A heart shape has one line of symmetry.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Does it have a line of symmetry? Sort.",
+        "marks": 4,
+        "groups": [
+          "Symmetrical",
+          "Not symmetrical"
+        ],
+        "words": [
+          "the letter B",
+          "the number 2",
+          "a pair of glasses",
+          "the number 5",
+          "the letter D",
+          "the number 6",
+          "a semicircle",
+          "the number 9"
+        ],
+        "a": {
+          "the letter B": "Symmetrical",
+          "the number 2": "Not symmetrical",
+          "a pair of glasses": "Symmetrical",
+          "the number 5": "Not symmetrical",
+          "the letter D": "Symmetrical",
+          "the number 6": "Not symmetrical",
+          "a semicircle": "Symmetrical",
+          "the number 9": "Not symmetrical"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Make your own mehendi pattern that repeats. Use words.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. flower, leaf, leaf, flower, leaf, leaf. Check that a group repeats at least twice."
+      }
+    ]
+  },
+  {
+    "id": "patterns-and-symmetry-07",
+    "topic": "patterns-and-symmetry",
+    "number": 7,
+    "level": "Practice",
+    "title": "Flags on Sports Day",
+    "intro": "The school field has long lines of flags for Sports Day. Yuki and Manav count the flags.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Which flag comes at that place?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "red, white, red, white, ... The 8th flag is ___.",
+            "a": "white"
+          },
+          {
+            "q": "green, green, yellow, green, green, yellow, ... The 7th flag is ___.",
+            "a": "green"
+          },
+          {
+            "q": "blue, orange, purple, blue, orange, purple, ... The 8th flag is ___.",
+            "a": "orange"
+          },
+          {
+            "q": "red, red, red, white, ... The 6th flag is ___.",
+            "a": "red"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle how many flags are in the part that repeats.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "In red, white, red, white, the part that repeats has",
+            "options": [
+              "2",
+              "3",
+              "4"
+            ],
+            "after": "flags.",
+            "a": "2"
+          },
+          {
+            "before": "In green, green, yellow, green, green, yellow, the part that repeats has",
+            "options": [
+              "2",
+              "3",
+              "4"
+            ],
+            "after": "flags.",
+            "a": "3"
+          },
+          {
+            "before": "In red, red, red, white, red, red, red, white, the part that repeats has",
+            "options": [
+              "2",
+              "3",
+              "4"
+            ],
+            "after": "flags.",
+            "a": "4"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the next number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "6, 10, 14, 18",
+            "a": "22"
+          },
+          {
+            "q": "45, 40, 35, 30",
+            "a": "25"
+          },
+          {
+            "q": "12, 24, 36",
+            "a": "48"
+          },
+          {
+            "q": "70, 63, 56",
+            "a": "49"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In red, white, red, white, ..., 5 of the first 10 flags are red.",
+            "a": true
+          },
+          {
+            "q": "In green, green, yellow, ..., the 3rd, 6th and 9th flags are yellow.",
+            "a": true
+          },
+          {
+            "q": "A pattern can only be made with colours.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the Sports Day problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Yuki puts 4 flags on each pole. 5 poles have ___ flags.",
+            "a": "20"
+          },
+          {
+            "q": "Manav hangs blue, white, blue, white, ... In 12 flags, ___ are blue.",
+            "a": "6"
+          },
+          {
+            "q": "Each race has 3 more runners than the last: 5, 8, 11. The next race has ___ runners.",
+            "a": "14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "patterns-and-symmetry-08",
+    "topic": "patterns-and-symmetry",
+    "number": 8,
+    "level": "Practice",
+    "title": "Paper Cutting in Art Class",
+    "intro": "In art class, Ms Rosa folds paper in half and cuts out a shape. When she opens it, both halves match.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "When you fold paper and cut a shape, the opened shape is symmetrical.",
+            "a": true
+          },
+          {
+            "q": "The fold line is the line of symmetry.",
+            "a": true
+          },
+          {
+            "q": "If you cut half a heart on the fold, you get a whole heart.",
+            "a": true
+          },
+          {
+            "q": "A shape with no matching halves has a line of symmetry.",
+            "a": false
+          },
+          {
+            "q": "A circle has only one line of symmetry.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "How many lines of symmetry?",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A semicircle has ___ line of symmetry.",
+            "a": "1"
+          },
+          {
+            "q": "The capital letter H has ___ lines of symmetry.",
+            "a": "2"
+          },
+          {
+            "q": "The capital letter X has ___ lines of symmetry.",
+            "a": "2"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the letter that has a line of symmetry.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "N",
+              "O",
+              "S"
+            ],
+            "after": "",
+            "a": "O"
+          },
+          {
+            "before": "",
+            "options": [
+              "Z",
+              "P",
+              "U"
+            ],
+            "after": "",
+            "a": "U"
+          },
+          {
+            "before": "",
+            "options": [
+              "L",
+              "W",
+              "G"
+            ],
+            "after": "",
+            "a": "W"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Which way does the line of symmetry go? Sort the letters.",
+        "marks": 4,
+        "groups": [
+          "Up and down",
+          "Across"
+        ],
+        "words": [
+          "A",
+          "M",
+          "T",
+          "Y",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": {
+          "A": "Up and down",
+          "M": "Up and down",
+          "T": "Up and down",
+          "Y": "Up and down",
+          "B": "Across",
+          "C": "Across",
+          "D": "Across",
+          "E": "Across"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Name a shape you could cut from folded paper.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. a heart, a butterfly, a star, a tree or a vase"
+      }
+    ]
+  },
+  {
+    "id": "patterns-and-symmetry-09",
+    "topic": "patterns-and-symmetry",
+    "number": 9,
+    "level": "Practice",
+    "title": "Shells on Jumeirah Beach",
+    "intro": "Noor and Felix line up shells and pebbles on Jumeirah Beach. They make patterns with them.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "What comes next?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "shell, pebble, pebble, shell, pebble, pebble, ___",
+            "a": "shell"
+          },
+          {
+            "q": "big, big, small, big, big, small, ___",
+            "a": "big"
+          },
+          {
+            "q": "1 shell, 2 shells, 3 shells, ___ shells",
+            "a": "4"
+          },
+          {
+            "q": "starfish, crab, crab, crab, starfish, crab, crab, ___",
+            "a": "crab"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the next number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "8, 16, 24",
+            "a": "32"
+          },
+          {
+            "q": "105, 110, 115",
+            "a": "120"
+          },
+          {
+            "q": "93, 83, 73",
+            "a": "63"
+          },
+          {
+            "q": "4, 7, 10, 13",
+            "a": "16"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each pattern to the part that repeats.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "A, B, B, A, B, B",
+            "right": "A B B"
+          },
+          {
+            "left": "A, B, A, B",
+            "right": "A B"
+          },
+          {
+            "left": "A, A, B, B, A, A, B, B",
+            "right": "A A B B"
+          },
+          {
+            "left": "A, B, C, A, B, C",
+            "right": "A B C"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A starfish shape is symmetrical.",
+            "a": true
+          },
+          {
+            "q": "In shell, pebble, shell, pebble, ..., the 9th one is a shell.",
+            "a": true
+          },
+          {
+            "q": "1 shell, 2 shells, 3 shells, 4 shells is a repeating pattern.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the beach problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Noor puts 2 more shells in each row: 2, 4, 6. Row 5 has ___ shells.",
+            "a": "10"
+          },
+          {
+            "q": "Felix makes shell, pebble, pebble, ... He uses 4 shells, so he needs ___ pebbles.",
+            "a": "8"
+          },
+          {
+            "q": "There are 3 sandcastles with 5 flags each. There are ___ flags.",
+            "a": "15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "patterns-and-symmetry-10",
+    "topic": "patterns-and-symmetry",
+    "number": 10,
+    "level": "Practice",
+    "title": "Clap and Stamp in Music Class",
+    "intro": "In Mr Ali's music class, the children make patterns with sounds: clap, stamp and click.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "What comes next?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "clap, stamp, clap, stamp, ___",
+            "a": "clap"
+          },
+          {
+            "q": "clap, clap, click, clap, clap, click, ___",
+            "a": "clap"
+          },
+          {
+            "q": "stamp, click, click, stamp, click, click, stamp, ___",
+            "a": "click"
+          },
+          {
+            "q": "clap, stamp, click, clap, stamp, ___",
+            "a": "click"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the sound at that place.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "clap, stamp, clap, stamp, ... The 9th sound is",
+            "options": [
+              "clap",
+              "stamp"
+            ],
+            "after": ".",
+            "a": "clap"
+          },
+          {
+            "before": "clap, clap, click, ... The 6th sound is",
+            "options": [
+              "clap",
+              "click"
+            ],
+            "after": ".",
+            "a": "click"
+          },
+          {
+            "before": "stamp, click, click, ... The 10th sound is",
+            "options": [
+              "stamp",
+              "click"
+            ],
+            "after": ".",
+            "a": "stamp"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Is it a repeating pattern or a growing pattern?",
+        "marks": 6,
+        "groups": [
+          "Repeating",
+          "Growing"
+        ],
+        "words": [
+          "clap, stamp, clap, stamp",
+          "1, 2, 3, 4",
+          "drum, bell, drum, bell",
+          "2, 4, 6, 8",
+          "do, re, mi, do, re, mi",
+          "5, 10, 15, 20"
+        ],
+        "a": {
+          "clap, stamp, clap, stamp": "Repeating",
+          "1, 2, 3, 4": "Growing",
+          "drum, bell, drum, bell": "Repeating",
+          "2, 4, 6, 8": "Growing",
+          "do, re, mi, do, re, mi": "Repeating",
+          "5, 10, 15, 20": "Growing"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Sounds can make patterns, just like shapes and colours.",
+            "a": true
+          },
+          {
+            "q": "In clap, stamp, clap, stamp, the part that repeats is clap, stamp.",
+            "a": true
+          },
+          {
+            "q": "In 10, 20, 30, 40, the next number is 45.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Make your own sound pattern with clap and stamp.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. clap, clap, stamp, clap, clap, stamp. Check that a group repeats."
+      }
+    ]
+  },
+  {
+    "id": "patterns-and-symmetry-11",
+    "topic": "patterns-and-symmetry",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Carpet Weaving in Kashmir",
+    "intro": "Gul's grandfather weaves carpets in Srinagar. The borders have long repeating patterns, and the middle is symmetrical.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Which comes at that place?",
+        "marks": 3,
+        "items": [
+          {
+            "q": "red, gold, green, ... The 14th is ___.",
+            "a": "gold"
+          },
+          {
+            "q": "rose, leaf, leaf, ... The 20th is ___.",
+            "a": "leaf"
+          },
+          {
+            "q": "blue, blue, white, white, ... The 15th is ___.",
+            "a": "white"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "How many are there?",
+        "marks": 3,
+        "items": [
+          {
+            "q": "red, gold, green, ... In 12 knots, ___ are red.",
+            "a": "4"
+          },
+          {
+            "q": "rose, leaf, leaf, ... In 15 shapes, ___ are leaves.",
+            "a": "10"
+          },
+          {
+            "q": "blue, blue, white, white, ... In 16 threads, ___ are blue.",
+            "a": "8"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the missing part.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "rose, leaf, ?, rose, leaf, leaf",
+            "options": [
+              "rose",
+              "leaf"
+            ],
+            "after": "",
+            "a": "leaf"
+          },
+          {
+            "before": "1, 2, 3, 1, 2, ?, 1, 2, 3",
+            "options": [
+              "1",
+              "2",
+              "3"
+            ],
+            "after": "",
+            "a": "3"
+          },
+          {
+            "before": "square, circle, circle, square, ?, circle",
+            "options": [
+              "square",
+              "circle"
+            ],
+            "after": "",
+            "a": "circle"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A very big carpet can still be symmetrical.",
+            "a": true
+          },
+          {
+            "q": "A symmetrical carpet has 6 flowers on the left half, so it has 12 flowers in all.",
+            "a": true
+          },
+          {
+            "q": "In red, gold, green, ..., the 30th knot is green.",
+            "a": true
+          },
+          {
+            "q": "A rectangle carpet has 4 lines of symmetry.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Gul says the 10th shape in rose, leaf, leaf, ... is a leaf. Is he right? Explain.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. No. The roses are 1st, 4th, 7th and 10th, so the 10th is a rose."
+      }
+    ]
+  },
+  {
+    "id": "patterns-and-symmetry-12",
+    "topic": "patterns-and-symmetry",
+    "number": 12,
+    "level": "Challenge",
+    "title": "The Window Grills at Dadi's House",
+    "intro": "Dadi's old house in Lucknow has iron window grills with shapes and patterns. Some grills are symmetrical.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Fold each word down the middle. Do the halves match? Sort.",
+        "marks": 4,
+        "groups": [
+          "Halves match",
+          "Halves do not match"
+        ],
+        "words": [
+          "MUM",
+          "WOW",
+          "TOT",
+          "AHA",
+          "DAD",
+          "BUS",
+          "CAT",
+          "SUN"
+        ],
+        "a": {
+          "MUM": "Halves match",
+          "WOW": "Halves match",
+          "TOT": "Halves match",
+          "AHA": "Halves match",
+          "DAD": "Halves do not match",
+          "BUS": "Halves do not match",
+          "CAT": "Halves do not match",
+          "SUN": "Halves do not match"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "How many lines of symmetry?",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A plus sign (+) with equal arms has ___ lines of symmetry.",
+            "a": "4"
+          },
+          {
+            "q": "The capital letter I has ___ lines of symmetry.",
+            "a": "2"
+          },
+          {
+            "q": "A star with 5 equal points has ___ lines of symmetry.",
+            "a": "5"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the part that repeats.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "bar, bar, curl, bar, bar, curl",
+            "options": [
+              "bar, curl",
+              "bar, bar, curl"
+            ],
+            "after": "",
+            "a": "bar, bar, curl"
+          },
+          {
+            "before": "big curl, small curl, big curl, small curl",
+            "options": [
+              "big curl, small curl",
+              "small curl, big curl, small curl"
+            ],
+            "after": "",
+            "a": "big curl, small curl"
+          },
+          {
+            "before": "diamond, star, star, diamond, star, star",
+            "options": [
+              "diamond, star",
+              "diamond, star, star"
+            ],
+            "after": "",
+            "a": "diamond, star, star"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A plus sign (+) has a line of symmetry across the middle.",
+            "a": true
+          },
+          {
+            "q": "If you fold the letter Y down the middle, the halves match.",
+            "a": true
+          },
+          {
+            "q": "The number 3 has a line of symmetry across the middle.",
+            "a": true
+          },
+          {
+            "q": "The number 2 is symmetrical.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the grill problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A grill has 3 rows. Each row has 4 curls on the left and 4 on the right. It has ___ curls.",
+            "a": "24"
+          },
+          {
+            "q": "The grill goes bar, bar, curl, ... In 18 pieces there are ___ curls.",
+            "a": "6"
+          },
+          {
+            "q": "The left half of a symmetrical gate has 7 bars. The whole gate has ___ bars.",
+            "a": "14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "patterns-and-symmetry-13",
+    "topic": "patterns-and-symmetry",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Spot the Mistakes at the Craft Table",
+    "intro": "Jaya and Ollie made patterns at the craft table. Some patterns have a mistake. Can you find it?",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle where the mistake is.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "pink, blue, pink, blue, blue, blue, pink",
+            "options": [
+              "2nd",
+              "5th",
+              "6th"
+            ],
+            "after": "",
+            "a": "5th"
+          },
+          {
+            "before": "star, star, moon, star, star, moon, star, moon",
+            "options": [
+              "3rd",
+              "6th",
+              "8th"
+            ],
+            "after": "",
+            "a": "8th"
+          },
+          {
+            "before": "5, 10, 15, 20, 24, 30",
+            "options": [
+              "10",
+              "20",
+              "24"
+            ],
+            "after": "",
+            "a": "24"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Is the child right? Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Ollie says the letter A has a line of symmetry across the middle.",
+            "a": false
+          },
+          {
+            "q": "Jaya says the letter E has a line of symmetry across the middle.",
+            "a": true
+          },
+          {
+            "q": "Ollie says a triangle with 3 equal sides has only 1 line of symmetry.",
+            "a": false
+          },
+          {
+            "q": "Jaya says a rectangle has 2 lines of symmetry.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "One number is wrong. Write the right number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3, 6, 9, 13, 15",
+            "a": "12"
+          },
+          {
+            "q": "50, 45, 40, 36, 30",
+            "a": "35"
+          },
+          {
+            "q": "11, 22, 33, 45",
+            "a": "44"
+          },
+          {
+            "q": "200, 300, 450, 500",
+            "a": "400"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill the missing part.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "bead, button, ___, bead, button, button",
+            "a": "button"
+          },
+          {
+            "q": "red, red, ___, red, red, gold",
+            "a": "gold"
+          },
+          {
+            "q": "2, 4, 6, ___, 10",
+            "a": "8"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Make a pattern with one mistake in it. Ask a friend to find it.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. red, blue, red, blue, blue, blue. The 5th one should be red."
+      }
+    ]
+  },
+  {
+    "id": "patterns-and-symmetry-14",
+    "topic": "patterns-and-symmetry",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Fireworks on UAE National Day",
+    "intro": "On 2 December, Hamdan and Priya watch fireworks over the Corniche in Abu Dhabi. The fireworks burst in patterns.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Find the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3, 6, 12, ___, 48 (it doubles)",
+            "a": "24"
+          },
+          {
+            "q": "100, 90, 81, 73, ___ (take away 10, 9, 8, ...)",
+            "a": "66"
+          },
+          {
+            "q": "5, 6, 8, 11, ___ (add 1, 2, 3, ...)",
+            "a": "15"
+          },
+          {
+            "q": "250, 275, 300, ___",
+            "a": "325"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle what comes next.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "gold, silver, silver, gold, silver, silver, gold,",
+            "options": [
+              "gold",
+              "silver"
+            ],
+            "after": "",
+            "a": "silver"
+          },
+          {
+            "before": "1 burst, 3 bursts, 5 bursts, 7 bursts,",
+            "options": [
+              "8 bursts",
+              "9 bursts"
+            ],
+            "after": "",
+            "a": "9 bursts"
+          },
+          {
+            "before": "red, green, red, green, green, red, green, green, green,",
+            "options": [
+              "red",
+              "green"
+            ],
+            "after": "",
+            "a": "red"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A firework that bursts the same on all sides is symmetrical.",
+            "a": true
+          },
+          {
+            "q": "The UAE flag has two matching halves.",
+            "a": false
+          },
+          {
+            "q": "The pattern 2, 4, 8, 16 doubles each time.",
+            "a": true
+          },
+          {
+            "q": "In gold, silver, silver, ..., the 10th firework is gold.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the next two numbers.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "7, 10, 13",
+            "a": "16, 19"
+          },
+          {
+            "q": "64, 56, 48",
+            "a": "40, 32"
+          },
+          {
+            "q": "425, 450, 475",
+            "a": "500, 525"
+          },
+          {
+            "q": "2, 4, 8",
+            "a": "16, 32"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the fireworks problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Each minute, 6 more fireworks go up than the minute before: 6, 12, 18. In the 5th minute, ___ go up.",
+            "a": "30"
+          },
+          {
+            "q": "The fireworks go gold, silver, silver, ... In 21 fireworks, ___ are silver.",
+            "a": "14"
+          },
+          {
+            "q": "Hamdan counts 9 bursts on the left and the same on the right. There are ___ bursts in all.",
+            "a": "18"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "patterns-and-symmetry-15",
+    "topic": "patterns-and-symmetry",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Flower Beds at the Miracle Garden",
+    "intro": "At Dubai Miracle Garden, gardeners plant flowers in long patterns and in symmetrical shapes.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Which flower comes at that place?",
+        "marks": 3,
+        "items": [
+          {
+            "q": "petunia, marigold, marigold, ... The 13th flower is ___.",
+            "a": "petunia"
+          },
+          {
+            "q": "red, yellow, pink, white, ... The 11th flower is ___.",
+            "a": "pink"
+          },
+          {
+            "q": "rose, rose, daisy, ... The 17th flower is ___.",
+            "a": "rose"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each flower bed to its lines of symmetry.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "a square bed",
+            "right": "4 lines"
+          },
+          {
+            "left": "a heart-shaped bed",
+            "right": "1 line"
+          },
+          {
+            "left": "a rectangle bed (not a square)",
+            "right": "2 lines"
+          },
+          {
+            "left": "a bed shaped like the letter F",
+            "right": "no lines"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the one that is NOT symmetrical.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "the letter M",
+              "the number 6",
+              "a circle"
+            ],
+            "after": "",
+            "a": "the number 6"
+          },
+          {
+            "before": "",
+            "options": [
+              "a semicircle",
+              "the letter L",
+              "the letter T"
+            ],
+            "after": "",
+            "a": "the letter L"
+          },
+          {
+            "before": "",
+            "options": [
+              "the letter Q",
+              "an oval",
+              "the number 0"
+            ],
+            "after": "",
+            "a": "the letter Q"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A symmetrical bed has 5 tulips on the left of the line, so it has 5 on the right.",
+            "a": true
+          },
+          {
+            "q": "4, 8, 12, 16 is a growing pattern.",
+            "a": true
+          },
+          {
+            "q": "The pattern 9, 18, 27, 36 adds 8 each time.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the garden problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Each row has 4 more flowers than the one before: 10, 14, 18. The 5th row has ___ flowers.",
+            "a": "26"
+          },
+          {
+            "q": "A heart bed has 25 flowers on each side of the line. It has ___ flowers in all.",
+            "a": "50"
+          },
+          {
+            "q": "The pattern is tulip, tulip, rose. In 30 flowers, there are ___ roses.",
+            "a": "10"
+          }
+        ]
+      }
+    ]
   }
 ]

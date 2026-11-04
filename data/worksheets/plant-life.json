@@ -623,5 +623,1220 @@
         "a": "Seed → sprout → seedling → young plant → grown plant with flowers and fruits."
       }
     ]
+  },
+  {
+    "id": "plant-life-06",
+    "topic": "plant-life",
+    "number": 6,
+    "level": "Practice",
+    "title": "Sowing Rice in a Kerala Paddy Field",
+    "intro": "Meera helps her uncle on his paddy field near Thrissur. Farmers grow crops step by step.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the farming steps.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "First, the farmer ___ the field to loosen the soil.",
+            "a": "ploughs / digs"
+          },
+          {
+            "q": "Next, he ___ the rice seeds.",
+            "a": "sows / plants"
+          },
+          {
+            "q": "Then he gives the crop plenty of ___.",
+            "a": "water"
+          },
+          {
+            "q": "When the rice is ripe, he ___ it.",
+            "a": "harvests / cuts"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each farm tool to its job.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "plough",
+            "right": "loosens the soil"
+          },
+          {
+            "left": "sickle",
+            "right": "cuts the ripe crop"
+          },
+          {
+            "left": "scarecrow",
+            "right": "scares birds away"
+          },
+          {
+            "left": "water pump",
+            "right": "brings water to the field"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Rice needs lots of water to grow.",
+            "a": true
+          },
+          {
+            "q": "Crops grow well without any care from farmers.",
+            "a": false
+          },
+          {
+            "q": "Crops are plants grown by farmers for food.",
+            "a": true
+          },
+          {
+            "q": "Rice grains are the seeds of the rice plant.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "In Kerala, rice is sown when the",
+            "options": [
+              "rains",
+              "dry winds"
+            ],
+            "after": "begin.",
+            "a": "rains"
+          },
+          {
+            "before": "Farmers mix",
+            "options": [
+              "manure",
+              "plastic"
+            ],
+            "after": "into the soil to feed the plants.",
+            "a": "manure"
+          },
+          {
+            "before": "Young rice plants are moved from a nursery bed to the",
+            "options": [
+              "field",
+              "kitchen"
+            ],
+            "after": ".",
+            "a": "field"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write the steps to grow a crop, in order.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Plough the soil, sow the seeds, water, remove weeds, harvest."
+      }
+    ]
+  },
+  {
+    "id": "plant-life-07",
+    "topic": "plant-life",
+    "number": 7,
+    "level": "Practice",
+    "title": "A Nature Walk at Mushrif Park",
+    "intro": "Class 2 walks through Mushrif Park in Dubai. Ms Rao says plants are living things, just like us.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the things into Living and Non-living.",
+        "marks": 8,
+        "groups": [
+          "Living",
+          "Non-living"
+        ],
+        "words": [
+          "bench",
+          "tulsi plant",
+          "water bottle",
+          "stone",
+          "grass",
+          "kite",
+          "palm tree",
+          "fern"
+        ],
+        "a": {
+          "tulsi plant": "Living",
+          "grass": "Living",
+          "palm tree": "Living",
+          "fern": "Living",
+          "stone": "Non-living",
+          "bench": "Non-living",
+          "water bottle": "Non-living",
+          "kite": "Non-living"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Plants grow bigger over time.",
+            "a": true
+          },
+          {
+            "q": "Plants can walk from place to place.",
+            "a": false
+          },
+          {
+            "q": "Plants make their own food.",
+            "a": true
+          },
+          {
+            "q": "Plants can make new plants like themselves.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each sign of life to a plant example.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "grows",
+            "right": "a seedling becomes a tall tree"
+          },
+          {
+            "left": "makes food",
+            "right": "leaves use sunlight to make food"
+          },
+          {
+            "left": "has young ones",
+            "right": "seeds grow into new plants"
+          },
+          {
+            "left": "feels touch",
+            "right": "touch-me-not leaves fold when touched"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Plants cannot",
+            "options": [
+              "move",
+              "grow"
+            ],
+            "after": "from one place to another.",
+            "a": "move"
+          },
+          {
+            "before": "A plant that gets no water for many days will",
+            "options": [
+              "die",
+              "dance"
+            ],
+            "after": ".",
+            "a": "die"
+          },
+          {
+            "before": "A young sunflower turns to face the",
+            "options": [
+              "sun",
+              "moon"
+            ],
+            "after": ".",
+            "a": "sun"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way a plant is like you.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"It needs water.\" or \"It grows.\" or \"It is alive.\""
+      }
+    ]
+  },
+  {
+    "id": "plant-life-08",
+    "topic": "plant-life",
+    "number": 8,
+    "level": "Practice",
+    "title": "Measuring Mira's Tomato Plant",
+    "intro": "Mira planted a tomato seed in Delhi. It was 2 cm tall in week 1, 5 cm in week 2, 9 cm in week 3 and 14 cm in week 4, with yellow flowers.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read and fill in.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "From week 1 to week 2, the plant grew ___ cm.",
+            "a": "3"
+          },
+          {
+            "q": "From week 2 to week 3, the plant grew ___ cm.",
+            "a": "4"
+          },
+          {
+            "q": "From week 3 to week 4, the plant grew ___ cm.",
+            "a": "5"
+          },
+          {
+            "q": "From week 1 to week 4, the plant grew ___ cm in all.",
+            "a": "12"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Before it had flowers, the tomato plant was a",
+            "options": [
+              "seedling",
+              "fruit"
+            ],
+            "after": ".",
+            "a": "seedling"
+          },
+          {
+            "before": "Inside each red tomato there are",
+            "options": [
+              "seeds",
+              "roots"
+            ],
+            "after": ".",
+            "a": "seeds"
+          },
+          {
+            "before": "The plant was tallest in week",
+            "options": [
+              "4",
+              "1"
+            ],
+            "after": ".",
+            "a": "4"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the order of the life cycle.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "1st",
+            "right": "seed"
+          },
+          {
+            "left": "2nd",
+            "right": "seedling"
+          },
+          {
+            "left": "3rd",
+            "right": "young plant with leaves"
+          },
+          {
+            "left": "4th",
+            "right": "plant with flowers"
+          },
+          {
+            "left": "5th",
+            "right": "plant with fruits"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Mira's plant grew the same amount every week.",
+            "a": false
+          },
+          {
+            "q": "Seeds from Mira's tomatoes can grow into new plants.",
+            "a": true
+          },
+          {
+            "q": "The life cycle of a plant starts again with a seed.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why does a plant's life cycle go round and round?",
+        "marks": 2,
+        "lines": 2,
+        "a": "Because fruits have seeds, and each seed can grow into a new plant."
+      }
+    ]
+  },
+  {
+    "id": "plant-life-09",
+    "topic": "plant-life",
+    "number": 9,
+    "level": "Practice",
+    "title": "Why We Need Trees at Al Ain Oasis",
+    "intro": "Hamad and Sofia visit the date palm oasis in Al Ain. Trees and plants help all living things.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match what trees give us to an example.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "food",
+            "right": "dates, mangoes and apples"
+          },
+          {
+            "left": "wood",
+            "right": "doors, tables and boats"
+          },
+          {
+            "left": "shade",
+            "right": "a cool place to rest"
+          },
+          {
+            "left": "fresh air",
+            "right": "plants give out oxygen"
+          },
+          {
+            "left": "homes",
+            "right": "nests for birds and squirrels"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Plants give out ___, the gas we breathe in.",
+            "a": "oxygen"
+          },
+          {
+            "q": "Birds build ___ in the branches.",
+            "a": "nests"
+          },
+          {
+            "q": "The roots of trees hold the ___ in place.",
+            "a": "soil"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "We should",
+            "options": [
+              "plant",
+              "cut"
+            ],
+            "after": "more trees.",
+            "a": "plant"
+          },
+          {
+            "before": "Under a big tree it feels",
+            "options": [
+              "cooler",
+              "hotter"
+            ],
+            "after": "on a sunny day.",
+            "a": "cooler"
+          },
+          {
+            "before": "Cows, goats and camels eat",
+            "options": [
+              "plants",
+              "stones"
+            ],
+            "after": ".",
+            "a": "plants"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "People and animals could live without any plants.",
+            "a": false
+          },
+          {
+            "q": "Cotton for our clothes comes from plants.",
+            "a": true
+          },
+          {
+            "q": "Cutting down forests is good for animals.",
+            "a": false
+          },
+          {
+            "q": "Date palms grow in the oasis because there is water under the ground.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways trees help us.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. they give fruit, wood, shade, fresh air (oxygen) and homes for birds."
+      }
+    ]
+  },
+  {
+    "id": "plant-life-10",
+    "topic": "plant-life",
+    "number": 10,
+    "level": "Practice",
+    "title": "Bees in the Mango Orchard",
+    "intro": "Siddharth visits a mango orchard in Ratnagiri. Bees buzz from flower to flower, and soon little mangoes grow.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Bees carry yellow ___ from flower to flower.",
+            "a": "pollen"
+          },
+          {
+            "q": "After the bees visit, the flower turns into a ___.",
+            "a": "fruit"
+          },
+          {
+            "q": "Inside a mango there is one big ___.",
+            "a": "seed"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each seed to how it travels.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "drumstick seed",
+            "right": "has wings and flies in the wind"
+          },
+          {
+            "left": "lotus seed",
+            "right": "floats away on water"
+          },
+          {
+            "left": "balsam seed pod",
+            "right": "bursts and throws out its seeds"
+          },
+          {
+            "left": "berry seeds",
+            "right": "are eaten by birds and dropped far away"
+          },
+          {
+            "left": "grass seed",
+            "right": "sticks to our socks"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Butterflies also visit flowers.",
+            "a": true
+          },
+          {
+            "q": "All seeds travel by water.",
+            "a": false
+          },
+          {
+            "q": "Bees help flowers make fruits.",
+            "a": true
+          },
+          {
+            "q": "A mango tree grows from a mango seed.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Seeds that are carried by the wind are",
+            "options": [
+              "light",
+              "heavy"
+            ],
+            "after": ".",
+            "a": "light"
+          },
+          {
+            "before": "Monkeys and birds spread seeds when they eat",
+            "options": [
+              "fruits",
+              "rocks"
+            ],
+            "after": ".",
+            "a": "fruits"
+          },
+          {
+            "before": "A seed that falls right under its parent tree gets less",
+            "options": [
+              "sunlight",
+              "soil"
+            ],
+            "after": ".",
+            "a": "sunlight"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why do seeds need to travel away from the parent plant?",
+        "marks": 2,
+        "lines": 2,
+        "a": "So the new plants get enough space, sunlight and water to grow."
+      }
+    ]
+  },
+  {
+    "id": "plant-life-11",
+    "topic": "plant-life",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Pooja's Three-Pot Experiment",
+    "intro": "Pooja grew beans in three pots. Pot A had water and sunlight. Pot B had sunlight but no water. Pot C had water but sat in a dark cupboard.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct answer.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The healthiest plant grew in Pot",
+            "options": [
+              "A",
+              "B",
+              "C"
+            ],
+            "after": ".",
+            "a": "A"
+          },
+          {
+            "before": "The plant in Pot B",
+            "options": [
+              "dried up",
+              "grew best"
+            ],
+            "after": "because it had no water.",
+            "a": "dried up"
+          },
+          {
+            "before": "The plant in Pot C turned pale because it had no",
+            "options": [
+              "light",
+              "water"
+            ],
+            "after": ".",
+            "a": "light"
+          },
+          {
+            "before": "To be fair, Pooja used the same kind of",
+            "options": [
+              "seeds",
+              "songs"
+            ],
+            "after": "in every pot.",
+            "a": "seeds"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A plant needs both water and light to grow well.",
+            "a": true
+          },
+          {
+            "q": "Pot C's plant may turn green again if moved to the window.",
+            "a": true
+          },
+          {
+            "q": "Pot B shows that plants grow well without water.",
+            "a": false
+          },
+          {
+            "q": "Pooja's plants also needed air.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Pot A had both water and ___.",
+            "a": "sunlight / light"
+          },
+          {
+            "q": "Pot ___ was kept in the dark.",
+            "a": "C"
+          },
+          {
+            "q": "The plant with no water was in Pot ___.",
+            "a": "B"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match what you see to what the plant needs.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "droopy, dry leaves",
+            "right": "needs water"
+          },
+          {
+            "left": "pale, yellow leaves in a dark room",
+            "right": "needs light"
+          },
+          {
+            "left": "roots rotting in soggy soil",
+            "right": "has too much water"
+          },
+          {
+            "left": "leaves full of holes from caterpillars",
+            "right": "needs the insects removed"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Use Pooja's results. What does a plant need to grow well?",
+        "marks": 2,
+        "lines": 2,
+        "a": "Water and sunlight (and air)."
+      }
+    ]
+  },
+  {
+    "id": "plant-life-12",
+    "topic": "plant-life",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Spot the Mistakes in Kiara's Plant Diary",
+    "intro": "Kiara from Mysuru kept a diary about her plants. Some lines are wrong. Help her fix them.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Each line has a mistake. Write it correctly.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "I kept my seed in the cold fridge so it would sprout.",
+            "a": "I kept my seed in a warm place so it would sprout."
+          },
+          {
+            "q": "The shoot came out first and grew down.",
+            "a": "The root came out first and grew down."
+          },
+          {
+            "q": "I watered my plant with soapy water.",
+            "a": "I watered my plant with clean water."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Is Kiara right? Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "\"A seedling has its first leaves.\"",
+            "a": true
+          },
+          {
+            "q": "\"A rose plant is a shrub.\"",
+            "a": true
+          },
+          {
+            "q": "\"A cactus grows best in a pond.\"",
+            "a": false
+          },
+          {
+            "q": "\"Some seeds travel by wind and some by water.\"",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Find the odd one out.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "neem, banyan, peepal, mint",
+            "a": "mint"
+          },
+          {
+            "q": "water lily, lotus, cactus, water hyacinth",
+            "a": "cactus"
+          },
+          {
+            "q": "seed, sprout, seedling, stone",
+            "a": "stone"
+          },
+          {
+            "q": "rice, wheat, maize, rose",
+            "a": "rose"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Kiara's bean plant needs a stick because it is a",
+            "options": [
+              "climber",
+              "tree"
+            ],
+            "after": ".",
+            "a": "climber"
+          },
+          {
+            "before": "Kiara's sunflower bends towards the",
+            "options": [
+              "window",
+              "wall"
+            ],
+            "after": "to get light.",
+            "a": "window"
+          },
+          {
+            "before": "Plants that grow on their own and harm crops are",
+            "options": [
+              "weeds",
+              "seeds"
+            ],
+            "after": ".",
+            "a": "weeds"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one true sentence about how a seed grows.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"A seed needs water, air and warmth to sprout.\""
+      }
+    ]
+  },
+  {
+    "id": "plant-life-13",
+    "topic": "plant-life",
+    "number": 13,
+    "level": "Challenge",
+    "title": "A Trip to the Munnar Tea Hills",
+    "intro": "Neel and Aisha visit Munnar in Kerala. On the hills they see tall trees, tea bushes, climbers and creepers.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the plants.",
+        "marks": 9,
+        "groups": [
+          "Tree",
+          "Climber",
+          "Creeper"
+        ],
+        "words": [
+          "pepper vine",
+          "sweet potato",
+          "pea plant",
+          "jackfruit",
+          "muskmelon",
+          "teak",
+          "peepal",
+          "betel vine",
+          "strawberry"
+        ],
+        "a": {
+          "jackfruit": "Tree",
+          "teak": "Tree",
+          "peepal": "Tree",
+          "pepper vine": "Climber",
+          "pea plant": "Climber",
+          "betel vine": "Climber",
+          "sweet potato": "Creeper",
+          "strawberry": "Creeper",
+          "muskmelon": "Creeper"
+        }
+      },
+      {
+        "type": "match",
+        "title": "Match each Munnar plant to what it is like.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "tea",
+            "right": "a bush with many woody stems"
+          },
+          {
+            "left": "jackfruit",
+            "right": "a tree with fruits growing on its trunk"
+          },
+          {
+            "left": "pepper vine",
+            "right": "climbs up other trees"
+          },
+          {
+            "left": "cardamom",
+            "right": "grows in the shade of tall trees"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A creeper grows along the ground because its stem is weak.",
+            "a": true
+          },
+          {
+            "q": "Trees have soft, green stems.",
+            "a": false
+          },
+          {
+            "q": "Tea grows well on cool, rainy hills.",
+            "a": true
+          },
+          {
+            "q": "Shrubs are taller than most trees.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The tallest plants on the hill are the",
+            "options": [
+              "trees",
+              "creepers"
+            ],
+            "after": ".",
+            "a": "trees"
+          },
+          {
+            "before": "Pepper vines wind around tree",
+            "options": [
+              "trunks",
+              "leaves"
+            ],
+            "after": ".",
+            "a": "trunks"
+          },
+          {
+            "before": "Teak wood is used to make",
+            "options": [
+              "furniture",
+              "soup"
+            ],
+            "after": ".",
+            "a": "furniture"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Is a pea plant a climber or a creeper? Write why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "A climber, because it holds on to a support and grows upwards."
+      }
+    ]
+  },
+  {
+    "id": "plant-life-14",
+    "topic": "plant-life",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Planning a School Kitchen Garden in Noida",
+    "intro": "Class 2 in Noida will grow a kitchen garden. They plan 3 rows of spinach with 6 seeds in each row, and 4 pots of mint with 3 cuttings in each.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read and fill in.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3 rows of 6 seeds means ___ spinach seeds in all.",
+            "a": "18"
+          },
+          {
+            "q": "If 2 seeds do not sprout, ___ seedlings grow.",
+            "a": "16"
+          },
+          {
+            "q": "4 pots with 3 cuttings each means ___ mint cuttings.",
+            "a": "12"
+          },
+          {
+            "q": "They choose a spot that gets ___ for many hours.",
+            "a": "sunlight / sun"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "They water the garden in the",
+            "options": [
+              "evening",
+              "hot afternoon"
+            ],
+            "after": ".",
+            "a": "evening"
+          },
+          {
+            "before": "To grow new mint, they plant",
+            "options": [
+              "stem cuttings",
+              "pebbles"
+            ],
+            "after": ".",
+            "a": "stem cuttings"
+          },
+          {
+            "before": "Earthworms in the soil are",
+            "options": [
+              "good",
+              "bad"
+            ],
+            "after": "for the garden.",
+            "a": "good"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Seeds planted too close together get less space to grow.",
+            "a": true
+          },
+          {
+            "q": "Dry leaves and peels can be made into compost for plants.",
+            "a": true
+          },
+          {
+            "q": "The garden needs no more water once the seeds sprout.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each job to why it helps.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "loosen the soil",
+            "right": "so roots can spread and get air"
+          },
+          {
+            "left": "pull out weeds",
+            "right": "so crops get more water and food"
+          },
+          {
+            "left": "add compost",
+            "right": "to make the soil rich"
+          },
+          {
+            "left": "put up a fence",
+            "right": "to keep goats and dogs out"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which plant would you grow in your class garden? How will you care for it?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"Tomatoes. I will water them, keep them in the sun and pull out weeds.\""
+      }
+    ]
+  },
+  {
+    "id": "plant-life-15",
+    "topic": "plant-life",
+    "number": 15,
+    "level": "Challenge",
+    "title": "The Old Banyan Tree in Sonpur",
+    "intro": "The old banyan tree in Sonpur village is very big. Its hanging roots grow down from its branches. Birds, squirrels and bats live in it. People rest in its cool shade.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read and fill in.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The banyan tree grows in ___ village.",
+            "a": "Sonpur"
+          },
+          {
+            "q": "Its hanging roots grow down from its ___.",
+            "a": "branches"
+          },
+          {
+            "q": "Birds, squirrels and ___ live in it.",
+            "a": "bats"
+          },
+          {
+            "q": "People rest in its cool ___.",
+            "a": "shade"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The banyan tree is a small herb.",
+            "a": false
+          },
+          {
+            "q": "The tree gives homes to animals.",
+            "a": true
+          },
+          {
+            "q": "A banyan tree has a thick, woody trunk.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The big banyan started life as a tiny",
+            "options": [
+              "seed",
+              "stone"
+            ],
+            "after": ".",
+            "a": "seed"
+          },
+          {
+            "before": "The banyan is the national tree of",
+            "options": [
+              "India",
+              "the UAE"
+            ],
+            "after": ".",
+            "a": "India"
+          },
+          {
+            "before": "To stay healthy, the tree needs water, air and",
+            "options": [
+              "sunlight",
+              "paint"
+            ],
+            "after": ".",
+            "a": "sunlight"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words.",
+        "marks": 4,
+        "groups": [
+          "Plants need",
+          "Plants do not need"
+        ],
+        "words": [
+          "shoes",
+          "water",
+          "soap",
+          "toys",
+          "sunlight",
+          "television",
+          "air",
+          "space"
+        ],
+        "a": {
+          "water": "Plants need",
+          "sunlight": "Plants need",
+          "air": "Plants need",
+          "space": "Plants need",
+          "toys": "Plants do not need",
+          "shoes": "Plants do not need",
+          "soap": "Plants do not need",
+          "television": "Plants do not need"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Write two reasons why the people of Sonpur should care for the banyan tree.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. it gives shade, it gives fresh air, animals live in it, it is very old."
+      }
+    ]
   }
 ]

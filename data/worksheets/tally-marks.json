@@ -624,5 +624,1192 @@
         ]
       }
     ]
+  },
+  {
+    "id": "tally-marks-06",
+    "topic": "tally-marks",
+    "number": 6,
+    "level": "Practice",
+    "title": "Vehicles on Our Street",
+    "intro": "Kavya sat at her window in Kochi for one hour. She kept a tally of the vehicles that went past. In tally marks, ||||/ stands for a bundle of 5.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read Kavya's tally chart.",
+        "items": [
+          {
+            "q": "Cars: ||||/ ||||/ ||||/ || = ___",
+            "a": "17"
+          },
+          {
+            "q": "Bikes: ||||/ |||| = ___",
+            "a": "9"
+          },
+          {
+            "q": "Buses: |||| = ___",
+            "a": "4"
+          },
+          {
+            "q": "Autos: ||||/ ||||/ || = ___",
+            "a": "12"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "choice",
+        "title": "Circle the answer.",
+        "items": [
+          {
+            "before": "The most common vehicle was",
+            "options": [
+              "Cars",
+              "Autos",
+              "Bikes"
+            ],
+            "after": "",
+            "a": "Cars"
+          },
+          {
+            "before": "The fewest vehicles were",
+            "options": [
+              "Bikes",
+              "Buses",
+              "Autos"
+            ],
+            "after": "",
+            "a": "Buses"
+          },
+          {
+            "before": "There were more autos than",
+            "options": [
+              "cars",
+              "bikes"
+            ],
+            "after": "",
+            "a": "bikes"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "pairs",
+        "title": "Write the tally for each number.",
+        "items": [
+          {
+            "q": "8",
+            "a": "||||/ |||"
+          },
+          {
+            "q": "11",
+            "a": "||||/ ||||/ |"
+          },
+          {
+            "q": "16",
+            "a": "||||/ ||||/ ||||/ |"
+          },
+          {
+            "q": "19",
+            "a": "||||/ ||||/ ||||/ ||||"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "fill",
+        "title": "Solve using the chart.",
+        "items": [
+          {
+            "q": "___ more cars than buses went past.",
+            "a": "13"
+          },
+          {
+            "q": "Bikes and autos make ___ vehicles in all.",
+            "a": "21"
+          },
+          {
+            "q": "Kavya counted ___ vehicles altogether.",
+            "a": "42"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "Kavya saw 3 more autos than bikes.",
+            "a": true
+          },
+          {
+            "q": "The tally for buses has one bundle of 5.",
+            "a": false
+          },
+          {
+            "q": "Kavya saw 5 more cars than autos.",
+            "a": true
+          }
+        ],
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "tally-marks-07",
+    "topic": "tally-marks",
+    "number": 7,
+    "level": "Practice",
+    "title": "Favourite Colours in Class 2D",
+    "intro": "Each child in Class 2D said a favourite colour: red, blue, green, blue, yellow, red, blue, green, blue, red, yellow, blue, green, blue, red, pink, blue, green. In tally marks, ||||/ stands for a bundle of 5.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Make a tally and write the number.",
+        "items": [
+          {
+            "q": "Red",
+            "a": "|||| (4)"
+          },
+          {
+            "q": "Blue",
+            "a": "||||/ || (7)"
+          },
+          {
+            "q": "Green",
+            "a": "|||| (4)"
+          },
+          {
+            "q": "Yellow",
+            "a": "|| (2)"
+          },
+          {
+            "q": "Pink",
+            "a": "| (1)"
+          }
+        ],
+        "marks": 5
+      },
+      {
+        "type": "fill",
+        "title": "Use your tally to answer.",
+        "items": [
+          {
+            "q": "___ children said a colour.",
+            "a": "18"
+          },
+          {
+            "q": "___ more children chose blue than red.",
+            "a": "3"
+          },
+          {
+            "q": "Green and yellow got ___ votes together.",
+            "a": "6"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "choice",
+        "title": "Circle the answer.",
+        "items": [
+          {
+            "before": "The favourite colour is",
+            "options": [
+              "red",
+              "blue",
+              "green"
+            ],
+            "after": "",
+            "a": "blue"
+          },
+          {
+            "before": "The least liked colour is",
+            "options": [
+              "pink",
+              "yellow",
+              "red"
+            ],
+            "after": "",
+            "a": "pink"
+          },
+          {
+            "before": "Red and green got",
+            "options": [
+              "the same",
+              "different"
+            ],
+            "after": "numbers of votes.",
+            "a": "the same"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "Blue got more than 5 votes.",
+            "a": true
+          },
+          {
+            "q": "Yellow got 3 votes.",
+            "a": false
+          },
+          {
+            "q": "Pink got the fewest votes.",
+            "a": true
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "lines",
+        "title": "Which colour would you add to the chart? Why?",
+        "lines": 1,
+        "a": "e.g. Purple, because it is my favourite colour.",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "tally-marks-08",
+    "topic": "tally-marks",
+    "number": 8,
+    "level": "Practice",
+    "title": "Shell Hunt at Fujairah Beach",
+    "intro": "Ruhi and Ethan collect things on the beach at Fujairah and keep a tally. In tally marks, ||||/ stands for a bundle of 5.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the tally to the number.",
+        "items": [
+          {
+            "left": "||||/ ||||/ ||||",
+            "right": "14"
+          },
+          {
+            "left": "||||/ ||||/ ||||/ ||||/ ||",
+            "right": "22"
+          },
+          {
+            "left": "||||/ |",
+            "right": "6"
+          },
+          {
+            "left": "||||/ ||||/ ||||/ |||",
+            "right": "18"
+          },
+          {
+            "left": "||||/ ||||",
+            "right": "9"
+          }
+        ],
+        "marks": 5
+      },
+      {
+        "type": "fill",
+        "title": "Solve using the tally.",
+        "items": [
+          {
+            "q": "Spiral shells: ||||/ ||||/ ||||. Flat shells: ||||/ ||||/ ||||/ ||||/ ||. There are ___ more flat shells.",
+            "a": "8"
+          },
+          {
+            "q": "Crab shells: ||||/ |. Pebbles: ||||/ ||||/ ||||/ |||. Together they make ___.",
+            "a": "24"
+          },
+          {
+            "q": "If Ruhi finds 3 more crab shells, she will have ___ crab shells.",
+            "a": "9"
+          },
+          {
+            "q": "Ruhi and Ethan found ___ things in all.",
+            "a": "60"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "pairs",
+        "title": "Write the tally for each number.",
+        "items": [
+          {
+            "q": "12",
+            "a": "||||/ ||||/ ||"
+          },
+          {
+            "q": "23",
+            "a": "||||/ ||||/ ||||/ ||||/ |||"
+          },
+          {
+            "q": "7",
+            "a": "||||/ ||"
+          },
+          {
+            "q": "27",
+            "a": "||||/ ||||/ ||||/ ||||/ ||||/ ||"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "A tally of 22 has 4 bundles and 2 lines.",
+            "a": true
+          },
+          {
+            "q": "They found more pebbles than flat shells.",
+            "a": false
+          },
+          {
+            "q": "A tally of 6 needs 6 lines in a row with no bundle.",
+            "a": false
+          }
+        ],
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "tally-marks-09",
+    "topic": "tally-marks",
+    "number": 9,
+    "level": "Practice",
+    "title": "Pets in Our Building",
+    "intro": "Zayan asked every family in his building in Ajman about their pets. He kept a tally. In tally marks, ||||/ stands for a bundle of 5.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "How many of each pet?",
+        "items": [
+          {
+            "q": "Cats: ||||/ ||| = ___",
+            "a": "8"
+          },
+          {
+            "q": "Dogs: ||||/ ||||/ | = ___",
+            "a": "11"
+          },
+          {
+            "q": "Fish: ||||/ ||||/ ||||/ = ___",
+            "a": "15"
+          },
+          {
+            "q": "Birds: ||||/ = ___",
+            "a": "5"
+          },
+          {
+            "q": "Rabbits: ||| = ___",
+            "a": "3"
+          }
+        ],
+        "marks": 5
+      },
+      {
+        "type": "sort",
+        "title": "Sort the pets.",
+        "groups": [
+          "More than 7",
+          "Fewer than 7"
+        ],
+        "words": [
+          "Cats",
+          "Dogs",
+          "Fish",
+          "Birds",
+          "Rabbits"
+        ],
+        "a": {
+          "Cats": "More than 7",
+          "Dogs": "More than 7",
+          "Fish": "More than 7",
+          "Birds": "Fewer than 7",
+          "Rabbits": "Fewer than 7"
+        },
+        "marks": 5
+      },
+      {
+        "type": "choice",
+        "title": "Circle the answer.",
+        "items": [
+          {
+            "before": "The most popular pet is",
+            "options": [
+              "Dogs",
+              "Fish",
+              "Cats"
+            ],
+            "after": "",
+            "a": "Fish"
+          },
+          {
+            "before": "The least popular pet is",
+            "options": [
+              "Birds",
+              "Rabbits",
+              "Cats"
+            ],
+            "after": "",
+            "a": "Rabbits"
+          },
+          {
+            "before": "There are 4 more fish than",
+            "options": [
+              "dogs",
+              "cats",
+              "birds"
+            ],
+            "after": "",
+            "a": "dogs"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "fill",
+        "title": "Solve using the chart.",
+        "items": [
+          {
+            "q": "There are ___ cats and dogs in all.",
+            "a": "19"
+          },
+          {
+            "q": "There are ___ fewer rabbits than fish.",
+            "a": "12"
+          },
+          {
+            "q": "Zayan counted ___ pets altogether.",
+            "a": "42"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "lines",
+        "title": "Write one more question about Zayan's pet chart.",
+        "lines": 1,
+        "a": "e.g. How many more dogs than birds? (6)",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "tally-marks-10",
+    "topic": "tally-marks",
+    "number": 10,
+    "level": "Practice",
+    "title": "The Class Weather Chart",
+    "intro": "Every day in November, Class 2 in Ras Al Khaimah marked the weather with a tally. November has 30 days. In tally marks, ||||/ stands for a bundle of 5.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the number for each tally.",
+        "items": [
+          {
+            "q": "Sunny: ||||/ ||||/ ||||/ |",
+            "a": "16"
+          },
+          {
+            "q": "Cloudy: ||||/ ||",
+            "a": "7"
+          },
+          {
+            "q": "Windy: ||||/",
+            "a": "5"
+          },
+          {
+            "q": "Rainy: ||",
+            "a": "2"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "choice",
+        "title": "Circle the answer.",
+        "items": [
+          {
+            "before": "Most days were",
+            "options": [
+              "sunny",
+              "cloudy",
+              "rainy"
+            ],
+            "after": "",
+            "a": "sunny"
+          },
+          {
+            "before": "The fewest days were",
+            "options": [
+              "windy",
+              "rainy",
+              "cloudy"
+            ],
+            "after": "",
+            "a": "rainy"
+          },
+          {
+            "before": "There were more cloudy days than",
+            "options": [
+              "sunny",
+              "windy"
+            ],
+            "after": "",
+            "a": "windy"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "fill",
+        "title": "Solve using the chart.",
+        "items": [
+          {
+            "q": "There were ___ more sunny days than cloudy days.",
+            "a": "9"
+          },
+          {
+            "q": "It was windy or rainy on ___ days.",
+            "a": "7"
+          },
+          {
+            "q": "It was not sunny on ___ days.",
+            "a": "14"
+          },
+          {
+            "q": "The class made ___ tally marks in all.",
+            "a": "30"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "The sunny tally has 3 bundles of 5 and 1 line.",
+            "a": true
+          },
+          {
+            "q": "There were 5 windy days.",
+            "a": true
+          },
+          {
+            "q": "There were more rainy days than windy days.",
+            "a": false
+          },
+          {
+            "q": "The tally marks add up to 30.",
+            "a": true
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "lines",
+        "title": "Why do you think November in the UAE has few rainy days?",
+        "lines": 1,
+        "a": "e.g. Because the UAE is hot and dry and it does not rain much.",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "tally-marks-11",
+    "topic": "tally-marks",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Runs at the Cricket Match",
+    "intro": "The school cricket team kept a tally of the runs each batter made in the final. In tally marks, ||||/ stands for a bundle of 5.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "How many runs did each batter make?",
+        "items": [
+          {
+            "q": "Riya: ||||/ ||||/ ||||/ ||||/ ||||/ ||||/ |||| = ___",
+            "a": "34"
+          },
+          {
+            "q": "Aman: ||||/ ||||/ ||||/ ||||/ ||||/ || = ___",
+            "a": "27"
+          },
+          {
+            "q": "Leo: ||||/ ||||/ ||||/ ||||/ ||||/ ||||/ ||||/ ||||/ | = ___",
+            "a": "41"
+          },
+          {
+            "q": "Hiba: ||||/ ||||/ ||||/ |||| = ___",
+            "a": "19"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "pairs",
+        "title": "Write the tally for each number.",
+        "items": [
+          {
+            "q": "33",
+            "a": "||||/ ||||/ ||||/ ||||/ ||||/ ||||/ |||"
+          },
+          {
+            "q": "38",
+            "a": "||||/ ||||/ ||||/ ||||/ ||||/ ||||/ ||||/ |||"
+          },
+          {
+            "q": "45",
+            "a": "||||/ ||||/ ||||/ ||||/ ||||/ ||||/ ||||/ ||||/ ||||/"
+          },
+          {
+            "q": "29",
+            "a": "||||/ ||||/ ||||/ ||||/ ||||/ ||||"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "fill",
+        "title": "Solve. Some need two steps.",
+        "items": [
+          {
+            "q": "Leo made ___ more runs than Aman.",
+            "a": "14"
+          },
+          {
+            "q": "Riya and Hiba made ___ runs together.",
+            "a": "53"
+          },
+          {
+            "q": "The team made ___ runs in all.",
+            "a": "121"
+          },
+          {
+            "q": "The other team made 130 runs. Our team needed ___ more runs to tie.",
+            "a": "9"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "choice",
+        "title": "Circle the answer.",
+        "items": [
+          {
+            "before": "The top scorer was",
+            "options": [
+              "Riya",
+              "Aman",
+              "Leo",
+              "Hiba"
+            ],
+            "after": "",
+            "a": "Leo"
+          },
+          {
+            "before": "Who made 8 fewer runs than Aman?",
+            "options": [
+              "Riya",
+              "Aman",
+              "Leo",
+              "Hiba"
+            ],
+            "after": "",
+            "a": "Hiba"
+          },
+          {
+            "before": "The lowest scorer was",
+            "options": [
+              "Riya",
+              "Aman",
+              "Leo",
+              "Hiba"
+            ],
+            "after": "",
+            "a": "Hiba"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "Leo's tally has 8 bundles and 1 line.",
+            "a": true
+          },
+          {
+            "q": "Riya made more than 30 runs.",
+            "a": true
+          },
+          {
+            "q": "Hiba made half as many runs as Riya.",
+            "a": false
+          }
+        ],
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "tally-marks-12",
+    "topic": "tally-marks",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Books Borrowed in Library Week",
+    "intro": "In Library Week, children borrowed 63 books. The librarian kept a tally for each kind of book, but the science tally got smudged. In tally marks, ||||/ stands for a bundle of 5.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the tally chart.",
+        "items": [
+          {
+            "q": "Stories: ||||/ ||||/ ||||/ ||||/ ||| = ___",
+            "a": "23"
+          },
+          {
+            "q": "Comics: ||||/ ||||/ ||||/ || = ___",
+            "a": "17"
+          },
+          {
+            "q": "Animals: ||||/ ||||/ || = ___",
+            "a": "12"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "fill",
+        "title": "Find the smudged science tally.",
+        "items": [
+          {
+            "q": "Stories, comics and animal books make ___ books.",
+            "a": "52"
+          },
+          {
+            "q": "63 books in all, so ___ science books were borrowed.",
+            "a": "11"
+          },
+          {
+            "q": "The science tally has ___ bundles of 5.",
+            "a": "2"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "pairs",
+        "title": "Write the tally.",
+        "items": [
+          {
+            "q": "science books",
+            "a": "||||/ ||||/ |"
+          },
+          {
+            "q": "5 more than comics",
+            "a": "||||/ ||||/ ||||/ ||||/ ||"
+          },
+          {
+            "q": "stories and comics",
+            "a": "||||/ ||||/ ||||/ ||||/ ||||/ ||||/ ||||/ ||||/"
+          },
+          {
+            "q": "10 less than stories",
+            "a": "||||/ ||||/ |||"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "More story books than comics were borrowed.",
+            "a": true
+          },
+          {
+            "q": "Science books were the fewest.",
+            "a": true
+          },
+          {
+            "q": "6 more comics than animal books were borrowed.",
+            "a": false
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "lines",
+        "title": "How did you find the number of science books?",
+        "lines": 2,
+        "a": "e.g. I added the other books (52) and took that away from 63.",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "tally-marks-13",
+    "topic": "tally-marks",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Kites on the Rooftop at Sankranti",
+    "intro": "On Makar Sankranti, Vihaan and Grace counted kites in the sky. Some of their tallies have mistakes. In tally marks, ||||/ stands for a bundle of 5.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is the tally right? Circle True or False.",
+        "items": [
+          {
+            "q": "||||/ ||||/ ||| shows 13.",
+            "a": true
+          },
+          {
+            "q": "|||||| shows 6 the right way.",
+            "a": false
+          },
+          {
+            "q": "||||/ ||||/ ||||/ |||| shows 18.",
+            "a": false
+          },
+          {
+            "q": "||||/ |||| shows 9.",
+            "a": true
+          },
+          {
+            "q": "||||/ ||||/ ||||/ ||||/ || shows 24.",
+            "a": false
+          }
+        ],
+        "marks": 5
+      },
+      {
+        "type": "pairs",
+        "title": "Write the correct tally.",
+        "items": [
+          {
+            "q": "red kites: 14",
+            "a": "||||/ ||||/ ||||"
+          },
+          {
+            "q": "blue kites: 21",
+            "a": "||||/ ||||/ ||||/ ||||/ |"
+          },
+          {
+            "q": "green kites: 9",
+            "a": "||||/ ||||"
+          },
+          {
+            "q": "yellow kites: 26",
+            "a": "||||/ ||||/ ||||/ ||||/ ||||/ |"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "fill",
+        "title": "Solve the kite problems.",
+        "items": [
+          {
+            "q": "Vihaan saw 21 blue kites and 14 red kites. He saw ___ more blue kites.",
+            "a": "7"
+          },
+          {
+            "q": "Grace saw 9 green and 26 yellow kites. That is ___ kites.",
+            "a": "35"
+          },
+          {
+            "q": "Then 6 yellow kites were cut. ___ yellow kites were left.",
+            "a": "20"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "rewrite",
+        "title": "Fix the mistake.",
+        "items": [
+          {
+            "q": "Grace wrote ||||/ ||||/ || for 11.",
+            "a": "||||/ ||||/ | is 11. / ||||/ ||||/ || is 12."
+          }
+        ],
+        "marks": 2
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right tally.",
+        "items": [
+          {
+            "before": "17 is",
+            "options": [
+              "||||/ ||||/ ||||/ ||",
+              "||||/ ||||/ ||||/ |",
+              "||||/ ||||/ ||||/ |||"
+            ],
+            "after": "",
+            "a": "||||/ ||||/ ||||/ ||"
+          },
+          {
+            "before": "20 is",
+            "options": [
+              "||||/ ||||/ ||||/ ||||/",
+              "||||/ ||||/ ||||/ ||||",
+              "||||/ ||||/ ||||/ ||||/ ||||/"
+            ],
+            "after": "",
+            "a": "||||/ ||||/ ||||/ ||||/"
+          },
+          {
+            "before": "8 is",
+            "options": [
+              "||||||||",
+              "||||/ |||",
+              "||||/ ||"
+            ],
+            "after": "",
+            "a": "||||/ |||"
+          }
+        ],
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "tally-marks-14",
+    "topic": "tally-marks",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Juice Sales at the School Canteen",
+    "intro": "The canteen in Kolkata sells juice for ₹10 a cup. Amira kept a tally of the cups sold at break. In tally marks, ||||/ stands for a bundle of 5.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "How many cups of each juice?",
+        "items": [
+          {
+            "q": "Mango: ||||/ |||| = ___ cups",
+            "a": "9"
+          },
+          {
+            "q": "Orange: ||||/ ||||/ ||| = ___ cups",
+            "a": "13"
+          },
+          {
+            "q": "Apple: ||||/ | = ___ cups",
+            "a": "6"
+          },
+          {
+            "q": "Lemon: |||| = ___ cups",
+            "a": "4"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "pairs",
+        "title": "How many rupees did each juice make?",
+        "items": [
+          {
+            "q": "Mango",
+            "a": "90"
+          },
+          {
+            "q": "Orange",
+            "a": "130"
+          },
+          {
+            "q": "Apple",
+            "a": "60"
+          },
+          {
+            "q": "Lemon",
+            "a": "40"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "fill",
+        "title": "Solve. Some need two steps.",
+        "items": [
+          {
+            "q": "The canteen sold ___ cups of juice in all.",
+            "a": "32"
+          },
+          {
+            "q": "All the juice made ₹___.",
+            "a": "320"
+          },
+          {
+            "q": "Orange made ₹___ more than apple.",
+            "a": "70"
+          },
+          {
+            "q": "Mango and lemon cups together made ₹___.",
+            "a": "130"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "Orange was the best seller.",
+            "a": true
+          },
+          {
+            "q": "Lemon made ₹40.",
+            "a": true
+          },
+          {
+            "q": "Apple sold 3 more cups than mango.",
+            "a": false
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "lines",
+        "title": "Which juice should the canteen make more of? Why?",
+        "lines": 1,
+        "a": "e.g. Orange, because it sold the most cups.",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "tally-marks-15",
+    "topic": "tally-marks",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Cycles at the Al Qudra Track",
+    "intro": "Mr Das counted riders at the Al Qudra cycle track in the morning and the evening. In tally marks, ||||/ stands for a bundle of 5.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the morning and evening tallies.",
+        "items": [
+          {
+            "q": "Morning bikes: ||||/ ||||/ ||||/ ||||/ |||| = ___",
+            "a": "24"
+          },
+          {
+            "q": "Morning scooters: ||||/ ||| = ___",
+            "a": "8"
+          },
+          {
+            "q": "Evening bikes: ||||/ ||||/ ||||/ ||||/ ||||/ ||||/ | = ___",
+            "a": "31"
+          },
+          {
+            "q": "Evening scooters: ||||/ ||||/ || = ___",
+            "a": "12"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "column",
+        "title": "Add or subtract.",
+        "items": [
+          {
+            "top": "24",
+            "op": "+",
+            "bottom": "31",
+            "a": "55"
+          },
+          {
+            "top": "8",
+            "op": "+",
+            "bottom": "12",
+            "a": "20"
+          },
+          {
+            "top": "31",
+            "op": "-",
+            "bottom": "24",
+            "a": "7"
+          },
+          {
+            "top": "12",
+            "op": "-",
+            "bottom": "8",
+            "a": "4"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "choice",
+        "title": "Circle the answer.",
+        "items": [
+          {
+            "before": "More riders came in the",
+            "options": [
+              "morning",
+              "evening"
+            ],
+            "after": "",
+            "a": "evening"
+          },
+          {
+            "before": "In the evening, bikes were",
+            "options": [
+              "more",
+              "fewer"
+            ],
+            "after": "than scooters.",
+            "a": "more"
+          },
+          {
+            "before": "The tally for 31 has",
+            "options": [
+              "6 bundles and 1 line",
+              "5 bundles and 6 lines",
+              "3 bundles and 1 line"
+            ],
+            "after": "",
+            "a": "6 bundles and 1 line"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "fill",
+        "title": "Solve. Some need two steps.",
+        "items": [
+          {
+            "q": "Mr Das counted ___ riders in the morning.",
+            "a": "32"
+          },
+          {
+            "q": "He counted ___ riders in the whole day.",
+            "a": "75"
+          },
+          {
+            "q": "In the evening, there were ___ more bikes than scooters.",
+            "a": "19"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "lines",
+        "title": "Why is a tally easier than writing a list of every rider?",
+        "lines": 1,
+        "a": "e.g. Because you just make a line for each rider and count in fives.",
+        "marks": 1
+      }
+    ]
   }
 ]

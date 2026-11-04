@@ -639,5 +639,1215 @@
         "a": "Answers will vary. Each sentence uses a place word such as in, on, near or behind."
       }
     ]
+  },
+  {
+    "id": "prepositions-06",
+    "topic": "prepositions",
+    "number": 6,
+    "level": "Practice",
+    "title": "Lunch Time in the School Canteen",
+    "intro": "Meena and Raju eat lunch in the school canteen. Use place words to say where things are.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in with up, down, along or past.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Raju walked ___ the long row of tables to find a seat.",
+            "a": "along"
+          },
+          {
+            "q": "The canteen is upstairs, so Meena ran ___ the steps.",
+            "a": "up"
+          },
+          {
+            "q": "After lunch we went ___ the stairs to the playground below.",
+            "a": "down"
+          },
+          {
+            "q": "A bus drove ___ the canteen window without stopping.",
+            "a": "past"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right place word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The water cooler stands",
+            "options": [
+              "against",
+              "among"
+            ],
+            "after": "the wall.",
+            "a": "against"
+          },
+          {
+            "before": "We sat",
+            "options": [
+              "at",
+              "into"
+            ],
+            "after": "the long table.",
+            "a": "at"
+          },
+          {
+            "before": "Meena put her tray",
+            "options": [
+              "on",
+              "in"
+            ],
+            "after": "the counter.",
+            "a": "on"
+          },
+          {
+            "before": "The spoons are kept",
+            "options": [
+              "in",
+              "on"
+            ],
+            "after": "a tall jar.",
+            "a": "in"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "'Along' means by the side of something long, like a road.",
+            "a": true
+          },
+          {
+            "q": "In 'The cat ran past the door', the place word is 'ran'.",
+            "a": false
+          },
+          {
+            "q": "'Against' can mean leaning on and touching something.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the two parts of each sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "The juice is kept",
+            "right": "inside the fridge."
+          },
+          {
+            "left": "The menu is pinned",
+            "right": "on the notice board."
+          },
+          {
+            "left": "The bins stand",
+            "right": "by the door."
+          },
+          {
+            "left": "The fan hangs",
+            "right": "from the ceiling."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write where you sit at lunch. Use a place word.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. The sentence uses a place word, e.g. I sit next to Asha."
+      }
+    ]
+  },
+  {
+    "id": "prepositions-07",
+    "topic": "prepositions",
+    "number": 7,
+    "level": "Practice",
+    "title": "Finding the Way at the Mall",
+    "intro": "Pooja and her dad are at a big mall in Dubai. Help them find the shops.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the right place word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The shoe shop faces the toy shop. It is",
+            "options": [
+              "opposite",
+              "inside"
+            ],
+            "after": "the toy shop.",
+            "a": "opposite"
+          },
+          {
+            "before": "The lift is right beside the escalator,",
+            "options": [
+              "next to",
+              "far from"
+            ],
+            "after": "it.",
+            "a": "next to"
+          },
+          {
+            "before": "Pooja walked",
+            "options": [
+              "towards",
+              "away from"
+            ],
+            "after": "the fountain to see it close up.",
+            "a": "towards"
+          },
+          {
+            "before": "The food court is on the top floor, so they went",
+            "options": [
+              "up",
+              "down"
+            ],
+            "after": "the escalator.",
+            "a": "up"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with by, from, to or between.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Dad bought a book ___ the bookshop.",
+            "a": "from"
+          },
+          {
+            "q": "The café is ___ the bank and the fountain.",
+            "a": "between"
+          },
+          {
+            "q": "After lunch they went ___ the cinema.",
+            "a": "to"
+          },
+          {
+            "q": "Pooja waited ___ the door for Dad.",
+            "a": "by"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the place words. Do they show moving or staying still?",
+        "marks": 8,
+        "groups": [
+          "Moving",
+          "Staying still"
+        ],
+        "words": [
+          "under",
+          "towards",
+          "at",
+          "beside",
+          "into",
+          "between",
+          "out of",
+          "up"
+        ],
+        "a": {
+          "towards": "Moving",
+          "into": "Moving",
+          "out of": "Moving",
+          "up": "Moving",
+          "beside": "Staying still",
+          "under": "Staying still",
+          "at": "Staying still",
+          "between": "Staying still"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Write how you get from your front door to your bed. Use two place words.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. I walk through the hall and up the stairs. Check two place words are used."
+      }
+    ]
+  },
+  {
+    "id": "prepositions-08",
+    "topic": "prepositions",
+    "number": 8,
+    "level": "Practice",
+    "title": "Setting Up a Fish Tank",
+    "intro": "Arjun is setting up a fish tank at home. Into and onto show something moving.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle in or into.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Arjun poured the water",
+            "options": [
+              "into",
+              "in"
+            ],
+            "after": "the tank.",
+            "a": "into"
+          },
+          {
+            "before": "The fish are swimming",
+            "options": [
+              "in",
+              "into"
+            ],
+            "after": "the tank now.",
+            "a": "in"
+          },
+          {
+            "before": "He dropped a pebble",
+            "options": [
+              "into",
+              "in"
+            ],
+            "after": "the water.",
+            "a": "into"
+          },
+          {
+            "before": "The snail sleeps",
+            "options": [
+              "in",
+              "into"
+            ],
+            "after": "its shell.",
+            "a": "in"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with on or onto. Use onto when something moves.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The tank sits ___ a low table.",
+            "a": "on"
+          },
+          {
+            "q": "The cat jumped ___ the table to look at the fish.",
+            "a": "onto"
+          },
+          {
+            "q": "A frog hopped ___ the big leaf.",
+            "a": "onto"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the two parts of each sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "The bubbles float",
+            "right": "up to the top."
+          },
+          {
+            "left": "The light shines",
+            "right": "down from the lid."
+          },
+          {
+            "left": "The orange fish hides",
+            "right": "inside the castle."
+          },
+          {
+            "left": "The weed grows",
+            "right": "out of the sand."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We use 'into' when something moves from outside to inside.",
+            "a": true
+          },
+          {
+            "q": "'The fish is into the tank' is correct.",
+            "a": false
+          },
+          {
+            "q": "'Onto' shows moving to the top of something.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write where you would put a fish tank at home.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. The sentence uses a place word, e.g. I would put it on the shelf."
+      }
+    ]
+  },
+  {
+    "id": "prepositions-09",
+    "topic": "prepositions",
+    "number": 9,
+    "level": "Practice",
+    "title": "A Boat Ride on Dubai Creek",
+    "intro": "Zayed and his grandma take an abra, a small wooden boat, across Dubai Creek.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in with across, under, around or towards.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The abra sailed ___ the creek to the other side.",
+            "a": "across"
+          },
+          {
+            "q": "We went ___ a low bridge and ducked our heads.",
+            "a": "under"
+          },
+          {
+            "q": "We sailed ___ a small island, all the way round.",
+            "a": "around"
+          },
+          {
+            "q": "The gulls flew ___ us when we waved bread.",
+            "a": "towards"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right place word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The boatman sat",
+            "options": [
+              "at",
+              "among"
+            ],
+            "after": "the back of the boat.",
+            "a": "at"
+          },
+          {
+            "before": "We pushed our bags",
+            "options": [
+              "beneath",
+              "above"
+            ],
+            "after": "the wooden seat, out of the sun.",
+            "a": "beneath"
+          },
+          {
+            "before": "A crab hid",
+            "options": [
+              "among",
+              "between"
+            ],
+            "after": "the many rocks.",
+            "a": "among"
+          },
+          {
+            "before": "Lights hung",
+            "options": [
+              "along",
+              "into"
+            ],
+            "after": "the edge of the boat.",
+            "a": "along"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Put the words in order to make a sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "under / the boat / the bridge / went",
+            "a": "The boat went under the bridge."
+          },
+          {
+            "q": "sat / Zayed / the window / next to",
+            "a": "Zayed sat next to the window."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In 'The boat is near the shore', the place word is 'near'.",
+            "a": true
+          },
+          {
+            "q": "'Under' and 'beneath' mean almost the same.",
+            "a": true
+          },
+          {
+            "q": "We say 'The fish swims among the water.'",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a boat ride. Use a place word.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. The boat went across the river."
+      }
+    ]
+  },
+  {
+    "id": "prepositions-10",
+    "topic": "prepositions",
+    "number": 10,
+    "level": "Practice",
+    "title": "Hide and Seek at Grandma's House",
+    "intro": "Ravi, Tia and Om play hide and seek at their grandma's house in Kolkata.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the opposite place word.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "up",
+            "a": "down"
+          },
+          {
+            "q": "into",
+            "a": "out of"
+          },
+          {
+            "q": "over",
+            "a": "under"
+          },
+          {
+            "q": "towards",
+            "a": "away from"
+          },
+          {
+            "q": "top",
+            "a": "bottom"
+          },
+          {
+            "q": "onto",
+            "a": "off"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right place word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Ravi hid",
+            "options": [
+              "inside",
+              "on"
+            ],
+            "after": "the laundry basket and closed the lid.",
+            "a": "inside"
+          },
+          {
+            "before": "Tia squeezed",
+            "options": [
+              "between",
+              "across"
+            ],
+            "after": "the sofa and the wall.",
+            "a": "between"
+          },
+          {
+            "before": "The cat watched from",
+            "options": [
+              "on top of",
+              "beneath"
+            ],
+            "after": "the cupboard, high up.",
+            "a": "on top of"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with around, by, against or up.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Om leaned ___ the wall and closed his eyes to count.",
+            "a": "against"
+          },
+          {
+            "q": "We ran ___ the table three times.",
+            "a": "around"
+          },
+          {
+            "q": "Tia climbed ___ the ladder to the loft.",
+            "a": "up"
+          },
+          {
+            "q": "Grandma sat ___ the window and laughed.",
+            "a": "by"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Think carefully. Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "If you are under a table, the table is over you.",
+            "a": true
+          },
+          {
+            "q": "If Ravi is behind the door, the door is in front of Ravi.",
+            "a": true
+          },
+          {
+            "q": "If the cat is above the cupboard, the cupboard is above the cat.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two places you could hide at home. Use place words.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. I could hide behind the curtain. I could hide under the bed."
+      }
+    ]
+  },
+  {
+    "id": "prepositions-11",
+    "topic": "prepositions",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Reading the Theme Park Map",
+    "intro": "At the theme park, the big wheel is next to the gate. The café is between the big wheel and the lake. The train goes around the lake. An ice cream cart stands in front of the café.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the map story. Fill in the place word.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The big wheel is ___ the gate.",
+            "a": "next to"
+          },
+          {
+            "q": "The café is ___ the big wheel and the lake.",
+            "a": "between"
+          },
+          {
+            "q": "The train goes ___ the lake.",
+            "a": "around"
+          },
+          {
+            "q": "The ice cream cart is ___ the café.",
+            "a": "in front of"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Think about the map. Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "The big wheel is near the gate.",
+            "a": true
+          },
+          {
+            "q": "The café is next to the lake.",
+            "a": true
+          },
+          {
+            "q": "The café is behind the ice cream cart.",
+            "a": true
+          },
+          {
+            "q": "The gate is between the café and the lake.",
+            "a": false
+          },
+          {
+            "q": "The ice cream cart is behind the café.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best place word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Tickets are sold",
+            "options": [
+              "at",
+              "into"
+            ],
+            "after": "the gate.",
+            "a": "at"
+          },
+          {
+            "before": "We whooshed",
+            "options": [
+              "down",
+              "onto"
+            ],
+            "after": "the water slide.",
+            "a": "down"
+          },
+          {
+            "before": "Ella threw a coin",
+            "options": [
+              "into",
+              "on"
+            ],
+            "after": "the wishing well.",
+            "a": "into"
+          },
+          {
+            "before": "The roller coaster went",
+            "options": [
+              "up",
+              "along"
+            ],
+            "after": "the steep track, then zoomed down.",
+            "a": "up"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about where things are in your classroom.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. The board is in front of us. The bin is next to the door."
+      }
+    ]
+  },
+  {
+    "id": "prepositions-12",
+    "topic": "prepositions",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Leo's Postcard from Fujairah",
+    "intro": "Leo wrote a postcard on holiday in Fujairah. Some of his place words are wrong.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Leo used the wrong place word. Write each sentence correctly.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "We swam on the sea.",
+            "a": "We swam in the sea."
+          },
+          {
+            "q": "Our hotel is in the beach.",
+            "a": "Our hotel is on the beach. / Our hotel is near the beach."
+          },
+          {
+            "q": "I sat between the five palm trees.",
+            "a": "I sat among the five palm trees."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Is the place word right? Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The boat floated on the water.",
+            "a": true
+          },
+          {
+            "q": "The fish swam under the boat.",
+            "a": true
+          },
+          {
+            "q": "The kite flew under the sky.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best place word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The sun set",
+            "options": [
+              "behind",
+              "under",
+              "into"
+            ],
+            "after": "the hills.",
+            "a": "behind"
+          },
+          {
+            "before": "We drove",
+            "options": [
+              "through",
+              "onto",
+              "between"
+            ],
+            "after": "a long tunnel.",
+            "a": "through"
+          },
+          {
+            "before": "Leo dropped the postcard",
+            "options": [
+              "into",
+              "onto",
+              "among"
+            ],
+            "after": "the post box.",
+            "a": "into"
+          },
+          {
+            "before": "Mum's sunglasses were",
+            "options": [
+              "on",
+              "in",
+              "at"
+            ],
+            "after": "her head.",
+            "a": "on"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one line for a postcard about where you are. Use two place words.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. I am sitting under an umbrella near the pool."
+      }
+    ]
+  },
+  {
+    "id": "prepositions-13",
+    "topic": "prepositions",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Navratri Dance Practice",
+    "intro": "Hetal goes to garba practice for Navratri. Some small words tell us when, too: in May, on Monday, at six o'clock.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle in, on or at.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "Garba practice starts",
+            "options": [
+              "at",
+              "on",
+              "in"
+            ],
+            "after": "six o'clock.",
+            "a": "at"
+          },
+          {
+            "before": "We dance",
+            "options": [
+              "on",
+              "in",
+              "at"
+            ],
+            "after": "Saturday.",
+            "a": "on"
+          },
+          {
+            "before": "Navratri often comes",
+            "options": [
+              "in",
+              "on",
+              "at"
+            ],
+            "after": "October.",
+            "a": "in"
+          },
+          {
+            "before": "The streets are bright",
+            "options": [
+              "at",
+              "in",
+              "on"
+            ],
+            "after": "night.",
+            "a": "at"
+          },
+          {
+            "before": "Hetal wakes up early",
+            "options": [
+              "in",
+              "on",
+              "at"
+            ],
+            "after": "the morning.",
+            "a": "in"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with in, on or at.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The school show is ___ Friday.",
+            "a": "on"
+          },
+          {
+            "q": "Hetal's birthday is ___ June.",
+            "a": "in"
+          },
+          {
+            "q": "Lunch is ___ one o'clock.",
+            "a": "at"
+          },
+          {
+            "q": "It is very hot ___ summer.",
+            "a": "in"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We use 'on' with days, like on Monday.",
+            "a": true
+          },
+          {
+            "q": "We say 'in five o'clock'.",
+            "a": false
+          },
+          {
+            "q": "We use 'in' with months, like in May.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words. Do we use in, on or at?",
+        "marks": 6,
+        "groups": [
+          "in",
+          "on",
+          "at"
+        ],
+        "words": [
+          "Sunday",
+          "half past four",
+          "winter",
+          "my birthday",
+          "April",
+          "noon"
+        ],
+        "a": {
+          "April": "in",
+          "winter": "in",
+          "Sunday": "on",
+          "my birthday": "on",
+          "noon": "at",
+          "half past four": "at"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Write what day and time you go to a class or club. Use on and at.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. I go to swimming on Tuesday at five o'clock."
+      }
+    ]
+  },
+  {
+    "id": "prepositions-14",
+    "topic": "prepositions",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Building a Sandcastle at Kite Beach",
+    "intro": "Ana and her brother build a sandcastle at Kite Beach. Think carefully about each place word.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each place word to its meaning.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "against",
+            "right": "leaning on and touching it"
+          },
+          {
+            "left": "along",
+            "right": "by the side of something long"
+          },
+          {
+            "left": "past",
+            "right": "going by it without stopping"
+          },
+          {
+            "left": "opposite",
+            "right": "facing it, on the other side"
+          },
+          {
+            "left": "beneath",
+            "right": "under it"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the place word that fits.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We poured water ___ the moat with a bucket.",
+            "a": "into"
+          },
+          {
+            "q": "Ana put a shell flag ___ the tallest tower.",
+            "a": "on top of / on"
+          },
+          {
+            "q": "Two crabs walked ___ the castle and kept going.",
+            "a": "past"
+          },
+          {
+            "q": "The waves came ___ our castle, closer and closer.",
+            "a": "towards"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the odd one out.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "under",
+              "beneath",
+              "below",
+              "over"
+            ],
+            "after": "",
+            "a": "over"
+          },
+          {
+            "before": "",
+            "options": [
+              "into",
+              "onto",
+              "through",
+              "beside"
+            ],
+            "after": "",
+            "a": "beside"
+          },
+          {
+            "before": "",
+            "options": [
+              "near",
+              "next to",
+              "beside",
+              "far from"
+            ],
+            "after": "",
+            "a": "far from"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Think carefully. Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "If the flag is on top of the tower, the tower is under the flag.",
+            "a": true
+          },
+          {
+            "q": "If Ana is facing the sea, the sea is behind her.",
+            "a": false
+          },
+          {
+            "q": "If a bucket is between two spades, there is a spade on each side.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write a sentence about the sandcastle with two place words.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Use two place words.",
+            "a": "Answers will vary, e.g. The shells are on the wall around the castle."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prepositions-15",
+    "topic": "prepositions",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Tidying the Class Library Corner",
+    "intro": "Class 2A is tidying the library corner. Small words can tell us where and when.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Does it tell where or when?",
+        "marks": 8,
+        "groups": [
+          "Where",
+          "When"
+        ],
+        "words": [
+          "at noon",
+          "on the shelf",
+          "in July",
+          "on Monday",
+          "at the door",
+          "after lunch",
+          "in the box",
+          "under the rug"
+        ],
+        "a": {
+          "on the shelf": "Where",
+          "at the door": "Where",
+          "in the box": "Where",
+          "under the rug": "Where",
+          "on Monday": "When",
+          "at noon": "When",
+          "in July": "When",
+          "after lunch": "When"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Put the big books",
+            "options": [
+              "on",
+              "in"
+            ],
+            "after": "the bottom shelf.",
+            "a": "on"
+          },
+          {
+            "before": "The bookmarks go",
+            "options": [
+              "into",
+              "on"
+            ],
+            "after": "the small tin.",
+            "a": "into"
+          },
+          {
+            "before": "We tidy the corner",
+            "options": [
+              "on",
+              "at"
+            ],
+            "after": "Fridays.",
+            "a": "on"
+          },
+          {
+            "before": "Story time is",
+            "options": [
+              "at",
+              "in"
+            ],
+            "after": "two o'clock.",
+            "a": "at"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the place word that fits.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The globe sits ___ the bookshelf, at the very top.",
+            "a": "on top of / on"
+          },
+          {
+            "q": "Lost pencils were ___ the cushions, mixed in with them.",
+            "a": "among"
+          },
+          {
+            "q": "The poster faces the door from the far wall. It is ___ the door.",
+            "a": "opposite"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Is it correct? Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The book is between the shelf.",
+            "a": false
+          },
+          {
+            "q": "The rug is under the beanbag.",
+            "a": true
+          },
+          {
+            "q": "We read in the library at ten o'clock.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write where you keep your books and when you read.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. I keep my books on a shelf. I read at bedtime."
+      }
+    ]
   }
 ]

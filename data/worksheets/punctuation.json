@@ -653,5 +653,1214 @@
         "a": "Answers will vary. One sentence ends with a full stop, one with a question mark; both start with capitals."
       }
     ]
+  },
+  {
+    "id": "punctuation-06",
+    "topic": "punctuation",
+    "number": 6,
+    "level": "Practice",
+    "title": "A Busy Day at the Railway Station",
+    "intro": "Arjun and his Nani are catching a train in Mumbai. Help them with their sentences.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Which mark goes at the end?",
+        "marks": 6,
+        "groups": [
+          "Full stop",
+          "Question mark",
+          "Exclamation mark"
+        ],
+        "words": [
+          "Hurry, the train is leaving",
+          "Nani has a heavy suitcase",
+          "Is this seat free",
+          "What a long queue",
+          "Which platform does our train leave from",
+          "The tea seller pours chai into small cups"
+        ],
+        "a": {
+          "Which platform does our train leave from": "Question mark",
+          "Is this seat free": "Question mark",
+          "Hurry, the train is leaving": "Exclamation mark",
+          "What a long queue": "Exclamation mark",
+          "The tea seller pours chai into small cups": "Full stop",
+          "Nani has a heavy suitcase": "Full stop"
+        }
+      },
+      {
+        "type": "rewrite",
+        "title": "Write it correctly with capital letters and an end mark.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "the train to pune is late",
+            "a": "The train to Pune is late."
+          },
+          {
+            "q": "can i carry the small bag",
+            "a": "Can I carry the small bag?"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the missing mark: a comma, a full stop, a question mark or an exclamation mark.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The porter carried bags___ boxes and a trunk.",
+            "a": ","
+          },
+          {
+            "q": "Where is coach B3___",
+            "a": "?"
+          },
+          {
+            "q": "Oh no, we nearly missed it___",
+            "a": "!"
+          },
+          {
+            "q": "The train stops at six stations___",
+            "a": "."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Names of trains, like Rajdhani Express, start with capital letters.",
+            "a": true
+          },
+          {
+            "q": "'are you hungry?' is written correctly.",
+            "a": false
+          },
+          {
+            "q": "A sentence can start with a small letter.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one question you might ask at a station.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. When will the train come? It starts with a capital letter and ends with a question mark."
+      }
+    ]
+  },
+  {
+    "id": "punctuation-07",
+    "topic": "punctuation",
+    "number": 7,
+    "level": "Practice",
+    "title": "Shopping at Global Village",
+    "intro": "Amir visits Global Village in Dubai with his family. It has stalls from many countries.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Write it again. Put in the missing commas.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We saw stalls from Japan Kenya and Egypt.",
+            "a": "We saw stalls from Japan, Kenya and Egypt."
+          },
+          {
+            "q": "Amir bought a drum a scarf and a toy camel.",
+            "a": "Amir bought a drum, a scarf and a toy camel."
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write each word with a capital letter.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "japan",
+            "a": "Japan"
+          },
+          {
+            "q": "kenya",
+            "a": "Kenya"
+          },
+          {
+            "q": "global village",
+            "a": "Global Village"
+          },
+          {
+            "q": "thursday",
+            "a": "Thursday"
+          },
+          {
+            "q": "october",
+            "a": "October"
+          },
+          {
+            "q": "amir",
+            "a": "Amir"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right mark for the end.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "How much is this lamp",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "?"
+          },
+          {
+            "before": "What a bright light show",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "!"
+          },
+          {
+            "before": "The rides open at four o'clock",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "."
+          },
+          {
+            "before": "Can we try the corn",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "?"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Names of countries start with capital letters.",
+            "a": true
+          },
+          {
+            "q": "In a list, we put a comma between the things, but not before 'and'.",
+            "a": true
+          },
+          {
+            "q": "'we saw a dragon boat.' starts the right way.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write three things you would buy at a fair. Use commas.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. I would buy a hat, a toy and a balloon. Check the commas and the full stop."
+      }
+    ]
+  },
+  {
+    "id": "punctuation-08",
+    "topic": "punctuation",
+    "number": 8,
+    "level": "Practice",
+    "title": "Writing to a Pen Pal in Chennai",
+    "intro": "Riddhi is writing a letter to her new pen pal, Lily, who lives in Chennai.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write each name with capital letters.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "mrs khan",
+            "a": "Mrs Khan"
+          },
+          {
+            "q": "chennai",
+            "a": "Chennai"
+          },
+          {
+            "q": "dr sen",
+            "a": "Dr Sen"
+          },
+          {
+            "q": "tuesday",
+            "a": "Tuesday"
+          },
+          {
+            "q": "november",
+            "a": "November"
+          },
+          {
+            "q": "zoya",
+            "a": "Zoya"
+          },
+          {
+            "q": "marina beach",
+            "a": "Marina Beach"
+          },
+          {
+            "q": "tamil nadu",
+            "a": "Tamil Nadu"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the missing mark.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Do you have a pet___",
+            "a": "?"
+          },
+          {
+            "q": "I have two sisters___ a brother and a cat.",
+            "a": ","
+          },
+          {
+            "q": "My school starts at eight o'clock___",
+            "a": "."
+          },
+          {
+            "q": "What a lovely stamp___",
+            "a": "!"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the words written the right way.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "my friend lily",
+              "my friend Lily"
+            ],
+            "after": "",
+            "a": "my friend Lily"
+          },
+          {
+            "before": "",
+            "options": [
+              "in April",
+              "in april"
+            ],
+            "after": "",
+            "a": "in April"
+          },
+          {
+            "before": "",
+            "options": [
+              "Lily and i",
+              "Lily and I"
+            ],
+            "after": "",
+            "a": "Lily and I"
+          },
+          {
+            "before": "",
+            "options": [
+              "from Ajman",
+              "from ajman"
+            ],
+            "after": "",
+            "a": "from Ajman"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "'Dear Lily' has a capital D and a capital L.",
+            "a": true
+          },
+          {
+            "q": "'Dr' and 'Mrs' start with capital letters.",
+            "a": true
+          },
+          {
+            "q": "The word 'I' can be small in the middle of a sentence.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two lines about your family to a pen pal. Use capital letters for names.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. My brother is called Aryan. We live in Sharjah. Check the capitals and end marks."
+      }
+    ]
+  },
+  {
+    "id": "punctuation-09",
+    "topic": "punctuation",
+    "number": 9,
+    "level": "Practice",
+    "title": "Fireworks on National Day",
+    "intro": "Yusra and her family watch the fireworks for UAE National Day. Everyone is excited.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the right mark for the end.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "Look at those colours",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "!"
+          },
+          {
+            "before": "When do the fireworks start",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "?"
+          },
+          {
+            "before": "We sat on a blanket on the grass",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "."
+          },
+          {
+            "before": "Wow, that one is gold",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "!"
+          },
+          {
+            "before": "Did you see the red heart",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "?"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Two sentences are joined. Write them as two sentences.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "we waved flags the crowd sang",
+            "a": "We waved flags. The crowd sang."
+          },
+          {
+            "q": "the sky lit up it was beautiful",
+            "a": "The sky lit up. It was beautiful."
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the word in brackets with a capital letter.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We drove to ___ (abu dhabi) for the show.",
+            "a": "Abu Dhabi"
+          },
+          {
+            "q": "National Day is in ___ (december).",
+            "a": "December"
+          },
+          {
+            "q": "My friend ___ (hessa) brought flags.",
+            "a": "Hessa"
+          },
+          {
+            "q": "On ___ (wednesday) our school had a parade.",
+            "a": "Wednesday"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Does the word need a capital letter?",
+        "marks": 6,
+        "groups": [
+          "Needs a capital",
+          "No capital"
+        ],
+        "words": [
+          "eid",
+          "crowd",
+          "khalid",
+          "sky",
+          "fujairah",
+          "drum"
+        ],
+        "a": {
+          "fujairah": "Needs a capital",
+          "khalid": "Needs a capital",
+          "eid": "Needs a capital",
+          "sky": "No capital",
+          "drum": "No capital",
+          "crowd": "No capital"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a celebration. End it with an exclamation mark.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. What a loud bang! It starts with a capital letter and ends with !"
+      }
+    ]
+  },
+  {
+    "id": "punctuation-10",
+    "topic": "punctuation",
+    "number": 10,
+    "level": "Practice",
+    "title": "A Cooking Class with Chef Lina",
+    "intro": "Sana and her friends join a cooking class. They ask lots of questions.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in a question word: what, where, when or how.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "___ do we need for the salad?",
+            "a": "What"
+          },
+          {
+            "q": "___ is the big bowl?",
+            "a": "Where"
+          },
+          {
+            "q": "___ will the cake be ready?",
+            "a": "When"
+          },
+          {
+            "q": "___ do we cut an onion safely?",
+            "a": "How"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right mark for the end.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Mix the flour and the milk",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "."
+          },
+          {
+            "before": "Ouch, the pan is hot",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "!"
+          },
+          {
+            "before": "Who has the wooden spoon",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "?"
+          },
+          {
+            "before": "We need eggs, sugar and butter",
+            "options": [
+              ".",
+              "?",
+              "!"
+            ],
+            "after": "",
+            "a": "."
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write it correctly with capital letters, commas and an end mark.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "we chopped carrots beans and peas",
+            "a": "We chopped carrots, beans and peas."
+          },
+          {
+            "q": "can sana stir the soup",
+            "a": "Can Sana stir the soup?"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A question often starts with a word like who, what or where.",
+            "a": true
+          },
+          {
+            "q": "'Where is the salt.' has the right end mark.",
+            "a": false
+          },
+          {
+            "q": "A list of three things needs one comma and one 'and'.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write three things you like in a sandwich. Use commas.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. I like cheese, tomato and cucumber. Check the commas and the full stop."
+      }
+    ]
+  },
+  {
+    "id": "punctuation-11",
+    "topic": "punctuation",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Short Forms on the Notice Board",
+    "intro": "The school notice board uses short forms like don't. An apostrophe ( ' ) shows where letters are missing.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the short form.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "do not",
+            "a": "don't"
+          },
+          {
+            "q": "cannot",
+            "a": "can't"
+          },
+          {
+            "q": "it is",
+            "a": "it's"
+          },
+          {
+            "q": "I am",
+            "a": "I'm"
+          },
+          {
+            "q": "is not",
+            "a": "isn't"
+          },
+          {
+            "q": "we are",
+            "a": "we're"
+          },
+          {
+            "q": "did not",
+            "a": "didn't"
+          },
+          {
+            "q": "you are",
+            "a": "you're"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the short form to the long form.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "won't",
+            "right": "will not"
+          },
+          {
+            "left": "they're",
+            "right": "they are"
+          },
+          {
+            "left": "she's",
+            "right": "she is"
+          },
+          {
+            "left": "let's",
+            "right": "let us"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right one.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "Dont",
+              "Don't"
+            ],
+            "after": "run in the corridor.",
+            "a": "Don't"
+          },
+          {
+            "before": "We",
+            "options": [
+              "can't",
+              "cant"
+            ],
+            "after": "eat in the library.",
+            "a": "can't"
+          },
+          {
+            "before": "",
+            "options": [
+              "Its",
+              "It's"
+            ],
+            "after": "time for assembly.",
+            "a": "It's"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "An apostrophe shows where letters are missing in a short form.",
+            "a": true
+          },
+          {
+            "q": "'Didnt' is written correctly.",
+            "a": false
+          },
+          {
+            "q": "The short form of 'have not' is 'haven't'.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one school rule. Use don't or can't.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. Don't shout in class. Check the apostrophe."
+      }
+    ]
+  },
+  {
+    "id": "punctuation-12",
+    "topic": "punctuation",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Show and Tell in Class 2C",
+    "intro": "Everyone brings something special for show and tell. We can use 's to show who owns something.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write it the short way with 's.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "the shell of Mona",
+            "a": "Mona's shell"
+          },
+          {
+            "q": "the medal of Grandpa",
+            "a": "Grandpa's medal"
+          },
+          {
+            "q": "the drum of Hugo",
+            "a": "Hugo's drum"
+          },
+          {
+            "q": "the tail of the dog",
+            "a": "the dog's tail"
+          },
+          {
+            "q": "the photo of Ms Roy",
+            "a": "Ms Roy's photo"
+          },
+          {
+            "q": "the bike of Farah",
+            "a": "Farah's bike"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right one.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "Ivans",
+              "Ivan's"
+            ],
+            "after": "drum is very loud.",
+            "a": "Ivan's"
+          },
+          {
+            "before": "This is my",
+            "options": [
+              "sisters",
+              "sister's"
+            ],
+            "after": "old doll.",
+            "a": "sister's"
+          },
+          {
+            "before": "Two",
+            "options": [
+              "boys",
+              "boy's"
+            ],
+            "after": "brought toy cars.",
+            "a": "boys"
+          },
+          {
+            "before": "The",
+            "options": [
+              "teachers",
+              "teacher's"
+            ],
+            "after": "desk is tidy.",
+            "a": "teacher's"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write it correctly with capital letters, 's and an end mark.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "this is rahuls kite",
+            "a": "This is Rahul's kite."
+          },
+          {
+            "q": "is that zoes puppet",
+            "a": "Is that Zoe's puppet?"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "'Ravi's cap' means the cap belongs to Ravi.",
+            "a": true
+          },
+          {
+            "q": "We write 'three cat's' for more than one cat.",
+            "a": false
+          },
+          {
+            "q": "An apostrophe and s can show that something belongs to someone.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write what you would bring for show and tell. Use 's.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. I would bring my brother's robot. Check the 's."
+      }
+    ]
+  },
+  {
+    "id": "punctuation-13",
+    "topic": "punctuation",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Talking in the Playground",
+    "intro": "At break, children chat and shout in the playground. Speech marks ( \" \" ) go around the words someone says.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Speech marks go around the words someone says.",
+            "a": true
+          },
+          {
+            "q": "Ben said, \"Let's go.\" The words inside the speech marks are what Ben says.",
+            "a": true
+          },
+          {
+            "q": "Speech marks go around the words 'said Ben'.",
+            "a": false
+          },
+          {
+            "q": "The first word inside speech marks starts with a capital letter.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the sentence with the speech marks in the right place.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "\"Can I play?\" asked Mira.",
+              "Can I play? \"asked Mira.\""
+            ],
+            "after": "",
+            "a": "\"Can I play?\" asked Mira."
+          },
+          {
+            "before": "",
+            "options": [
+              "Leo \"said, I am it!\"",
+              "Leo said, \"I am it!\""
+            ],
+            "after": "",
+            "a": "Leo said, \"I am it!\""
+          },
+          {
+            "before": "",
+            "options": [
+              "\"Run fast!\" shouted Asha.",
+              "\"Run fast! shouted Asha.\""
+            ],
+            "after": "",
+            "a": "\"Run fast!\" shouted Asha."
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write it again. Put in the speech marks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Sam said, Look at the kite.",
+            "a": "Sam said, \"Look at the kite.\""
+          },
+          {
+            "q": "Where is the ball? asked Noor.",
+            "a": "\"Where is the ball?\" asked Noor."
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the end mark inside the speech marks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Watch out___\" yelled Dev.",
+            "a": "!"
+          },
+          {
+            "q": "\"Are you tired___\" asked Ms Paul.",
+            "a": "?"
+          },
+          {
+            "q": "Kim said, \"I like the swings___\"",
+            "a": "."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write what you say to a friend at break. Use speech marks.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. I said, \"Let's play catch.\" Check the speech marks."
+      }
+    ]
+  },
+  {
+    "id": "punctuation-14",
+    "topic": "punctuation",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Republic Day Newsletter",
+    "intro": "Class 2 wrote a newsletter about Republic Day. Find and fix the mistakes.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is it written correctly? Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "On 26 January we watched the parade.",
+            "a": true
+          },
+          {
+            "q": "we sang the national anthem.",
+            "a": false
+          },
+          {
+            "q": "Ria's flag was the biggest.",
+            "a": true
+          },
+          {
+            "q": "Did you see the camels.",
+            "a": false
+          },
+          {
+            "q": "We saw tanks, planes and horses.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Find the mistakes. Write each sentence correctly.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "the parade was in new delhi",
+            "a": "The parade was in New Delhi."
+          },
+          {
+            "q": "we saw soldiers bands and dancers",
+            "a": "We saw soldiers, bands and dancers."
+          },
+          {
+            "q": "what a grand show it was",
+            "a": "What a grand show it was!"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct one.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "Don't",
+              "Dont"
+            ],
+            "after": "forget your flag.",
+            "a": "Don't"
+          },
+          {
+            "before": "Schools are shut",
+            "options": [
+              "on Republic Day",
+              "on republic day"
+            ],
+            "after": ".",
+            "a": "on Republic Day"
+          },
+          {
+            "before": "",
+            "options": [
+              "\"Look!\" said Om.",
+              "Look! said \"Om.\""
+            ],
+            "after": "",
+            "a": "\"Look!\" said Om."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a national day. Use a capital letter and the right end mark.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. We put up flags on our balcony. Check the capital and the end mark."
+      }
+    ]
+  },
+  {
+    "id": "punctuation-15",
+    "topic": "punctuation",
+    "number": 15,
+    "level": "Challenge",
+    "title": "A Thank-You Card for Grandpa",
+    "intro": "Pia is writing a thank-you card to her grandpa in Pune. Use every mark you know.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the missing mark: , ? or '.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Dear Grandpa___ thank you for the book.",
+            "a": ","
+          },
+          {
+            "q": "The book has lions___ tigers and bears.",
+            "a": ","
+          },
+          {
+            "q": "When will you visit us___",
+            "a": "?"
+          },
+          {
+            "q": "I can___t wait to see you!",
+            "a": "'"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Does the word need a capital letter?",
+        "marks": 6,
+        "groups": [
+          "Needs a capital",
+          "No capital"
+        ],
+        "words": [
+          "august",
+          "letter",
+          "pia",
+          "book",
+          "pune",
+          "card"
+        ],
+        "a": {
+          "pune": "Needs a capital",
+          "pia": "Needs a capital",
+          "august": "Needs a capital",
+          "book": "No capital",
+          "card": "No capital",
+          "letter": "No capital"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct one.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "Pia's card",
+              "Pias card"
+            ],
+            "after": "",
+            "a": "Pia's card"
+          },
+          {
+            "before": "",
+            "options": [
+              "It's",
+              "Its"
+            ],
+            "after": "a lovely gift.",
+            "a": "It's"
+          },
+          {
+            "before": "",
+            "options": [
+              "Love, Pia",
+              "love, pia"
+            ],
+            "after": "",
+            "a": "Love, Pia"
+          },
+          {
+            "before": "",
+            "options": [
+              "\"Thank you!\" said Pia.",
+              "Thank you! said \"Pia.\""
+            ],
+            "after": "",
+            "a": "\"Thank you!\" said Pia."
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write it correctly with capital letters, commas and an end mark.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "i loved the puzzle the colouring book and the pens",
+            "a": "I loved the puzzle, the colouring book and the pens."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two lines to thank someone. Use a capital letter, a comma and an end mark.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. Dear Aunty, thank you for the dress. I love it! Check the capitals, comma and end marks."
+      }
+    ]
   }
 ]

@@ -624,5 +624,1221 @@
         "a": "Warm things, e.g. sweater, jacket, gloves, cap, woollen socks, boots."
       }
     ]
+  },
+  {
+    "id": "seasons-06",
+    "topic": "seasons",
+    "number": 6,
+    "level": "Practice",
+    "title": "The Weather Chart in Class 2B",
+    "intro": "Every morning in Abu Dhabi, Hiba and Max fill in the class weather chart. They look out of the window first.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each weather word to its meaning.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "sunny",
+            "right": "bright sun and a clear sky"
+          },
+          {
+            "left": "cloudy",
+            "right": "grey clouds cover the sun"
+          },
+          {
+            "left": "windy",
+            "right": "trees sway and leaves blow about"
+          },
+          {
+            "left": "foggy",
+            "right": "the air looks white and it is hard to see"
+          },
+          {
+            "left": "humid",
+            "right": "the air feels damp and sticky"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A windy day is a good day to fly a",
+            "options": [
+              "kite",
+              "boat"
+            ],
+            "after": ".",
+            "a": "kite"
+          },
+          {
+            "before": "A thermometer tells us how",
+            "options": [
+              "hot or cold",
+              "fast or slow"
+            ],
+            "after": "it is.",
+            "a": "hot or cold"
+          },
+          {
+            "before": "On a stormy day, we hear",
+            "options": [
+              "thunder",
+              "birds singing"
+            ],
+            "after": ".",
+            "a": "thunder"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The weather can change from day to day.",
+            "a": true
+          },
+          {
+            "q": "A sandstorm makes the air dusty.",
+            "a": true
+          },
+          {
+            "q": "Snow falls in Dubai every winter.",
+            "a": false
+          },
+          {
+            "q": "The sun gives us heat and light.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Hiba draws a sun on the chart because it is ___.",
+            "a": "sunny"
+          },
+          {
+            "q": "Max sees dark clouds and says it may ___ soon.",
+            "a": "rain"
+          },
+          {
+            "q": "A cool wind that blows in from the sea is a sea ___.",
+            "a": "breeze"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about today's weather.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"Today it is sunny and hot.\""
+      }
+    ]
+  },
+  {
+    "id": "seasons-07",
+    "topic": "seasons",
+    "number": 7,
+    "level": "Practice",
+    "title": "Seasonal Treats on a Delhi Food Street",
+    "intro": "Kabir and his cousin Ellie try snacks on a food street in Delhi. Some foods taste best in a special season.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the foods by the season we enjoy them most.",
+        "marks": 9,
+        "groups": [
+          "Summer",
+          "Rainy",
+          "Winter"
+        ],
+        "words": [
+          "pakoras",
+          "gajar halwa",
+          "roasted corn",
+          "kulfi",
+          "sarson ka saag",
+          "aam panna",
+          "lassi",
+          "ginger tea",
+          "til laddoo"
+        ],
+        "a": {
+          "kulfi": "Summer",
+          "aam panna": "Summer",
+          "lassi": "Summer",
+          "pakoras": "Rainy",
+          "roasted corn": "Rainy",
+          "ginger tea": "Rainy",
+          "gajar halwa": "Winter",
+          "til laddoo": "Winter",
+          "sarson ka saag": "Winter"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Cold drinks like lassi cool us down in summer.",
+            "a": true
+          },
+          {
+            "q": "Hot pakoras are a favourite on rainy days.",
+            "a": true
+          },
+          {
+            "q": "Gajar halwa is made from mangoes.",
+            "a": false
+          },
+          {
+            "q": "Germs grow fast in hot, wet weather, so we eat fresh food.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "In winter, oranges and",
+            "options": [
+              "guavas",
+              "mangoes"
+            ],
+            "after": "fill the fruit carts.",
+            "a": "guavas"
+          },
+          {
+            "before": "In summer, we eat light food and drink",
+            "options": [
+              "buttermilk",
+              "hot cocoa"
+            ],
+            "after": ".",
+            "a": "buttermilk"
+          },
+          {
+            "before": "Hot drinks keep us",
+            "options": [
+              "warm",
+              "wet"
+            ],
+            "after": "on cold days.",
+            "a": "warm"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Aam panna is made from raw ___.",
+            "a": "mangoes / mango"
+          },
+          {
+            "q": "Sarson ka saag is made from mustard ___.",
+            "a": "leaves"
+          },
+          {
+            "q": "Til laddoos are made with sesame seeds and ___.",
+            "a": "jaggery / gur / sugar"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write your favourite food and the season you eat it.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"Corn on rainy days.\" Check the food fits the season."
+      }
+    ]
+  },
+  {
+    "id": "seasons-08",
+    "topic": "seasons",
+    "number": 8,
+    "level": "Practice",
+    "title": "Winter Visitors at Ras Al Khor",
+    "intro": "Ananya and Leo visit the Ras Al Khor bird hide in Dubai. Pink flamingos spend the cool months here.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each animal to what it does.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "flamingos",
+            "right": "come to Dubai for the winter"
+          },
+          {
+            "left": "peacocks",
+            "right": "dance when rain clouds come"
+          },
+          {
+            "left": "dogs",
+            "right": "pant to cool down in summer"
+          },
+          {
+            "left": "buffaloes",
+            "right": "sit in ponds on hot days"
+          },
+          {
+            "left": "earthworms",
+            "right": "come out of the soil after rain"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Some animals grow thicker fur in winter.",
+            "a": true
+          },
+          {
+            "q": "Snails come out more in the rainy season.",
+            "a": true
+          },
+          {
+            "q": "Camels cannot live in hot deserts.",
+            "a": false
+          },
+          {
+            "q": "Flamingos visit Dubai only in the hottest months.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Birds that fly far away for the winter are called",
+            "options": [
+              "migrating",
+              "sleeping"
+            ],
+            "after": "birds.",
+            "a": "migrating"
+          },
+          {
+            "before": "On hot days, a cat looks for a",
+            "options": [
+              "shady",
+              "sunny"
+            ],
+            "after": "spot.",
+            "a": "shady"
+          },
+          {
+            "before": "Many snakes and lizards rest",
+            "options": [
+              "underground",
+              "on roofs"
+            ],
+            "after": "in the cold months.",
+            "a": "underground"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Flamingos are ___ in colour.",
+            "a": "pink"
+          },
+          {
+            "q": "Ras Al Khor is a safe home for many ___.",
+            "a": "birds"
+          },
+          {
+            "q": "On a winter morning, a dog likes to lie in the warm ___.",
+            "a": "sun / sunshine"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "How can you help animals on a very hot day?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Put out a bowl of water and leave a shady place for them."
+      }
+    ]
+  },
+  {
+    "id": "seasons-09",
+    "topic": "seasons",
+    "number": 9,
+    "level": "Practice",
+    "title": "Dr Fatima's Health Tips",
+    "intro": "Dr Fatima visits a school in Bengaluru. She tells Class 2 how to stay healthy in every season.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the tips by season.",
+        "marks": 9,
+        "groups": [
+          "Summer",
+          "Rainy",
+          "Winter"
+        ],
+        "words": [
+          "sleep under a mosquito net",
+          "wear warm clothes",
+          "keep out of dirty puddles",
+          "wear a cap in the sun",
+          "use lip balm",
+          "drink plenty of water",
+          "avoid playing at noon",
+          "keep your feet dry",
+          "cover your ears"
+        ],
+        "a": {
+          "wear a cap in the sun": "Summer",
+          "drink plenty of water": "Summer",
+          "avoid playing at noon": "Summer",
+          "sleep under a mosquito net": "Rainy",
+          "keep out of dirty puddles": "Rainy",
+          "keep your feet dry": "Rainy",
+          "wear warm clothes": "Winter",
+          "cover your ears": "Winter",
+          "use lip balm": "Winter"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Mosquitoes can spread illness.",
+            "a": true
+          },
+          {
+            "q": "Staying too long in the hot sun can make us ill.",
+            "a": true
+          },
+          {
+            "q": "Washing hands helps stop colds from spreading.",
+            "a": true
+          },
+          {
+            "q": "Eating stale food is fine in the rainy season.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Cover your mouth when you",
+            "options": [
+              "sneeze",
+              "smile"
+            ],
+            "after": ".",
+            "a": "sneeze"
+          },
+          {
+            "before": "In the rainy season, drink only",
+            "options": [
+              "boiled or clean",
+              "puddle"
+            ],
+            "after": "water.",
+            "a": "boiled or clean"
+          },
+          {
+            "before": "Our skin gets",
+            "options": [
+              "dry",
+              "wet"
+            ],
+            "after": "in cold winter air.",
+            "a": "dry"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "When we have a cold, we wipe our nose with a clean ___.",
+            "a": "tissue / handkerchief / hanky"
+          },
+          {
+            "q": "Rest in the ___ on a very hot day.",
+            "a": "shade"
+          },
+          {
+            "q": "Do not let water collect in pots, or ___ will breed.",
+            "a": "mosquitoes"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way to stay healthy in summer.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. drink lots of water, wear a cap, stay in the shade at noon."
+      }
+    ]
+  },
+  {
+    "id": "seasons-10",
+    "topic": "seasons",
+    "number": 10,
+    "level": "Practice",
+    "title": "Our Class Festival Calendar",
+    "intro": "Class 2 at a school in Kochi makes a calendar of festivals. Each festival comes in its own season.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each festival to its clue.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "Holi",
+            "right": "colours at the start of spring"
+          },
+          {
+            "left": "Onam",
+            "right": "harvest after the rains in Kerala"
+          },
+          {
+            "left": "Diwali",
+            "right": "lamps in October or November"
+          },
+          {
+            "left": "UAE National Day",
+            "right": "2 December, in the cool season"
+          },
+          {
+            "left": "Baisakhi",
+            "right": "wheat harvest in April"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "At Onam, people make flower carpets called",
+            "options": [
+              "pookalam",
+              "kites"
+            ],
+            "after": ".",
+            "a": "pookalam"
+          },
+          {
+            "before": "Holi is played with",
+            "options": [
+              "colours",
+              "snowballs"
+            ],
+            "after": ".",
+            "a": "colours"
+          },
+          {
+            "before": "Raksha Bandhan comes in the",
+            "options": [
+              "rainy",
+              "winter"
+            ],
+            "after": "season.",
+            "a": "rainy"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Diwali is a festival of lights.",
+            "a": true
+          },
+          {
+            "q": "UAE National Day comes in the hottest month.",
+            "a": false
+          },
+          {
+            "q": "Many harvest festivals happen when crops are ready.",
+            "a": true
+          },
+          {
+            "q": "Onam is celebrated in Kerala.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "On National Day, people in the UAE wave ___.",
+            "a": "flags"
+          },
+          {
+            "q": "The Onam snake boat races are held on the ___.",
+            "a": "river / backwaters / water"
+          },
+          {
+            "q": "Holi comes when ___ is ending.",
+            "a": "winter"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write your favourite festival and the season it comes in.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"Diwali, at the start of winter.\" Check the season is right."
+      }
+    ]
+  },
+  {
+    "id": "seasons-11",
+    "topic": "seasons",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Tulips and Chinar Leaves in Kashmir",
+    "intro": "Zoya's family visits Srinagar twice. In spring they see tulips bloom. In autumn the chinar leaves turn red and gold.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In spring, many ___ bloom.",
+            "a": "flowers"
+          },
+          {
+            "q": "In autumn, many leaves change colour and ___.",
+            "a": "fall / drop"
+          },
+          {
+            "q": "Spring comes after ___.",
+            "a": "winter"
+          },
+          {
+            "q": "Autumn comes after the ___ season.",
+            "a": "rainy / monsoon"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Spring is not too hot and not too cold.",
+            "a": true
+          },
+          {
+            "q": "In autumn, the chinar leaves turn bright blue.",
+            "a": false
+          },
+          {
+            "q": "New leaves and buds grow in spring.",
+            "a": true
+          },
+          {
+            "q": "Many trees lose their leaves in autumn.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The order of seasons is winter, spring,",
+            "options": [
+              "summer",
+              "autumn"
+            ],
+            "after": ".",
+            "a": "summer"
+          },
+          {
+            "before": "Zoya sees the tulips in",
+            "options": [
+              "spring",
+              "autumn"
+            ],
+            "after": ".",
+            "a": "spring"
+          },
+          {
+            "before": "Dry, crunchy leaves on the ground mean it is",
+            "options": [
+              "autumn",
+              "spring"
+            ],
+            "after": ".",
+            "a": "autumn"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each season to its clue.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "spring",
+            "right": "fresh buds and blooming flowers"
+          },
+          {
+            "left": "summer",
+            "right": "long, hot days"
+          },
+          {
+            "left": "rainy season",
+            "right": "dark clouds and puddles"
+          },
+          {
+            "left": "autumn",
+            "right": "falling, golden leaves"
+          },
+          {
+            "left": "winter",
+            "right": "short, cold days"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which do you like more, spring or autumn? Write why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"Spring, because the flowers bloom.\" Check the reason fits the season."
+      }
+    ]
+  },
+  {
+    "id": "seasons-12",
+    "topic": "seasons",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Spot the Mistakes in the Weather Report",
+    "intro": "Kunal from Kolkata read the weather news on the school radio, but he mixed up some facts. Help him fix them.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Each sentence is wrong. Write it correctly.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In summer, days are short and nights are long.",
+            "a": "In summer, days are long and nights are short."
+          },
+          {
+            "q": "We wear raincoats to keep warm in winter.",
+            "a": "We wear sweaters to keep warm in winter."
+          },
+          {
+            "q": "Dark clouds bring snow to Kolkata in July.",
+            "a": "Dark clouds bring rain to Kolkata in July."
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Find the odd one out.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "sweater, shawl, mittens, sunglasses",
+            "a": "sunglasses"
+          },
+          {
+            "q": "umbrella, raincoat, gumboots, scarf",
+            "a": "scarf"
+          },
+          {
+            "q": "kulfi, lassi, ice lolly, hot soup",
+            "a": "hot soup"
+          },
+          {
+            "q": "cotton shirt, shorts, cap, woollen socks",
+            "a": "woollen socks"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Is Kunal right? Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "\"Rain helps crops grow.\"",
+            "a": true
+          },
+          {
+            "q": "\"We sweat more in winter than in summer.\"",
+            "a": false
+          },
+          {
+            "q": "\"A rainbow can appear when sunlight shines through raindrops.\"",
+            "a": true
+          },
+          {
+            "q": "\"It never rains in Kolkata.\"",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Wet clothes dry",
+            "options": [
+              "quickly",
+              "slowly"
+            ],
+            "after": "on a hot, sunny day.",
+            "a": "quickly"
+          },
+          {
+            "before": "We use a room heater in",
+            "options": [
+              "winter",
+              "summer"
+            ],
+            "after": ".",
+            "a": "winter"
+          },
+          {
+            "before": "Thunder comes with",
+            "options": [
+              "storms",
+              "sunshine"
+            ],
+            "after": ".",
+            "a": "storms"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one correct sentence Kunal can read about winter.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"Winter days are short and cold.\""
+      }
+    ]
+  },
+  {
+    "id": "seasons-13",
+    "topic": "seasons",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Comparing Dubai and Shimla",
+    "intro": "Amit lives in Dubai and his cousin Tanya lives in Shimla. On one July day it was 41°C in Dubai and 24°C in Shimla. On one January day it was 24°C in Dubai and 9°C in Shimla.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read and work it out.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "On the July day, Dubai was ___ degrees hotter than Shimla.",
+            "a": "17"
+          },
+          {
+            "q": "On the January day, Dubai was ___ degrees warmer than Shimla.",
+            "a": "15"
+          },
+          {
+            "q": "Shimla was ___ degrees colder in January than in July.",
+            "a": "15"
+          },
+          {
+            "q": "The coldest of the four days was in ___.",
+            "a": "Shimla"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Tanya needs a thick sweater in",
+            "options": [
+              "January",
+              "July"
+            ],
+            "after": ".",
+            "a": "January"
+          },
+          {
+            "before": "On the July day, Amit plays indoors because it is very",
+            "options": [
+              "hot",
+              "cold"
+            ],
+            "after": "outside.",
+            "a": "hot"
+          },
+          {
+            "before": "Dubai in January was as warm as Shimla in",
+            "options": [
+              "July",
+              "January"
+            ],
+            "after": ".",
+            "a": "July"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each temperature to how it feels.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "41°C",
+            "right": "very hot"
+          },
+          {
+            "left": "24°C",
+            "right": "warm and pleasant"
+          },
+          {
+            "left": "9°C",
+            "right": "cold"
+          },
+          {
+            "left": "0°C",
+            "right": "water freezes into ice"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Places high up in the hills are usually cooler.",
+            "a": true
+          },
+          {
+            "q": "Shimla was warmer than Dubai on both days.",
+            "a": false
+          },
+          {
+            "q": "Snow can fall in Shimla in winter.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which city is better for a summer holiday, Dubai or Shimla? Write why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Shimla, because it is cooler in summer."
+      }
+    ]
+  },
+  {
+    "id": "seasons-14",
+    "topic": "seasons",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Planning School Trips for Every Season",
+    "intro": "Ms Kapoor is planning class trips in the UAE and India. Help her choose the best season for each trip.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the best answer.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A picnic in a Dubai park is best in",
+            "options": [
+              "February",
+              "August"
+            ],
+            "after": ".",
+            "a": "February"
+          },
+          {
+            "before": "To see waterfalls full of water, go after the",
+            "options": [
+              "rains",
+              "winter"
+            ],
+            "after": ".",
+            "a": "rains"
+          },
+          {
+            "before": "To play in the snow in Gulmarg, go in",
+            "options": [
+              "winter",
+              "summer"
+            ],
+            "after": ".",
+            "a": "winter"
+          },
+          {
+            "before": "An indoor ski slope trip is fine in",
+            "options": [
+              "any season",
+              "winter only"
+            ],
+            "after": "because it is inside.",
+            "a": "any season"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A beach trip in Dubai at noon in August is a good idea.",
+            "a": false
+          },
+          {
+            "q": "Children should carry umbrellas on a trip to Cherrapunji in July.",
+            "a": true
+          },
+          {
+            "q": "Woollen clothes are needed for a trip to Goa in May.",
+            "a": false
+          },
+          {
+            "q": "Thick fog can make a winter bus trip in Delhi start late.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each trip to what to pack.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Munnar in the rains",
+            "right": "raincoat and gumboots"
+          },
+          {
+            "left": "Gulmarg in January",
+            "right": "jacket, gloves and boots"
+          },
+          {
+            "left": "Dubai beach in April",
+            "right": "sunscreen, cap and water"
+          },
+          {
+            "left": "Jaisalmer desert in May",
+            "right": "light cotton clothes and lots of water"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In the hot months, trips should start early in the ___.",
+            "a": "morning"
+          },
+          {
+            "q": "A bus on wet, rainy roads must go ___.",
+            "a": "slowly / slow"
+          },
+          {
+            "q": "For a winter trip, we pack ___ clothes.",
+            "a": "warm / woollen"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Ms Kapoor wants a sports day in Abu Dhabi. Which month should she pick? Why?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. December, January or February, because it is cool and pleasant."
+      }
+    ]
+  },
+  {
+    "id": "seasons-15",
+    "topic": "seasons",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Rohan's Seasons Scrapbook",
+    "intro": "Read Rohan's scrapbook. In summer I ate jamuns at Nani's house. In the rains I saw a rainbow over the hills. In winter I wore my red sweater to school.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read and fill in.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Rohan ate ___ at Nani's house.",
+            "a": "jamuns"
+          },
+          {
+            "q": "He saw a ___ in the rainy season.",
+            "a": "rainbow"
+          },
+          {
+            "q": "His sweater is ___.",
+            "a": "red"
+          },
+          {
+            "q": "He wore the sweater in ___.",
+            "a": "winter"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Rohan saw the rainbow when the sun came out after the",
+            "options": [
+              "rain",
+              "snow"
+            ],
+            "after": ".",
+            "a": "rain"
+          },
+          {
+            "before": "Rohan wore a sweater because winter is",
+            "options": [
+              "cold",
+              "hot"
+            ],
+            "after": ".",
+            "a": "cold"
+          },
+          {
+            "before": "The season between winter and summer is",
+            "options": [
+              "spring",
+              "autumn"
+            ],
+            "after": ".",
+            "a": "spring"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words by season.",
+        "marks": 9,
+        "groups": [
+          "Summer",
+          "Rainy",
+          "Winter"
+        ],
+        "words": [
+          "drizzle",
+          "frost",
+          "thunder",
+          "heatwave",
+          "hot water bottle",
+          "air cooler",
+          "hot loo winds",
+          "floods",
+          "chilly mornings"
+        ],
+        "a": {
+          "heatwave": "Summer",
+          "air cooler": "Summer",
+          "hot loo winds": "Summer",
+          "drizzle": "Rainy",
+          "thunder": "Rainy",
+          "floods": "Rainy",
+          "frost": "Winter",
+          "chilly mornings": "Winter",
+          "hot water bottle": "Winter"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Rohan's scrapbook tells about three seasons.",
+            "a": true
+          },
+          {
+            "q": "Rohan writes that he saw snow.",
+            "a": false
+          },
+          {
+            "q": "Rohan went to school in winter.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one line for your own seasons scrapbook.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"In winter I drank hot soup.\" Check it fits the season."
+      }
+    ]
   }
 ]

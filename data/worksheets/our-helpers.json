@@ -599,5 +599,1217 @@
         "a": "Answers will vary, e.g. \"I want to be a doctor so I can help sick people.\""
       }
     ]
+  },
+  {
+    "id": "our-helpers-06",
+    "topic": "our-helpers",
+    "number": 6,
+    "level": "Practice",
+    "title": "Morning Deliveries in Our Building",
+    "intro": "Every morning many helpers come to Aryan's building in Al Nahda. He watches from the balcony.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each helper to what they bring.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "milkman",
+            "right": "milk packets"
+          },
+          {
+            "left": "newspaper vendor",
+            "right": "the morning paper"
+          },
+          {
+            "left": "delivery rider",
+            "right": "food and parcels"
+          },
+          {
+            "left": "water supplier",
+            "right": "big water bottles"
+          },
+          {
+            "left": "laundry man",
+            "right": "ironed clothes"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the helper.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The ___ guards the gate and checks visitors.",
+            "a": "watchman / security guard"
+          },
+          {
+            "q": "The ___ rides a bike to bring our food order.",
+            "a": "delivery rider"
+          },
+          {
+            "q": "The ___ fixes the lift when it stops.",
+            "a": "lift technician / technician / mechanic"
+          },
+          {
+            "q": "The ___ brings milk before we wake up.",
+            "a": "milkman"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Delivery riders should wear a helmet.",
+            "a": true
+          },
+          {
+            "q": "We should be rude to helpers who are late.",
+            "a": false
+          },
+          {
+            "q": "The newspaper vendor starts work very early.",
+            "a": true
+          },
+          {
+            "q": "Helpers work hard to make our lives easy.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the polite words.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Aryan takes the parcel and says,",
+            "options": [
+              "\"Thank you!\"",
+              "\"Go away!\""
+            ],
+            "after": "",
+            "a": "\"Thank you!\""
+          },
+          {
+            "before": "When the guard opens the gate, Aryan says,",
+            "options": [
+              "\"Good morning!\"",
+              "\"Hurry up!\""
+            ],
+            "after": "",
+            "a": "\"Good morning!\""
+          },
+          {
+            "before": "To ask for help, Aryan says,",
+            "options": [
+              "\"Please\"",
+              "\"Now!\""
+            ],
+            "after": "",
+            "a": "\"Please\""
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write which helper comes to your home most often.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"The milkman comes every day.\""
+      }
+    ]
+  },
+  {
+    "id": "our-helpers-07",
+    "topic": "our-helpers",
+    "number": 7,
+    "level": "Practice",
+    "title": "At the Hospital with Grandpa",
+    "intro": "Shreya takes Grandpa for a check-up at a hospital in Chandigarh. She meets many helpers.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each tool to the helper who uses it.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "stethoscope",
+            "right": "doctor"
+          },
+          {
+            "left": "medicine bottles",
+            "right": "pharmacist"
+          },
+          {
+            "left": "wheelchair",
+            "right": "hospital attendant"
+          },
+          {
+            "left": "X-ray machine",
+            "right": "X-ray technician"
+          },
+          {
+            "left": "appointment book",
+            "right": "receptionist"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A doctor uses a stethoscope to listen to the heart.",
+            "a": true
+          },
+          {
+            "q": "A nurse takes care of patients.",
+            "a": true
+          },
+          {
+            "q": "We can take any medicine we find at home.",
+            "a": false
+          },
+          {
+            "q": "A thermometer checks if we have a fever.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct helper.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The",
+            "options": [
+              "nurse",
+              "chef"
+            ],
+            "after": "checks Grandpa's temperature.",
+            "a": "nurse"
+          },
+          {
+            "before": "The",
+            "options": [
+              "pharmacist",
+              "pilot"
+            ],
+            "after": "gives the medicines.",
+            "a": "pharmacist"
+          },
+          {
+            "before": "Shreya waits her turn near the",
+            "options": [
+              "receptionist",
+              "gardener"
+            ],
+            "after": ".",
+            "a": "receptionist"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A ___ looks after our teeth.",
+            "a": "dentist"
+          },
+          {
+            "q": "A doctor for animals is called a ___.",
+            "a": "vet"
+          },
+          {
+            "q": "In a hospital we must speak ___.",
+            "a": "softly / quietly"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way we can help doctors and nurses.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"Wait in line quietly and follow their advice.\""
+      }
+    ]
+  },
+  {
+    "id": "our-helpers-08",
+    "topic": "our-helpers",
+    "number": 8,
+    "level": "Practice",
+    "title": "From the Farm to Our Plate",
+    "intro": "Bhavna learns how rice travels from a farm in Punjab to her lunch box in Dubai. Many helpers work on the way.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the helpers in order.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The ___ grows the rice in the field.",
+            "a": "farmer"
+          },
+          {
+            "q": "The ___ drives the rice to the market.",
+            "a": "truck driver"
+          },
+          {
+            "q": "The ___ sells the rice in his shop.",
+            "a": "shopkeeper / grocer"
+          },
+          {
+            "q": "At home, the ___ cooks it for lunch.",
+            "a": "cook / mother / father"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each farm tool to its use.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "plough",
+            "right": "digs up the soil"
+          },
+          {
+            "left": "sickle",
+            "right": "cuts the crop"
+          },
+          {
+            "left": "tractor",
+            "right": "pulls heavy loads"
+          },
+          {
+            "left": "watering pipe",
+            "right": "brings water to the field"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Farmers grow the food we eat.",
+            "a": true
+          },
+          {
+            "q": "A farmer works only inside an office.",
+            "a": false
+          },
+          {
+            "q": "Farmers need rain or water for their crops.",
+            "a": true
+          },
+          {
+            "q": "We should not waste food on our plate.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the helpers into Grows food and Sells food.",
+        "marks": 6,
+        "groups": [
+          "Grows food",
+          "Sells food"
+        ],
+        "words": [
+          "farmer",
+          "fruit grower",
+          "dairy farmer",
+          "grocer",
+          "fruit seller",
+          "supermarket cashier"
+        ],
+        "a": {
+          "farmer": "Grows food",
+          "fruit grower": "Grows food",
+          "dairy farmer": "Grows food",
+          "grocer": "Sells food",
+          "fruit seller": "Sells food",
+          "supermarket cashier": "Sells food"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Write why we should thank the farmer.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"The farmer works hard to grow the food we eat.\""
+      }
+    ]
+  },
+  {
+    "id": "our-helpers-09",
+    "topic": "our-helpers",
+    "number": 9,
+    "level": "Practice",
+    "title": "Flying Home from Dubai Airport",
+    "intro": "Joel and his family fly to Kochi for the holidays. Many helpers keep them safe at the airport.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each airport helper to their job.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "check-in staff",
+            "right": "gives the boarding pass"
+          },
+          {
+            "left": "security officer",
+            "right": "checks our bags"
+          },
+          {
+            "left": "porter",
+            "right": "carries heavy luggage"
+          },
+          {
+            "left": "cabin crew",
+            "right": "serve food on the plane"
+          },
+          {
+            "left": "pilot",
+            "right": "flies the plane"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct helper.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The",
+            "options": [
+              "cabin crew",
+              "porter"
+            ],
+            "after": "show us how to wear the seat belt.",
+            "a": "cabin crew"
+          },
+          {
+            "before": "The",
+            "options": [
+              "immigration officer",
+              "baker"
+            ],
+            "after": "stamps our passports.",
+            "a": "immigration officer"
+          },
+          {
+            "before": "The",
+            "options": [
+              "cleaner",
+              "pilot"
+            ],
+            "after": "keeps the airport toilets clean.",
+            "a": "cleaner"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We should keep our seat belt on when the sign is on.",
+            "a": true
+          },
+          {
+            "q": "A pilot and a co-pilot fly the plane together.",
+            "a": true
+          },
+          {
+            "q": "We can leave our bags anywhere at the airport.",
+            "a": false
+          },
+          {
+            "q": "The cabin crew help us in an emergency.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Joel shows his ___ at the gate to get on the plane.",
+            "a": "boarding pass"
+          },
+          {
+            "q": "The plane lands at the ___ in Kochi.",
+            "a": "airport"
+          },
+          {
+            "q": "Bags go round on a moving belt called a ___.",
+            "a": "conveyor belt / carousel / luggage belt"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one rule to follow on a plane.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"Wear your seat belt.\""
+      }
+    ]
+  },
+  {
+    "id": "our-helpers-10",
+    "topic": "our-helpers",
+    "number": 10,
+    "level": "Practice",
+    "title": "Night Helpers of the City",
+    "intro": "Tanya cannot sleep and looks out of the window in Mumbai. Some helpers work while we sleep.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort into Works at night and Works in the day.",
+        "marks": 8,
+        "groups": [
+          "Works at night",
+          "Works in the day"
+        ],
+        "words": [
+          "night nurse",
+          "police patrol",
+          "night watchman",
+          "baker making morning bread",
+          "school teacher",
+          "postman",
+          "bank clerk",
+          "school bus driver"
+        ],
+        "a": {
+          "night nurse": "Works at night",
+          "police patrol": "Works at night",
+          "night watchman": "Works at night",
+          "baker making morning bread": "Works at night",
+          "school teacher": "Works in the day",
+          "postman": "Works in the day",
+          "bank clerk": "Works in the day",
+          "school bus driver": "Works in the day"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Hospitals stay open all ___ and night.",
+            "a": "day"
+          },
+          {
+            "q": "The ___ sweeps the streets before sunrise.",
+            "a": "street sweeper / sweeper"
+          },
+          {
+            "q": "A police officer ___ the streets at night.",
+            "a": "patrols / guards"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Firefighters are ready to help even at midnight.",
+            "a": true
+          },
+          {
+            "q": "Night helpers sleep in the day to rest.",
+            "a": true
+          },
+          {
+            "q": "No one works after dark.",
+            "a": false
+          },
+          {
+            "q": "We should make noise at night so helpers stay awake.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "In an emergency in India, we can call",
+            "options": [
+              "112",
+              "100000"
+            ],
+            "after": "for help.",
+            "a": "112"
+          },
+          {
+            "before": "Night helpers keep the city",
+            "options": [
+              "safe",
+              "dark"
+            ],
+            "after": ".",
+            "a": "safe"
+          },
+          {
+            "before": "The milkman starts work",
+            "options": [
+              "early",
+              "late"
+            ],
+            "after": "in the morning.",
+            "a": "early"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write why night helpers are important.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"They keep us safe and help sick people while we sleep.\""
+      }
+    ]
+  },
+  {
+    "id": "our-helpers-11",
+    "topic": "our-helpers",
+    "number": 11,
+    "level": "Challenge",
+    "title": "A Busy Saturday at Home in Kochi",
+    "intro": "Things keep going wrong at Rhea's house today. Think about who can help each time.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Read the problem. Circle who to call.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "The tap is spraying water everywhere.",
+            "options": [
+              "plumber",
+              "barber"
+            ],
+            "after": "",
+            "a": "plumber"
+          },
+          {
+            "before": "Rhea's cat will not eat and looks ill.",
+            "options": [
+              "vet",
+              "tailor"
+            ],
+            "after": "",
+            "a": "vet"
+          },
+          {
+            "before": "A button fell off Papa's shirt.",
+            "options": [
+              "tailor",
+              "electrician"
+            ],
+            "after": "",
+            "a": "tailor"
+          },
+          {
+            "before": "The lights went off in one room only.",
+            "options": [
+              "electrician",
+              "dentist"
+            ],
+            "after": "",
+            "a": "electrician"
+          },
+          {
+            "before": "Rhea has a bad toothache.",
+            "options": [
+              "dentist",
+              "cobbler"
+            ],
+            "after": "",
+            "a": "dentist"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Two problems at once. Fill in the two helpers.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "The cupboard door broke and the wall paint is peeling. Call the carpenter and the ___.",
+            "a": "painter"
+          },
+          {
+            "q": "Grandma's sandal strap broke and her hair needs a trim. Call the cobbler and the ___.",
+            "a": "barber / hairdresser"
+          },
+          {
+            "q": "Rhea needs a new uniform and her bicycle tyre is flat. Call the tailor and the ___.",
+            "a": "mechanic / cycle repairer"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A plumber is the best helper for a broken fan.",
+            "a": false
+          },
+          {
+            "q": "A vet treats animals.",
+            "a": true
+          },
+          {
+            "q": "We should call 101 or 112 if there is a fire in India.",
+            "a": true
+          },
+          {
+            "q": "We should try to fix live electric wires ourselves.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the helper to where you would go.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "barber",
+            "right": "salon"
+          },
+          {
+            "left": "mechanic",
+            "right": "garage"
+          },
+          {
+            "left": "pharmacist",
+            "right": "medical shop"
+          },
+          {
+            "left": "postman",
+            "right": "post office"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one problem at home and the helper you would call.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"The sink is blocked. I would call a plumber.\""
+      }
+    ]
+  },
+  {
+    "id": "our-helpers-12",
+    "topic": "our-helpers",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Arjun's Helper Scrapbook",
+    "intro": "Arjun made a scrapbook about helpers, but he mixed up some facts. Help him fix them.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Each sentence has a mistake. Write it correctly.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "A carpenter fixes taps and pipes.",
+            "a": "A plumber fixes taps and pipes."
+          },
+          {
+            "q": "A pilot puts out fires.",
+            "a": "A firefighter puts out fires."
+          },
+          {
+            "q": "A librarian works in a hospital.",
+            "a": "A librarian works in a library."
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the odd one out.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "saw, hammer, chisel, stethoscope",
+            "a": "stethoscope"
+          },
+          {
+            "q": "doctor, nurse, vet, potter",
+            "a": "potter"
+          },
+          {
+            "q": "bus, train, taxi, oven",
+            "a": "oven"
+          },
+          {
+            "q": "scissors, comb, razor, ladle",
+            "a": "ladle"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A potter makes pots from",
+            "options": [
+              "clay",
+              "glass"
+            ],
+            "after": ".",
+            "a": "clay"
+          },
+          {
+            "before": "A weaver makes",
+            "options": [
+              "cloth",
+              "bread"
+            ],
+            "after": "on a loom.",
+            "a": "cloth"
+          },
+          {
+            "before": "A goldsmith makes",
+            "options": [
+              "jewellery",
+              "shoes"
+            ],
+            "after": ".",
+            "a": "jewellery"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "All helpers are equally important.",
+            "a": true
+          },
+          {
+            "q": "A chef cooks food in a restaurant.",
+            "a": true
+          },
+          {
+            "q": "Only men can be pilots.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one more page for Arjun's scrapbook about a helper.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"A gardener waters plants and cuts the grass.\" Any correct fact."
+      }
+    ]
+  },
+  {
+    "id": "our-helpers-13",
+    "topic": "our-helpers",
+    "number": 13,
+    "level": "Challenge",
+    "title": "The Fisherfolk of Goa",
+    "intro": "Sebastian's uncle is a fisherman in Goa. He sails out in his boat before sunrise. He throws a big net into the sea. By noon, he sells the fish at the market.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Read the story. Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Sebastian's uncle is a fisherman.",
+            "a": true
+          },
+          {
+            "q": "He goes to sea in the evening.",
+            "a": false
+          },
+          {
+            "q": "He catches fish with a net.",
+            "a": true
+          },
+          {
+            "q": "He sells the fish at the market.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The fisherman goes out to sea in a ___.",
+            "a": "boat"
+          },
+          {
+            "q": "He leaves before ___.",
+            "a": "sunrise"
+          },
+          {
+            "q": "He sells the fish by ___.",
+            "a": "noon"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A fisherman needs a",
+            "options": [
+              "net",
+              "stethoscope"
+            ],
+            "after": "for his work.",
+            "a": "net"
+          },
+          {
+            "before": "The fish seller is called a",
+            "options": [
+              "fishmonger",
+              "florist"
+            ],
+            "after": ".",
+            "a": "fishmonger"
+          },
+          {
+            "before": "A fisherman wears a",
+            "options": [
+              "life jacket",
+              "raincoat only"
+            ],
+            "after": "to stay safe at sea.",
+            "a": "life jacket"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each helper to what we get from them.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "fisherman",
+            "right": "fish"
+          },
+          {
+            "left": "dairy farmer",
+            "right": "milk"
+          },
+          {
+            "left": "baker",
+            "right": "bread"
+          },
+          {
+            "left": "fruit grower",
+            "right": "mangoes"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write why the fisherman's job can be hard.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"He wakes up very early and the sea can be rough.\""
+      }
+    ]
+  },
+  {
+    "id": "our-helpers-14",
+    "topic": "our-helpers",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Helpers Who Keep Sharjah Clean",
+    "intro": "Yasmin and Owen follow the city helpers who keep the streets, parks and beaches clean.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each helper to their work.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "street sweeper",
+            "right": "sweeps the roads"
+          },
+          {
+            "left": "garbage truck driver",
+            "right": "takes rubbish away"
+          },
+          {
+            "left": "recycling worker",
+            "right": "sorts paper and plastic"
+          },
+          {
+            "left": "park gardener",
+            "right": "trims hedges and grass"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "If no one collected rubbish, the city would smell bad.",
+            "a": true
+          },
+          {
+            "q": "Sorting waste at home makes the recycling worker's job easier.",
+            "a": true
+          },
+          {
+            "q": "Throwing litter is fine because the sweeper will pick it up.",
+            "a": false
+          },
+          {
+            "q": "Clean streets help stop the spread of germs.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle what Yasmin should do.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "She has an empty juice box. She",
+            "options": [
+              "puts it in a bin",
+              "drops it"
+            ],
+            "after": ".",
+            "a": "puts it in a bin"
+          },
+          {
+            "before": "She sees the sweeper working in the sun. She",
+            "options": [
+              "says thank you",
+              "laughs"
+            ],
+            "after": ".",
+            "a": "says thank you"
+          },
+          {
+            "before": "At home, she",
+            "options": [
+              "sorts wet and dry waste",
+              "mixes all waste"
+            ],
+            "after": ".",
+            "a": "sorts wet and dry waste"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Think and fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The garbage truck came 2 times a day for 3 days. It came ___ times.",
+            "a": "6"
+          },
+          {
+            "q": "If the sweepers stopped work for a week, the streets would be very ___.",
+            "a": "dirty"
+          },
+          {
+            "q": "We can help the sweepers by not ___ on the road.",
+            "a": "littering"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways you can help the helpers who keep your city clean.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"Use the bin. Sort my waste.\" One mark each."
+      }
+    ]
+  },
+  {
+    "id": "our-helpers-15",
+    "topic": "our-helpers",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Thank You Helpers Day at School",
+    "intro": "On 1 May, Class 2 in Hubballi holds a Thank You Helpers Day. Varsha and Chen make cards for everyone.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the helpers into Keeps us safe, Keeps us healthy and Builds things.",
+        "marks": 9,
+        "groups": [
+          "Keeps us safe",
+          "Keeps us healthy",
+          "Builds things"
+        ],
+        "words": [
+          "police officer",
+          "lifeguard",
+          "traffic warden",
+          "doctor",
+          "dentist",
+          "nurse",
+          "mason",
+          "carpenter",
+          "welder"
+        ],
+        "a": {
+          "police officer": "Keeps us safe",
+          "lifeguard": "Keeps us safe",
+          "traffic warden": "Keeps us safe",
+          "doctor": "Keeps us healthy",
+          "dentist": "Keeps us healthy",
+          "nurse": "Keeps us healthy",
+          "mason": "Builds things",
+          "carpenter": "Builds things",
+          "welder": "Builds things"
+        }
+      },
+      {
+        "type": "pairs",
+        "title": "Write the place where each helper works.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "teacher",
+            "a": "school"
+          },
+          {
+            "q": "chef",
+            "a": "kitchen / restaurant"
+          },
+          {
+            "q": "pilot",
+            "a": "aeroplane / airport"
+          },
+          {
+            "q": "farmer",
+            "a": "farm / field"
+          },
+          {
+            "q": "firefighter",
+            "a": "fire station"
+          },
+          {
+            "q": "banker",
+            "a": "bank"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We should say thank you to all our helpers.",
+            "a": true
+          },
+          {
+            "q": "Some helpers wear a uniform at work.",
+            "a": true
+          },
+          {
+            "q": "A traffic warden helps us cross the road safely.",
+            "a": true
+          },
+          {
+            "q": "Helpers do not need rest or holidays.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Varsha makes a card for the",
+            "options": [
+              "school bus driver",
+              "school bus"
+            ],
+            "after": ".",
+            "a": "school bus driver"
+          },
+          {
+            "before": "A thank-you card shows that we",
+            "options": [
+              "care",
+              "complain"
+            ],
+            "after": ".",
+            "a": "care"
+          },
+          {
+            "before": "Chen gives a card to the cleaner and says,",
+            "options": [
+              "\"Thank you!\"",
+              "\"Clean more!\""
+            ],
+            "after": "",
+            "a": "\"Thank you!\""
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a thank-you message for a helper you know.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"Thank you, Aunty, for keeping our school clean.\""
+      }
+    ]
   }
 ]

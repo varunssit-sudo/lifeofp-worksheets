@@ -617,7 +617,7 @@
         case 'truefalse': it.forEach((x, j) => add(j, 'exact', x.a ? 'True' : 'False')); break;
         case 'match': it.forEach((x, j) => add(j, 'exact', x.right)); break;
         case 'sort': sec.words.forEach((w, j) => add(j, 'exact', sec.a[w])); break;
-        case 'rewrite': it.forEach((x, j) => add(j, 'self', x.a)); break;
+        case 'rewrite': it.forEach((x, j) => add(j, isOpen(x.a) ? 'open' : 'self', x.a)); break;
         case 'lines': add(0, 'open', sec.a); break;
       }
     });
@@ -710,7 +710,7 @@
         let ok;
         if (x.kind === 'exact') ok = given === x.answer;
         else if (x.kind === 'auto') ok = accepts(x.answer, given);
-        else if (x.kind === 'self') ok = loose(given) === loose(x.answer);
+        else if (x.kind === 'self') ok = !!loose(given) && String(x.answer).split(/\s+\/\s+/).some((o) => loose(o) === loose(given));
         item.classList.remove('is-right', 'is-wrong', 'is-open');
         if (x.kind === 'open') {
           item.classList.add('is-open');

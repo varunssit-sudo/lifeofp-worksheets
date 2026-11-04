@@ -609,5 +609,1209 @@
         "a": "Answers will vary, e.g. \"My favourite festival is Onam because we make a pookalam.\""
       }
     ]
+  },
+  {
+    "id": "festivals-of-india-06",
+    "topic": "festivals-of-india",
+    "number": 6,
+    "level": "Practice",
+    "title": "Onam with Grandparents in Thrissur",
+    "intro": "Anjali visits her grandparents in Thrissur, Kerala, for Onam. The whole family gets ready to welcome King Mahabali.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Onam is a ___ festival of Kerala.",
+            "a": "harvest"
+          },
+          {
+            "q": "The big Onam feast is called the ___.",
+            "a": "sadya"
+          },
+          {
+            "q": "The feast is served on a banana ___.",
+            "a": "leaf"
+          },
+          {
+            "q": "People believe King ___ visits his people at Onam.",
+            "a": "Mahabali"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Onam is celebrated in Kerala.",
+            "a": true
+          },
+          {
+            "q": "Snake boat races are held at Onam time.",
+            "a": true
+          },
+          {
+            "q": "The Onam feast is served on plastic plates.",
+            "a": false
+          },
+          {
+            "q": "Onam comes in August or September.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the Onam word to its meaning.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "vallam kali",
+            "right": "snake boat race"
+          },
+          {
+            "left": "pulikali",
+            "right": "dance with tiger face paint"
+          },
+          {
+            "left": "kasavu saree",
+            "right": "white saree with a gold border"
+          },
+          {
+            "left": "payasam",
+            "right": "sweet pudding made with milk or jaggery"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Anjali makes the pookalam with",
+            "options": [
+              "flowers",
+              "paint"
+            ],
+            "after": ".",
+            "a": "flowers"
+          },
+          {
+            "before": "Grandpa eats the sadya with his",
+            "options": [
+              "hand",
+              "chopsticks"
+            ],
+            "after": ".",
+            "a": "hand"
+          },
+          {
+            "before": "On Onam people say",
+            "options": [
+              "\"Happy Onam\"",
+              "\"Merry Christmas\""
+            ],
+            "after": "to each other.",
+            "a": "\"Happy Onam\""
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one dish you would like to try at an Onam sadya.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. payasam, avial, sambar, banana chips."
+      }
+    ]
+  },
+  {
+    "id": "festivals-of-india-07",
+    "topic": "festivals-of-india",
+    "number": 7,
+    "level": "Practice",
+    "title": "Kite Day on Makar Sankranti",
+    "intro": "In Ahmedabad, Dev and his friends fly kites from the rooftop on 14th January.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Makar Sankranti comes in January.",
+            "a": true
+          },
+          {
+            "q": "People in Gujarat fly kites on Makar Sankranti.",
+            "a": true
+          },
+          {
+            "q": "Sweets made of til (sesame) and jaggery are eaten on this day.",
+            "a": true
+          },
+          {
+            "q": "Lohri is celebrated with a bonfire in Punjab.",
+            "a": true
+          },
+          {
+            "q": "Makar Sankranti is a festival of snow.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Dev's kite string is called",
+            "options": [
+              "manja",
+              "rakhi"
+            ],
+            "after": ".",
+            "a": "manja"
+          },
+          {
+            "before": "Dadi gives everyone",
+            "options": [
+              "til ladoos",
+              "plum cake"
+            ],
+            "after": ".",
+            "a": "til ladoos"
+          },
+          {
+            "before": "We should never fly kites near",
+            "options": [
+              "electric wires",
+              "open fields"
+            ],
+            "after": ".",
+            "a": "electric wires"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Makar Sankranti and Lohri.",
+        "marks": 8,
+        "groups": [
+          "Makar Sankranti",
+          "Lohri"
+        ],
+        "words": [
+          "bhangra around the fire",
+          "Uttarayan in Gujarat",
+          "Punjab",
+          "bonfire",
+          "popcorn thrown in the fire",
+          "rooftop kite parties",
+          "kite flying",
+          "til-gul sweets"
+        ],
+        "a": {
+          "kite flying": "Makar Sankranti",
+          "til-gul sweets": "Makar Sankranti",
+          "Uttarayan in Gujarat": "Makar Sankranti",
+          "rooftop kite parties": "Makar Sankranti",
+          "bonfire": "Lohri",
+          "popcorn thrown in the fire": "Lohri",
+          "bhangra around the fire": "Lohri",
+          "Punjab": "Lohri"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A kite flies high when the ___ blows.",
+            "a": "wind"
+          },
+          {
+            "q": "Til is another name for ___ seeds.",
+            "a": "sesame"
+          },
+          {
+            "q": "Lohri and Makar Sankranti come near the end of ___.",
+            "a": "winter"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way to keep birds safe on kite day.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. do not use glass-coated string, pick up broken string, do not fly kites when birds fly home in the evening."
+      }
+    ]
+  },
+  {
+    "id": "festivals-of-india-08",
+    "topic": "festivals-of-india",
+    "number": 8,
+    "level": "Practice",
+    "title": "Watching the Republic Day Parade",
+    "intro": "On 26th January, Aditi and her family in Dubai watch the Republic Day parade from New Delhi on TV.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "The Republic Day parade is held in New Delhi.",
+            "a": true
+          },
+          {
+            "q": "The President of India unfurls the flag on Republic Day.",
+            "a": true
+          },
+          {
+            "q": "Our national flag has three bands of colour.",
+            "a": true
+          },
+          {
+            "q": "The wheel in the middle of the flag is green.",
+            "a": false
+          },
+          {
+            "q": "Our national anthem is \"Jana Gana Mana\".",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the flag colour to where it is.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "saffron",
+            "right": "top band"
+          },
+          {
+            "left": "white",
+            "right": "middle band"
+          },
+          {
+            "left": "green",
+            "right": "bottom band"
+          },
+          {
+            "left": "navy blue",
+            "right": "Ashoka Chakra"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The Ashoka Chakra has ___ spokes.",
+            "a": "24"
+          },
+          {
+            "q": "On Independence Day the Prime Minister speaks at the Red ___.",
+            "a": "Fort"
+          },
+          {
+            "q": "We stand still when the national ___ is played.",
+            "a": "anthem"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Republic Day is a",
+            "options": [
+              "national",
+              "harvest"
+            ],
+            "after": "festival.",
+            "a": "national"
+          },
+          {
+            "before": "Soldiers",
+            "options": [
+              "march",
+              "sleep"
+            ],
+            "after": "in the parade.",
+            "a": "march"
+          },
+          {
+            "before": "Aditi waves a small paper",
+            "options": [
+              "flag",
+              "kite"
+            ],
+            "after": ".",
+            "a": "flag"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way to show respect for your country's flag.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. stand still for the anthem, never throw a paper flag on the ground."
+      }
+    ]
+  },
+  {
+    "id": "festivals-of-india-09",
+    "topic": "festivals-of-india",
+    "number": 9,
+    "level": "Practice",
+    "title": "Guru Nanak Jayanti at the Gurudwara",
+    "intro": "Simran and her friend Chloe visit a gurudwara in Dubai on Guru Nanak Jayanti.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Guru Nanak was the first Sikh Guru.",
+            "a": true
+          },
+          {
+            "q": "People cover their heads inside a gurudwara.",
+            "a": true
+          },
+          {
+            "q": "Langar is a free meal for everyone.",
+            "a": true
+          },
+          {
+            "q": "Shoes are worn inside the prayer hall.",
+            "a": false
+          },
+          {
+            "q": "Only Sikhs may eat at the langar.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the word to its meaning.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "kirtan",
+            "right": "singing holy songs"
+          },
+          {
+            "left": "Guru Granth Sahib",
+            "right": "the holy book of the Sikhs"
+          },
+          {
+            "left": "kada prasad",
+            "right": "sweet offering made of wheat, ghee and sugar"
+          },
+          {
+            "left": "seva",
+            "right": "helping others"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Chloe ties a",
+            "options": [
+              "scarf",
+              "belt"
+            ],
+            "after": "over her hair.",
+            "a": "scarf"
+          },
+          {
+            "before": "Everyone sits on the",
+            "options": [
+              "floor",
+              "roof"
+            ],
+            "after": "to eat langar.",
+            "a": "floor"
+          },
+          {
+            "before": "Simran does seva by",
+            "options": [
+              "serving food",
+              "wasting food"
+            ],
+            "after": ".",
+            "a": "serving food"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The Golden Temple is in the city of ___.",
+            "a": "Amritsar"
+          },
+          {
+            "q": "Guru Nanak Jayanti comes in October or ___.",
+            "a": "November"
+          },
+          {
+            "q": "At night, people light ___ and candles.",
+            "a": "lamps / diyas"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way you can do seva (help others) at home.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. set the table, help Dadi carry bags, water the plants."
+      }
+    ]
+  },
+  {
+    "id": "festivals-of-india-10",
+    "topic": "festivals-of-india",
+    "number": 10,
+    "level": "Practice",
+    "title": "Ganesh Chaturthi in Our Building",
+    "intro": "Every year the families in Rahul's building in Mumbai bring home an idol of Lord Ganesha.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Lord Ganesha's favourite sweet is the ___.",
+            "a": "modak"
+          },
+          {
+            "q": "Lord Ganesha has the head of an ___.",
+            "a": "elephant"
+          },
+          {
+            "q": "On the last day, the idol is placed in water. This is called ___.",
+            "a": "visarjan / immersion"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Ganesh Chaturthi is celebrated with great joy in Maharashtra.",
+            "a": true
+          },
+          {
+            "q": "Clay idols are better for rivers and seas.",
+            "a": true
+          },
+          {
+            "q": "Lord Ganesha rides on a mouse.",
+            "a": true
+          },
+          {
+            "q": "Painted plaster idols are safe for fish in the sea.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Kind to nature and Harmful to nature.",
+        "marks": 8,
+        "groups": [
+          "Kind to nature",
+          "Harmful to nature"
+        ],
+        "words": [
+          "loud crackers",
+          "waste thrown into the sea",
+          "clay idol",
+          "painted plaster idol",
+          "immersion in a bucket at home",
+          "plastic decorations",
+          "cloth bags",
+          "flower garlands"
+        ],
+        "a": {
+          "clay idol": "Kind to nature",
+          "flower garlands": "Kind to nature",
+          "cloth bags": "Kind to nature",
+          "immersion in a bucket at home": "Kind to nature",
+          "painted plaster idol": "Harmful to nature",
+          "plastic decorations": "Harmful to nature",
+          "loud crackers": "Harmful to nature",
+          "waste thrown into the sea": "Harmful to nature"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "People chant",
+            "options": [
+              "\"Ganpati Bappa Morya!\"",
+              "\"Eid Mubarak!\""
+            ],
+            "after": "in the procession.",
+            "a": "\"Ganpati Bappa Morya!\""
+          },
+          {
+            "before": "Lord Ganesha is the god of",
+            "options": [
+              "wisdom",
+              "rain"
+            ],
+            "after": "and new beginnings.",
+            "a": "wisdom"
+          },
+          {
+            "before": "Big idols are kept in a decorated",
+            "options": [
+              "pandal",
+              "garage"
+            ],
+            "after": "for everyone to see.",
+            "a": "pandal"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way to celebrate a festival without hurting nature.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. use clay idols, use flowers not plastic, do not burst loud crackers."
+      }
+    ]
+  },
+  {
+    "id": "festivals-of-india-11",
+    "topic": "festivals-of-india",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Navratri Nights in Vadodara",
+    "intro": "In October, Ritu's family in Vadodara dances for the nine nights of Navratri. At the same time, her cousin in Kolkata enjoys Durga Puja.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the festival to what happens.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Navratri",
+            "right": "nine nights of garba and dandiya"
+          },
+          {
+            "left": "Dussehra",
+            "right": "a big Ravana effigy is burnt"
+          },
+          {
+            "left": "Durga Puja",
+            "right": "pandals with Goddess Durga"
+          },
+          {
+            "left": "Diwali",
+            "right": "lamps light up every home"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Dussehra and Diwali both show good winning over evil.",
+            "a": true
+          },
+          {
+            "q": "Navratri and Durga Puja come at the same time of year.",
+            "a": true
+          },
+          {
+            "q": "Dussehra comes before Diwali.",
+            "a": true
+          },
+          {
+            "q": "Durga Puja is most famous in West Bengal.",
+            "a": true
+          },
+          {
+            "q": "Ravana is the hero of the Ramayana.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Which festival is it? Circle it.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "We dance with sticks for nine nights. It is",
+            "options": [
+              "Navratri",
+              "Christmas"
+            ],
+            "after": ".",
+            "a": "Navratri"
+          },
+          {
+            "before": "We watch Ravana's effigy burn. It is",
+            "options": [
+              "Dussehra",
+              "Onam"
+            ],
+            "after": ".",
+            "a": "Dussehra"
+          },
+          {
+            "before": "We light lamps to welcome Lord Rama home. It is",
+            "options": [
+              "Diwali",
+              "Lohri"
+            ],
+            "after": ".",
+            "a": "Diwali"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write one way the two festivals are alike.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "How are Dussehra and Holi alike?",
+            "a": "e.g. Both show that good wins over evil."
+          },
+          {
+            "q": "How are Onam and Pongal alike?",
+            "a": "e.g. Both are harvest festivals."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "festivals-of-india-12",
+    "topic": "festivals-of-india",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Mistakes on the Festival Wall",
+    "intro": "Class 2 in Abu Dhabi made a festival wall chart. Ms Roy found some mistakes on it.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is the chart right? Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Christmas is on 25th December.",
+            "a": true
+          },
+          {
+            "q": "Republic Day is on 15th August.",
+            "a": false
+          },
+          {
+            "q": "Holi is the festival of lights.",
+            "a": false
+          },
+          {
+            "q": "Pongal is a harvest festival of Tamil Nadu.",
+            "a": true
+          },
+          {
+            "q": "On Raksha Bandhan, a brother ties a rakhi on his sister's wrist.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the wrong ones correctly.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Republic Day is on 15th August.",
+            "a": "Republic Day is on 26th January."
+          },
+          {
+            "q": "Holi is the festival of lights.",
+            "a": "Holi is the festival of colours."
+          },
+          {
+            "q": "On Raksha Bandhan, a brother ties a rakhi on his sister's wrist.",
+            "a": "On Raksha Bandhan, a sister ties a rakhi on her brother's wrist."
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the month of the festival.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Makar Sankranti",
+            "a": "January"
+          },
+          {
+            "q": "Holi",
+            "a": "March / February"
+          },
+          {
+            "q": "Onam",
+            "a": "August / September"
+          },
+          {
+            "q": "Christmas",
+            "a": "December"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Diwali, Holi and Ganesh Chaturthi are",
+            "options": [
+              "Hindu",
+              "Sikh"
+            ],
+            "after": "festivals.",
+            "a": "Hindu"
+          },
+          {
+            "before": "Easter and Christmas are",
+            "options": [
+              "Christian",
+              "Muslim"
+            ],
+            "after": "festivals.",
+            "a": "Christian"
+          },
+          {
+            "before": "Eid ul-Fitr is a",
+            "options": [
+              "Muslim",
+              "Jain"
+            ],
+            "after": "festival.",
+            "a": "Muslim"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Add one more festival to the chart. Write its name and month.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"Independence Day, August\" or \"Eid, the month changes every year\". Check the month is right."
+      }
+    ]
+  },
+  {
+    "id": "festivals-of-india-13",
+    "topic": "festivals-of-india",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Pongal on Grandpa's Farm",
+    "intro": "Every January, Grandpa's family in Madurai celebrates Pongal. They boil rice, milk and jaggery in a new clay pot. When it bubbles over, everyone shouts \"Pongalo Pongal!\" The next day, they decorate the cows to thank them.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Read the story. Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Pongal comes in",
+            "options": [
+              "January",
+              "July"
+            ],
+            "after": ".",
+            "a": "January"
+          },
+          {
+            "before": "The rice is boiled in a new",
+            "options": [
+              "clay pot",
+              "steel bucket"
+            ],
+            "after": ".",
+            "a": "clay pot"
+          },
+          {
+            "before": "People thank the",
+            "options": [
+              "cows",
+              "cats"
+            ],
+            "after": "the next day.",
+            "a": "cows"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Grandpa's family lives in Madurai.",
+            "a": true
+          },
+          {
+            "q": "They cook the rice with salt and chilli.",
+            "a": false
+          },
+          {
+            "q": "Everyone shouts when the pot bubbles over.",
+            "a": true
+          },
+          {
+            "q": "Pongal thanks nature for a good harvest.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the harvest festival to its state.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Pongal",
+            "right": "Tamil Nadu"
+          },
+          {
+            "left": "Onam",
+            "right": "Kerala"
+          },
+          {
+            "left": "Bihu",
+            "right": "Assam"
+          },
+          {
+            "left": "Baisakhi",
+            "right": "Punjab"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "At harvest time, farmers cut and collect their ___.",
+            "a": "crops"
+          },
+          {
+            "q": "Jaggery is made from ___.",
+            "a": "sugarcane"
+          },
+          {
+            "q": "Pongal is celebrated for ___ days.",
+            "a": "4 / four"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why do farmers celebrate harvest festivals? Write one reason.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. To say thank you to the Sun, rain and cattle for a good crop."
+      }
+    ]
+  },
+  {
+    "id": "festivals-of-india-14",
+    "topic": "festivals-of-india",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Festivals of Every Faith in Our Building",
+    "intro": "Families of many faiths live in Pearl Tower in Sharjah. They share each other's festivals all year.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the festival to its faith.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "Buddha Purnima",
+            "right": "Buddhist"
+          },
+          {
+            "left": "Mahavir Jayanti",
+            "right": "Jain"
+          },
+          {
+            "left": "Navroz",
+            "right": "Parsi"
+          },
+          {
+            "left": "Easter",
+            "right": "Christian"
+          },
+          {
+            "left": "Guru Nanak Jayanti",
+            "right": "Sikh"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: is it a good way to share festivals?",
+        "marks": 8,
+        "groups": [
+          "Good way",
+          "Not a good way"
+        ],
+        "words": [
+          "laugh at other people's prayers",
+          "join in when invited",
+          "make loud noise late at night",
+          "leave rubbish in the hall",
+          "throw colour on someone who says no",
+          "wish our neighbours",
+          "learn about their festival",
+          "share sweets"
+        ],
+        "a": {
+          "wish our neighbours": "Good way",
+          "share sweets": "Good way",
+          "learn about their festival": "Good way",
+          "join in when invited": "Good way",
+          "laugh at other people's prayers": "Not a good way",
+          "make loud noise late at night": "Not a good way",
+          "throw colour on someone who says no": "Not a good way",
+          "leave rubbish in the hall": "Not a good way"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Buddha Purnima marks the birth of Lord Buddha.",
+            "a": true
+          },
+          {
+            "q": "Easter comes in December.",
+            "a": false
+          },
+          {
+            "q": "Mahavir Jayanti is the birthday of Lord Mahavira.",
+            "a": true
+          },
+          {
+            "q": "Parsis celebrate Navroz as their New Year.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "On Navroz, Mr Irani greets us with",
+            "options": [
+              "\"Navroz Mubarak\"",
+              "\"Happy Holi\""
+            ],
+            "after": ".",
+            "a": "\"Navroz Mubarak\""
+          },
+          {
+            "before": "At Easter, Sophie paints",
+            "options": [
+              "eggs",
+              "kites"
+            ],
+            "after": ".",
+            "a": "eggs"
+          },
+          {
+            "before": "On Buddha Purnima, people light",
+            "options": [
+              "lamps",
+              "bonfires"
+            ],
+            "after": "and pray for peace.",
+            "a": "lamps"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why is it good to celebrate festivals together? Write one reason.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. We make friends, learn new things and share joy."
+      }
+    ]
+  },
+  {
+    "id": "festivals-of-india-15",
+    "topic": "festivals-of-india",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Planning a Festival Fair at School",
+    "intro": "Class 2 in Lucknow is planning a festival fair. Each group makes a stall for one festival.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the stall things by festival.",
+        "marks": 9,
+        "groups": [
+          "Janmashtami",
+          "Raksha Bandhan",
+          "Bihu"
+        ],
+        "words": [
+          "gift for a sister",
+          "flute",
+          "peacock feather",
+          "pitha rice cakes",
+          "thali with roli and rice",
+          "dahi handi pot",
+          "rakhi",
+          "dhol drum",
+          "gamosa scarf"
+        ],
+        "a": {
+          "dahi handi pot": "Janmashtami",
+          "flute": "Janmashtami",
+          "peacock feather": "Janmashtami",
+          "rakhi": "Raksha Bandhan",
+          "thali with roli and rice": "Raksha Bandhan",
+          "gift for a sister": "Raksha Bandhan",
+          "dhol drum": "Bihu",
+          "gamosa scarf": "Bihu",
+          "pitha rice cakes": "Bihu"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Janmashtami is the birthday of Lord Krishna.",
+            "a": true
+          },
+          {
+            "q": "In dahi handi, a team makes a human pyramid to break a pot.",
+            "a": true
+          },
+          {
+            "q": "A rakhi is a thread of love and care.",
+            "a": true
+          },
+          {
+            "q": "Bihu is celebrated in Gujarat.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in one sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Write one rule to keep the fair safe and clean.",
+            "a": "e.g. Put all rubbish in the bin."
+          },
+          {
+            "q": "How can the class make the fair kind to nature?",
+            "a": "e.g. Use paper and cloth decorations instead of plastic."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Ravi's group makes",
+            "options": [
+              "paper",
+              "plastic"
+            ],
+            "after": "lanterns that are better for nature.",
+            "a": "paper"
+          },
+          {
+            "before": "Children of all faiths",
+            "options": [
+              "join in",
+              "stay away"
+            ],
+            "after": "at the fair.",
+            "a": "join in"
+          },
+          {
+            "before": "Leftover food is given to",
+            "options": [
+              "people who need it",
+              "the drain"
+            ],
+            "after": ".",
+            "a": "people who need it"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which stall would you like to make? Write one thing you would put on it.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"A Diwali stall with clay diyas.\""
+      }
+    ]
   }
 ]

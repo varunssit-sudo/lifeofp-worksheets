@@ -648,5 +648,1307 @@
         "a": "Any two, e.g. close taps tightly, fix leaks, use a bucket not a pipe, reuse water for plants."
       }
     ]
+  },
+  {
+    "id": "water-and-its-forms-06",
+    "topic": "water-and-its-forms",
+    "number": 6,
+    "level": "Practice",
+    "title": "Making Masala Chai with Nani",
+    "intro": "Isha helps Nani make tea in Kolkata. They boil the water and watch the steam rise from the pot.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "When water boils, it makes",
+            "options": [
+              "bubbles",
+              "sand"
+            ],
+            "after": ".",
+            "a": "bubbles"
+          },
+          {
+            "before": "Drops form under the lid when steam",
+            "options": [
+              "cools",
+              "heats"
+            ],
+            "after": "down.",
+            "a": "cools"
+          },
+          {
+            "before": "Sugar",
+            "options": [
+              "dissolves",
+              "freezes"
+            ],
+            "after": "in hot tea.",
+            "a": "dissolves"
+          },
+          {
+            "before": "We must not touch steam because it can",
+            "options": [
+              "burn",
+              "tickle"
+            ],
+            "after": "us.",
+            "a": "burn"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Steam is water in the form of a gas.",
+            "a": true
+          },
+          {
+            "q": "The drops under the pot lid come from the steam.",
+            "a": true
+          },
+          {
+            "q": "Hot tea left on the table will turn into ice.",
+            "a": false
+          },
+          {
+            "q": "Water in a pot gets less after boiling for a long time.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each kitchen thing to what happens.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Ice cubes in a hot pan",
+            "right": "melt quickly"
+          },
+          {
+            "left": "Water in a kettle on the stove",
+            "right": "boils and makes steam"
+          },
+          {
+            "left": "Steam on a cold lid",
+            "right": "turns into water drops"
+          },
+          {
+            "left": "A wet plate on the rack",
+            "right": "dries as the water evaporates"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Nani heats the water on the ___.",
+            "a": "stove / gas / cooker"
+          },
+          {
+            "q": "The whistle of the pressure ___ goes off.",
+            "a": "cooker"
+          },
+          {
+            "q": "Salt water left in the sun dries up and leaves the ___ behind.",
+            "a": "salt"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why do we see drops of water under the lid of a pot?",
+        "marks": 2,
+        "lines": 2,
+        "a": "The steam touches the cool lid and turns back into water drops (condensation)."
+      }
+    ]
+  },
+  {
+    "id": "water-and-its-forms-07",
+    "topic": "water-and-its-forms",
+    "number": 7,
+    "level": "Practice",
+    "title": "Laundry Day on the Terrace",
+    "intro": "Sunday is laundry day for Rohan and Amelia in Chennai. They hang the wet clothes on the terrace to dry.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Will the clothes dry fast or slowly?",
+        "marks": 4,
+        "groups": [
+          "Dries fast",
+          "Dries slowly"
+        ],
+        "words": [
+          "folded in a heap",
+          "on a sunny day",
+          "in a dark cupboard",
+          "on a rainy day",
+          "on a windy day",
+          "a thick blanket",
+          "spread out wide",
+          "a thin hanky"
+        ],
+        "a": {
+          "on a sunny day": "Dries fast",
+          "on a windy day": "Dries fast",
+          "spread out wide": "Dries fast",
+          "a thin hanky": "Dries fast",
+          "on a rainy day": "Dries slowly",
+          "folded in a heap": "Dries slowly",
+          "in a dark cupboard": "Dries slowly",
+          "a thick blanket": "Dries slowly"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Wet clothes get lighter as they dry.",
+            "a": true
+          },
+          {
+            "q": "Water from wet clothes goes into the air.",
+            "a": true
+          },
+          {
+            "q": "Clothes dry faster inside a closed bag.",
+            "a": false
+          },
+          {
+            "q": "Squeezing out the water helps clothes dry faster.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The water in wet clothes is a",
+            "options": [
+              "liquid",
+              "solid"
+            ],
+            "after": ".",
+            "a": "liquid"
+          },
+          {
+            "before": "The sun gives the",
+            "options": [
+              "heat",
+              "cold"
+            ],
+            "after": "that dries the clothes.",
+            "a": "heat"
+          },
+          {
+            "before": "On a damp, cloudy day, clothes dry",
+            "options": [
+              "slowly",
+              "quickly"
+            ],
+            "after": ".",
+            "a": "slowly"
+          },
+          {
+            "before": "Rohan uses",
+            "options": [
+              "clothes pegs",
+              "glue"
+            ],
+            "after": "so the wind does not blow the clothes away.",
+            "a": "clothes pegs"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "When water turns into vapour, we call it ___.",
+            "a": "evaporation / evaporating"
+          },
+          {
+            "q": "Clothes on a line dry quicker when the ___ blows.",
+            "a": "wind"
+          },
+          {
+            "q": "A wet towel left in a heap stays ___ for a long time.",
+            "a": "wet / damp"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things that help wet clothes dry quickly.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. sunshine, wind, spreading them out, squeezing out the water."
+      }
+    ]
+  },
+  {
+    "id": "water-and-its-forms-08",
+    "topic": "water-and-its-forms",
+    "number": 8,
+    "level": "Practice",
+    "title": "Lemonade at the Birthday Party",
+    "intro": "At Zoya's birthday party in Ajman, the children drink cold lemonade with ice. Water changes in many ways.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write solid, liquid or gas.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "lemonade",
+            "a": "liquid"
+          },
+          {
+            "q": "crushed ice",
+            "a": "solid"
+          },
+          {
+            "q": "steam from hot soup",
+            "a": "gas"
+          },
+          {
+            "q": "frost in the freezer",
+            "a": "solid"
+          },
+          {
+            "q": "orange juice",
+            "a": "liquid"
+          },
+          {
+            "q": "snowman",
+            "a": "solid"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The ice in Zoya's glass",
+            "options": [
+              "melts",
+              "grows"
+            ],
+            "after": "slowly.",
+            "a": "melts"
+          },
+          {
+            "before": "Water drops on the outside of a cold glass come from the",
+            "options": [
+              "air",
+              "glass"
+            ],
+            "after": ".",
+            "a": "air"
+          },
+          {
+            "before": "Ice",
+            "options": [
+              "floats",
+              "sinks"
+            ],
+            "after": "in lemonade.",
+            "a": "floats"
+          },
+          {
+            "before": "When the ice melts, the lemonade gets more",
+            "options": [
+              "watery",
+              "fizzy"
+            ],
+            "after": ".",
+            "a": "watery"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Ice floats because it is lighter than the same amount of water.",
+            "a": true
+          },
+          {
+            "q": "A cold glass gets wet outside because the glass leaks.",
+            "a": false
+          },
+          {
+            "q": "Crushed ice melts faster than one big block of ice.",
+            "a": true
+          },
+          {
+            "q": "Ice cubes melt faster in the fridge than in the sun.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Zoya puts 3 ice cubes in each of 5 glasses. She uses ___ ice cubes.",
+            "a": "15"
+          },
+          {
+            "q": "The tray had 24 ice cubes. 15 were used. ___ are left.",
+            "a": "9"
+          },
+          {
+            "q": "One jug fills 6 glasses. 3 jugs fill ___ glasses.",
+            "a": "18"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "How can you stop the ice from melting fast at a party?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Keep it in an ice box, keep it in the shade, keep it covered."
+      }
+    ]
+  },
+  {
+    "id": "water-and-its-forms-09",
+    "topic": "water-and-its-forms",
+    "number": 9,
+    "level": "Practice",
+    "title": "Painting the Water Cycle Mural",
+    "intro": "Class 2 in Pune paints the water cycle on the school wall. Neel and Aisha paint the sun, the sea and the clouds.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the steps of the water cycle.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Step 1: The sun ___ the water in the sea.",
+            "a": "heats / warms"
+          },
+          {
+            "q": "Step 2: The water ___ and rises as vapour.",
+            "a": "evaporates"
+          },
+          {
+            "q": "Step 3: High up, the vapour cools and makes ___.",
+            "a": "clouds"
+          },
+          {
+            "q": "Step 4: The water falls back down as ___.",
+            "a": "rain"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The water cycle goes on",
+            "options": [
+              "again and again",
+              "only once"
+            ],
+            "after": ".",
+            "a": "again and again"
+          },
+          {
+            "before": "Lakes and seas",
+            "options": [
+              "lose",
+              "gain"
+            ],
+            "after": "some water when the sun shines.",
+            "a": "lose"
+          },
+          {
+            "before": "Rain that soaks into the soil becomes",
+            "options": [
+              "groundwater",
+              "seawater"
+            ],
+            "after": ".",
+            "a": "groundwater"
+          },
+          {
+            "before": "Snow on the mountains melts and fills the",
+            "options": [
+              "rivers",
+              "deserts"
+            ],
+            "after": ".",
+            "a": "rivers"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The same water goes round and round in the water cycle.",
+            "a": true
+          },
+          {
+            "q": "Clouds are made of smoke.",
+            "a": false
+          },
+          {
+            "q": "The sun is needed for the water cycle.",
+            "a": true
+          },
+          {
+            "q": "We can see water vapour in the air.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each word to its meaning.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Vapour",
+            "right": "water as a gas"
+          },
+          {
+            "left": "Cloud",
+            "right": "many tiny water drops in the sky"
+          },
+          {
+            "left": "Rain",
+            "right": "water falling from clouds"
+          },
+          {
+            "left": "Sea",
+            "right": "a huge body of salty water"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write the four steps of the water cycle in order.",
+        "marks": 2,
+        "lines": 2,
+        "a": "The sun heats the water; it evaporates; the vapour cools into clouds; rain falls back down."
+      }
+    ]
+  },
+  {
+    "id": "water-and-its-forms-10",
+    "topic": "water-and-its-forms",
+    "number": 10,
+    "level": "Practice",
+    "title": "Keeping Our Water Clean",
+    "intro": "In Hyderabad, Farah and Daniel learn how to keep drinking water safe. Dirty water can make us sick.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the habits.",
+        "marks": 4,
+        "groups": [
+          "Keeps water clean",
+          "Makes water dirty"
+        ],
+        "words": [
+          "dip dirty hands in the pot",
+          "cover the water pot",
+          "leave the tank open",
+          "throw rubbish in the lake",
+          "boil drinking water",
+          "pour paint down the drain",
+          "use a water filter",
+          "use a clean ladle"
+        ],
+        "a": {
+          "cover the water pot": "Keeps water clean",
+          "boil drinking water": "Keeps water clean",
+          "use a water filter": "Keeps water clean",
+          "use a clean ladle": "Keeps water clean",
+          "throw rubbish in the lake": "Makes water dirty",
+          "dip dirty hands in the pot": "Makes water dirty",
+          "leave the tank open": "Makes water dirty",
+          "pour paint down the drain": "Makes water dirty"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "We use a water",
+            "options": [
+              "filter",
+              "fan"
+            ],
+            "after": "to clean drinking water.",
+            "a": "filter"
+          },
+          {
+            "before": "Muddy water has",
+            "options": [
+              "dirt",
+              "sugar"
+            ],
+            "after": "in it.",
+            "a": "dirt"
+          },
+          {
+            "before": "Germs in dirty water can make us",
+            "options": [
+              "ill",
+              "tall"
+            ],
+            "after": ".",
+            "a": "ill"
+          },
+          {
+            "before": "Cover the water tank with a",
+            "options": [
+              "lid",
+              "net bag"
+            ],
+            "after": ".",
+            "a": "lid"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Clear-looking water can still have germs.",
+            "a": true
+          },
+          {
+            "q": "Factories should dump waste into rivers.",
+            "a": false
+          },
+          {
+            "q": "Mosquitoes lay eggs in still, open water.",
+            "a": true
+          },
+          {
+            "q": "Boiled water should be cooled and kept covered.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Sand and cloth can ___ dirt out of water.",
+            "a": "filter / strain"
+          },
+          {
+            "q": "Water that is safe to drink is called ___ water.",
+            "a": "drinking / safe / clean"
+          },
+          {
+            "q": "Do not throw ___ into rivers and lakes.",
+            "a": "rubbish / garbage / waste"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways to make water safe to drink.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. boil it, filter it, keep it covered, use clean pots."
+      }
+    ]
+  },
+  {
+    "id": "water-and-its-forms-11",
+    "topic": "water-and-its-forms",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Fixing Myra's Water Poster",
+    "intro": "Myra made a poster about water for the school wall. Some of the sentences on it are wrong.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is Myra right? Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Ice is water in its liquid form.",
+            "a": false
+          },
+          {
+            "q": "Steam is water in its gas form.",
+            "a": true
+          },
+          {
+            "q": "Water freezes when it gets very hot.",
+            "a": false
+          },
+          {
+            "q": "Dew forms when water vapour cools on grass.",
+            "a": true
+          },
+          {
+            "q": "Water has a fixed shape of its own.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Fix each sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Ice melts when it gets cold.",
+            "a": "Ice melts when it gets warm."
+          },
+          {
+            "q": "Clouds are made of cotton.",
+            "a": "Clouds are made of tiny drops of water."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the odd one out.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "snow",
+              "hail",
+              "frost",
+              "rain"
+            ],
+            "after": "",
+            "a": "rain"
+          },
+          {
+            "before": "",
+            "options": [
+              "tap water",
+              "rain",
+              "lake water",
+              "icicle"
+            ],
+            "after": "",
+            "a": "icicle"
+          },
+          {
+            "before": "",
+            "options": [
+              "melting",
+              "freezing",
+              "evaporating",
+              "painting"
+            ],
+            "after": "",
+            "a": "painting"
+          },
+          {
+            "before": "",
+            "options": [
+              "river",
+              "lake",
+              "ocean",
+              "desert"
+            ],
+            "after": "",
+            "a": "desert"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The tank holds 50 buckets. The family used 18 on Monday and 14 on Tuesday. ___ buckets are left.",
+            "a": "18"
+          },
+          {
+            "q": "A tap drips 3 cups an hour. In 7 hours it wastes ___ cups.",
+            "a": "21"
+          },
+          {
+            "q": "Six children each save 4 litres a day. Together they save ___ litres a day.",
+            "a": "24"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Myra wrote: \"Water can only be a liquid.\" Write why she is wrong.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Water can also be a solid (ice, snow) and a gas (steam, water vapour)."
+      }
+    ]
+  },
+  {
+    "id": "water-and-its-forms-12",
+    "topic": "water-and-its-forms",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Snow in Gulmarg, Sun in Dubai",
+    "intro": "In January, Adil plays in the snow in Gulmarg. His cousin Lina plays in the warm sun in Dubai.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Water freezes at",
+            "options": [
+              "0",
+              "50"
+            ],
+            "after": "degrees Celsius.",
+            "a": "0"
+          },
+          {
+            "before": "Water boils at",
+            "options": [
+              "100",
+              "10"
+            ],
+            "after": "degrees Celsius.",
+            "a": "100"
+          },
+          {
+            "before": "The snow on Adil's roof melts when it gets",
+            "options": [
+              "warmer",
+              "colder"
+            ],
+            "after": ".",
+            "a": "warmer"
+          },
+          {
+            "before": "Lina does not see snow in Dubai because it is too",
+            "options": [
+              "warm",
+              "wet"
+            ],
+            "after": ".",
+            "a": "warm"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A lake can freeze in a very cold winter.",
+            "a": true
+          },
+          {
+            "q": "Snow is made of tiny bits of ice.",
+            "a": true
+          },
+          {
+            "q": "Ice in Dubai's hot sun stays solid all day.",
+            "a": false
+          },
+          {
+            "q": "On the same day, water can be solid in one place and liquid in another.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write melt, freeze, boil or evaporate.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "water in the freezer",
+            "a": "freeze"
+          },
+          {
+            "q": "an ice cube in a warm hand",
+            "a": "melt"
+          },
+          {
+            "q": "water in a pot on a hot stove",
+            "a": "boil"
+          },
+          {
+            "q": "a wet floor under a fan",
+            "a": "evaporate"
+          },
+          {
+            "q": "snow in the spring sun",
+            "a": "melt"
+          },
+          {
+            "q": "a puddle on a frosty night",
+            "a": "freeze"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "It is 2 degrees in Gulmarg and 24 degrees in Dubai. Dubai is ___ degrees warmer.",
+            "a": "22"
+          },
+          {
+            "q": "Adil builds 3 snowmen. Each needs 2 big snowballs and 1 small one. He makes ___ snowballs in all.",
+            "a": "9"
+          },
+          {
+            "q": "Lina's ice lolly melts in 8 minutes outside. Inside it takes 3 times as long. Inside it takes ___ minutes.",
+            "a": "24"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why does Adil see snow but Lina does not?",
+        "marks": 2,
+        "lines": 2,
+        "a": "Gulmarg is very cold in winter, so water freezes into snow; Dubai is warm, so water stays liquid."
+      }
+    ]
+  },
+  {
+    "id": "water-and-its-forms-13",
+    "topic": "water-and-its-forms",
+    "number": 13,
+    "level": "Challenge",
+    "title": "The Rooftop Rain Tank",
+    "intro": "Vikram's family in Chennai collects rain water from the roof in a big tank. They use it for the garden and for washing.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve the problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The tank holds 100 buckets. It has 45 buckets in it. It needs ___ more to be full.",
+            "a": "55"
+          },
+          {
+            "q": "It rained 18 buckets into the tank on Monday and 27 on Tuesday. That is ___ buckets in all.",
+            "a": "45"
+          },
+          {
+            "q": "Vikram uses 4 buckets a day for the garden. In 6 days he uses ___ buckets.",
+            "a": "24"
+          },
+          {
+            "q": "The tank had 60 buckets. They used 24 for the garden and 15 for washing. ___ buckets are left.",
+            "a": "21"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Collecting rain water",
+            "options": [
+              "saves",
+              "wastes"
+            ],
+            "after": "tap water.",
+            "a": "saves"
+          },
+          {
+            "before": "Rain water from the roof is good for",
+            "options": [
+              "plants",
+              "drinking straight away"
+            ],
+            "after": ".",
+            "a": "plants"
+          },
+          {
+            "before": "The tank fills up most in the",
+            "options": [
+              "rainy season",
+              "dry season"
+            ],
+            "after": ".",
+            "a": "rainy season"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Rain water harvesting means collecting and saving rain.",
+            "a": true
+          },
+          {
+            "q": "Pipes carry the rain from the roof to the tank.",
+            "a": true
+          },
+          {
+            "q": "If it does not rain, the tank still fills up.",
+            "a": false
+          },
+          {
+            "q": "Saved rain water helps when there is a water shortage.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Work out the sums.",
+        "marks": 4,
+        "items": [
+          {
+            "top": 236,
+            "op": "+",
+            "bottom": 157,
+            "a": 393
+          },
+          {
+            "top": 400,
+            "op": "-",
+            "bottom": 185,
+            "a": 215
+          },
+          {
+            "top": 75,
+            "op": "+",
+            "bottom": 68,
+            "a": 143
+          },
+          {
+            "top": 92,
+            "op": "-",
+            "bottom": 47,
+            "a": 45
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways Vikram's family can use the rain water.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. water plants, wash the car, mop the floor, flush the toilet."
+      }
+    ]
+  },
+  {
+    "id": "water-and-its-forms-14",
+    "topic": "water-and-its-forms",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Ice Skating at the Mall Rink",
+    "intro": "Sofia and Rayan go ice skating at a rink in Dubai. Outside it is hot, but the ice inside stays frozen.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the forms of water.",
+        "marks": 6,
+        "groups": [
+          "Solid: keeps its shape",
+          "Liquid: takes the shape of its container",
+          "Gas: spreads out to fill a space"
+        ],
+        "words": [
+          "water in a bottle",
+          "steam from soup",
+          "lake water",
+          "ice rink",
+          "shower steam",
+          "frozen pond",
+          "ice sculpture",
+          "bath water",
+          "water vapour"
+        ],
+        "a": {
+          "ice rink": "Solid: keeps its shape",
+          "frozen pond": "Solid: keeps its shape",
+          "ice sculpture": "Solid: keeps its shape",
+          "water in a bottle": "Liquid: takes the shape of its container",
+          "lake water": "Liquid: takes the shape of its container",
+          "bath water": "Liquid: takes the shape of its container",
+          "steam from soup": "Gas: spreads out to fill a space",
+          "water vapour": "Gas: spreads out to fill a space",
+          "shower steam": "Gas: spreads out to fill a space"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "What happens? Circle the answer.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Machines keep the rink very",
+            "options": [
+              "cold",
+              "hot"
+            ],
+            "after": ".",
+            "a": "cold"
+          },
+          {
+            "before": "If the machines stop, the ice will",
+            "options": [
+              "melt",
+              "grow"
+            ],
+            "after": ".",
+            "a": "melt"
+          },
+          {
+            "before": "Sofia's wet gloves dry because the water",
+            "options": [
+              "evaporates",
+              "freezes"
+            ],
+            "after": ".",
+            "a": "evaporates"
+          },
+          {
+            "before": "A drink spilled on the rink will",
+            "options": [
+              "freeze",
+              "boil"
+            ],
+            "after": ".",
+            "a": "freeze"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A block of ice can be poured like water.",
+            "a": false
+          },
+          {
+            "q": "Water vapour spreads out to fill the room it is in.",
+            "a": true
+          },
+          {
+            "q": "Ice takes the shape of any glass you put it in.",
+            "a": false
+          },
+          {
+            "q": "A liquid takes the shape of its container.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "When the ice melts, it changes from a solid to a ___.",
+            "a": "liquid"
+          },
+          {
+            "q": "Skates have thin metal ___ that slide on the ice.",
+            "a": "blades"
+          },
+          {
+            "q": "To make the rink, water is spread out and then ___.",
+            "a": "frozen"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why does the rink not melt when it is hot outside?",
+        "marks": 2,
+        "lines": 2,
+        "a": "Machines keep the ice very cold inside the building."
+      }
+    ]
+  },
+  {
+    "id": "water-and-its-forms-15",
+    "topic": "water-and-its-forms",
+    "number": 15,
+    "level": "Challenge",
+    "title": "The World Water Day Quiz",
+    "intro": "On 22 March, Class 2 holds a quiz for World Water Day. Mehul and Clara lead the two teams.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each change to what causes it.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Ice turns into water",
+            "right": "it gets warm"
+          },
+          {
+            "left": "Water turns into ice",
+            "right": "it gets very cold"
+          },
+          {
+            "left": "Water turns into steam",
+            "right": "it is heated a lot"
+          },
+          {
+            "left": "Steam turns into water drops",
+            "right": "it touches something cold"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the water riddles.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "I fall in a storm as hard balls of ice. I am ___.",
+            "a": "hail / hailstones"
+          },
+          {
+            "q": "I am tiny drops on leaves early in the morning. I am ___.",
+            "a": "dew"
+          },
+          {
+            "q": "I hang from roofs in winter like a frozen finger. I am an ___.",
+            "a": "icicle"
+          },
+          {
+            "q": "You cannot see me, but I am water in the air. I am water ___.",
+            "a": "vapour / vapor"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Most of the Earth is covered by water.",
+            "a": true
+          },
+          {
+            "q": "Plants take in water through their roots.",
+            "a": true
+          },
+          {
+            "q": "Our body does not need water every day.",
+            "a": false
+          },
+          {
+            "q": "Salty sea water is good for watering crops.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "When we sweat, the water on our skin",
+            "options": [
+              "evaporates",
+              "freezes"
+            ],
+            "after": ".",
+            "a": "evaporates"
+          },
+          {
+            "before": "Mehul's team scores 9 and Clara's team scores 13. Clara's team wins by",
+            "options": [
+              "4",
+              "22"
+            ],
+            "after": "points.",
+            "a": "4"
+          },
+          {
+            "before": "Clean drinking water is",
+            "options": [
+              "precious",
+              "useless"
+            ],
+            "after": ".",
+            "a": "precious"
+          },
+          {
+            "before": "Camels can go for many days without drinking",
+            "options": [
+              "water",
+              "milk"
+            ],
+            "after": ".",
+            "a": "water"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a short message to tell people to save water.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"Every drop counts. Close the tap!\""
+      }
+    ]
   }
 ]

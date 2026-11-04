@@ -678,5 +678,1323 @@
         "a": "Answers will vary, e.g. We lit lamps and ate sweets. Two plurals spelt correctly."
       }
     ]
+  },
+  {
+    "id": "singular-and-plural-06",
+    "topic": "singular-and-plural",
+    "number": 6,
+    "level": "Practice",
+    "title": "The Fruit Stall at the Souk",
+    "intro": "Farah helps her uncle at a fruit stall in the souk. Count the fruit and use the right words.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the plural.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "melon",
+            "a": "melons"
+          },
+          {
+            "q": "mango",
+            "a": "mangoes / mangos"
+          },
+          {
+            "q": "strawberry",
+            "a": "strawberries"
+          },
+          {
+            "q": "coconut",
+            "a": "coconuts"
+          },
+          {
+            "q": "guava",
+            "a": "guavas"
+          },
+          {
+            "q": "pouch",
+            "a": "pouches"
+          },
+          {
+            "q": "crate",
+            "a": "crates"
+          },
+          {
+            "q": "scale",
+            "a": "scales"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Uncle cuts one big",
+            "options": [
+              "watermelon",
+              "watermelons"
+            ],
+            "after": "every hour.",
+            "a": "watermelon"
+          },
+          {
+            "before": "Farah stacks ten",
+            "options": [
+              "pear",
+              "pears"
+            ],
+            "after": "in a row.",
+            "a": "pears"
+          },
+          {
+            "before": "A man asks for six",
+            "options": [
+              "lemon",
+              "lemons"
+            ],
+            "after": ".",
+            "a": "lemons"
+          },
+          {
+            "before": "Uncle and Farah eat two",
+            "options": [
+              "sandwichs",
+              "sandwiches"
+            ],
+            "after": "for lunch.",
+            "a": "sandwiches"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The plural of key is keys.",
+            "a": true
+          },
+          {
+            "q": "The plural of tray is traies.",
+            "a": false
+          },
+          {
+            "q": "The plural of lemon is lemones.",
+            "a": false
+          },
+          {
+            "q": "The plural of basket is baskets.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the plural of the word in brackets.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Farah fills two ___ (sack) with onions.",
+            "a": "sacks"
+          },
+          {
+            "q": "The ___ (customer) are happy.",
+            "a": "customers"
+          },
+          {
+            "q": "A farmer brings fresh ___ (radish).",
+            "a": "radishes"
+          },
+          {
+            "q": "Uncle sells boxes of ___ (blueberry).",
+            "a": "blueberries"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about two fruits you like. Use plural words.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. I like grapes and bananas. Check the plurals are spelt correctly."
+      }
+    ]
+  },
+  {
+    "id": "singular-and-plural-07",
+    "topic": "singular-and-plural",
+    "number": 7,
+    "level": "Practice",
+    "title": "The Picnic at Lodhi Garden",
+    "intro": "Kiran's family has a picnic in Lodhi Garden. Some words change f or fe to ves.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Change f or fe to ves to show more than one.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "loaf",
+            "a": "loaves"
+          },
+          {
+            "q": "half",
+            "a": "halves"
+          },
+          {
+            "q": "shelf",
+            "a": "shelves"
+          },
+          {
+            "q": "wolf",
+            "a": "wolves"
+          },
+          {
+            "q": "scarf",
+            "a": "scarves / scarfs"
+          },
+          {
+            "q": "calf",
+            "a": "calves"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Mama cuts the bread with two",
+            "options": [
+              "knifes",
+              "knives"
+            ],
+            "after": ".",
+            "a": "knives"
+          },
+          {
+            "before": "Grandpa tells a story about two",
+            "options": [
+              "thiefs",
+              "thieves"
+            ],
+            "after": ".",
+            "a": "thieves"
+          },
+          {
+            "before": "We see a",
+            "options": [
+              "pigeon",
+              "pigeons"
+            ],
+            "after": "on the wall.",
+            "a": "pigeon"
+          },
+          {
+            "before": "Kiran takes off her",
+            "options": [
+              "shoe",
+              "shoes"
+            ],
+            "after": "to run on the grass.",
+            "a": "shoes"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "How do we make each word plural?",
+        "marks": 6,
+        "groups": [
+          "Add s",
+          "Change f or fe to ves"
+        ],
+        "words": [
+          "blanket",
+          "life",
+          "swing",
+          "wife",
+          "flask",
+          "elf"
+        ],
+        "a": {
+          "blanket": "Add s",
+          "life": "Change f or fe to ves",
+          "swing": "Add s",
+          "wife": "Change f or fe to ves",
+          "flask": "Add s",
+          "elf": "Change f or fe to ves"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the plural of the word in brackets.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Kiran sees three ___ (squirrel).",
+            "a": "squirrels"
+          },
+          {
+            "q": "There are many ___ (peacock) on the grass.",
+            "a": "peacocks"
+          },
+          {
+            "q": "We walk under the ___ (arch) of an old tomb.",
+            "a": "arches"
+          },
+          {
+            "q": "My two ___ (cousin) come too.",
+            "a": "cousins"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence using the word knives or loaves.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. Mama bought two loaves of bread."
+      }
+    ]
+  },
+  {
+    "id": "singular-and-plural-08",
+    "topic": "singular-and-plural",
+    "number": 8,
+    "level": "Practice",
+    "title": "Tidying the Playroom",
+    "intro": "Leo and his sister tidy the playroom. Look at the letter before y.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "How do we make each word plural?",
+        "marks": 6,
+        "groups": [
+          "Add s",
+          "Change y to ies"
+        ],
+        "words": [
+          "toy",
+          "pony",
+          "key",
+          "fairy",
+          "donkey",
+          "lorry"
+        ],
+        "a": {
+          "toy": "Add s",
+          "pony": "Change y to ies",
+          "key": "Add s",
+          "fairy": "Change y to ies",
+          "donkey": "Add s",
+          "lorry": "Change y to ies"
+        }
+      },
+      {
+        "type": "pairs",
+        "title": "Write the plural.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "boy",
+            "a": "boys"
+          },
+          {
+            "q": "day",
+            "a": "days"
+          },
+          {
+            "q": "spy",
+            "a": "spies"
+          },
+          {
+            "q": "monkey",
+            "a": "monkeys"
+          },
+          {
+            "q": "diary",
+            "a": "diaries"
+          },
+          {
+            "q": "trolley",
+            "a": "trolleys"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "Leo has three",
+            "options": [
+              "toys",
+              "toies"
+            ],
+            "after": "on his bed.",
+            "a": "toys"
+          },
+          {
+            "before": "Leo has many",
+            "options": [
+              "hobbys",
+              "hobbies"
+            ],
+            "after": ".",
+            "a": "hobbies"
+          },
+          {
+            "before": "Leo lines up his",
+            "options": [
+              "cowboys",
+              "cowboies"
+            ],
+            "after": "on the shelf.",
+            "a": "cowboys"
+          },
+          {
+            "before": "The toys",
+            "options": [
+              "is",
+              "are"
+            ],
+            "after": "in the box.",
+            "a": "are"
+          },
+          {
+            "before": "The ball",
+            "options": [
+              "is",
+              "are"
+            ],
+            "after": "under the bed.",
+            "a": "is"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We add s when a vowel comes before y, like in toy.",
+            "a": true
+          },
+          {
+            "q": "The plural of puppy is puppys.",
+            "a": false
+          },
+          {
+            "q": "The plural of ruby is rubies.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about two toys you have.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. I have two teddies. Check the plural spelling."
+      }
+    ]
+  },
+  {
+    "id": "singular-and-plural-09",
+    "topic": "singular-and-plural",
+    "number": 9,
+    "level": "Practice",
+    "title": "Grandpa's Village in Gujarat",
+    "intro": "Meera visits her grandpa's village. Some words change in a special way, and some do not change at all.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match one to many.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "ox",
+            "right": "oxen"
+          },
+          {
+            "left": "deer",
+            "right": "deer"
+          },
+          {
+            "left": "grandchild",
+            "right": "grandchildren"
+          },
+          {
+            "left": "milkman",
+            "right": "milkmen"
+          },
+          {
+            "left": "hoof",
+            "right": "hooves"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Meera wears two silver",
+            "options": [
+              "anklet",
+              "anklets"
+            ],
+            "after": "at the fair.",
+            "a": "anklets"
+          },
+          {
+            "before": "",
+            "options": [
+              "This",
+              "These"
+            ],
+            "after": "goat is white.",
+            "a": "This"
+          },
+          {
+            "before": "",
+            "options": [
+              "This",
+              "These"
+            ],
+            "after": "chicks are yellow.",
+            "a": "These"
+          },
+          {
+            "before": "",
+            "options": [
+              "That",
+              "Those"
+            ],
+            "after": "cows are hungry.",
+            "a": "Those"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the plural of the word in brackets.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Three ___ (goose) chase Meera.",
+            "a": "geese"
+          },
+          {
+            "q": "Grandma makes ten ___ (roti).",
+            "a": "rotis"
+          },
+          {
+            "q": "There are many ___ (mosquito) at night.",
+            "a": "mosquitoes / mosquitos"
+          },
+          {
+            "q": "We count four ___ (haystack) in the field.",
+            "a": "haystacks"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again to show more than one.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "The deer drinks from the pond.",
+            "a": "The deer drink from the pond."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about animals on a farm. Use a special plural.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. The geese swim in the pond. Accept oxen, sheep, deer or geese."
+      }
+    ]
+  },
+  {
+    "id": "singular-and-plural-10",
+    "topic": "singular-and-plural",
+    "number": 10,
+    "level": "Practice",
+    "title": "A Visit to the Post Office",
+    "intro": "Tanvi and her dad go to the post office to send parcels to her cousins.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the plural.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "parcel",
+            "a": "parcels"
+          },
+          {
+            "q": "stamp",
+            "a": "stamps"
+          },
+          {
+            "q": "envelope",
+            "a": "envelopes"
+          },
+          {
+            "q": "address",
+            "a": "addresses"
+          },
+          {
+            "q": "postman",
+            "a": "postmen"
+          },
+          {
+            "q": "country",
+            "a": "countries"
+          },
+          {
+            "q": "holiday",
+            "a": "holidays"
+          },
+          {
+            "q": "gift",
+            "a": "gifts"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words. One or more than one?",
+        "marks": 6,
+        "groups": [
+          "One",
+          "More than one"
+        ],
+        "words": [
+          "officers",
+          "scale",
+          "postcards",
+          "queue",
+          "mailbags",
+          "form"
+        ],
+        "a": {
+          "officers": "More than one",
+          "scale": "One",
+          "postcards": "More than one",
+          "queue": "One",
+          "mailbags": "More than one",
+          "form": "One"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in is or are.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The parcel ___ very heavy.",
+            "a": "is"
+          },
+          {
+            "q": "The stamps ___ on the counter.",
+            "a": "are"
+          },
+          {
+            "q": "Tanvi's cousins ___ in Pune.",
+            "a": "are"
+          },
+          {
+            "q": "The post office ___ near the bank.",
+            "a": "is"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again to show more than one.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The letter is in the box.",
+            "a": "The letters are in the boxes."
+          },
+          {
+            "q": "The clerk sticks a stamp.",
+            "a": "The clerks stick stamps."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about things you can send by post. Use a plural word.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. We can send cards and letters. Check the plural spelling."
+      }
+    ]
+  },
+  {
+    "id": "singular-and-plural-11",
+    "topic": "singular-and-plural",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Class Trip to the Aquarium",
+    "intro": "Neil wrote about the class trip to the aquarium, but he made some mistakes with plurals.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Each sentence has a wrong plural. Write it correctly.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We saw two big turtle.",
+            "a": "We saw two big turtles."
+          },
+          {
+            "q": "Two mans cleaned the big tank.",
+            "a": "Two men cleaned the big tank."
+          },
+          {
+            "q": "Our guide had three torchs.",
+            "a": "Our guide had three torches."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Is the plural correct? Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "One octopus, two octopuses.",
+            "a": true
+          },
+          {
+            "q": "One wolf, two wolfs.",
+            "a": false
+          },
+          {
+            "q": "One dolphin, two dolphins.",
+            "a": true
+          },
+          {
+            "q": "One echo, two echos.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The penguins",
+            "options": [
+              "is",
+              "are"
+            ],
+            "after": "sliding on the ice.",
+            "a": "are"
+          },
+          {
+            "before": "One seal",
+            "options": [
+              "was",
+              "were"
+            ],
+            "after": "asleep on a rock.",
+            "a": "was"
+          },
+          {
+            "before": "The tanks",
+            "options": [
+              "was",
+              "were"
+            ],
+            "after": "full of bubbles.",
+            "a": "were"
+          },
+          {
+            "before": "That",
+            "options": [
+              "crab",
+              "crabs"
+            ],
+            "after": "has a big claw.",
+            "a": "crab"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the plural.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "stingray",
+            "a": "stingrays"
+          },
+          {
+            "q": "seahorse",
+            "a": "seahorses"
+          },
+          {
+            "q": "splash",
+            "a": "splashes"
+          },
+          {
+            "q": "tunnel",
+            "a": "tunnels"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about sea animals. Use two plural words.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. Sharks and dolphins swim in the sea. Two plurals spelt correctly."
+      }
+    ]
+  },
+  {
+    "id": "singular-and-plural-12",
+    "topic": "singular-and-plural",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Moving to a New Flat in Sharjah",
+    "intro": "Rhea's family is moving to a new flat. Unpack the boxes and change many back to one.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the singular. Make it one.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "cushions",
+            "a": "cushion"
+          },
+          {
+            "q": "mattresses",
+            "a": "mattress"
+          },
+          {
+            "q": "batteries",
+            "a": "battery"
+          },
+          {
+            "q": "switches",
+            "a": "switch"
+          },
+          {
+            "q": "hangers",
+            "a": "hanger"
+          },
+          {
+            "q": "rugs",
+            "a": "rug"
+          },
+          {
+            "q": "chimneys",
+            "a": "chimney"
+          },
+          {
+            "q": "radios",
+            "a": "radio"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Rhea carries",
+            "options": [
+              "a",
+              "two"
+            ],
+            "after": "cushions.",
+            "a": "two"
+          },
+          {
+            "before": "",
+            "options": [
+              "This",
+              "These"
+            ],
+            "after": "mirror is cracked.",
+            "a": "This"
+          },
+          {
+            "before": "The movers",
+            "options": [
+              "lift",
+              "lifts"
+            ],
+            "after": "the sofa.",
+            "a": "lift"
+          },
+          {
+            "before": "Papa",
+            "options": [
+              "carry",
+              "carries"
+            ],
+            "after": "the TV.",
+            "a": "carries"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again to show only one.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The men are carrying the sofas.",
+            "a": "The man is carrying the sofa."
+          },
+          {
+            "q": "The knives are in the drawers.",
+            "a": "The knife is in the drawer."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The singular of wolves is wolf.",
+            "a": true
+          },
+          {
+            "q": "The singular of geese is gooses.",
+            "a": false
+          },
+          {
+            "q": "The singular of dishes is dishe.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about things in your room. Use one singular and one plural word.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. I have one bed. I have three pillows."
+      }
+    ]
+  },
+  {
+    "id": "singular-and-plural-13",
+    "topic": "singular-and-plural",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Shopping at the Eid Bazaar",
+    "intro": "Yusra and her mother shop at the Eid bazaar. Count and use the right words.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the plural to finish each sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Yusra buys one lantern for herself and three ___ for her cousins.",
+            "a": "lanterns"
+          },
+          {
+            "q": "Mama has one purse, but Yusra wants two ___.",
+            "a": "purses"
+          },
+          {
+            "q": "There is one gold brooch and two silver ___.",
+            "a": "brooches"
+          },
+          {
+            "q": "Mama eats one pastry, and Yusra eats two ___.",
+            "a": "pastries"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "How do we make each word plural?",
+        "marks": 6,
+        "groups": [
+          "Add es",
+          "Change y to ies",
+          "Special plural"
+        ],
+        "words": [
+          "match",
+          "bakery",
+          "policeman",
+          "sash",
+          "factory",
+          "gentleman"
+        ],
+        "a": {
+          "match": "Add es",
+          "bakery": "Change y to ies",
+          "policeman": "Special plural",
+          "sash": "Add es",
+          "factory": "Change y to ies",
+          "gentleman": "Special plural"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The lanterns",
+            "options": [
+              "was",
+              "were"
+            ],
+            "after": "very bright.",
+            "a": "were"
+          },
+          {
+            "before": "One stall",
+            "options": [
+              "was",
+              "were"
+            ],
+            "after": "selling henna.",
+            "a": "was"
+          },
+          {
+            "before": "There",
+            "options": [
+              "is",
+              "are"
+            ],
+            "after": "two kinds of dates.",
+            "a": "are"
+          },
+          {
+            "before": "Each child",
+            "options": [
+              "gets",
+              "get"
+            ],
+            "after": "a gift of money.",
+            "a": "gets"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again to show more than one.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The shopkeeper wraps a gift.",
+            "a": "The shopkeepers wrap gifts."
+          },
+          {
+            "q": "The tailor stitches a kurta.",
+            "a": "The tailors stitch kurtas."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a market. Use a word that changes y to ies.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. We bought cherries and berries. Check y has changed to ies."
+      }
+    ]
+  },
+  {
+    "id": "singular-and-plural-14",
+    "topic": "singular-and-plural",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Cricket Practice in the Nets",
+    "intro": "The under-9 team practises cricket in the nets. Look carefully: some plurals are tricky.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match one to many.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "batsman",
+            "right": "batsmen"
+          },
+          {
+            "left": "pitch",
+            "right": "pitches"
+          },
+          {
+            "left": "boundary",
+            "right": "boundaries"
+          },
+          {
+            "left": "trophy",
+            "right": "trophies"
+          },
+          {
+            "left": "hero",
+            "right": "heroes"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the plural that is spelt correctly.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The",
+            "options": [
+              "coaches",
+              "coachs"
+            ],
+            "after": "watch the boys.",
+            "a": "coaches"
+          },
+          {
+            "before": "We wear blue",
+            "options": [
+              "jerseys",
+              "jersies"
+            ],
+            "after": ".",
+            "a": "jerseys"
+          },
+          {
+            "before": "Our knees have",
+            "options": [
+              "patches",
+              "patchs"
+            ],
+            "after": "of mud.",
+            "a": "patches"
+          },
+          {
+            "before": "Coach shows us",
+            "options": [
+              "videos",
+              "videoes"
+            ],
+            "after": "of great players.",
+            "a": "videos"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The plural of shoe is shoes.",
+            "a": true
+          },
+          {
+            "q": "The plural of catch is catchs.",
+            "a": false
+          },
+          {
+            "q": "The plural of try is tries.",
+            "a": true
+          },
+          {
+            "q": "The plural of child is childrens.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the plural of the word in brackets.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Coach gives us three ___ (chance) to bat.",
+            "a": "chances"
+          },
+          {
+            "q": "Riya hurts both her ___ (knee).",
+            "a": "knees"
+          },
+          {
+            "q": "We clap for the two ___ (umpire).",
+            "a": "umpires"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again to show more than one.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "The bowler throws the ball.",
+            "a": "The bowlers throw the balls."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "singular-and-plural-15",
+    "topic": "singular-and-plural",
+    "number": 15,
+    "level": "Challenge",
+    "title": "The Wildlife Park in Al Ain",
+    "intro": "Class 2 visits the wildlife park in Al Ain. Use everything you know about plurals.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the plural.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "giraffe",
+            "a": "giraffes"
+          },
+          {
+            "q": "rhino",
+            "a": "rhinos"
+          },
+          {
+            "q": "ostrich",
+            "a": "ostriches"
+          },
+          {
+            "q": "lioness",
+            "a": "lionesses"
+          },
+          {
+            "q": "cub",
+            "a": "cubs"
+          },
+          {
+            "q": "gazelle",
+            "a": "gazelles"
+          },
+          {
+            "q": "flamingo",
+            "a": "flamingos / flamingoes"
+          },
+          {
+            "q": "safari",
+            "a": "safaris"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Is the word singular or plural?",
+        "marks": 6,
+        "groups": [
+          "Singular",
+          "Plural"
+        ],
+        "words": [
+          "teeth",
+          "cheetah",
+          "women",
+          "keeper",
+          "oxen",
+          "hyena"
+        ],
+        "a": {
+          "teeth": "Plural",
+          "cheetah": "Singular",
+          "women": "Plural",
+          "keeper": "Singular",
+          "oxen": "Plural",
+          "hyena": "Singular"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Two lion cubs",
+            "options": [
+              "was",
+              "were"
+            ],
+            "after": "playing.",
+            "a": "were"
+          },
+          {
+            "before": "The ostrich",
+            "options": [
+              "has",
+              "have"
+            ],
+            "after": "long legs.",
+            "a": "has"
+          },
+          {
+            "before": "The flamingos",
+            "options": [
+              "stands",
+              "stand"
+            ],
+            "after": "on one leg.",
+            "a": "stand"
+          },
+          {
+            "before": "A",
+            "options": [
+              "baby camel",
+              "baby camels"
+            ],
+            "after": "walks with its mother.",
+            "a": "baby camel"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again to show more than one.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "The giraffe eats a leaf.",
+            "a": "The giraffes eat leaves."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about animals at a park or zoo. Use at least two plural words.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. The zebras were eating grass. Two monkeys swung on the trees. Check the plurals."
+      }
+    ]
   }
 ]

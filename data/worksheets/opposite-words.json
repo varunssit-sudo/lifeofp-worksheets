@@ -614,5 +614,1190 @@
         ]
       }
     ]
+  },
+  {
+    "id": "opposite-words-06",
+    "topic": "opposite-words",
+    "number": 6,
+    "level": "Practice",
+    "title": "Cooking with Ammi in the Kitchen",
+    "intro": "Rafi helps his mother, Ammi, cook lunch. The kitchen is full of opposites.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each word to its opposite.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "sweet",
+            "right": "sour"
+          },
+          {
+            "left": "raw",
+            "right": "cooked"
+          },
+          {
+            "left": "fresh",
+            "right": "stale"
+          },
+          {
+            "left": "sharp",
+            "right": "blunt"
+          },
+          {
+            "left": "spicy",
+            "right": "mild"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the opposite of the word in brackets.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The jar lid was tight, but the bottle cap was ___ (tight).",
+            "a": "loose"
+          },
+          {
+            "q": "This dal needs more water and ___ (more) salt.",
+            "a": "less"
+          },
+          {
+            "q": "Rafi was careful, but his brother was ___ (careful) and spilt the milk.",
+            "a": "careless"
+          },
+          {
+            "q": "The old pot looked dull, but after washing it looked ___ (dull).",
+            "a": "shiny / bright"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the opposite of the word in capitals.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "SAME :",
+            "options": [
+              "different",
+              "alike"
+            ],
+            "after": "",
+            "a": "different"
+          },
+          {
+            "before": "ASK :",
+            "options": [
+              "answer",
+              "tell"
+            ],
+            "after": "",
+            "a": "answer"
+          },
+          {
+            "before": "WILD :",
+            "options": [
+              "tame",
+              "fierce"
+            ],
+            "after": "",
+            "a": "tame"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Spicy\" and \"hot\" are opposites.",
+            "a": false
+          },
+          {
+            "q": "\"Wash\" and \"clean\" are opposites.",
+            "a": false
+          },
+          {
+            "q": "\"Ripe\" and \"unripe\" are opposites.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about food with a pair of opposites.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"The lime is sour, but the mango is sweet.\""
+      }
+    ]
+  },
+  {
+    "id": "opposite-words-07",
+    "topic": "opposite-words",
+    "number": 7,
+    "level": "Practice",
+    "title": "Moving to a New Flat in Bengaluru",
+    "intro": "Nisha's family is moving to a new flat. Many action words have opposites too.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the opposite of each action word.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "lift",
+            "a": "drop / lower"
+          },
+          {
+            "q": "lend",
+            "a": "borrow"
+          },
+          {
+            "q": "throw",
+            "a": "catch"
+          },
+          {
+            "q": "tie",
+            "a": "untie"
+          },
+          {
+            "q": "remember",
+            "a": "forget"
+          },
+          {
+            "q": "send",
+            "a": "receive / get"
+          },
+          {
+            "q": "load",
+            "a": "unload"
+          },
+          {
+            "q": "smile",
+            "a": "frown"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the opposite word to finish the sentence.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Our old flat was noisy, but the new one is",
+            "options": [
+              "peaceful",
+              "crowded"
+            ],
+            "after": ".",
+            "a": "peaceful"
+          },
+          {
+            "before": "Papa lost the key, and then he",
+            "options": [
+              "found",
+              "kept"
+            ],
+            "after": "it in his pocket.",
+            "a": "found"
+          },
+          {
+            "before": "The old road was crooked, but the new road is",
+            "options": [
+              "straight",
+              "bumpy"
+            ],
+            "after": ".",
+            "a": "straight"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Are the two words opposites, or do they mean the same?",
+        "marks": 6,
+        "groups": [
+          "Opposites",
+          "Same meaning"
+        ],
+        "words": [
+          "true – false",
+          "stone – rock",
+          "polite – rude",
+          "quick – speedy",
+          "tiny – huge",
+          "gift – present"
+        ],
+        "a": {
+          "tiny – huge": "Opposites",
+          "polite – rude": "Opposites",
+          "true – false": "Opposites",
+          "quick – speedy": "Same meaning",
+          "gift – present": "Same meaning",
+          "stone – rock": "Same meaning"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the opposite of the word in brackets.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The new flat is above a shop, and the car park is ___ (above) it.",
+            "a": "below"
+          },
+          {
+            "q": "The movers came at sunrise and left at ___ (sunrise).",
+            "a": "sunset"
+          },
+          {
+            "q": "Our street has few trees, but the park has ___ (few).",
+            "a": "many"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about moving or travelling. Use a pair of opposites.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"We packed the boxes, then we unpacked them.\""
+      }
+    ]
+  },
+  {
+    "id": "opposite-words-08",
+    "topic": "opposite-words",
+    "number": 8,
+    "level": "Practice",
+    "title": "The Annual Day Show at School",
+    "intro": "Class 2 is putting on a show. We can make some opposites by adding dis or un to the start of a word.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Add dis to make the opposite.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "like",
+            "a": "dislike"
+          },
+          {
+            "q": "agree",
+            "a": "disagree"
+          },
+          {
+            "q": "obey",
+            "a": "disobey"
+          },
+          {
+            "q": "trust",
+            "a": "distrust"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Which one makes the opposite: un or dis?",
+        "marks": 6,
+        "groups": [
+          "un",
+          "dis"
+        ],
+        "words": [
+          "wrap",
+          "please",
+          "cover",
+          "honest",
+          "lucky",
+          "connect"
+        ],
+        "a": {
+          "lucky": "un",
+          "cover": "un",
+          "wrap": "un",
+          "honest": "dis",
+          "connect": "dis",
+          "please": "dis"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The magician made the coin",
+            "options": [
+              "disappear",
+              "unappear"
+            ],
+            "after": ".",
+            "a": "disappear"
+          },
+          {
+            "before": "Sara was",
+            "options": [
+              "unable",
+              "disable"
+            ],
+            "after": "to find her dancing shoes.",
+            "a": "unable"
+          },
+          {
+            "before": "The curtain went up at the start and came down at the",
+            "options": [
+              "end",
+              "top"
+            ],
+            "after": ".",
+            "a": "end"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Dislike\" means to not like.",
+            "a": true
+          },
+          {
+            "q": "\"Disagree\" means to agree a lot.",
+            "a": false
+          },
+          {
+            "q": "We can say \"unhonest\".",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a sentence using a word that starts with dis.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I dislike loud noises.\""
+      }
+    ]
+  },
+  {
+    "id": "opposite-words-09",
+    "topic": "opposite-words",
+    "number": 9,
+    "level": "Practice",
+    "title": "A Trip to the Hypermarket",
+    "intro": "Mia and Leo go shopping with their mum at a big hypermarket in Abu Dhabi.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the opposite of each word.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "entrance",
+            "a": "exit"
+          },
+          {
+            "q": "upstairs",
+            "a": "downstairs"
+          },
+          {
+            "q": "together",
+            "a": "apart"
+          },
+          {
+            "q": "easy",
+            "a": "difficult / hard"
+          },
+          {
+            "q": "busy",
+            "a": "free"
+          },
+          {
+            "q": "over",
+            "a": "under"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the opposite of the word in brackets.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The ice cream was frozen in the shop, but it was ___ (frozen) when we got home.",
+            "a": "melted"
+          },
+          {
+            "q": "The price of onions may rise this week and ___ (rise) next week.",
+            "a": "fall / drop / go down"
+          },
+          {
+            "q": "The new chips were crunchy, but the old ones were ___ (crunchy).",
+            "a": "soggy / soft / stale"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the opposite of the word in capitals.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "PRETTY :",
+            "options": [
+              "ugly",
+              "nice"
+            ],
+            "after": "",
+            "a": "ugly"
+          },
+          {
+            "before": "ACCEPT :",
+            "options": [
+              "refuse",
+              "take"
+            ],
+            "after": "",
+            "a": "refuse"
+          },
+          {
+            "before": "LAZY :",
+            "options": [
+              "hard-working",
+              "sleepy"
+            ],
+            "after": "",
+            "a": "hard-working"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Price\" and \"cost\" are opposites.",
+            "a": false
+          },
+          {
+            "q": "A word can have two opposites. \"Old\" has \"new\" and \"young\".",
+            "a": true
+          },
+          {
+            "q": "\"Smart\" and \"clever\" are opposites.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write what you like to buy at a shop. Use a pair of opposites.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I buy big apples and small grapes.\""
+      }
+    ]
+  },
+  {
+    "id": "opposite-words-10",
+    "topic": "opposite-words",
+    "number": 10,
+    "level": "Practice",
+    "title": "The First Day of the New Term",
+    "intro": "It is the first day of Class 2 for Sam, Ria and Neha. Find the opposites in their day.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each word to its opposite.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "present",
+            "right": "absent"
+          },
+          {
+            "left": "neat",
+            "right": "messy"
+          },
+          {
+            "left": "pass",
+            "right": "fail"
+          },
+          {
+            "left": "shy",
+            "right": "bold"
+          },
+          {
+            "left": "ceiling",
+            "right": "floor"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the opposite word to finish the sentence.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Sam whispered the answer, but Ria",
+            "options": [
+              "shouted",
+              "sang"
+            ],
+            "after": "it.",
+            "a": "shouted"
+          },
+          {
+            "before": "At first Neha was a stranger, but by lunch she was my",
+            "options": [
+              "friend",
+              "teacher"
+            ],
+            "after": ".",
+            "a": "friend"
+          },
+          {
+            "before": "We ran outdoors at break. When the bell rang, we came",
+            "options": [
+              "indoors",
+              "outdoors"
+            ],
+            "after": ".",
+            "a": "indoors"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Add un to the word in brackets to finish the sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "I do not know that boy. He is ___ (known) to me.",
+            "a": "unknown"
+          },
+          {
+            "q": "The answer was not clear. It was ___ (clear).",
+            "a": "unclear"
+          },
+          {
+            "q": "The path was not even. It was ___ (even).",
+            "a": "uneven"
+          },
+          {
+            "q": "Rain in May is not usual. It is ___ (usual).",
+            "a": "unusual"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Absent\" means not at school.",
+            "a": true
+          },
+          {
+            "q": "\"Neat\" and \"tidy\" are opposites.",
+            "a": false
+          },
+          {
+            "q": "\"Yes\" and \"no\" are opposites.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write about your first day at school. Use one pair of opposites.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I was shy in the morning, but happy in the afternoon.\""
+      }
+    ]
+  },
+  {
+    "id": "opposite-words-11",
+    "topic": "opposite-words",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Camel Race at Al Marmoum",
+    "intro": "Zayd and his dad watch a camel race near Dubai. Think carefully: are the words really opposites?",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the pair of opposites.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "rapid – speedy",
+              "winner – loser"
+            ],
+            "after": "",
+            "a": "winner – loser"
+          },
+          {
+            "before": "",
+            "options": [
+              "cheer – boo",
+              "shout – yell"
+            ],
+            "after": "",
+            "a": "cheer – boo"
+          },
+          {
+            "before": "",
+            "options": [
+              "ahead – behind",
+              "dusty – sandy"
+            ],
+            "after": "",
+            "a": "ahead – behind"
+          },
+          {
+            "before": "",
+            "options": [
+              "add – take away",
+              "mix – stir"
+            ],
+            "after": "",
+            "a": "add – take away"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again. Change both words in capitals to their opposites.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "The crowd was SILENT and the camels were CALM.",
+            "a": "The crowd was noisy and the camels were excited."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Rapid\" is the opposite of \"speedy\".",
+            "a": false
+          },
+          {
+            "q": "Some words, like \"camel\", have no opposite.",
+            "a": true
+          },
+          {
+            "q": "The opposite of \"unkind\" is \"kind\".",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each word to its opposite.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "lead",
+            "right": "follow"
+          },
+          {
+            "left": "hit",
+            "right": "miss"
+          },
+          {
+            "left": "spend",
+            "right": "save"
+          },
+          {
+            "left": "dawn",
+            "right": "dusk"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a race. Use a pair of opposites in each.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"One camel was ahead and one was behind. The winner smiled and the loser frowned.\""
+      }
+    ]
+  },
+  {
+    "id": "opposite-words-12",
+    "topic": "opposite-words",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Kiara's Holiday Diary in Goa",
+    "intro": "Kiara wrote a diary on her holiday in Goa. Check her opposites and help her fix the sentences.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Are the two words opposites? Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "healthy – ill",
+            "a": true
+          },
+          {
+            "q": "sour – salty",
+            "a": false
+          },
+          {
+            "q": "wealthy – rich",
+            "a": false
+          },
+          {
+            "q": "sunny – bright",
+            "a": false
+          },
+          {
+            "q": "arrive – depart",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the opposite of the word in brackets so the sentence makes sense.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The sun rises in the ___ (west).",
+            "a": "east"
+          },
+          {
+            "q": "After the medicine, my cold got ___ (worse).",
+            "a": "better"
+          },
+          {
+            "q": "It was so ___ (dim) at noon that I wore sunglasses.",
+            "a": "bright"
+          },
+          {
+            "q": "Our sandcastle was the ___ (worst) on the beach, so we won a prize.",
+            "a": "best"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the opposite of the word in capitals.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "FINISH :",
+            "options": [
+              "begin",
+              "complete",
+              "end"
+            ],
+            "after": "",
+            "a": "begin"
+          },
+          {
+            "before": "PLAIN :",
+            "options": [
+              "fancy",
+              "simple",
+              "flat"
+            ],
+            "after": "",
+            "a": "fancy"
+          },
+          {
+            "before": "UPPER :",
+            "options": [
+              "lower",
+              "higher",
+              "top"
+            ],
+            "after": "",
+            "a": "lower"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write about the best part and the worst part of a trip.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"The best part was the boat ride. The worst part was the long wait.\""
+      }
+    ]
+  },
+  {
+    "id": "opposite-words-13",
+    "topic": "opposite-words",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Grandpa's Garden in Lucknow",
+    "intro": "Varsha helps her grandpa in his garden in Lucknow. Hunt for the opposites hiding in each sentence.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the two opposite words in each sentence.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "The mango tree is shady, but the lawn is sunny. ___",
+            "a": "shady, sunny / sunny, shady"
+          },
+          {
+            "q": "The lemons are bitter, but the guavas are sweet. ___",
+            "a": "bitter, sweet / sweet, bitter"
+          },
+          {
+            "q": "The beetle walked slowly, but the butterfly flew quickly. ___",
+            "a": "slowly, quickly / quickly, slowly"
+          },
+          {
+            "q": "Grandpa likes to work, and I like to play. ___",
+            "a": "work, play / play, work"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "\"Seed\" has no opposite.",
+            "a": true
+          },
+          {
+            "q": "\"Thorny\" is the opposite of \"sharp\".",
+            "a": false
+          },
+          {
+            "q": "In \"The soil is dry, so I water it\", the opposites are \"dry\" and \"water\".",
+            "a": false
+          },
+          {
+            "q": "\"Ugly\" and \"beautiful\" are opposites.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the sentence again. Change both words in capitals to their opposites.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Grandpa walked QUICKLY to the BACK of the garden.",
+            "a": "Grandpa walked slowly to the front of the garden."
+          },
+          {
+            "q": "The YOUNG plant had a FEW buds.",
+            "a": "The old plant had many buds."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a garden. Use a pair of opposites.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"The roses are tall and the daisies are short.\""
+      }
+    ]
+  },
+  {
+    "id": "opposite-words-14",
+    "topic": "opposite-words",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Eid Shopping at Meena Bazaar",
+    "intro": "Before Eid, Ayesha and her uncle go shopping at the busy Meena Bazaar in Hyderabad.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the opposite of each word.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "teach",
+            "a": "learn"
+          },
+          {
+            "q": "build",
+            "a": "break / destroy"
+          },
+          {
+            "q": "wise",
+            "a": "foolish / silly"
+          },
+          {
+            "q": "inner",
+            "a": "outer"
+          },
+          {
+            "q": "cheerful",
+            "a": "gloomy / sad"
+          },
+          {
+            "q": "hungry",
+            "a": "full"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the opposite of the word in capitals.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "HOLLOW :",
+            "options": [
+              "solid",
+              "empty",
+              "round"
+            ],
+            "after": "",
+            "a": "solid"
+          },
+          {
+            "before": "FAT :",
+            "options": [
+              "thin",
+              "big",
+              "round"
+            ],
+            "after": "",
+            "a": "thin"
+          },
+          {
+            "before": "SINGLE :",
+            "options": [
+              "double",
+              "one",
+              "alone"
+            ],
+            "after": "",
+            "a": "double"
+          },
+          {
+            "before": "NOISE :",
+            "options": [
+              "silence",
+              "sound",
+              "music"
+            ],
+            "after": "",
+            "a": "silence"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "\"Light\" has two opposites: \"dark\" and \"heavy\".",
+            "a": true
+          },
+          {
+            "q": "\"Above\" and \"over\" are opposites.",
+            "a": false
+          },
+          {
+            "q": "\"Dry\" and \"thirsty\" are opposites.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each word to its opposite.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "everybody",
+            "right": "nobody"
+          },
+          {
+            "left": "everything",
+            "right": "nothing"
+          },
+          {
+            "left": "all",
+            "right": "none"
+          },
+          {
+            "left": "somewhere",
+            "right": "nowhere"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write a sentence about a market. Use two opposite words.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Use a pair of opposites.",
+            "a": "Answers will vary, e.g. \"The bangles were cheap, but the dress was costly.\""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "opposite-words-15",
+    "topic": "opposite-words",
+    "number": 15,
+    "level": "Challenge",
+    "title": "The School Science Fair",
+    "intro": "Class 2 shows their projects at the science fair. Use all you know about opposites.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Make the opposite. Add un or dis.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "fold",
+            "a": "unfold"
+          },
+          {
+            "q": "sure",
+            "a": "unsure"
+          },
+          {
+            "q": "fit",
+            "a": "unfit"
+          },
+          {
+            "q": "allow",
+            "a": "disallow"
+          },
+          {
+            "q": "equal",
+            "a": "unequal"
+          },
+          {
+            "q": "plug",
+            "a": "unplug"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the word that is NOT an opposite of the word in capitals.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "HARD :",
+            "options": [
+              "soft",
+              "easy",
+              "tough"
+            ],
+            "after": "",
+            "a": "tough"
+          },
+          {
+            "before": "OLD :",
+            "options": [
+              "new",
+              "young",
+              "ancient"
+            ],
+            "after": "",
+            "a": "ancient"
+          },
+          {
+            "before": "RIGHT :",
+            "options": [
+              "left",
+              "wrong",
+              "correct"
+            ],
+            "after": "",
+            "a": "correct"
+          },
+          {
+            "before": "SHORT :",
+            "options": [
+              "long",
+              "tall",
+              "small"
+            ],
+            "after": "",
+            "a": "small"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the opposite of the word in brackets.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ice is a solid, and water is a ___ (solid).",
+            "a": "liquid"
+          },
+          {
+            "q": "Our volcano was a success, but Joy's rocket was a ___ (success).",
+            "a": "failure / flop"
+          },
+          {
+            "q": "The thermometer showed the water getting colder, not ___ (colder).",
+            "a": "hotter / warmer"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each word to its opposite.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "melt",
+            "right": "freeze"
+          },
+          {
+            "left": "mix",
+            "right": "separate"
+          },
+          {
+            "left": "lighter",
+            "right": "heavier"
+          },
+          {
+            "left": "strongest",
+            "right": "weakest"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write about an experiment. Use two pairs of opposites.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"The ice was hard and cold. Soon it was soft and warm.\""
+      }
+    ]
   }
 ]

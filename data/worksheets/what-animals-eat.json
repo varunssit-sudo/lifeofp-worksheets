@@ -645,5 +645,1302 @@
         "a": "Answers will vary, e.g. leaves → caterpillar → bird. It must start with a plant."
       }
     ]
+  },
+  {
+    "id": "what-animals-eat-06",
+    "topic": "what-animals-eat",
+    "number": 6,
+    "level": "Practice",
+    "title": "The Big Aquarium at the Mall",
+    "intro": "Ritu and Max visit the big aquarium at a mall in Dubai. Sea animals eat many kinds of food.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each sea animal to its food.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "Shark",
+            "right": "smaller fish"
+          },
+          {
+            "left": "Blue whale",
+            "right": "tiny krill"
+          },
+          {
+            "left": "Crab",
+            "right": "scraps on the sea floor"
+          },
+          {
+            "left": "Seahorse",
+            "right": "tiny shrimps"
+          },
+          {
+            "left": "Octopus",
+            "right": "crabs and clams"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A shark has many",
+            "options": [
+              "sharp",
+              "flat"
+            ],
+            "after": "teeth.",
+            "a": "sharp"
+          },
+          {
+            "before": "Some whales",
+            "options": [
+              "filter",
+              "chew"
+            ],
+            "after": "tiny food out of the water.",
+            "a": "filter"
+          },
+          {
+            "before": "A dugong eats",
+            "options": [
+              "seagrass",
+              "fish"
+            ],
+            "after": ".",
+            "a": "seagrass"
+          },
+          {
+            "before": "A starfish eats",
+            "options": [
+              "mussels",
+              "sand"
+            ],
+            "after": ".",
+            "a": "mussels"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Some fish eat tiny plants that float in the sea.",
+            "a": true
+          },
+          {
+            "q": "Whales eat only big sharks.",
+            "a": false
+          },
+          {
+            "q": "Crabs use their claws to pick up food.",
+            "a": true
+          },
+          {
+            "q": "Sea animals do not need food.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "At feeding time, a diver ___ the fish.",
+            "a": "feeds"
+          },
+          {
+            "q": "A shark eats other animals, so it is a ___.",
+            "a": "carnivore"
+          },
+          {
+            "q": "A dugong eats only plants, so it is a ___.",
+            "a": "herbivore"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write the name of one sea animal and what it eats.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. A sea turtle eats seagrass and jellyfish. Accept any correct pair."
+      }
+    ]
+  },
+  {
+    "id": "what-animals-eat-07",
+    "topic": "what-animals-eat",
+    "number": 7,
+    "level": "Practice",
+    "title": "Jungle Safari at Jim Corbett",
+    "intro": "Aryan and Elise ride a jeep through Jim Corbett National Park. They spot a tiger, elephants and a peacock.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the animals.",
+        "marks": 6,
+        "groups": [
+          "Herbivore",
+          "Carnivore",
+          "Omnivore"
+        ],
+        "words": [
+          "tiger",
+          "sloth bear",
+          "python",
+          "sambar deer",
+          "wild boar",
+          "langur",
+          "elephant",
+          "otter",
+          "peacock"
+        ],
+        "a": {
+          "sambar deer": "Herbivore",
+          "langur": "Herbivore",
+          "elephant": "Herbivore",
+          "tiger": "Carnivore",
+          "python": "Carnivore",
+          "otter": "Carnivore",
+          "sloth bear": "Omnivore",
+          "peacock": "Omnivore",
+          "wild boar": "Omnivore"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A tiger hunts",
+            "options": [
+              "deer",
+              "grass"
+            ],
+            "after": "for food.",
+            "a": "deer"
+          },
+          {
+            "before": "A peacock eats seeds and",
+            "options": [
+              "insects",
+              "rocks"
+            ],
+            "after": ".",
+            "a": "insects"
+          },
+          {
+            "before": "An elephant eats a",
+            "options": [
+              "lot",
+              "little"
+            ],
+            "after": "of plants each day.",
+            "a": "lot"
+          },
+          {
+            "before": "A sloth bear uses its long snout to suck up",
+            "options": [
+              "termites",
+              "leaves"
+            ],
+            "after": ".",
+            "a": "termites"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Tigers are herbivores.",
+            "a": false
+          },
+          {
+            "q": "Langurs eat leaves, fruits and flowers.",
+            "a": true
+          },
+          {
+            "q": "Wild boars eat roots, insects and fruits.",
+            "a": true
+          },
+          {
+            "q": "Elephants eat meat when they are hungry.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "An animal that is hunted for food is called ___.",
+            "a": "prey"
+          },
+          {
+            "q": "The tiger hunts other animals, so it is a ___.",
+            "a": "predator / carnivore / hunter"
+          },
+          {
+            "q": "The deer keep watch for the hungry ___.",
+            "a": "tiger / tigers"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why does a tiger need sharp teeth and claws?",
+        "marks": 2,
+        "lines": 2,
+        "a": "To catch and hold its prey and to tear meat."
+      }
+    ]
+  },
+  {
+    "id": "what-animals-eat-08",
+    "topic": "what-animals-eat",
+    "number": 8,
+    "level": "Practice",
+    "title": "Minibeasts in the School Garden",
+    "intro": "Shreya and Oscar look for small creatures in the school garden in Abu Dhabi. Each one eats something different.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each minibeast to its food.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "Caterpillar",
+            "right": "leaves"
+          },
+          {
+            "left": "Ant",
+            "right": "sweet crumbs and seeds"
+          },
+          {
+            "left": "Ladybird",
+            "right": "tiny insects called aphids"
+          },
+          {
+            "left": "Spider",
+            "right": "flies caught in its web"
+          },
+          {
+            "left": "Earthworm",
+            "right": "dead leaves in the soil"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Some mosquitoes drink blood.",
+            "a": true
+          },
+          {
+            "q": "Ants carry food back to their nest.",
+            "a": true
+          },
+          {
+            "q": "Earthworms eat plastic.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A spider is a",
+            "options": [
+              "carnivore",
+              "herbivore"
+            ],
+            "after": ".",
+            "a": "carnivore"
+          },
+          {
+            "before": "A caterpillar is a",
+            "options": [
+              "herbivore",
+              "carnivore"
+            ],
+            "after": ".",
+            "a": "herbivore"
+          },
+          {
+            "before": "Gardeners like ladybirds because they eat",
+            "options": [
+              "pests",
+              "flowers"
+            ],
+            "after": ".",
+            "a": "pests"
+          },
+          {
+            "before": "A praying mantis catches",
+            "options": [
+              "insects",
+              "seeds"
+            ],
+            "after": "with its front legs.",
+            "a": "insects"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the minibeasts.",
+        "marks": 3,
+        "groups": [
+          "Eats plants",
+          "Eats other animals"
+        ],
+        "words": [
+          "grasshopper",
+          "praying mantis",
+          "snail",
+          "spider",
+          "caterpillar",
+          "ladybird"
+        ],
+        "a": {
+          "caterpillar": "Eats plants",
+          "snail": "Eats plants",
+          "grasshopper": "Eats plants",
+          "spider": "Eats other animals",
+          "ladybird": "Eats other animals",
+          "praying mantis": "Eats other animals"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Why are ladybirds good for a garden?",
+        "marks": 2,
+        "lines": 2,
+        "a": "They eat aphids, which are tiny pests that harm plants."
+      }
+    ]
+  },
+  {
+    "id": "what-animals-eat-09",
+    "topic": "what-animals-eat",
+    "number": 9,
+    "level": "Practice",
+    "title": "Desert Animals of the UAE",
+    "intro": "At a desert wildlife park, Hessa and Luca learn about animals that live in the hot sand.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the desert animals.",
+        "marks": 3,
+        "groups": [
+          "Herbivore",
+          "Carnivore"
+        ],
+        "words": [
+          "spiny-tailed lizard",
+          "sand cat",
+          "sand gazelle",
+          "falcon",
+          "Arabian oryx",
+          "scorpion"
+        ],
+        "a": {
+          "Arabian oryx": "Herbivore",
+          "sand gazelle": "Herbivore",
+          "spiny-tailed lizard": "Herbivore",
+          "falcon": "Carnivore",
+          "scorpion": "Carnivore",
+          "sand cat": "Carnivore"
+        }
+      },
+      {
+        "type": "match",
+        "title": "Match each animal to its food.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Camel",
+            "right": "thorny desert plants"
+          },
+          {
+            "left": "Falcon",
+            "right": "small birds"
+          },
+          {
+            "left": "Red fox",
+            "right": "insects, mice and fruit"
+          },
+          {
+            "left": "Scorpion",
+            "right": "insects and spiders"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Camels can eat thorny plants without hurting their mouths.",
+            "a": true
+          },
+          {
+            "q": "An oryx gets some water from the plants it eats.",
+            "a": true
+          },
+          {
+            "q": "A falcon is a herbivore.",
+            "a": false
+          },
+          {
+            "q": "Many desert animals look for food at night when it is cooler.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The sand cat hunts at",
+            "options": [
+              "night",
+              "noon"
+            ],
+            "after": "when it is cooler.",
+            "a": "night"
+          },
+          {
+            "before": "A red fox eats plants and animals, so it is an",
+            "options": [
+              "omnivore",
+              "herbivore"
+            ],
+            "after": ".",
+            "a": "omnivore"
+          },
+          {
+            "before": "Falconers in the UAE train falcons to",
+            "options": [
+              "hunt",
+              "sing"
+            ],
+            "after": ".",
+            "a": "hunt"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why is it hard to find food in the desert?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Little rain falls, so few plants grow and there is less food for animals."
+      }
+    ]
+  },
+  {
+    "id": "what-animals-eat-10",
+    "topic": "what-animals-eat",
+    "number": 10,
+    "level": "Practice",
+    "title": "The Pet Shop in Karama",
+    "intro": "Neha and Adam visit a pet shop to buy food for their pets. Each pet needs the right food.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each pet to its food.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "Hamster",
+            "right": "seeds and grains"
+          },
+          {
+            "left": "Budgie",
+            "right": "millet seeds"
+          },
+          {
+            "left": "Goldfish",
+            "right": "fish flakes"
+          },
+          {
+            "left": "Tortoise",
+            "right": "leafy greens and fruit"
+          },
+          {
+            "left": "Guinea pig",
+            "right": "hay and vegetables"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Pets need clean",
+            "options": [
+              "water",
+              "juice"
+            ],
+            "after": "every day.",
+            "a": "water"
+          },
+          {
+            "before": "Chocolate is",
+            "options": [
+              "harmful",
+              "good"
+            ],
+            "after": "for dogs.",
+            "a": "harmful"
+          },
+          {
+            "before": "Feed a goldfish",
+            "options": [
+              "a little",
+              "a lot"
+            ],
+            "after": "at a time.",
+            "a": "a little"
+          },
+          {
+            "before": "A guinea pig is a",
+            "options": [
+              "herbivore",
+              "carnivore"
+            ],
+            "after": ".",
+            "a": "herbivore"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Fish flakes cost ₹120 and a bag of seeds costs ₹85. Together they cost ₹___.",
+            "a": "205"
+          },
+          {
+            "q": "Neha gives her hamster 2 spoons of seeds each day. In 7 days that is ___ spoons.",
+            "a": "14"
+          },
+          {
+            "q": "Adam has ₹200. He buys tortoise food for ₹145. He has ₹___ left.",
+            "a": "55"
+          },
+          {
+            "q": "The shop has 9 bags of hay and gets 16 more. Now it has ___ bags.",
+            "a": "25"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Pets should get their food at about the same time each day.",
+            "a": true
+          },
+          {
+            "q": "A tortoise eats only meat.",
+            "a": false
+          },
+          {
+            "q": "Too much food can make a goldfish sick.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write how you would look after a pet's food and water.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Give the right food at the same time each day, not too much, and fresh clean water."
+      }
+    ]
+  },
+  {
+    "id": "what-animals-eat-11",
+    "topic": "what-animals-eat",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Checking Zoe's Animal Chart",
+    "intro": "Zoe made a chart of what animals eat for her class. Some of her facts are wrong.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is Zoe right? Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "A cheetah is a herbivore.",
+            "a": false
+          },
+          {
+            "q": "A tortoise eats leafy plants.",
+            "a": true
+          },
+          {
+            "q": "A squirrel eats nuts and seeds.",
+            "a": true
+          },
+          {
+            "q": "A frog eats grass.",
+            "a": false
+          },
+          {
+            "q": "A goat is a carnivore.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Fix each sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "A tiger eats leaves and fruit.",
+            "a": "A tiger eats meat. / A tiger eats other animals."
+          },
+          {
+            "q": "An owl is a herbivore.",
+            "a": "An owl is a carnivore."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the odd one out.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "hippo",
+              "panda",
+              "koala",
+              "eagle"
+            ],
+            "after": "",
+            "a": "eagle"
+          },
+          {
+            "before": "",
+            "options": [
+              "shark",
+              "hawk",
+              "polar bear",
+              "cow"
+            ],
+            "after": "",
+            "a": "cow"
+          },
+          {
+            "before": "",
+            "options": [
+              "bear",
+              "crow",
+              "pig",
+              "lion"
+            ],
+            "after": "",
+            "a": "lion"
+          },
+          {
+            "before": "",
+            "options": [
+              "hummingbird",
+              "butterfly",
+              "bee",
+              "spider"
+            ],
+            "after": "",
+            "a": "spider"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Complete each food chain.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "grass → ___ → lion",
+            "a": "zebra / deer / buffalo"
+          },
+          {
+            "q": "leaves → caterpillar → ___",
+            "a": "bird / sparrow / lizard"
+          },
+          {
+            "q": "seeds → mouse → ___",
+            "a": "owl / snake / cat"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Zoe wrote: \"All birds eat seeds.\" Is she right? Write why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "No. Some birds eat seeds, but others eat fish, insects, meat or nectar; e.g. an eagle eats meat."
+      }
+    ]
+  },
+  {
+    "id": "what-animals-eat-12",
+    "topic": "what-animals-eat",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Food Chains in the Mangroves",
+    "intro": "Ahmed and Priya kayak through the mangroves in Abu Dhabi. Crabs, small fish and herons all find food here.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Look at this food chain: mangrove leaves → crab → heron.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The crab eats the",
+            "options": [
+              "leaves",
+              "heron"
+            ],
+            "after": ".",
+            "a": "leaves"
+          },
+          {
+            "before": "The animal at the end of the chain is the",
+            "options": [
+              "heron",
+              "crab"
+            ],
+            "after": ".",
+            "a": "heron"
+          },
+          {
+            "before": "If all the crabs were gone, the herons would have",
+            "options": [
+              "less",
+              "more"
+            ],
+            "after": "food.",
+            "a": "less"
+          },
+          {
+            "before": "A food chain shows",
+            "options": [
+              "who eats what",
+              "how tall animals are"
+            ],
+            "after": ".",
+            "a": "who eats what"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Complete each food chain.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "tiny water plants → small fish → ___",
+            "a": "heron / bird / big fish"
+          },
+          {
+            "q": "___ → grasshopper → lizard",
+            "a": "grass / leaves / plants"
+          },
+          {
+            "q": "flower nectar → butterfly → ___",
+            "a": "bird / spider / lizard"
+          },
+          {
+            "q": "grains → ___ → snake",
+            "a": "rat / mouse"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the living things.",
+        "marks": 3,
+        "groups": [
+          "Makes its own food",
+          "Eats other living things"
+        ],
+        "words": [
+          "algae",
+          "small fish",
+          "seagrass",
+          "crab",
+          "mangrove tree",
+          "heron"
+        ],
+        "a": {
+          "mangrove tree": "Makes its own food",
+          "seagrass": "Makes its own food",
+          "algae": "Makes its own food",
+          "crab": "Eats other living things",
+          "heron": "Eats other living things",
+          "small fish": "Eats other living things"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Every food chain begins with a green plant.",
+            "a": true
+          },
+          {
+            "q": "Plants get their food by eating animals.",
+            "a": false
+          },
+          {
+            "q": "Without plants, animals would have no food.",
+            "a": true
+          },
+          {
+            "q": "The heron eats the mangrove tree.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "What would happen to the herons if people cut down all the mangroves? Write why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. The herons would go hungry, because the crabs and fish that feed and live in the mangroves would be gone."
+      }
+    ]
+  },
+  {
+    "id": "what-animals-eat-13",
+    "topic": "what-animals-eat",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Feeding Time Sums at the Zoo",
+    "intro": "Zookeeper Mr D'Souza feeds the animals at the Mysuru Zoo. Help him work out how much food he needs.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve the problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Each giraffe eats 6 bundles of leaves a day. 4 giraffes eat ___ bundles.",
+            "a": "24"
+          },
+          {
+            "q": "The monkeys get 35 bananas in the morning and 28 in the evening. That is ___ bananas.",
+            "a": "63"
+          },
+          {
+            "q": "The keeper had 90 fish. The seals ate 46 and the penguins ate 27. ___ fish are left.",
+            "a": "17"
+          },
+          {
+            "q": "5 parrots each get 3 handfuls of seeds. That is ___ handfuls.",
+            "a": "15"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Work out the sums.",
+        "marks": 4,
+        "items": [
+          {
+            "top": 248,
+            "op": "+",
+            "bottom": 136,
+            "a": 384
+          },
+          {
+            "top": 500,
+            "op": "-",
+            "bottom": 275,
+            "a": 225
+          },
+          {
+            "top": 23,
+            "op": "×",
+            "bottom": 3,
+            "a": 69
+          },
+          {
+            "top": 174,
+            "op": "-",
+            "bottom": 58,
+            "a": 116
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The keeper gives the hippo",
+            "options": [
+              "grass and fruit",
+              "raw meat"
+            ],
+            "after": ".",
+            "a": "grass and fruit"
+          },
+          {
+            "before": "The tiger gets",
+            "options": [
+              "raw meat",
+              "bananas"
+            ],
+            "after": ".",
+            "a": "raw meat"
+          },
+          {
+            "before": "The bear gets fish, fruit and honey because it is an",
+            "options": [
+              "omnivore",
+              "herbivore"
+            ],
+            "after": ".",
+            "a": "omnivore"
+          },
+          {
+            "before": "Visitors must",
+            "options": [
+              "not feed",
+              "feed"
+            ],
+            "after": "the animals.",
+            "a": "not feed"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "4 giraffes that eat 6 bundles each eat more than 20 bundles.",
+            "a": true
+          },
+          {
+            "q": "35 bananas and 28 bananas make fewer than 60 bananas.",
+            "a": false
+          },
+          {
+            "q": "2 lions that eat 8 kg of meat each eat 16 kg in all.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why should visitors not feed the zoo animals?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Our food can make them sick; the keepers give each animal the right food."
+      }
+    ]
+  },
+  {
+    "id": "what-animals-eat-14",
+    "topic": "what-animals-eat",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Animal Riddles at the Nature Camp",
+    "intro": "At a nature camp in Coorg, Ishita and Mateo play an animal riddle game around the campfire.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve the riddles.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "I hang upside down by day and eat fruit at night. I am a fruit ___.",
+            "a": "bat"
+          },
+          {
+            "q": "I have a long sticky tongue and I eat ants and termites. I am an ___.",
+            "a": "anteater"
+          },
+          {
+            "q": "I am a bird with a huge curved beak, and I love to eat figs. I am a ___.",
+            "a": "hornbill"
+          },
+          {
+            "q": "I am a big bird with a pouch under my beak, and I scoop up fish. I am a ___.",
+            "a": "pelican"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Think and circle the answer.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "An animal with sharp claws and pointed teeth is most likely a",
+            "options": [
+              "carnivore",
+              "herbivore"
+            ],
+            "after": ".",
+            "a": "carnivore"
+          },
+          {
+            "before": "An animal with flat teeth that chews plants all day is most likely a",
+            "options": [
+              "herbivore",
+              "carnivore"
+            ],
+            "after": ".",
+            "a": "herbivore"
+          },
+          {
+            "before": "An animal that eats berries in summer and fish in autumn is an",
+            "options": [
+              "omnivore",
+              "herbivore"
+            ],
+            "after": ".",
+            "a": "omnivore"
+          },
+          {
+            "before": "Eyes at the front of the head help a",
+            "options": [
+              "hunter",
+              "grass eater"
+            ],
+            "after": "to catch its prey.",
+            "a": "hunter"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the clue to the animal.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "eats only eucalyptus leaves",
+            "right": "koala"
+          },
+          {
+            "left": "catches insects with a long, sticky tongue",
+            "right": "chameleon"
+          },
+          {
+            "left": "munches bamboo all day",
+            "right": "giant panda"
+          },
+          {
+            "left": "eats dead animals it finds",
+            "right": "vulture"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Some animals eat different food in different seasons.",
+            "a": true
+          },
+          {
+            "q": "An animal with a hooked beak and sharp claws is likely a hunter.",
+            "a": true
+          },
+          {
+            "q": "Every animal can eat every kind of food.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write your own riddle about an animal and what it eats.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. I am grey and huge, and I use my trunk to eat grass. Who am I? (an elephant)"
+      }
+    ]
+  },
+  {
+    "id": "what-animals-eat-15",
+    "topic": "what-animals-eat",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Wild Birds at Bharatpur",
+    "intro": "At Keoladeo bird sanctuary near Bharatpur, Ranger Joseph shows Aditi and Noel how wild animals find their food.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the animals.",
+        "marks": 6,
+        "groups": [
+          "Herbivore",
+          "Carnivore",
+          "Omnivore"
+        ],
+        "words": [
+          "python",
+          "jackal",
+          "kingfisher",
+          "blackbuck",
+          "rhesus monkey",
+          "nilgai",
+          "porcupine",
+          "painted stork",
+          "myna"
+        ],
+        "a": {
+          "blackbuck": "Herbivore",
+          "nilgai": "Herbivore",
+          "porcupine": "Herbivore",
+          "python": "Carnivore",
+          "kingfisher": "Carnivore",
+          "painted stork": "Carnivore",
+          "jackal": "Omnivore",
+          "myna": "Omnivore",
+          "rhesus monkey": "Omnivore"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Many birds fly to Bharatpur in winter to find",
+            "options": [
+              "food",
+              "snow"
+            ],
+            "after": ".",
+            "a": "food"
+          },
+          {
+            "before": "Feeding chips to wild birds can make them",
+            "options": [
+              "sick",
+              "stronger"
+            ],
+            "after": ".",
+            "a": "sick"
+          },
+          {
+            "before": "Animals that eat dead animals are called",
+            "options": [
+              "scavengers",
+              "herbivores"
+            ],
+            "after": ".",
+            "a": "scavengers"
+          },
+          {
+            "before": "Earthworms help turn dead leaves into",
+            "options": [
+              "soil",
+              "plastic"
+            ],
+            "after": ".",
+            "a": "soil"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We should leave our food scraps for wild animals.",
+            "a": false
+          },
+          {
+            "q": "Wild animals know how to find their own food.",
+            "a": true
+          },
+          {
+            "q": "A kingfisher dives into the water to catch fish.",
+            "a": true
+          },
+          {
+            "q": "When a lake dries up, the birds that eat its fish must move away.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A stork catches 4 fish in the morning and 5 in the evening. In 2 days it catches ___ fish.",
+            "a": "18"
+          },
+          {
+            "q": "Joseph counts 48 storks. 19 fly away, then 7 more land. Now there are ___ storks.",
+            "a": "36"
+          },
+          {
+            "q": "5 monkeys each eat 4 figs. They eat ___ figs in all.",
+            "a": "20"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two rules for visitors at a bird sanctuary.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. do not feed the animals, keep quiet, take your litter home, stay on the path."
+      }
+    ]
   }
 ]

@@ -619,5 +619,1251 @@
         "a": "Answers will vary. The answer is 625. Look for: 8 + 7 = 15, carry 1 ten; 5 + 6 + 1 = 12, carry 1 hundred."
       }
     ]
+  },
+  {
+    "id": "addition-with-grouping-06",
+    "topic": "addition-with-grouping",
+    "number": 6,
+    "level": "Practice",
+    "title": "The Onam Flower Carpet",
+    "intro": "Meera and her cousin Felix are making a pookalam, a flower carpet, for Onam. Carry a ten when the ones make 10 or more.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Add. Carry a ten when you need to.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "27",
+            "op": "+",
+            "bottom": "46",
+            "a": "73"
+          },
+          {
+            "top": "38",
+            "op": "+",
+            "bottom": "45",
+            "a": "83"
+          },
+          {
+            "top": "49",
+            "op": "+",
+            "bottom": "26",
+            "a": "75"
+          },
+          {
+            "top": "17",
+            "op": "+",
+            "bottom": "68",
+            "a": "85"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "3 tens and 14 ones = ___",
+            "a": "44"
+          },
+          {
+            "q": "5 tens and 18 ones = ___",
+            "a": "68"
+          },
+          {
+            "q": "26 ones = 2 tens and ___ ones",
+            "a": "6"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the sum that needs a carry.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "42 + 35",
+              "26 + 47",
+              "51 + 18"
+            ],
+            "after": "",
+            "a": "26 + 47"
+          },
+          {
+            "before": "",
+            "options": [
+              "33 + 59",
+              "70 + 24",
+              "62 + 16"
+            ],
+            "after": "",
+            "a": "33 + 59"
+          },
+          {
+            "before": "",
+            "options": [
+              "44 + 44",
+              "15 + 72",
+              "58 + 37"
+            ],
+            "after": "",
+            "a": "58 + 37"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each sum to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "18 + 57",
+            "right": "75"
+          },
+          {
+            "left": "36 + 36",
+            "right": "72"
+          },
+          {
+            "left": "47 + 39",
+            "right": "86"
+          },
+          {
+            "left": "25 + 68",
+            "right": "93"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the flower problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Meera used 46 yellow petals and 38 orange petals. She used ___ petals.",
+            "a": "84"
+          },
+          {
+            "q": "Felix picked 29 marigolds in the morning and 53 in the evening. He picked ___ marigolds.",
+            "a": "82"
+          },
+          {
+            "q": "Mum paid ₹57 for jasmine and ₹35 for roses. She paid ₹ ___.",
+            "a": "92"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-with-grouping-07",
+    "topic": "addition-with-grouping",
+    "number": 7,
+    "level": "Practice",
+    "title": "A Trip to Global Village",
+    "intro": "Hiro and Aaliyah are at Global Village in Dubai with their parents. Add the 3-digit numbers. Carry in the ones and the tens.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Add. Carry more than once if you need to.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "248",
+            "op": "+",
+            "bottom": "375",
+            "a": "623"
+          },
+          {
+            "top": "167",
+            "op": "+",
+            "bottom": "286",
+            "a": "453"
+          },
+          {
+            "top": "339",
+            "op": "+",
+            "bottom": "492",
+            "a": "831"
+          },
+          {
+            "top": "456",
+            "op": "+",
+            "bottom": "178",
+            "a": "634"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In 248 + 375, we carry 1 ten and then 1 hundred.",
+            "a": true
+          },
+          {
+            "q": "167 + 286 = 453",
+            "a": true
+          },
+          {
+            "q": "339 + 492 = 721",
+            "a": false
+          },
+          {
+            "q": "When the tens add up to 10 or more, we carry 1 hundred.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Add. Write the answer.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "526 + 85",
+            "a": "611"
+          },
+          {
+            "q": "609 + 97",
+            "a": "706"
+          },
+          {
+            "q": "384 + 149",
+            "a": "533"
+          },
+          {
+            "q": "275 + 365",
+            "a": "640"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the Global Village problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A shawl costs ₹385 and a wooden toy costs ₹247. Together they cost ₹ ___.",
+            "a": "632"
+          },
+          {
+            "q": "Hiro saw 176 lanterns in one pavilion and 158 in another. He saw ___ lanterns.",
+            "a": "334"
+          },
+          {
+            "q": "Aaliyah walked 465 steps to one stall and 287 steps to the next. She walked ___ steps.",
+            "a": "752"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: Why do we start adding from the ones?",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Look for: so that if the ones make 10 or more, we can carry the ten to the tens place."
+      }
+    ]
+  },
+  {
+    "id": "addition-with-grouping-08",
+    "topic": "addition-with-grouping",
+    "number": 8,
+    "level": "Practice",
+    "title": "Packing the Picnic Basket",
+    "intro": "Class 2 is going on a picnic to Mushrif Park. Ava and Rehan pack the snacks. To add three numbers, add two first.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Add the three numbers.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "16 + 27 + 35",
+            "a": "78"
+          },
+          {
+            "q": "29 + 14 + 48",
+            "a": "91"
+          },
+          {
+            "q": "37 + 25 + 46",
+            "a": "108"
+          },
+          {
+            "q": "53 + 18 + 24",
+            "a": "95"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Where do you carry? Sort the sums.",
+        "marks": 6,
+        "groups": [
+          "Carry from ones",
+          "Carry from tens"
+        ],
+        "words": [
+          "236 + 148",
+          "352 + 273",
+          "419 + 235",
+          "584 + 163",
+          "127 + 456",
+          "641 + 285"
+        ],
+        "a": {
+          "236 + 148": "Carry from ones",
+          "352 + 273": "Carry from tens",
+          "419 + 235": "Carry from ones",
+          "584 + 163": "Carry from tens",
+          "127 + 456": "Carry from ones",
+          "641 + 285": "Carry from tens"
+        }
+      },
+      {
+        "type": "column",
+        "title": "Add the snacks.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "263",
+            "op": "+",
+            "bottom": "158",
+            "a": "421"
+          },
+          {
+            "top": "347",
+            "op": "+",
+            "bottom": "276",
+            "a": "623"
+          },
+          {
+            "top": "185",
+            "op": "+",
+            "bottom": "439",
+            "a": "624"
+          },
+          {
+            "top": "528",
+            "op": "+",
+            "bottom": "394",
+            "a": "922"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "16 + 27 + 35 is the same as 43 + 35.",
+            "a": true
+          },
+          {
+            "q": "We can add three numbers in any order and get the same answer.",
+            "a": true
+          },
+          {
+            "q": "29 + 14 + 48 = 81",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the picnic problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ava packed 24 sandwiches, 36 apples and 19 bananas. She packed ___ things.",
+            "a": "79"
+          },
+          {
+            "q": "Rehan carried 45 juice boxes and 38 water bottles. He carried ___ drinks.",
+            "a": "83"
+          },
+          {
+            "q": "The teacher spent ₹165 on fruit and ₹178 on bread. She spent ₹ ___.",
+            "a": "343"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-with-grouping-09",
+    "topic": "addition-with-grouping",
+    "number": 9,
+    "level": "Practice",
+    "title": "The Mango Orchard in Ratnagiri",
+    "intro": "Kavya visits her uncle's mango orchard in Ratnagiri. Use tens and ones to add the mangoes.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the number.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "6 tens 15 ones",
+            "a": "75"
+          },
+          {
+            "q": "4 tens 12 ones",
+            "a": "52"
+          },
+          {
+            "q": "7 tens 11 ones",
+            "a": "81"
+          },
+          {
+            "q": "2 tens 19 ones",
+            "a": "39"
+          },
+          {
+            "q": "8 tens 16 ones",
+            "a": "96"
+          },
+          {
+            "q": "3 hundreds 14 tens",
+            "a": "440"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add. The answers go past 100.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "67",
+            "op": "+",
+            "bottom": "58",
+            "a": "125"
+          },
+          {
+            "top": "86",
+            "op": "+",
+            "bottom": "47",
+            "a": "133"
+          },
+          {
+            "top": "79",
+            "op": "+",
+            "bottom": "94",
+            "a": "173"
+          },
+          {
+            "top": "58",
+            "op": "+",
+            "bottom": "69",
+            "a": "127"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the missing digit.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "3_ + 45 = 82. The missing digit is ___.",
+            "a": "7"
+          },
+          {
+            "q": "5_ + 29 = 84. The missing digit is ___.",
+            "a": "5"
+          },
+          {
+            "q": "_8 + 34 = 72. The missing digit is ___.",
+            "a": "3"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the mango problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Kavya picked 68 Alphonso mangoes and 56 Kesar mangoes. She picked ___ mangoes.",
+            "a": "124"
+          },
+          {
+            "q": "Uncle packed 74 boxes on Monday and 57 boxes on Tuesday. He packed ___ boxes.",
+            "a": "131"
+          },
+          {
+            "q": "A crate of mangoes costs ₹95 and a basket costs ₹28. Both cost ₹ ___.",
+            "a": "123"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: Kavya says 6 tens 15 ones is 615. Is she right? Say why.",
+        "marks": 2,
+        "lines": 1,
+        "a": "No. 15 ones is 1 ten and 5 ones, so 6 tens 15 ones is 7 tens 5 ones = 75."
+      }
+    ]
+  },
+  {
+    "id": "addition-with-grouping-10",
+    "topic": "addition-with-grouping",
+    "number": 10,
+    "level": "Practice",
+    "title": "Riding the Dubai Metro",
+    "intro": "Yusuf and Grace ride the Dubai Metro to the mall. Add the people, the seats and the kilometres.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Add. Carry where you need to.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "346",
+            "op": "+",
+            "bottom": "78",
+            "a": "424"
+          },
+          {
+            "top": "518",
+            "op": "+",
+            "bottom": "93",
+            "a": "611"
+          },
+          {
+            "top": "275",
+            "op": "+",
+            "bottom": "46",
+            "a": "321"
+          },
+          {
+            "top": "692",
+            "op": "+",
+            "bottom": "58",
+            "a": "750"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each sum to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "287 + 145",
+            "right": "432"
+          },
+          {
+            "left": "156 + 367",
+            "right": "523"
+          },
+          {
+            "left": "409 + 228",
+            "right": "637"
+          },
+          {
+            "left": "593 + 179",
+            "right": "772"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "346 + 78 needs a carry in the ones and in the tens.",
+            "a": true
+          },
+          {
+            "q": "518 + 93 = 601",
+            "a": false
+          },
+          {
+            "q": "The answer to 275 + 46 has 3 hundreds.",
+            "a": true
+          },
+          {
+            "q": "If the tens make 12, we write 2 and carry 1 hundred.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the metro problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There were 238 people on the train. 187 more got on. Now there are ___ people.",
+            "a": "425"
+          },
+          {
+            "q": "The train went 47 km in the morning and 56 km in the afternoon. It went ___ km.",
+            "a": "103"
+          },
+          {
+            "q": "A carriage has 64 seats and space for 58 people to stand. It holds ___ people.",
+            "a": "122"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: Make up your own metro problem that needs a carry. Solve it.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. 45 people got on and 37 more got on. 45 + 37 = 82. Check that the ones make 10 or more."
+      }
+    ]
+  },
+  {
+    "id": "addition-with-grouping-11",
+    "topic": "addition-with-grouping",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Holi Colour Stall",
+    "intro": "Tanvi and Leo run a Holi colour stall in their colony. Some problems need two steps, so read carefully.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Add. Carry more than once.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "478",
+            "op": "+",
+            "bottom": "356",
+            "a": "834"
+          },
+          {
+            "top": "589",
+            "op": "+",
+            "bottom": "267",
+            "a": "856"
+          },
+          {
+            "top": "395",
+            "op": "+",
+            "bottom": "428",
+            "a": "823"
+          },
+          {
+            "top": "667",
+            "op": "+",
+            "bottom": "276",
+            "a": "943"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the two-step problems.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "Tanvi sold 135 packets of red, 148 of green and 96 of yellow. She sold ___ packets.",
+            "a": "379"
+          },
+          {
+            "q": "Leo had ₹245. He earned ₹178 on Monday and ₹165 on Tuesday. Now he has ₹ ___.",
+            "a": "588"
+          },
+          {
+            "q": "A water gun costs ₹86. A pack of balloons costs ₹48. Leo buys 1 gun and 2 packs. He pays ₹ ___.",
+            "a": "182"
+          },
+          {
+            "q": "Tanvi filled 128 balloons. Leo filled 45 more than Tanvi. Together they filled ___ balloons.",
+            "a": "301"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the sum that is more than the number shown.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "More than 500:",
+            "options": [
+              "263 + 219",
+              "348 + 175",
+              "196 + 287"
+            ],
+            "after": "",
+            "a": "348 + 175"
+          },
+          {
+            "before": "More than 700:",
+            "options": [
+              "417 + 265",
+              "389 + 324",
+              "452 + 238"
+            ],
+            "after": "",
+            "a": "389 + 324"
+          },
+          {
+            "before": "More than 500:",
+            "options": [
+              "135 + 248",
+              "276 + 186",
+              "309 + 197"
+            ],
+            "after": "",
+            "a": "309 + 197"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "478 + 356 > 800",
+            "a": true
+          },
+          {
+            "q": "295 + 305 = 600",
+            "a": true
+          },
+          {
+            "q": "167 + 245 < 400",
+            "a": false
+          },
+          {
+            "q": "The biggest answer we can get by adding two 2-digit numbers is 198.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: Tell how you worked out the water gun problem.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary. Look for: 86 + 48 + 48, or 48 + 48 = 96 and then 86 + 96 = 182."
+      }
+    ]
+  },
+  {
+    "id": "addition-with-grouping-12",
+    "topic": "addition-with-grouping",
+    "number": 12,
+    "level": "Challenge",
+    "title": "The Maths Club Detectives",
+    "intro": "At Maths Club, Ms Rao has written some wrong answers on purpose. Find the mistakes and fix them.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is the answer right? Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "457 + 268 = 725",
+            "a": true
+          },
+          {
+            "q": "384 + 239 = 513",
+            "a": false
+          },
+          {
+            "q": "76 + 58 = 1214",
+            "a": false
+          },
+          {
+            "q": "529 + 197 = 726",
+            "a": true
+          },
+          {
+            "q": "643 + 178 = 811",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Now do the wrong ones the right way.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "384",
+            "op": "+",
+            "bottom": "239",
+            "a": "623"
+          },
+          {
+            "top": "76",
+            "op": "+",
+            "bottom": "58",
+            "a": "134"
+          },
+          {
+            "top": "643",
+            "op": "+",
+            "bottom": "178",
+            "a": "821"
+          },
+          {
+            "top": "285",
+            "op": "+",
+            "bottom": "567",
+            "a": "852"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the missing number.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "___ + 47 = 92.",
+            "options": [
+              "35",
+              "45",
+              "55"
+            ],
+            "after": "",
+            "a": "45"
+          },
+          {
+            "before": "136 + ___ = 300.",
+            "options": [
+              "164",
+              "174",
+              "264"
+            ],
+            "after": "",
+            "a": "164"
+          },
+          {
+            "before": "___ + 258 = 500.",
+            "options": [
+              "252",
+              "242",
+              "342"
+            ],
+            "after": "",
+            "a": "242"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each clue to its number.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "the sum of 199 and 1",
+            "right": "200"
+          },
+          {
+            "left": "45 more than 378",
+            "right": "423"
+          },
+          {
+            "left": "3 hundreds, 14 tens and 12 ones",
+            "right": "452"
+          },
+          {
+            "left": "double 265",
+            "right": "530"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: Why is 76 + 58 = 1214 wrong?",
+        "marks": 1,
+        "lines": 1,
+        "a": "Accept: 14 ones is 1 ten and 4 ones, so we must carry the ten. 76 + 58 = 134."
+      }
+    ]
+  },
+  {
+    "id": "addition-with-grouping-13",
+    "topic": "addition-with-grouping",
+    "number": 13,
+    "level": "Challenge",
+    "title": "The Bake Sale in Abu Dhabi",
+    "intro": "Sophie and Zaid help at a charity bake sale at their school in Abu Dhabi. Use addition to solve each puzzle.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Find the missing digit.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "2_6 + 158 = 434. The missing digit is ___.",
+            "a": "7"
+          },
+          {
+            "q": "34_ + 285 = 631. The missing digit is ___.",
+            "a": "6"
+          },
+          {
+            "q": "_47 + 376 = 823. The missing digit is ___.",
+            "a": "4"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add the bake sale money.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "296",
+            "op": "+",
+            "bottom": "187",
+            "a": "483"
+          },
+          {
+            "top": "408",
+            "op": "+",
+            "bottom": "395",
+            "a": "803"
+          },
+          {
+            "top": "157",
+            "op": "+",
+            "bottom": "364",
+            "a": "521"
+          },
+          {
+            "top": "679",
+            "op": "+",
+            "bottom": "148",
+            "a": "827"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Add. Look for an easy way.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "99 + 99",
+            "a": "198"
+          },
+          {
+            "q": "375 + 125",
+            "a": "500"
+          },
+          {
+            "q": "199 + 299",
+            "a": "498"
+          },
+          {
+            "q": "648 + 252",
+            "a": "900"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "296 + 187 has a carry in the ones and in the tens.",
+            "a": true
+          },
+          {
+            "q": "408 + 395 = 703",
+            "a": false
+          },
+          {
+            "q": "999 + 1 = 1000",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the bake sale problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Sophie baked 148 cupcakes and Zaid baked 175. They baked ___ cupcakes.",
+            "a": "323"
+          },
+          {
+            "q": "They sold cookies for ₹265 and brownies for ₹348. They made ₹ ___.",
+            "a": "613"
+          },
+          {
+            "q": "Zaid's class made ₹376. Sophie's class made ₹59 more. Sophie's class made ₹ ___.",
+            "a": "435"
+          },
+          {
+            "q": "How much did both classes make together? ₹ ___",
+            "a": "811"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-with-grouping-14",
+    "topic": "addition-with-grouping",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Republic Day Parade Practice",
+    "intro": "Three schools practise for the Republic Day parade in Delhi. School A has 236 marchers, School B has 189 and School C has 274.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Use the marcher numbers to answer.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Schools A and B have ___ marchers together.",
+            "a": "425"
+          },
+          {
+            "q": "Schools B and C have ___ marchers together.",
+            "a": "463"
+          },
+          {
+            "q": "All three schools have ___ marchers.",
+            "a": "699"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the sum that makes the number.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Makes 500:",
+            "options": [
+              "248 + 252",
+              "263 + 247",
+              "319 + 191"
+            ],
+            "after": "",
+            "a": "248 + 252"
+          },
+          {
+            "before": "Makes 400:",
+            "options": [
+              "185 + 225",
+              "176 + 224",
+              "238 + 152"
+            ],
+            "after": "",
+            "a": "176 + 224"
+          },
+          {
+            "before": "Makes 900:",
+            "options": [
+              "456 + 434",
+              "567 + 343",
+              "628 + 272"
+            ],
+            "after": "",
+            "a": "628 + 272"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add. Carry more than once.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "437",
+            "op": "+",
+            "bottom": "385",
+            "a": "822"
+          },
+          {
+            "top": "258",
+            "op": "+",
+            "bottom": "476",
+            "a": "734"
+          },
+          {
+            "top": "369",
+            "op": "+",
+            "bottom": "563",
+            "a": "932"
+          },
+          {
+            "top": "194",
+            "op": "+",
+            "bottom": "608",
+            "a": "802"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Double the number.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "37",
+            "a": "74"
+          },
+          {
+            "q": "48",
+            "a": "96"
+          },
+          {
+            "q": "156",
+            "a": "312"
+          },
+          {
+            "q": "275",
+            "a": "550"
+          },
+          {
+            "q": "189",
+            "a": "378"
+          },
+          {
+            "q": "364",
+            "a": "728"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: Which is greater, 236 + 189 or 274 + 148? Show how you know.",
+        "marks": 2,
+        "lines": 2,
+        "a": "236 + 189 = 425 and 274 + 148 = 422, so 236 + 189 is greater."
+      }
+    ]
+  },
+  {
+    "id": "addition-with-grouping-15",
+    "topic": "addition-with-grouping",
+    "number": 15,
+    "level": "Challenge",
+    "title": "The Ganesh Chaturthi Pandal",
+    "intro": "Aditya and Lina help decorate the Ganesh pandal in their building in Pune. Use everything you know about carrying.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Work out each sum. Sort it by its answer.",
+        "marks": 6,
+        "groups": [
+          "Less than 500",
+          "More than 500"
+        ],
+        "words": [
+          "267 + 245",
+          "189 + 276",
+          "348 + 167",
+          "225 + 258",
+          "394 + 119",
+          "156 + 337"
+        ],
+        "a": {
+          "267 + 245": "More than 500",
+          "189 + 276": "Less than 500",
+          "348 + 167": "More than 500",
+          "225 + 258": "Less than 500",
+          "394 + 119": "More than 500",
+          "156 + 337": "Less than 500"
+        }
+      },
+      {
+        "type": "column",
+        "title": "Add the decorations.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "583",
+            "op": "+",
+            "bottom": "248",
+            "a": "831"
+          },
+          {
+            "top": "476",
+            "op": "+",
+            "bottom": "359",
+            "a": "835"
+          },
+          {
+            "top": "297",
+            "op": "+",
+            "bottom": "615",
+            "a": "912"
+          },
+          {
+            "top": "368",
+            "op": "+",
+            "bottom": "277",
+            "a": "645"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In 583 + 248, the ones make 11.",
+            "a": true
+          },
+          {
+            "q": "476 + 359 has the same answer as 359 + 476.",
+            "a": true
+          },
+          {
+            "q": "297 + 615 = 812",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the pandal problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "They hung 248 lights on Monday and 365 on Tuesday. They hung ___ lights.",
+            "a": "613"
+          },
+          {
+            "q": "Lina bought flowers for ₹185 and sweets for ₹267. She spent ₹ ___.",
+            "a": "452"
+          },
+          {
+            "q": "Aditya has ₹500. Can he buy a lamp for ₹278 and a garland for ₹235? ___ (yes or no)",
+            "a": "no"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: Make a 3-digit sum that needs carrying two times. Solve it.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. 158 + 276 = 434. Check that the ones and the tens both make 10 or more."
+      }
+    ]
   }
 ]

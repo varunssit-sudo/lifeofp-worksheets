@@ -615,5 +615,1184 @@
         "a": "Any two, e.g. plant trees, walk or cycle, do not burn rubbish, share a car."
       }
     ]
+  },
+  {
+    "id": "air-around-us-06",
+    "topic": "air-around-us",
+    "number": 6,
+    "level": "Practice",
+    "title": "The Dhow Race at the Corniche",
+    "intro": "Old wooden boats with big sails race in Abu Dhabi. Hamad and Lily watch from the shore.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A sailboat moves when the wind pushes its",
+            "options": [
+              "sail",
+              "anchor"
+            ],
+            "after": ".",
+            "a": "sail"
+          },
+          {
+            "before": "On a still day, the sails hang",
+            "options": [
+              "loose",
+              "tight"
+            ],
+            "after": ".",
+            "a": "loose"
+          },
+          {
+            "before": "A strong wind makes the boats go",
+            "options": [
+              "faster",
+              "slower"
+            ],
+            "after": ".",
+            "a": "faster"
+          },
+          {
+            "before": "Lily's hair blows back because of the",
+            "options": [
+              "wind",
+              "sun"
+            ],
+            "after": ".",
+            "a": "wind"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the kind of wind to what you see.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "no wind",
+            "right": "smoke goes straight up"
+          },
+          {
+            "left": "a breeze",
+            "right": "leaves move gently"
+          },
+          {
+            "left": "a strong wind",
+            "right": "branches sway and bend"
+          },
+          {
+            "left": "a storm",
+            "right": "trees may fall down"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Wind can blow from different directions.",
+            "a": true
+          },
+          {
+            "q": "A flag shows us which way the wind is blowing.",
+            "a": true
+          },
+          {
+            "q": "The wind is always the same strength.",
+            "a": false
+          },
+          {
+            "q": "We can hear the wind when it blows hard.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with: sail, breeze, storm.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A soft, cool ___ comes from the sea in the evening.",
+            "a": "breeze"
+          },
+          {
+            "q": "The cloth on a boat that catches the wind is the ___.",
+            "a": "sail"
+          },
+          {
+            "q": "Fishermen stay at home when a ___ is coming.",
+            "a": "storm"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why do sailboats need a windy day? Write it.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. The wind pushes the sails and moves the boat."
+      }
+    ]
+  },
+  {
+    "id": "air-around-us-07",
+    "topic": "air-around-us",
+    "number": 7,
+    "level": "Practice",
+    "title": "Diwali Diyas on the Terrace",
+    "intro": "Ananya and her grandma light diyas on the terrace in Jaipur. A breeze keeps blowing.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "A diya needs air to keep burning.",
+            "a": true
+          },
+          {
+            "q": "A strong wind can blow out a diya.",
+            "a": true
+          },
+          {
+            "q": "Smoke from crackers makes the air clean.",
+            "a": false
+          },
+          {
+            "q": "Fire needs air to burn.",
+            "a": true
+          },
+          {
+            "q": "We should light diyas only with a grown-up.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: does it make smoke?",
+        "marks": 6,
+        "groups": [
+          "Makes smoke",
+          "No smoke"
+        ],
+        "words": [
+          "ceiling fan",
+          "incense stick",
+          "battery torch",
+          "electric fairy lights",
+          "wood fire",
+          "firecrackers"
+        ],
+        "a": {
+          "incense stick": "Makes smoke",
+          "wood fire": "Makes smoke",
+          "firecrackers": "Makes smoke",
+          "electric fairy lights": "No smoke",
+          "ceiling fan": "No smoke",
+          "battery torch": "No smoke"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Grandma puts the diyas where the wind",
+            "options": [
+              "cannot",
+              "can"
+            ],
+            "after": "reach them.",
+            "a": "cannot"
+          },
+          {
+            "before": "If a grown-up covers a candle with a jar, it soon goes",
+            "options": [
+              "out",
+              "brighter"
+            ],
+            "after": ".",
+            "a": "out"
+          },
+          {
+            "before": "Too many crackers make the air",
+            "options": [
+              "smoky",
+              "fresh"
+            ],
+            "after": ".",
+            "a": "smoky"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ananya cups her hands around the diya to block the ___.",
+            "a": "wind"
+          },
+          {
+            "q": "Breathing in lots of smoke can make us ___.",
+            "a": "cough"
+          },
+          {
+            "q": "Ananya's family bursts fewer ___ to keep the air clean.",
+            "a": "crackers"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "How can we enjoy Diwali and still keep the air clean? Write two ways.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Light diyas, make rangoli, burst fewer or no crackers."
+      }
+    ]
+  },
+  {
+    "id": "air-around-us-08",
+    "topic": "air-around-us",
+    "number": 8,
+    "level": "Practice",
+    "title": "A Hot Bus Ride to Hyderabad",
+    "intro": "The bus is hot and crowded. Farhan and his sister fan themselves with newspapers.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Moving air makes us feel cool.",
+            "a": true
+          },
+          {
+            "q": "Opening the bus windows lets fresh air in.",
+            "a": true
+          },
+          {
+            "q": "A ceiling fan works only when there is wind outside.",
+            "a": false
+          },
+          {
+            "q": "A hair dryer blows out moving air.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Farhan waves the newspaper to make the air",
+            "options": [
+              "move",
+              "stop"
+            ],
+            "after": ".",
+            "a": "move"
+          },
+          {
+            "before": "A crowded bus with closed windows feels",
+            "options": [
+              "stuffy",
+              "fresh"
+            ],
+            "after": ".",
+            "a": "stuffy"
+          },
+          {
+            "before": "We feel cooler under a tree when a",
+            "options": [
+              "breeze",
+              "fire"
+            ],
+            "after": "blows.",
+            "a": "breeze"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the thing to how it uses moving air.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "flute",
+            "right": "makes music when we blow into it"
+          },
+          {
+            "left": "hair dryer",
+            "right": "dries wet hair"
+          },
+          {
+            "left": "bus window",
+            "right": "lets fresh air in"
+          },
+          {
+            "left": "air cooler",
+            "right": "cools a hot room"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Farhan's sister ___ the window to let in fresh air.",
+            "a": "opens"
+          },
+          {
+            "q": "Mum switches on the ceiling ___ when they reach home.",
+            "a": "fan"
+          },
+          {
+            "q": "We feel cool when moving ___ blows on our skin.",
+            "a": "air"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things that use moving air to help us.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. fan, hair dryer, air cooler, sailboat, windmill."
+      }
+    ]
+  },
+  {
+    "id": "air-around-us-09",
+    "topic": "air-around-us",
+    "number": 9,
+    "level": "Practice",
+    "title": "Bubbles in the Swimming Pool",
+    "intro": "Kiara has a swimming lesson at her club in Dubai. Coach Mark talks about air in the water.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "When we breathe out under water, we see bubbles.",
+            "a": true
+          },
+          {
+            "q": "Bubbles are filled with air.",
+            "a": true
+          },
+          {
+            "q": "Armbands help us float because they are full of air.",
+            "a": true
+          },
+          {
+            "q": "Divers carry tanks of air on their backs.",
+            "a": true
+          },
+          {
+            "q": "We can breathe under water like a fish.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "An empty bottle pushed under water lets out",
+            "options": [
+              "bubbles",
+              "sand"
+            ],
+            "after": ".",
+            "a": "bubbles"
+          },
+          {
+            "before": "A pool ring floats because it is filled with",
+            "options": [
+              "air",
+              "stones"
+            ],
+            "after": ".",
+            "a": "air"
+          },
+          {
+            "before": "Fish take in the air that is mixed in the",
+            "options": [
+              "water",
+              "sand"
+            ],
+            "after": ".",
+            "a": "water"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: is it filled with air?",
+        "marks": 8,
+        "groups": [
+          "Filled with air",
+          "Not filled with air"
+        ],
+        "words": [
+          "soap bubble",
+          "coin",
+          "armband",
+          "pool ring",
+          "bar of soap",
+          "beach ball",
+          "pebble",
+          "wet towel"
+        ],
+        "a": {
+          "armband": "Filled with air",
+          "pool ring": "Filled with air",
+          "beach ball": "Filled with air",
+          "soap bubble": "Filled with air",
+          "pebble": "Not filled with air",
+          "bar of soap": "Not filled with air",
+          "coin": "Not filled with air",
+          "wet towel": "Not filled with air"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Coach Mark says, take a deep ___ before you go under.",
+            "a": "breath"
+          },
+          {
+            "q": "Air bubbles always rise to the ___ of the water.",
+            "a": "top"
+          },
+          {
+            "q": "Kiara blows out of her ___ and makes bubbles.",
+            "a": "mouth / nose"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why does a swimmer wear armbands? Write it.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. They are full of air, so they help the swimmer float."
+      }
+    ]
+  },
+  {
+    "id": "air-around-us-10",
+    "topic": "air-around-us",
+    "number": 10,
+    "level": "Practice",
+    "title": "Morning Yoga on Juhu Beach",
+    "intro": "Ishita and her mother do yoga on the beach in Mumbai. The teacher says, breathe in slowly.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the word to its meaning.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "breathe in",
+            "right": "take air into the body"
+          },
+          {
+            "left": "breathe out",
+            "right": "push air out of the body"
+          },
+          {
+            "left": "lungs",
+            "right": "fill with air inside our chest"
+          },
+          {
+            "left": "nose",
+            "right": "air goes in through here"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We breathe all the time, even when we sleep.",
+            "a": true
+          },
+          {
+            "q": "We breathe faster after we run.",
+            "a": true
+          },
+          {
+            "q": "Tiny hairs in our nose help stop dust.",
+            "a": true
+          },
+          {
+            "q": "We can live for a whole day without air.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "When we breathe in, our chest gets",
+            "options": [
+              "bigger",
+              "smaller"
+            ],
+            "after": ".",
+            "a": "bigger"
+          },
+          {
+            "before": "Fresh air in parks comes from places with many",
+            "options": [
+              "trees",
+              "cars"
+            ],
+            "after": ".",
+            "a": "trees"
+          },
+          {
+            "before": "Yoga breathing is slow and",
+            "options": [
+              "deep",
+              "noisy"
+            ],
+            "after": ".",
+            "a": "deep"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with: lungs, chest, fresh.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Air goes into our ___ when we breathe in.",
+            "a": "lungs"
+          },
+          {
+            "q": "Ishita puts her hand on her ___ and feels it rise.",
+            "a": "chest"
+          },
+          {
+            "q": "The sea breeze is clean and ___.",
+            "a": "fresh"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things that make you breathe faster.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. running, skipping, climbing stairs, dancing, swimming."
+      }
+    ]
+  },
+  {
+    "id": "air-around-us-11",
+    "topic": "air-around-us",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Air Tests at the Science Fair",
+    "intro": "Aryan and Hana show air tests at their school science fair in Ajman.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Read about the tests. Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A tissue stuck inside a glass stays dry when the glass is pushed straight down into water.",
+            "a": true
+          },
+          {
+            "q": "It stays dry because the air in the glass keeps the water out.",
+            "a": true
+          },
+          {
+            "q": "An \"empty\" glass has nothing at all inside it.",
+            "a": false
+          },
+          {
+            "q": "When the glass is tipped, bubbles come out and water goes in.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A balloon on a bottle in warm water",
+            "options": [
+              "gets bigger",
+              "gets smaller"
+            ],
+            "after": ".",
+            "a": "gets bigger"
+          },
+          {
+            "before": "A flat ball becomes hard when we",
+            "options": [
+              "pump air in",
+              "let air out"
+            ],
+            "after": ".",
+            "a": "pump air in"
+          },
+          {
+            "before": "We blow on hot soup to",
+            "options": [
+              "cool it",
+              "heat it"
+            ],
+            "after": ".",
+            "a": "cool it"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Why does water not fill the upside-down glass?",
+            "a": "e.g. The glass is full of air, and air takes up space."
+          },
+          {
+            "q": "How can Hana show that a closed plastic bag has air in it?",
+            "a": "e.g. Squeeze it and it stays puffed up, or hold it under water and see bubbles."
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Air takes up ___.",
+            "a": "space"
+          },
+          {
+            "q": "When air comes out of the glass, ___ goes in.",
+            "a": "water"
+          },
+          {
+            "q": "We cannot see air, but we can ___ it on our skin.",
+            "a": "feel"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Plan your own test to show that air is all around us. Write it.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Wave a sheet of paper and feel the air, or blow up a balloon."
+      }
+    ]
+  },
+  {
+    "id": "air-around-us-12",
+    "topic": "air-around-us",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Kavya's Weather Diary in Shimla",
+    "intro": "Kavya writes about the wind each day of her holiday. Monday: still air. Tuesday: gentle breeze. Wednesday: strong wind. Thursday: storm.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Use the diary. Circle the right day.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The best day to fly a kite was",
+            "options": [
+              "Monday",
+              "Wednesday"
+            ],
+            "after": ".",
+            "a": "Wednesday"
+          },
+          {
+            "before": "Smoke from the chimney went straight up on",
+            "options": [
+              "Monday",
+              "Thursday"
+            ],
+            "after": ".",
+            "a": "Monday"
+          },
+          {
+            "before": "Kavya stayed indoors to be safe on",
+            "options": [
+              "Thursday",
+              "Tuesday"
+            ],
+            "after": ".",
+            "a": "Thursday"
+          },
+          {
+            "before": "Leaves moved gently on",
+            "options": [
+              "Tuesday",
+              "Thursday"
+            ],
+            "after": ".",
+            "a": "Tuesday"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Wet clothes dry faster on Wednesday than on Monday.",
+            "a": true
+          },
+          {
+            "q": "A storm is a gentle wind.",
+            "a": false
+          },
+          {
+            "q": "On a still day, a pinwheel spins fast.",
+            "a": false
+          },
+          {
+            "q": "Branches can break in a storm.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Correct the mistake. Write the sentence again.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We can see the air around us.",
+            "a": "We cannot see the air around us."
+          },
+          {
+            "q": "A breeze is a very strong wind.",
+            "a": "A breeze is a gentle wind."
+          },
+          {
+            "q": "Wind is air that stays still.",
+            "a": "Wind is moving air."
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A flag flaps more in a strong wind than in a ___.",
+            "a": "breeze"
+          },
+          {
+            "q": "The tall pine trees ___ in the strong wind.",
+            "a": "sway / bend"
+          },
+          {
+            "q": "In a storm, we should stay ___.",
+            "a": "indoors / inside"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which day would you choose to dry clothes outside? Write why.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. Wednesday, because a strong wind dries clothes fast. (Tuesday is also fine.)"
+      }
+    ]
+  },
+  {
+    "id": "air-around-us-13",
+    "topic": "air-around-us",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Stuck in Traffic on the Way to School",
+    "intro": "Every morning Reyansh's car waits in a long line of traffic in Gurugram. The air smells of smoke.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort: does it help or harm the air?",
+        "marks": 8,
+        "groups": [
+          "Helps the air",
+          "Harms the air"
+        ],
+        "words": [
+          "switching off the engine while waiting",
+          "burning plastic",
+          "taking the metro",
+          "sharing a car with friends",
+          "a smoky old truck",
+          "planting a neem tree",
+          "burning dry leaves",
+          "keeping the engine on while parked"
+        ],
+        "a": {
+          "taking the metro": "Helps the air",
+          "sharing a car with friends": "Helps the air",
+          "planting a neem tree": "Helps the air",
+          "switching off the engine while waiting": "Helps the air",
+          "burning dry leaves": "Harms the air",
+          "a smoky old truck": "Harms the air",
+          "burning plastic": "Harms the air",
+          "keeping the engine on while parked": "Harms the air"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Smoke from many cars makes the air dirty.",
+            "a": true
+          },
+          {
+            "q": "Dirty air can make people cough.",
+            "a": true
+          },
+          {
+            "q": "A school bus carries many children, so fewer cars are on the road.",
+            "a": true
+          },
+          {
+            "q": "Dirty air is good for plants and animals.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the better choice.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "To keep the air clean, Reyansh's family can",
+            "options": [
+              "share a car",
+              "use two cars"
+            ],
+            "after": ".",
+            "a": "share a car"
+          },
+          {
+            "before": "For a short trip to the shop, it is better to",
+            "options": [
+              "walk",
+              "drive"
+            ],
+            "after": ".",
+            "a": "walk"
+          },
+          {
+            "before": "Dirty air near busy roads can make our eyes",
+            "options": [
+              "itch",
+              "sparkle"
+            ],
+            "after": ".",
+            "a": "itch"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Why is one school bus better for the air than many cars?",
+            "a": "e.g. One bus makes less smoke than many cars."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a short poster line asking people to keep the air clean.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. Walk, cycle, plant a tree, keep our air smoke-free!"
+      }
+    ]
+  },
+  {
+    "id": "air-around-us-14",
+    "topic": "air-around-us",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Paper Planes in the School Hall",
+    "intro": "Class 2 in Kochi holds a paper plane contest. Ms Thomas asks how air helps things fly and fall.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "A flat sheet of paper falls more slowly than a crumpled paper ball.",
+            "a": true
+          },
+          {
+            "q": "Air pushes against things when they move.",
+            "a": true
+          },
+          {
+            "q": "A parachute falls slowly because air pushes up under it.",
+            "a": true
+          },
+          {
+            "q": "A paper plane could fly in a place with no air.",
+            "a": false
+          },
+          {
+            "q": "Throwing the plane gently and straight helps it glide.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A big parachute falls",
+            "options": [
+              "more slowly",
+              "faster"
+            ],
+            "after": "than a tiny one.",
+            "a": "more slowly"
+          },
+          {
+            "before": "Birds and planes both use",
+            "options": [
+              "air",
+              "water"
+            ],
+            "after": "to stay up.",
+            "a": "air"
+          },
+          {
+            "before": "When Leo runs with an open umbrella, he feels the air",
+            "options": [
+              "pushing back",
+              "pulling him forward"
+            ],
+            "after": ".",
+            "a": "pushing back"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the thing to how air helps it.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "parachute",
+            "right": "falls slowly to the ground"
+          },
+          {
+            "left": "glider",
+            "right": "floats on the wind with no engine"
+          },
+          {
+            "left": "dandelion seed",
+            "right": "is carried far by the wind"
+          },
+          {
+            "left": "hot air balloon",
+            "right": "rises up into the sky"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Ms Thomas drops a feather and a coin. Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The ___ lands first.",
+            "a": "coin"
+          },
+          {
+            "q": "The ___ floats down slowly.",
+            "a": "feather"
+          },
+          {
+            "q": "Air under a parachute ___ it down.",
+            "a": "slows"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why does a crumpled paper fall faster than a flat one? Write what you think.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. The flat paper has more air pushing up under it, so it falls slowly."
+      }
+    ]
+  },
+  {
+    "id": "air-around-us-15",
+    "topic": "air-around-us",
+    "number": 15,
+    "level": "Challenge",
+    "title": "The Hot Air Balloon Ride in Jaipur",
+    "intro": "At sunrise, Vivaan and his aunt float over Jaipur in a big balloon. The pilot answers their questions.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the best answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The balloon goes up because it is filled with",
+            "options": [
+              "hot air",
+              "cold water"
+            ],
+            "after": ".",
+            "a": "hot air"
+          },
+          {
+            "before": "The balloon floats the way the",
+            "options": [
+              "wind",
+              "river"
+            ],
+            "after": "blows.",
+            "a": "wind"
+          },
+          {
+            "before": "High up in the sky, the air feels",
+            "options": [
+              "cooler",
+              "hotter"
+            ],
+            "after": ".",
+            "a": "cooler"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Hot air rises up.",
+            "a": true
+          },
+          {
+            "q": "The pilot cannot see the air but can feel the wind.",
+            "a": true
+          },
+          {
+            "q": "The balloon is empty while it is flying.",
+            "a": false
+          },
+          {
+            "q": "On a clear day with clean air, we can see far.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: does it use wind, or air inside it?",
+        "marks": 8,
+        "groups": [
+          "Uses wind",
+          "Uses air inside it"
+        ],
+        "words": [
+          "flag",
+          "bicycle tyre",
+          "wind turbine",
+          "paper glider",
+          "air mattress",
+          "dhow sail",
+          "football",
+          "bubble wrap"
+        ],
+        "a": {
+          "wind turbine": "Uses wind",
+          "paper glider": "Uses wind",
+          "dhow sail": "Uses wind",
+          "flag": "Uses wind",
+          "football": "Uses air inside it",
+          "air mattress": "Uses air inside it",
+          "bicycle tyre": "Uses air inside it",
+          "bubble wrap": "Uses air inside it"
+        }
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Why do all living things need air?",
+            "a": "e.g. They need air to breathe and stay alive."
+          },
+          {
+            "q": "Why should the balloon not fly on a stormy day?",
+            "a": "e.g. The strong wind could push it the wrong way and make it unsafe."
+          }
+        ]
+      }
+    ]
   }
 ]

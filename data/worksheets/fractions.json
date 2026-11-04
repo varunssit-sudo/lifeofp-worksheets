@@ -665,5 +665,1361 @@
         "a": "No. 10 cannot be made into 4 equal groups: each child gets 2 and 2 are left over."
       }
     ]
+  },
+  {
+    "id": "fractions-06",
+    "topic": "fractions",
+    "number": 6,
+    "level": "Practice",
+    "title": "Sharing Rotis at Dinner",
+    "intro": "Mummy makes rotis for dinner. Anika and her brother Dev share them in equal parts.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the right fraction.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A roti is torn into 2 equal parts. Dev eats 1 part. He eats",
+            "options": [
+              "1/2",
+              "1/4"
+            ],
+            "after": "of it.",
+            "a": "1/2"
+          },
+          {
+            "before": "A roti is cut into 4 equal parts. Anika eats 3 parts. She eats",
+            "options": [
+              "1/4",
+              "3/4"
+            ],
+            "after": "of it.",
+            "a": "3/4"
+          },
+          {
+            "before": "Papa eats 2 of 4 equal parts. He eats",
+            "options": [
+              "1/2",
+              "3/4"
+            ],
+            "after": "of the roti.",
+            "a": "1/2"
+          },
+          {
+            "before": "Dadi eats all 4 quarters. She eats",
+            "options": [
+              "one half",
+              "one whole"
+            ],
+            "after": "roti.",
+            "a": "one whole"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write half of each number.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "46",
+            "a": "23"
+          },
+          {
+            "q": "38",
+            "a": "19"
+          },
+          {
+            "q": "62",
+            "a": "31"
+          },
+          {
+            "q": "80",
+            "a": "40"
+          },
+          {
+            "q": "58",
+            "a": "29"
+          },
+          {
+            "q": "66",
+            "a": "33"
+          },
+          {
+            "q": "74",
+            "a": "37"
+          },
+          {
+            "q": "12",
+            "a": "6"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Half a roti and another half make one whole roti.",
+            "a": true
+          },
+          {
+            "q": "1/4 of a roti is bigger than 1/2 of the same roti.",
+            "a": false
+          },
+          {
+            "q": "3/4 means 3 out of 4 equal parts.",
+            "a": true
+          },
+          {
+            "q": "Half of 86 is 43.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the dinner problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There are 42 pieces of paneer. Half go in the curry. ___ pieces go in the curry.",
+            "a": "21"
+          },
+          {
+            "q": "Dev has 4 rotis. He eats 1/4 of them. He eats ___ roti.",
+            "a": "1"
+          },
+          {
+            "q": "Mummy made 40 rotis for a party. 3/4 of them were eaten. ___ rotis were eaten.",
+            "a": "30"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Dev says a roti torn into any 2 pieces gives two halves. Is he right? Say why.",
+        "marks": 2,
+        "lines": 1,
+        "a": "No. The 2 pieces must be equal to be halves."
+      }
+    ]
+  },
+  {
+    "id": "fractions-07",
+    "topic": "fractions",
+    "number": 7,
+    "level": "Practice",
+    "title": "Getting Ready for School",
+    "intro": "Lina gets ready for school every morning. There are 60 minutes in 1 hour.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the minutes.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Half an hour is ___ minutes.",
+            "a": "30"
+          },
+          {
+            "q": "A quarter of an hour is ___ minutes.",
+            "a": "15"
+          },
+          {
+            "q": "Three quarters of an hour is ___ minutes.",
+            "a": "45"
+          },
+          {
+            "q": "Two halves of an hour make ___ minutes.",
+            "a": "60"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Lina's bath takes 15 minutes. That is",
+            "options": [
+              "half an hour",
+              "a quarter of an hour"
+            ],
+            "after": ".",
+            "a": "a quarter of an hour"
+          },
+          {
+            "before": "The bus ride takes 30 minutes. That is",
+            "options": [
+              "half an hour",
+              "a quarter of an hour"
+            ],
+            "after": ".",
+            "a": "half an hour"
+          },
+          {
+            "before": "Lina reads for 45 minutes after school. That is",
+            "options": [
+              "a quarter of an hour",
+              "three quarters of an hour"
+            ],
+            "after": ".",
+            "a": "three quarters of an hour"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the time words to the clock time.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "half past 7",
+            "right": "7:30"
+          },
+          {
+            "left": "quarter past 7",
+            "right": "7:15"
+          },
+          {
+            "left": "quarter to 8",
+            "right": "7:45"
+          },
+          {
+            "left": "7 o'clock",
+            "right": "7:00"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write one quarter of each number.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "84",
+            "a": "21"
+          },
+          {
+            "q": "96",
+            "a": "24"
+          },
+          {
+            "q": "68",
+            "a": "17"
+          },
+          {
+            "q": "76",
+            "a": "19"
+          },
+          {
+            "q": "120",
+            "a": "30"
+          },
+          {
+            "q": "140",
+            "a": "35"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the morning problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Lina has 30 minutes before the bus. She uses half for breakfast. That is ___ minutes.",
+            "a": "15"
+          },
+          {
+            "q": "The bus ride is half an hour. Lina has been on the bus for a quarter of an hour. She has ___ minutes to go.",
+            "a": "15"
+          },
+          {
+            "q": "Mum packs 36 grapes for break. Lina eats half. She has ___ grapes left.",
+            "a": "18"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fractions-08",
+    "topic": "fractions",
+    "number": 8,
+    "level": "Practice",
+    "title": "Meera's Birthday Cake",
+    "intro": "Meera's birthday cake is cut into 4 equal slices. Work out what is eaten and what is left.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "How much cake is left?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "1 of 4 slices is eaten. ___ quarters are left.",
+            "a": "3"
+          },
+          {
+            "q": "2 of 4 slices are eaten. The fraction left is ___.",
+            "a": "1/2 / 2/4"
+          },
+          {
+            "q": "3 of 4 slices are eaten. The fraction left is ___.",
+            "a": "1/4"
+          },
+          {
+            "q": "All 4 slices are eaten. ___ slices are left.",
+            "a": "0"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the part eaten to the part left.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "1/4 eaten",
+            "right": "3/4 left"
+          },
+          {
+            "left": "3/4 eaten",
+            "right": "1/4 left"
+          },
+          {
+            "left": "1/2 eaten",
+            "right": "1/2 left"
+          },
+          {
+            "left": "4/4 eaten",
+            "right": "nothing left"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: less than half or more than half?",
+        "marks": 6,
+        "groups": [
+          "Less than half",
+          "More than half"
+        ],
+        "words": [
+          "1/4 of the cake",
+          "3/4 of the cake",
+          "the whole cake",
+          "1 slice of 4",
+          "3 slices of 4",
+          "no cake"
+        ],
+        "a": {
+          "1/4 of the cake": "Less than half",
+          "3/4 of the cake": "More than half",
+          "the whole cake": "More than half",
+          "1 slice of 4": "Less than half",
+          "3 slices of 4": "More than half",
+          "no cake": "Less than half"
+        }
+      },
+      {
+        "type": "pairs",
+        "title": "Find 3/4 of each number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "24",
+            "a": "18"
+          },
+          {
+            "q": "28",
+            "a": "21"
+          },
+          {
+            "q": "36",
+            "a": "27"
+          },
+          {
+            "q": "44",
+            "a": "33"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the party problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Meera has 54 balloons. Half are pink. ___ balloons are pink.",
+            "a": "27"
+          },
+          {
+            "q": "Meera, Mum and Dad eat 1 slice each. ___ of the cake is left.",
+            "a": "1/4"
+          },
+          {
+            "q": "Meera got 12 gifts. She opened 3/4 of them before dinner. She opened ___ gifts.",
+            "a": "9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fractions-09",
+    "topic": "fractions",
+    "number": 9,
+    "level": "Practice",
+    "title": "The Fruit Stall at Karama Market",
+    "intro": "Uncle Bilal sells fruit at Karama market. He packs the fruit into equal halves and quarters.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Can it be shared into 2 equal halves with none left?",
+        "marks": 6,
+        "groups": [
+          "Yes",
+          "No"
+        ],
+        "words": [
+          "13 apples",
+          "22 plums",
+          "35 grapes",
+          "46 dates",
+          "17 kiwis",
+          "50 cherries"
+        ],
+        "a": {
+          "13 apples": "No",
+          "22 plums": "Yes",
+          "35 grapes": "No",
+          "46 dates": "Yes",
+          "17 kiwis": "No",
+          "50 cherries": "Yes"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Find the fraction.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "1/2 of 78 = ___",
+            "a": "39"
+          },
+          {
+            "q": "1/4 of 68 = ___",
+            "a": "17"
+          },
+          {
+            "q": "3/4 of 60 = ___",
+            "a": "45"
+          },
+          {
+            "q": "1/2 of 96 = ___",
+            "a": "48"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The bigger amount is",
+            "options": [
+              "1/2 of 20",
+              "1/4 of 20"
+            ],
+            "after": ".",
+            "a": "1/2 of 20"
+          },
+          {
+            "before": "1/4 of 40 is the same as",
+            "options": [
+              "1/2 of 20",
+              "1/2 of 40"
+            ],
+            "after": ".",
+            "a": "1/2 of 20"
+          },
+          {
+            "before": "3/4 of 8 is",
+            "options": [
+              "more than",
+              "less than"
+            ],
+            "after": "1/2 of 8.",
+            "a": "more than"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each fraction to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "1/2 of 14",
+            "right": "7"
+          },
+          {
+            "left": "1/4 of 76",
+            "right": "19"
+          },
+          {
+            "left": "3/4 of 16",
+            "right": "12"
+          },
+          {
+            "left": "1/2 of 82",
+            "right": "41"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the fruit stall problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Uncle has 30 oranges. He sells half in the morning. He has ___ left.",
+            "a": "15"
+          },
+          {
+            "q": "A box has 24 apples. 1/4 of them are red. The rest are green. ___ are green.",
+            "a": "18"
+          },
+          {
+            "q": "Uncle cuts a watermelon into 4 equal parts. He sells 3 parts. He sells ___ of it.",
+            "a": "3/4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fractions-10",
+    "topic": "fractions",
+    "number": 10,
+    "level": "Practice",
+    "title": "Kites on Makar Sankranti",
+    "intro": "Arjun and his cousins fly kites on the roof for Makar Sankranti.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the fraction.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "1 of 2 equal parts",
+            "a": "1/2"
+          },
+          {
+            "q": "3 of 4 equal parts",
+            "a": "3/4"
+          },
+          {
+            "q": "1 of 4 equal parts",
+            "a": "1/4"
+          },
+          {
+            "q": "2 of 2 equal parts",
+            "a": "2/2 / 1"
+          },
+          {
+            "q": "2 of 4 equal parts",
+            "a": "2/4 / 1/2"
+          },
+          {
+            "q": "4 of 4 equal parts",
+            "a": "4/4 / 1"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the kite problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "There are 38 kites. Half are red. ___ kites are red.",
+            "a": "19"
+          },
+          {
+            "q": "A spool has 100 m of string. Arjun uses a quarter. He uses ___ m.",
+            "a": "25"
+          },
+          {
+            "q": "Riya has 20 kites. She gives 1/4 to her friend. She has ___ kites left.",
+            "a": "15"
+          },
+          {
+            "q": "Arjun made 4 kites. 2 of them are torn. ___ of his kites are torn.",
+            "a": "1/2 / 2/4"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "3/4",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "1/2",
+            "a": ">"
+          },
+          {
+            "before": "1/4",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "2/4",
+            "a": "<"
+          },
+          {
+            "before": "4/4",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "2/2",
+            "a": "="
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Three quarters and one quarter make one whole.",
+            "a": true
+          },
+          {
+            "q": "Half of 100 m is 50 m.",
+            "a": true
+          },
+          {
+            "q": "1/4 of 100 is 50.",
+            "a": false
+          },
+          {
+            "q": "A kite folded into 2 equal parts shows halves.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "How can you fold a square of paper into quarters? Write your steps.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. Fold it in half, then fold it in half again to make 4 equal parts."
+      }
+    ]
+  },
+  {
+    "id": "fractions-11",
+    "topic": "fractions",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Water Bottle Challenge",
+    "intro": "Class 2 learns how much water to drink. Remember: 1 L = 1000 mL and 1 m = 100 cm.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Find the fraction.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "1/2 of 1 L = ___ mL",
+            "a": "500"
+          },
+          {
+            "q": "1/4 of 1 L = ___ mL",
+            "a": "250"
+          },
+          {
+            "q": "3/4 of 1 L = ___ mL",
+            "a": "750"
+          },
+          {
+            "q": "1/2 of 1 m = ___ cm",
+            "a": "50"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Find the fraction.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "1/4 of 100 cm",
+            "a": "25 cm / 25"
+          },
+          {
+            "q": "3/4 of 100 cm",
+            "a": "75 cm / 75"
+          },
+          {
+            "q": "1/2 of 2 L",
+            "a": "1000 mL / 1 L"
+          },
+          {
+            "q": "1/4 of 2 kg",
+            "a": "500 g / 500"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Zoya drank 1/2 of her 1 L bottle. Omar drank 300 mL. The one who drank more is",
+            "options": [
+              "Zoya",
+              "Omar"
+            ],
+            "after": ".",
+            "a": "Zoya"
+          },
+          {
+            "before": "The bigger amount of water is",
+            "options": [
+              "1/4 of 1 L",
+              "200 mL"
+            ],
+            "after": ".",
+            "a": "1/4 of 1 L"
+          },
+          {
+            "before": "3/4 of 1 L is",
+            "options": [
+              "more than",
+              "less than"
+            ],
+            "after": "half a litre.",
+            "a": "more than"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the two-step problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Zoya's bottle holds 1000 mL. She drinks half in the morning and 250 mL at lunch. ___ mL is left.",
+            "a": "250"
+          },
+          {
+            "q": "A jug has 2 L of water. Leo pours out a quarter of it. ___ mL is left.",
+            "a": "1500"
+          },
+          {
+            "q": "Ms Gupta fills 4 cups with 250 mL each. She uses ___ L of water.",
+            "a": "1"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "2 quarters of a litre is 500 mL.",
+            "a": true
+          },
+          {
+            "q": "1/4 of 1 m is 40 cm.",
+            "a": false
+          },
+          {
+            "q": "3/4 of 1 L is more than 1/2 of 1 L.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which is longer: half a metre or 3/4 of a metre? Say why.",
+        "marks": 2,
+        "lines": 1,
+        "a": "3/4 of a metre, because 75 cm is more than 50 cm."
+      }
+    ]
+  },
+  {
+    "id": "fractions-12",
+    "topic": "fractions",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Pocket Money at the Book Fair",
+    "intro": "Tanya and Sam take their pocket money to the school book fair.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Find the fraction of the money.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "1/2 of ₹80",
+            "a": "₹40 / 40"
+          },
+          {
+            "q": "1/4 of ₹200",
+            "a": "₹50 / 50"
+          },
+          {
+            "q": "3/4 of ₹40",
+            "a": "₹30 / 30"
+          },
+          {
+            "q": "1/2 of ₹150",
+            "a": "₹75 / 75"
+          },
+          {
+            "q": "3/4 of ₹100",
+            "a": "₹75 / 75"
+          },
+          {
+            "q": "1/4 of ₹120",
+            "a": "₹30 / 30"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the two-step problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Tanya has ₹60. She spends half on a storybook and ₹12 on a bookmark. She has ₹ ___ left.",
+            "a": "18"
+          },
+          {
+            "q": "Sam has ₹100. He spends 1/4 on stickers and ₹40 on a comic. He has ₹ ___ left.",
+            "a": "35"
+          },
+          {
+            "q": "A book costs ₹90. At the sale it costs half. Tanya buys 2 at the sale price. She pays ₹ ___.",
+            "a": "90"
+          },
+          {
+            "q": "Sam saved ₹80. He spent 3/4 of it. He spent ₹ ___.",
+            "a": "60"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the bigger amount.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The bigger amount is",
+            "options": [
+              "1/2 of ₹50",
+              "1/4 of ₹200",
+              "the same"
+            ],
+            "after": ".",
+            "a": "1/4 of ₹200"
+          },
+          {
+            "before": "The bigger amount is",
+            "options": [
+              "3/4 of ₹20",
+              "1/2 of ₹20",
+              "the same"
+            ],
+            "after": ".",
+            "a": "3/4 of ₹20"
+          },
+          {
+            "before": "The bigger amount is",
+            "options": [
+              "1/4 of ₹80",
+              "1/2 of ₹40",
+              "the same"
+            ],
+            "after": ".",
+            "a": "the same"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "If half the money is ₹25, the whole is ₹50.",
+            "a": true
+          },
+          {
+            "q": "If a quarter of the money is ₹10, the whole is ₹20.",
+            "a": false
+          },
+          {
+            "q": "Half of ₹1 is 50 paise.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the whole.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Half of Sam's money is ₹35. Sam has ₹ ___.",
+            "a": "70"
+          },
+          {
+            "q": "A quarter of a box of books is 9 books. The box has ___ books.",
+            "a": "36"
+          },
+          {
+            "q": "Half of the class is 14 children. The class has ___ children.",
+            "a": "28"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fractions-13",
+    "topic": "fractions",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Sharing Lunch on the School Trip",
+    "intro": "On the school trip, Neel, Asha and Ken share their food into 3 equal parts. Each part is one third (1/3).",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each fraction to its name.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "1/3",
+            "right": "one third"
+          },
+          {
+            "left": "2/3",
+            "right": "two thirds"
+          },
+          {
+            "left": "3/3",
+            "right": "three thirds"
+          },
+          {
+            "left": "1/4",
+            "right": "one quarter"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write one third of each number.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "9",
+            "a": "3"
+          },
+          {
+            "q": "15",
+            "a": "5"
+          },
+          {
+            "q": "21",
+            "a": "7"
+          },
+          {
+            "q": "30",
+            "a": "10"
+          },
+          {
+            "q": "18",
+            "a": "6"
+          },
+          {
+            "q": "27",
+            "a": "9"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A sandwich cut into 3 equal parts shows",
+            "options": [
+              "halves",
+              "thirds",
+              "quarters"
+            ],
+            "after": ".",
+            "a": "thirds"
+          },
+          {
+            "before": "1/3 of a cake is",
+            "options": [
+              "bigger",
+              "smaller"
+            ],
+            "after": "than 1/2 of the same cake.",
+            "a": "smaller"
+          },
+          {
+            "before": "Three thirds make",
+            "options": [
+              "one half",
+              "one whole"
+            ],
+            "after": ".",
+            "a": "one whole"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the lunch problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Neel shares 12 grapes equally among 3 friends. Each friend gets ___ grapes.",
+            "a": "4"
+          },
+          {
+            "q": "Asha has 24 crackers. She eats 1/3 of them. She has ___ left.",
+            "a": "16"
+          },
+          {
+            "q": "Ken has 6 biscuits. He gives 2/3 of them away. He gives away ___ biscuits.",
+            "a": "4"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "1/3 means 1 of 3 equal parts.",
+            "a": true
+          },
+          {
+            "q": "One third of 30 is 3.",
+            "a": false
+          },
+          {
+            "q": "1/4 of 12 is less than 1/3 of 12.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Can 3 friends share 10 sweets equally? Say why.",
+        "marks": 2,
+        "lines": 1,
+        "a": "No. Each friend gets 3 and 1 sweet is left over."
+      }
+    ]
+  },
+  {
+    "id": "fractions-14",
+    "topic": "fractions",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Neighbourhood Bakery",
+    "intro": "Mr Thomas runs a bakery. His new helper made some mistakes with fractions. Spot them.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is the helper right? Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "A cake cut into 4 equal slices: each slice is 1/4.",
+            "a": true
+          },
+          {
+            "q": "Half of 18 muffins is 8 muffins.",
+            "a": false
+          },
+          {
+            "q": "1/4 of 40 cookies is 10 cookies.",
+            "a": true
+          },
+          {
+            "q": "3/4 of a pie is less than 1/2 of the pie.",
+            "a": false
+          },
+          {
+            "q": "3/4 of 32 buns is 24 buns.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the whole.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Half a tray is 15 buns. A full tray has ___ buns.",
+            "a": "30"
+          },
+          {
+            "q": "A quarter of a box is 5 cupcakes. The full box has ___ cupcakes.",
+            "a": "20"
+          },
+          {
+            "q": "Three quarters of a tray is 9 rolls. The full tray has ___ rolls.",
+            "a": "12"
+          },
+          {
+            "q": "One third of a basket is 7 bagels. The full basket has ___ bagels.",
+            "a": "21"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The biggest fraction is",
+            "options": [
+              "1/4",
+              "1/2",
+              "3/4"
+            ],
+            "after": ".",
+            "a": "3/4"
+          },
+          {
+            "before": "The smallest fraction is",
+            "options": [
+              "1/2",
+              "1/3",
+              "1/4"
+            ],
+            "after": ".",
+            "a": "1/4"
+          },
+          {
+            "before": "2/4 and 1/2 are",
+            "options": [
+              "the same",
+              "not the same"
+            ],
+            "after": ".",
+            "a": "the same"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the bakery problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Mr Thomas baked 40 buns. He sold half in the morning and 10 in the afternoon. ___ buns are left.",
+            "a": "10"
+          },
+          {
+            "q": "He baked 36 cookies and 1/4 got burnt. He packs the good ones in bags of 9. He fills ___ bags.",
+            "a": "3"
+          },
+          {
+            "q": "A cake costs ₹200. Half a cake costs ₹ ___.",
+            "a": "100"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "The helper says 1/4 is bigger than 1/2 because 4 is bigger than 2. Is he right? Say why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "No. 1/4 is one of 4 equal parts, so each part is smaller than a half."
+      }
+    ]
+  },
+  {
+    "id": "fractions-15",
+    "topic": "fractions",
+    "number": 15,
+    "level": "Challenge",
+    "title": "The Sports Day Relay",
+    "intro": "On Sports Day, Class 2 runs relay races and shares out the prizes.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Find the fraction.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "1/2 of 64",
+            "a": "32"
+          },
+          {
+            "q": "1/3 of 24",
+            "a": "8"
+          },
+          {
+            "q": "3/4 of 48",
+            "a": "36"
+          },
+          {
+            "q": "1/2 of 120",
+            "a": "60"
+          },
+          {
+            "q": "1/4 of 160",
+            "a": "40"
+          },
+          {
+            "q": "1/3 of 33",
+            "a": "11"
+          },
+          {
+            "q": "3/4 of 80",
+            "a": "60"
+          },
+          {
+            "q": "2/3 of 9",
+            "a": "6"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the relay problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The track is 100 m. Asha runs half and Ben runs the rest. Ben runs ___ m.",
+            "a": "50"
+          },
+          {
+            "q": "The race is 400 m. Each of 4 runners runs a quarter. Each runs ___ m.",
+            "a": "100"
+          },
+          {
+            "q": "Kai ran 3/4 of a 100 m race and stopped. He has ___ m to go.",
+            "a": "25"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the part to the whole.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Half is 8",
+            "right": "Whole is 16"
+          },
+          {
+            "left": "A quarter is 5",
+            "right": "Whole is 20"
+          },
+          {
+            "left": "A third is 4",
+            "right": "Whole is 12"
+          },
+          {
+            "left": "Half is 15",
+            "right": "Whole is 30"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The biggest share is",
+            "options": [
+              "1/2",
+              "1/3",
+              "1/4"
+            ],
+            "after": ".",
+            "a": "1/2"
+          },
+          {
+            "before": "3/4 of 8 medals is",
+            "options": [
+              "5",
+              "6",
+              "7"
+            ],
+            "after": "medals.",
+            "a": "6"
+          },
+          {
+            "before": "1/4 of the class wins a medal. The part that does not win is",
+            "options": [
+              "1/4",
+              "2/4",
+              "3/4"
+            ],
+            "after": ".",
+            "a": "3/4"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the prize problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There are 30 medals. Half are gold and 5 are silver. The rest are bronze. There are ___ bronze medals.",
+            "a": "10"
+          },
+          {
+            "q": "40 children run. 1/4 of them are in the red team. ___ children are not in the red team.",
+            "a": "30"
+          },
+          {
+            "q": "Coach has 12 bottles. He gives 1/3 to Team A and 1/3 to Team B. ___ bottles are left.",
+            "a": "4"
+          }
+        ]
+      }
+    ]
   }
 ]

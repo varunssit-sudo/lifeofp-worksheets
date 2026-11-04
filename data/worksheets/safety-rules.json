@@ -643,5 +643,1233 @@
         "a": "Tell an adult at once, get out of the house quickly and call the fire service (997 in the UAE, 112 or 101 in India)."
       }
     ]
+  },
+  {
+    "id": "safety-rules-06",
+    "topic": "safety-rules",
+    "number": 6,
+    "level": "Practice",
+    "title": "Cycle Day at Al Qudra Track",
+    "intro": "Ethan and Riya ride their bicycles with their parents at the Al Qudra cycle track. Good riders follow safety rules.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each thing to how it keeps a rider safe.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "helmet",
+            "right": "protects your head if you fall"
+          },
+          {
+            "left": "bell",
+            "right": "warns people that you are coming"
+          },
+          {
+            "left": "front light",
+            "right": "helps you see and be seen at night"
+          },
+          {
+            "left": "reflectors",
+            "right": "shine when car lights fall on them"
+          },
+          {
+            "left": "knee pads",
+            "right": "protect your knees"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Ride with",
+            "options": [
+              "both hands",
+              "no hands"
+            ],
+            "after": "on the handlebar.",
+            "a": "both hands"
+          },
+          {
+            "before": "Check the",
+            "options": [
+              "brakes",
+              "stickers"
+            ],
+            "after": "before you ride.",
+            "a": "brakes"
+          },
+          {
+            "before": "On a narrow track, ride in a",
+            "options": [
+              "single line",
+              "big group side by side"
+            ],
+            "after": ".",
+            "a": "single line"
+          },
+          {
+            "before": "Tie your laces so they do not get caught in the",
+            "options": [
+              "chain",
+              "bell"
+            ],
+            "after": ".",
+            "a": "chain"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "It is safe to carry a friend on your handlebar.",
+            "a": false
+          },
+          {
+            "q": "Drink water when you cycle on a hot day.",
+            "a": true
+          },
+          {
+            "q": "Small children should ride on a busy main road alone.",
+            "a": false
+          },
+          {
+            "q": "Show a hand signal before you turn.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ring your ___ before you pass someone.",
+            "a": "bell"
+          },
+          {
+            "q": "Wear bright clothes so drivers can ___ you.",
+            "a": "see"
+          },
+          {
+            "q": "Keep both your ___ on the pedals.",
+            "a": "feet"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things you check before a bike ride.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. brakes, tyres, helmet, bell, lights, laces tied."
+      }
+    ]
+  },
+  {
+    "id": "safety-rules-07",
+    "topic": "safety-rules",
+    "number": 7,
+    "level": "Practice",
+    "title": "A Family Road Trip to Fujairah",
+    "intro": "Kunal's family drives from Dubai to Fujairah for the weekend. Staying safe in the car is important.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the actions.",
+        "marks": 4,
+        "groups": [
+          "Safe",
+          "Not safe"
+        ],
+        "words": [
+          "put your head out of the window",
+          "sit in a car seat",
+          "shout at the driver",
+          "stand up while the car moves",
+          "sit in the back seat",
+          "play with the door handle",
+          "keep hands inside",
+          "get out on the pavement side"
+        ],
+        "a": {
+          "sit in a car seat": "Safe",
+          "sit in the back seat": "Safe",
+          "keep hands inside": "Safe",
+          "get out on the pavement side": "Safe",
+          "stand up while the car moves": "Not safe",
+          "put your head out of the window": "Not safe",
+          "shout at the driver": "Not safe",
+          "play with the door handle": "Not safe"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Young children should sit in the",
+            "options": [
+              "back",
+              "front"
+            ],
+            "after": "seat.",
+            "a": "back"
+          },
+          {
+            "before": "Never stay alone in a parked car because it gets very",
+            "options": [
+              "hot",
+              "clean"
+            ],
+            "after": ".",
+            "a": "hot"
+          },
+          {
+            "before": "Keep the doors",
+            "options": [
+              "locked",
+              "open"
+            ],
+            "after": "while the car is moving.",
+            "a": "locked"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A seat belt keeps us safe if the car stops suddenly.",
+            "a": true
+          },
+          {
+            "q": "It is fine to throw rubbish out of the car window.",
+            "a": false
+          },
+          {
+            "q": "We talk quietly so the driver can keep their eyes on the road.",
+            "a": true
+          },
+          {
+            "q": "A small child can sit on a grown-up's lap in the front seat.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Small children sit in a special car ___.",
+            "a": "seat"
+          },
+          {
+            "q": "We get out on the side of the ___, away from traffic.",
+            "a": "pavement / footpath / kerb"
+          },
+          {
+            "q": "If you feel car sick, tell a ___.",
+            "a": "grown-up / adult"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one rule for staying safe in a car.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"I always wear my seat belt.\" or \"I keep my hands inside.\""
+      }
+    ]
+  },
+  {
+    "id": "safety-rules-08",
+    "topic": "safety-rules",
+    "number": 8,
+    "level": "Practice",
+    "title": "Lost and Found at the Mall",
+    "intro": "Leela goes shopping at a busy mall in Abu Dhabi with her aunt. Escalators, lifts and crowds need care.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each place to its safety rule.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "escalator",
+            "right": "hold the handrail and stand still"
+          },
+          {
+            "left": "lift",
+            "right": "keep away from the closing doors"
+          },
+          {
+            "left": "crowd",
+            "right": "hold your grown-up's hand"
+          },
+          {
+            "left": "wet floor sign",
+            "right": "walk slowly around it"
+          },
+          {
+            "left": "shopping trolley",
+            "right": "never stand up in it"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct answer.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "If Leela gets lost, she should",
+            "options": [
+              "stay where she is",
+              "run outside"
+            ],
+            "after": ".",
+            "a": "stay where she is"
+          },
+          {
+            "before": "She can ask a",
+            "options": [
+              "shop worker at the counter",
+              "stranger in the car park"
+            ],
+            "after": "for help.",
+            "a": "shop worker at the counter"
+          },
+          {
+            "before": "Leela should know her aunt's",
+            "options": [
+              "phone number",
+              "shoe size"
+            ],
+            "after": ".",
+            "a": "phone number"
+          },
+          {
+            "before": "On the escalator, keep your feet away from the",
+            "options": [
+              "edges",
+              "middle"
+            ],
+            "after": ".",
+            "a": "edges"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "It is safe to sit on the escalator steps.",
+            "a": false
+          },
+          {
+            "q": "We should agree on a meeting place before shopping.",
+            "a": true
+          },
+          {
+            "q": "Leela can leave the mall with someone she does not know.",
+            "a": false
+          },
+          {
+            "q": "A security guard can help a lost child.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Press the lift ___ only once.",
+            "a": "button"
+          },
+          {
+            "q": "Let people come ___ of the lift before you get in.",
+            "a": "out"
+          },
+          {
+            "q": "Keep loose laces and scarves away from the moving ___.",
+            "a": "steps / escalator"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "What would you do if you got lost in a mall?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Stay where I am, ask a shop worker or security guard, and tell them my parent's phone number."
+      }
+    ]
+  },
+  {
+    "id": "safety-rules-09",
+    "topic": "safety-rules",
+    "number": 9,
+    "level": "Practice",
+    "title": "Safe at Home in a Tall Tower",
+    "intro": "Omar lives on the 20th floor of a tower in Dubai Marina. His mum teaches him rules to stay safe at home.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Climbing on the balcony railing is dangerous.",
+            "a": true
+          },
+          {
+            "q": "A plastic bag is a fun hat to put over your head.",
+            "a": false
+          },
+          {
+            "q": "Wires and plugs are not toys.",
+            "a": true
+          },
+          {
+            "q": "Toys left on the stairs can make someone trip.",
+            "a": true
+          },
+          {
+            "q": "It is safe to lean out of an open window.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each thing to how it can hurt us.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "open window",
+            "right": "you could fall out"
+          },
+          {
+            "left": "plastic bag",
+            "right": "it can stop you breathing"
+          },
+          {
+            "left": "loose wire",
+            "right": "it can give a shock"
+          },
+          {
+            "left": "tall shelf",
+            "right": "it can tip over if you climb it"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Omar asks Mum before he",
+            "options": [
+              "opens the front door",
+              "reads a book"
+            ],
+            "after": ".",
+            "a": "opens the front door"
+          },
+          {
+            "before": "Pills and medicines must be kept",
+            "options": [
+              "out of reach",
+              "on the floor"
+            ],
+            "after": ".",
+            "a": "out of reach"
+          },
+          {
+            "before": "Keep small coins away from",
+            "options": [
+              "babies",
+              "books"
+            ],
+            "after": "because they may swallow them.",
+            "a": "babies"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Pick up your ___ from the floor so no one trips.",
+            "a": "toys"
+          },
+          {
+            "q": "Never play with the window ___.",
+            "a": "lock / latch"
+          },
+          {
+            "q": "Ask an ___ to get things from high shelves.",
+            "a": "adult / grown-up"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two rules to stay safe at home.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. do not climb on the balcony, keep away from wires and sockets, do not play with plastic bags, tidy away toys."
+      }
+    ]
+  },
+  {
+    "id": "safety-rules-10",
+    "topic": "safety-rules",
+    "number": 10,
+    "level": "Practice",
+    "title": "First Aid at the Football Match",
+    "intro": "Class 2 in Delhi plays a football match. Coach Anand keeps a first-aid box ready for small hurts.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each first-aid item to its use.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "plaster",
+            "right": "covers a small cut"
+          },
+          {
+            "left": "ice pack",
+            "right": "helps a bump or swelling"
+          },
+          {
+            "left": "bandage",
+            "right": "wraps a hurt arm or knee"
+          },
+          {
+            "left": "antiseptic cream",
+            "right": "keeps germs out of a cut"
+          },
+          {
+            "left": "cotton wool",
+            "right": "gently cleans around a wound"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Wash a small cut with clean",
+            "options": [
+              "water",
+              "mud"
+            ],
+            "after": ".",
+            "a": "water"
+          },
+          {
+            "before": "For a nosebleed, sit down and lean",
+            "options": [
+              "forward",
+              "backward"
+            ],
+            "after": ".",
+            "a": "forward"
+          },
+          {
+            "before": "Always tell a",
+            "options": [
+              "grown-up",
+              "pet"
+            ],
+            "after": "when you get hurt.",
+            "a": "grown-up"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Rub dirt on a cut to stop it bleeding.",
+            "a": false
+          },
+          {
+            "q": "A first-aid box should be kept where adults can find it fast.",
+            "a": true
+          },
+          {
+            "q": "We can share a plaster that someone has already used.",
+            "a": false
+          },
+          {
+            "q": "Drinking water helps players who feel hot and tired.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A first-aid box often has a red ___ on it.",
+            "a": "cross / plus"
+          },
+          {
+            "q": "Wash your ___ before you touch a cut.",
+            "a": "hands"
+          },
+          {
+            "q": "Germs can make a dirty cut red and ___.",
+            "a": "sore / swollen / painful"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Your friend scrapes his knee. Write what you would do.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Tell the coach or an adult, wash the scrape with clean water, and put on a plaster."
+      }
+    ]
+  },
+  {
+    "id": "safety-rules-11",
+    "topic": "safety-rules",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Kite Day on the Rooftop",
+    "intro": "It is Uttarayan in Ahmedabad. Meet and his sister fly kites from their roof with Dad.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the best answer.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Fly kites in an open place far from",
+            "options": [
+              "electric wires",
+              "the sky"
+            ],
+            "after": ".",
+            "a": "electric wires"
+          },
+          {
+            "before": "Stay away from the roof",
+            "options": [
+              "edge",
+              "door"
+            ],
+            "after": "when you pull the kite.",
+            "a": "edge"
+          },
+          {
+            "before": "Glass-coated string can cut",
+            "options": [
+              "birds and people",
+              "only paper"
+            ],
+            "after": ".",
+            "a": "birds and people"
+          },
+          {
+            "before": "If a kite gets stuck on a wire,",
+            "options": [
+              "leave it there",
+              "climb up to get it"
+            ],
+            "after": ".",
+            "a": "leave it there"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each danger to why it is unsafe.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "glass-coated string",
+            "right": "can cut hands and hurt birds"
+          },
+          {
+            "left": "roof edge",
+            "right": "you could fall"
+          },
+          {
+            "left": "hot midday sun",
+            "right": "can make you ill from the heat"
+          },
+          {
+            "left": "busy road below",
+            "right": "cars cannot stop quickly"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Running backwards on a roof while flying a kite is safe.",
+            "a": false
+          },
+          {
+            "q": "A roof with a high wall around it is safer.",
+            "a": true
+          },
+          {
+            "q": "Wear a cap and drink water while flying kites in the sun.",
+            "a": true
+          },
+          {
+            "q": "Chasing a falling kite across the road is safe.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Make each sentence safe. Write it again.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Meet flies his kite near the power lines.",
+            "a": "Meet flies his kite in an open place, far from power lines."
+          },
+          {
+            "q": "Meet's sister climbs the water tank to get a kite.",
+            "a": "Meet's sister asks Dad to help get the kite."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why is it dangerous to fly a kite near electric wires?",
+        "marks": 2,
+        "lines": 2,
+        "a": "The kite or string can touch the wires and give a shock, or the kite gets stuck."
+      }
+    ]
+  },
+  {
+    "id": "safety-rules-12",
+    "topic": "safety-rules",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Spot the Unsafe Things in Aryan's Story",
+    "intro": "Aryan from Bhopal wrote a story about his Sunday, but he did some unsafe things. Read and help him.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Each sentence is unsafe. Write a safe one.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Aryan patted a stray dog while it was eating.",
+            "a": "Aryan stayed away from the stray dog while it was eating."
+          },
+          {
+            "q": "Aryan swam in the pool when no adult was there.",
+            "a": "Aryan swam in the pool only when an adult was watching."
+          },
+          {
+            "q": "Aryan told a stranger online where he lives.",
+            "a": "Aryan did not tell the stranger where he lives and told a grown-up."
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write safe or unsafe.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "wear a helmet on a scooter",
+            "a": "safe"
+          },
+          {
+            "q": "touch a snake in the park",
+            "a": "unsafe"
+          },
+          {
+            "q": "tease a street dog",
+            "a": "unsafe"
+          },
+          {
+            "q": "share your password with friends",
+            "a": "unsafe"
+          },
+          {
+            "q": "wash hands before eating",
+            "a": "safe"
+          },
+          {
+            "q": "cross at the zebra crossing",
+            "a": "safe"
+          },
+          {
+            "q": "eat berries from an unknown bush",
+            "a": "unsafe"
+          },
+          {
+            "q": "tell a grown-up when you feel scared",
+            "a": "safe"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We should never tease or chase animals.",
+            "a": true
+          },
+          {
+            "q": "It is fine to open a website a grown-up has not checked.",
+            "a": false
+          },
+          {
+            "q": "If a dog barks at you, stand still and do not run.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A stranger online asks for your photo. You",
+            "options": [
+              "say no and tell a grown-up",
+              "send it"
+            ],
+            "after": ".",
+            "a": "say no and tell a grown-up"
+          },
+          {
+            "before": "Aryan finds broken glass on the floor. He should",
+            "options": [
+              "tell an adult",
+              "pick it up"
+            ],
+            "after": ".",
+            "a": "tell an adult"
+          },
+          {
+            "before": "If an animal scratches you, wash it and tell a",
+            "options": [
+              "grown-up",
+              "friend"
+            ],
+            "after": "at once.",
+            "a": "grown-up"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one rule Aryan should follow next Sunday.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"Only swim when an adult is watching.\""
+      }
+    ]
+  },
+  {
+    "id": "safety-rules-13",
+    "topic": "safety-rules",
+    "number": 13,
+    "level": "Challenge",
+    "title": "When the Sandstorm Came",
+    "intro": "One afternoon a sandstorm blows over Ras Al Khaimah. A week later, Grandpa in Chennai calls about a big rainstorm.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "In a sandstorm, stay",
+            "options": [
+              "indoors",
+              "on the beach"
+            ],
+            "after": ".",
+            "a": "indoors"
+          },
+          {
+            "before": "Close all the",
+            "options": [
+              "windows",
+              "books"
+            ],
+            "after": "to keep the dust out.",
+            "a": "windows"
+          },
+          {
+            "before": "If you must go out, cover your nose and mouth with a",
+            "options": [
+              "mask",
+              "paper bag"
+            ],
+            "after": ".",
+            "a": "mask"
+          },
+          {
+            "before": "Never walk through deep",
+            "options": [
+              "flood water",
+              "sunshine"
+            ],
+            "after": ".",
+            "a": "flood water"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Sand and dust can hurt your eyes.",
+            "a": true
+          },
+          {
+            "q": "It is safe to touch a fallen electric wire after a storm.",
+            "a": false
+          },
+          {
+            "q": "Open drains can be hidden under rain water.",
+            "a": true
+          },
+          {
+            "q": "Lightning cannot hurt anyone in an open field.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each weather to its safety rule.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "sandstorm",
+            "right": "wear a mask and stay inside"
+          },
+          {
+            "left": "heavy rain",
+            "right": "keep away from open drains"
+          },
+          {
+            "left": "thunderstorm",
+            "right": "stay indoors, away from tall trees"
+          },
+          {
+            "left": "very hot day",
+            "right": "drink water and stay in the shade"
+          },
+          {
+            "left": "thick fog",
+            "right": "walk slowly and wear bright clothes"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The weather ___ tells us when a storm is coming.",
+            "a": "forecast / report"
+          },
+          {
+            "q": "Keep a ___ ready at home in case the lights go out.",
+            "a": "torch"
+          },
+          {
+            "q": "After a storm, wait for an adult to say it is ___ to go out.",
+            "a": "safe"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things you would do in a sandstorm.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. stay indoors, close the windows, wear a mask, protect my eyes."
+      }
+    ]
+  },
+  {
+    "id": "safety-rules-14",
+    "topic": "safety-rules",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Fire Safety Day with the Firefighters",
+    "intro": "Firefighters visit a school in Pune. They show Class 2 what to do if there is a fire.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the best answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "In a smoky room, crawl",
+            "options": [
+              "low",
+              "on the table"
+            ],
+            "after": "to the door.",
+            "a": "low"
+          },
+          {
+            "before": "If there is a fire, you should",
+            "options": [
+              "get out fast",
+              "hide in a cupboard"
+            ],
+            "after": ".",
+            "a": "get out fast"
+          },
+          {
+            "before": "A beeping smoke alarm warns us about",
+            "options": [
+              "smoke",
+              "rain"
+            ],
+            "after": ".",
+            "a": "smoke"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each word to its meaning.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "smoke alarm",
+            "right": "beeps loudly when there is smoke"
+          },
+          {
+            "left": "fire extinguisher",
+            "right": "sprays to put out a small fire"
+          },
+          {
+            "left": "fire exit",
+            "right": "a door to get out quickly"
+          },
+          {
+            "left": "meeting point",
+            "right": "where everyone gathers outside"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "We should go back inside to get our toys during a fire.",
+            "a": false
+          },
+          {
+            "q": "Fire extinguishers should be used by adults.",
+            "a": true
+          },
+          {
+            "q": "Smoke rises, so the air near the floor is cleaner.",
+            "a": true
+          },
+          {
+            "q": "Our family should meet at a safe place outside.",
+            "a": true
+          },
+          {
+            "q": "It is fine to play with a lighter if you are careful.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Each rule is wrong. Write it correctly.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Run if your clothes catch fire.",
+            "a": "Stop, drop and roll if your clothes catch fire."
+          },
+          {
+            "q": "Open a door that feels hot.",
+            "a": "Do not open a door that feels hot."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "The smoke alarm beeps at night. Write what you would do.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Shout to wake my family, crawl low, get out fast, go to the meeting point and call the fire service from outside (997 in the UAE, 101 or 112 in India)."
+      }
+    ]
+  },
+  {
+    "id": "safety-rules-15",
+    "topic": "safety-rules",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Safety Week Assembly in Mumbai",
+    "intro": "Read Asha's speech. Look both ways before you cross. Never swim without a grown-up. Tell a teacher if someone is hurt. Keep away from fire and sharp things.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the speech and fill in.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Look both ___ before you cross.",
+            "a": "ways"
+          },
+          {
+            "q": "Never swim without a ___.",
+            "a": "grown-up / adult"
+          },
+          {
+            "q": "Tell a ___ if someone is hurt.",
+            "a": "teacher"
+          },
+          {
+            "q": "Keep away from fire and ___ things.",
+            "a": "sharp"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the rules by where we use them.",
+        "marks": 9,
+        "groups": [
+          "Road",
+          "Home",
+          "Water"
+        ],
+        "words": [
+          "keep pills up high",
+          "learn to swim",
+          "keep away from the hot iron",
+          "wait at the kerb",
+          "walk, do not run, by the pool",
+          "use the footbridge",
+          "stop at the red signal",
+          "keep wires tidy",
+          "never dive into shallow water"
+        ],
+        "a": {
+          "wait at the kerb": "Road",
+          "use the footbridge": "Road",
+          "stop at the red signal": "Road",
+          "keep pills up high": "Home",
+          "keep away from the hot iron": "Home",
+          "keep wires tidy": "Home",
+          "learn to swim": "Water",
+          "never dive into shallow water": "Water",
+          "walk, do not run, by the pool": "Water"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Asha says we may swim alone.",
+            "a": false
+          },
+          {
+            "q": "Asha says we should look both ways before crossing.",
+            "a": true
+          },
+          {
+            "q": "Asha's speech is about staying safe.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Who can help? Write the helper.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "someone is hurt at school",
+            "a": "teacher / school nurse"
+          },
+          {
+            "q": "a building is on fire",
+            "a": "firefighter / fire service"
+          },
+          {
+            "q": "you are lost in the street",
+            "a": "police officer / police"
+          },
+          {
+            "q": "a child needs help in the sea",
+            "a": "lifeguard"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one safety rule you would add to Asha's speech.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"Always wear a seat belt in the car.\""
+      }
+    ]
   }
 ]

@@ -707,5 +707,1339 @@
         "a": "Any sensible pair, e.g. a suitcase (kg) and a water cooler (L)."
       }
     ]
+  },
+  {
+    "id": "measurement-06",
+    "topic": "measurement",
+    "number": 6,
+    "level": "Practice",
+    "title": "Baking Biscuits with Nana",
+    "intro": "Nana and Kiran bake biscuits. They weigh flour in g and kg and measure milk in mL and L.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the right unit.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A big bag of flour weighs 1",
+            "options": [
+              "g",
+              "kg"
+            ],
+            "after": ".",
+            "a": "kg"
+          },
+          {
+            "before": "Nana adds 200",
+            "options": [
+              "g",
+              "kg"
+            ],
+            "after": "of butter.",
+            "a": "g"
+          },
+          {
+            "before": "Kiran pours 250",
+            "options": [
+              "mL",
+              "L"
+            ],
+            "after": "of milk.",
+            "a": "mL"
+          },
+          {
+            "before": "The big milk can holds 5",
+            "options": [
+              "mL",
+              "L"
+            ],
+            "after": ".",
+            "a": "L"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add the grams.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "250",
+            "op": "+",
+            "bottom": "175",
+            "a": "425"
+          },
+          {
+            "top": "340",
+            "op": "+",
+            "bottom": "285",
+            "a": "625"
+          },
+          {
+            "top": "165",
+            "op": "+",
+            "bottom": "215",
+            "a": "380"
+          },
+          {
+            "top": "408",
+            "op": "+",
+            "bottom": "397",
+            "a": "805"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write in g.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3 kg",
+            "a": "3000 g / 3000"
+          },
+          {
+            "q": "1 kg 250 g",
+            "a": "1250 g / 1250"
+          },
+          {
+            "q": "4 kg 500 g",
+            "a": "4500 g / 4500"
+          },
+          {
+            "q": "half a kilogram",
+            "a": "500 g / 500"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the baking problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The recipe needs 300 g of flour and 150 g of sugar. That is ___ g in all.",
+            "a": "450"
+          },
+          {
+            "q": "Nana had 1 kg of sugar. She used 400 g. ___ g is left.",
+            "a": "600"
+          },
+          {
+            "q": "Each batch needs 100 mL of milk. 3 batches need ___ mL.",
+            "a": "300"
+          },
+          {
+            "q": "One biscuit weighs 20 g. 5 biscuits weigh ___ g.",
+            "a": "100"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name one thing in the kitchen you would weigh in g.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. salt, butter, a spoon of sugar, spices."
+      }
+    ]
+  },
+  {
+    "id": "measurement-07",
+    "topic": "measurement",
+    "number": 7,
+    "level": "Practice",
+    "title": "At the Tailor's Shop",
+    "intro": "Mr Iqbal the tailor measures cloth for new school uniforms. Remember: 1 m = 100 cm.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write in cm.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "3 m 40 cm",
+            "a": "340 cm / 340"
+          },
+          {
+            "q": "5 m 15 cm",
+            "a": "515 cm / 515"
+          },
+          {
+            "q": "8 m",
+            "a": "800 cm / 800"
+          },
+          {
+            "q": "1 m 9 cm",
+            "a": "109 cm / 109"
+          },
+          {
+            "q": "2 m 75 cm",
+            "a": "275 cm / 275"
+          },
+          {
+            "q": "6 m 60 cm",
+            "a": "660 cm / 660"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write in m and cm.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "145 cm",
+            "a": "1 m 45 cm"
+          },
+          {
+            "q": "230 cm",
+            "a": "2 m 30 cm"
+          },
+          {
+            "q": "508 cm",
+            "a": "5 m 8 cm"
+          },
+          {
+            "q": "390 cm",
+            "a": "3 m 90 cm"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the longer piece of cloth.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "1 m 20 cm",
+              "102 cm"
+            ],
+            "after": "is longer.",
+            "a": "1 m 20 cm"
+          },
+          {
+            "before": "",
+            "options": [
+              "250 cm",
+              "3 m"
+            ],
+            "after": "is longer.",
+            "a": "3 m"
+          },
+          {
+            "before": "",
+            "options": [
+              "4 m 5 cm",
+              "450 cm"
+            ],
+            "after": "is longer.",
+            "a": "450 cm"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Subtract the lengths in cm.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "250",
+            "op": "-",
+            "bottom": "85",
+            "a": "165"
+          },
+          {
+            "top": "300",
+            "op": "-",
+            "bottom": "145",
+            "a": "155"
+          },
+          {
+            "top": "175",
+            "op": "-",
+            "bottom": "98",
+            "a": "77"
+          },
+          {
+            "top": "410",
+            "op": "-",
+            "bottom": "236",
+            "a": "174"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the tailor problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A shirt needs 150 cm of cloth and shorts need 90 cm. Together they need ___ cm.",
+            "a": "240"
+          },
+          {
+            "q": "Mr Iqbal had 5 m of cloth. He used 2 m. ___ m is left.",
+            "a": "3"
+          },
+          {
+            "q": "His measuring tape is 1 m 50 cm long. That is ___ cm.",
+            "a": "150"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "measurement-08",
+    "topic": "measurement",
+    "number": 8,
+    "level": "Practice",
+    "title": "Watering the Balcony Plants",
+    "intro": "Sara and her grandpa water the plants on the balcony with jugs, cans and buckets.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Would you measure it in mL or L?",
+        "marks": 6,
+        "groups": [
+          "mL",
+          "L"
+        ],
+        "words": [
+          "a watering can",
+          "a cup of water for a cactus",
+          "a big bucket",
+          "a small spray bottle",
+          "a rooftop water tank",
+          "a dropper of plant food"
+        ],
+        "a": {
+          "a watering can": "L",
+          "a cup of water for a cactus": "mL",
+          "a big bucket": "L",
+          "a small spray bottle": "mL",
+          "a rooftop water tank": "L",
+          "a dropper of plant food": "mL"
+        }
+      },
+      {
+        "type": "pairs",
+        "title": "Write in mL.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "4 L",
+            "a": "4000 mL / 4000"
+          },
+          {
+            "q": "1 L 500 mL",
+            "a": "1500 mL / 1500"
+          },
+          {
+            "q": "2 L 750 mL",
+            "a": "2750 mL / 2750"
+          },
+          {
+            "q": "5 L",
+            "a": "5000 mL / 5000"
+          },
+          {
+            "q": "half a litre",
+            "a": "500 mL / 500"
+          },
+          {
+            "q": "3 L 100 mL",
+            "a": "3100 mL / 3100"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add the millilitres.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "275",
+            "op": "+",
+            "bottom": "350",
+            "a": "625"
+          },
+          {
+            "top": "460",
+            "op": "+",
+            "bottom": "285",
+            "a": "745"
+          },
+          {
+            "top": "125",
+            "op": "+",
+            "bottom": "575",
+            "a": "700"
+          },
+          {
+            "top": "690",
+            "op": "+",
+            "bottom": "245",
+            "a": "935"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Two 500 mL jugs fill a 1 L bottle.",
+            "a": true
+          },
+          {
+            "q": "A bucket holds about 10 mL of water.",
+            "a": false
+          },
+          {
+            "q": "3 L is more than 2500 mL.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the watering problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Grandpa's can holds 5 L. He uses 3 L on the roses. ___ L is left.",
+            "a": "2"
+          },
+          {
+            "q": "Sara gives each of 4 pots 200 mL. She uses ___ mL.",
+            "a": "800"
+          },
+          {
+            "q": "The tank has 20 L. They fill 2 buckets of 5 L each. ___ L is left in the tank.",
+            "a": "10"
+          },
+          {
+            "q": "Sara's jug holds 750 mL. Grandpa's jug holds 1 L. Grandpa's jug holds ___ mL more.",
+            "a": "250"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "measurement-09",
+    "topic": "measurement",
+    "number": 9,
+    "level": "Practice",
+    "title": "Our Family Height Chart",
+    "intro": "Rohan marks heights on the wall at home. Rohan 122 cm, Maya 98 cm, Mum 158 cm, Dad 176 cm, Grandma 149 cm.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The tallest person is",
+            "options": [
+              "Mum",
+              "Dad",
+              "Grandma"
+            ],
+            "after": ".",
+            "a": "Dad"
+          },
+          {
+            "before": "The shortest person is",
+            "options": [
+              "Rohan",
+              "Maya",
+              "Grandma"
+            ],
+            "after": ".",
+            "a": "Maya"
+          },
+          {
+            "before": "Mum is",
+            "options": [
+              "taller",
+              "shorter"
+            ],
+            "after": "than Grandma.",
+            "a": "taller"
+          },
+          {
+            "before": "Rohan is",
+            "options": [
+              "more than",
+              "less than"
+            ],
+            "after": "1 m tall.",
+            "a": "more than"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the difference in height.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Dad is ___ cm taller than Mum.",
+            "a": "18"
+          },
+          {
+            "q": "Mum is ___ cm taller than Rohan.",
+            "a": "36"
+          },
+          {
+            "q": "Rohan is ___ cm taller than Maya.",
+            "a": "24"
+          },
+          {
+            "q": "Dad is ___ cm taller than Maya.",
+            "a": "78"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write each height in m and cm.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "122 cm",
+            "a": "1 m 22 cm"
+          },
+          {
+            "q": "158 cm",
+            "a": "1 m 58 cm"
+          },
+          {
+            "q": "176 cm",
+            "a": "1 m 76 cm"
+          },
+          {
+            "q": "149 cm",
+            "a": "1 m 49 cm"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each thing to its height.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "a door",
+            "right": "2 m"
+          },
+          {
+            "left": "a teacup",
+            "right": "8 cm"
+          },
+          {
+            "left": "a dining table",
+            "right": "75 cm"
+          },
+          {
+            "left": "a tall building",
+            "right": "100 m"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the height problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Last year Rohan was 115 cm. He grew ___ cm.",
+            "a": "7"
+          },
+          {
+            "q": "Maya will grow 6 cm this year. She will be ___ cm.",
+            "a": "104"
+          },
+          {
+            "q": "Rohan stands on a 30 cm stool. Now the top of his head is ___ cm from the floor.",
+            "a": "152"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "measurement-10",
+    "topic": "measurement",
+    "number": 10,
+    "level": "Practice",
+    "title": "Parcels at the Post Office",
+    "intro": "Aditi and her dad send parcels at the post office. The clerk weighs each one on a scale.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Is the parcel lighter or heavier than 1 kg?",
+        "marks": 6,
+        "groups": [
+          "Lighter than 1 kg",
+          "Heavier than 1 kg"
+        ],
+        "words": [
+          "750 g",
+          "2 kg",
+          "900 g",
+          "1 kg 200 g",
+          "1500 g",
+          "450 g"
+        ],
+        "a": {
+          "750 g": "Lighter than 1 kg",
+          "2 kg": "Heavier than 1 kg",
+          "900 g": "Lighter than 1 kg",
+          "1 kg 200 g": "Heavier than 1 kg",
+          "1500 g": "Heavier than 1 kg",
+          "450 g": "Lighter than 1 kg"
+        }
+      },
+      {
+        "type": "pairs",
+        "title": "Write in g.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "2 kg 300 g",
+            "a": "2300 g / 2300"
+          },
+          {
+            "q": "1 kg 75 g",
+            "a": "1075 g / 1075"
+          },
+          {
+            "q": "6 kg",
+            "a": "6000 g / 6000"
+          },
+          {
+            "q": "3 kg 50 g",
+            "a": "3050 g / 3050"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add the parcel weights in g.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "345",
+            "op": "+",
+            "bottom": "278",
+            "a": "623"
+          },
+          {
+            "top": "509",
+            "op": "+",
+            "bottom": "186",
+            "a": "695"
+          },
+          {
+            "top": "420",
+            "op": "+",
+            "bottom": "399",
+            "a": "819"
+          },
+          {
+            "top": "263",
+            "op": "+",
+            "bottom": "458",
+            "a": "721"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the post office problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Parcel A weighs 3 kg. Parcel B weighs 5 kg. Together they weigh ___ kg.",
+            "a": "8"
+          },
+          {
+            "q": "A full box weighs 900 g. The toy inside weighs 650 g. The empty box weighs ___ g.",
+            "a": "250"
+          },
+          {
+            "q": "Aditi posts 4 letters of 20 g each. They weigh ___ g.",
+            "a": "80"
+          },
+          {
+            "q": "Dad's parcel is 2 kg 400 g. That is ___ g.",
+            "a": "2400"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name something lighter than 1 kg that you could post.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. a letter, a birthday card, a small book."
+      }
+    ]
+  },
+  {
+    "id": "measurement-11",
+    "topic": "measurement",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Sandcastles at Jumeirah Beach",
+    "intro": "Liam and Aisha build sandcastles. Their bucket holds 2 L and their water can holds 5 L.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve the beach problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "They fill the bucket with water 4 times. That is ___ L.",
+            "a": "8"
+          },
+          {
+            "q": "The moat around the castle is 3 m long. That is ___ cm.",
+            "a": "300"
+          },
+          {
+            "q": "The big castle is 45 cm tall. The small one is 28 cm. Together they are ___ cm.",
+            "a": "73"
+          },
+          {
+            "q": "The 5 L can is full. They pour out 2 buckets. ___ L is left in the can.",
+            "a": "1"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best estimate.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A bucket of sand weighs about",
+            "options": [
+              "3 g",
+              "3 kg",
+              "300 kg"
+            ],
+            "after": ".",
+            "a": "3 kg"
+          },
+          {
+            "before": "A seashell is about",
+            "options": [
+              "4 cm",
+              "4 m"
+            ],
+            "after": "long.",
+            "a": "4 cm"
+          },
+          {
+            "before": "A water bottle holds about",
+            "options": [
+              "500 mL",
+              "50 L"
+            ],
+            "after": ".",
+            "a": "500 mL"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Change the units.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "4 L 250 mL",
+            "a": "4250 mL / 4250"
+          },
+          {
+            "q": "3500 mL",
+            "a": "3 L 500 mL"
+          },
+          {
+            "q": "205 cm",
+            "a": "2 m 5 cm"
+          },
+          {
+            "q": "6 m 30 cm",
+            "a": "630 cm / 630"
+          },
+          {
+            "q": "1 kg 800 g",
+            "a": "1800 g / 1800"
+          },
+          {
+            "q": "2050 g",
+            "a": "2 kg 50 g"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "2 L 50 mL = 2500 mL",
+            "a": false
+          },
+          {
+            "q": "350 cm is more than 3 m.",
+            "a": true
+          },
+          {
+            "q": "Half of 2 L is 1000 mL.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the two-step problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Liam's spade is 30 cm and Aisha's is 25 cm. End to end, they are ___ cm short of 1 m.",
+            "a": "45"
+          },
+          {
+            "q": "They walk 100 m to the sea and 100 m back, 3 times. They walk ___ m.",
+            "a": "600"
+          },
+          {
+            "q": "A bag of sand weighs 5 kg. They use 2 kg 500 g. ___ g is left.",
+            "a": "2500"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "measurement-12",
+    "topic": "measurement",
+    "number": 12,
+    "level": "Challenge",
+    "title": "The Swimming Lesson",
+    "intro": "Ananya swims at the club pool. The pool is 25 m long. The coach checks her water bottle too.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Work out the distances.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ananya swims 2 lengths. That is ___ m.",
+            "a": "50"
+          },
+          {
+            "q": "She swims 4 lengths. That is ___ m.",
+            "a": "100"
+          },
+          {
+            "q": "___ lengths make 150 m.",
+            "a": "6"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Subtract the metres.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "300",
+            "op": "-",
+            "bottom": "125",
+            "a": "175"
+          },
+          {
+            "top": "750",
+            "op": "-",
+            "bottom": "480",
+            "a": "270"
+          },
+          {
+            "top": "640",
+            "op": "-",
+            "bottom": "355",
+            "a": "285"
+          },
+          {
+            "top": "900",
+            "op": "-",
+            "bottom": "565",
+            "a": "335"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "1 m is",
+            "options": [
+              "10 cm",
+              "100 cm",
+              "1000 cm"
+            ],
+            "after": ".",
+            "a": "100 cm"
+          },
+          {
+            "before": "1 kg is",
+            "options": [
+              "100 g",
+              "1000 g"
+            ],
+            "after": ".",
+            "a": "1000 g"
+          },
+          {
+            "before": "The longest is",
+            "options": [
+              "2 m 8 cm",
+              "280 cm",
+              "2 m 18 cm"
+            ],
+            "after": ".",
+            "a": "280 cm"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "8 lengths of a 25 m pool make 200 m.",
+            "a": true
+          },
+          {
+            "q": "Ananya's 750 mL bottle holds more than 1 L.",
+            "a": false
+          },
+          {
+            "q": "Two 500 mL bottles hold 1 L.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the two-step problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ananya's bottle holds 750 mL. She drinks 300 mL before and 250 mL after the swim. ___ mL is left.",
+            "a": "200"
+          },
+          {
+            "q": "The coach's rope is 5 m long. He cuts off 1 m 50 cm. ___ cm is left.",
+            "a": "350"
+          },
+          {
+            "q": "Ananya weighs 26 kg. Her swim bag weighs 3 kg. With her bag she weighs ___ kg.",
+            "a": "29"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Ananya says 1 m 5 cm is the same as 150 cm. Is she right? Say why.",
+        "marks": 2,
+        "lines": 1,
+        "a": "No. 1 m 5 cm = 105 cm."
+      }
+    ]
+  },
+  {
+    "id": "measurement-13",
+    "topic": "measurement",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Ribbons for the Annual Day Stage",
+    "intro": "Ms Pinto decorates the Annual Day stage with ribbons, garlands and balloons.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write in cm.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3 m 8 cm",
+            "a": "308 cm / 308"
+          },
+          {
+            "q": "7 m 70 cm",
+            "a": "770 cm / 770"
+          },
+          {
+            "q": "9 m 1 cm",
+            "a": "901 cm / 901"
+          },
+          {
+            "q": "4 m 45 cm",
+            "a": "445 cm / 445"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "2 m 5 cm",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "250 cm",
+            "a": "<"
+          },
+          {
+            "before": "1 m 60 cm",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "160 cm",
+            "a": "="
+          },
+          {
+            "before": "400 cm",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "3 m 99 cm",
+            "a": ">"
+          },
+          {
+            "before": "5 m",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "505 cm",
+            "a": "<"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the two-step problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A ribbon is 3 m long. Ms Pinto cuts 4 pieces of 50 cm. ___ cm is left.",
+            "a": "100"
+          },
+          {
+            "q": "One garland is 2 m 40 cm. Another is 1 m 85 cm. Together they are ___ cm.",
+            "a": "425"
+          },
+          {
+            "q": "She needs 6 m of ribbon. She has 4 m 25 cm. She needs ___ cm more.",
+            "a": "175"
+          },
+          {
+            "q": "Each balloon string is 75 cm. 4 strings are ___ cm.",
+            "a": "300"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A 1 m ribbon cut into 4 equal pieces gives 25 cm pieces.",
+            "a": true
+          },
+          {
+            "q": "450 cm = 4 m 5 cm",
+            "a": false
+          },
+          {
+            "q": "A garland 2 m long is longer than 190 cm.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Ms Pinto has 1 m of ribbon. How many 20 cm bows can she make? Show your working.",
+        "marks": 2,
+        "lines": 2,
+        "a": "5 bows: 20 + 20 + 20 + 20 + 20 = 100 cm."
+      }
+    ]
+  },
+  {
+    "id": "measurement-14",
+    "topic": "measurement",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Fruit Juice Party",
+    "intro": "Zayd's class makes fruit juice for a party. Some of the jug labels have mistakes.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is the label right? Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "2 L 500 mL = 2500 mL",
+            "a": true
+          },
+          {
+            "q": "3 L = 300 mL",
+            "a": false
+          },
+          {
+            "q": "1500 mL = 1 L 50 mL",
+            "a": false
+          },
+          {
+            "q": "4 L 20 mL = 4020 mL",
+            "a": true
+          },
+          {
+            "q": "Half a litre = 500 mL",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Correct the wrong labels.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3 L = 300 mL",
+            "a": "3 L = 3000 mL"
+          },
+          {
+            "q": "1500 mL = 1 L 50 mL",
+            "a": "1500 mL = 1 L 500 mL"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add the juice in mL.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "450",
+            "op": "+",
+            "bottom": "375",
+            "a": "825"
+          },
+          {
+            "top": "180",
+            "op": "+",
+            "bottom": "640",
+            "a": "820"
+          },
+          {
+            "top": "365",
+            "op": "+",
+            "bottom": "258",
+            "a": "623"
+          },
+          {
+            "top": "505",
+            "op": "+",
+            "bottom": "395",
+            "a": "900"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the party problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "They mix 1 L of orange juice and 500 mL of mango juice. They have ___ mL.",
+            "a": "1500"
+          },
+          {
+            "q": "Each cup holds 200 mL. 5 cups need ___ mL.",
+            "a": "1000"
+          },
+          {
+            "q": "They have 2 L of juice. They pour 6 cups of 250 mL. ___ mL is left.",
+            "a": "500"
+          },
+          {
+            "q": "A 1 L jug can fill ___ glasses of 250 mL.",
+            "a": "4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "measurement-15",
+    "topic": "measurement",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Shopping for the Onam Sadya",
+    "intro": "Lakshmi and her mother shop for the Onam feast. They buy rice, vegetables, oil and spices.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each thing to its best measure.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "a sack of rice",
+            "right": "10 kg"
+          },
+          {
+            "left": "a bottle of coconut oil",
+            "right": "1 L"
+          },
+          {
+            "left": "a banana leaf",
+            "right": "60 cm"
+          },
+          {
+            "left": "a packet of cardamom",
+            "right": "50 g"
+          },
+          {
+            "left": "a spoon of ghee",
+            "right": "5 mL"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Change the units.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "5 kg 250 g",
+            "a": "5250 g / 5250"
+          },
+          {
+            "q": "2 L 5 mL",
+            "a": "2005 mL / 2005"
+          },
+          {
+            "q": "4 m 4 cm",
+            "a": "404 cm / 404"
+          },
+          {
+            "q": "1750 g",
+            "a": "1 kg 750 g"
+          },
+          {
+            "q": "3200 mL",
+            "a": "3 L 200 mL"
+          },
+          {
+            "q": "610 cm",
+            "a": "6 m 10 cm"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the two-step problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "They buy 5 kg of rice, 2 kg of jaggery and 500 g of cashews. That is ___ g in all.",
+            "a": "7500"
+          },
+          {
+            "q": "Mum had 3 L of coconut oil. She used 1 L 500 mL. ___ mL is left.",
+            "a": "1500"
+          },
+          {
+            "q": "A banana leaf is 60 cm long. 5 leaves in a row are ___ cm long.",
+            "a": "300"
+          },
+          {
+            "q": "4 bowls of 250 mL payasam make ___ L.",
+            "a": "1"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The heaviest is",
+            "options": [
+              "1 kg 100 g",
+              "1050 g",
+              "1 kg 10 g"
+            ],
+            "after": ".",
+            "a": "1 kg 100 g"
+          },
+          {
+            "before": "The most oil is",
+            "options": [
+              "2 L",
+              "1900 mL",
+              "2 L 50 mL"
+            ],
+            "after": ".",
+            "a": "2 L 50 mL"
+          },
+          {
+            "before": "The shortest is",
+            "options": [
+              "90 cm",
+              "1 m",
+              "1 m 2 cm"
+            ],
+            "after": ".",
+            "a": "90 cm"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Help Mum plan. Write one thing for the feast you would measure in kg, g, L and mL.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. rice (kg), cardamom (g), coconut oil (L), ghee (mL)."
+      }
+    ]
   }
 ]

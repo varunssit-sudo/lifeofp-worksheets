@@ -631,5 +631,1250 @@
         ]
       }
     ]
+  },
+  {
+    "id": "shapes-06",
+    "topic": "shapes",
+    "number": 6,
+    "level": "Practice",
+    "title": "Rangoli Patterns for Diwali",
+    "intro": "Tanvi and her cousin Rohan draw a rangoli on the floor. They use many flat shapes.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write how many corners.",
+        "items": [
+          {
+            "q": "hexagon",
+            "a": "6"
+          },
+          {
+            "q": "triangle",
+            "a": "3"
+          },
+          {
+            "q": "oval",
+            "a": "0"
+          },
+          {
+            "q": "pentagon",
+            "a": "5"
+          },
+          {
+            "q": "square",
+            "a": "4"
+          },
+          {
+            "q": "octagon",
+            "a": "8"
+          }
+        ],
+        "marks": 6
+      },
+      {
+        "type": "choice",
+        "title": "Circle the shape.",
+        "items": [
+          {
+            "before": "A shape with 5 straight sides is a",
+            "options": [
+              "pentagon",
+              "hexagon",
+              "square"
+            ],
+            "after": "",
+            "a": "pentagon"
+          },
+          {
+            "before": "A round shape with no corners is a",
+            "options": [
+              "circle",
+              "triangle",
+              "rectangle"
+            ],
+            "after": "",
+            "a": "circle"
+          },
+          {
+            "before": "A shape with 6 corners is a",
+            "options": [
+              "pentagon",
+              "hexagon",
+              "octagon"
+            ],
+            "after": "",
+            "a": "hexagon"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "A rectangle has 4 corners.",
+            "a": true
+          },
+          {
+            "q": "An oval has straight sides.",
+            "a": false
+          },
+          {
+            "q": "A pentagon has more sides than a square.",
+            "a": true
+          },
+          {
+            "q": "All the sides of a rectangle are always equal.",
+            "a": false
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "fill",
+        "title": "Solve the rangoli problems.",
+        "items": [
+          {
+            "q": "Tanvi draws 4 triangles. They have ___ corners in all.",
+            "a": "12"
+          },
+          {
+            "q": "Rohan draws a hexagon and a square. They have ___ sides in all.",
+            "a": "10"
+          },
+          {
+            "q": "Tanvi draws 3 pentagons. They have ___ sides in all.",
+            "a": "15"
+          },
+          {
+            "q": "A hexagon has ___ more corners than a triangle.",
+            "a": "3"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "lines",
+        "title": "Draw a rangoli with 2 shapes. Write their names.",
+        "lines": 1,
+        "a": "e.g. a circle and a hexagon",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "shapes-07",
+    "topic": "shapes",
+    "number": 7,
+    "level": "Practice",
+    "title": "Shopping at the Supermarket",
+    "intro": "Kenji and his dad shop at a supermarket in Al Barsha. Many things on the shelves are solid shapes.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each thing to its solid shape.",
+        "items": [
+          {
+            "left": "a box of toothpaste",
+            "right": "cuboid"
+          },
+          {
+            "left": "a tennis ball",
+            "right": "sphere"
+          },
+          {
+            "left": "a candle",
+            "right": "cylinder"
+          },
+          {
+            "left": "a paper cone of peanuts",
+            "right": "cone"
+          },
+          {
+            "left": "a cube of cheese",
+            "right": "cube"
+          }
+        ],
+        "marks": 5
+      },
+      {
+        "type": "sort",
+        "title": "Sort the things by shape.",
+        "groups": [
+          "Cylinder",
+          "Cuboid"
+        ],
+        "words": [
+          "a can of beans",
+          "a cereal box",
+          "a roll of kitchen paper",
+          "a tissue box",
+          "a jar of honey",
+          "a milk carton"
+        ],
+        "a": {
+          "a can of beans": "Cylinder",
+          "a cereal box": "Cuboid",
+          "a roll of kitchen paper": "Cylinder",
+          "a tissue box": "Cuboid",
+          "a jar of honey": "Cylinder",
+          "a milk carton": "Cuboid"
+        },
+        "marks": 3
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the numbers.",
+        "items": [
+          {
+            "q": "A cereal box has ___ faces.",
+            "a": "6"
+          },
+          {
+            "q": "A cube of cheese has ___ edges.",
+            "a": "12"
+          },
+          {
+            "q": "A can of beans has ___ flat faces.",
+            "a": "2"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "A can of beans can roll.",
+            "a": true
+          },
+          {
+            "q": "A cone has 2 flat faces.",
+            "a": false
+          },
+          {
+            "q": "A cuboid can be stacked on top of another cuboid.",
+            "a": true
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "fill",
+        "title": "Solve the shopping problems.",
+        "items": [
+          {
+            "q": "Kenji puts 2 cereal boxes in the trolley. They have ___ corners in all.",
+            "a": "16"
+          },
+          {
+            "q": "Dad buys 3 cans of beans. They have ___ flat faces in all.",
+            "a": "6"
+          },
+          {
+            "q": "Kenji buys 2 cubes of cheese. They have ___ edges in all.",
+            "a": "24"
+          }
+        ],
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "shapes-08",
+    "topic": "shapes",
+    "number": 8,
+    "level": "Practice",
+    "title": "Road Signs on the Way to School",
+    "intro": "Fatima looks at road signs from the school bus. A stop sign has 8 sides. A shape with 8 sides is an octagon.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the sign to its shape.",
+        "items": [
+          {
+            "left": "a stop sign",
+            "right": "octagon"
+          },
+          {
+            "left": "a give-way sign",
+            "right": "triangle"
+          },
+          {
+            "left": "a no-entry sign",
+            "right": "circle"
+          },
+          {
+            "left": "a street name board",
+            "right": "rectangle"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "pairs",
+        "title": "Write how many sides.",
+        "items": [
+          {
+            "q": "octagon",
+            "a": "8"
+          },
+          {
+            "q": "kite",
+            "a": "4"
+          },
+          {
+            "q": "triangle",
+            "a": "3"
+          },
+          {
+            "q": "hexagon",
+            "a": "6"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "items": [
+          {
+            "before": "A circle has",
+            "options": [
+              "no",
+              "four"
+            ],
+            "after": "straight sides.",
+            "a": "no"
+          },
+          {
+            "before": "A triangle sign has",
+            "options": [
+              "3",
+              "4"
+            ],
+            "after": "corners.",
+            "a": "3"
+          },
+          {
+            "before": "An octagon has",
+            "options": [
+              "6",
+              "8"
+            ],
+            "after": "corners.",
+            "a": "8"
+          },
+          {
+            "before": "A square has",
+            "options": [
+              "4",
+              "5"
+            ],
+            "after": "equal sides.",
+            "a": "4"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "An octagon has 2 more sides than a hexagon.",
+            "a": true
+          },
+          {
+            "q": "A street name board is shaped like a circle.",
+            "a": false
+          },
+          {
+            "q": "A triangle has the fewest sides of any shape with straight sides.",
+            "a": true
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "fill",
+        "title": "Solve the road sign problems.",
+        "items": [
+          {
+            "q": "Fatima sees 3 stop signs. They have ___ sides in all.",
+            "a": "24"
+          },
+          {
+            "q": "She sees 2 give-way signs and 1 street board. They have ___ corners in all.",
+            "a": "10"
+          },
+          {
+            "q": "An octagon has ___ more corners than a square.",
+            "a": "4"
+          }
+        ],
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "shapes-09",
+    "topic": "shapes",
+    "number": 9,
+    "level": "Practice",
+    "title": "Snack Time at the Food Court",
+    "intro": "Lucas and Divya share snacks at the food court. They look at the shapes of their food.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Name the flat shape.",
+        "items": [
+          {
+            "q": "A round pizza looks like a ___.",
+            "a": "circle"
+          },
+          {
+            "q": "A square sandwich cut corner to corner makes 2 ___.",
+            "a": "triangles / triangle"
+          },
+          {
+            "q": "A slab of chocolate with 2 long and 2 short sides is a ___.",
+            "a": "rectangle"
+          },
+          {
+            "q": "A flat cracker with 6 sides is a ___.",
+            "a": "hexagon"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "match",
+        "title": "Match the food to its solid shape.",
+        "items": [
+          {
+            "left": "a scoop of ice cream",
+            "right": "sphere"
+          },
+          {
+            "left": "a straw",
+            "right": "cylinder"
+          },
+          {
+            "left": "a block of paneer",
+            "right": "cuboid"
+          },
+          {
+            "left": "a cone of candy floss",
+            "right": "cone"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "sort",
+        "title": "Sort the shapes.",
+        "groups": [
+          "Has straight sides",
+          "Has no straight sides"
+        ],
+        "words": [
+          "triangle",
+          "circle",
+          "rectangle",
+          "oval",
+          "hexagon",
+          "square"
+        ],
+        "a": {
+          "triangle": "Has straight sides",
+          "circle": "Has no straight sides",
+          "rectangle": "Has straight sides",
+          "oval": "Has no straight sides",
+          "hexagon": "Has straight sides",
+          "square": "Has straight sides"
+        },
+        "marks": 3
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "Two triangles can make a square.",
+            "a": true
+          },
+          {
+            "q": "A straw has corners.",
+            "a": false
+          },
+          {
+            "q": "A scoop of ice cream is a flat shape.",
+            "a": false
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "fill",
+        "title": "Solve the snack problems.",
+        "items": [
+          {
+            "q": "Lucas cuts 3 square sandwiches corner to corner. He gets ___ triangles.",
+            "a": "6"
+          },
+          {
+            "q": "Those triangles have ___ corners in all.",
+            "a": "18"
+          },
+          {
+            "q": "Divya has 2 blocks of paneer. They have ___ faces in all.",
+            "a": "12"
+          }
+        ],
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "shapes-10",
+    "topic": "shapes",
+    "number": 10,
+    "level": "Practice",
+    "title": "Printing Day in the Art Room",
+    "intro": "Class 2 dips the flat face of solid shapes in paint and presses it on paper. The print shows the shape of the face.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the shape of the print.",
+        "items": [
+          {
+            "before": "The face of a cube prints a",
+            "options": [
+              "square",
+              "circle",
+              "triangle"
+            ],
+            "after": "",
+            "a": "square"
+          },
+          {
+            "before": "The end of a cylinder prints a",
+            "options": [
+              "square",
+              "circle",
+              "rectangle"
+            ],
+            "after": "",
+            "a": "circle"
+          },
+          {
+            "before": "The long side of a cuboid prints a",
+            "options": [
+              "circle",
+              "triangle",
+              "rectangle"
+            ],
+            "after": "",
+            "a": "rectangle"
+          },
+          {
+            "before": "The bottom of a cone prints a",
+            "options": [
+              "circle",
+              "square",
+              "oval"
+            ],
+            "after": "",
+            "a": "circle"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the numbers.",
+        "items": [
+          {
+            "q": "A cube has ___ square faces to print with.",
+            "a": "6"
+          },
+          {
+            "q": "A cylinder has ___ flat faces to print with.",
+            "a": "2"
+          },
+          {
+            "q": "A sphere has ___ flat faces to print with.",
+            "a": "0"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "match",
+        "title": "Match the solid to what it has.",
+        "items": [
+          {
+            "left": "sphere",
+            "right": "no flat faces"
+          },
+          {
+            "left": "cone",
+            "right": "1 flat face"
+          },
+          {
+            "left": "cylinder",
+            "right": "2 flat faces"
+          },
+          {
+            "left": "cube",
+            "right": "6 flat faces"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "A cube prints only squares.",
+            "a": true
+          },
+          {
+            "q": "A cone can print a triangle with its flat face.",
+            "a": false
+          },
+          {
+            "q": "A cuboid has 12 edges.",
+            "a": true
+          },
+          {
+            "q": "A cylinder has 1 curved surface.",
+            "a": true
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "fill",
+        "title": "Solve the printing problems.",
+        "items": [
+          {
+            "q": "Aryan prints every face of 2 cubes once. He makes ___ squares.",
+            "a": "12"
+          },
+          {
+            "q": "Sofia prints both ends of 4 cylinders. She makes ___ circles.",
+            "a": "8"
+          },
+          {
+            "q": "Kofi prints the bottoms of 5 cones. He makes ___ circles.",
+            "a": "5"
+          }
+        ],
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "shapes-11",
+    "topic": "shapes",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Shape Quiz at Assembly",
+    "intro": "At morning assembly, Class 2 plays a shape quiz. Read each clue and name the shape.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Who am I?",
+        "items": [
+          {
+            "q": "I am flat. I have 5 sides and 5 corners. I am a ___.",
+            "a": "pentagon"
+          },
+          {
+            "q": "I am solid. I have 6 square faces. I am a ___.",
+            "a": "cube"
+          },
+          {
+            "q": "I am solid. I can roll. I have 1 flat face and a tip. I am a ___.",
+            "a": "cone"
+          },
+          {
+            "q": "I am flat. I have 4 sides. Only my opposite sides are equal. I am a ___.",
+            "a": "rectangle"
+          },
+          {
+            "q": "I am solid. I have no flat faces, no edges and no corners. I am a ___.",
+            "a": "sphere"
+          }
+        ],
+        "marks": 5
+      },
+      {
+        "type": "choice",
+        "title": "Circle the odd one out.",
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "square",
+              "triangle",
+              "cube",
+              "hexagon"
+            ],
+            "after": "",
+            "a": "cube"
+          },
+          {
+            "before": "",
+            "options": [
+              "sphere",
+              "cylinder",
+              "circle",
+              "cone"
+            ],
+            "after": "",
+            "a": "circle"
+          },
+          {
+            "before": "",
+            "options": [
+              "cube",
+              "cuboid",
+              "cylinder",
+              "pentagon"
+            ],
+            "after": "",
+            "a": "pentagon"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "pairs",
+        "title": "Write the number.",
+        "items": [
+          {
+            "q": "corners of 2 cubes",
+            "a": "16"
+          },
+          {
+            "q": "sides of 2 octagons",
+            "a": "16"
+          },
+          {
+            "q": "edges of a cuboid",
+            "a": "12"
+          },
+          {
+            "q": "faces of 3 cubes",
+            "a": "18"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "A cube and a cuboid have the same number of corners.",
+            "a": true
+          },
+          {
+            "q": "A square is a solid shape.",
+            "a": false
+          },
+          {
+            "q": "A cone and a cylinder can both roll.",
+            "a": true
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "lines",
+        "title": "Write a \"Who am I?\" clue for a cylinder.",
+        "lines": 2,
+        "a": "e.g. I am solid. I have 2 flat circle faces and I can roll.",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "shapes-12",
+    "topic": "shapes",
+    "number": 12,
+    "level": "Challenge",
+    "title": "The Paper Craft Workshop",
+    "intro": "At a craft workshop in Chennai, Meena and Jonah fold and cut paper shapes.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "What shapes do they get?",
+        "items": [
+          {
+            "q": "Meena folds a square corner to corner and cuts it. She gets 2 ___.",
+            "a": "triangles / triangle"
+          },
+          {
+            "q": "Jonah puts 2 equal squares side by side. He makes a ___.",
+            "a": "rectangle"
+          },
+          {
+            "q": "Meena cuts a circle into 2 equal parts. Each part is a ___ circle.",
+            "a": "half"
+          },
+          {
+            "q": "Jonah folds a square in half, edge to edge, and cuts it. He gets 2 ___.",
+            "a": "rectangles / rectangle"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "pairs",
+        "title": "How many sides in all?",
+        "items": [
+          {
+            "q": "3 squares",
+            "a": "12"
+          },
+          {
+            "q": "2 pentagons",
+            "a": "10"
+          },
+          {
+            "q": "a triangle and a hexagon",
+            "a": "9"
+          },
+          {
+            "q": "4 triangles",
+            "a": "12"
+          },
+          {
+            "q": "2 octagons and a square",
+            "a": "20"
+          },
+          {
+            "q": "5 rectangles",
+            "a": "20"
+          }
+        ],
+        "marks": 6
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "items": [
+          {
+            "before": "A square has",
+            "options": [
+              "more",
+              "fewer",
+              "the same number of"
+            ],
+            "after": "corners as a rectangle.",
+            "a": "the same number of"
+          },
+          {
+            "before": "A pentagon has",
+            "options": [
+              "more",
+              "fewer"
+            ],
+            "after": "sides than a hexagon.",
+            "a": "fewer"
+          },
+          {
+            "before": "A triangle has",
+            "options": [
+              "more",
+              "fewer"
+            ],
+            "after": "corners than an octagon.",
+            "a": "fewer"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "Cutting a square corner to corner makes 2 rectangles.",
+            "a": false
+          },
+          {
+            "q": "4 small squares can make 1 big square.",
+            "a": true
+          },
+          {
+            "q": "A circle cut in half has a straight side and a curved side.",
+            "a": true
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "fill",
+        "title": "Solve the craft problems.",
+        "items": [
+          {
+            "q": "Meena needs 2 triangles for each kite. For 5 kites she cuts ___ triangles.",
+            "a": "10"
+          },
+          {
+            "q": "Jonah has 20 paper squares. He uses 4 for each big square. He makes ___ big squares.",
+            "a": "5"
+          },
+          {
+            "q": "Meena cuts 3 squares corner to corner. The triangles have ___ corners in all.",
+            "a": "18"
+          }
+        ],
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "shapes-13",
+    "topic": "shapes",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Building a Model City",
+    "intro": "Class 2 builds a model city for the science fair. They use boxes, tubes and a square pyramid. A square pyramid has 5 faces, 8 edges and 5 corners.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the model to its shape.",
+        "items": [
+          {
+            "left": "a tall tower block",
+            "right": "cuboid"
+          },
+          {
+            "left": "a water tank",
+            "right": "cylinder"
+          },
+          {
+            "left": "a pointed roof with a square base",
+            "right": "square pyramid"
+          },
+          {
+            "left": "a round dome on top",
+            "right": "half sphere"
+          },
+          {
+            "left": "a cube house",
+            "right": "cube"
+          }
+        ],
+        "marks": 5
+      },
+      {
+        "type": "pairs",
+        "title": "Write the number.",
+        "items": [
+          {
+            "q": "corners of a cube and a pyramid",
+            "a": "13"
+          },
+          {
+            "q": "edges of a cuboid and a pyramid",
+            "a": "20"
+          },
+          {
+            "q": "corners of 3 cuboids",
+            "a": "24"
+          },
+          {
+            "q": "faces of a cube and a pyramid",
+            "a": "11"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "choice",
+        "title": "Circle the shape that can do it.",
+        "items": [
+          {
+            "before": "This shape can stack and also roll:",
+            "options": [
+              "cylinder",
+              "sphere",
+              "cube"
+            ],
+            "after": "",
+            "a": "cylinder"
+          },
+          {
+            "before": "This shape can only roll:",
+            "options": [
+              "cube",
+              "sphere",
+              "cuboid"
+            ],
+            "after": "",
+            "a": "sphere"
+          },
+          {
+            "before": "This shape has square and triangle faces:",
+            "options": [
+              "square pyramid",
+              "cuboid",
+              "cone"
+            ],
+            "after": "",
+            "a": "square pyramid"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "fill",
+        "title": "Solve the model city problems.",
+        "items": [
+          {
+            "q": "The city has 4 cube houses. They have ___ faces in all.",
+            "a": "24"
+          },
+          {
+            "q": "A pyramid roof sits on a cube. The cube has ___ more corners than the pyramid.",
+            "a": "3"
+          },
+          {
+            "q": "Each tower uses 2 cuboids. 6 towers use ___ cuboids.",
+            "a": "12"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "lines",
+        "title": "Which shape would you not use for the bottom of a tower? Why?",
+        "lines": 2,
+        "a": "e.g. A sphere, because it rolls and cannot hold the tower up.",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "shapes-14",
+    "topic": "shapes",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Sorting Toys for the Charity Drive",
+    "intro": "Class 2 sorts old toys for a charity drive. Some labels on the boxes are wrong.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is the label right? Circle True or False.",
+        "items": [
+          {
+            "q": "The label says a marble is a circle.",
+            "a": false
+          },
+          {
+            "q": "The label says a toy drum is a cylinder.",
+            "a": true
+          },
+          {
+            "q": "The label says a puzzle cube has 8 corners.",
+            "a": true
+          },
+          {
+            "q": "The label says a toy cone has 1 flat face.",
+            "a": true
+          },
+          {
+            "q": "The label says a flat photo frame is a cuboid.",
+            "a": false
+          }
+        ],
+        "marks": 5
+      },
+      {
+        "type": "rewrite",
+        "title": "Fix the mistake. Write it correctly.",
+        "items": [
+          {
+            "q": "A cube has 6 edges.",
+            "a": "A cube has 12 edges. / A cube has 6 faces."
+          },
+          {
+            "q": "A triangle has 4 corners.",
+            "a": "A triangle has 3 corners."
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "sort",
+        "title": "Sort the toys.",
+        "groups": [
+          "Flat (2D)",
+          "Solid (3D)"
+        ],
+        "words": [
+          "a jigsaw piece",
+          "a toy brick",
+          "a sticker",
+          "a rubber ball",
+          "a paper star",
+          "a spinning top"
+        ],
+        "a": {
+          "a jigsaw piece": "Flat (2D)",
+          "a toy brick": "Solid (3D)",
+          "a sticker": "Flat (2D)",
+          "a rubber ball": "Solid (3D)",
+          "a paper star": "Flat (2D)",
+          "a spinning top": "Solid (3D)"
+        },
+        "marks": 3
+      },
+      {
+        "type": "fill",
+        "title": "Solve the toy box problems.",
+        "items": [
+          {
+            "q": "Box A has 3 puzzle cubes and 2 toy bricks (cuboids). They have ___ corners in all.",
+            "a": "40"
+          },
+          {
+            "q": "Box B has 5 drums. They have ___ flat faces in all.",
+            "a": "10"
+          },
+          {
+            "q": "Box C has 2 rubber balls and 2 cones. They have ___ corners in all.",
+            "a": "2"
+          }
+        ],
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "shapes-15",
+    "topic": "shapes",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Camping Under the Stars at Hatta",
+    "intro": "Noor and her brother Sami camp with their family in the Hatta mountains. Look for shapes at the camp.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Name the shape.",
+        "items": [
+          {
+            "q": "The front of the tent is a ___.",
+            "a": "triangle"
+          },
+          {
+            "q": "The camping lantern is shaped like a ___.",
+            "a": "cylinder"
+          },
+          {
+            "q": "The cool box is shaped like a ___.",
+            "a": "cuboid"
+          },
+          {
+            "q": "The full moon looks like a ___.",
+            "a": "circle"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "pairs",
+        "title": "How many in all?",
+        "items": [
+          {
+            "q": "corners on 2 cool boxes",
+            "a": "16"
+          },
+          {
+            "q": "flat faces on 3 lanterns",
+            "a": "6"
+          },
+          {
+            "q": "sides on 4 triangle flags",
+            "a": "12"
+          },
+          {
+            "q": "edges on a cube dice",
+            "a": "12"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best shape.",
+        "items": [
+          {
+            "before": "To roll down a hill, the best shape is a",
+            "options": [
+              "sphere",
+              "cube"
+            ],
+            "after": "",
+            "a": "sphere"
+          },
+          {
+            "before": "To stack firewood boxes, the best shape is a",
+            "options": [
+              "cuboid",
+              "cone"
+            ],
+            "after": "",
+            "a": "cuboid"
+          },
+          {
+            "before": "A tent pole is shaped like a long",
+            "options": [
+              "cylinder",
+              "sphere"
+            ],
+            "after": "",
+            "a": "cylinder"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "fill",
+        "title": "Solve the camping problems.",
+        "items": [
+          {
+            "q": "Noor hangs 3 flags with 3 sides and 2 flags with 4 sides. They have ___ sides in all.",
+            "a": "17"
+          },
+          {
+            "q": "Sami has 2 dice. He has ___ more corners than faces.",
+            "a": "4"
+          },
+          {
+            "q": "Dad sets up 2 tents. Each tent front is a triangle. The fronts have ___ corners.",
+            "a": "6"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "lines",
+        "title": "Name one flat shape and one solid shape you might see at a camp.",
+        "lines": 1,
+        "a": "e.g. a triangle flag and a cylinder water bottle",
+        "marks": 2
+      }
+    ]
   }
 ]

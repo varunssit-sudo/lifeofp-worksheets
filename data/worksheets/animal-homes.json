@@ -614,5 +614,1175 @@
         "a": "Any two, e.g. keeps it safe, keeps it warm or cool, a place to rest, a place for babies."
       }
     ]
+  },
+  {
+    "id": "animal-homes-06",
+    "topic": "animal-homes",
+    "number": 6,
+    "level": "Practice",
+    "title": "The Pet Shop in Karama",
+    "intro": "Zoya and her dad visit a pet shop in Dubai. Each pet needs the right home.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the home of each pet.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "rabbit",
+            "a": "hutch"
+          },
+          {
+            "q": "goldfish",
+            "a": "aquarium / tank / fish tank / bowl"
+          },
+          {
+            "q": "dog",
+            "a": "kennel"
+          },
+          {
+            "q": "parrot",
+            "a": "cage"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A goldfish needs clean water in its tank.",
+            "a": true
+          },
+          {
+            "q": "A rabbit's hutch needs fresh hay or straw.",
+            "a": true
+          },
+          {
+            "q": "A parrot's cage should be so small that it cannot move.",
+            "a": false
+          },
+          {
+            "q": "A pet's home must be kept clean.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Zoya's cat sleeps in a soft",
+            "options": [
+              "basket",
+              "aquarium"
+            ],
+            "after": ".",
+            "a": "basket"
+          },
+          {
+            "before": "A hamster's cage needs a water",
+            "options": [
+              "bottle",
+              "tub"
+            ],
+            "after": "to drink from.",
+            "a": "bottle"
+          },
+          {
+            "before": "Pet homes are made by",
+            "options": [
+              "people",
+              "the pets"
+            ],
+            "after": ".",
+            "a": "people"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the pet to what its home needs.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "goldfish",
+            "right": "water and plants"
+          },
+          {
+            "left": "rabbit",
+            "right": "hay to sleep on"
+          },
+          {
+            "left": "parrot",
+            "right": "a perch to sit on"
+          },
+          {
+            "left": "dog",
+            "right": "a warm, dry bed"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "If you had a pet, what home would it need? Write it.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"A rabbit needs a hutch.\""
+      }
+    ]
+  },
+  {
+    "id": "animal-homes-07",
+    "topic": "animal-homes",
+    "number": 7,
+    "level": "Practice",
+    "title": "A Trek in the Himalayas",
+    "intro": "Tenzin and Ruby walk up a mountain path in Ladakh. Their guide points out animals of the cold hills.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the mountain animal to its home.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "snow leopard",
+            "right": "rocky cave"
+          },
+          {
+            "left": "marmot",
+            "right": "burrow under the grass"
+          },
+          {
+            "left": "eagle",
+            "right": "nest high on a cliff"
+          },
+          {
+            "left": "yak",
+            "right": "open grassy hills"
+          },
+          {
+            "left": "mountain goat",
+            "right": "steep rocky slopes"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A yak has thick hair to keep warm in the cold.",
+            "a": true
+          },
+          {
+            "q": "Many mountain animals have thick fur.",
+            "a": true
+          },
+          {
+            "q": "A marmot sleeps in its burrow through the cold winter.",
+            "a": true
+          },
+          {
+            "q": "Snow leopards live in hot deserts.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A burrow under the ground keeps an animal",
+            "options": [
+              "warm",
+              "wet"
+            ],
+            "after": "in winter.",
+            "a": "warm"
+          },
+          {
+            "before": "An eagle builds its nest",
+            "options": [
+              "high up",
+              "under water"
+            ],
+            "after": ".",
+            "a": "high up"
+          },
+          {
+            "before": "Tenzin's uncle keeps his yaks in a",
+            "options": [
+              "shed",
+              "web"
+            ],
+            "after": "at night.",
+            "a": "shed"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with: cave, cliff, fur.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The snow leopard rests in a ___ among the rocks.",
+            "a": "cave"
+          },
+          {
+            "q": "The eagle's nest is on a high ___.",
+            "a": "cliff"
+          },
+          {
+            "q": "Thick ___ keeps mountain animals warm.",
+            "a": "fur"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why do many animals in cold places live in burrows or caves?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. To keep warm and safe from the snow and cold wind."
+      }
+    ]
+  },
+  {
+    "id": "animal-homes-08",
+    "topic": "animal-homes",
+    "number": 8,
+    "level": "Practice",
+    "title": "Squirrels in the Society Garden",
+    "intro": "Advik watches a squirrel run up a mango tree in his housing society in Noida.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort: where does it live?",
+        "marks": 8,
+        "groups": [
+          "Lives in trees",
+          "Lives under the ground"
+        ],
+        "words": [
+          "woodpecker",
+          "porcupine",
+          "squirrel",
+          "parrot",
+          "mongoose",
+          "monkey",
+          "mole",
+          "field mouse"
+        ],
+        "a": {
+          "squirrel": "Lives in trees",
+          "parrot": "Lives in trees",
+          "monkey": "Lives in trees",
+          "woodpecker": "Lives in trees",
+          "mole": "Lives under the ground",
+          "mongoose": "Lives under the ground",
+          "porcupine": "Lives under the ground",
+          "field mouse": "Lives under the ground"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A squirrel can make a nest of leaves and twigs high in a tree.",
+            "a": true
+          },
+          {
+            "q": "Some birds live in holes in tree trunks.",
+            "a": true
+          },
+          {
+            "q": "A mole digs tunnels under the ground.",
+            "a": true
+          },
+          {
+            "q": "A monkey lives in a burrow.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A parrot often nests in a",
+            "options": [
+              "hole in a tree",
+              "pond"
+            ],
+            "after": ".",
+            "a": "hole in a tree"
+          },
+          {
+            "before": "Trees give animals food and",
+            "options": [
+              "shelter",
+              "plastic"
+            ],
+            "after": ".",
+            "a": "shelter"
+          },
+          {
+            "before": "If people cut down trees, many animals lose their",
+            "options": [
+              "homes",
+              "tails"
+            ],
+            "after": ".",
+            "a": "homes"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Advik sees the squirrel carry dry ___ to its nest.",
+            "a": "leaves / twigs / grass"
+          },
+          {
+            "q": "A woodpecker pecks a ___ in the tree trunk.",
+            "a": "hole"
+          },
+          {
+            "q": "A mongoose lives in a ___ under the ground.",
+            "a": "burrow / hole"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two animals that would lose their home if a tree was cut down.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. squirrel, parrot, monkey, crow, owl, woodpecker."
+      }
+    ]
+  },
+  {
+    "id": "animal-homes-09",
+    "topic": "animal-homes",
+    "number": 9,
+    "level": "Practice",
+    "title": "A Day at the Dubai Aquarium",
+    "intro": "Layla and Ethan walk through a glass tunnel. Fish, sharks and rays swim over their heads.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the sea animal to where it lives.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "clownfish",
+            "right": "inside a sea anemone"
+          },
+          {
+            "left": "crab",
+            "right": "under rocks on the shore"
+          },
+          {
+            "left": "starfish",
+            "right": "on the rocky sea floor"
+          },
+          {
+            "left": "sea turtle",
+            "right": "in the sea, but lays eggs on the beach"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: where does it live?",
+        "marks": 9,
+        "groups": [
+          "Water only",
+          "Land and water",
+          "Land only"
+        ],
+        "words": [
+          "otter",
+          "whale",
+          "goat",
+          "jellyfish",
+          "zebra",
+          "hippo",
+          "penguin",
+          "camel",
+          "shark"
+        ],
+        "a": {
+          "shark": "Water only",
+          "jellyfish": "Water only",
+          "whale": "Water only",
+          "penguin": "Land and water",
+          "hippo": "Land and water",
+          "otter": "Land and water",
+          "camel": "Land only",
+          "goat": "Land only",
+          "zebra": "Land only"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A shark is a fish that lives in the sea.",
+            "a": true
+          },
+          {
+            "q": "A whale comes up to the top of the water to breathe air.",
+            "a": true
+          },
+          {
+            "q": "A coral reef is a home for many sea animals.",
+            "a": true
+          },
+          {
+            "q": "A starfish lives in the desert.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A big glass tank where fish live is an ___.",
+            "a": "aquarium"
+          },
+          {
+            "q": "Sea animals need clean ___ to live.",
+            "a": "water"
+          },
+          {
+            "q": "Layla says we must not throw ___ into the sea.",
+            "a": "plastic / litter / rubbish"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name one sea animal and write where it lives.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"A crab lives under rocks on the shore.\""
+      }
+    ]
+  },
+  {
+    "id": "animal-homes-10",
+    "topic": "animal-homes",
+    "number": 10,
+    "level": "Practice",
+    "title": "Rainy Day Snails in Mumbai",
+    "intro": "After the rain, Neel finds snails on the wall of his building. He learns about animals that carry their homes.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "A snail carries its shell wherever it goes.",
+            "a": true
+          },
+          {
+            "q": "A snail hides inside its shell when it is in danger.",
+            "a": true
+          },
+          {
+            "q": "A tortoise can take off its shell and leave it behind.",
+            "a": false
+          },
+          {
+            "q": "A hermit crab moves into an empty shell.",
+            "a": true
+          },
+          {
+            "q": "A snail's shell grows with the snail.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A tortoise pulls its head into its",
+            "options": [
+              "shell",
+              "burrow"
+            ],
+            "after": "when it is scared.",
+            "a": "shell"
+          },
+          {
+            "before": "When a hermit crab grows, it finds a",
+            "options": [
+              "bigger",
+              "smaller"
+            ],
+            "after": "shell.",
+            "a": "bigger"
+          },
+          {
+            "before": "Snails come out most when the ground is",
+            "options": [
+              "wet",
+              "very dry"
+            ],
+            "after": ".",
+            "a": "wet"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the animal to its home.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "snail",
+            "right": "its own coiled shell"
+          },
+          {
+            "left": "frog",
+            "right": "ponds and wet places"
+          },
+          {
+            "left": "hermit crab",
+            "right": "a borrowed sea shell"
+          },
+          {
+            "left": "sea turtle",
+            "right": "the open sea"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with: slowly, tortoise, shell.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A snail moves very ___.",
+            "a": "slowly"
+          },
+          {
+            "q": "A ___ is a land animal with a hard shell.",
+            "a": "tortoise"
+          },
+          {
+            "q": "The snail's ___ keeps its soft body safe.",
+            "a": "shell"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why is a shell a good home? Write one reason.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. It keeps the animal safe, and it is always with the animal."
+      }
+    ]
+  },
+  {
+    "id": "animal-homes-11",
+    "topic": "animal-homes",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Animal Homes Quiz at School",
+    "intro": "Mrs Iyer holds a quiz for Class 2 in Chennai. Team Tiger and Team Peacock answer the questions.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the best answer.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The home that is not made by people is the",
+            "options": [
+              "stable",
+              "kennel",
+              "burrow"
+            ],
+            "after": ".",
+            "a": "burrow"
+          },
+          {
+            "before": "The animal that does not live in water is the",
+            "options": [
+              "shark",
+              "whale",
+              "camel"
+            ],
+            "after": ".",
+            "a": "camel"
+          },
+          {
+            "before": "The animal that carries its home is the",
+            "options": [
+              "snail",
+              "lion",
+              "cow"
+            ],
+            "after": ".",
+            "a": "snail"
+          },
+          {
+            "before": "The animal that lives in a stable is the",
+            "options": [
+              "horse",
+              "bee",
+              "fish"
+            ],
+            "after": ".",
+            "a": "horse"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Find the mistake. Write the sentence correctly.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A pig lives in a hive.",
+            "a": "A pig lives in a sty."
+          },
+          {
+            "q": "A horse lives in a coop.",
+            "a": "A horse lives in a stable."
+          },
+          {
+            "q": "A rabbit lives in a nest.",
+            "a": "A rabbit lives in a burrow."
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Guess who I am.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "I live in a den and I roar. I am a ___.",
+            "a": "lion"
+          },
+          {
+            "q": "I live in a hive and make honey. I am a ___.",
+            "a": "bee"
+          },
+          {
+            "q": "I live in a tank at home and I have fins. I am a ___.",
+            "a": "goldfish / fish"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Is the team right? Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Team Tiger says all animals live in homes that people build.",
+            "a": false
+          },
+          {
+            "q": "Team Peacock says some animals dig their homes under the ground.",
+            "a": true
+          },
+          {
+            "q": "Team Tiger says a cave is a natural home that nobody builds.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one home made by an animal and one home made by people.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. A nest is made by a bird. A kennel is made by people."
+      }
+    ]
+  },
+  {
+    "id": "animal-homes-12",
+    "topic": "animal-homes",
+    "number": 12,
+    "level": "Challenge",
+    "title": "A Boat Trip in the Sundarbans",
+    "intro": "Rupa and Tom ride a boat through the mangrove forest in West Bengal. Mud, roots and water are everywhere.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the animal to its home in the mangroves.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "tiger",
+            "right": "thick forest near the river"
+          },
+          {
+            "left": "crocodile",
+            "right": "muddy riverbank"
+          },
+          {
+            "left": "kingfisher",
+            "right": "tunnel in a muddy bank"
+          },
+          {
+            "left": "fiddler crab",
+            "right": "small hole in the mud"
+          },
+          {
+            "left": "honey bee",
+            "right": "hive on a mangrove tree"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Mangrove trees grow in salty water near the sea.",
+            "a": true
+          },
+          {
+            "q": "Many small animals hide among mangrove roots.",
+            "a": true
+          },
+          {
+            "q": "The Sundarbans tiger can swim.",
+            "a": true
+          },
+          {
+            "q": "A crocodile builds a nest of twigs high up in a tree.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The tiger hides in the thick",
+            "options": [
+              "forest",
+              "sea"
+            ],
+            "after": ".",
+            "a": "forest"
+          },
+          {
+            "before": "Animals in the mangroves must be able to live near",
+            "options": [
+              "water",
+              "snow"
+            ],
+            "after": ".",
+            "a": "water"
+          },
+          {
+            "before": "Honey bees build their",
+            "options": [
+              "hive",
+              "burrow"
+            ],
+            "after": "on a branch.",
+            "a": "hive"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Why does a crab dig a hole in the mud?",
+            "a": "e.g. To hide from birds and stay safe and cool."
+          },
+          {
+            "q": "What would happen to the animals if the mangroves were cut down?",
+            "a": "e.g. They would lose their homes and their food."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "animal-homes-13",
+    "topic": "animal-homes",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Building a Bird Box with Papa",
+    "intro": "Siddharth and his papa make a wooden bird box for their garden in Ras Al Khaimah.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "The bird box should be put high up, away from cats.",
+            "a": true
+          },
+          {
+            "q": "The box needs a small hole so cats and big birds cannot get in.",
+            "a": true
+          },
+          {
+            "q": "The bird box should be put in the hot sun all day.",
+            "a": false
+          },
+          {
+            "q": "A roof keeps the rain out of the box.",
+            "a": true
+          },
+          {
+            "q": "We should open the box every hour to look at the eggs.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: is it a good or poor animal home?",
+        "marks": 8,
+        "groups": [
+          "Good home",
+          "Poor home"
+        ],
+        "words": [
+          "shady in summer",
+          "too small to turn round",
+          "dry and clean",
+          "safe from enemies",
+          "easy for cats to reach",
+          "the right size for the animal",
+          "wet and dirty",
+          "no fresh air"
+        ],
+        "a": {
+          "dry and clean": "Good home",
+          "safe from enemies": "Good home",
+          "the right size for the animal": "Good home",
+          "shady in summer": "Good home",
+          "wet and dirty": "Poor home",
+          "easy for cats to reach": "Poor home",
+          "too small to turn round": "Poor home",
+          "no fresh air": "Poor home"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A hutch with air holes lets the rabbit",
+            "options": [
+              "breathe",
+              "fly"
+            ],
+            "after": ".",
+            "a": "breathe"
+          },
+          {
+            "before": "The bird box is a home made by",
+            "options": [
+              "people",
+              "birds"
+            ],
+            "after": ".",
+            "a": "people"
+          },
+          {
+            "before": "Birds will line the box with soft",
+            "options": [
+              "grass",
+              "stones"
+            ],
+            "after": "to make a nest.",
+            "a": "grass"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Plan a home for a pet rabbit. Write two things it must have.",
+        "marks": 3,
+        "lines": 2,
+        "a": "e.g. a roof, dry hay, a water bottle, room to hop, air holes."
+      }
+    ]
+  },
+  {
+    "id": "animal-homes-14",
+    "topic": "animal-homes",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Wildlife Photographer in Gir",
+    "intro": "Aunt Farida takes photos of animals in Gir forest in Gujarat. Her nephew Manav helps her label them.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the clue. Write the home.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The lioness rests with her cubs in a hidden ___.",
+            "a": "den"
+          },
+          {
+            "q": "The peacock sleeps high up on a ___ branch at night.",
+            "a": "tree"
+          },
+          {
+            "q": "A python hides in an old ___ under the rocks.",
+            "a": "hole / burrow"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best label.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The spotted deer sleep in the open",
+            "options": [
+              "grassland",
+              "beehive"
+            ],
+            "after": ".",
+            "a": "grassland"
+          },
+          {
+            "before": "The crocodile lies by the",
+            "options": [
+              "lake",
+              "nest"
+            ],
+            "after": "in the sun.",
+            "a": "lake"
+          },
+          {
+            "before": "A leopard rests on a",
+            "options": [
+              "tree branch",
+              "coop"
+            ],
+            "after": "in the day.",
+            "a": "tree branch"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the photo to the animal.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "a comb full of honey",
+            "right": "bees"
+          },
+          {
+            "left": "a silky web in the grass",
+            "right": "spider"
+          },
+          {
+            "left": "a heap of twigs high in a tree",
+            "right": "crow"
+          },
+          {
+            "left": "a hole in a muddy bank by the river",
+            "right": "kingfisher"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Wild animals find or make their own homes.",
+            "a": true
+          },
+          {
+            "q": "A lion cub stays near the den while it is small.",
+            "a": true
+          },
+          {
+            "q": "It is fine to take photos very close to a lion's den.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Why must Aunt Farida stay far away from the lion's den?",
+            "a": "e.g. The lioness protects her cubs and may attack."
+          },
+          {
+            "q": "Why do deer live in open grassland and not in burrows?",
+            "a": "e.g. They are big, they eat grass and they need space to run from danger."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "animal-homes-15",
+    "topic": "animal-homes",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Moving House in Ajman",
+    "intro": "Elif's family moves to a new flat. She thinks about how animals choose their homes too.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the homes.",
+        "marks": 9,
+        "groups": [
+          "Animal makes it",
+          "People make it",
+          "Found in nature"
+        ],
+        "words": [
+          "sty",
+          "burrow",
+          "space under a rock",
+          "nest",
+          "rocky cliff",
+          "kennel",
+          "stable",
+          "cave",
+          "anthill"
+        ],
+        "a": {
+          "anthill": "Animal makes it",
+          "nest": "Animal makes it",
+          "burrow": "Animal makes it",
+          "stable": "People make it",
+          "kennel": "People make it",
+          "sty": "People make it",
+          "cave": "Found in nature",
+          "space under a rock": "Found in nature",
+          "rocky cliff": "Found in nature"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A polar bear makes its winter den in the",
+            "options": [
+              "snow",
+              "sand"
+            ],
+            "after": ".",
+            "a": "snow"
+          },
+          {
+            "before": "A desert animal digs a burrow to escape the",
+            "options": [
+              "heat",
+              "rain"
+            ],
+            "after": ".",
+            "a": "heat"
+          },
+          {
+            "before": "A home near water is best for a",
+            "options": [
+              "duck",
+              "camel"
+            ],
+            "after": ".",
+            "a": "duck"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Find the mistake. Write the sentence correctly.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "People build webs for spiders.",
+            "a": "Spiders spin their own webs."
+          },
+          {
+            "q": "A fish lives in a nest.",
+            "a": "A fish lives in water."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Elif's flat and a bird's nest both keep someone safe.",
+            "a": true
+          },
+          {
+            "q": "Animals choose homes near food and water.",
+            "a": true
+          },
+          {
+            "q": "A camel needs a cool, wet home.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "How is your home like an animal's home? Write two ways.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Both keep us safe and warm, give a place to rest and keep the babies safe."
+      }
+    ]
   }
 ]

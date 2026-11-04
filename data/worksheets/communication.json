@@ -598,5 +598,1197 @@
         "a": "Any two, e.g. a letter, a phone call, a text message, an email, a video call."
       }
     ]
+  },
+  {
+    "id": "communication-06",
+    "topic": "communication",
+    "number": 6,
+    "level": "Practice",
+    "title": "A Parcel for Diwali",
+    "intro": "Varun lives in Dubai. He sends a Diwali parcel of sweets to his cousin Anika in Chennai.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the word to its meaning.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "parcel",
+            "right": "a packet sent by post or courier"
+          },
+          {
+            "left": "courier",
+            "right": "a company that delivers parcels fast"
+          },
+          {
+            "left": "PIN code",
+            "right": "six numbers that show an area in India"
+          },
+          {
+            "left": "sender",
+            "right": "the person who sends it"
+          },
+          {
+            "left": "receiver",
+            "right": "the person who gets it"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Put the address lines in order. Write 1, 2, 3, 4.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Chennai 600020   Anika Rao   Tamil Nadu   12 Lake View Road",
+            "a": "3, 1, 4, 2 (name, house and road, city and PIN code, state)"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A PIN code helps the post office sort letters and parcels.",
+            "a": true
+          },
+          {
+            "q": "A parcel can travel by plane to another country.",
+            "a": true
+          },
+          {
+            "q": "We can write the sender's address on the back of an envelope.",
+            "a": true
+          },
+          {
+            "q": "A parcel will reach the right home without an address.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Varun weighs the parcel at the",
+            "options": [
+              "post office",
+              "bakery"
+            ],
+            "after": ".",
+            "a": "post office"
+          },
+          {
+            "before": "The courier gives him a",
+            "options": [
+              "tracking number",
+              "birthday cake"
+            ],
+            "after": "to follow the parcel.",
+            "a": "tracking number"
+          },
+          {
+            "before": "Anika feels",
+            "options": [
+              "happy",
+              "angry"
+            ],
+            "after": "when the sweets arrive.",
+            "a": "happy"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing you would send to someone far away, and who you would send it to.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I would send a drawing to my aunt in London.\""
+      }
+    ]
+  },
+  {
+    "id": "communication-07",
+    "topic": "communication",
+    "number": 7,
+    "level": "Practice",
+    "title": "Morning Assembly Announcements",
+    "intro": "Every morning Class 2 in Al Ain has assembly. Today Kiara reads the school news into the microphone.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "A microphone helps make our voice louder.",
+            "a": true
+          },
+          {
+            "q": "Loudspeakers let the whole school hear the news.",
+            "a": true
+          },
+          {
+            "q": "A good listener talks while someone else is speaking.",
+            "a": false
+          },
+          {
+            "q": "We should speak clearly so others understand us.",
+            "a": true
+          },
+          {
+            "q": "We look at the person who is talking to us.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Good speaker and Good listener.",
+        "marks": 8,
+        "groups": [
+          "Good speaker",
+          "Good listener"
+        ],
+        "words": [
+          "says thank you at the end",
+          "stays quiet",
+          "speaks clearly",
+          "speaks loud enough",
+          "waits for a turn to ask",
+          "does not mumble",
+          "nods to show they understand",
+          "does not interrupt"
+        ],
+        "a": {
+          "speaks clearly": "Good speaker",
+          "speaks loud enough": "Good speaker",
+          "does not mumble": "Good speaker",
+          "says thank you at the end": "Good speaker",
+          "stays quiet": "Good listener",
+          "nods to show they understand": "Good listener",
+          "waits for a turn to ask": "Good listener",
+          "does not interrupt": "Good listener"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Kiara speaks into the ___.",
+            "a": "microphone / mic"
+          },
+          {
+            "q": "We raise our ___ when we want to ask a question.",
+            "a": "hand"
+          },
+          {
+            "q": "Kiara holds the microphone close to her ___.",
+            "a": "mouth"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "When the Principal speaks, we",
+            "options": [
+              "listen",
+              "shout"
+            ],
+            "after": ".",
+            "a": "listen"
+          },
+          {
+            "before": "If we did not hear, we say,",
+            "options": [
+              "\"Sorry, can you say that again?\"",
+              "\"Be quiet!\""
+            ],
+            "after": "",
+            "a": "\"Sorry, can you say that again?\""
+          },
+          {
+            "before": "Kiara says",
+            "options": [
+              "Good morning",
+              "Good night"
+            ],
+            "after": "to everyone at assembly.",
+            "a": "Good morning"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one piece of news you would share at assembly.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"Our class planted ten trees this week.\""
+      }
+    ]
+  },
+  {
+    "id": "communication-08",
+    "topic": "communication",
+    "number": 8,
+    "level": "Practice",
+    "title": "A Birthday Invitation Card",
+    "intro": "Ayaan writes on his card: \"Please come to my birthday party on Friday at 4 pm. It is at 7 Palm Street, Sharjah. There will be games and cake. From Ayaan.\"",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the card. Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The party is on ___.",
+            "a": "Friday"
+          },
+          {
+            "q": "The party starts at ___.",
+            "a": "4 pm / 4"
+          },
+          {
+            "q": "The party is in the city of ___.",
+            "a": "Sharjah"
+          },
+          {
+            "q": "The card is from ___.",
+            "a": "Ayaan"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "An invitation tells people when and where to come.",
+            "a": true
+          },
+          {
+            "q": "We can send an invitation by hand, by post or by email.",
+            "a": true
+          },
+          {
+            "q": "A thank-you card is sent before the party.",
+            "a": false
+          },
+          {
+            "q": "Greeting cards share good wishes.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the card to when we send it.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "birthday card",
+            "right": "on a friend's birthday"
+          },
+          {
+            "left": "get-well card",
+            "right": "when someone is ill"
+          },
+          {
+            "left": "thank-you card",
+            "right": "after someone helps us"
+          },
+          {
+            "left": "New Year card",
+            "right": "on 1st January"
+          },
+          {
+            "left": "wedding card",
+            "right": "to invite people to a wedding"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Ayaan",
+            "options": [
+              "signs",
+              "eats"
+            ],
+            "after": "his name at the end.",
+            "a": "signs"
+          },
+          {
+            "before": "He draws balloons to make the card",
+            "options": [
+              "colourful",
+              "wet"
+            ],
+            "after": ".",
+            "a": "colourful"
+          },
+          {
+            "before": "His friend Lucy replies to say",
+            "options": [
+              "\"Yes, I will come!\"",
+              "\"Go away!\""
+            ],
+            "after": "",
+            "a": "\"Yes, I will come!\""
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a short invitation to your own birthday party.",
+        "marks": 3,
+        "lines": 2,
+        "a": "e.g. \"Please come to my party on Sunday at 5 pm at my home. From Riya.\" Check it says when and where."
+      }
+    ]
+  },
+  {
+    "id": "communication-09",
+    "topic": "communication",
+    "number": 9,
+    "level": "Practice",
+    "title": "Talking Without Words",
+    "intro": "At the park, Sam waves to his friend Noor from far away. We can share messages without speaking.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the action to its message.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "wave",
+            "right": "hello or goodbye"
+          },
+          {
+            "left": "nod",
+            "right": "yes"
+          },
+          {
+            "left": "shake your head",
+            "right": "no"
+          },
+          {
+            "left": "finger on lips",
+            "right": "be quiet"
+          },
+          {
+            "left": "clap",
+            "right": "well done"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Braille helps people who cannot see to read with their fingertips.",
+            "a": true
+          },
+          {
+            "q": "A referee blows a whistle to send a message to players.",
+            "a": true
+          },
+          {
+            "q": "A frown shows that we are very happy.",
+            "a": false
+          },
+          {
+            "q": "Sailors can send messages to other ships with flags.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Uses sound and Uses no sound.",
+        "marks": 8,
+        "groups": [
+          "Uses sound",
+          "Uses no sound"
+        ],
+        "words": [
+          "alarm clock",
+          "a traffic light",
+          "whistle",
+          "a smile",
+          "Braille",
+          "waving",
+          "doorbell",
+          "car horn"
+        ],
+        "a": {
+          "whistle": "Uses sound",
+          "car horn": "Uses sound",
+          "doorbell": "Uses sound",
+          "alarm clock": "Uses sound",
+          "waving": "Uses no sound",
+          "Braille": "Uses no sound",
+          "a smile": "Uses no sound",
+          "a traffic light": "Uses no sound"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Noor ___ back to say hello.",
+            "a": "waves"
+          },
+          {
+            "q": "Some people who cannot hear talk with ___ language.",
+            "a": "sign"
+          },
+          {
+            "q": "A green light tells cars to ___.",
+            "a": "go"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "How would you say \"I am hungry\" without words? Write it.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. rub my tummy, or point to my mouth."
+      }
+    ]
+  },
+  {
+    "id": "communication-10",
+    "topic": "communication",
+    "number": 10,
+    "level": "Practice",
+    "title": "Phone Safety at Home",
+    "intro": "Mum teaches Ishaan and Clara how to use the phone safely in Abu Dhabi.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the number to the help it brings.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "999",
+            "right": "police in the UAE"
+          },
+          {
+            "left": "998",
+            "right": "ambulance in the UAE"
+          },
+          {
+            "left": "997",
+            "right": "fire service in the UAE"
+          },
+          {
+            "left": "112",
+            "right": "emergency help in India"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "We call emergency numbers only when there is real danger.",
+            "a": true
+          },
+          {
+            "q": "We should tell a stranger on the phone that we are home alone.",
+            "a": false
+          },
+          {
+            "q": "We should speak politely on the phone.",
+            "a": true
+          },
+          {
+            "q": "We must keep our passwords secret.",
+            "a": true
+          },
+          {
+            "q": "It is safe to look at a phone while crossing the road.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "If there is a fire, Clara should call",
+            "options": [
+              "997",
+              "998"
+            ],
+            "after": ".",
+            "a": "997"
+          },
+          {
+            "before": "Ishaan learns his parents' phone",
+            "options": [
+              "numbers",
+              "colours"
+            ],
+            "after": "by heart.",
+            "a": "numbers"
+          },
+          {
+            "before": "If a stranger calls, Ishaan should",
+            "options": [
+              "give the phone to Mum",
+              "tell his address"
+            ],
+            "after": ".",
+            "a": "give the phone to Mum"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "If someone is badly hurt, we call an ___.",
+            "a": "ambulance"
+          },
+          {
+            "q": "We must tell the helper our ___ so they can find us.",
+            "a": "address / location"
+          },
+          {
+            "q": "We say \"Thank ___\" at the end of a call.",
+            "a": "you"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in one sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Why should we never make a joke call to an emergency number?",
+            "a": "e.g. Because the helpers may be busy with our call while someone in real danger waits."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "communication-11",
+    "topic": "communication",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Grandpa's Telegram Story",
+    "intro": "When Grandpa was young, he had no mobile phone. To send quick news, he sent a telegram from the post office. A letter took two weeks to reach his brother in Delhi. Today Grandpa video calls his brother in a second.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Read the story. Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Grandpa had a mobile phone when he was young.",
+            "a": false
+          },
+          {
+            "q": "Grandpa sent telegrams from the post office.",
+            "a": true
+          },
+          {
+            "q": "Grandpa's letters reached Delhi in one day.",
+            "a": false
+          },
+          {
+            "q": "Today Grandpa can see his brother on a call.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write these from the oldest to the newest.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "smartphone   carrier pigeon   landline telephone   telegram",
+            "a": "carrier pigeon, telegram, landline telephone, smartphone"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the faster way.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "letter",
+              "telegram"
+            ],
+            "after": "is faster.",
+            "a": "telegram"
+          },
+          {
+            "before": "",
+            "options": [
+              "postcard",
+              "phone call"
+            ],
+            "after": "is faster.",
+            "a": "phone call"
+          },
+          {
+            "before": "",
+            "options": [
+              "messenger on foot",
+              "radio"
+            ],
+            "after": "is faster.",
+            "a": "radio"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Needs electricity and Needs no electricity.",
+        "marks": 8,
+        "groups": [
+          "Needs electricity",
+          "Needs no electricity"
+        ],
+        "words": [
+          "letter",
+          "carrier pigeon",
+          "radio",
+          "mobile phone",
+          "drum beats",
+          "smoke signal",
+          "computer",
+          "television"
+        ],
+        "a": {
+          "television": "Needs electricity",
+          "mobile phone": "Needs electricity",
+          "radio": "Needs electricity",
+          "computer": "Needs electricity",
+          "letter": "Needs no electricity",
+          "carrier pigeon": "Needs no electricity",
+          "drum beats": "Needs no electricity",
+          "smoke signal": "Needs no electricity"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Write one good thing and one not-so-good thing about letters.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Good: we can keep them for years. Not so good: they are slow."
+      }
+    ]
+  },
+  {
+    "id": "communication-12",
+    "topic": "communication",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Messages in Our Housing Society",
+    "intro": "Mrs Pillai runs a housing society in Bengaluru. Every day she must send different messages.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the best way to send each message.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A kitchen catches fire. Call",
+            "options": [
+              "the fire service",
+              "a friend by letter"
+            ],
+            "after": "at once.",
+            "a": "the fire service"
+          },
+          {
+            "before": "Send a photo of the garden to a cousin in London by",
+            "options": [
+              "email",
+              "telegram"
+            ],
+            "after": ".",
+            "a": "email"
+          },
+          {
+            "before": "Tell everyone about the society Holi party with a",
+            "options": [
+              "poster at the gate",
+              "secret note"
+            ],
+            "after": ".",
+            "a": "poster at the gate"
+          },
+          {
+            "before": "Wish Grandma happy birthday and see her face on a",
+            "options": [
+              "video call",
+              "radio"
+            ],
+            "after": ".",
+            "a": "video call"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write fast or slow.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "postcard",
+            "a": "slow"
+          },
+          {
+            "q": "text message",
+            "a": "fast"
+          },
+          {
+            "q": "voice note",
+            "a": "fast"
+          },
+          {
+            "q": "letter by sea mail",
+            "a": "slow"
+          },
+          {
+            "q": "email",
+            "a": "fast"
+          },
+          {
+            "q": "parcel by road",
+            "a": "slow"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A letter is good when we want a message to keep for years.",
+            "a": true
+          },
+          {
+            "q": "A notice board is the best way to tell one secret to a friend.",
+            "a": false
+          },
+          {
+            "q": "In an emergency, a phone call is better than an email.",
+            "a": true
+          },
+          {
+            "q": "The radio can tell news to people in many cities at once.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Mrs Pillai chose the wrong way. Write a better way.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Mrs Pillai wrote a letter to call an ambulance.",
+            "a": "e.g. Mrs Pillai phoned for an ambulance on 112."
+          },
+          {
+            "q": "Mrs Pillai shouted the party news from her balcony to all 200 families.",
+            "a": "e.g. Mrs Pillai put up a notice for all 200 families."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Your friend is ill at home today. Which way would you use to talk to her? Why?",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"A video call, so I can see her and cheer her up.\""
+      }
+    ]
+  },
+  {
+    "id": "communication-13",
+    "topic": "communication",
+    "number": 13,
+    "level": "Challenge",
+    "title": "The Lost Letter Mystery",
+    "intro": "Tom's letter to his friend Riya in Mumbai came back home. He had written only \"Riya, Mumbai\" on the envelope and put no stamp on it.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Each sentence has a mistake. Write it correctly.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A letter can be posted without a stamp.",
+            "a": "A letter needs a stamp before it is posted."
+          },
+          {
+            "q": "The PIN code tells us the person's name.",
+            "a": "The PIN code tells us the area where the person lives."
+          },
+          {
+            "q": "The postman opens and reads our letters.",
+            "a": "The postman delivers our letters without opening them."
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Why did the letter come back? Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Tom forgot to stick a ___.",
+            "a": "stamp"
+          },
+          {
+            "q": "He did not write Riya's house number and ___ name.",
+            "a": "street / road / building"
+          },
+          {
+            "q": "He also forgot the six-digit ___ code.",
+            "a": "PIN"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: does it need to go on the envelope?",
+        "marks": 8,
+        "groups": [
+          "Must be on the envelope",
+          "Not needed"
+        ],
+        "words": [
+          "today's weather",
+          "stamp",
+          "Tom's favourite colour",
+          "PIN code",
+          "Tom's shoe size",
+          "receiver's name",
+          "a list of Tom's toys",
+          "house number"
+        ],
+        "a": {
+          "stamp": "Must be on the envelope",
+          "receiver's name": "Must be on the envelope",
+          "house number": "Must be on the envelope",
+          "PIN code": "Must be on the envelope",
+          "Tom's favourite colour": "Not needed",
+          "a list of Tom's toys": "Not needed",
+          "today's weather": "Not needed",
+          "Tom's shoe size": "Not needed"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "At the post office, letters are sorted by",
+            "options": [
+              "PIN code",
+              "colour"
+            ],
+            "after": ".",
+            "a": "PIN code"
+          },
+          {
+            "before": "Tom drops the new letter into the",
+            "options": [
+              "letter box",
+              "dustbin"
+            ],
+            "after": ".",
+            "a": "letter box"
+          },
+          {
+            "before": "Riya will get the letter in a few",
+            "options": [
+              "days",
+              "seconds"
+            ],
+            "after": ".",
+            "a": "days"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write the parts of an address in the right order.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Name, house number, street, city and PIN code, state (country if abroad)."
+      }
+    ]
+  },
+  {
+    "id": "communication-14",
+    "topic": "communication",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Our Class Newspaper",
+    "intro": "Class 2 in Hyderabad makes a class newspaper called The Little Times. Each child has a job.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the job to what the person does.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "reporter",
+            "right": "finds and writes the news"
+          },
+          {
+            "left": "photographer",
+            "right": "takes the pictures"
+          },
+          {
+            "left": "editor",
+            "right": "checks and fixes the writing"
+          },
+          {
+            "left": "newsreader",
+            "right": "reads the news on TV"
+          },
+          {
+            "left": "radio jockey",
+            "right": "talks and plays songs on the radio"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: do we read it on paper or on a screen or speaker?",
+        "marks": 8,
+        "groups": [
+          "On paper",
+          "On a screen or speaker"
+        ],
+        "words": [
+          "poster",
+          "comic book",
+          "news website",
+          "news app",
+          "magazine",
+          "newspaper",
+          "television",
+          "radio"
+        ],
+        "a": {
+          "newspaper": "On paper",
+          "magazine": "On paper",
+          "comic book": "On paper",
+          "poster": "On paper",
+          "television": "On a screen or speaker",
+          "radio": "On a screen or speaker",
+          "news website": "On a screen or speaker",
+          "news app": "On a screen or speaker"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The big title of a news story is called the ___.",
+            "a": "headline"
+          },
+          {
+            "q": "A newspaper is printed on ___.",
+            "a": "paper"
+          },
+          {
+            "q": "Leela takes photos with a ___.",
+            "a": "camera"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A newspaper has news from many places.",
+            "a": true
+          },
+          {
+            "q": "Newspapers also have weather and sports news.",
+            "a": true
+          },
+          {
+            "q": "The radio shows us moving pictures.",
+            "a": false
+          },
+          {
+            "q": "Everything we read on the internet is always true.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a headline for a news story about your school.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"Class 2 Wins the Clean Classroom Cup\"."
+      }
+    ]
+  },
+  {
+    "id": "communication-15",
+    "topic": "communication",
+    "number": 15,
+    "level": "Challenge",
+    "title": "A Day Without Phones",
+    "intro": "On Sunday, the Mehta family in Jaipur puts all their phones in a box for one whole day. They find other ways to talk.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "We can talk face to face when we sit together.",
+            "a": true
+          },
+          {
+            "q": "Too much screen time is bad for our eyes.",
+            "a": true
+          },
+          {
+            "q": "We should share our password with friends we meet online.",
+            "a": false
+          },
+          {
+            "q": "Phones help us call for help in an emergency.",
+            "a": true
+          },
+          {
+            "q": "It is polite to look at a phone while someone is talking to us.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Good use of phones and Not a good use.",
+        "marks": 8,
+        "groups": [
+          "Good use",
+          "Not a good use"
+        ],
+        "words": [
+          "calling Nani to say hello",
+          "playing games all night",
+          "calling for help when hurt",
+          "sharing a friend's photo without asking",
+          "checking the bus time",
+          "a video call with a cousin",
+          "using a phone at the dinner table",
+          "chatting with strangers"
+        ],
+        "a": {
+          "calling Nani to say hello": "Good use",
+          "a video call with a cousin": "Good use",
+          "checking the bus time": "Good use",
+          "calling for help when hurt": "Good use",
+          "playing games all night": "Not a good use",
+          "chatting with strangers": "Not a good use",
+          "using a phone at the dinner table": "Not a good use",
+          "sharing a friend's photo without asking": "Not a good use"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Instead of texting Papa, Mira",
+            "options": [
+              "talks to",
+              "ignores"
+            ],
+            "after": "him at lunch.",
+            "a": "talks to"
+          },
+          {
+            "before": "To tell Riya next door about the match, Raj",
+            "options": [
+              "knocks on her door",
+              "sends a pigeon"
+            ],
+            "after": ".",
+            "a": "knocks on her door"
+          },
+          {
+            "before": "The family leaves a",
+            "options": [
+              "note",
+              "phone"
+            ],
+            "after": "on the fridge for Mum.",
+            "a": "note"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in one sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "If there were no phones, how would you tell a friend about your party?",
+            "a": "e.g. I would give my friend an invitation card or tell her at school."
+          },
+          {
+            "q": "Why is a phone useful to a family?",
+            "a": "e.g. Family members can call each other and get help quickly."
+          }
+        ]
+      }
+    ]
   }
 ]

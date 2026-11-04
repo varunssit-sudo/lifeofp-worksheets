@@ -576,5 +576,1220 @@
         "a": "Answers will vary, e.g. \"I will not litter. I will plant a tree.\""
       }
     ]
+  },
+  {
+    "id": "our-environment-06",
+    "topic": "our-environment",
+    "number": 6,
+    "level": "Practice",
+    "title": "Saving Electricity in Our Flat",
+    "intro": "Aarav's family in Dubai Marina wants to use less electricity. Small steps save a lot.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort into Saves electricity and Wastes electricity.",
+        "marks": 8,
+        "groups": [
+          "Saves",
+          "Wastes"
+        ],
+        "words": [
+          "opening curtains for sunlight",
+          "switching off the TV at the switch",
+          "drying clothes in the sun",
+          "using LED bulbs",
+          "leaving the fridge door open",
+          "keeping lights on in empty rooms",
+          "charging a full phone all night",
+          "setting the AC very cold"
+        ],
+        "a": {
+          "opening curtains for sunlight": "Saves",
+          "switching off the TV at the switch": "Saves",
+          "drying clothes in the sun": "Saves",
+          "using LED bulbs": "Saves",
+          "leaving the fridge door open": "Wastes",
+          "keeping lights on in empty rooms": "Wastes",
+          "charging a full phone all night": "Wastes",
+          "setting the AC very cold": "Wastes"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Power stations often burn coal or gas, which makes smoke.",
+            "a": true
+          },
+          {
+            "q": "The sun gives us light for free.",
+            "a": true
+          },
+          {
+            "q": "Solar panels make electricity from sunlight.",
+            "a": true
+          },
+          {
+            "q": "We should keep the fan on when we go out.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Aarav",
+            "options": [
+              "switches off",
+              "leaves on"
+            ],
+            "after": "the light when he leaves his room.",
+            "a": "switches off"
+          },
+          {
+            "before": "Mum uses a",
+            "options": [
+              "cloth bag",
+              "plastic bag"
+            ],
+            "after": "for shopping.",
+            "a": "cloth bag"
+          },
+          {
+            "before": "Papa sets the AC to",
+            "options": [
+              "24 degrees",
+              "16 degrees"
+            ],
+            "after": "to save power.",
+            "a": "24 degrees"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In the day, we can read by ___ from the window.",
+            "a": "sunlight / daylight"
+          },
+          {
+            "q": "Aarav closes the ___ door quickly to keep the food cold.",
+            "a": "fridge"
+          },
+          {
+            "q": "Panels on a roof that use the sun are called ___ panels.",
+            "a": "solar"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way you can save electricity at home.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"I switch off the fan when I leave the room.\""
+      }
+    ]
+  },
+  {
+    "id": "our-environment-07",
+    "topic": "our-environment",
+    "number": 7,
+    "level": "Practice",
+    "title": "Holi with Natural Colours",
+    "intro": "Kiara and Ben play Holi in Mathura. This year they use safe colours made from plants.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each colour to the plant it comes from.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "yellow",
+            "right": "turmeric"
+          },
+          {
+            "left": "pink",
+            "right": "beetroot"
+          },
+          {
+            "left": "green",
+            "right": "spinach leaves"
+          },
+          {
+            "left": "orange",
+            "right": "marigold flowers"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Natural colours are safer for our skin.",
+            "a": true
+          },
+          {
+            "q": "Chemical colours can harm our eyes.",
+            "a": true
+          },
+          {
+            "q": "We should wash colours into the river.",
+            "a": false
+          },
+          {
+            "q": "Dry colours need less water to wash off.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the better choice.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Kiara plays with",
+            "options": [
+              "dry colours",
+              "colour balloons full of water"
+            ],
+            "after": "to save water.",
+            "a": "dry colours"
+          },
+          {
+            "before": "Ben uses a",
+            "options": [
+              "steel",
+              "plastic"
+            ],
+            "after": "pichkari that lasts many years.",
+            "a": "steel"
+          },
+          {
+            "before": "They make colours from",
+            "options": [
+              "flowers",
+              "paint"
+            ],
+            "after": ".",
+            "a": "flowers"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Turmeric is also called ___.",
+            "a": "haldi"
+          },
+          {
+            "q": "After Holi, the children help ___ the street.",
+            "a": "clean / sweep"
+          },
+          {
+            "q": "Chemical colours can make river water ___.",
+            "a": "dirty"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write Safe or Not safe.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "flower petal colour",
+            "a": "Safe"
+          },
+          {
+            "q": "shiny chemical paint",
+            "a": "Not safe"
+          },
+          {
+            "q": "sandalwood powder",
+            "a": "Safe"
+          },
+          {
+            "q": "dye from a factory",
+            "a": "Not safe"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way to play Holi that is kind to the earth.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"Use flower colours and save water.\""
+      }
+    ]
+  },
+  {
+    "id": "our-environment-08",
+    "topic": "our-environment",
+    "number": 8,
+    "level": "Practice",
+    "title": "The Mangrove Walk in Abu Dhabi",
+    "intro": "Rania and Sam walk on a boardwalk through the mangroves. Many plants and animals live here together.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each animal to where it lives in the mangroves.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "flamingo",
+            "right": "in the shallow water"
+          },
+          {
+            "left": "crab",
+            "right": "in holes in the mud"
+          },
+          {
+            "left": "small fish",
+            "right": "among the roots"
+          },
+          {
+            "left": "heron",
+            "right": "in the branches"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Mangrove trees grow in salty water near the sea.",
+            "a": true
+          },
+          {
+            "q": "Mangroves give a home to many animals.",
+            "a": true
+          },
+          {
+            "q": "Cutting mangroves helps the crabs.",
+            "a": false
+          },
+          {
+            "q": "We should walk only on the boardwalk.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The place where an animal lives is its ___.",
+            "a": "home / habitat"
+          },
+          {
+            "q": "Mangrove roots hold the ___ so the sea does not wash it away.",
+            "a": "soil / mud"
+          },
+          {
+            "q": "We must not ___ the birds by shouting.",
+            "a": "scare / disturb"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Natural and Man-made.",
+        "marks": 6,
+        "groups": [
+          "Natural",
+          "Man-made"
+        ],
+        "words": [
+          "mangrove tree",
+          "sea water",
+          "mud",
+          "boardwalk",
+          "kayak",
+          "signboard"
+        ],
+        "a": {
+          "mangrove tree": "Natural",
+          "sea water": "Natural",
+          "mud": "Natural",
+          "boardwalk": "Man-made",
+          "kayak": "Man-made",
+          "signboard": "Man-made"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Write why we should protect the mangroves.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"They are a home for birds, crabs and fish.\""
+      }
+    ]
+  },
+  {
+    "id": "our-environment-09",
+    "topic": "our-environment",
+    "number": 9,
+    "level": "Practice",
+    "title": "Making Compost in Our Housing Society",
+    "intro": "Neighbours in Thane start a compost pit. Advait and Emma help turn kitchen waste into food for plants.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the steps to make compost.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "First, collect ___ waste like peels in a bin.",
+            "a": "wet / kitchen"
+          },
+          {
+            "q": "Then mix it with dry ___ and soil.",
+            "a": "leaves"
+          },
+          {
+            "q": "Keep it a little ___ and turn it every week.",
+            "a": "damp / wet"
+          },
+          {
+            "q": "After a few weeks, it turns into dark, rich ___.",
+            "a": "compost"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Can go in the compost and Cannot go in the compost.",
+        "marks": 8,
+        "groups": [
+          "Can go",
+          "Cannot go"
+        ],
+        "words": [
+          "onion peels",
+          "used tea leaves",
+          "dry leaves",
+          "rotten tomato",
+          "plastic spoon",
+          "glass jar",
+          "battery",
+          "chip packet"
+        ],
+        "a": {
+          "onion peels": "Can go",
+          "used tea leaves": "Can go",
+          "dry leaves": "Can go",
+          "rotten tomato": "Can go",
+          "plastic spoon": "Cannot go",
+          "glass jar": "Cannot go",
+          "battery": "Cannot go",
+          "chip packet": "Cannot go"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Earthworms help turn waste into compost.",
+            "a": true
+          },
+          {
+            "q": "Compost makes the soil good for plants.",
+            "a": true
+          },
+          {
+            "q": "Plastic rots away in a compost pit in two days.",
+            "a": false
+          },
+          {
+            "q": "Making compost sends less waste to the dump.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Emma puts the compost on the",
+            "options": [
+              "plants",
+              "carpet"
+            ],
+            "after": "in the garden.",
+            "a": "plants"
+          },
+          {
+            "before": "Old batteries go to a",
+            "options": [
+              "special bin",
+              "compost pit"
+            ],
+            "after": ".",
+            "a": "special bin"
+          },
+          {
+            "before": "A compost pit should be kept",
+            "options": [
+              "covered",
+              "full of plastic"
+            ],
+            "after": ".",
+            "a": "covered"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one kind of waste from your kitchen that can become compost.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"banana peels\"."
+      }
+    ]
+  },
+  {
+    "id": "our-environment-10",
+    "topic": "our-environment",
+    "number": 10,
+    "level": "Practice",
+    "title": "An Eco-Friendly Ganesh Chaturthi in Pune",
+    "intro": "Ojas and his family bring home a Ganesha idol made of clay. They want to keep the river clean.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Clay idols melt easily in water.",
+            "a": true
+          },
+          {
+            "q": "Bright chemical paints can harm fish in the river.",
+            "a": true
+          },
+          {
+            "q": "Thermocol decorations are good for the earth.",
+            "a": false
+          },
+          {
+            "q": "We can put the idol in a bucket of water at home.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the better choice.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Ojas chooses an idol made of",
+            "options": [
+              "clay",
+              "plaster"
+            ],
+            "after": ".",
+            "a": "clay"
+          },
+          {
+            "before": "They decorate with",
+            "options": [
+              "fresh flowers",
+              "plastic flowers"
+            ],
+            "after": ".",
+            "a": "fresh flowers"
+          },
+          {
+            "before": "After the puja, flowers go into the",
+            "options": [
+              "compost",
+              "river"
+            ],
+            "after": ".",
+            "a": "compost"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Plaster idols do not melt and make the river ___.",
+            "a": "dirty"
+          },
+          {
+            "q": "Ojas uses the clay water from the bucket for the ___.",
+            "a": "plants / garden"
+          },
+          {
+            "q": "Loud music late at night causes ___ pollution.",
+            "a": "noise"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write Good or Bad for the river.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "clay idol",
+            "a": "Good"
+          },
+          {
+            "q": "plastic garland",
+            "a": "Bad"
+          },
+          {
+            "q": "leaf plate",
+            "a": "Good"
+          },
+          {
+            "q": "chemical paint",
+            "a": "Bad"
+          },
+          {
+            "q": "natural colours",
+            "a": "Good"
+          },
+          {
+            "q": "thermocol",
+            "a": "Bad"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way to keep a festival clean and green.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"Use paper or cloth decorations.\""
+      }
+    ]
+  },
+  {
+    "id": "our-environment-11",
+    "topic": "our-environment",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Plastic-Free Week at School",
+    "intro": "Class 2 in Ajman tries a plastic-free week. Choose the best way each time.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the best choice for the earth.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "For water, Aditi brings a",
+            "options": [
+              "steel bottle",
+              "new plastic bottle each day"
+            ],
+            "after": ".",
+            "a": "steel bottle"
+          },
+          {
+            "before": "For lunch, Jacob packs food in a",
+            "options": [
+              "tiffin box",
+              "cling film"
+            ],
+            "after": ".",
+            "a": "tiffin box"
+          },
+          {
+            "before": "For the party, the class uses",
+            "options": [
+              "paper streamers",
+              "balloons"
+            ],
+            "after": ".",
+            "a": "paper streamers"
+          },
+          {
+            "before": "For shopping, Mum carries a",
+            "options": [
+              "jute bag",
+              "plastic bag"
+            ],
+            "after": ".",
+            "a": "jute bag"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort each idea into Reduce, Reuse or Recycle.",
+        "marks": 9,
+        "groups": [
+          "Reduce",
+          "Reuse",
+          "Recycle"
+        ],
+        "words": [
+          "say no to straws",
+          "buy less wrapped food",
+          "carry your own cup",
+          "use a jam jar as a vase",
+          "give old books to a friend",
+          "use a box as a toy house",
+          "send cans to a factory",
+          "turn old paper into new paper",
+          "melt bottles into benches"
+        ],
+        "a": {
+          "say no to straws": "Reduce",
+          "buy less wrapped food": "Reduce",
+          "carry your own cup": "Reduce",
+          "use a jam jar as a vase": "Reuse",
+          "give old books to a friend": "Reuse",
+          "use a box as a toy house": "Reuse",
+          "send cans to a factory": "Recycle",
+          "turn old paper into new paper": "Recycle",
+          "melt bottles into benches": "Recycle"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Solve the two-step problem.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "Aditi used 2 plastic bottles a day. Now she uses 0. In 5 days she saves ___ bottles.",
+            "a": "10"
+          },
+          {
+            "q": "Class 2 has 20 children. Each brings one cloth bag. That is ___ fewer plastic bags each trip.",
+            "a": "20"
+          },
+          {
+            "q": "6 children stop using one straw a day. In 5 days they save ___ straws.",
+            "a": "30"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Reducing is the best R, because less waste is made.",
+            "a": true
+          },
+          {
+            "q": "Plastic can stay in the ground for hundreds of years.",
+            "a": true
+          },
+          {
+            "q": "Animals can eat plastic by mistake.",
+            "a": true
+          },
+          {
+            "q": "Burning plastic is a clean way to get rid of it.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one plastic thing you use and what you can use instead.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"Instead of a plastic straw, I can use a steel straw or no straw.\""
+      }
+    ]
+  },
+  {
+    "id": "our-environment-12",
+    "topic": "our-environment",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Checking the Eco Club Notice Board",
+    "intro": "Someone wrote some wrong facts on the Eco Club notice board. Help Hiro and Pari fix them.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Each sentence has a mistake. Write it correctly.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "Trees give out smoke that we breathe in.",
+            "a": "Trees give out oxygen that we breathe in."
+          },
+          {
+            "q": "Banana peels are dry waste.",
+            "a": "Banana peels are wet waste."
+          },
+          {
+            "q": "Honking all day stops noise pollution.",
+            "a": "Honking all day causes noise pollution."
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each problem to a way to fix it.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "dirty air",
+            "right": "plant more trees"
+          },
+          {
+            "left": "too much rubbish",
+            "right": "reduce, reuse, recycle"
+          },
+          {
+            "left": "wasted water",
+            "right": "close the tap"
+          },
+          {
+            "left": "loud noise",
+            "right": "honk only when needed"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Our environment includes air, water, land, plants and animals.",
+            "a": true
+          },
+          {
+            "q": "Only grown-ups can help the environment.",
+            "a": false
+          },
+          {
+            "q": "A dripping tap wastes water.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the odd one out.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "bus, metro, bicycle, sofa",
+            "a": "sofa"
+          },
+          {
+            "q": "reduce, reuse, recycle, refill fuel",
+            "a": "refill fuel"
+          },
+          {
+            "q": "air, water, land, toy",
+            "a": "toy"
+          },
+          {
+            "q": "eggshell, peel, can, tea leaves",
+            "a": "can"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a short notice for the Eco Club board.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"Switch off lights when you leave!\" Any sensible eco message."
+      }
+    ]
+  },
+  {
+    "id": "our-environment-13",
+    "topic": "our-environment",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Saving the Neighbourhood Lake in Bengaluru",
+    "intro": "The lake near Nikhil's home was full of plastic and foam. The fish began to die. Families came together to clean it. Now ducks and fish are back.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Read the story. Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The lake was dirty at first.",
+            "a": true
+          },
+          {
+            "q": "The fish were happy in the dirty water.",
+            "a": false
+          },
+          {
+            "q": "Families worked together to clean the lake.",
+            "a": true
+          },
+          {
+            "q": "Now ducks have come back to the lake.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The lake was full of plastic and ___.",
+            "a": "foam"
+          },
+          {
+            "q": "Dirty water made the ___ die.",
+            "a": "fish"
+          },
+          {
+            "q": "When people work together, it is called ___.",
+            "a": "teamwork"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The lake was dirty because people threw",
+            "options": [
+              "rubbish",
+              "flowers"
+            ],
+            "after": "in it.",
+            "a": "rubbish"
+          },
+          {
+            "before": "Now the lake is",
+            "options": [
+              "clean",
+              "dirty"
+            ],
+            "after": ".",
+            "a": "clean"
+          },
+          {
+            "before": "To keep it clean, people must",
+            "options": [
+              "use bins",
+              "throw bags"
+            ],
+            "after": ".",
+            "a": "use bins"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the cause to what happens.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "rubbish in the lake",
+            "right": "fish get sick"
+          },
+          {
+            "left": "clean water",
+            "right": "ducks come back"
+          },
+          {
+            "left": "plants on the banks",
+            "right": "soil stays in place"
+          },
+          {
+            "left": "drain water into the lake",
+            "right": "water turns smelly"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one rule for people who visit the lake.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"Do not throw plastic in the water.\""
+      }
+    ]
+  },
+  {
+    "id": "our-environment-14",
+    "topic": "our-environment",
+    "number": 14,
+    "level": "Challenge",
+    "title": "A Road Trip to Fujairah",
+    "intro": "Sara and Ali drive to Fujairah with their parents. They see mountains, the sea, towns and roads.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort into Natural and Man-made.",
+        "marks": 10,
+        "groups": [
+          "Natural",
+          "Man-made"
+        ],
+        "words": [
+          "Hajar mountains",
+          "sea",
+          "rocks",
+          "wadi",
+          "sky",
+          "highway",
+          "tunnel",
+          "petrol pump",
+          "fort",
+          "dam"
+        ],
+        "a": {
+          "Hajar mountains": "Natural",
+          "sea": "Natural",
+          "rocks": "Natural",
+          "wadi": "Natural",
+          "sky": "Natural",
+          "highway": "Man-made",
+          "tunnel": "Man-made",
+          "petrol pump": "Man-made",
+          "fort": "Man-made",
+          "dam": "Man-made"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Mountains and seas are part of the natural environment.",
+            "a": true
+          },
+          {
+            "q": "Roads and buildings are made by people.",
+            "a": true
+          },
+          {
+            "q": "Building too many roads can take away animals' homes.",
+            "a": true
+          },
+          {
+            "q": "Cars give out clean air.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A",
+            "options": [
+              "dam",
+              "fort"
+            ],
+            "after": "stores rain water.",
+            "a": "dam"
+          },
+          {
+            "before": "Ali keeps his wrappers",
+            "options": [
+              "in a bag in the car",
+              "out of the window"
+            ],
+            "after": ".",
+            "a": "in a bag in the car"
+          },
+          {
+            "before": "Sharing one car with family is",
+            "options": [
+              "better",
+              "worse"
+            ],
+            "after": "than driving four cars.",
+            "a": "better"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Think and fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A dry river valley in the UAE is called a ___.",
+            "a": "wadi"
+          },
+          {
+            "q": "The air on the mountain is cleaner because there are fewer ___.",
+            "a": "cars"
+          },
+          {
+            "q": "If we cut all the trees, the birds will lose their ___.",
+            "a": "homes / nests"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one natural and one man-made thing you saw on a trip.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"Natural: a hill. Man-made: a bridge.\""
+      }
+    ]
+  },
+  {
+    "id": "our-environment-15",
+    "topic": "our-environment",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Planning an Earth Day Fair",
+    "intro": "Class 2 is planning an Earth Day fair. Lakshmi and Oliver use everything they know about the environment.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each stall to what it teaches.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "seed stall",
+            "right": "grow more plants"
+          },
+          {
+            "left": "swap shop",
+            "right": "reuse old toys"
+          },
+          {
+            "left": "water corner",
+            "right": "save every drop"
+          },
+          {
+            "left": "bin game",
+            "right": "sort wet and dry waste"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best idea for the fair.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Snacks are served on",
+            "options": [
+              "leaf plates",
+              "plastic plates"
+            ],
+            "after": ".",
+            "a": "leaf plates"
+          },
+          {
+            "before": "Posters are made on",
+            "options": [
+              "old newspaper",
+              "new plastic sheets"
+            ],
+            "after": ".",
+            "a": "old newspaper"
+          },
+          {
+            "before": "Children come to the fair",
+            "options": [
+              "walking or by bus",
+              "each in a separate car"
+            ],
+            "after": ".",
+            "a": "walking or by bus"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Think, then fill in the blanks.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "Oliver plants 3 saplings each day for 4 days. He plants ___ saplings.",
+            "a": "12"
+          },
+          {
+            "q": "The swap shop had 15 toys. Children took 9. ___ toys are left.",
+            "a": "6"
+          },
+          {
+            "q": "Lakshmi made 8 posters and Oliver made 7. They made ___ posters in all.",
+            "a": "15"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Earth Day reminds us to care for our planet.",
+            "a": true
+          },
+          {
+            "q": "Every person can help the earth in a small way.",
+            "a": true
+          },
+          {
+            "q": "Throwing balloons into the sky is good for birds.",
+            "a": false
+          },
+          {
+            "q": "Old clothes can be given to people who need them.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Make your own slogan for the fair.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Write a short slogan about the earth.",
+            "a": "e.g. \"Go green, keep it clean!\""
+          }
+        ]
+      }
+    ]
   }
 ]

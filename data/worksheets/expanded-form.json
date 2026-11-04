@@ -622,5 +622,1400 @@
         ]
       }
     ]
+  },
+  {
+    "id": "expanded-form-06",
+    "topic": "expanded-form",
+    "number": 6,
+    "level": "Practice",
+    "title": "The Library Book Count",
+    "intro": "Mrs Rao counts the books in the school library. Break each number into hundreds, tens and ones.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write in expanded form.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "274",
+            "a": "200 + 70 + 4"
+          },
+          {
+            "q": "619",
+            "a": "600 + 10 + 9"
+          },
+          {
+            "q": "385",
+            "a": "300 + 80 + 5"
+          },
+          {
+            "q": "742",
+            "a": "700 + 40 + 2"
+          },
+          {
+            "q": "956",
+            "a": "900 + 50 + 6"
+          },
+          {
+            "q": "133",
+            "a": "100 + 30 + 3"
+          },
+          {
+            "q": "807",
+            "a": "800 + 7"
+          },
+          {
+            "q": "490",
+            "a": "400 + 90"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "6 hundreds, 4 tens and 1 one = ___",
+            "a": "641"
+          },
+          {
+            "q": "2 hundreds, 9 tens and 8 ones = ___",
+            "a": "298"
+          },
+          {
+            "q": "9 hundreds, 0 tens and 6 ones = ___",
+            "a": "906"
+          },
+          {
+            "q": "1 hundred, 5 tens and 0 ones = ___",
+            "a": "150"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the value of the 4.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "In 347, the 4 stands for",
+            "options": [
+              "4",
+              "40",
+              "400"
+            ],
+            "after": ".",
+            "a": "40"
+          },
+          {
+            "before": "In 814, the 4 stands for",
+            "options": [
+              "4",
+              "40",
+              "400"
+            ],
+            "after": ".",
+            "a": "4"
+          },
+          {
+            "before": "In 429, the 4 stands for",
+            "options": [
+              "4",
+              "40",
+              "400"
+            ],
+            "after": ".",
+            "a": "400"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "700 + 30 + 9 = 739",
+            "a": true
+          },
+          {
+            "q": "583 = 500 + 8 + 3",
+            "a": false
+          },
+          {
+            "q": "In 265, the tens digit is 6.",
+            "a": true
+          },
+          {
+            "q": "1 hundred is the same as 10 tens.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the library problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The library has 300 story books, 50 comics and 7 atlases. That is ___ books.",
+            "a": "357"
+          },
+          {
+            "q": "A shelf holds 168 books. That is 100 + 60 + ___.",
+            "a": "8"
+          },
+          {
+            "q": "Mrs Rao has 5 boxes of 100 books and 2 boxes of 10 books. She has ___ books.",
+            "a": "520"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "expanded-form-07",
+    "topic": "expanded-form",
+    "number": 7,
+    "level": "Practice",
+    "title": "Packing Dates at the Al Ain Farm",
+    "intro": "Hamdan and his sister Layla pack dates at their uncle's farm. Watch out for the zeros.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the numbers. Which place has the zero?",
+        "marks": 6,
+        "groups": [
+          "0 tens",
+          "0 ones"
+        ],
+        "words": [
+          "307",
+          "450",
+          "804",
+          "290",
+          "609",
+          "780"
+        ],
+        "a": {
+          "307": "0 tens",
+          "450": "0 ones",
+          "804": "0 tens",
+          "290": "0 ones",
+          "609": "0 tens",
+          "780": "0 ones"
+        }
+      },
+      {
+        "type": "pairs",
+        "title": "Write the number.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "600 + 3",
+            "a": "603"
+          },
+          {
+            "q": "800 + 90",
+            "a": "890"
+          },
+          {
+            "q": "100 + 7",
+            "a": "107"
+          },
+          {
+            "q": "200 + 10",
+            "a": "210"
+          },
+          {
+            "q": "900 + 9",
+            "a": "909"
+          },
+          {
+            "q": "500 + 60",
+            "a": "560"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each number to its hundreds, tens and ones.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "7 hundreds and 2 ones",
+            "right": "702"
+          },
+          {
+            "left": "7 hundreds and 2 tens",
+            "right": "720"
+          },
+          {
+            "left": "2 hundreds and 7 tens",
+            "right": "270"
+          },
+          {
+            "left": "2 hundreds and 7 ones",
+            "right": "207"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "408 = 400 + ___",
+            "a": "8"
+          },
+          {
+            "q": "960 = ___ + 60",
+            "a": "900"
+          },
+          {
+            "q": "201 = 200 + ___",
+            "a": "1"
+          },
+          {
+            "q": "710 = 700 + ___",
+            "a": "10"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the farm problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A box has 200 dates and a bag has 6 dates. Together there are ___ dates.",
+            "a": "206"
+          },
+          {
+            "q": "Layla packed 340 dates. In expanded form, that is ___.",
+            "a": "300 + 40"
+          },
+          {
+            "q": "Uncle sells 6 boxes of 100 dates and 5 loose dates. He sells ___ dates.",
+            "a": "605"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "expanded-form-08",
+    "topic": "expanded-form",
+    "number": 8,
+    "level": "Practice",
+    "title": "The Cricket Match Scoreboard",
+    "intro": "Aditya and Ben keep the score at the school cricket match. Find what each digit is worth.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the value of the 7.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "718",
+            "a": "700"
+          },
+          {
+            "q": "572",
+            "a": "70"
+          },
+          {
+            "q": "237",
+            "a": "7"
+          },
+          {
+            "q": "970",
+            "a": "70"
+          },
+          {
+            "q": "473",
+            "a": "70"
+          },
+          {
+            "q": "187",
+            "a": "7"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the number.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "8 hundreds, 1 ten and 5 ones is",
+            "options": [
+              "815",
+              "851",
+              "518"
+            ],
+            "after": ".",
+            "a": "815"
+          },
+          {
+            "before": "4 tens and 9 hundreds is",
+            "options": [
+              "490",
+              "940",
+              "409"
+            ],
+            "after": ".",
+            "a": "940"
+          },
+          {
+            "before": "3 ones and 6 hundreds is",
+            "options": [
+              "603",
+              "630",
+              "360"
+            ],
+            "after": ".",
+            "a": "603"
+          },
+          {
+            "before": "2 hundreds and 12 ones is",
+            "options": [
+              "212",
+              "221",
+              "2012"
+            ],
+            "after": ".",
+            "a": "212"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each score to its expanded form.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "146",
+            "right": "100 + 40 + 6"
+          },
+          {
+            "left": "164",
+            "right": "100 + 60 + 4"
+          },
+          {
+            "left": "416",
+            "right": "400 + 10 + 6"
+          },
+          {
+            "left": "461",
+            "right": "400 + 60 + 1"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In 389, the 8 stands for 80.",
+            "a": true
+          },
+          {
+            "q": "In 625, the 2 stands for 200.",
+            "a": false
+          },
+          {
+            "q": "The 5 in 453 is worth more than the 5 in 345.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the cricket problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Team Blue scored 100 + 20 + 9 runs. That is ___ runs.",
+            "a": "129"
+          },
+          {
+            "q": "Team Red scored 136 runs. The 3 stands for ___ runs.",
+            "a": "30"
+          },
+          {
+            "q": "Aditya bowled 4 tens and 8 ones balls. That is ___ balls.",
+            "a": "48"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "expanded-form-09",
+    "topic": "expanded-form",
+    "number": 9,
+    "level": "Practice",
+    "title": "Grandpa's Stamp Album",
+    "intro": "Grandpa Joseph shows Mia his stamp album. Read each number name carefully.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the number.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "three hundred sixty-two",
+            "a": "362"
+          },
+          {
+            "q": "eight hundred four",
+            "a": "804"
+          },
+          {
+            "q": "five hundred ninety",
+            "a": "590"
+          },
+          {
+            "q": "one hundred seventeen",
+            "a": "117"
+          },
+          {
+            "q": "seven hundred forty-five",
+            "a": "745"
+          },
+          {
+            "q": "nine hundred eleven",
+            "a": "911"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write in expanded form.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "639",
+            "a": "600 + 30 + 9"
+          },
+          {
+            "q": "714",
+            "a": "700 + 10 + 4"
+          },
+          {
+            "q": "482",
+            "a": "400 + 80 + 2"
+          },
+          {
+            "q": "367",
+            "a": "300 + 60 + 7"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the missing word.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "653 = six hundred ___-three",
+            "a": "fifty"
+          },
+          {
+            "q": "309 = three hundred ___",
+            "a": "nine"
+          },
+          {
+            "q": "870 = eight hundred ___",
+            "a": "seventy"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the expanded form to the number name.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "200 + 80 + 5",
+            "right": "two hundred eighty-five"
+          },
+          {
+            "left": "800 + 50 + 2",
+            "right": "eight hundred fifty-two"
+          },
+          {
+            "left": "600 + 9",
+            "right": "six hundred nine"
+          },
+          {
+            "left": "900 + 40",
+            "right": "nine hundred forty"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "four hundred six = 400 + 60",
+            "a": false
+          },
+          {
+            "q": "seven hundred thirty = 700 + 30",
+            "a": true
+          },
+          {
+            "q": "one hundred one = 100 + 1",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the stamp problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Grandpa has three hundred twenty stamps from India. That is ___ stamps.",
+            "a": "320"
+          },
+          {
+            "q": "He has 145 stamps from the UAE. That is 100 + 40 + ___.",
+            "a": "5"
+          },
+          {
+            "q": "Mia has 2 sheets of 100 stamps and 16 loose stamps. She has ___ stamps.",
+            "a": "216"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "expanded-form-10",
+    "topic": "expanded-form",
+    "number": 10,
+    "level": "Practice",
+    "title": "The Bus Ride to Hatta",
+    "intro": "Class 2 goes on a bus trip to Hatta Dam. Use expanded form on the way.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Add the parts.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "300",
+            "op": "+",
+            "bottom": "48",
+            "a": "348"
+          },
+          {
+            "top": "500",
+            "op": "+",
+            "bottom": "71",
+            "a": "571"
+          },
+          {
+            "top": "260",
+            "op": "+",
+            "bottom": "9",
+            "a": "269"
+          },
+          {
+            "top": "700",
+            "op": "+",
+            "bottom": "16",
+            "a": "716"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write in expanded form.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "487",
+            "a": "400 + 80 + 7"
+          },
+          {
+            "q": "625",
+            "a": "600 + 20 + 5"
+          },
+          {
+            "q": "940",
+            "a": "900 + 40"
+          },
+          {
+            "q": "703",
+            "a": "700 + 3"
+          },
+          {
+            "q": "158",
+            "a": "100 + 50 + 8"
+          },
+          {
+            "q": "396",
+            "a": "300 + 90 + 6"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "400 + 30 + 5",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "435",
+            "a": "="
+          },
+          {
+            "before": "600 + 8",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "680",
+            "a": "<"
+          },
+          {
+            "before": "900 + 20",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "290",
+            "a": ">"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the missing part.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "___ + 50 + 4 = 354",
+            "a": "300"
+          },
+          {
+            "q": "800 + ___ + 1 = 891",
+            "a": "90"
+          },
+          {
+            "q": "600 + 70 + ___ = 672",
+            "a": "2"
+          },
+          {
+            "q": "200 + ___ = 209",
+            "a": "9"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the trip problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The bus has 4 tens and 5 ones seats. That is ___ seats.",
+            "a": "45"
+          },
+          {
+            "q": "The road to Hatta is 134 km long. That is 100 + 30 + ___ km.",
+            "a": "4"
+          },
+          {
+            "q": "There are 200 + 70 + 3 steps up the hill. That is ___ steps.",
+            "a": "273"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "expanded-form-11",
+    "topic": "expanded-form",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Flower Market in Bengaluru",
+    "intro": "Ravi helps his aunt count flowers at the market. Roses are sold in bunches of 10.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "45 tens = ___",
+            "a": "450"
+          },
+          {
+            "q": "5 hundreds and 17 ones = ___",
+            "a": "517"
+          },
+          {
+            "q": "2 hundreds and 12 tens = ___",
+            "a": "320"
+          },
+          {
+            "q": "56 tens and 2 ones = ___",
+            "a": "562"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "250 is the same as",
+            "options": [
+              "25 tens",
+              "52 tens",
+              "2 tens"
+            ],
+            "after": ".",
+            "a": "25 tens"
+          },
+          {
+            "before": "6 hundreds is the same as",
+            "options": [
+              "6 tens",
+              "60 tens",
+              "600 tens"
+            ],
+            "after": ".",
+            "a": "60 tens"
+          },
+          {
+            "before": "130 is the same as",
+            "options": [
+              "13 ones",
+              "1 hundred and 3 tens",
+              "3 hundreds and 1 ten"
+            ],
+            "after": ".",
+            "a": "1 hundred and 3 tens"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "The parts are mixed up. Write the number.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "8 + 400 + 70",
+            "a": "478"
+          },
+          {
+            "q": "90 + 6 + 300",
+            "a": "396"
+          },
+          {
+            "q": "4 + 600",
+            "a": "604"
+          },
+          {
+            "q": "20 + 900",
+            "a": "920"
+          },
+          {
+            "q": "50 + 7 + 100",
+            "a": "157"
+          },
+          {
+            "q": "1 + 10 + 800",
+            "a": "811"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "240 = 24 tens",
+            "a": true
+          },
+          {
+            "q": "3 hundreds and 15 ones = 315",
+            "a": true
+          },
+          {
+            "q": "70 tens = 700",
+            "a": true
+          },
+          {
+            "q": "5 hundreds and 12 tens = 512",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the flower problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Aunt sells 27 bunches of 10 roses. That is ___ roses.",
+            "a": "270"
+          },
+          {
+            "q": "She has 3 baskets of 100 marigolds and 18 loose marigolds. That is ___ marigolds.",
+            "a": "318"
+          },
+          {
+            "q": "Ravi counts 4 hundreds, 13 tens and 2 ones of jasmine buds. That is ___ buds.",
+            "a": "532"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "expanded-form-12",
+    "topic": "expanded-form",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Fish at the Dubai Aquarium",
+    "intro": "Sofia and Arjun read the signs at the aquarium. Use place value to compare numbers.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "300 + 60 + 2",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "326",
+            "a": ">"
+          },
+          {
+            "before": "500 + 9",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "590",
+            "a": "<"
+          },
+          {
+            "before": "40 + 700 + 1",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "741",
+            "a": "="
+          },
+          {
+            "before": "8 hundreds",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "80 tens",
+            "a": "="
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Make a number from the digit cards.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The biggest number with 5, 2 and 8 is ___.",
+            "a": "852"
+          },
+          {
+            "q": "The smallest number with 4, 9 and 1 is ___.",
+            "a": "149"
+          },
+          {
+            "q": "The biggest number with 3, 0 and 6 is ___.",
+            "a": "630"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write in expanded form.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "674",
+            "a": "600 + 70 + 4"
+          },
+          {
+            "q": "318",
+            "a": "300 + 10 + 8"
+          },
+          {
+            "q": "905",
+            "a": "900 + 5"
+          },
+          {
+            "q": "560",
+            "a": "500 + 60"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In 777, the first 7 is worth 700.",
+            "a": true
+          },
+          {
+            "q": "400 + 5 is bigger than 400 + 50.",
+            "a": false
+          },
+          {
+            "q": "The greatest 3-digit number is 999.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the aquarium problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The big tank has 300 + 40 + 7 fish. That is ___ fish.",
+            "a": "347"
+          },
+          {
+            "q": "The small tank has 2 hundreds and 9 ones fish. That is ___ fish.",
+            "a": "209"
+          },
+          {
+            "q": "Which tank has more fish? The ___ tank.",
+            "a": "big"
+          },
+          {
+            "q": "The big tank has ___ more fish than the small tank.",
+            "a": "138"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Make a number with the digits 7, 1 and 4. Write it in expanded form.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. 714 = 700 + 10 + 4 (any order of 7, 1 and 4 is fine)."
+      }
+    ]
+  },
+  {
+    "id": "expanded-form-13",
+    "topic": "expanded-form",
+    "number": 13,
+    "level": "Challenge",
+    "title": "The School Election Votes",
+    "intro": "The whole school votes for a new school captain. Solve the number riddles about the votes.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve the number riddles.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "My hundreds digit is 3. My tens digit is 5 more than that. My ones digit is 1. I am ___.",
+            "a": "381"
+          },
+          {
+            "q": "I am 200 + 40 + 9. Add 1 ten to me. I am ___.",
+            "a": "259"
+          },
+          {
+            "q": "I am 500 + 70. Take away 1 hundred. I am ___.",
+            "a": "470"
+          },
+          {
+            "q": "I have 7 hundreds, 7 ones and no tens. I am ___.",
+            "a": "707"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the number that is 100 more.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "238",
+            "a": "338"
+          },
+          {
+            "q": "615",
+            "a": "715"
+          },
+          {
+            "q": "490",
+            "a": "590"
+          },
+          {
+            "q": "807",
+            "a": "907"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the votes to the expanded form.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "529",
+            "right": "500 + 20 + 9"
+          },
+          {
+            "left": "592",
+            "right": "500 + 90 + 2"
+          },
+          {
+            "left": "925",
+            "right": "900 + 20 + 5"
+          },
+          {
+            "left": "952",
+            "right": "900 + 50 + 2"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "10 more than 394 is 404.",
+            "a": true
+          },
+          {
+            "q": "100 more than 860 is 960.",
+            "a": true
+          },
+          {
+            "q": "1 more than 299 is 200.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the vote problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Riya got 300 + 80 + 6 votes. That is ___ votes.",
+            "a": "386"
+          },
+          {
+            "q": "Kunal got 4 hundreds and 1 ten votes. That is ___ votes.",
+            "a": "410"
+          },
+          {
+            "q": "Who got more votes, Riya or Kunal? ___",
+            "a": "Kunal"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Make up your own number riddle with hundreds, tens and ones.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. I have 2 hundreds, 6 tens and 3 ones. I am 263."
+      }
+    ]
+  },
+  {
+    "id": "expanded-form-14",
+    "topic": "expanded-form",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Spice Souk in Deira",
+    "intro": "Noor and her father buy spices at the souk. The shopkeeper's son made some mistakes. Find them.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is it correct? Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "846 = 800 + 40 + 6",
+            "a": true
+          },
+          {
+            "q": "593 = 500 + 9 + 3",
+            "a": false
+          },
+          {
+            "q": "708 = 700 + 80",
+            "a": false
+          },
+          {
+            "q": "360 = 300 + 6",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Correct the mistakes. Write each one the right way.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "593 = 500 + 9 + 3",
+            "a": "593 = 500 + 90 + 3"
+          },
+          {
+            "q": "708 = 700 + 80",
+            "a": "708 = 700 + 8"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the missing part.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "963 = 900 + ___ + 3",
+            "a": "60"
+          },
+          {
+            "q": "415 = ___ + 15",
+            "a": "400"
+          },
+          {
+            "q": "827 = 800 + ___",
+            "a": "27"
+          },
+          {
+            "q": "650 = 600 + ___",
+            "a": "50"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "In 538, the digit with the greatest value is",
+            "options": [
+              "5",
+              "3",
+              "8"
+            ],
+            "after": ".",
+            "a": "5"
+          },
+          {
+            "before": "In 249, the 4 stands for",
+            "options": [
+              "4",
+              "40",
+              "400"
+            ],
+            "after": ".",
+            "a": "40"
+          },
+          {
+            "before": "7 hundreds and 3 ones is",
+            "options": [
+              "73",
+              "703",
+              "730"
+            ],
+            "after": ".",
+            "a": "703"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the souk problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A box of saffron costs ₹400 + ₹60 + ₹5. That is ₹ ___.",
+            "a": "465"
+          },
+          {
+            "q": "The souk has 318 shops. That is 3 hundreds, 1 ten and ___ ones.",
+            "a": "8"
+          },
+          {
+            "q": "Dad pays with 2 notes of ₹100, 3 notes of ₹10 and 4 coins of ₹1. He pays ₹ ___.",
+            "a": "234"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "expanded-form-15",
+    "topic": "expanded-form",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Planning the Holi Party",
+    "intro": "Kabir and Elena plan the Holi party for their building. Use all you know about expanded form.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write in expanded form.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "529",
+            "a": "500 + 20 + 9"
+          },
+          {
+            "q": "876",
+            "a": "800 + 70 + 6"
+          },
+          {
+            "q": "304",
+            "a": "300 + 4"
+          },
+          {
+            "q": "690",
+            "a": "600 + 90"
+          },
+          {
+            "q": "813",
+            "a": "800 + 10 + 3"
+          },
+          {
+            "q": "162",
+            "a": "100 + 60 + 2"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the number.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "5 hundreds and 23 ones = ___",
+            "a": "523"
+          },
+          {
+            "q": "61 tens = ___",
+            "a": "610"
+          },
+          {
+            "q": "8 hundreds, 4 tens and 0 ones = ___",
+            "a": "840"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "600 + 30",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "603",
+            "a": ">"
+          },
+          {
+            "before": "2 hundreds and 5 ones",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "250",
+            "a": "<"
+          },
+          {
+            "before": "90 tens",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "900",
+            "a": "="
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the party problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "They buy 300 + 50 + 6 water balloons. That is ___ balloons.",
+            "a": "356"
+          },
+          {
+            "q": "They have 4 packs of 100 colour packets and 7 loose packets. That is ___ packets.",
+            "a": "407"
+          },
+          {
+            "q": "Kabir has 125 balloons. Elena has 200 + 30 + 4. Elena has ___ more.",
+            "a": "109"
+          },
+          {
+            "q": "Mum spends ₹500 + ₹80 on sweets. That is ₹ ___.",
+            "a": "580"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Elena says 506 = 500 + 60. Is she right? Say why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "No. 506 has 0 tens, so 506 = 500 + 6."
+      }
+    ]
   }
 ]

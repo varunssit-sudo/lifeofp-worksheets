@@ -611,5 +611,1236 @@
         "a": "Answers will vary, e.g. \"I breathe. I eat food and grow.\""
       }
     ]
+  },
+  {
+    "id": "living-and-non-living-things-06",
+    "topic": "living-and-non-living-things",
+    "number": 6,
+    "level": "Practice",
+    "title": "Feeding Time at the Petting Farm",
+    "intro": "Arjun and Lily visit a petting farm in Al Khawaneej. Every animal there needs food and water.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each animal to what it eats.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "goat",
+            "right": "grass and leaves"
+          },
+          {
+            "left": "rabbit",
+            "right": "carrots"
+          },
+          {
+            "left": "hen",
+            "right": "grains"
+          },
+          {
+            "left": "camel",
+            "right": "dry plants"
+          },
+          {
+            "left": "cat",
+            "right": "fish"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "All living things need food.",
+            "a": true
+          },
+          {
+            "q": "The water trough needs food.",
+            "a": false
+          },
+          {
+            "q": "A lamb grows into a sheep.",
+            "a": true
+          },
+          {
+            "q": "The farm fence can feel the sun.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write L for living or N for non-living.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "goat",
+            "a": "L"
+          },
+          {
+            "q": "bucket",
+            "a": "N"
+          },
+          {
+            "q": "duck",
+            "a": "L"
+          },
+          {
+            "q": "wheelbarrow",
+            "a": "N"
+          },
+          {
+            "q": "pony",
+            "a": "L"
+          },
+          {
+            "q": "feeding bowl",
+            "a": "N"
+          },
+          {
+            "q": "tortoise",
+            "a": "L"
+          },
+          {
+            "q": "gate",
+            "a": "N"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Lily gives the rabbit a carrot because it needs ___.",
+            "a": "food"
+          },
+          {
+            "q": "The young one of a goat is called a ___.",
+            "a": "kid"
+          },
+          {
+            "q": "The camel drinks ___ from a big tub.",
+            "a": "water"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing that all animals at the farm need.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Any one: food, water or air."
+      }
+    ]
+  },
+  {
+    "id": "living-and-non-living-things-07",
+    "topic": "living-and-non-living-things",
+    "number": 7,
+    "level": "Practice",
+    "title": "Helping Dadi in the Kitchen",
+    "intro": "Rohan helps Dadi cook dinner in Pune. He looks for living and non-living things in the kitchen.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the kitchen things into Living and Non-living.",
+        "marks": 8,
+        "groups": [
+          "Living",
+          "Non-living"
+        ],
+        "words": [
+          "Dadi",
+          "Rohan",
+          "tulsi plant on the sill",
+          "house lizard",
+          "pressure cooker",
+          "rolling pin",
+          "steel plate",
+          "gas stove"
+        ],
+        "a": {
+          "Dadi": "Living",
+          "Rohan": "Living",
+          "tulsi plant on the sill": "Living",
+          "house lizard": "Living",
+          "pressure cooker": "Non-living",
+          "rolling pin": "Non-living",
+          "steel plate": "Non-living",
+          "gas stove": "Non-living"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The tulsi plant",
+            "options": [
+              "grows",
+              "does not grow"
+            ],
+            "after": "new leaves.",
+            "a": "grows"
+          },
+          {
+            "before": "The pressure cooker",
+            "options": [
+              "whistles",
+              "breathes"
+            ],
+            "after": "but it is not alive.",
+            "a": "whistles"
+          },
+          {
+            "before": "Dadi",
+            "options": [
+              "feels",
+              "cannot feel"
+            ],
+            "after": "the heat of the stove.",
+            "a": "feels"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A spoon cannot grow bigger.",
+            "a": true
+          },
+          {
+            "q": "The lizard on the wall is a living thing.",
+            "a": true
+          },
+          {
+            "q": "The mixer moves on its own, so it is living.",
+            "a": false
+          },
+          {
+            "q": "Non-living things do not need air.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Rohan eats food to get ___.",
+            "a": "energy"
+          },
+          {
+            "q": "A steel plate cannot ___, eat or grow.",
+            "a": "breathe / move"
+          },
+          {
+            "q": "The tulsi plant needs ___ from the window.",
+            "a": "sunlight / light"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two non-living things in your kitchen.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"a spoon and a fridge\". One mark each."
+      }
+    ]
+  },
+  {
+    "id": "living-and-non-living-things-08",
+    "topic": "living-and-non-living-things",
+    "number": 8,
+    "level": "Practice",
+    "title": "A Rainy Day at the Window",
+    "intro": "It is raining in Mangaluru. Ananya and Max watch from the window and spot living and non-living things.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "The rain is a non-living thing.",
+            "a": true
+          },
+          {
+            "q": "The frog hopping in the puddle is living.",
+            "a": true
+          },
+          {
+            "q": "The umbrella keeps Max dry, so it is living.",
+            "a": false
+          },
+          {
+            "q": "The snail on the wall is a living thing.",
+            "a": true
+          },
+          {
+            "q": "Clouds move in the sky, so they are living.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Living and Non-living.",
+        "marks": 8,
+        "groups": [
+          "Living",
+          "Non-living"
+        ],
+        "words": [
+          "frog",
+          "snail",
+          "crow",
+          "earthworm",
+          "raincoat",
+          "puddle",
+          "cloud",
+          "gumboots"
+        ],
+        "a": {
+          "frog": "Living",
+          "snail": "Living",
+          "crow": "Living",
+          "earthworm": "Living",
+          "raincoat": "Non-living",
+          "puddle": "Non-living",
+          "cloud": "Non-living",
+          "gumboots": "Non-living"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The crow shakes its",
+            "options": [
+              "feathers",
+              "umbrella"
+            ],
+            "after": "to dry them.",
+            "a": "feathers"
+          },
+          {
+            "before": "The earthworm",
+            "options": [
+              "crawls",
+              "flies"
+            ],
+            "after": "on the wet soil.",
+            "a": "crawls"
+          },
+          {
+            "before": "The paper boat floats but it is",
+            "options": [
+              "non-living",
+              "living"
+            ],
+            "after": ".",
+            "a": "non-living"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Rain gives ___ to plants and animals.",
+            "a": "water"
+          },
+          {
+            "q": "A frog lays ___ in the pond.",
+            "a": "eggs"
+          },
+          {
+            "q": "Max can ___ the cold wind on his face.",
+            "a": "feel"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one living thing you see on a rainy day.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"a frog\" or \"a snail\"."
+      }
+    ]
+  },
+  {
+    "id": "living-and-non-living-things-09",
+    "topic": "living-and-non-living-things",
+    "number": 9,
+    "level": "Practice",
+    "title": "A Visit to the Toy Shop at the Mall",
+    "intro": "Siddharth and Grace visit a toy shop and a pet shop at the mall. Some things move but are not alive.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle living or non-living.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The robot that walks with batteries is",
+            "options": [
+              "living",
+              "non-living"
+            ],
+            "after": ".",
+            "a": "non-living"
+          },
+          {
+            "before": "The puppy in the pet shop is",
+            "options": [
+              "living",
+              "non-living"
+            ],
+            "after": ".",
+            "a": "living"
+          },
+          {
+            "before": "The talking doll is",
+            "options": [
+              "living",
+              "non-living"
+            ],
+            "after": ".",
+            "a": "non-living"
+          },
+          {
+            "before": "The goldfish in the bowl is",
+            "options": [
+              "living",
+              "non-living"
+            ],
+            "after": ".",
+            "a": "living"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the thing to what makes it move.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "toy car",
+            "right": "batteries"
+          },
+          {
+            "left": "kite",
+            "right": "wind"
+          },
+          {
+            "left": "puppy",
+            "right": "moves on its own"
+          },
+          {
+            "left": "swing",
+            "right": "a push"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A remote-control car needs food to move.",
+            "a": false
+          },
+          {
+            "q": "A puppy grows into a dog.",
+            "a": true
+          },
+          {
+            "q": "A teddy bear can breathe.",
+            "a": false
+          },
+          {
+            "q": "A hamster needs water every day.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The toy train stops when its batteries run ___.",
+            "a": "out"
+          },
+          {
+            "q": "The kitten drinks ___ from a bowl.",
+            "a": "milk / water"
+          },
+          {
+            "q": "A parrot can ___ with its wings.",
+            "a": "fly"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write why a robot toy is non-living.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"It cannot eat, breathe or grow. It moves only with batteries.\""
+      }
+    ]
+  },
+  {
+    "id": "living-and-non-living-things-10",
+    "topic": "living-and-non-living-things",
+    "number": 10,
+    "level": "Practice",
+    "title": "Looking at Baby Photos with Papa",
+    "intro": "Nadia looks at her baby photos with Papa. She has grown so much. All living things grow.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the young one of each animal.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "horse",
+            "a": "foal"
+          },
+          {
+            "q": "sheep",
+            "a": "lamb"
+          },
+          {
+            "q": "lion",
+            "a": "cub"
+          },
+          {
+            "q": "frog",
+            "a": "tadpole"
+          },
+          {
+            "q": "owl",
+            "a": "owlet"
+          },
+          {
+            "q": "pig",
+            "a": "piglet"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Nadia was smaller when she was a baby.",
+            "a": true
+          },
+          {
+            "q": "A teddy bear grows bigger every year.",
+            "a": false
+          },
+          {
+            "q": "A tadpole grows into a frog.",
+            "a": true
+          },
+          {
+            "q": "A small plant can grow into a big tree.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A seed grows into a ___.",
+            "a": "plant"
+          },
+          {
+            "q": "Living things have young ones. This is called ___.",
+            "a": "reproduction / reproducing"
+          },
+          {
+            "q": "Nadia's old shoes are now too ___ for her feet.",
+            "a": "small / tight"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the young one to the grown-up.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "baby",
+            "right": "adult"
+          },
+          {
+            "left": "caterpillar",
+            "right": "butterfly"
+          },
+          {
+            "left": "joey",
+            "right": "kangaroo"
+          },
+          {
+            "left": "sapling",
+            "right": "tree"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways you have changed since you were a baby.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"I am taller. I can walk and talk.\" One mark each."
+      }
+    ]
+  },
+  {
+    "id": "living-and-non-living-things-11",
+    "topic": "living-and-non-living-things",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Campfire Night in the Desert",
+    "intro": "Liam and Aryan camp in the desert near Al Ain. Some things seem alive but are not. Think carefully.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Think carefully. Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "The campfire grows bigger, but it is non-living.",
+            "a": true
+          },
+          {
+            "q": "The wind moves the sand, so the wind is living.",
+            "a": false
+          },
+          {
+            "q": "A seed in a packet is still a living thing.",
+            "a": true
+          },
+          {
+            "q": "The stars twinkle, so they are living.",
+            "a": false
+          },
+          {
+            "q": "A camel can go without water for days, but it still needs water.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the reason.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A camel is living because it",
+            "options": [
+              "eats and grows",
+              "is big"
+            ],
+            "after": ".",
+            "a": "eats and grows"
+          },
+          {
+            "before": "The fire is non-living because it cannot",
+            "options": [
+              "have young ones",
+              "get bigger"
+            ],
+            "after": ".",
+            "a": "have young ones"
+          },
+          {
+            "before": "The tent is non-living because it cannot",
+            "options": [
+              "breathe",
+              "flap in the wind"
+            ],
+            "after": ".",
+            "a": "breathe"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the camp things into Living and Non-living.",
+        "marks": 8,
+        "groups": [
+          "Living",
+          "Non-living"
+        ],
+        "words": [
+          "camel",
+          "desert lizard",
+          "date palm",
+          "falcon",
+          "campfire",
+          "sand dune",
+          "moon",
+          "lantern"
+        ],
+        "a": {
+          "camel": "Living",
+          "desert lizard": "Living",
+          "date palm": "Living",
+          "falcon": "Living",
+          "campfire": "Non-living",
+          "sand dune": "Non-living",
+          "moon": "Non-living",
+          "lantern": "Non-living"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A ___ thing can breathe, eat, grow and have young ones.",
+            "a": "living"
+          },
+          {
+            "q": "Fire needs air, but it is still ___.",
+            "a": "non-living"
+          },
+          {
+            "q": "The baby of a camel is called a ___.",
+            "a": "calf"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "The fire moves and grows. Write why it is still non-living.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"It cannot eat, breathe like us, feel or have young ones.\""
+      }
+    ]
+  },
+  {
+    "id": "living-and-non-living-things-12",
+    "topic": "living-and-non-living-things",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Checking Leela's Quiz Answers",
+    "intro": "Vikram's little sister Leela did a quiz. Some of her answers are wrong. Help her fix them.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Each sentence has a mistake. Write it correctly.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "A bicycle is living because it moves.",
+            "a": "A bicycle is non-living because it cannot move on its own."
+          },
+          {
+            "q": "Plants are non-living because they cannot walk.",
+            "a": "Plants are living because they grow and need food."
+          },
+          {
+            "q": "A river is man-made.",
+            "a": "A river is natural."
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the odd one out.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "cat, crow, chair, cow",
+            "a": "chair"
+          },
+          {
+            "q": "rock, sand, spoon, river",
+            "a": "spoon"
+          },
+          {
+            "q": "bus, mango tree, kite, ball",
+            "a": "mango tree"
+          },
+          {
+            "q": "grow, breathe, eat, melt",
+            "a": "melt"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A tree breathes through tiny holes in its leaves.",
+            "a": true
+          },
+          {
+            "q": "A doll can have baby dolls.",
+            "a": false
+          },
+          {
+            "q": "All living things will grow old one day.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A sign of life is that we",
+            "options": [
+              "feel",
+              "shine"
+            ],
+            "after": "pain.",
+            "a": "feel"
+          },
+          {
+            "before": "Mountains are",
+            "options": [
+              "natural",
+              "man-made"
+            ],
+            "after": "non-living things.",
+            "a": "natural"
+          },
+          {
+            "before": "A computer is",
+            "options": [
+              "man-made",
+              "natural"
+            ],
+            "after": ".",
+            "a": "man-made"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sign of a living thing that Leela can use to check.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any one: breathes, eats, grows, moves on its own, feels or has young ones."
+      }
+    ]
+  },
+  {
+    "id": "living-and-non-living-things-13",
+    "topic": "living-and-non-living-things",
+    "number": 13,
+    "level": "Challenge",
+    "title": "A Morning at the Botanical Garden in Ooty",
+    "intro": "Ishaan sees a very old tree at the garden. Birds sing in its branches. Next to it lies a dry, fallen log. The log was once part of a tree, but it is not alive now.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Read the story. Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The old tree is a living thing.",
+            "a": true
+          },
+          {
+            "q": "The fallen log is still growing.",
+            "a": false
+          },
+          {
+            "q": "The birds in the branches are living.",
+            "a": true
+          },
+          {
+            "q": "The log was once part of a living tree.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Living now and Was once living.",
+        "marks": 8,
+        "groups": [
+          "Living now",
+          "Was once living"
+        ],
+        "words": [
+          "old tree",
+          "singing bird",
+          "green moss",
+          "beetle",
+          "fallen log",
+          "dry leaf",
+          "wooden bench",
+          "paper map"
+        ],
+        "a": {
+          "old tree": "Living now",
+          "singing bird": "Living now",
+          "green moss": "Living now",
+          "beetle": "Living now",
+          "fallen log": "Was once living",
+          "dry leaf": "Was once living",
+          "wooden bench": "Was once living",
+          "paper map": "Was once living"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A dry leaf has fallen and it cannot ___ any more.",
+            "a": "grow"
+          },
+          {
+            "q": "Wood comes from ___.",
+            "a": "trees"
+          },
+          {
+            "q": "The tree makes its own food using ___.",
+            "a": "sunlight / sun"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Ishaan saw the old tree in",
+            "options": [
+              "Ooty",
+              "Delhi"
+            ],
+            "after": ".",
+            "a": "Ooty"
+          },
+          {
+            "before": "The log is",
+            "options": [
+              "not alive",
+              "alive"
+            ],
+            "after": "now.",
+            "a": "not alive"
+          },
+          {
+            "before": "Paper is made from",
+            "options": [
+              "wood",
+              "stone"
+            ],
+            "after": ".",
+            "a": "wood"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing that was once living.",
+        "marks": 1,
+        "lines": 1,
+        "a": "e.g. \"a wooden table\" or \"a dry leaf\". Any correct answer."
+      }
+    ]
+  },
+  {
+    "id": "living-and-non-living-things-14",
+    "topic": "living-and-non-living-things",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Shopping at the Handicraft Fair in Sharjah",
+    "intro": "Zoya and Mum visit a handicraft fair. Some things are made from things that were once living.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the things into Once living and Never living.",
+        "marks": 8,
+        "groups": [
+          "Once living",
+          "Never living"
+        ],
+        "words": [
+          "wooden toy",
+          "cotton bag",
+          "wool shawl",
+          "palm-leaf basket",
+          "clay pot",
+          "brass lamp",
+          "glass bangles",
+          "stone bowl"
+        ],
+        "a": {
+          "wooden toy": "Once living",
+          "cotton bag": "Once living",
+          "wool shawl": "Once living",
+          "palm-leaf basket": "Once living",
+          "clay pot": "Never living",
+          "brass lamp": "Never living",
+          "glass bangles": "Never living",
+          "stone bowl": "Never living"
+        }
+      },
+      {
+        "type": "match",
+        "title": "Match each thing to where it came from.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "wooden toy",
+            "right": "a tree"
+          },
+          {
+            "left": "wool shawl",
+            "right": "a sheep"
+          },
+          {
+            "left": "cotton bag",
+            "right": "a cotton plant"
+          },
+          {
+            "left": "palm-leaf basket",
+            "right": "a palm tree"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Wool comes from the hair of sheep.",
+            "a": true
+          },
+          {
+            "q": "A clay pot was once a living thing.",
+            "a": false
+          },
+          {
+            "q": "The shopkeeper is a living thing.",
+            "a": true
+          },
+          {
+            "q": "Glass is made from plants.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Zoya buys a basket made of",
+            "options": [
+              "palm leaves",
+              "plastic"
+            ],
+            "after": ".",
+            "a": "palm leaves"
+          },
+          {
+            "before": "A brass lamp is made of",
+            "options": [
+              "metal",
+              "wood"
+            ],
+            "after": ".",
+            "a": "metal"
+          },
+          {
+            "before": "Cotton is",
+            "options": [
+              "natural",
+              "man-made"
+            ],
+            "after": ".",
+            "a": "natural"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing in your home that is made from a once-living thing.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"My wooden bed is made from a tree.\""
+      }
+    ]
+  },
+  {
+    "id": "living-and-non-living-things-15",
+    "topic": "living-and-non-living-things",
+    "number": 15,
+    "level": "Challenge",
+    "title": "A Day at the National Zoo in Delhi",
+    "intro": "Kavin's class spends a day at the zoo. They use everything they know about living and non-living things.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each animal to how it breathes.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "fish",
+            "right": "gills"
+          },
+          {
+            "left": "tiger",
+            "right": "nose and lungs"
+          },
+          {
+            "left": "frog in water",
+            "right": "skin"
+          },
+          {
+            "left": "plant near the cage",
+            "right": "tiny holes in leaves"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The zookeeper gives the elephant",
+            "options": [
+              "bananas",
+              "stones"
+            ],
+            "after": ".",
+            "a": "bananas"
+          },
+          {
+            "before": "The cage is non-living because it cannot",
+            "options": [
+              "grow",
+              "stand"
+            ],
+            "after": ".",
+            "a": "grow"
+          },
+          {
+            "before": "The baby deer is called a",
+            "options": [
+              "fawn",
+              "cub"
+            ],
+            "after": ".",
+            "a": "fawn"
+          },
+          {
+            "before": "The peacock",
+            "options": [
+              "can",
+              "cannot"
+            ],
+            "after": "feel the rain.",
+            "a": "can"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Think and fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The tiger cub drinks milk, so it ___ bigger.",
+            "a": "grows"
+          },
+          {
+            "q": "The water in the pond is natural and ___.",
+            "a": "non-living"
+          },
+          {
+            "q": "The zoo bus is man-made and ___.",
+            "a": "non-living"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Living, Natural non-living and Man-made.",
+        "marks": 9,
+        "groups": [
+          "Living",
+          "Natural",
+          "Man-made"
+        ],
+        "words": [
+          "zebra",
+          "banyan tree",
+          "monkey",
+          "pond water",
+          "rock",
+          "soil",
+          "cage",
+          "ticket",
+          "zoo bus"
+        ],
+        "a": {
+          "zebra": "Living",
+          "banyan tree": "Living",
+          "monkey": "Living",
+          "pond water": "Natural",
+          "rock": "Natural",
+          "soil": "Natural",
+          "cage": "Man-made",
+          "ticket": "Man-made",
+          "zoo bus": "Man-made"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Write two signs that tell you a monkey is a living thing.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"It eats bananas. It grows and has babies.\" One mark each."
+      }
+    ]
   }
 ]

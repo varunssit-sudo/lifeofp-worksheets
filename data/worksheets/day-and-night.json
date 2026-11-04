@@ -592,5 +592,1141 @@
         ]
       }
     ]
+  },
+  {
+    "id": "day-and-night-06",
+    "topic": "day-and-night",
+    "number": 6,
+    "level": "Practice",
+    "title": "Shadow Play in the School Garden",
+    "intro": "Ms Kapoor's class in Ras Al Khaimah stands in the garden at different times of the day. They trace their shadows with chalk.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A shadow forms when something blocks light.",
+            "a": true
+          },
+          {
+            "q": "Our shadow falls on the side away from the Sun.",
+            "a": true
+          },
+          {
+            "q": "At noon our shadow is very long.",
+            "a": false
+          },
+          {
+            "q": "On a very cloudy day, shadows are hard to see.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "In the morning the Sun is in the",
+            "options": [
+              "east",
+              "west"
+            ],
+            "after": ".",
+            "a": "east"
+          },
+          {
+            "before": "So in the morning our shadow points to the",
+            "options": [
+              "west",
+              "east"
+            ],
+            "after": ".",
+            "a": "west"
+          },
+          {
+            "before": "Late in the evening our shadow is",
+            "options": [
+              "long",
+              "short"
+            ],
+            "after": ".",
+            "a": "long"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write long or short for the shadow.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "7 in the morning",
+            "a": "long"
+          },
+          {
+            "q": "12 noon",
+            "a": "short"
+          },
+          {
+            "q": "6 in the evening",
+            "a": "long"
+          },
+          {
+            "q": "1 in the afternoon",
+            "a": "short"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the thing to what it does with light.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "torch",
+            "right": "makes light"
+          },
+          {
+            "left": "wall",
+            "right": "blocks light and makes a shadow"
+          },
+          {
+            "left": "window glass",
+            "right": "lets light pass through"
+          },
+          {
+            "left": "mirror",
+            "right": "bounces light back"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one game you can play with shadows.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. shadow tag, making animal shapes with my hands."
+      }
+    ]
+  },
+  {
+    "id": "day-and-night-07",
+    "topic": "day-and-night",
+    "number": 7,
+    "level": "Practice",
+    "title": "Night Workers in the City",
+    "intro": "While Kavya sleeps in Mumbai, many people are still at work. Some jobs go on all night.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the night worker to the job.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "nurse",
+            "right": "looks after patients in hospital"
+          },
+          {
+            "left": "security guard",
+            "right": "keeps buildings safe"
+          },
+          {
+            "left": "baker",
+            "right": "bakes bread for the morning"
+          },
+          {
+            "left": "pilot",
+            "right": "flies planes through the night"
+          },
+          {
+            "left": "taxi driver",
+            "right": "takes people home late"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Some people work at night and sleep in the day.",
+            "a": true
+          },
+          {
+            "q": "Hospitals close at night.",
+            "a": false
+          },
+          {
+            "q": "Street lights help people see the road at night.",
+            "a": true
+          },
+          {
+            "q": "Night workers need sleep too.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: does it make its own light?",
+        "marks": 8,
+        "groups": [
+          "Makes its own light",
+          "Does not make its own light"
+        ],
+        "words": [
+          "bicycle reflector",
+          "street lamp",
+          "torch",
+          "white wall",
+          "Moon",
+          "candle",
+          "star",
+          "mirror"
+        ],
+        "a": {
+          "star": "Makes its own light",
+          "street lamp": "Makes its own light",
+          "torch": "Makes its own light",
+          "candle": "Makes its own light",
+          "Moon": "Does not make its own light",
+          "mirror": "Does not make its own light",
+          "bicycle reflector": "Does not make its own light",
+          "white wall": "Does not make its own light"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "At night, a lighthouse shines to guide ___.",
+            "a": "ships / boats"
+          },
+          {
+            "q": "Kavya sleeps for about ten ___ every night.",
+            "a": "hours"
+          },
+          {
+            "q": "Street ___ come on when the Sun sets.",
+            "a": "lights / lamps"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a thank-you line to a person who works at night.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"Thank you, nurse, for looking after us at night.\""
+      }
+    ]
+  },
+  {
+    "id": "day-and-night-08",
+    "topic": "day-and-night",
+    "number": 8,
+    "level": "Practice",
+    "title": "Keeping a Moon Diary",
+    "intro": "Every night for a month, Arya draws the Moon from her balcony in Jaipur. Its shape seems to change.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "The Moon goes around the Earth.",
+            "a": true
+          },
+          {
+            "q": "The Moon takes about one month to go around the Earth.",
+            "a": true
+          },
+          {
+            "q": "On a full moon night the Moon looks like a full circle.",
+            "a": true
+          },
+          {
+            "q": "The Moon really breaks into pieces.",
+            "a": false
+          },
+          {
+            "q": "The Moon is bigger than the Earth.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the Moon to its name.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "a thin, curved Moon",
+            "right": "crescent"
+          },
+          {
+            "left": "a round, bright Moon",
+            "right": "full moon"
+          },
+          {
+            "left": "a Moon we cannot see",
+            "right": "new moon"
+          },
+          {
+            "left": "half of the Moon lit up",
+            "right": "half moon"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Arya sees the Moon best on a ___ night with no clouds.",
+            "a": "clear"
+          },
+          {
+            "q": "Astronauts have walked on the ___.",
+            "a": "Moon"
+          },
+          {
+            "q": "A full moon comes about once every ___.",
+            "a": "month"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Arya",
+            "options": [
+              "does not see",
+              "sees"
+            ],
+            "after": "the Moon on a new moon night.",
+            "a": "does not see"
+          },
+          {
+            "before": "Sometimes we can see the Moon in the",
+            "options": [
+              "daytime",
+              "oven"
+            ],
+            "after": "too.",
+            "a": "daytime"
+          },
+          {
+            "before": "The Moon has no light of its",
+            "options": [
+              "own",
+              "colour"
+            ],
+            "after": ".",
+            "a": "own"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write the shape of the Moon you saw last.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"a thin crescent\" or \"a round full moon\"."
+      }
+    ]
+  },
+  {
+    "id": "day-and-night-09",
+    "topic": "day-and-night",
+    "number": 9,
+    "level": "Practice",
+    "title": "Bedtime at Aunt Leela's House",
+    "intro": "Rohan and Zara sleep over at Aunt Leela's house in Fujairah. She has good bedtime rules.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort into Good bedtime habits and Bad bedtime habits.",
+        "marks": 8,
+        "groups": [
+          "Good bedtime habits",
+          "Bad bedtime habits"
+        ],
+        "words": [
+          "use a tablet under the blanket",
+          "watch TV till midnight",
+          "eat sweets in bed",
+          "play loud games",
+          "brush teeth",
+          "switch off the lights",
+          "go to bed on time",
+          "read a story"
+        ],
+        "a": {
+          "brush teeth": "Good bedtime habits",
+          "read a story": "Good bedtime habits",
+          "go to bed on time": "Good bedtime habits",
+          "switch off the lights": "Good bedtime habits",
+          "watch TV till midnight": "Bad bedtime habits",
+          "eat sweets in bed": "Bad bedtime habits",
+          "play loud games": "Bad bedtime habits",
+          "use a tablet under the blanket": "Bad bedtime habits"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Children aged 7 to 8 need about 9 to 11 hours of sleep.",
+            "a": true
+          },
+          {
+            "q": "Sleep helps our brain remember what we learnt.",
+            "a": true
+          },
+          {
+            "q": "A dark, quiet room helps us sleep.",
+            "a": true
+          },
+          {
+            "q": "We feel fresh after staying awake all night.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Aunt Leela says goodnight at",
+            "options": [
+              "8:30 pm",
+              "2 am"
+            ],
+            "after": ".",
+            "a": "8:30 pm"
+          },
+          {
+            "before": "Zara closes the curtains to keep the room",
+            "options": [
+              "dark",
+              "hot"
+            ],
+            "after": ".",
+            "a": "dark"
+          },
+          {
+            "before": "After a good sleep, Rohan wakes up feeling",
+            "options": [
+              "fresh",
+              "tired"
+            ],
+            "after": ".",
+            "a": "fresh"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Rohan goes to bed at 8 pm and wakes at 6 am. He sleeps for ___ hours.",
+            "a": "10"
+          },
+          {
+            "q": "We feel ___ in class if we do not sleep enough.",
+            "a": "tired / sleepy"
+          },
+          {
+            "q": "Our heart keeps working even while we ___.",
+            "a": "sleep"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write your bedtime and one thing you do before bed.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I go to bed at 8:30. I brush my teeth first.\""
+      }
+    ]
+  },
+  {
+    "id": "day-and-night-10",
+    "topic": "day-and-night",
+    "number": 10,
+    "level": "Practice",
+    "title": "A Trip to the Planetarium",
+    "intro": "Class 2 from Bhopal visits a planetarium. The big dome shows the Sun, the planets and the stars.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "The Sun is the star closest to the Earth.",
+            "a": true
+          },
+          {
+            "q": "Stars look tiny because they are very far away.",
+            "a": true
+          },
+          {
+            "q": "The Earth goes around the Sun once a year.",
+            "a": true
+          },
+          {
+            "q": "The Earth is a star.",
+            "a": false
+          },
+          {
+            "q": "We live on the planet Earth.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the start to the end.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "The Earth spins once in",
+            "right": "one day."
+          },
+          {
+            "left": "The Earth goes around the Sun in",
+            "right": "one year."
+          },
+          {
+            "left": "The Moon goes around the Earth in",
+            "right": "about a month."
+          },
+          {
+            "left": "The planets go around",
+            "right": "the Sun."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The Sun is a",
+            "options": [
+              "star",
+              "planet"
+            ],
+            "after": ".",
+            "a": "star"
+          },
+          {
+            "before": "Stars seem to",
+            "options": [
+              "twinkle",
+              "sing"
+            ],
+            "after": "in the night sky.",
+            "a": "twinkle"
+          },
+          {
+            "before": "A group of stars that makes a picture is a",
+            "options": [
+              "constellation",
+              "cloud"
+            ],
+            "after": ".",
+            "a": "constellation"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There are ___ days in a year.",
+            "a": "365"
+          },
+          {
+            "q": "The Sun gives the Earth light and ___.",
+            "a": "heat / warmth"
+          },
+          {
+            "q": "Without the ___, there would be no daytime on Earth.",
+            "a": "Sun"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Would you like to visit the Moon or a planet? Write why.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"The Moon, because I want to jump on it.\""
+      }
+    ]
+  },
+  {
+    "id": "day-and-night-11",
+    "topic": "day-and-night",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Leo's Science Notebook",
+    "intro": "Leo wrote notes about day and night, but some of them are wrong. Help him fix them.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is Leo's note right? Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Night comes because the Sun switches off.",
+            "a": false
+          },
+          {
+            "q": "The Sun rises in the east.",
+            "a": true
+          },
+          {
+            "q": "The Moon makes its own light.",
+            "a": false
+          },
+          {
+            "q": "It is night on the side of the Earth away from the Sun.",
+            "a": true
+          },
+          {
+            "q": "The Earth spins once every week.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write each wrong note correctly.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "Night comes because the Sun switches off.",
+            "a": "Night comes because our side of the Earth turns away from the Sun."
+          },
+          {
+            "q": "The Moon makes its own light.",
+            "a": "The Moon shines with light from the Sun."
+          },
+          {
+            "q": "The Earth spins once every week.",
+            "a": "The Earth spins once every day (about 24 hours)."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best reason.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "If the Earth did not spin, one side would have day",
+            "options": [
+              "all the time",
+              "for one hour"
+            ],
+            "after": ".",
+            "a": "all the time"
+          },
+          {
+            "before": "We see stars at night because the sky is",
+            "options": [
+              "dark",
+              "blue"
+            ],
+            "after": ".",
+            "a": "dark"
+          },
+          {
+            "before": "Owls hunt at night because they can see well in the",
+            "options": [
+              "dark",
+              "sunshine"
+            ],
+            "after": ".",
+            "a": "dark"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Explain to Leo why the Sun seems to move across the sky.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. The Sun does not move; the Earth spins, so the Sun seems to move from east to west."
+      }
+    ]
+  },
+  {
+    "id": "day-and-night-12",
+    "topic": "day-and-night",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Flying from Dubai to New York",
+    "intro": "Ahmed flies from Dubai to New York with his mum. When it is morning in Dubai, it is still night in New York.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the best answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "When Dubai faces the Sun, New York faces",
+            "options": [
+              "away from the Sun",
+              "towards the Sun"
+            ],
+            "after": ".",
+            "a": "away from the Sun"
+          },
+          {
+            "before": "When Ahmed eats lunch in Dubai, most people in New York are",
+            "options": [
+              "asleep",
+              "eating lunch too"
+            ],
+            "after": ".",
+            "a": "asleep"
+          },
+          {
+            "before": "As the Earth keeps spinning, New York will",
+            "options": [
+              "turn towards the Sun",
+              "stay dark forever"
+            ],
+            "after": ".",
+            "a": "turn towards the Sun"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "It can be day in India and night in America at the same time.",
+            "a": true
+          },
+          {
+            "q": "Every country has sunrise at the same moment.",
+            "a": false
+          },
+          {
+            "q": "The Earth spins from west to east.",
+            "a": true
+          },
+          {
+            "q": "Because the Earth spins from west to east, the Sun seems to rise in the east.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the word to its meaning.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "sunrise",
+            "right": "when the Sun first comes up"
+          },
+          {
+            "left": "sunset",
+            "right": "when the Sun goes down"
+          },
+          {
+            "left": "noon",
+            "right": "the middle of the day"
+          },
+          {
+            "left": "midnight",
+            "right": "the middle of the night"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "One day and night is 24 hours. So 2 days are ___ hours.",
+            "a": "48"
+          },
+          {
+            "q": "The Earth spins once a day. In one week it spins ___ times.",
+            "a": "7"
+          },
+          {
+            "q": "If daytime lasts 12 hours, night lasts about ___ hours.",
+            "a": "12"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "At bedtime in New York, Ahmed calls Grandma in Dubai. Is it day or night in Dubai? Write why.",
+        "marks": 3,
+        "lines": 2,
+        "a": "e.g. It is day in Dubai, because Dubai has now turned to face the Sun."
+      }
+    ]
+  },
+  {
+    "id": "day-and-night-13",
+    "topic": "day-and-night",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Why the Rooster Crows",
+    "intro": "On Grandpa's farm in Punjab, the rooster crows when the sky turns pink. The cows wake up and the birds start to sing. In the evening, the hens go back into their coop. At night only the owl is awake.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Read the story. Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The rooster crows when the sky turns",
+            "options": [
+              "pink",
+              "black"
+            ],
+            "after": ".",
+            "a": "pink"
+          },
+          {
+            "before": "In the evening the hens go back to their",
+            "options": [
+              "coop",
+              "school"
+            ],
+            "after": ".",
+            "a": "coop"
+          },
+          {
+            "before": "At night only the",
+            "options": [
+              "owl",
+              "cow"
+            ],
+            "after": "is awake.",
+            "a": "owl"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The story is about a farm in Kerala.",
+            "a": false
+          },
+          {
+            "q": "The birds sing in the morning.",
+            "a": true
+          },
+          {
+            "q": "The hens stay out all night.",
+            "a": false
+          },
+          {
+            "q": "The rooster crows at sunrise.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the animals: awake by day or awake by night?",
+        "marks": 8,
+        "groups": [
+          "Awake by day",
+          "Awake by night"
+        ],
+        "words": [
+          "rooster",
+          "squirrel",
+          "hedgehog",
+          "honeybee",
+          "fox",
+          "moth",
+          "house gecko",
+          "eagle"
+        ],
+        "a": {
+          "rooster": "Awake by day",
+          "squirrel": "Awake by day",
+          "honeybee": "Awake by day",
+          "eagle": "Awake by day",
+          "moth": "Awake by night",
+          "hedgehog": "Awake by night",
+          "fox": "Awake by night",
+          "house gecko": "Awake by night"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Write two sounds you hear at home in the early morning.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. birds chirping, the milkman, the pressure cooker, the azaan."
+      }
+    ]
+  },
+  {
+    "id": "day-and-night-14",
+    "topic": "day-and-night",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Giant Sundial at Jantar Mantar",
+    "intro": "At Jantar Mantar in Delhi, Nikhil sees a giant sundial. Long ago, people told the time from its shadow.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A sundial needs",
+            "options": [
+              "sunlight",
+              "rain"
+            ],
+            "after": "to work.",
+            "a": "sunlight"
+          },
+          {
+            "before": "A sundial does not work at",
+            "options": [
+              "night",
+              "noon"
+            ],
+            "after": ".",
+            "a": "night"
+          },
+          {
+            "before": "The shadow on a sundial moves because the",
+            "options": [
+              "Earth spins",
+              "shadow is alive"
+            ],
+            "after": ".",
+            "a": "Earth spins"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "In the morning the Sun is in the east, so shadows point west.",
+            "a": true
+          },
+          {
+            "q": "In the evening the Sun is in the west, so shadows point east.",
+            "a": true
+          },
+          {
+            "q": "At noon shadows are at their longest.",
+            "a": false
+          },
+          {
+            "q": "A sundial works well on a cloudy day.",
+            "a": false
+          },
+          {
+            "q": "Shadows change length during the day.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Which way does the shadow point? Write east or west.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Sun in the east",
+            "a": "west"
+          },
+          {
+            "q": "Sun in the west",
+            "a": "east"
+          },
+          {
+            "q": "8 in the morning",
+            "a": "west"
+          },
+          {
+            "q": "5 in the evening",
+            "a": "east"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Nikhil's shadow is shortest at ___.",
+            "a": "noon / midday"
+          },
+          {
+            "q": "A clock works day and night, but a sundial works only in the ___.",
+            "a": "day / daytime"
+          },
+          {
+            "q": "The Sun seems to move across the sky from east to ___.",
+            "a": "west"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in one sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Why can a sundial not tell the time at night?",
+            "a": "e.g. There is no sunlight at night, so there is no shadow."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "day-and-night-15",
+    "topic": "day-and-night",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Twenty-Four Hours in Kolkata",
+    "intro": "Tara keeps a diary of one whole day in Kolkata, from one sunrise to the next.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Put Tara's day in order. Write 1 to 5.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "dinner under the lights   sunrise and tea   school in the bright sun   sunset at the river   sleep in the dark night",
+            "a": "4, 1, 2, 3, 5 (sunrise, school, sunset, dinner, sleep)"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Work it out. Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The Sun rises at 6 am and sets at 6 pm. There are ___ hours of daylight.",
+            "a": "12"
+          },
+          {
+            "q": "So the night lasts ___ hours.",
+            "a": "12"
+          },
+          {
+            "q": "Tara sleeps from 9 pm to 6 am. She sleeps for ___ hours.",
+            "a": "9"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: does it happen in the day or at night?",
+        "marks": 8,
+        "groups": [
+          "In the day",
+          "At night"
+        ],
+        "words": [
+          "street lamps are on",
+          "a lizard warms itself in the sun",
+          "fireflies glow",
+          "a rainbow in the sky",
+          "solar panels make electricity",
+          "stars twinkle",
+          "owls hoot",
+          "sunflowers face the Sun"
+        ],
+        "a": {
+          "a rainbow in the sky": "In the day",
+          "sunflowers face the Sun": "In the day",
+          "solar panels make electricity": "In the day",
+          "a lizard warms itself in the sun": "In the day",
+          "fireflies glow": "At night",
+          "street lamps are on": "At night",
+          "stars twinkle": "At night",
+          "owls hoot": "At night"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A day and a night together make one full day.",
+            "a": true
+          },
+          {
+            "q": "The Earth spins once from one sunrise to the next.",
+            "a": true
+          },
+          {
+            "q": "Kolkata and Dubai have sunrise at exactly the same time.",
+            "a": false
+          },
+          {
+            "q": "Night is the time for our body to rest.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which part of the day do you like best? Write why.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"Evening, because I play in the park.\""
+      }
+    ]
   }
 ]

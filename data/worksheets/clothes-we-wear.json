@@ -601,5 +601,1197 @@
         "a": "Any two, e.g. wash them, iron them, fold them, hang them up, do not throw them on the floor."
       }
     ]
+  },
+  {
+    "id": "clothes-we-wear-06",
+    "topic": "clothes-we-wear",
+    "number": 6,
+    "level": "Practice",
+    "title": "Laundry Day at Home",
+    "intro": "It is Saturday. Meher helps her father wash, dry and fold the family's clothes.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Put the steps in order. Write 1, 2, 3, 4.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Fold the clothes.   Wash the clothes in soapy water.   Iron the clothes.   Dry the clothes in the sun.",
+            "a": "4, 1, 3, 2 (wash, dry, iron, fold)"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Good habits and Bad habits.",
+        "marks": 8,
+        "groups": [
+          "Good habits",
+          "Bad habits"
+        ],
+        "words": [
+          "wear muddy clothes again",
+          "wipe dirty hands on your shirt",
+          "leave wet clothes in a heap",
+          "throw socks under the bed",
+          "hang wet clothes to dry",
+          "sew back a loose button",
+          "keep shoes on the rack",
+          "fold clean clothes"
+        ],
+        "a": {
+          "hang wet clothes to dry": "Good habits",
+          "fold clean clothes": "Good habits",
+          "sew back a loose button": "Good habits",
+          "keep shoes on the rack": "Good habits",
+          "throw socks under the bed": "Bad habits",
+          "wear muddy clothes again": "Bad habits",
+          "leave wet clothes in a heap": "Bad habits",
+          "wipe dirty hands on your shirt": "Bad habits"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Clothes dry faster in the sun and wind.",
+            "a": true
+          },
+          {
+            "q": "We should wear the same socks for a whole week.",
+            "a": false
+          },
+          {
+            "q": "Sunlight helps to kill germs on clothes.",
+            "a": true
+          },
+          {
+            "q": "Silk clothes should be washed gently.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Papa uses",
+            "options": [
+              "detergent",
+              "sugar"
+            ],
+            "after": "to wash the clothes.",
+            "a": "detergent"
+          },
+          {
+            "before": "We hang wet clothes on a",
+            "options": [
+              "clothesline",
+              "bookshelf"
+            ],
+            "after": ".",
+            "a": "clothesline"
+          },
+          {
+            "before": "Meher puts dirty clothes in the laundry",
+            "options": [
+              "basket",
+              "oven"
+            ],
+            "after": ".",
+            "a": "basket"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way you help with the laundry at home.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I fold my clothes.\" or \"I put dirty clothes in the basket.\""
+      }
+    ]
+  },
+  {
+    "id": "clothes-we-wear-07",
+    "topic": "clothes-we-wear",
+    "number": 7,
+    "level": "Practice",
+    "title": "Shopping at Karama Market",
+    "intro": "Tanvi and her aunt shop for cloth at Karama Market in Dubai. Each cloth is made of a different material.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the material to what it is like.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "cotton",
+            "right": "soft and soaks up sweat"
+          },
+          {
+            "left": "wool",
+            "right": "thick and warm"
+          },
+          {
+            "left": "silk",
+            "right": "smooth and shiny"
+          },
+          {
+            "left": "nylon",
+            "right": "strong and made in factories"
+          },
+          {
+            "left": "jute",
+            "right": "rough, used for sacks and bags"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the materials by where they come from.",
+        "marks": 9,
+        "groups": [
+          "From plants",
+          "From animals",
+          "Made in factories"
+        ],
+        "words": [
+          "jute",
+          "nylon",
+          "polyester",
+          "silk",
+          "cotton",
+          "plastic",
+          "wool",
+          "linen",
+          "leather"
+        ],
+        "a": {
+          "cotton": "From plants",
+          "jute": "From plants",
+          "linen": "From plants",
+          "wool": "From animals",
+          "silk": "From animals",
+          "leather": "From animals",
+          "nylon": "Made in factories",
+          "polyester": "Made in factories",
+          "plastic": "Made in factories"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Tanvi buys ___ cloth to make a cool summer kurta.",
+            "a": "cotton"
+          },
+          {
+            "q": "Socks made of ___ keep our feet warm.",
+            "a": "wool / woollen"
+          },
+          {
+            "q": "A ___ bag is rough and strong.",
+            "a": "jute"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Polyester is made in factories.",
+            "a": true
+          },
+          {
+            "q": "Silk comes from sheep.",
+            "a": false
+          },
+          {
+            "q": "A linen shirt is made from a plant.",
+            "a": true
+          },
+          {
+            "q": "Nylon is used to make ropes and swimsuits.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Look at your clothes. Write what one of them is made of.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"My T-shirt is made of cotton.\""
+      }
+    ]
+  },
+  {
+    "id": "clothes-we-wear-08",
+    "topic": "clothes-we-wear",
+    "number": 8,
+    "level": "Practice",
+    "title": "A Silk Village in Kanchipuram",
+    "intro": "Divya visits her uncle in Kanchipuram. He weaves silk sarees on a loom.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "How is silk made? Write 1, 2, 3, 4.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Weave the thread into cloth.   Silkworms eat mulberry leaves.   Take silk thread from the cocoons.   Silkworms spin cocoons.",
+            "a": "4, 1, 3, 2 (eat leaves, spin cocoons, take thread, weave)"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Silkworms eat mulberry leaves.",
+            "a": true
+          },
+          {
+            "q": "A loom is used to weave cloth.",
+            "a": true
+          },
+          {
+            "q": "Silk cloth is rough like a jute sack.",
+            "a": false
+          },
+          {
+            "q": "Cotton grows in fluffy balls called bolls.",
+            "a": true
+          },
+          {
+            "q": "Thread is made by twisting thin fibres together.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the word to its meaning.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "weaver",
+            "right": "a person who makes cloth"
+          },
+          {
+            "left": "loom",
+            "right": "a machine to weave cloth"
+          },
+          {
+            "left": "cocoon",
+            "right": "a silkworm's soft case"
+          },
+          {
+            "left": "tailor",
+            "right": "a person who stitches clothes"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Silk thread comes from the",
+            "options": [
+              "cocoons",
+              "leaves"
+            ],
+            "after": "of silkworms.",
+            "a": "cocoons"
+          },
+          {
+            "before": "Wool is cut from a",
+            "options": [
+              "sheep",
+              "cow"
+            ],
+            "after": "with big shears.",
+            "a": "sheep"
+          },
+          {
+            "before": "Cotton fibres are spun into",
+            "options": [
+              "thread",
+              "paper"
+            ],
+            "after": ".",
+            "a": "thread"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why do many people wear silk at weddings? Write one idea.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. silk is shiny, soft and looks beautiful."
+      }
+    ]
+  },
+  {
+    "id": "clothes-we-wear-09",
+    "topic": "clothes-we-wear",
+    "number": 9,
+    "level": "Practice",
+    "title": "Desert Safari Outfit",
+    "intro": "Liam and Fatima go on a desert safari near Dubai. The sun is hot and the sand blows in the wind.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Fatima wears",
+            "options": [
+              "long loose sleeves",
+              "a woollen coat"
+            ],
+            "after": "to keep the sun off her arms.",
+            "a": "long loose sleeves"
+          },
+          {
+            "before": "Liam ties a scarf over his nose to keep out the",
+            "options": [
+              "sand",
+              "rain"
+            ],
+            "after": ".",
+            "a": "sand"
+          },
+          {
+            "before": "In the bright desert we wear",
+            "options": [
+              "sunglasses",
+              "mittens"
+            ],
+            "after": "for our eyes.",
+            "a": "sunglasses"
+          },
+          {
+            "before": "At night the desert gets",
+            "options": [
+              "cool",
+              "hotter"
+            ],
+            "after": ", so they carry a light jacket.",
+            "a": "cool"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the weather we wear it in: hot, cold or rainy.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "shawl",
+            "a": "cold"
+          },
+          {
+            "q": "linen kurta",
+            "a": "hot"
+          },
+          {
+            "q": "rain cape",
+            "a": "rainy"
+          },
+          {
+            "q": "ear muffs",
+            "a": "cold"
+          },
+          {
+            "q": "flip-flops",
+            "a": "hot"
+          },
+          {
+            "q": "waterproof jacket",
+            "a": "rainy"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Loose clothes let air move and keep us cool.",
+            "a": true
+          },
+          {
+            "q": "Tight woollen clothes are best for the desert sun.",
+            "a": false
+          },
+          {
+            "q": "Many men in the UAE wear a white kandura in hot weather.",
+            "a": true
+          },
+          {
+            "q": "Sunscreen protects the skin that clothes do not cover.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A ghutra is a cloth worn on the ___.",
+            "a": "head"
+          },
+          {
+            "q": "An abaya is a long, loose ___ worn by many women in the UAE.",
+            "a": "robe / dress / gown / cloak"
+          },
+          {
+            "q": "Fatima chose ___ clothes because the sun was hot.",
+            "a": "light / loose / cotton / thin"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things you would wear on a desert safari and why.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"A cap to shade my face and loose cotton clothes to stay cool.\""
+      }
+    ]
+  },
+  {
+    "id": "clothes-we-wear-10",
+    "topic": "clothes-we-wear",
+    "number": 10,
+    "level": "Practice",
+    "title": "Sports Day Clothes",
+    "intro": "It is Sports Day at a school in Sharjah. Every child dresses for a different game.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the sport to what we wear.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "swimming",
+            "right": "swimsuit and goggles"
+          },
+          {
+            "left": "cycling",
+            "right": "helmet"
+          },
+          {
+            "left": "batting in cricket",
+            "right": "pads and gloves"
+          },
+          {
+            "left": "karate",
+            "right": "loose white suit with a belt"
+          },
+          {
+            "left": "running",
+            "right": "sports shoes"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Sportswear stretches so we can move easily.",
+            "a": true
+          },
+          {
+            "q": "We should run a race in tight jeans.",
+            "a": false
+          },
+          {
+            "q": "A helmet keeps our head safe if we fall off a bike.",
+            "a": true
+          },
+          {
+            "q": "Cotton sports clothes soak up sweat.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: is it good to wear for sport?",
+        "marks": 8,
+        "groups": [
+          "Good for sport",
+          "Not good for sport"
+        ],
+        "words": [
+          "shin pads",
+          "trainers",
+          "high heels",
+          "school blazer",
+          "party frock",
+          "silk saree",
+          "track pants",
+          "tracksuit"
+        ],
+        "a": {
+          "tracksuit": "Good for sport",
+          "trainers": "Good for sport",
+          "shin pads": "Good for sport",
+          "track pants": "Good for sport",
+          "party frock": "Not good for sport",
+          "high heels": "Not good for sport",
+          "silk saree": "Not good for sport",
+          "school blazer": "Not good for sport"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "After the race, we change out of our ___ clothes.",
+            "a": "sweaty / wet"
+          },
+          {
+            "q": "Football players wear studded ___ to grip the grass.",
+            "a": "boots / shoes"
+          },
+          {
+            "q": "A ___ around the head stops sweat going into our eyes.",
+            "a": "sweatband / headband"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which sport do you like? Write what you wear for it.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I like football. I wear a jersey, shorts and studded boots.\""
+      }
+    ]
+  },
+  {
+    "id": "clothes-we-wear-11",
+    "topic": "clothes-we-wear",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Kabir Packs for Ooty",
+    "intro": "Kabir is going to Ooty in December, where it is cold. He packed his bag by himself, but made some mistakes.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort Kabir's things: keep or take out?",
+        "marks": 8,
+        "groups": [
+          "Keep for cold Ooty",
+          "Take out"
+        ],
+        "words": [
+          "thermal socks",
+          "woollen cap",
+          "padded jacket",
+          "sleeveless vest",
+          "shawl",
+          "swimming trunks",
+          "flip-flops",
+          "linen shorts"
+        ],
+        "a": {
+          "woollen cap": "Keep for cold Ooty",
+          "thermal socks": "Keep for cold Ooty",
+          "padded jacket": "Keep for cold Ooty",
+          "shawl": "Keep for cold Ooty",
+          "swimming trunks": "Take out",
+          "sleeveless vest": "Take out",
+          "flip-flops": "Take out",
+          "linen shorts": "Take out"
+        }
+      },
+      {
+        "type": "rewrite",
+        "title": "Each sentence has a mistake. Write it correctly.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Woollen clothes keep us cool in winter.",
+            "a": "Woollen clothes keep us warm in winter."
+          },
+          {
+            "q": "A raincoat lets water pass through it.",
+            "a": "A raincoat does not let water pass through it."
+          },
+          {
+            "q": "Silk comes from the cotton plant.",
+            "a": "Silk comes from silkworms."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best reason.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Kabir wears two layers because layers",
+            "options": [
+              "trap warm air",
+              "let in cold wind"
+            ],
+            "after": ".",
+            "a": "trap warm air"
+          },
+          {
+            "before": "Wool is good in winter because it",
+            "options": [
+              "keeps body heat in",
+              "soaks up rain"
+            ],
+            "after": ".",
+            "a": "keeps body heat in"
+          },
+          {
+            "before": "Ooty is cold because it is",
+            "options": [
+              "high up in the hills",
+              "next to a desert"
+            ],
+            "after": ".",
+            "a": "high up in the hills"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A sun hat is the best thing for a frosty morning.",
+            "a": false
+          },
+          {
+            "q": "Kabir should dry his wet socks before he wears them.",
+            "a": true
+          },
+          {
+            "q": "Dark clothes take in more heat from the sun than white clothes.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Kabir has space for one more thing. What should he pack and why?",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"Gloves, because his hands will get cold.\""
+      }
+    ]
+  },
+  {
+    "id": "clothes-we-wear-12",
+    "topic": "clothes-we-wear",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Clothes Across India",
+    "intro": "Class 2 in Abu Dhabi holds an India Day. Children wear clothes from different states.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the state to its special dress.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "Kashmir",
+            "right": "phiran, a long woollen gown"
+          },
+          {
+            "left": "Kerala",
+            "right": "mundu"
+          },
+          {
+            "left": "Assam",
+            "right": "mekhela chador"
+          },
+          {
+            "left": "Punjab",
+            "right": "phulkari dupatta"
+          },
+          {
+            "left": "Maharashtra",
+            "right": "nauvari saree"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A phiran is made of",
+            "options": [
+              "wool",
+              "thin cotton"
+            ],
+            "after": "because Kashmir is cold.",
+            "a": "wool"
+          },
+          {
+            "before": "People in Kerala wear light cotton because it is",
+            "options": [
+              "warm all year",
+              "snowy"
+            ],
+            "after": ".",
+            "a": "warm all year"
+          },
+          {
+            "before": "A turban protects the head from",
+            "options": [
+              "sun and dust",
+              "pool water"
+            ],
+            "after": ".",
+            "a": "sun and dust"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "People in different places wear different clothes.",
+            "a": true
+          },
+          {
+            "q": "The weather of a place changes what people wear.",
+            "a": true
+          },
+          {
+            "q": "Everyone in India wears the same dress.",
+            "a": false
+          },
+          {
+            "q": "A saree is one long piece of cloth.",
+            "a": true
+          },
+          {
+            "q": "A dhoti is stitched like a pair of trousers.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A ___ is a long shirt worn by both men and women in India.",
+            "a": "kurta"
+          },
+          {
+            "q": "In cold Ladakh, people wear thick ___ clothes.",
+            "a": "woollen / wool / warm"
+          },
+          {
+            "q": "Ruhi wears a ___ with a gold border, like ladies in Kerala.",
+            "a": "saree / sari"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write about a special dress from your family's home place.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"My Nani wears a Bengali saree with a red border.\""
+      }
+    ]
+  },
+  {
+    "id": "clothes-we-wear-13",
+    "topic": "clothes-we-wear",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Hiking Up Jebel Jais",
+    "intro": "Jebel Jais is the highest mountain in the UAE. Arjun's family hikes up on a cool winter morning.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "It is colder at the top of a mountain than at the bottom.",
+            "a": true
+          },
+          {
+            "q": "Wearing layers lets us take one off when we get warm.",
+            "a": true
+          },
+          {
+            "q": "Wet clothes keep us warm on a windy hill.",
+            "a": false
+          },
+          {
+            "q": "Dark clothes soak up more of the sun's heat than white clothes.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "At the top, Arjun puts on his",
+            "options": [
+              "jacket",
+              "swimsuit"
+            ],
+            "after": "because it is windy.",
+            "a": "jacket"
+          },
+          {
+            "before": "When the sun comes out and he feels hot, he takes",
+            "options": [
+              "off",
+              "on"
+            ],
+            "after": "a layer.",
+            "a": "off"
+          },
+          {
+            "before": "He wears boots with a good grip so he does not",
+            "options": [
+              "slip",
+              "sing"
+            ],
+            "after": "on the rocks.",
+            "a": "slip"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: does it help on the hike?",
+        "marks": 8,
+        "groups": [
+          "Helps on the hike",
+          "Not helpful"
+        ],
+        "words": [
+          "sun cap",
+          "hiking boots",
+          "bathroom slippers",
+          "heavy silk saree",
+          "fleece jacket",
+          "party dress",
+          "thick socks",
+          "high-heeled shoes"
+        ],
+        "a": {
+          "hiking boots": "Helps on the hike",
+          "fleece jacket": "Helps on the hike",
+          "thick socks": "Helps on the hike",
+          "sun cap": "Helps on the hike",
+          "high-heeled shoes": "Not helpful",
+          "party dress": "Not helpful",
+          "bathroom slippers": "Not helpful",
+          "heavy silk saree": "Not helpful"
+        }
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in one sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Why do people in hot deserts often wear white clothes?",
+            "a": "e.g. White clothes do not soak up much of the sun's heat, so they keep us cooler."
+          },
+          {
+            "q": "Why is it better to wear two thin layers than one thick jumper on a hike?",
+            "a": "e.g. We can take off a layer when we feel warm and put it back on when we feel cold."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "clothes-we-wear-14",
+    "topic": "clothes-we-wear",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Grandpa's Old Shirt",
+    "intro": "Grandpa's blue shirt is too small for him now. Mum does not throw it away. She cuts it and sews a bag for the market. The small pieces become dusters for the kitchen.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Read the story. Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The shirt is",
+            "options": [
+              "blue",
+              "red"
+            ],
+            "after": ".",
+            "a": "blue"
+          },
+          {
+            "before": "Mum makes a",
+            "options": [
+              "bag",
+              "cap"
+            ],
+            "after": "from the shirt.",
+            "a": "bag"
+          },
+          {
+            "before": "The small pieces become",
+            "options": [
+              "dusters",
+              "toys"
+            ],
+            "after": ".",
+            "a": "dusters"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Grandpa's shirt became too big for him.",
+            "a": false
+          },
+          {
+            "q": "Mum threw the shirt in the bin.",
+            "a": false
+          },
+          {
+            "q": "Old clothes can be used again.",
+            "a": true
+          },
+          {
+            "q": "Clothes that are too small can be given to children who need them.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: is it a good way to deal with old clothes?",
+        "marks": 8,
+        "groups": [
+          "Good idea",
+          "Not a good idea"
+        ],
+        "words": [
+          "give to a charity box",
+          "use as a cleaning cloth",
+          "pass on to a cousin",
+          "stuff them in a drain",
+          "leave them to rot in a bag",
+          "throw them on the road",
+          "burn them",
+          "make a cushion cover"
+        ],
+        "a": {
+          "give to a charity box": "Good idea",
+          "make a cushion cover": "Good idea",
+          "use as a cleaning cloth": "Good idea",
+          "pass on to a cousin": "Good idea",
+          "burn them": "Not a good idea",
+          "throw them on the road": "Not a good idea",
+          "leave them to rot in a bag": "Not a good idea",
+          "stuff them in a drain": "Not a good idea"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Using old things again in a new way is called ___.",
+            "a": "reusing / reuse / recycling"
+          },
+          {
+            "q": "When we fix a torn shirt with a needle, we ___ it.",
+            "a": "mend / sew / stitch"
+          },
+          {
+            "q": "Mum used a needle and ___ to sew the bag.",
+            "a": "thread"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing you could make from an old T-shirt.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. a shopping bag, a pillow cover, a duster, a doll's dress."
+      }
+    ]
+  },
+  {
+    "id": "clothes-we-wear-15",
+    "topic": "clothes-we-wear",
+    "number": 15,
+    "level": "Challenge",
+    "title": "A Year of Weather in Delhi",
+    "intro": "Delhi has a hot summer, a rainy monsoon and a cold winter. Sara keeps a chart of what her family wears in each season.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the clothes into the three seasons.",
+        "marks": 9,
+        "groups": [
+          "Summer",
+          "Monsoon",
+          "Winter"
+        ],
+        "words": [
+          "beanie",
+          "sun visor",
+          "cardigan",
+          "khadi kurta",
+          "quilted jacket",
+          "umbrella hat",
+          "waterproof shoes",
+          "sleeveless top",
+          "rain poncho"
+        ],
+        "a": {
+          "sleeveless top": "Summer",
+          "khadi kurta": "Summer",
+          "sun visor": "Summer",
+          "rain poncho": "Monsoon",
+          "waterproof shoes": "Monsoon",
+          "umbrella hat": "Monsoon",
+          "cardigan": "Winter",
+          "quilted jacket": "Winter",
+          "beanie": "Winter"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best choice.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "In May, Sara wears",
+            "options": [
+              "cotton",
+              "woollen"
+            ],
+            "after": "clothes.",
+            "a": "cotton"
+          },
+          {
+            "before": "In October the weather is pleasant, so Sara wears",
+            "options": [
+              "a light jacket",
+              "a thick coat"
+            ],
+            "after": "in the evening.",
+            "a": "a light jacket"
+          },
+          {
+            "before": "In January, Dadi wraps a warm",
+            "options": [
+              "shawl",
+              "towel"
+            ],
+            "after": "around her shoulders.",
+            "a": "shawl"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Sara needs the same clothes all year.",
+            "a": false
+          },
+          {
+            "q": "In the monsoon, washed clothes take longer to dry.",
+            "a": true
+          },
+          {
+            "q": "We pack woollens away carefully when winter ends.",
+            "a": true
+          },
+          {
+            "q": "Dried neem leaves are kept with woollens to keep insects away.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In ___, the hottest season, we wear loose clothes.",
+            "a": "summer"
+          },
+          {
+            "q": "In the monsoon we wear clothes that keep out the ___.",
+            "a": "rain / water"
+          },
+          {
+            "q": "In winter, a woollen ___ keeps our head and ears warm.",
+            "a": "cap / beanie / hat"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which season do you like best? Write what you wear then.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"I like winter. I wear a sweater and a woollen cap.\""
+      }
+    ]
   }
 ]

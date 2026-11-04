@@ -663,5 +663,1284 @@
         ]
       }
     ]
+  },
+  {
+    "id": "calendar-06",
+    "topic": "calendar",
+    "number": 6,
+    "level": "Practice",
+    "title": "Counting Down to Eid",
+    "intro": "Noor's family marks Eid on the kitchen calendar. In this month, the 1st is a Thursday.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "The 1st is a Thursday. Write the day for each date.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "4th",
+            "a": "Sunday"
+          },
+          {
+            "q": "9th",
+            "a": "Friday"
+          },
+          {
+            "q": "16th",
+            "a": "Friday"
+          },
+          {
+            "q": "27th",
+            "a": "Tuesday"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The first Saturday of this month is the ___.",
+            "a": "3rd / 3"
+          },
+          {
+            "q": "Eid is on the 18th. That day is a ___.",
+            "a": "Sunday"
+          },
+          {
+            "q": "On the 11th, Noor says, \"Eid is in ___ days.\"",
+            "a": "7"
+          },
+          {
+            "q": "One week after the 18th is the ___.",
+            "a": "25th / 25"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The 8th is a Thursday.",
+            "a": true
+          },
+          {
+            "q": "The 20th is a Monday.",
+            "a": false
+          },
+          {
+            "q": "The 29th is also a Thursday.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right day.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The day after Eid, the 19th, is a",
+            "options": [
+              "Tuesday",
+              "Monday",
+              "Sunday"
+            ],
+            "after": ".",
+            "a": "Monday"
+          },
+          {
+            "before": "The 2nd is a",
+            "options": [
+              "Thursday",
+              "Friday",
+              "Saturday"
+            ],
+            "after": ".",
+            "a": "Friday"
+          },
+          {
+            "before": "The 24th is a",
+            "options": [
+              "Sunday",
+              "Saturday",
+              "Friday"
+            ],
+            "after": ".",
+            "a": "Saturday"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the Eid problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Noor's cousins arrive 3 days before Eid. They arrive on the ___.",
+            "a": "15th / 15"
+          },
+          {
+            "q": "Mum shops on the second Saturday of the month. That is the ___.",
+            "a": "10th / 10"
+          },
+          {
+            "q": "The Eid holiday is from the 17th to the 20th. That is ___ days, counting both.",
+            "a": "4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "calendar-07",
+    "topic": "calendar",
+    "number": 7,
+    "level": "Practice",
+    "title": "The School Week in Dubai",
+    "intro": "At Arjun's school in Dubai, children go to school from Monday to Friday. Saturday and Sunday are the weekend.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each day to its short form.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "Monday",
+            "right": "Mon"
+          },
+          {
+            "left": "Wednesday",
+            "right": "Wed"
+          },
+          {
+            "left": "Thursday",
+            "right": "Thu"
+          },
+          {
+            "left": "Saturday",
+            "right": "Sat"
+          },
+          {
+            "left": "Sunday",
+            "right": "Sun"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Today is Tuesday. The day after tomorrow is ___.",
+            "a": "Thursday"
+          },
+          {
+            "q": "Today is Friday. The day before yesterday was ___.",
+            "a": "Wednesday"
+          },
+          {
+            "q": "Today is Sunday. In 3 days it will be ___.",
+            "a": "Wednesday"
+          },
+          {
+            "q": "Today is Thursday. 2 days ago it was ___.",
+            "a": "Tuesday"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the days for Arjun's school.",
+        "marks": 6,
+        "groups": [
+          "School day",
+          "Weekend"
+        ],
+        "words": [
+          "Monday",
+          "Saturday",
+          "Wednesday",
+          "Sunday",
+          "Friday",
+          "Tuesday"
+        ],
+        "a": {
+          "Monday": "School day",
+          "Saturday": "Weekend",
+          "Wednesday": "School day",
+          "Sunday": "Weekend",
+          "Friday": "School day",
+          "Tuesday": "School day"
+        }
+      },
+      {
+        "type": "pairs",
+        "title": "Monday is the 1st day of the week. Write the day.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3rd day",
+            "a": "Wednesday"
+          },
+          {
+            "q": "5th day",
+            "a": "Friday"
+          },
+          {
+            "q": "6th day",
+            "a": "Saturday"
+          },
+          {
+            "q": "7th day",
+            "a": "Sunday"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the school week problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Arjun swims every Tuesday and Thursday. He swims ___ times in 2 weeks.",
+            "a": "4"
+          },
+          {
+            "q": "School is open ___ days in one week.",
+            "a": "5"
+          },
+          {
+            "q": "There are ___ school days in 3 weeks.",
+            "a": "15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "calendar-08",
+    "topic": "calendar",
+    "number": 8,
+    "level": "Practice",
+    "title": "Months on the Classroom Wall",
+    "intro": "Ms Fernandes puts the twelve months on the classroom wall. Use the order of the months to answer.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the short form of each month.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "January",
+            "a": "Jan"
+          },
+          {
+            "q": "February",
+            "a": "Feb"
+          },
+          {
+            "q": "September",
+            "a": "Sep / Sept"
+          },
+          {
+            "q": "November",
+            "a": "Nov"
+          },
+          {
+            "q": "August",
+            "a": "Aug"
+          },
+          {
+            "q": "December",
+            "a": "Dec"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The month just before May is ___.",
+            "a": "April"
+          },
+          {
+            "q": "Three months after March is ___.",
+            "a": "June"
+          },
+          {
+            "q": "The 9th month of the year is ___.",
+            "a": "September"
+          },
+          {
+            "q": "Two months before February is ___.",
+            "a": "December"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the month that comes just before.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Just before June:",
+            "options": [
+              "May",
+              "July",
+              "April"
+            ],
+            "after": "",
+            "a": "May"
+          },
+          {
+            "before": "Just before January:",
+            "options": [
+              "February",
+              "December",
+              "November"
+            ],
+            "after": "",
+            "a": "December"
+          },
+          {
+            "before": "Just before October:",
+            "options": [
+              "November",
+              "August",
+              "September"
+            ],
+            "after": "",
+            "a": "September"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "July is the 7th month of the year.",
+            "a": true
+          },
+          {
+            "q": "There are 4 months between March and August.",
+            "a": true
+          },
+          {
+            "q": "The month after November has 30 days.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the month problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Mia's birthday is in the 4th month. Her brother's is 2 months later, in ___.",
+            "a": "June"
+          },
+          {
+            "q": "The class trip is 5 months after June. It is in ___.",
+            "a": "November"
+          },
+          {
+            "q": "The school fair is 4 months before December. It is in ___.",
+            "a": "August"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "calendar-09",
+    "topic": "calendar",
+    "number": 9,
+    "level": "Practice",
+    "title": "A Page from the Calendar",
+    "intro": "Ella looks at a calendar page for a month with 30 days. The 1st is a Wednesday.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The last date of this month is the ___.",
+            "a": "30th / 30"
+          },
+          {
+            "q": "The 30th is a ___.",
+            "a": "Thursday"
+          },
+          {
+            "q": "There are ___ Fridays in this month.",
+            "a": "4"
+          },
+          {
+            "q": "The first Sunday is the ___.",
+            "a": "5th / 5"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the date.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "1st Monday",
+            "a": "6th / 6"
+          },
+          {
+            "q": "2nd Friday",
+            "a": "10th / 10"
+          },
+          {
+            "q": "3rd Tuesday",
+            "a": "21st / 21"
+          },
+          {
+            "q": "last Saturday",
+            "a": "25th / 25"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the dates. Which day does each fall on?",
+        "marks": 6,
+        "groups": [
+          "Saturday or Sunday",
+          "Monday to Friday"
+        ],
+        "words": [
+          "4th",
+          "9th",
+          "12th",
+          "16th",
+          "19th",
+          "27th"
+        ],
+        "a": {
+          "4th": "Saturday or Sunday",
+          "9th": "Monday to Friday",
+          "12th": "Saturday or Sunday",
+          "16th": "Monday to Friday",
+          "19th": "Saturday or Sunday",
+          "27th": "Monday to Friday"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "This month has 5 Wednesdays.",
+            "a": true
+          },
+          {
+            "q": "The 15th and the 22nd fall on the same day.",
+            "a": true
+          },
+          {
+            "q": "The 10th is a Thursday.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve Ella's problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ella's dance show is on the 3rd Saturday. It is on the ___.",
+            "a": "18th / 18"
+          },
+          {
+            "q": "Her library books are due 2 weeks after the 6th. They are due on the ___.",
+            "a": "20th / 20"
+          },
+          {
+            "q": "Ella goes to art club every Thursday. She goes ___ times this month.",
+            "a": "5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "calendar-10",
+    "topic": "calendar",
+    "number": 10,
+    "level": "Practice",
+    "title": "Grandparents Visit Dubai",
+    "intro": "Dadi and Dada fly from Lucknow to visit Zoya in Dubai for the winter. Count days and weeks to plan.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write in days.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "1 week 3 days",
+            "a": "10"
+          },
+          {
+            "q": "2 weeks 1 day",
+            "a": "15"
+          },
+          {
+            "q": "3 weeks 4 days",
+            "a": "25"
+          },
+          {
+            "q": "4 weeks 2 days",
+            "a": "30"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "They come on 4 December and leave on 18 December. That is ___ weeks.",
+            "a": "2"
+          },
+          {
+            "q": "From 4 December to 11 December is ___ days.",
+            "a": "7"
+          },
+          {
+            "q": "One week after 18 December is ___ December.",
+            "a": "25"
+          },
+          {
+            "q": "35 days = ___ weeks",
+            "a": "5"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct date.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Two weeks after 3 January is",
+            "options": [
+              "10 January",
+              "16 January",
+              "17 January"
+            ],
+            "after": ".",
+            "a": "17 January"
+          },
+          {
+            "before": "10 days after 15 November is",
+            "options": [
+              "24 November",
+              "25 November",
+              "26 November"
+            ],
+            "after": ".",
+            "a": "25 November"
+          },
+          {
+            "before": "The day before 1 December is",
+            "options": [
+              "31 November",
+              "29 November",
+              "30 November"
+            ],
+            "after": ".",
+            "a": "30 November"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the same amount of time.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "12 months",
+            "right": "1 year"
+          },
+          {
+            "left": "366 days",
+            "right": "1 leap year"
+          },
+          {
+            "left": "42 days",
+            "right": "6 weeks"
+          },
+          {
+            "left": "9 days",
+            "right": "1 week and 2 days"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the visit problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Dadi stays for 2 weeks and 5 days. That is ___ days.",
+            "a": "19"
+          },
+          {
+            "q": "They go to the beach once every week for 3 weeks. They go ___ times.",
+            "a": "3"
+          },
+          {
+            "q": "Dada says they will come again in 24 months. That is ___ years.",
+            "a": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "calendar-11",
+    "topic": "calendar",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Summer Camp Across the Months",
+    "intro": "Rohit and Amara go to a summer camp in Ooty. Some dates go into the next month, so remember how many days each month has.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct date.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "3 days after 29 June is",
+            "options": [
+              "1 July",
+              "2 July",
+              "3 July"
+            ],
+            "after": ".",
+            "a": "2 July"
+          },
+          {
+            "before": "5 days after 28 May is",
+            "options": [
+              "1 June",
+              "2 June",
+              "3 June"
+            ],
+            "after": ".",
+            "a": "2 June"
+          },
+          {
+            "before": "1 week after 27 April is",
+            "options": [
+              "3 May",
+              "4 May",
+              "5 May"
+            ],
+            "after": ".",
+            "a": "4 May"
+          },
+          {
+            "before": "4 days before 2 August is",
+            "options": [
+              "29 July",
+              "30 July",
+              "31 July"
+            ],
+            "after": ".",
+            "a": "29 July"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "From 25 June to 5 July is ___ days, counting both.",
+            "a": "11"
+          },
+          {
+            "q": "Camp starts on 26 May and lasts 10 days, counting the first day. The last day is ___ June.",
+            "a": "4"
+          },
+          {
+            "q": "In a year that is not a leap year, the day after 28 February is ___ March.",
+            "a": "1"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The day after 30 April is 31 April.",
+            "a": false
+          },
+          {
+            "q": "One week after 28 June is 5 July.",
+            "a": true
+          },
+          {
+            "q": "In a leap year, the day after 28 February is 1 March.",
+            "a": false
+          },
+          {
+            "q": "July and August together have 62 days.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "How many days are left in the month after this date?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "20 June",
+            "a": "10"
+          },
+          {
+            "q": "25 August",
+            "a": "6"
+          },
+          {
+            "q": "14 February, not a leap year",
+            "a": "14"
+          },
+          {
+            "q": "19 November",
+            "a": "11"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the camp problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Rohit's camp starts on 22 June. He comes home 14 days later, on ___ July.",
+            "a": "6"
+          },
+          {
+            "q": "The camp photos come 3 weeks after 20 June, on ___ July.",
+            "a": "11"
+          },
+          {
+            "q": "Amara's camp is from 1 July to 10 July. Rohit's is from 22 June to 6 July. ___ has the longer camp.",
+            "a": "Rohit"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "calendar-12",
+    "topic": "calendar",
+    "number": 12,
+    "level": "Challenge",
+    "title": "The Birthday Puzzle Club",
+    "intro": "Five friends try to work out each other's birthdays. Read each clue carefully.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Use the clue to find the birthday.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Kiara's birthday is 2 weeks after 10 March. It is on ___ March.",
+            "a": "24"
+          },
+          {
+            "q": "Tom's birthday is the day before Kiara's. It is on ___ March.",
+            "a": "23"
+          },
+          {
+            "q": "Hamza was born on the last day of the 9th month. His birthday is ___ September.",
+            "a": "30"
+          },
+          {
+            "q": "Sara's birthday is 10 days after 25 October. It is on ___ November.",
+            "a": "4"
+          },
+          {
+            "q": "Wei was born on 29 February. When it is not a leap year, she has her party on the day before 1 March, which is ___ February.",
+            "a": "28"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Both were born in the same year. Circle the older child's birthday.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "5 May",
+              "15 April"
+            ],
+            "after": "",
+            "a": "15 April"
+          },
+          {
+            "before": "",
+            "options": [
+              "20 October",
+              "20 August"
+            ],
+            "after": "",
+            "a": "20 August"
+          },
+          {
+            "before": "",
+            "options": [
+              "3 December",
+              "30 November"
+            ],
+            "after": "",
+            "a": "30 November"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A child born on 29 February has that date only in a leap year.",
+            "a": true
+          },
+          {
+            "q": "If your birthday is on a Monday this year, it is on a Monday every year.",
+            "a": false
+          },
+          {
+            "q": "A child born in January is older than a child born in March of the same year.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each clue to its month.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "the month with 28 or 29 days",
+            "right": "February"
+          },
+          {
+            "left": "the month after the 6th month",
+            "right": "July"
+          },
+          {
+            "left": "two months before the last month",
+            "right": "October"
+          },
+          {
+            "left": "the first month with 30 days",
+            "right": "April"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: When is your birthday? How many days does that month have?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. My birthday is on 12 July. July has 31 days."
+      }
+    ]
+  },
+  {
+    "id": "calendar-13",
+    "topic": "calendar",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Spot the Calendar Mistakes",
+    "intro": "Leo wrote calendar facts in his notebook, but some of them are wrong. Be a calendar detective.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is Leo right? Circle True or False.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "The 1st and the 8th of a month fall on the same day.",
+            "a": true
+          },
+          {
+            "q": "If 1 May is a Friday, then 31 May is a Sunday.",
+            "a": true
+          },
+          {
+            "q": "October comes before September.",
+            "a": false
+          },
+          {
+            "q": "4 weeks is 30 days.",
+            "a": false
+          },
+          {
+            "q": "If today is Saturday, then 10 days later is a Tuesday.",
+            "a": true
+          },
+          {
+            "q": "April, June, September and November have 30 days.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fix the mistakes.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "4 weeks is ___ days.",
+            "a": "28"
+          },
+          {
+            "q": "If 1 March is a Tuesday, then 15 March is a ___.",
+            "a": "Tuesday"
+          },
+          {
+            "q": "If today is Wednesday, then 9 days later is a ___.",
+            "a": "Friday"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Count on. Write the day.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Monday + 10 days",
+            "a": "Thursday"
+          },
+          {
+            "q": "Friday + 15 days",
+            "a": "Saturday"
+          },
+          {
+            "q": "Tuesday + 12 days",
+            "a": "Sunday"
+          },
+          {
+            "q": "Thursday + 8 days",
+            "a": "Friday"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A fortnight is",
+            "options": [
+              "7 days",
+              "14 days",
+              "30 days"
+            ],
+            "after": ".",
+            "a": "14 days"
+          },
+          {
+            "before": "If the 2nd is a Sunday, the 1st is a",
+            "options": [
+              "Saturday",
+              "Monday",
+              "Friday"
+            ],
+            "after": ".",
+            "a": "Saturday"
+          },
+          {
+            "before": "The month with the fewest days is",
+            "options": [
+              "April",
+              "February",
+              "November"
+            ],
+            "after": ".",
+            "a": "February"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: Leo says every month has 30 days. Is he right? Say why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "No. Some months have 31 days, and February has 28 days (29 in a leap year)."
+      }
+    ]
+  },
+  {
+    "id": "calendar-14",
+    "topic": "calendar",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Diwali Holiday Planner",
+    "intro": "Ishita's school is closed for Diwali from 20 October to 2 November. This year, 1 October is a Wednesday.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Use the dates to answer.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The holidays start on a ___.",
+            "a": "Monday"
+          },
+          {
+            "q": "The holidays last ___ days, counting both.",
+            "a": "14"
+          },
+          {
+            "q": "That is ___ weeks.",
+            "a": "2"
+          },
+          {
+            "q": "School opens on 3 November. That day is a ___.",
+            "a": "Monday"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the day for each October date.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "2 October",
+            "a": "Thursday"
+          },
+          {
+            "q": "11 October",
+            "a": "Saturday"
+          },
+          {
+            "q": "17 October",
+            "a": "Friday"
+          },
+          {
+            "q": "26 October",
+            "a": "Sunday"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right date.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Diwali is 5 days after the holidays start. Diwali is on",
+            "options": [
+              "24 October",
+              "25 October",
+              "26 October"
+            ],
+            "after": ".",
+            "a": "25 October"
+          },
+          {
+            "before": "Ishita's aunt comes 1 week before Diwali, on",
+            "options": [
+              "17 October",
+              "18 October",
+              "19 October"
+            ],
+            "after": ".",
+            "a": "18 October"
+          },
+          {
+            "before": "Ishita makes rangoli on the 3 days just before Diwali. The first of them is",
+            "options": [
+              "21 October",
+              "22 October",
+              "23 October"
+            ],
+            "after": ".",
+            "a": "22 October"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There are 2 Saturdays in the holidays.",
+            "a": true
+          },
+          {
+            "q": "Every day of the holidays is in October.",
+            "a": false
+          },
+          {
+            "q": "The holidays are longer than 10 days.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: How did you find the day for 20 October?",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Look for: 1st, 8th and 15th are Wednesdays, so the 20th is 5 days after the 15th, a Monday."
+      }
+    ]
+  },
+  {
+    "id": "calendar-15",
+    "topic": "calendar",
+    "number": 15,
+    "level": "Challenge",
+    "title": "A Year of Family Festivals",
+    "intro": "Vihaan's family in Abu Dhabi has a chart of special days: Mum's birthday 14 January, Sports Day 22 March, a beach trip 9 June, an Onam party 5 September and Christmas 25 December.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Use the chart to answer.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The first special day of the year is in ___.",
+            "a": "January"
+          },
+          {
+            "q": "The beach trip is in the ___ month of the year.",
+            "a": "6th / 6"
+          },
+          {
+            "q": "Sports Day is in March. The beach trip is ___ months later.",
+            "a": "3"
+          },
+          {
+            "q": "Christmas is ___ days after 1 December.",
+            "a": "24"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the months. Do they come before or after June?",
+        "marks": 6,
+        "groups": [
+          "Before June",
+          "After June"
+        ],
+        "words": [
+          "January",
+          "March",
+          "September",
+          "December",
+          "April",
+          "October"
+        ],
+        "a": {
+          "January": "Before June",
+          "March": "Before June",
+          "September": "After June",
+          "December": "After June",
+          "April": "Before June",
+          "October": "After June"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "From 9 June to 9 July is",
+            "options": [
+              "1 week",
+              "1 month",
+              "1 year"
+            ],
+            "after": ".",
+            "a": "1 month"
+          },
+          {
+            "before": "Dad's birthday is 2 weeks after Mum's, on",
+            "options": [
+              "21 January",
+              "24 January",
+              "28 January"
+            ],
+            "after": ".",
+            "a": "28 January"
+          },
+          {
+            "before": "The month that is 5 months after September is",
+            "options": [
+              "January",
+              "February",
+              "March"
+            ],
+            "after": ".",
+            "a": "February"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The Onam party is in the 9th month of the year.",
+            "a": true
+          },
+          {
+            "q": "There are 2 special days on the chart in December.",
+            "a": false
+          },
+          {
+            "q": "Sports Day comes before the beach trip.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: Name two special days in your family. Which month is each in?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. My birthday is in May. Diwali is in October or November."
+      }
+    ]
   }
 ]

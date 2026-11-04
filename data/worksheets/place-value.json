@@ -694,5 +694,1318 @@
         ]
       }
     ]
+  },
+  {
+    "id": "place-value-06",
+    "topic": "place-value",
+    "number": 6,
+    "level": "Practice",
+    "title": "Boxes of Books in the School Library",
+    "intro": "The library gets new books in boxes of 100, piles of 10 and single books.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the number name in figures.",
+        "items": [
+          {
+            "q": "four hundred thirty-six",
+            "a": "436"
+          },
+          {
+            "q": "seven hundred eight",
+            "a": "708"
+          },
+          {
+            "q": "nine hundred fifty",
+            "a": "950"
+          },
+          {
+            "q": "two hundred seventy-one",
+            "a": "271"
+          },
+          {
+            "q": "eight hundred fourteen",
+            "a": "814"
+          },
+          {
+            "q": "one hundred sixty-three",
+            "a": "163"
+          }
+        ],
+        "marks": 6
+      },
+      {
+        "type": "fill",
+        "title": "Write the number in parts.",
+        "items": [
+          {
+            "q": "625 = ___ + 20 + 5",
+            "a": "600"
+          },
+          {
+            "q": "893 = 800 + ___ + 3",
+            "a": "90"
+          },
+          {
+            "q": "317 = 300 + 10 + ___",
+            "a": "7"
+          },
+          {
+            "q": "540 = ___ + 40 + 0",
+            "a": "500"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "choice",
+        "title": "Circle what the digit is worth.",
+        "items": [
+          {
+            "before": "In 739, the 3 is worth",
+            "options": [
+              "3",
+              "30",
+              "300"
+            ],
+            "after": "",
+            "a": "30"
+          },
+          {
+            "before": "In 182, the 1 is worth",
+            "options": [
+              "1",
+              "10",
+              "100"
+            ],
+            "after": "",
+            "a": "100"
+          },
+          {
+            "before": "In 564, the 4 is worth",
+            "options": [
+              "4",
+              "40",
+              "400"
+            ],
+            "after": "",
+            "a": "4"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "5 hundreds and 9 ones make 509.",
+            "a": true
+          },
+          {
+            "q": "Two hundred thirty is written 2030.",
+            "a": false
+          },
+          {
+            "q": "In 846, the 4 is in the tens place.",
+            "a": true
+          },
+          {
+            "q": "100 ones make 1 hundred.",
+            "a": true
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "fill",
+        "title": "Solve the library problems.",
+        "items": [
+          {
+            "q": "The library gets 3 boxes of 100 books, 7 piles of 10 and 2 single books. That is ___ books.",
+            "a": "372"
+          },
+          {
+            "q": "There are 615 storybooks. The 1 stands for ___ books.",
+            "a": "10"
+          },
+          {
+            "q": "Mrs Rao puts 480 books on shelves of 10. She fills ___ shelves.",
+            "a": "48"
+          }
+        ],
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "place-value-07",
+    "topic": "place-value",
+    "number": 7,
+    "level": "Practice",
+    "title": "Bus Numbers at the Bus Depot",
+    "intro": "Buses line up at the depot in Sharjah. Each bus has a 3-digit number.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the bigger bus number.",
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "648",
+              "684"
+            ],
+            "after": "",
+            "a": "684"
+          },
+          {
+            "before": "",
+            "options": [
+              "903",
+              "390"
+            ],
+            "after": "",
+            "a": "903"
+          },
+          {
+            "before": "",
+            "options": [
+              "415",
+              "451"
+            ],
+            "after": "",
+            "a": "451"
+          },
+          {
+            "before": "",
+            "options": [
+              "299",
+              "301"
+            ],
+            "after": "",
+            "a": "301"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "fill",
+        "title": "Write > or < in the blank.",
+        "items": [
+          {
+            "q": "356 ___ 365",
+            "a": "<"
+          },
+          {
+            "q": "810 ___ 801",
+            "a": ">"
+          },
+          {
+            "q": "127 ___ 172",
+            "a": "<"
+          },
+          {
+            "q": "940 ___ 904",
+            "a": ">"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "pairs",
+        "title": "Write the bus number.",
+        "items": [
+          {
+            "q": "6 hundreds 2 tens 8 ones",
+            "a": "628"
+          },
+          {
+            "q": "3 hundreds 9 ones",
+            "a": "309"
+          },
+          {
+            "q": "8 hundreds 4 tens",
+            "a": "840"
+          },
+          {
+            "q": "1 hundred 1 ten 7 ones",
+            "a": "117"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "match",
+        "title": "Match the bus number to its parts.",
+        "items": [
+          {
+            "left": "463",
+            "right": "400 + 60 + 3"
+          },
+          {
+            "left": "436",
+            "right": "400 + 30 + 6"
+          },
+          {
+            "left": "346",
+            "right": "300 + 40 + 6"
+          },
+          {
+            "left": "643",
+            "right": "600 + 40 + 3"
+          },
+          {
+            "left": "364",
+            "right": "300 + 60 + 4"
+          }
+        ],
+        "marks": 5
+      },
+      {
+        "type": "fill",
+        "title": "Solve the bus problems.",
+        "items": [
+          {
+            "q": "Buses 527, 572, 257, 725 are parked. The biggest number is ___.",
+            "a": "725"
+          },
+          {
+            "q": "From the same buses, the smallest number is ___.",
+            "a": "257"
+          },
+          {
+            "q": "Bus 709 has ___ in the tens place.",
+            "a": "0"
+          }
+        ],
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "place-value-08",
+    "topic": "place-value",
+    "number": 8,
+    "level": "Practice",
+    "title": "Seed Packets at the Plant Nursery",
+    "intro": "At the nursery in Bengaluru, seeds come in big bags of 100, small packs of 10 and loose seeds.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write how many hundreds, tens and ones.",
+        "items": [
+          {
+            "q": "583",
+            "a": "5H 8T 3O"
+          },
+          {
+            "q": "206",
+            "a": "2H 0T 6O"
+          },
+          {
+            "q": "790",
+            "a": "7H 9T 0O"
+          },
+          {
+            "q": "341",
+            "a": "3H 4T 1O"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "fill",
+        "title": "Write the digit in the place shown.",
+        "items": [
+          {
+            "q": "In 672, the tens digit is ___.",
+            "a": "7"
+          },
+          {
+            "q": "In 958, the hundreds digit is ___.",
+            "a": "9"
+          },
+          {
+            "q": "In 103, the tens digit is ___.",
+            "a": "0"
+          },
+          {
+            "q": "In 487, the ones digit is ___.",
+            "a": "7"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "sort",
+        "title": "Sort the numbers by the hundreds digit.",
+        "groups": [
+          "2 hundreds",
+          "5 hundreds"
+        ],
+        "words": [
+          "215",
+          "502",
+          "259",
+          "590",
+          "280",
+          "521"
+        ],
+        "a": {
+          "215": "2 hundreds",
+          "502": "5 hundreds",
+          "259": "2 hundreds",
+          "590": "5 hundreds",
+          "280": "2 hundreds",
+          "521": "5 hundreds"
+        },
+        "marks": 3
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "In 365, the 6 is worth 60.",
+            "a": true
+          },
+          {
+            "q": "8 tens are the same as 80 ones.",
+            "a": true
+          },
+          {
+            "q": "7 hundreds 0 tens 3 ones is 73.",
+            "a": false
+          },
+          {
+            "q": "The digit 0 in 690 shows there are no ones.",
+            "a": true
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "fill",
+        "title": "Solve the nursery problems.",
+        "items": [
+          {
+            "q": "Gita buys 2 big bags, 5 small packs and 6 loose seeds. She has ___ seeds.",
+            "a": "256"
+          },
+          {
+            "q": "A tray holds 437 seeds. That is 4 big bags, ___ small packs and 7 loose seeds.",
+            "a": "3"
+          },
+          {
+            "q": "Farid needs 800 seeds. He buys ___ big bags of 100.",
+            "a": "8"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "lines",
+        "title": "Use the digits 1, 6 and 9 once each. Write the biggest number you can make.",
+        "lines": 1,
+        "a": "961",
+        "marks": 1
+      }
+    ]
+  },
+  {
+    "id": "place-value-09",
+    "topic": "place-value",
+    "number": 9,
+    "level": "Practice",
+    "title": "Car Number Plates in the Parking Lot",
+    "intro": "Neel and Hana look at number plates in the mall parking lot in Abu Dhabi.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Make numbers from the digits.",
+        "items": [
+          {
+            "q": "The biggest number with 4, 8 and 2 is ___.",
+            "a": "842"
+          },
+          {
+            "q": "The smallest number with 4, 8 and 2 is ___.",
+            "a": "248"
+          },
+          {
+            "q": "The biggest number with 5, 0 and 7 is ___.",
+            "a": "750"
+          },
+          {
+            "q": "The smallest 3-digit number with 5, 0 and 7 is ___.",
+            "a": "507"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "pairs",
+        "title": "Write the value of the 5.",
+        "items": [
+          {
+            "q": "5 in 154",
+            "a": "50"
+          },
+          {
+            "q": "5 in 532",
+            "a": "500"
+          },
+          {
+            "q": "5 in 895",
+            "a": "5"
+          },
+          {
+            "q": "5 in 509",
+            "a": "500"
+          },
+          {
+            "q": "5 in 350",
+            "a": "50"
+          },
+          {
+            "q": "5 in 215",
+            "a": "5"
+          }
+        ],
+        "marks": 6
+      },
+      {
+        "type": "choice",
+        "title": "Circle the smallest plate number.",
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "317",
+              "371",
+              "137"
+            ],
+            "after": "",
+            "a": "137"
+          },
+          {
+            "before": "",
+            "options": [
+              "620",
+              "602",
+              "260"
+            ],
+            "after": "",
+            "a": "260"
+          },
+          {
+            "before": "",
+            "options": [
+              "845",
+              "854",
+              "548"
+            ],
+            "after": "",
+            "a": "548"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "match",
+        "title": "Match the number name to the plate.",
+        "items": [
+          {
+            "left": "four hundred nine",
+            "right": "409"
+          },
+          {
+            "left": "four hundred ninety",
+            "right": "490"
+          },
+          {
+            "left": "nine hundred forty",
+            "right": "940"
+          },
+          {
+            "left": "nine hundred four",
+            "right": "904"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "fill",
+        "title": "Solve the parking problems.",
+        "items": [
+          {
+            "q": "Neel sees plate 268. 10 more than it is ___.",
+            "a": "278"
+          },
+          {
+            "q": "Hana sees plate 513. 100 less than it is ___.",
+            "a": "413"
+          },
+          {
+            "q": "A plate is between 730 and 740 and ends in 4. It is ___.",
+            "a": "734"
+          }
+        ],
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "place-value-10",
+    "topic": "place-value",
+    "number": 10,
+    "level": "Practice",
+    "title": "Tickets at the Fun Arcade",
+    "intro": "At the arcade in Dubai Mall, Aarav and Chloe collect game tickets.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the new number.",
+        "items": [
+          {
+            "q": "10 more than 456",
+            "a": "466"
+          },
+          {
+            "q": "100 more than 456",
+            "a": "556"
+          },
+          {
+            "q": "1 more than 456",
+            "a": "457"
+          },
+          {
+            "q": "10 less than 203",
+            "a": "193"
+          },
+          {
+            "q": "100 less than 203",
+            "a": "103"
+          },
+          {
+            "q": "1 less than 203",
+            "a": "202"
+          }
+        ],
+        "marks": 6
+      },
+      {
+        "type": "fill",
+        "title": "Write the number that comes next.",
+        "items": [
+          {
+            "q": "310, 320, 330, ___",
+            "a": "340"
+          },
+          {
+            "q": "580, 680, 780, ___",
+            "a": "880"
+          },
+          {
+            "q": "247, 248, 249, ___",
+            "a": "250"
+          },
+          {
+            "q": "695, 705, 715, ___",
+            "a": "725"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right number name.",
+        "items": [
+          {
+            "before": "618 is",
+            "options": [
+              "six hundred eighteen",
+              "six hundred eighty-one",
+              "one hundred sixty-eight"
+            ],
+            "after": "",
+            "a": "six hundred eighteen"
+          },
+          {
+            "before": "370 is",
+            "options": [
+              "three hundred seven",
+              "three hundred seventy",
+              "thirty-seven"
+            ],
+            "after": "",
+            "a": "three hundred seventy"
+          },
+          {
+            "before": "905 is",
+            "options": [
+              "nine hundred fifty",
+              "nine hundred five",
+              "ninety-five"
+            ],
+            "after": "",
+            "a": "nine hundred five"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "10 more than 395 is 405.",
+            "a": true
+          },
+          {
+            "q": "100 more than 860 is 870.",
+            "a": false
+          },
+          {
+            "q": "The number just before 500 is 499.",
+            "a": true
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "fill",
+        "title": "Solve the arcade problems.",
+        "items": [
+          {
+            "q": "Aarav has 374 tickets. He wins 100 more. Now he has ___ tickets.",
+            "a": "474"
+          },
+          {
+            "q": "Chloe has 520 tickets. She spends 10. She has ___ tickets left.",
+            "a": "510"
+          },
+          {
+            "q": "A toy costs 3 hundreds and 6 tens of tickets. That is ___ tickets.",
+            "a": "360"
+          }
+        ],
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "place-value-11",
+    "topic": "place-value",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Stamps in Nana's Album",
+    "intro": "Nana keeps stamps in pages of 100 and strips of 10. Sometimes there are more than 9 strips.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the number.",
+        "items": [
+          {
+            "q": "2 hundreds 13 tens",
+            "a": "330"
+          },
+          {
+            "q": "4 hundreds 12 ones",
+            "a": "412"
+          },
+          {
+            "q": "1 hundred 18 tens 5 ones",
+            "a": "285"
+          },
+          {
+            "q": "5 tens 26 ones",
+            "a": "76"
+          },
+          {
+            "q": "3 hundreds 10 tens",
+            "a": "400"
+          },
+          {
+            "q": "6 hundreds 9 tens 14 ones",
+            "a": "704"
+          }
+        ],
+        "marks": 6
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the missing number.",
+        "items": [
+          {
+            "q": "350 = 2 hundreds and ___ tens",
+            "a": "15"
+          },
+          {
+            "q": "350 = ___ tens",
+            "a": "35"
+          },
+          {
+            "q": "264 = 1 hundred, ___ tens and 4 ones",
+            "a": "16"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "items": [
+          {
+            "q": "4 hundreds 15 tens is 415.",
+            "a": false
+          },
+          {
+            "q": "30 tens make 3 hundreds.",
+            "a": true
+          },
+          {
+            "q": "7 tens 20 ones is 90.",
+            "a": true
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "match",
+        "title": "Match the stamp groups that show the same number.",
+        "items": [
+          {
+            "left": "2 hundreds 5 tens",
+            "right": "25 tens"
+          },
+          {
+            "left": "1 hundred 14 tens",
+            "right": "24 tens"
+          },
+          {
+            "left": "3 hundreds 7 tens",
+            "right": "37 tens"
+          },
+          {
+            "left": "4 hundreds",
+            "right": "40 tens"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "fill",
+        "title": "Solve the stamp problems.",
+        "items": [
+          {
+            "q": "Nana has 3 full pages and 16 strips. She has ___ stamps.",
+            "a": "460"
+          },
+          {
+            "q": "Zoya counts 47 strips of 10. That is ___ stamps.",
+            "a": "470"
+          },
+          {
+            "q": "Omar has 5 pages and 8 loose stamps. That is ___ stamps.",
+            "a": "508"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "lines",
+        "title": "Show 230 in two different ways using hundreds and tens.",
+        "lines": 1,
+        "a": "e.g. 2 hundreds 3 tens / 1 hundred 13 tens / 23 tens",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "place-value-12",
+    "topic": "place-value",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Number Riddles at the Maths Club",
+    "intro": "The Maths Club has a riddle board. Read each clue carefully.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Who am I?",
+        "items": [
+          {
+            "q": "I have 4 hundreds and 2 ones. My tens digit is 3 more than my ones. I am ___.",
+            "a": "452"
+          },
+          {
+            "q": "My hundreds and ones digits are both 6. I have no tens. I am ___.",
+            "a": "606"
+          },
+          {
+            "q": "I am 10 more than 590. I am ___.",
+            "a": "600"
+          },
+          {
+            "q": "I am the biggest 3-digit number. I am ___.",
+            "a": "999"
+          },
+          {
+            "q": "I am the smallest 3-digit number with three different digits. I am ___.",
+            "a": "102"
+          }
+        ],
+        "marks": 5
+      },
+      {
+        "type": "choice",
+        "title": "Circle the number that fits.",
+        "items": [
+          {
+            "before": "A number between 450 and 460 is",
+            "options": [
+              "445",
+              "457",
+              "465"
+            ],
+            "after": "",
+            "a": "457"
+          },
+          {
+            "before": "A number with 8 tens is",
+            "options": [
+              "828",
+              "382",
+              "238"
+            ],
+            "after": "",
+            "a": "382"
+          },
+          {
+            "before": "An even number with 5 hundreds is",
+            "options": [
+              "551",
+              "515",
+              "514"
+            ],
+            "after": "",
+            "a": "514"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "sort",
+        "title": "Sort the numbers.",
+        "groups": [
+          "More than 500",
+          "Less than 500"
+        ],
+        "words": [
+          "499",
+          "505",
+          "550",
+          "95",
+          "490",
+          "509"
+        ],
+        "a": {
+          "499": "Less than 500",
+          "505": "More than 500",
+          "550": "More than 500",
+          "95": "Less than 500",
+          "490": "Less than 500",
+          "509": "More than 500"
+        },
+        "marks": 3
+      },
+      {
+        "type": "pairs",
+        "title": "Write the number in figures.",
+        "items": [
+          {
+            "q": "seven hundred fifteen",
+            "a": "715"
+          },
+          {
+            "q": "eight hundred sixty",
+            "a": "860"
+          },
+          {
+            "q": "four hundred two",
+            "a": "402"
+          },
+          {
+            "q": "nine hundred ninety-nine",
+            "a": "999"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "lines",
+        "title": "Make your own riddle for 283.",
+        "lines": 2,
+        "a": "e.g. I have 2 hundreds, 8 tens and 3 ones. Who am I?",
+        "marks": 2
+      }
+    ]
+  },
+  {
+    "id": "place-value-13",
+    "topic": "place-value",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Bib Numbers at the Mini Marathon",
+    "intro": "Runners at the kids mini marathon in Mumbai wear bib numbers. Some helpers made mistakes.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is the helper right? Circle True or False.",
+        "items": [
+          {
+            "q": "Ishaan says 307 is 3 hundreds and 7 tens.",
+            "a": false
+          },
+          {
+            "q": "Mira says the 9 in 594 is worth 90.",
+            "a": true
+          },
+          {
+            "q": "Ravi says 260 is bigger than 206.",
+            "a": true
+          },
+          {
+            "q": "Ella says 800 + 5 = 850.",
+            "a": false
+          },
+          {
+            "q": "Sahil says 47 tens is 470.",
+            "a": true
+          }
+        ],
+        "marks": 5
+      },
+      {
+        "type": "fill",
+        "title": "Put the bib numbers in order, smallest first.",
+        "items": [
+          {
+            "q": "318, 381, 183, 138, 831: smallest is ___",
+            "a": "138"
+          },
+          {
+            "q": "The next one is ___",
+            "a": "183"
+          },
+          {
+            "q": "The middle one is ___",
+            "a": "318"
+          },
+          {
+            "q": "The biggest is ___",
+            "a": "831"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "rewrite",
+        "title": "Fix the mistake. Write it correctly.",
+        "items": [
+          {
+            "q": "Bib 605 = 600 + 50",
+            "a": "605 = 600 + 5 / 605 = 600 + 0 + 5"
+          },
+          {
+            "q": "Four hundred twelve is written 4012.",
+            "a": "Four hundred twelve is written 412."
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "fill",
+        "title": "Solve the marathon problems.",
+        "items": [
+          {
+            "q": "Bib numbers go from 100 to 199. There are ___ bibs.",
+            "a": "100"
+          },
+          {
+            "q": "Ali is bib 278. Ben is 100 more. Ben is bib ___.",
+            "a": "378"
+          },
+          {
+            "q": "Tara is bib 456 and Joy is bib 465. The bigger bib is ___.",
+            "a": "465"
+          }
+        ],
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "place-value-14",
+    "topic": "place-value",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Packing Dates at the Liwa Farm",
+    "intro": "At a date farm in Liwa, dates are packed in trays of 10 and crates of 100.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "How many full trays of 10?",
+        "items": [
+          {
+            "q": "46 dates",
+            "a": "4"
+          },
+          {
+            "q": "83 dates",
+            "a": "8"
+          },
+          {
+            "q": "127 dates",
+            "a": "12"
+          },
+          {
+            "q": "250 dates",
+            "a": "25"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "column",
+        "title": "Add the hundreds, tens and ones.",
+        "items": [
+          {
+            "top": "300",
+            "op": "+",
+            "bottom": "45",
+            "a": "345"
+          },
+          {
+            "top": "500",
+            "op": "+",
+            "bottom": "308",
+            "a": "808"
+          },
+          {
+            "top": "270",
+            "op": "+",
+            "bottom": "19",
+            "a": "289"
+          },
+          {
+            "top": "604",
+            "op": "+",
+            "bottom": "90",
+            "a": "694"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "items": [
+          {
+            "before": "15 ones is the same as",
+            "options": [
+              "1 ten 5 ones",
+              "5 tens 1 one",
+              "15 tens"
+            ],
+            "after": "",
+            "a": "1 ten 5 ones"
+          },
+          {
+            "before": "2 hundreds 11 tens make",
+            "options": [
+              "211",
+              "310",
+              "221"
+            ],
+            "after": "",
+            "a": "310"
+          },
+          {
+            "before": "10 trays of 10 dates make",
+            "options": [
+              "1 crate",
+              "10 crates",
+              "100 crates"
+            ],
+            "after": "",
+            "a": "1 crate"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the missing number.",
+        "items": [
+          {
+            "q": "600 + ___ + 8 = 678",
+            "a": "70"
+          },
+          {
+            "q": "___ + 40 + 3 = 943",
+            "a": "900"
+          },
+          {
+            "q": "500 + 9 = ___",
+            "a": "509"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "fill",
+        "title": "Solve the farm problems.",
+        "items": [
+          {
+            "q": "Huda packs 3 crates and 25 loose dates. That is ___ dates.",
+            "a": "325"
+          },
+          {
+            "q": "A box has 1 crate, 9 trays and 12 loose dates. That is ___ dates.",
+            "a": "202"
+          },
+          {
+            "q": "Rashid has 6 crates. He adds 4 trays. Now he has ___ dates.",
+            "a": "640"
+          }
+        ],
+        "marks": 3
+      }
+    ]
+  },
+  {
+    "id": "place-value-15",
+    "topic": "place-value",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Flower Garlands for Ganesh Chaturthi",
+    "intro": "Ajay and his aunt string marigolds for the Ganpati pandal. They count flowers in hundreds, tens and ones.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the value of each digit in 958.",
+        "items": [
+          {
+            "q": "The 9 is worth ___.",
+            "a": "900"
+          },
+          {
+            "q": "The 5 is worth ___.",
+            "a": "50"
+          },
+          {
+            "q": "The 8 is worth ___.",
+            "a": "8"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "match",
+        "title": "Match each number to the one 10 less.",
+        "items": [
+          {
+            "left": "400",
+            "right": "390"
+          },
+          {
+            "left": "705",
+            "right": "695"
+          },
+          {
+            "left": "231",
+            "right": "221"
+          },
+          {
+            "left": "999",
+            "right": "989"
+          },
+          {
+            "left": "610",
+            "right": "600"
+          }
+        ],
+        "marks": 5
+      },
+      {
+        "type": "choice",
+        "title": "Circle the number that is the same.",
+        "items": [
+          {
+            "before": "700 + 6 is",
+            "options": [
+              "76",
+              "706",
+              "760"
+            ],
+            "after": "",
+            "a": "706"
+          },
+          {
+            "before": "2 hundreds 20 tens is",
+            "options": [
+              "220",
+              "400",
+              "2020"
+            ],
+            "after": "",
+            "a": "400"
+          },
+          {
+            "before": "Fifty tens is",
+            "options": [
+              "50",
+              "500",
+              "5000"
+            ],
+            "after": "",
+            "a": "500"
+          }
+        ],
+        "marks": 3
+      },
+      {
+        "type": "fill",
+        "title": "Solve the garland problems.",
+        "items": [
+          {
+            "q": "Ajay has 245 marigolds. His aunt gives him 100 more and then 10 more. Now he has ___.",
+            "a": "355"
+          },
+          {
+            "q": "A garland uses 100 flowers. 4 garlands and 35 extra flowers make ___ flowers.",
+            "a": "435"
+          },
+          {
+            "q": "They had 812 flowers. They used 100 for each of 3 garlands. ___ flowers are left.",
+            "a": "512"
+          },
+          {
+            "q": "Ajay writes the digits 3, 7, 1 to make the biggest number. It is ___.",
+            "a": "731"
+          }
+        ],
+        "marks": 4
+      },
+      {
+        "type": "lines",
+        "title": "Is 509 bigger or smaller than 590? Write how you know.",
+        "lines": 2,
+        "a": "e.g. Smaller. Both have 5 hundreds, but 509 has 0 tens and 590 has 9 tens.",
+        "marks": 2
+      }
+    ]
   }
 ]

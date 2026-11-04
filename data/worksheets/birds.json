@@ -580,5 +580,1164 @@
         "a": "Any two, e.g. keep a bowl of water out, put grains out, plant trees, never disturb nests."
       }
     ]
+  },
+  {
+    "id": "birds-06",
+    "topic": "birds",
+    "number": 6,
+    "level": "Practice",
+    "title": "The Falcon Show in Abu Dhabi",
+    "intro": "Saif and Grace watch a falconer at a heritage show. A falcon swoops down to his glove.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "The falcon is the national bird of the UAE.",
+            "a": true
+          },
+          {
+            "q": "A falcon has sharp curved claws called talons.",
+            "a": true
+          },
+          {
+            "q": "A falcon can see very far.",
+            "a": true
+          },
+          {
+            "q": "A falcon eats only seeds.",
+            "a": false
+          },
+          {
+            "q": "A falconer wears a thick glove so the claws do not hurt him.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the bird of prey to a fact.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "falcon",
+            "right": "one of the fastest birds when it dives"
+          },
+          {
+            "left": "owl",
+            "right": "hunts at night and flies without a sound"
+          },
+          {
+            "left": "eagle",
+            "right": "builds a big nest high up"
+          },
+          {
+            "left": "vulture",
+            "right": "eats dead animals and keeps places clean"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A falcon tears its food with its",
+            "options": [
+              "hooked beak",
+              "flat beak"
+            ],
+            "after": ".",
+            "a": "hooked beak"
+          },
+          {
+            "before": "Birds that hunt other animals are called birds of",
+            "options": [
+              "prey",
+              "song"
+            ],
+            "after": ".",
+            "a": "prey"
+          },
+          {
+            "before": "The falcon lands on the falconer's",
+            "options": [
+              "glove",
+              "head"
+            ],
+            "after": ".",
+            "a": "glove"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with: wings, dives, eyes.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The falcon spreads its ___ to glide.",
+            "a": "wings"
+          },
+          {
+            "q": "It ___ down fast to catch its food.",
+            "a": "dives"
+          },
+          {
+            "q": "Its sharp ___ spot food far below.",
+            "a": "eyes"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way a falcon is different from a pigeon.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. A falcon has a hooked beak and sharp talons, and it hunts other animals."
+      }
+    ]
+  },
+  {
+    "id": "birds-07",
+    "topic": "birds",
+    "number": 7,
+    "level": "Practice",
+    "title": "Breakfast at the Bird Feeder",
+    "intro": "Every morning Nikhil puts out food on his balcony in Chandigarh. Different birds come for different food.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the birds by what they mostly eat.",
+        "marks": 9,
+        "groups": [
+          "Seeds and grains",
+          "Insects",
+          "Fruit and nectar"
+        ],
+        "words": [
+          "hoopoe",
+          "dove",
+          "bulbul",
+          "pigeon",
+          "hummingbird",
+          "swallow",
+          "woodpecker",
+          "sunbird",
+          "sparrow"
+        ],
+        "a": {
+          "sparrow": "Seeds and grains",
+          "pigeon": "Seeds and grains",
+          "dove": "Seeds and grains",
+          "woodpecker": "Insects",
+          "swallow": "Insects",
+          "hoopoe": "Insects",
+          "sunbird": "Fruit and nectar",
+          "bulbul": "Fruit and nectar",
+          "hummingbird": "Fruit and nectar"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Birds with short, strong beaks can crack seeds.",
+            "a": true
+          },
+          {
+            "q": "A kingfisher eats fish.",
+            "a": true
+          },
+          {
+            "q": "A hoopoe pokes its long beak into the soil to find insects.",
+            "a": true
+          },
+          {
+            "q": "A woodpecker eats only fruit.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Nikhil puts out",
+            "options": [
+              "grains",
+              "salty chips"
+            ],
+            "after": "for the sparrows.",
+            "a": "grains"
+          },
+          {
+            "before": "A bird that eats fish lives near",
+            "options": [
+              "water",
+              "a desert"
+            ],
+            "after": ".",
+            "a": "water"
+          },
+          {
+            "before": "A swallow catches insects while it is",
+            "options": [
+              "flying",
+              "sleeping"
+            ],
+            "after": ".",
+            "a": "flying"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with: worms, seeds, nectar.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A myna pulls ___ out of the wet soil.",
+            "a": "worms"
+          },
+          {
+            "q": "Doves peck at the ___ on the feeder.",
+            "a": "seeds"
+          },
+          {
+            "q": "The sunbird drinks sweet ___ from flowers.",
+            "a": "nectar"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "What would you put out for birds? Write why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Grains and a bowl of water, because birds eat seeds and get thirsty."
+      }
+    ]
+  },
+  {
+    "id": "birds-08",
+    "topic": "birds",
+    "number": 8,
+    "level": "Practice",
+    "title": "Ducks at Fateh Sagar Lake",
+    "intro": "Aanya and Lucas watch water birds on the lake in Udaipur.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the water bird to a fact.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "duck",
+            "right": "paddles with its webbed feet"
+          },
+          {
+            "left": "swan",
+            "right": "has a long curved neck"
+          },
+          {
+            "left": "heron",
+            "right": "stands very still and spears fish"
+          },
+          {
+            "left": "sarus crane",
+            "right": "is a very tall bird with a red head"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Ducks have oily feathers that keep the water off.",
+            "a": true
+          },
+          {
+            "q": "A duck's webbed feet help it swim.",
+            "a": true
+          },
+          {
+            "q": "A heron swims under water for a long time.",
+            "a": false
+          },
+          {
+            "q": "Water birds find food in lakes and ponds.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the birds.",
+        "marks": 8,
+        "groups": [
+          "Water birds",
+          "Land birds"
+        ],
+        "words": [
+          "goose",
+          "peacock",
+          "duck",
+          "swan",
+          "myna",
+          "heron",
+          "crow",
+          "hornbill"
+        ],
+        "a": {
+          "duck": "Water birds",
+          "swan": "Water birds",
+          "heron": "Water birds",
+          "goose": "Water birds",
+          "crow": "Land birds",
+          "myna": "Land birds",
+          "peacock": "Land birds",
+          "hornbill": "Land birds"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Water runs off a duck's back because of its ___ feathers.",
+            "a": "oily"
+          },
+          {
+            "q": "A heron stands on its long thin ___.",
+            "a": "legs"
+          },
+          {
+            "q": "Aanya does not throw ___ into the lake.",
+            "a": "litter / rubbish / plastic"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name two body parts that help a duck live on water.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. webbed feet, oily feathers, a flat beak."
+      }
+    ]
+  },
+  {
+    "id": "birds-09",
+    "topic": "birds",
+    "number": 9,
+    "level": "Practice",
+    "title": "The Winter Bird Count at Sultanpur",
+    "intro": "Ravi and Hannah join a bird count at a lake near Gurugram. Many birds fly here from cold lands in winter.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Some birds fly very far to find warm places in winter.",
+            "a": true
+          },
+          {
+            "q": "Birds that travel far each year are called migratory birds.",
+            "a": true
+          },
+          {
+            "q": "A big group of birds flying together is a flock.",
+            "a": true
+          },
+          {
+            "q": "All birds stay in one place all their lives.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Birds fly to India in winter because their home is too",
+            "options": [
+              "cold",
+              "warm"
+            ],
+            "after": ".",
+            "a": "cold"
+          },
+          {
+            "before": "A big group of birds is a",
+            "options": [
+              "flock",
+              "herd"
+            ],
+            "after": ".",
+            "a": "flock"
+          },
+          {
+            "before": "In spring the birds fly",
+            "options": [
+              "back home",
+              "into the sea"
+            ],
+            "after": ".",
+            "a": "back home"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the word to its meaning.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "migrate",
+            "right": "travel far when the season changes"
+          },
+          {
+            "left": "flock",
+            "right": "a big group of birds"
+          },
+          {
+            "left": "binoculars",
+            "right": "help us see birds far away"
+          },
+          {
+            "left": "V shape",
+            "right": "how many flocks fly together"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We must stay ___ so we do not scare the birds.",
+            "a": "quiet"
+          },
+          {
+            "q": "Migratory birds come to the lake to find ___ and water.",
+            "a": "food"
+          },
+          {
+            "q": "In ___, many birds come to India from cold places.",
+            "a": "winter"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why do you think birds fly away from very cold places?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. It is hard to find food, and the lakes freeze."
+      }
+    ]
+  },
+  {
+    "id": "birds-10",
+    "topic": "birds",
+    "number": 10,
+    "level": "Practice",
+    "title": "Feathers for the Art Class",
+    "intro": "Ms Ahmed brings a box of fallen feathers to Class 2 in Mangaluru. The children look at them closely.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Feathers keep a bird warm and dry.",
+            "a": true
+          },
+          {
+            "q": "Long, strong feathers on the wings help a bird fly.",
+            "a": true
+          },
+          {
+            "q": "Soft, fluffy feathers close to the body are called down.",
+            "a": true
+          },
+          {
+            "q": "Birds clean their feathers with their beaks.",
+            "a": true
+          },
+          {
+            "q": "A bird's old feathers never fall out.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the bird to its feathers.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "peacock",
+            "right": "long tail feathers with eye spots"
+          },
+          {
+            "left": "crow",
+            "right": "shiny black feathers"
+          },
+          {
+            "left": "parrot",
+            "right": "bright green feathers"
+          },
+          {
+            "left": "flamingo",
+            "right": "pink feathers"
+          },
+          {
+            "left": "owl",
+            "right": "soft brown feathers for silent flying"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A bird cleans and oils its feathers with its",
+            "options": [
+              "beak",
+              "feet"
+            ],
+            "after": ".",
+            "a": "beak"
+          },
+          {
+            "before": "Old feathers fall out and new ones",
+            "options": [
+              "grow",
+              "melt"
+            ],
+            "after": ".",
+            "a": "grow"
+          },
+          {
+            "before": "Feathers are very",
+            "options": [
+              "light",
+              "heavy"
+            ],
+            "after": ".",
+            "a": "light"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ms Ahmed says we collect only feathers that have ___ off.",
+            "a": "fallen / dropped"
+          },
+          {
+            "q": "Feathers on the wings are long and ___.",
+            "a": "strong / stiff"
+          },
+          {
+            "q": "The peacock spreads its tail feathers like a ___.",
+            "a": "fan"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why should we never pull feathers from a bird?",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. It hurts the bird, and it needs its feathers to fly and keep warm."
+      }
+    ]
+  },
+  {
+    "id": "birds-11",
+    "topic": "birds",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Chick Hatchery at Grandpa's Farm",
+    "intro": "Gurpreet watches eggs in a warm box on her grandpa's farm. After about three weeks, the chicks start to hatch.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Put the steps in order. Write 1 to 5.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "The chick grows into a hen.   The chick pecks a hole in the shell.   The hen lays an egg.   The egg is kept warm for three weeks.   The fluffy chick comes out.",
+            "a": "5, 3, 1, 2, 4 (lays an egg, kept warm, pecks a hole, chick comes out, grows into a hen)"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A chick uses a tiny egg tooth on its beak to break the shell.",
+            "a": true
+          },
+          {
+            "q": "Eggs must be kept warm for chicks to grow inside.",
+            "a": true
+          },
+          {
+            "q": "A chick hatches with long, strong flight feathers.",
+            "a": false
+          },
+          {
+            "q": "Gurpreet should open the box often to play with the eggs.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A baby hen is a",
+            "options": [
+              "chick",
+              "duckling"
+            ],
+            "after": ".",
+            "a": "chick"
+          },
+          {
+            "before": "New chicks are covered with soft",
+            "options": [
+              "fluff",
+              "scales"
+            ],
+            "after": ".",
+            "a": "fluff"
+          },
+          {
+            "before": "Hen eggs hatch in about three",
+            "options": [
+              "weeks",
+              "years"
+            ],
+            "after": ".",
+            "a": "weeks"
+          },
+          {
+            "before": "The mother hen",
+            "options": [
+              "sits on",
+              "throws away"
+            ],
+            "after": "her eggs.",
+            "a": "sits on"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The hard outside of an egg is the ___.",
+            "a": "shell"
+          },
+          {
+            "q": "The yellow part of an egg is the ___.",
+            "a": "yolk"
+          },
+          {
+            "q": "A grown-up male chicken is a ___.",
+            "a": "rooster / cock"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Why does a mother hen sit on her eggs?",
+            "a": "e.g. To keep them warm so the chicks can grow inside."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "birds-12",
+    "topic": "birds",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Bird Detectives at Mangrove Park",
+    "intro": "Omar and Priyanka study birds at the mangroves in Abu Dhabi. They use clues to guess what each bird eats.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Read the beak clue. Match it to the food.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "long, pointed beak that dives into water",
+            "right": "fish"
+          },
+          {
+            "left": "short, thick beak",
+            "right": "seeds"
+          },
+          {
+            "left": "sharp hooked beak and strong talons",
+            "right": "small animals"
+          },
+          {
+            "left": "long, thin curved beak",
+            "right": "nectar"
+          },
+          {
+            "left": "wide, flat beak",
+            "right": "water plants and tiny water creatures"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best guess.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A bird with long, thin legs probably",
+            "options": [
+              "wades in water",
+              "climbs trees"
+            ],
+            "after": ".",
+            "a": "wades in water"
+          },
+          {
+            "before": "A bird with webbed feet is good at",
+            "options": [
+              "swimming",
+              "digging"
+            ],
+            "after": ".",
+            "a": "swimming"
+          },
+          {
+            "before": "A bird with claws that grip branches is good at",
+            "options": [
+              "perching",
+              "swimming"
+            ],
+            "after": ".",
+            "a": "perching"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A heron has a long neck and long legs. How do these help it?",
+            "a": "e.g. It can wade in the water and reach down to catch fish."
+          },
+          {
+            "q": "A woodpecker has stiff tail feathers and strong claws. How do they help it?",
+            "a": "e.g. They help it hold on to the tree trunk while it pecks."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A bird's beak gives a clue to what it eats.",
+            "a": true
+          },
+          {
+            "q": "A bird with webbed feet lives in the dry desert.",
+            "a": false
+          },
+          {
+            "q": "Mangrove birds find fish and crabs in the mud and water.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Pick a bird you know. Write what its beak or feet help it do.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"A crow's strong beak helps it pick up food.\""
+      }
+    ]
+  },
+  {
+    "id": "birds-13",
+    "topic": "birds",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Penguins at the Snow Park in Dubai",
+    "intro": "Inside a mall, Eshaan and Clara meet penguins in a cold snow park. The keeper answers their questions.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A penguin is a bird, even though it cannot fly.",
+            "a": true
+          },
+          {
+            "q": "Penguins have thick fat and tight feathers to stay warm.",
+            "a": true
+          },
+          {
+            "q": "Penguins use their wings like flippers to swim.",
+            "a": true
+          },
+          {
+            "q": "Penguins live in hot deserts in the wild.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best answer.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A penguin is a bird because it has",
+            "options": [
+              "feathers",
+              "fur"
+            ],
+            "after": "and lays eggs.",
+            "a": "feathers"
+          },
+          {
+            "before": "Penguins huddle close together to keep",
+            "options": [
+              "warm",
+              "cool"
+            ],
+            "after": ".",
+            "a": "warm"
+          },
+          {
+            "before": "A penguin catches",
+            "options": [
+              "fish",
+              "seeds"
+            ],
+            "after": "in the sea.",
+            "a": "fish"
+          },
+          {
+            "before": "The snow park must be kept",
+            "options": [
+              "cold",
+              "hot"
+            ],
+            "after": "for the penguins.",
+            "a": "cold"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A penguin and an ostrich cannot fly. How does each one move fast?",
+            "a": "e.g. A penguin swims fast, and an ostrich runs fast."
+          },
+          {
+            "q": "Why does a penguin need a cold home?",
+            "a": "e.g. Its thick fat and feathers keep it so warm that it would get too hot in a warm place."
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A penguin slides on its ___ over the ice.",
+            "a": "belly / tummy"
+          },
+          {
+            "q": "Penguin chicks are fed by their ___.",
+            "a": "parents / mother / father"
+          },
+          {
+            "q": "A penguin waddles on short ___.",
+            "a": "legs"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way a penguin is like a sparrow.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. Both have feathers, a beak and two legs, and both lay eggs."
+      }
+    ]
+  },
+  {
+    "id": "birds-14",
+    "topic": "birds",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Bird Quiz in Wildlife Week",
+    "intro": "In the first week of October, Class 2 in Bhubaneswar holds a bird quiz. Help Team Hornbill answer.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the odd one out.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The bird that cannot fly is the",
+            "options": [
+              "emu",
+              "kite",
+              "myna"
+            ],
+            "after": ".",
+            "a": "emu"
+          },
+          {
+            "before": "The one that is not a part of a bird is the",
+            "options": [
+              "beak",
+              "fin",
+              "wing"
+            ],
+            "after": ".",
+            "a": "fin"
+          },
+          {
+            "before": "The bird that is not a bird of prey is the",
+            "options": [
+              "eagle",
+              "owl",
+              "pigeon"
+            ],
+            "after": ".",
+            "a": "pigeon"
+          },
+          {
+            "before": "The bird that does not swim is the",
+            "options": [
+              "duck",
+              "penguin",
+              "sparrow"
+            ],
+            "after": ".",
+            "a": "sparrow"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Is the team right? Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A bat is a bird because it can fly.",
+            "a": false
+          },
+          {
+            "q": "A hen is a bird, even though it flies only a little.",
+            "a": true
+          },
+          {
+            "q": "All birds hatch from eggs.",
+            "a": true
+          },
+          {
+            "q": "Birds have light, hollow bones.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Correct the mistake. Write the sentence again.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "The ostrich is the smallest bird.",
+            "a": "The ostrich is the biggest bird."
+          },
+          {
+            "q": "A kingfisher eats seeds.",
+            "a": "A kingfisher eats fish."
+          },
+          {
+            "q": "A baby bird is called a cub.",
+            "a": "A baby bird is called a chick."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why is a bat not a bird? Write one reason.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. It has fur, not feathers. It has no beak. Its babies are not hatched from eggs."
+      }
+    ]
+  },
+  {
+    "id": "birds-15",
+    "topic": "birds",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Bird Rescue Camp at Makar Sankranti",
+    "intro": "On kite day in Ahmedabad, sharp kite string can hurt birds. Volunteers like Jaya and Arif help them.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Sharp glass-coated kite string can cut a bird's wings.",
+            "a": true
+          },
+          {
+            "q": "It is best to fly kites at dawn and dusk, when many birds are flying.",
+            "a": false
+          },
+          {
+            "q": "A hurt bird should be taken to a bird rescue centre or a vet.",
+            "a": true
+          },
+          {
+            "q": "We should leave tangled string hanging on trees.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Jaya holds the hurt pigeon",
+            "options": [
+              "gently",
+              "tightly"
+            ],
+            "after": "in a soft cloth.",
+            "a": "gently"
+          },
+          {
+            "before": "A hurt bird should be kept in a box with",
+            "options": [
+              "air holes",
+              "no holes"
+            ],
+            "after": ".",
+            "a": "air holes"
+          },
+          {
+            "before": "A safer kite string is plain",
+            "options": [
+              "cotton",
+              "glass"
+            ],
+            "after": "thread.",
+            "a": "cotton"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: does it help or harm birds?",
+        "marks": 8,
+        "groups": [
+          "Helps birds",
+          "Harms birds"
+        ],
+        "words": [
+          "using plain cotton string",
+          "dropping string on the road",
+          "taking old string down from trees",
+          "keeping a hurt bird quiet",
+          "flying kites at dawn",
+          "calling a bird helpline",
+          "using glass-coated string",
+          "chasing birds off the roof"
+        ],
+        "a": {
+          "taking old string down from trees": "Helps birds",
+          "keeping a hurt bird quiet": "Helps birds",
+          "calling a bird helpline": "Helps birds",
+          "using plain cotton string": "Helps birds",
+          "using glass-coated string": "Harms birds",
+          "flying kites at dawn": "Harms birds",
+          "dropping string on the road": "Harms birds",
+          "chasing birds off the roof": "Harms birds"
+        }
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Why are a bird's wings so important?",
+            "a": "e.g. Birds need their wings to fly, find food and escape danger."
+          },
+          {
+            "q": "Write one rule for a bird-safe kite festival.",
+            "a": "e.g. Use cotton string and pick up loose string after flying."
+          }
+        ]
+      }
+    ]
   }
 ]

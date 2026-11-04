@@ -698,5 +698,1367 @@
         ]
       }
     ]
+  },
+  {
+    "id": "multiplication-tables-1-to-10-06",
+    "topic": "multiplication-tables-1-to-10",
+    "number": 6,
+    "level": "Practice",
+    "title": "Packing Lunch Boxes for a Picnic",
+    "intro": "Mrs Sharma's class packs lunch boxes for a picnic at Mushrif Park. Use adding and the tables of 2 to 5.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Add or multiply. Fill the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3 + 3 + 3 + 3 + 3 = ___ × 3",
+            "a": "5"
+          },
+          {
+            "q": "4 + 4 + 4 + 4 = 4 × ___",
+            "a": "4"
+          },
+          {
+            "q": "5 + 5 + 5 + 5 + 5 + 5 = 6 × 5 = ___",
+            "a": "30"
+          },
+          {
+            "q": "2 + 2 + 2 + 2 + 2 + 2 + 2 = 7 × 2 = ___",
+            "a": "14"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Multiply.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "3",
+            "op": "×",
+            "bottom": "9",
+            "a": "27"
+          },
+          {
+            "top": "5",
+            "op": "×",
+            "bottom": "7",
+            "a": "35"
+          },
+          {
+            "top": "4",
+            "op": "×",
+            "bottom": "6",
+            "a": "24"
+          },
+          {
+            "top": "2",
+            "op": "×",
+            "bottom": "8",
+            "a": "16"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each fact to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "3 × 5",
+            "right": "15"
+          },
+          {
+            "left": "4 × 2",
+            "right": "8"
+          },
+          {
+            "left": "1 × 7",
+            "right": "7"
+          },
+          {
+            "left": "5 × 4",
+            "right": "20"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "3 + 3 + 3 is the same as 3 × 3.",
+            "a": true
+          },
+          {
+            "q": "4 × 5 is the same as 5 + 5 + 5 + 5.",
+            "a": true
+          },
+          {
+            "q": "2 × 7 = 16",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the picnic problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Each lunch box has 2 sandwiches. 9 boxes have ___ sandwiches.",
+            "a": "18"
+          },
+          {
+            "q": "There are 4 apples in each bag. 6 bags have ___ apples.",
+            "a": "24"
+          },
+          {
+            "q": "Each packet has 5 biscuits. 8 packets have ___ biscuits.",
+            "a": "40"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "multiplication-tables-1-to-10-07",
+    "topic": "multiplication-tables-1-to-10",
+    "number": 7,
+    "level": "Practice",
+    "title": "Mango Crates at the Fruit Market",
+    "intro": "Ravi's father sells mangoes at the fruit market in Pune. Use the tables of 6 to 10.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Complete the table facts.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "6 × 8",
+            "a": "48"
+          },
+          {
+            "q": "7 × 3",
+            "a": "21"
+          },
+          {
+            "q": "8 × 3",
+            "a": "24"
+          },
+          {
+            "q": "9 × 7",
+            "a": "63"
+          },
+          {
+            "q": "10 × 4",
+            "a": "40"
+          },
+          {
+            "q": "6 × 10",
+            "a": "60"
+          },
+          {
+            "q": "9 × 9",
+            "a": "81"
+          },
+          {
+            "q": "7 × 10",
+            "a": "70"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "7 × ___ = 42",
+            "a": "6"
+          },
+          {
+            "q": "9 × ___ = 63",
+            "a": "7"
+          },
+          {
+            "q": "___ × 8 = 48",
+            "a": "6"
+          },
+          {
+            "q": "10 × ___ = 100",
+            "a": "10"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "8 × 7 =",
+            "options": [
+              "54",
+              "56",
+              "58"
+            ],
+            "after": "",
+            "a": "56"
+          },
+          {
+            "before": "9 × 4 =",
+            "options": [
+              "32",
+              "36",
+              "45"
+            ],
+            "after": "",
+            "a": "36"
+          },
+          {
+            "before": "6 × 9 =",
+            "options": [
+              "45",
+              "54",
+              "56"
+            ],
+            "after": "",
+            "a": "54"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In 9, 18, 27, 36, the ones digit goes down by 1 each time.",
+            "a": true
+          },
+          {
+            "q": "7 × 6 gives the same answer as 6 × 7.",
+            "a": true
+          },
+          {
+            "q": "10 × 8 = 18",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the market problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Each crate holds 10 mangoes. 7 crates hold ___ mangoes.",
+            "a": "70"
+          },
+          {
+            "q": "There are 9 boxes with 8 mangoes in each box. That is ___ mangoes.",
+            "a": "72"
+          },
+          {
+            "q": "One mango costs ₹10. 9 mangoes cost ₹ ___.",
+            "a": "90"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "multiplication-tables-1-to-10-08",
+    "topic": "multiplication-tables-1-to-10",
+    "number": 8,
+    "level": "Practice",
+    "title": "Eid Sweets for the Neighbours",
+    "intro": "Zainab and her brother Omar take boxes of sweets to their neighbours for Eid. Use the tricks for × 1 and × 10.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Complete the table facts.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "1 × 6",
+            "a": "6"
+          },
+          {
+            "q": "9 × 1",
+            "a": "9"
+          },
+          {
+            "q": "10 × 8",
+            "a": "80"
+          },
+          {
+            "q": "3 × 10",
+            "a": "30"
+          },
+          {
+            "q": "1 × 1",
+            "a": "1"
+          },
+          {
+            "q": "10 × 10",
+            "a": "100"
+          },
+          {
+            "q": "7 × 1",
+            "a": "7"
+          },
+          {
+            "q": "6 × 10",
+            "a": "60"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Work out each fact. Is the answer less or more than 30?",
+        "marks": 6,
+        "groups": [
+          "Less than 30",
+          "More than 30"
+        ],
+        "words": [
+          "4 × 7",
+          "5 × 7",
+          "3 × 9",
+          "6 × 6",
+          "2 × 10",
+          "8 × 4"
+        ],
+        "a": {
+          "4 × 7": "Less than 30",
+          "5 × 7": "More than 30",
+          "3 × 9": "Less than 30",
+          "6 × 6": "More than 30",
+          "2 × 10": "Less than 30",
+          "8 × 4": "More than 30"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A number × 10 always ends in 0.",
+            "a": true
+          },
+          {
+            "q": "1 × 5 = 1",
+            "a": false
+          },
+          {
+            "q": "The answers in the table of 4 are double the answers in the table of 2.",
+            "a": true
+          },
+          {
+            "q": "10 × 7 = 70",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "10 × 3",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "5 × 5",
+            "a": ">"
+          },
+          {
+            "before": "1 × 9",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "3 × 3",
+            "a": "="
+          },
+          {
+            "before": "4 × 9",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "6 × 7",
+            "a": "<"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the Eid problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Each tray holds 10 maamoul cookies. 5 trays hold ___ cookies.",
+            "a": "50"
+          },
+          {
+            "q": "Zainab gives 4 dates to each of 9 neighbours. She gives ___ dates.",
+            "a": "36"
+          },
+          {
+            "q": "Omar takes 1 box to each of 8 houses. He takes ___ boxes.",
+            "a": "8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "multiplication-tables-1-to-10-09",
+    "topic": "multiplication-tables-1-to-10",
+    "number": 9,
+    "level": "Practice",
+    "title": "Chairs for the School Assembly",
+    "intro": "Mr Thomas puts out chairs in rows for the school assembly. Rows of chairs help us multiply.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Count the chairs. Use rows × chairs in each row.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3 rows of 9 chairs = 3 × 9 = ___",
+            "a": "27"
+          },
+          {
+            "q": "6 rows of 10 chairs = 6 × 10 = ___",
+            "a": "60"
+          },
+          {
+            "q": "8 rows of 7 chairs = 8 × 7 = ___",
+            "a": "56"
+          },
+          {
+            "q": "5 rows of 4 chairs = 5 × 4 = ___",
+            "a": "20"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Multiply.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "9",
+            "op": "×",
+            "bottom": "5",
+            "a": "45"
+          },
+          {
+            "top": "6",
+            "op": "×",
+            "bottom": "3",
+            "a": "18"
+          },
+          {
+            "top": "7",
+            "op": "×",
+            "bottom": "9",
+            "a": "63"
+          },
+          {
+            "top": "4",
+            "op": "×",
+            "bottom": "10",
+            "a": "40"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each set of rows to the number of chairs.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "2 rows of 9",
+            "right": "18"
+          },
+          {
+            "left": "5 rows of 5",
+            "right": "25"
+          },
+          {
+            "left": "3 rows of 7",
+            "right": "21"
+          },
+          {
+            "left": "6 rows of 8",
+            "right": "48"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "6 rows of 4 chairs is the same number as 4 rows of 6 chairs.",
+            "a": true
+          },
+          {
+            "q": "8 rows of 3 chairs make 11 chairs.",
+            "a": false
+          },
+          {
+            "q": "9 rows of 9 chairs make 81 chairs.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the assembly problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There are 7 rows with 6 children in each row. ___ children sit down.",
+            "a": "42"
+          },
+          {
+            "q": "Each row has 8 chairs. 5 rows are for Class 2. Class 2 has ___ chairs.",
+            "a": "40"
+          },
+          {
+            "q": "The stage has 2 rows of 5 flower pots. There are ___ pots.",
+            "a": "10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "multiplication-tables-1-to-10-10",
+    "topic": "multiplication-tables-1-to-10",
+    "number": 10,
+    "level": "Practice",
+    "title": "Holi Water Balloons",
+    "intro": "Kabir and his friends fill water balloons for Holi in the society garden. Use all the tables from 1 to 10.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Complete the table facts.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "3 × 6",
+            "a": "18"
+          },
+          {
+            "q": "7 × 5",
+            "a": "35"
+          },
+          {
+            "q": "9 × 3",
+            "a": "27"
+          },
+          {
+            "q": "8 × 10",
+            "a": "80"
+          },
+          {
+            "q": "2 × 5",
+            "a": "10"
+          },
+          {
+            "q": "4 × 9",
+            "a": "36"
+          },
+          {
+            "q": "6 × 4",
+            "a": "24"
+          },
+          {
+            "q": "7 × 7",
+            "a": "49"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the fact that gives the number.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "This gives 24:",
+            "options": [
+              "4 × 6",
+              "5 × 5",
+              "3 × 7"
+            ],
+            "after": "",
+            "a": "4 × 6"
+          },
+          {
+            "before": "This gives 40:",
+            "options": [
+              "6 × 6",
+              "8 × 5",
+              "9 × 4"
+            ],
+            "after": "",
+            "a": "8 × 5"
+          },
+          {
+            "before": "This gives 63:",
+            "options": [
+              "8 × 8",
+              "9 × 6",
+              "7 × 9"
+            ],
+            "after": "",
+            "a": "7 × 9"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Work out each fact. Is the answer odd or even?",
+        "marks": 4,
+        "groups": [
+          "Odd",
+          "Even"
+        ],
+        "words": [
+          "3 × 5",
+          "4 × 7",
+          "7 × 9",
+          "6 × 5",
+          "9 × 9",
+          "1 × 7",
+          "8 × 3",
+          "2 × 6"
+        ],
+        "a": {
+          "3 × 5": "Odd",
+          "4 × 7": "Even",
+          "7 × 9": "Odd",
+          "6 × 5": "Even",
+          "9 × 9": "Odd",
+          "1 × 7": "Odd",
+          "8 × 3": "Even",
+          "2 × 6": "Even"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Solve the Holi problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Kabir fills 9 balloons in a minute. In 6 minutes he fills ___ balloons.",
+            "a": "54"
+          },
+          {
+            "q": "There are 3 buckets with 10 balloons in each. That is ___ balloons.",
+            "a": "30"
+          },
+          {
+            "q": "Each child gets 3 packets of colour. 7 children get ___ packets.",
+            "a": "21"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a times fact that has the answer 36.",
+        "marks": 1,
+        "lines": 1,
+        "a": "e.g. 4 × 9 = 36, 9 × 4 = 36 or 6 × 6 = 36"
+      }
+    ]
+  },
+  {
+    "id": "multiplication-tables-1-to-10-11",
+    "topic": "multiplication-tables-1-to-10",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Shopping at Dragon Mart",
+    "intro": "Meera and her mum shop for toys at Dragon Mart in Dubai. Some problems need two steps.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Multiply. Start with the ones.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "12",
+            "op": "×",
+            "bottom": "4",
+            "a": "48"
+          },
+          {
+            "top": "21",
+            "op": "×",
+            "bottom": "3",
+            "a": "63"
+          },
+          {
+            "top": "32",
+            "op": "×",
+            "bottom": "2",
+            "a": "64"
+          },
+          {
+            "top": "11",
+            "op": "×",
+            "bottom": "8",
+            "a": "88"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "6 × 8",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "7 × 7",
+            "a": "<"
+          },
+          {
+            "before": "9 × 4",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "6 × 6",
+            "a": "="
+          },
+          {
+            "before": "8 × 9",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "10 × 7",
+            "a": ">"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "₹5 × 9 = ₹45",
+            "a": true
+          },
+          {
+            "q": "If 7 × 8 = 56, then 8 × 7 = 56.",
+            "a": true
+          },
+          {
+            "q": "4 × 9 is more than 5 × 7.",
+            "a": true
+          },
+          {
+            "q": "3 × 3 × 2 = 20",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Make both sides equal.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "4 × 6 = 3 × ___",
+            "a": "8"
+          },
+          {
+            "q": "5 × 4 = 2 × ___",
+            "a": "10"
+          },
+          {
+            "q": "9 × 2 = 6 × ___",
+            "a": "3"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the shopping problems. Use two steps.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A toy car costs ₹8. Meera buys 6 cars and pays with ₹50. She gets ₹ ___ back.",
+            "a": "2"
+          },
+          {
+            "q": "Kites cost ₹7 each. Mum buys 4 kites and a ₹10 ball. She pays ₹ ___.",
+            "a": "38"
+          },
+          {
+            "q": "There are 3 boxes of 9 crayons and 5 loose crayons. That is ___ crayons.",
+            "a": "32"
+          },
+          {
+            "q": "Pens come in packs of 10. Meera needs 70 pens. She buys ___ packs.",
+            "a": "7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "multiplication-tables-1-to-10-12",
+    "topic": "multiplication-tables-1-to-10",
+    "number": 12,
+    "level": "Challenge",
+    "title": "The Desert Camp Trip",
+    "intro": "Arjun's family goes to a desert camp near Al Ain. Use the tables to solve each step.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Complete the table facts.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "8 × 7",
+            "a": "56"
+          },
+          {
+            "q": "6 × 9",
+            "a": "54"
+          },
+          {
+            "q": "9 × 8",
+            "a": "72"
+          },
+          {
+            "q": "7 × 6",
+            "a": "42"
+          },
+          {
+            "q": "8 × 8",
+            "a": "64"
+          },
+          {
+            "q": "9 × 7",
+            "a": "63"
+          },
+          {
+            "q": "7 × 4",
+            "a": "28"
+          },
+          {
+            "q": "6 × 8",
+            "a": "48"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the camp problems. Use two steps.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There are 4 tents. Each tent has 6 beds. 3 beds are empty. ___ people are sleeping.",
+            "a": "21"
+          },
+          {
+            "q": "9 camels carry 2 riders each. A jeep carries 5 more. That is ___ riders in all.",
+            "a": "23"
+          },
+          {
+            "q": "There are 8 tables with 7 plates each. 6 plates break. ___ plates are left.",
+            "a": "50"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the facts that have the same answer.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "3 × 8",
+            "right": "4 × 6"
+          },
+          {
+            "left": "2 × 9",
+            "right": "3 × 6"
+          },
+          {
+            "left": "4 × 10",
+            "right": "8 × 5"
+          },
+          {
+            "left": "6 × 2",
+            "right": "3 × 4"
+          },
+          {
+            "left": "2 × 8",
+            "right": "4 × 4"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "If 6 × 7 = 42, then 6 × 8 = 48.",
+            "a": true
+          },
+          {
+            "q": "9 × 10 = 90, so 9 × 9 = 80.",
+            "a": false
+          },
+          {
+            "q": "An even number × 5 always ends in 0.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Arjun says 7 × 5 = 30. Is he right? Explain.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. No. 7 × 5 = 35. Count seven fives: 5, 10, 15, 20, 25, 30, 35."
+      }
+    ]
+  },
+  {
+    "id": "multiplication-tables-1-to-10-13",
+    "topic": "multiplication-tables-1-to-10",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Checking Pia's Homework",
+    "intro": "Pia did her times-table homework too fast. Some answers are wrong. Find them and fix them.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is Pia right? Circle True or False.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "6 × 4 = 26",
+            "a": false
+          },
+          {
+            "q": "9 × 3 = 27",
+            "a": true
+          },
+          {
+            "q": "7 × 7 = 47",
+            "a": false
+          },
+          {
+            "q": "4 × 8 = 32",
+            "a": true
+          },
+          {
+            "q": "8 × 9 = 81",
+            "a": false
+          },
+          {
+            "q": "5 × 6 = 30",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Pia got these wrong. Write the right answer.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "7 × 4 = 24",
+            "a": "28"
+          },
+          {
+            "q": "6 × 6 = 32",
+            "a": "36"
+          },
+          {
+            "q": "9 × 5 = 54",
+            "a": "45"
+          },
+          {
+            "q": "8 × 3 = 21",
+            "a": "24"
+          },
+          {
+            "q": "10 × 6 = 16",
+            "a": "60"
+          },
+          {
+            "q": "7 × 9 = 61",
+            "a": "63"
+          },
+          {
+            "q": "8 × 6 = 46",
+            "a": "48"
+          },
+          {
+            "q": "4 × 9 = 32",
+            "a": "36"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right sign, + or ×.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "5",
+            "options": [
+              "+",
+              "×"
+            ],
+            "after": "4 = 20",
+            "a": "×"
+          },
+          {
+            "before": "6",
+            "options": [
+              "+",
+              "×"
+            ],
+            "after": "6 = 12",
+            "a": "+"
+          },
+          {
+            "before": "3",
+            "options": [
+              "+",
+              "×"
+            ],
+            "after": "3 = 9",
+            "a": "×"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the missing number.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "___ × 7 = 49",
+            "a": "7"
+          },
+          {
+            "q": "9 × ___ = 54",
+            "a": "6"
+          },
+          {
+            "q": "___ × 6 = 60",
+            "a": "10"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the homework problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Pia does 8 sums a day. In 7 days she does ___ sums.",
+            "a": "56"
+          },
+          {
+            "q": "Pia made 3 mistakes on each of 4 pages. She made ___ mistakes.",
+            "a": "12"
+          },
+          {
+            "q": "Her teacher gives 2 stars for each right page. Pia has 9 right pages. She gets ___ stars.",
+            "a": "18"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "multiplication-tables-1-to-10-14",
+    "topic": "multiplication-tables-1-to-10",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Planning the Class Diwali Party",
+    "intro": "Class 2B is planning a Diwali party. Help Ms Rao work out how much of everything to bring.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Multiply. Start with the ones.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "14",
+            "op": "×",
+            "bottom": "2",
+            "a": "28"
+          },
+          {
+            "top": "33",
+            "op": "×",
+            "bottom": "3",
+            "a": "99"
+          },
+          {
+            "top": "22",
+            "op": "×",
+            "bottom": "4",
+            "a": "88"
+          },
+          {
+            "top": "41",
+            "op": "×",
+            "bottom": "2",
+            "a": "82"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the fact with the biggest answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "7 × 6",
+              "8 × 5",
+              "9 × 4"
+            ],
+            "after": "",
+            "a": "7 × 6"
+          },
+          {
+            "before": "",
+            "options": [
+              "3 × 10",
+              "4 × 8",
+              "5 × 5"
+            ],
+            "after": "",
+            "a": "4 × 8"
+          },
+          {
+            "before": "",
+            "options": [
+              "6 × 9",
+              "7 × 8",
+              "8 × 6"
+            ],
+            "after": "",
+            "a": "7 × 8"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Is the number in the table of 3, the table of 4, or both?",
+        "marks": 4,
+        "groups": [
+          "Table of 3",
+          "Table of 4",
+          "Both"
+        ],
+        "words": [
+          "9",
+          "16",
+          "21",
+          "12",
+          "28",
+          "27",
+          "24",
+          "32"
+        ],
+        "a": {
+          "9": "Table of 3",
+          "16": "Table of 4",
+          "21": "Table of 3",
+          "12": "Both",
+          "28": "Table of 4",
+          "27": "Table of 3",
+          "24": "Both",
+          "32": "Table of 4"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Solve the party problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Each of 28 children gets 1 diya. Diyas come in boxes of 4. Ms Rao needs ___ boxes.",
+            "a": "7"
+          },
+          {
+            "q": "36 sweets are shared equally on 9 plates. Each plate has ___ sweets.",
+            "a": "4"
+          },
+          {
+            "q": "Each child brings 3 candles. 10 children bring ___ candles.",
+            "a": "30"
+          },
+          {
+            "q": "Rangoli colours cost ₹6 a packet. 8 packets cost ₹ ___.",
+            "a": "48"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "There are 24 cupcakes. Write two ways to put them in equal rows.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. 4 rows of 6, 6 rows of 4, 3 rows of 8 or 8 rows of 3"
+      }
+    ]
+  },
+  {
+    "id": "multiplication-tables-1-to-10-15",
+    "topic": "multiplication-tables-1-to-10",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Kite Festival in Ahmedabad",
+    "intro": "Hetal and Sam fly kites at the Uttarayan festival in January. Use the tables to solve the trickier problems.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the missing number.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "? × 7 = 56",
+            "a": "8"
+          },
+          {
+            "q": "6 × ? = 42",
+            "a": "7"
+          },
+          {
+            "q": "? × 9 = 36",
+            "a": "4"
+          },
+          {
+            "q": "10 × ? = 80",
+            "a": "8"
+          },
+          {
+            "q": "7 × ? = 63",
+            "a": "9"
+          },
+          {
+            "q": "? × 8 = 24",
+            "a": "3"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each group to the total.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "6 sixes",
+            "right": "36"
+          },
+          {
+            "left": "8 fours",
+            "right": "32"
+          },
+          {
+            "left": "9 sevens",
+            "right": "63"
+          },
+          {
+            "left": "5 tens",
+            "right": "50"
+          },
+          {
+            "left": "7 threes",
+            "right": "21"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "8 × 4 is double 4 × 4.",
+            "a": true
+          },
+          {
+            "q": "3 × 9 is the same as 9 + 9 + 9.",
+            "a": true
+          },
+          {
+            "q": "The answer to 7 × 7 is an even number.",
+            "a": false
+          },
+          {
+            "q": "10 × 9 is 10 more than 9 × 9.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the kite problems. Use two steps.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Each kite has 3 tassels. Hetal has 5 kites and Sam has 4. They have ___ tassels.",
+            "a": "27"
+          },
+          {
+            "q": "Dad buys 6 packs of 10 kites. 13 kites tear. ___ kites are left.",
+            "a": "47"
+          },
+          {
+            "q": "Sam's kite flies for 7 minutes, 4 times. Hetal's flies for 9 minutes, 3 times. Together that is ___ minutes.",
+            "a": "55"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a short kite story for 4 × 8.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Hetal has 4 kites with 8 bows on each, so there are 32 bows."
+      }
+    ]
   }
 ]

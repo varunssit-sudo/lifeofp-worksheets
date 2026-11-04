@@ -637,5 +637,1287 @@
         "a": "It gives us light and heat; plants need sunlight to make food."
       }
     ]
+  },
+  {
+    "id": "sources-of-light-06",
+    "topic": "sources-of-light",
+    "number": 6,
+    "level": "Practice",
+    "title": "Fireworks over the Corniche",
+    "intro": "On Eid night, Omar and Lily watch fireworks over the sea in Abu Dhabi. The whole city is full of light.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write natural or man-made.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "fireworks",
+            "a": "man-made"
+          },
+          {
+            "q": "glowing jellyfish",
+            "a": "natural"
+          },
+          {
+            "q": "sparkler",
+            "a": "man-made"
+          },
+          {
+            "q": "shooting star",
+            "a": "natural"
+          },
+          {
+            "q": "phone screen",
+            "a": "man-made"
+          },
+          {
+            "q": "lamp post",
+            "a": "man-made"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "We see the flash of fireworks",
+            "options": [
+              "before",
+              "after"
+            ],
+            "after": "we hear the bang.",
+            "a": "before"
+          },
+          {
+            "before": "Fireworks give out light and",
+            "options": [
+              "sound",
+              "rain"
+            ],
+            "after": ".",
+            "a": "sound"
+          },
+          {
+            "before": "A sparkler is hot because it is",
+            "options": [
+              "burning",
+              "melting"
+            ],
+            "after": ".",
+            "a": "burning"
+          },
+          {
+            "before": "The lamp posts switch on when the sun",
+            "options": [
+              "sets",
+              "rises"
+            ],
+            "after": ".",
+            "a": "sets"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "It is safe to hold a sparkler near your face.",
+            "a": false
+          },
+          {
+            "q": "Fireworks are a natural source of light.",
+            "a": false
+          },
+          {
+            "q": "The stars we see at night are far-away suns.",
+            "a": true
+          },
+          {
+            "q": "Things that burn give out light and heat.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A grown-up should light the ___ for us.",
+            "a": "fireworks / sparklers"
+          },
+          {
+            "q": "Keep a bucket of ___ near when you light crackers.",
+            "a": "water / sand"
+          },
+          {
+            "q": "The bright lights help people ___ on the dark beach.",
+            "a": "see"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways to stay safe with fireworks.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. let a grown-up light them, stand far away, wear cotton clothes, keep water nearby."
+      }
+    ]
+  },
+  {
+    "id": "sources-of-light-07",
+    "topic": "sources-of-light",
+    "number": 7,
+    "level": "Practice",
+    "title": "A Quiet Corner in the Library",
+    "intro": "Priya and Ben read in the school library. Some light comes in through the windows and some comes from lamps.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each light to its job.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Reading lamp",
+            "right": "lights up a desk"
+          },
+          {
+            "left": "Night lamp",
+            "right": "glows softly while we sleep"
+          },
+          {
+            "left": "Projector",
+            "right": "shows pictures on a screen"
+          },
+          {
+            "left": "Sunlight",
+            "right": "lights up the room in the day"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the things.",
+        "marks": 4,
+        "groups": [
+          "Gives out light",
+          "Only reflects light"
+        ],
+        "words": [
+          "aluminium foil",
+          "desk lamp",
+          "shiny new coin",
+          "bicycle reflector",
+          "tablet screen",
+          "still pond water",
+          "matchstick flame",
+          "glow stick"
+        ],
+        "a": {
+          "desk lamp": "Gives out light",
+          "tablet screen": "Gives out light",
+          "matchstick flame": "Gives out light",
+          "glow stick": "Gives out light",
+          "bicycle reflector": "Only reflects light",
+          "aluminium foil": "Only reflects light",
+          "shiny new coin": "Only reflects light",
+          "still pond water": "Only reflects light"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We should read with enough light.",
+            "a": true
+          },
+          {
+            "q": "Sitting very close to a bright screen is good for our eyes.",
+            "a": false
+          },
+          {
+            "q": "Opening the curtains in the day lets sunlight in.",
+            "a": true
+          },
+          {
+            "q": "Sunlight does not use any electricity.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Priya sits near the ___ to read by sunlight.",
+            "a": "window"
+          },
+          {
+            "q": "Ben switches on the reading ___.",
+            "a": "lamp / light"
+          },
+          {
+            "q": "We cannot see the words when it is ___.",
+            "a": "dark"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why should we read in good light?",
+        "marks": 2,
+        "lines": 2,
+        "a": "So we can see the words clearly and do not strain our eyes."
+      }
+    ]
+  },
+  {
+    "id": "sources-of-light-08",
+    "topic": "sources-of-light",
+    "number": 8,
+    "level": "Practice",
+    "title": "Stargazing in the Al Qudra Desert",
+    "intro": "Zara and Leo camp in the desert, far from city lights. The sky is full of stars.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The stars look",
+            "options": [
+              "brighter",
+              "dimmer"
+            ],
+            "after": "far from city lights.",
+            "a": "brighter"
+          },
+          {
+            "before": "The sun is the star",
+            "options": [
+              "closest to",
+              "farthest from"
+            ],
+            "after": "the Earth.",
+            "a": "closest to"
+          },
+          {
+            "before": "A shooting star is a streak of",
+            "options": [
+              "light",
+              "water"
+            ],
+            "after": "in the sky.",
+            "a": "light"
+          },
+          {
+            "before": "Stars look tiny because they are very",
+            "options": [
+              "far away",
+              "close"
+            ],
+            "after": ".",
+            "a": "far away"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The moon seems to change its shape over a month.",
+            "a": true
+          },
+          {
+            "q": "Stars are made by people.",
+            "a": false
+          },
+          {
+            "q": "Bright city lights make stars harder to see.",
+            "a": true
+          },
+          {
+            "q": "At night the sun goes out.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write gives light or reflects light.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "star",
+            "a": "gives light"
+          },
+          {
+            "q": "moon",
+            "a": "reflects light"
+          },
+          {
+            "q": "campfire",
+            "a": "gives light"
+          },
+          {
+            "q": "car side mirror",
+            "a": "reflects light"
+          },
+          {
+            "q": "lantern",
+            "a": "gives light"
+          },
+          {
+            "q": "cat's eyes",
+            "a": "reflects light"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Zara sees hundreds of twinkling ___.",
+            "a": "stars"
+          },
+          {
+            "q": "Far from city lights, the night sky is very ___.",
+            "a": "dark"
+          },
+          {
+            "q": "When the ___ rises, the stars fade from view.",
+            "a": "sun"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why are stars easier to see in the desert than in a city?",
+        "marks": 2,
+        "lines": 2,
+        "a": "There are no bright city lights in the desert, so the sky is darker and the stars stand out."
+      }
+    ]
+  },
+  {
+    "id": "sources-of-light-09",
+    "topic": "sources-of-light",
+    "number": 9,
+    "level": "Practice",
+    "title": "Shadows at Morning Assembly",
+    "intro": "Aarav and Chloe stand in the school ground for assembly. Their shadows fall on the ground.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We need light to make a shadow.",
+            "a": true
+          },
+          {
+            "q": "Shadows are longest at noon.",
+            "a": false
+          },
+          {
+            "q": "A shadow has the same outline as the object.",
+            "a": true
+          },
+          {
+            "q": "Shadows show the colours of our clothes.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "At noon, when the sun is high, shadows are",
+            "options": [
+              "short",
+              "long"
+            ],
+            "after": ".",
+            "a": "short"
+          },
+          {
+            "before": "Light passes through clear",
+            "options": [
+              "glass",
+              "wood"
+            ],
+            "after": ".",
+            "a": "glass"
+          },
+          {
+            "before": "Your shadow",
+            "options": [
+              "moves",
+              "stays still"
+            ],
+            "after": "when you move.",
+            "a": "moves"
+          },
+          {
+            "before": "In the evening, when the sun is low, shadows are",
+            "options": [
+              "long",
+              "short"
+            ],
+            "after": ".",
+            "a": "long"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the things.",
+        "marks": 4,
+        "groups": [
+          "Light passes through",
+          "Light is blocked"
+        ],
+        "words": [
+          "brick wall",
+          "window glass",
+          "school bag",
+          "cardboard",
+          "clean water",
+          "tree trunk",
+          "cling film",
+          "spectacle lens"
+        ],
+        "a": {
+          "window glass": "Light passes through",
+          "clean water": "Light passes through",
+          "cling film": "Light passes through",
+          "spectacle lens": "Light passes through",
+          "cardboard": "Light is blocked",
+          "brick wall": "Light is blocked",
+          "school bag": "Light is blocked",
+          "tree trunk": "Light is blocked"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The tall flagpole makes a long ___ in the morning.",
+            "a": "shadow"
+          },
+          {
+            "q": "Aarav stands under a tree to be in the ___.",
+            "a": "shade"
+          },
+          {
+            "q": "The sun is a ___ source of light.",
+            "a": "natural"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why is your shadow short at lunch time?",
+        "marks": 2,
+        "lines": 2,
+        "a": "Because the sun is high up in the sky at noon."
+      }
+    ]
+  },
+  {
+    "id": "sources-of-light-10",
+    "topic": "sources-of-light",
+    "number": 10,
+    "level": "Practice",
+    "title": "Night Lights on Marine Drive",
+    "intro": "Rhea rides home in a taxi along Marine Drive in Mumbai at night. Many lights help people on the road.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each light to its job.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "Street lamp",
+            "right": "lights up the road"
+          },
+          {
+            "left": "Traffic signal",
+            "right": "tells cars when to stop and go"
+          },
+          {
+            "left": "Ambulance light",
+            "right": "flashes to say make way"
+          },
+          {
+            "left": "Shop sign",
+            "right": "shows the shop's name at night"
+          },
+          {
+            "left": "Solar lamp",
+            "right": "charges in the sun and glows at night"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Marine Drive is called the Queen's Necklace because of its",
+            "options": [
+              "lights",
+              "trees"
+            ],
+            "after": ".",
+            "a": "lights"
+          },
+          {
+            "before": "Cyclists wear",
+            "options": [
+              "bright",
+              "dark"
+            ],
+            "after": "clothes at night so drivers can see them.",
+            "a": "bright"
+          },
+          {
+            "before": "LED bulbs use",
+            "options": [
+              "less",
+              "more"
+            ],
+            "after": "electricity than old bulbs.",
+            "a": "less"
+          },
+          {
+            "before": "A red traffic light means",
+            "options": [
+              "stop",
+              "go"
+            ],
+            "after": ".",
+            "a": "stop"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Street lamps need electricity.",
+            "a": true
+          },
+          {
+            "q": "A solar lamp uses sunlight to charge.",
+            "a": true
+          },
+          {
+            "q": "Car lights are a natural source of light.",
+            "a": false
+          },
+          {
+            "q": "Leaving lights on all night in empty offices saves electricity.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The taxi stops when the signal turns ___.",
+            "a": "red"
+          },
+          {
+            "q": "Shiny strips on road signs ___ the car lights.",
+            "a": "reflect"
+          },
+          {
+            "q": "We switch off lights we do not need to save ___.",
+            "a": "electricity"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two places where you see lights at night.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. roads, shops, homes, cars, tall buildings, parks."
+      }
+    ]
+  },
+  {
+    "id": "sources-of-light-11",
+    "topic": "sources-of-light",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Checking Kabir's Science Notebook",
+    "intro": "Kabir wrote some facts about light, but a few of them are wrong. Help him check and fix them.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is Kabir right? Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "A torch is a natural source of light.",
+            "a": false
+          },
+          {
+            "q": "Fire gives us both light and heat.",
+            "a": true
+          },
+          {
+            "q": "We can see a shadow in a fully dark room.",
+            "a": false
+          },
+          {
+            "q": "Shiny things reflect light.",
+            "a": true
+          },
+          {
+            "q": "The moon is a source of light.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write each sentence correctly.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Light can go around a corner.",
+            "a": "Light travels in a straight line, so it cannot go around a corner."
+          },
+          {
+            "q": "Shadows are long at noon.",
+            "a": "Shadows are short at noon."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the odd one out.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "sun",
+              "star",
+              "bulb",
+              "lightning"
+            ],
+            "after": "",
+            "a": "bulb"
+          },
+          {
+            "before": "",
+            "options": [
+              "candle",
+              "diya",
+              "torch",
+              "campfire"
+            ],
+            "after": "",
+            "a": "torch"
+          },
+          {
+            "before": "",
+            "options": [
+              "mirror",
+              "moon",
+              "foil",
+              "lamp"
+            ],
+            "after": "",
+            "a": "lamp"
+          },
+          {
+            "before": "",
+            "options": [
+              "tube light",
+              "firefly",
+              "LED bulb",
+              "neon sign"
+            ],
+            "after": "",
+            "a": "firefly"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the light riddles.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "I need a match to light me and I melt as I burn. I am a ___.",
+            "a": "candle"
+          },
+          {
+            "q": "I flash across the sky in a storm, and thunder follows me. I am ___.",
+            "a": "lightning"
+          },
+          {
+            "q": "I hang on the ceiling and you turn me on with a switch. I am a ___.",
+            "a": "bulb / light / lamp"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Kabir says the moon makes its own light. Is he right? Write why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "No. The moon has no light of its own; it reflects light from the sun."
+      }
+    ]
+  },
+  {
+    "id": "sources-of-light-12",
+    "topic": "sources-of-light",
+    "number": 12,
+    "level": "Challenge",
+    "title": "The Solar Lamp Project",
+    "intro": "Class 2 in Sharjah builds solar lamps for a village school. The sun charges each lamp during the day.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A solar panel uses",
+            "options": [
+              "sunlight",
+              "rain"
+            ],
+            "after": "to make electricity.",
+            "a": "sunlight"
+          },
+          {
+            "before": "The lamp charges best in",
+            "options": [
+              "bright sun",
+              "a dark cupboard"
+            ],
+            "after": ".",
+            "a": "bright sun"
+          },
+          {
+            "before": "On a cloudy day, the lamp gets",
+            "options": [
+              "less",
+              "more"
+            ],
+            "after": "charge.",
+            "a": "less"
+          },
+          {
+            "before": "Solar lamps give out no",
+            "options": [
+              "smoke",
+              "light"
+            ],
+            "after": "when they glow.",
+            "a": "smoke"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The class makes 6 lamps on Monday and 8 on Tuesday. They make ___ lamps in all.",
+            "a": "14"
+          },
+          {
+            "q": "A lamp charges for 5 hours a day. In 3 days it charges for ___ hours.",
+            "a": "15"
+          },
+          {
+            "q": "24 children share the lamps, 4 children to a lamp. They need ___ lamps.",
+            "a": "6"
+          },
+          {
+            "q": "A lamp can glow for 8 hours. Dev uses it for 3 hours. It can glow for ___ more hours.",
+            "a": "5"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A solar lamp needs a candle inside.",
+            "a": false
+          },
+          {
+            "q": "Solar lamps are safer than kerosene lamps.",
+            "a": true
+          },
+          {
+            "q": "A solar lamp stores energy in the day to use at night.",
+            "a": true
+          },
+          {
+            "q": "Solar panels work best in the shade.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the lights.",
+        "marks": 3,
+        "groups": [
+          "Makes smoke",
+          "Makes no smoke"
+        ],
+        "words": [
+          "matchstick",
+          "fairy lights",
+          "bonfire",
+          "solar lamp",
+          "kerosene lamp",
+          "LED torch"
+        ],
+        "a": {
+          "kerosene lamp": "Makes smoke",
+          "bonfire": "Makes smoke",
+          "matchstick": "Makes smoke",
+          "solar lamp": "Makes no smoke",
+          "LED torch": "Makes no smoke",
+          "fairy lights": "Makes no smoke"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Why is a solar lamp good for a village with no electricity?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. It charges free from the sun, gives light at night and makes no smoke."
+      }
+    ]
+  },
+  {
+    "id": "sources-of-light-13",
+    "topic": "sources-of-light",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Diyas on the Ganga Ghats",
+    "intro": "In Varanasi, Arjun and Mira float diyas on the river for Dev Deepawali. The water shines with their light.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The river looks bright because it reflects the diya light.",
+            "a": true
+          },
+          {
+            "q": "A diya flame can burn without any oil.",
+            "a": false
+          },
+          {
+            "q": "A strong wind can blow out a diya.",
+            "a": true
+          },
+          {
+            "q": "A diya keeps burning under the water.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Arjun keeps his sleeves",
+            "options": [
+              "away from",
+              "close to"
+            ],
+            "after": "the flame.",
+            "a": "away from"
+          },
+          {
+            "before": "The flame goes out when the oil",
+            "options": [
+              "runs out",
+              "gets warm"
+            ],
+            "after": ".",
+            "a": "runs out"
+          },
+          {
+            "before": "A fire needs air, so a flame under a covered jar goes",
+            "options": [
+              "out",
+              "brighter"
+            ],
+            "after": ".",
+            "a": "out"
+          },
+          {
+            "before": "At sunrise, the diyas look",
+            "options": [
+              "less bright",
+              "brighter"
+            ],
+            "after": "because sunlight is so strong.",
+            "a": "less bright"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match what happens first to what happens next.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "The oil runs out",
+            "right": "the diya stops burning"
+          },
+          {
+            "left": "The wind blows hard",
+            "right": "the flame flickers"
+          },
+          {
+            "left": "Light falls on still water",
+            "right": "we see a reflection"
+          },
+          {
+            "left": "A boat blocks the light",
+            "right": "a shadow forms"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Diyas are a ___ source of light.",
+            "a": "man-made"
+          },
+          {
+            "q": "The ___ of each diya dances on the water.",
+            "a": "reflection"
+          },
+          {
+            "q": "When all the diyas burn out, the river is ___.",
+            "a": "dark"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways a diya is different from an electric bulb.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. A diya needs oil and fire, a bulb needs electricity; a diya can be blown out by wind; a diya gives smoke."
+      }
+    ]
+  },
+  {
+    "id": "sources-of-light-14",
+    "topic": "sources-of-light",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Birthday Shadow Puppet Show",
+    "intro": "Tara and Sam put on a shadow puppet show at a birthday party. A lamp shines on the puppets, and their shadows fall on a white sheet.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "What happens? Circle the answer.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Move the puppet closer to the lamp, and the shadow gets",
+            "options": [
+              "bigger",
+              "smaller"
+            ],
+            "after": ".",
+            "a": "bigger"
+          },
+          {
+            "before": "Move the puppet away from the lamp, and the shadow gets",
+            "options": [
+              "smaller",
+              "bigger"
+            ],
+            "after": ".",
+            "a": "smaller"
+          },
+          {
+            "before": "Switch off the lamp, and the shadow",
+            "options": [
+              "disappears",
+              "grows"
+            ],
+            "after": ".",
+            "a": "disappears"
+          },
+          {
+            "before": "Move the lamp to the left, and the shadow moves to the",
+            "options": [
+              "right",
+              "left"
+            ],
+            "after": ".",
+            "a": "right"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A shadow puppet must be made of something that blocks light.",
+            "a": true
+          },
+          {
+            "q": "A shadow is always the same size.",
+            "a": false
+          },
+          {
+            "q": "The puppet must be between the lamp and the sheet.",
+            "a": true
+          },
+          {
+            "q": "A red puppet makes a red shadow.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the things.",
+        "marks": 3,
+        "groups": [
+          "Dark shadow",
+          "Faint or no shadow"
+        ],
+        "words": [
+          "wooden ruler",
+          "clear plastic bottle",
+          "notebook",
+          "clear glass bowl",
+          "cardboard cut-out",
+          "tissue paper"
+        ],
+        "a": {
+          "cardboard cut-out": "Dark shadow",
+          "notebook": "Dark shadow",
+          "wooden ruler": "Dark shadow",
+          "clear glass bowl": "Faint or no shadow",
+          "tissue paper": "Faint or no shadow",
+          "clear plastic bottle": "Faint or no shadow"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Tara cuts the puppet out of thick ___.",
+            "a": "cardboard / card / paper"
+          },
+          {
+            "q": "The guests sit on the other side of the white ___.",
+            "a": "sheet"
+          },
+          {
+            "q": "A shadow forms because light travels in a ___ line.",
+            "a": "straight"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Sam wants a giant dragon shadow. What should he do? Write why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Move the puppet closer to the lamp, because then it blocks more light and the shadow gets bigger."
+      }
+    ]
+  },
+  {
+    "id": "sources-of-light-15",
+    "topic": "sources-of-light",
+    "number": 15,
+    "level": "Challenge",
+    "title": "The Science Fair Light Quiz",
+    "intro": "Hana and Felix are in the light quiz at the science fair. Answer every round to win.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the odd one out.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "lantern",
+              "matchstick",
+              "campfire",
+              "mirror"
+            ],
+            "after": "",
+            "a": "mirror"
+          },
+          {
+            "before": "",
+            "options": [
+              "star",
+              "lightning",
+              "sparkler",
+              "sun"
+            ],
+            "after": "",
+            "a": "sparkler"
+          },
+          {
+            "before": "",
+            "options": [
+              "window glass",
+              "clear water",
+              "brick",
+              "cling film"
+            ],
+            "after": "",
+            "a": "brick"
+          },
+          {
+            "before": "",
+            "options": [
+              "fairy lights",
+              "ceiling lamp",
+              "candle",
+              "desk lamp"
+            ],
+            "after": "",
+            "a": "candle"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Light travels faster than sound.",
+            "a": true
+          },
+          {
+            "q": "Plants would die without sunlight.",
+            "a": true
+          },
+          {
+            "q": "We see an object when light bounces off it into our eyes.",
+            "a": true
+          },
+          {
+            "q": "Black clothes reflect more light than white clothes.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A torch stops working when its ___ run out.",
+            "a": "batteries / cells"
+          },
+          {
+            "q": "We see the lightning first and hear the ___ later.",
+            "a": "thunder"
+          },
+          {
+            "q": "The brightest light in our sky is the ___.",
+            "a": "sun"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the light to who uses it.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Helmet lamp",
+            "right": "a miner deep underground"
+          },
+          {
+            "left": "Dentist's lamp",
+            "right": "a dentist looking at teeth"
+          },
+          {
+            "left": "Stage spotlight",
+            "right": "an actor on stage"
+          },
+          {
+            "left": "Camera flash",
+            "right": "a photographer"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "What would happen if there was no light at all? Write two things.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. We could not see anything; plants could not make food; it would be cold and dark."
+      }
+    ]
   }
 ]

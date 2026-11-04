@@ -629,5 +629,1332 @@
         "a": "Answers will vary, e.g. \"I like the metro because it is fast.\""
       }
     ]
+  },
+  {
+    "id": "transport-06",
+    "topic": "transport",
+    "number": 6,
+    "level": "Practice",
+    "title": "Road Safety Week at School",
+    "intro": "Officer Rao visits Class 2 to teach road safety. Kavya and Tom learn how to stay safe on the road.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each sign to its meaning.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Red light",
+            "right": "stop"
+          },
+          {
+            "left": "Green light",
+            "right": "go"
+          },
+          {
+            "left": "Amber light",
+            "right": "get ready to stop"
+          },
+          {
+            "left": "Zebra crossing",
+            "right": "a safe place to cross the road"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "We should wear a seat belt in a car.",
+            "a": true
+          },
+          {
+            "q": "Small children should sit in the back seat of a car.",
+            "a": true
+          },
+          {
+            "q": "We should run across a busy road.",
+            "a": false
+          },
+          {
+            "q": "Look both ways before you cross the road.",
+            "a": true
+          },
+          {
+            "q": "It is safe to play on the road.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Walk on the",
+            "options": [
+              "footpath",
+              "middle of the road"
+            ],
+            "after": ".",
+            "a": "footpath"
+          },
+          {
+            "before": "Hold a grown-up's",
+            "options": [
+              "hand",
+              "bag strap"
+            ],
+            "after": "when you cross.",
+            "a": "hand"
+          },
+          {
+            "before": "Get off the bus only when it has",
+            "options": [
+              "stopped",
+              "started"
+            ],
+            "after": ".",
+            "a": "stopped"
+          },
+          {
+            "before": "Wear a",
+            "options": [
+              "helmet",
+              "cap"
+            ],
+            "after": "when you ride a bicycle.",
+            "a": "helmet"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A ___ police officer helps cars move safely.",
+            "a": "traffic"
+          },
+          {
+            "q": "At night, wear ___ clothes so drivers can see you.",
+            "a": "bright / light / white"
+          },
+          {
+            "q": "The bus driver must stop at a ___ light.",
+            "a": "red"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two road safety rules.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. cross at the zebra crossing, wear a seat belt, look both ways, wear a helmet."
+      }
+    ]
+  },
+  {
+    "id": "transport-07",
+    "topic": "transport",
+    "number": 7,
+    "level": "Practice",
+    "title": "Emergency Vehicles in Our City",
+    "intro": "A siren rings out on Sheikh Zayed Road. Krish and Hannah learn about vehicles that help people in trouble.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each vehicle to its job.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Ambulance",
+            "right": "takes sick people to hospital"
+          },
+          {
+            "left": "Fire engine",
+            "right": "puts out fires"
+          },
+          {
+            "left": "Police car",
+            "right": "helps keep us safe"
+          },
+          {
+            "left": "Rescue helicopter",
+            "right": "lifts people from hard-to-reach places"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "When we hear a siren, cars must",
+            "options": [
+              "make way",
+              "speed up"
+            ],
+            "after": ".",
+            "a": "make way"
+          },
+          {
+            "before": "A fire engine carries a long",
+            "options": [
+              "ladder",
+              "sofa"
+            ],
+            "after": ".",
+            "a": "ladder"
+          },
+          {
+            "before": "An ambulance has a",
+            "options": [
+              "stretcher",
+              "swing"
+            ],
+            "after": "inside.",
+            "a": "stretcher"
+          },
+          {
+            "before": "Emergency vehicles have",
+            "options": [
+              "flashing",
+              "no"
+            ],
+            "after": "lights.",
+            "a": "flashing"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the vehicles.",
+        "marks": 6,
+        "groups": [
+          "Land",
+          "Water",
+          "Air"
+        ],
+        "words": [
+          "rescue boat",
+          "air ambulance",
+          "fireboat",
+          "ambulance",
+          "police helicopter",
+          "police car",
+          "tow truck",
+          "coast guard ship",
+          "fire-fighting plane"
+        ],
+        "a": {
+          "ambulance": "Land",
+          "police car": "Land",
+          "tow truck": "Land",
+          "rescue boat": "Water",
+          "fireboat": "Water",
+          "coast guard ship": "Water",
+          "air ambulance": "Air",
+          "fire-fighting plane": "Air",
+          "police helicopter": "Air"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "It is fine to call an emergency number for fun.",
+            "a": false
+          },
+          {
+            "q": "A fire engine carries water.",
+            "a": true
+          },
+          {
+            "q": "An ambulance drives slowly to the hospital.",
+            "a": false
+          },
+          {
+            "q": "A tow truck pulls away cars that have broken down.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which emergency vehicle would you like to drive? Write why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. A fire engine, because I want to put out fires and save people."
+      }
+    ]
+  },
+  {
+    "id": "transport-08",
+    "topic": "transport",
+    "number": 8,
+    "level": "Practice",
+    "title": "A Day at Dubai Airport",
+    "intro": "Nisha and Oliver fly from Dubai to Mumbai. At the airport they see many people and machines at work.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Aeroplanes take off and land on the ___.",
+            "a": "runway"
+          },
+          {
+            "q": "We fasten our seat ___ before take-off.",
+            "a": "belts / belt"
+          },
+          {
+            "q": "We show our boarding ___ at the gate.",
+            "a": "pass"
+          },
+          {
+            "q": "We wait for our flight in the departure ___.",
+            "a": "lounge / hall"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The people in the control",
+            "options": [
+              "tower",
+              "kitchen"
+            ],
+            "after": "guide the planes.",
+            "a": "tower"
+          },
+          {
+            "before": "A plane has two big",
+            "options": [
+              "wings",
+              "sails"
+            ],
+            "after": ".",
+            "a": "wings"
+          },
+          {
+            "before": "The pilot sits in the",
+            "options": [
+              "cockpit",
+              "boot"
+            ],
+            "after": ".",
+            "a": "cockpit"
+          },
+          {
+            "before": "Big planes often fly",
+            "options": [
+              "above",
+              "under"
+            ],
+            "after": "the clouds.",
+            "a": "above"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A helicopter can go straight up.",
+            "a": true
+          },
+          {
+            "q": "A glider has no engine.",
+            "a": true
+          },
+          {
+            "q": "Aeroplanes float on water like boats.",
+            "a": false
+          },
+          {
+            "q": "Planes carry letters and parcels too.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write who does this job.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "flies the plane",
+            "a": "pilot"
+          },
+          {
+            "q": "fixes the engines",
+            "a": "engineer"
+          },
+          {
+            "q": "serves meals on the plane",
+            "a": "cabin crew / flight attendant / air hostess"
+          },
+          {
+            "q": "checks bags for safety",
+            "a": "security officer / security guard"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why do people travel by plane to go far?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Planes are the fastest way to go far, even across the sea."
+      }
+    ]
+  },
+  {
+    "id": "transport-09",
+    "topic": "transport",
+    "number": 9,
+    "level": "Practice",
+    "title": "Wheels in the Mall Car Park",
+    "intro": "Aditya and Grace count the vehicles in the car park at a mall in Sharjah. Different vehicles have different numbers of wheels.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write how many wheels.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "bicycle",
+            "a": "2"
+          },
+          {
+            "q": "tricycle",
+            "a": "3"
+          },
+          {
+            "q": "car",
+            "a": "4"
+          },
+          {
+            "q": "motorbike",
+            "a": "2"
+          },
+          {
+            "q": "unicycle",
+            "a": "1"
+          },
+          {
+            "q": "skateboard",
+            "a": "4"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "There are 5 cars. Each car has 4 wheels. That is ___ wheels.",
+            "a": "20"
+          },
+          {
+            "q": "3 bicycles have ___ wheels in all.",
+            "a": "6"
+          },
+          {
+            "q": "2 tricycles and 1 car have ___ wheels in all.",
+            "a": "10"
+          },
+          {
+            "q": "Grace counts 12 wheels on motorbikes. There are ___ motorbikes.",
+            "a": "6"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A car with no fuel will",
+            "options": [
+              "stop",
+              "fly"
+            ],
+            "after": ".",
+            "a": "stop"
+          },
+          {
+            "before": "A",
+            "options": [
+              "bicycle",
+              "car"
+            ],
+            "after": "moves when we pedal it.",
+            "a": "bicycle"
+          },
+          {
+            "before": "An electric car gets its power from a",
+            "options": [
+              "battery",
+              "sail"
+            ],
+            "after": ".",
+            "a": "battery"
+          },
+          {
+            "before": "The vehicle with the most wheels is the",
+            "options": [
+              "lorry",
+              "scooter"
+            ],
+            "after": ".",
+            "a": "lorry"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A motorbike has more wheels than a car.",
+            "a": false
+          },
+          {
+            "q": "A tricycle has one wheel more than a bicycle.",
+            "a": true
+          },
+          {
+            "q": "A scooter can carry 2 people.",
+            "a": true
+          },
+          {
+            "q": "Wheels help vehicles move easily.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which have more wheels, 2 cars or 3 bicycles? Write how you know.",
+        "marks": 2,
+        "lines": 2,
+        "a": "2 cars, because 2 × 4 = 8 wheels and 3 × 2 = 6 wheels."
+      }
+    ]
+  },
+  {
+    "id": "transport-10",
+    "topic": "transport",
+    "number": 10,
+    "level": "Practice",
+    "title": "Postcards from Around India",
+    "intro": "Rina travels across India in the holidays. From each place she sends a postcard about a different ride.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each place to its ride.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Srinagar",
+            "right": "shikara on Dal Lake"
+          },
+          {
+            "left": "Darjeeling",
+            "right": "toy train up the hills"
+          },
+          {
+            "left": "Gulmarg",
+            "right": "cable car over the snow"
+          },
+          {
+            "left": "Kolkata",
+            "right": "yellow taxi"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A cable car hangs from a strong steel",
+            "options": [
+              "wire",
+              "road"
+            ],
+            "after": ".",
+            "a": "wire"
+          },
+          {
+            "before": "In the snow, people ride on a",
+            "options": [
+              "sledge",
+              "boat"
+            ],
+            "after": ".",
+            "a": "sledge"
+          },
+          {
+            "before": "The toy train goes",
+            "options": [
+              "slowly",
+              "very fast"
+            ],
+            "after": "up the steep hills.",
+            "a": "slowly"
+          },
+          {
+            "before": "A shikara is a boat, so it is",
+            "options": [
+              "water",
+              "air"
+            ],
+            "after": "transport.",
+            "a": "water"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the rides.",
+        "marks": 6,
+        "groups": [
+          "Snow and hills",
+          "Desert",
+          "River and lake"
+        ],
+        "words": [
+          "camel",
+          "kayak",
+          "dune buggy",
+          "sledge",
+          "water taxi",
+          "ropeway",
+          "yak",
+          "desert jeep",
+          "shikara"
+        ],
+        "a": {
+          "sledge": "Snow and hills",
+          "ropeway": "Snow and hills",
+          "yak": "Snow and hills",
+          "camel": "Desert",
+          "dune buggy": "Desert",
+          "desert jeep": "Desert",
+          "kayak": "River and lake",
+          "shikara": "River and lake",
+          "water taxi": "River and lake"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In Mumbai, many people go to work on the ___ train.",
+            "a": "local"
+          },
+          {
+            "q": "Snow is slippery, so a sledge can ___ over it.",
+            "a": "slide / glide"
+          },
+          {
+            "q": "On a wide river, people cross on a ___.",
+            "a": "ferry / boat"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which ride would you write a postcard about? Write why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. The cable car, because I could see the snowy mountains from high up."
+      }
+    ]
+  },
+  {
+    "id": "transport-11",
+    "topic": "transport",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Fixing Rohan's Transport Chart",
+    "intro": "Rohan made a chart about transport, but he mixed up some facts. Find and fix the mistakes.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is Rohan right? Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "A hot air balloon is water transport.",
+            "a": false
+          },
+          {
+            "q": "A goods train carries people to work.",
+            "a": false
+          },
+          {
+            "q": "A canoe has no engine.",
+            "a": true
+          },
+          {
+            "q": "Metro trains run on electricity.",
+            "a": true
+          },
+          {
+            "q": "A scooter is faster than an aeroplane.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Fix each sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "A ship moves on the road.",
+            "a": "A ship moves on water. / A ship sails on the sea."
+          },
+          {
+            "q": "An astronaut drives a bus.",
+            "a": "A driver drives a bus. / An astronaut flies in a rocket."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the odd one out.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "ambulance",
+              "glider",
+              "jet",
+              "helicopter"
+            ],
+            "after": "",
+            "a": "ambulance"
+          },
+          {
+            "before": "",
+            "options": [
+              "kayak",
+              "steamer",
+              "shikara",
+              "tractor"
+            ],
+            "after": "",
+            "a": "tractor"
+          },
+          {
+            "before": "",
+            "options": [
+              "bicycle",
+              "rowing boat",
+              "sledge",
+              "motorbike"
+            ],
+            "after": "",
+            "a": "motorbike"
+          },
+          {
+            "before": "",
+            "options": [
+              "cargo plane",
+              "oil tanker",
+              "goods train",
+              "school bus"
+            ],
+            "after": "",
+            "a": "school bus"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Name the transport.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "I have two wheels and pedals, and I make no smoke. I am a ___.",
+            "a": "bicycle / cycle"
+          },
+          {
+            "q": "I have wings but no engine, and I ride on the wind. I am a ___.",
+            "a": "glider"
+          },
+          {
+            "q": "I have three wheels and a meter, and I zip through Indian streets. I am an ___.",
+            "a": "auto-rickshaw / auto"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Rohan wrote: \"A camel is water transport.\" Write why he is wrong.",
+        "marks": 2,
+        "lines": 2,
+        "a": "A camel walks on land, so it is land transport."
+      }
+    ]
+  },
+  {
+    "id": "transport-12",
+    "topic": "transport",
+    "number": 12,
+    "level": "Challenge",
+    "title": "The Clean Air Challenge",
+    "intro": "Ananya's school in Delhi starts a Clean Air Week. Some vehicles make the air dirty with smoke.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the transport.",
+        "marks": 4,
+        "groups": [
+          "Gives out smoke",
+          "Gives out no smoke"
+        ],
+        "words": [
+          "electric bus",
+          "diesel truck",
+          "sailboat",
+          "bicycle",
+          "petrol car",
+          "electric car",
+          "petrol scooter",
+          "steam engine"
+        ],
+        "a": {
+          "diesel truck": "Gives out smoke",
+          "petrol car": "Gives out smoke",
+          "petrol scooter": "Gives out smoke",
+          "steam engine": "Gives out smoke",
+          "bicycle": "Gives out no smoke",
+          "electric bus": "Gives out no smoke",
+          "sailboat": "Gives out no smoke",
+          "electric car": "Gives out no smoke"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the better choice for clean air.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Ananya lives close to school, so she can",
+            "options": [
+              "walk",
+              "go by car"
+            ],
+            "after": ".",
+            "a": "walk"
+          },
+          {
+            "before": "Five friends going the same way can",
+            "options": [
+              "share one car",
+              "take five cars"
+            ],
+            "after": ".",
+            "a": "share one car"
+          },
+          {
+            "before": "For a long trip across the city, take the",
+            "options": [
+              "metro",
+              "family car"
+            ],
+            "after": ".",
+            "a": "metro"
+          },
+          {
+            "before": "While waiting at a long red light, the driver can",
+            "options": [
+              "switch off the engine",
+              "keep pressing the horn"
+            ],
+            "after": ".",
+            "a": "switch off the engine"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "One school bus carries 40 children. If each car carried 2 children, we would need ___ cars.",
+            "a": "20"
+          },
+          {
+            "q": "Ananya walks 2 km a day. In 5 school days she walks ___ km.",
+            "a": "10"
+          },
+          {
+            "q": "On Monday 15 children cycle to school. On Tuesday 9 more join them. Now ___ children cycle.",
+            "a": "24"
+          },
+          {
+            "q": "The school car park had 30 cars. In Clean Air Week only 18 came. There were ___ fewer cars.",
+            "a": "12"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Smoke from vehicles can make people cough.",
+            "a": true
+          },
+          {
+            "q": "Electric cars give out smoke from a pipe.",
+            "a": false
+          },
+          {
+            "q": "Sharing a ride means fewer cars on the road.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways your family can travel and keep the air clean.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. walk, cycle, take the metro or bus, share a car, use an electric car."
+      }
+    ]
+  },
+  {
+    "id": "transport-13",
+    "topic": "transport",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Class Trip to the Taj Mahal",
+    "intro": "Class 2 goes from Delhi to Agra by bus. Then they ride e-rickshaws to the Taj Mahal.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve the problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "There are 2 buses with 35 children in each. That is ___ children.",
+            "a": "70"
+          },
+          {
+            "q": "An e-rickshaw takes 4 children. 24 children need ___ e-rickshaws.",
+            "a": "6"
+          },
+          {
+            "q": "The bus leaves at 8 o'clock and the trip takes 3 hours. It reaches Agra at ___ o'clock.",
+            "a": "11"
+          },
+          {
+            "q": "Each ticket costs ₹50. Meher buys tickets for herself and her 2 parents. She pays ₹___.",
+            "a": "150"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Work out the trip sums.",
+        "marks": 4,
+        "items": [
+          {
+            "top": 148,
+            "op": "+",
+            "bottom": 235,
+            "a": 383
+          },
+          {
+            "top": 300,
+            "op": "-",
+            "bottom": 126,
+            "a": 174
+          },
+          {
+            "top": 45,
+            "op": "×",
+            "bottom": 2,
+            "a": 90
+          },
+          {
+            "top": 64,
+            "op": "-",
+            "bottom": 37,
+            "a": 27
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "To go from Delhi to Agra quickly, the bus takes the",
+            "options": [
+              "highway",
+              "village path"
+            ],
+            "after": ".",
+            "a": "highway"
+          },
+          {
+            "before": "An e-rickshaw runs on a",
+            "options": [
+              "battery",
+              "sail"
+            ],
+            "after": ".",
+            "a": "battery"
+          },
+          {
+            "before": "A bus with 35 seats can take",
+            "options": [
+              "35",
+              "50"
+            ],
+            "after": "children sitting down.",
+            "a": "35"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "2 buses with 35 children each carry more than 60 children.",
+            "a": true
+          },
+          {
+            "q": "A bus that leaves at 6 o'clock and arrives at 10 o'clock takes 3 hours.",
+            "a": false
+          },
+          {
+            "q": "5 e-rickshaws with 4 children in each carry 20 children.",
+            "a": true
+          },
+          {
+            "q": "Two ₹50 tickets cost more than one ₹120 ticket.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Is it better to go to Agra by bus or by bicycle? Write why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. By bus, because Agra is far and the bus is faster and can carry the whole class."
+      }
+    ]
+  },
+  {
+    "id": "transport-14",
+    "topic": "transport",
+    "number": 14,
+    "level": "Challenge",
+    "title": "A Visit to the Rail Museum",
+    "intro": "Sana and Ethan visit the National Rail Museum in Delhi. They see old steam engines and learn how transport has changed.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Which came first? Circle it.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The",
+            "options": [
+              "steam engine",
+              "electric train"
+            ],
+            "after": "came first.",
+            "a": "steam engine"
+          },
+          {
+            "before": "The",
+            "options": [
+              "hot air balloon",
+              "jet plane"
+            ],
+            "after": "came first.",
+            "a": "hot air balloon"
+          },
+          {
+            "before": "The",
+            "options": [
+              "bicycle",
+              "motorbike"
+            ],
+            "after": "came first.",
+            "a": "bicycle"
+          },
+          {
+            "before": "The",
+            "options": [
+              "rowing boat",
+              "steamship"
+            ],
+            "after": "came first.",
+            "a": "rowing boat"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A steam engine burns ___ to boil water.",
+            "a": "coal / wood"
+          },
+          {
+            "q": "Old steam engines puffed out black ___.",
+            "a": "smoke"
+          },
+          {
+            "q": "Today many trains run on ___.",
+            "a": "electricity"
+          },
+          {
+            "q": "The fastest trains today are called ___ trains.",
+            "a": "bullet / high-speed"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the transport.",
+        "marks": 4,
+        "groups": [
+          "Long ago",
+          "Today"
+        ],
+        "words": [
+          "electric scooter",
+          "palanquin",
+          "jumbo jet",
+          "bullet train",
+          "horse-drawn tram",
+          "monorail",
+          "hand-pulled cart",
+          "sailing ship"
+        ],
+        "a": {
+          "palanquin": "Long ago",
+          "horse-drawn tram": "Long ago",
+          "hand-pulled cart": "Long ago",
+          "sailing ship": "Long ago",
+          "bullet train": "Today",
+          "electric scooter": "Today",
+          "jumbo jet": "Today",
+          "monorail": "Today"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Steam engines needed water to work.",
+            "a": true
+          },
+          {
+            "q": "A palanquin was carried by people.",
+            "a": true
+          },
+          {
+            "q": "Long ago, traders sailed between India and the Gulf in dhows.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way travel today is better than long ago.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. It is faster, safer and more comfortable; we can go far in a few hours."
+      }
+    ]
+  },
+  {
+    "id": "transport-15",
+    "topic": "transport",
+    "number": 15,
+    "level": "Challenge",
+    "title": "The Transport Quiz Show",
+    "intro": "Bilal and Freya are in the final of the school transport quiz. Answer every round to win the cup.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write land, water or air.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "tractor",
+            "a": "land"
+          },
+          {
+            "q": "jet ski",
+            "a": "water"
+          },
+          {
+            "q": "paraglider",
+            "a": "air"
+          },
+          {
+            "q": "lorry",
+            "a": "land"
+          },
+          {
+            "q": "catamaran",
+            "a": "water"
+          },
+          {
+            "q": "airship",
+            "a": "air"
+          },
+          {
+            "q": "camel",
+            "a": "land"
+          },
+          {
+            "q": "speedboat",
+            "a": "water"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Pick the best transport.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "A town with canals and no roads needs",
+            "options": [
+              "boats",
+              "buses"
+            ],
+            "after": ".",
+            "a": "boats"
+          },
+          {
+            "before": "To get a sick person from an island fast, use an",
+            "options": [
+              "air ambulance",
+              "bullock cart"
+            ],
+            "after": ".",
+            "a": "air ambulance"
+          },
+          {
+            "before": "A rocket needs",
+            "options": [
+              "fuel",
+              "sails"
+            ],
+            "after": "to go into space.",
+            "a": "fuel"
+          },
+          {
+            "before": "For a short trip, a bicycle is good because it is",
+            "options": [
+              "cheap and clean",
+              "noisy and smoky"
+            ],
+            "after": ".",
+            "a": "cheap and clean"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each vehicle to what makes it move.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Sailboat",
+            "right": "wind"
+          },
+          {
+            "left": "Electric car",
+            "right": "battery"
+          },
+          {
+            "left": "Bicycle",
+            "right": "leg power"
+          },
+          {
+            "left": "Steam engine",
+            "right": "burning coal"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Bilal's team scores 8 points, then 7 more. Freya's team scores 12. Bilal's team wins by ___ points.",
+            "a": "3"
+          },
+          {
+            "q": "A ferry makes 3 trips a day with 20 people each time. It carries ___ people a day.",
+            "a": "60"
+          },
+          {
+            "q": "A taxi ride costs ₹90. Freya pays with a ₹100 note. She gets ₹___ back.",
+            "a": "10"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Invent a new kind of transport. Write what it is and how it moves.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. A flying bus that runs on sunlight. Check it says how it moves."
+      }
+    ]
   }
 ]

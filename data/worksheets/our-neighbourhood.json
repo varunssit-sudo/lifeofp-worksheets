@@ -604,5 +604,1228 @@
         "a": "Answers will vary, e.g. \"I play in the park. I buy fruit at the market.\""
       }
     ]
+  },
+  {
+    "id": "our-neighbourhood-06",
+    "topic": "our-neighbourhood",
+    "number": 6,
+    "level": "Practice",
+    "title": "Saturday Errands in Bur Dubai",
+    "intro": "Kabir goes out with his dad on Saturday. They have many jobs to do in their neighbourhood.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the shop or place for each job.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "to stitch a new kurta",
+            "a": "tailor / tailor shop"
+          },
+          {
+            "q": "to wash and iron clothes",
+            "a": "laundry"
+          },
+          {
+            "q": "to fix a flat tyre",
+            "a": "garage / tyre shop"
+          },
+          {
+            "q": "to buy glue and crayons",
+            "a": "stationery shop"
+          },
+          {
+            "q": "to buy roses for Mum",
+            "a": "florist / flower shop"
+          },
+          {
+            "q": "to buy a hammer and nails",
+            "a": "hardware shop"
+          },
+          {
+            "q": "to get a tooth checked",
+            "a": "dentist / dental clinic"
+          },
+          {
+            "q": "to buy a gold ring",
+            "a": "jeweller / jewellery shop"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct place.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Dad's watch has stopped. He takes it to the",
+            "options": [
+              "watch shop",
+              "fish market"
+            ],
+            "after": "to be fixed.",
+            "a": "watch shop"
+          },
+          {
+            "before": "Kabir's school shoes are torn. Dad takes them to the",
+            "options": [
+              "cobbler",
+              "baker"
+            ],
+            "after": "on the corner.",
+            "a": "cobbler"
+          },
+          {
+            "before": "They need a new phone charger from the",
+            "options": [
+              "mobile shop",
+              "laundry"
+            ],
+            "after": ".",
+            "a": "mobile shop"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A tailor sells medicines.",
+            "a": false
+          },
+          {
+            "q": "We can buy fresh fish at the fish market.",
+            "a": true
+          },
+          {
+            "q": "A garage is a place where cars are repaired.",
+            "a": true
+          },
+          {
+            "q": "A florist sells pens and notebooks.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one job your family did at a shop this week.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"We bought vegetables at the market.\""
+      }
+    ]
+  },
+  {
+    "id": "our-neighbourhood-07",
+    "topic": "our-neighbourhood",
+    "number": 7,
+    "level": "Practice",
+    "title": "A Ride on the Dubai Metro",
+    "intro": "Mira and her grandma take the metro to visit her aunt. They walk past many places on the way.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each way to travel to where it stops.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "metro train",
+            "right": "metro station"
+          },
+          {
+            "left": "ship",
+            "right": "port"
+          },
+          {
+            "left": "taxi",
+            "right": "taxi stand"
+          },
+          {
+            "left": "auto-rickshaw",
+            "right": "auto stand"
+          },
+          {
+            "left": "water taxi",
+            "right": "jetty"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Mira taps her travel",
+            "options": [
+              "card",
+              "spoon"
+            ],
+            "after": "at the gate.",
+            "a": "card"
+          },
+          {
+            "before": "On the metro, Mira gives her seat to an",
+            "options": [
+              "older person",
+              "big suitcase"
+            ],
+            "after": ".",
+            "a": "older person"
+          },
+          {
+            "before": "They wait behind the",
+            "options": [
+              "yellow line",
+              "green door"
+            ],
+            "after": "for the train.",
+            "a": "yellow line"
+          },
+          {
+            "before": "To go up to the platform, they take the",
+            "options": [
+              "escalator",
+              "slide"
+            ],
+            "after": ".",
+            "a": "escalator"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Many people can travel together in a metro train.",
+            "a": true
+          },
+          {
+            "q": "We should push to get into the train first.",
+            "a": false
+          },
+          {
+            "q": "We let people get off before we get on.",
+            "a": true
+          },
+          {
+            "q": "A metro station is a good place to play football.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Mira's family parks the car in the car ___.",
+            "a": "park / parking"
+          },
+          {
+            "q": "Big ships stop at the ___ to load goods.",
+            "a": "port"
+          },
+          {
+            "q": "Mira looks at the ___ on the wall to find the right stop.",
+            "a": "map"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "How do you go to school? Write one line.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"I go to school by school bus.\""
+      }
+    ]
+  },
+  {
+    "id": "our-neighbourhood-08",
+    "topic": "our-neighbourhood",
+    "number": 8,
+    "level": "Practice",
+    "title": "Helpers on Our Street in Chennai",
+    "intro": "Every day many helpers come to Lakshmi's street in Chennai. They make life easy for everyone.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each helper to the job they do.",
+        "marks": 6,
+        "items": [
+          {
+            "left": "milkman",
+            "right": "brings milk to our homes"
+          },
+          {
+            "left": "plumber",
+            "right": "fixes leaking taps and pipes"
+          },
+          {
+            "left": "electrician",
+            "right": "repairs fans and lights"
+          },
+          {
+            "left": "carpenter",
+            "right": "makes and fixes wooden things"
+          },
+          {
+            "left": "garbage collector",
+            "right": "takes away rubbish"
+          },
+          {
+            "left": "security guard",
+            "right": "keeps our building safe"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the helper.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The ___ brings letters and parcels to our door.",
+            "a": "postman / postwoman / courier"
+          },
+          {
+            "q": "The ___ sells vegetables from a cart.",
+            "a": "vegetable seller / vegetable vendor / vendor"
+          },
+          {
+            "q": "The ___ sweeps the street every morning.",
+            "a": "sweeper / cleaner"
+          },
+          {
+            "q": "The ___ drops the newspaper at our gate.",
+            "a": "newspaper boy / paperboy / newspaper vendor"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the tools to the helper who uses them.",
+        "marks": 6,
+        "groups": [
+          "Carpenter",
+          "Electrician"
+        ],
+        "words": [
+          "chisel",
+          "switch",
+          "wood glue",
+          "wire",
+          "saw",
+          "bulb"
+        ],
+        "a": {
+          "saw": "Carpenter",
+          "wood glue": "Carpenter",
+          "chisel": "Carpenter",
+          "wire": "Electrician",
+          "bulb": "Electrician",
+          "switch": "Electrician"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We should say thank you to our helpers.",
+            "a": true
+          },
+          {
+            "q": "A plumber fixes broken teeth.",
+            "a": false
+          },
+          {
+            "q": "Helpers in our neighbourhood work hard for us.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a thank-you line to one helper on your street.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"Thank you, Uncle, for bringing our milk every day.\""
+      }
+    ]
+  },
+  {
+    "id": "our-neighbourhood-09",
+    "topic": "our-neighbourhood",
+    "number": 9,
+    "level": "Practice",
+    "title": "Finding the Way on Rose Lane in Jaipur",
+    "intro": "Look at Rose Lane in Jaipur. The temple is next to the sweet shop. The police station is opposite the park. The school is between the bank and the library.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the lane. Fill in the place.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The temple is next to the ___.",
+            "a": "sweet shop"
+          },
+          {
+            "q": "The ___ is opposite the park.",
+            "a": "police station"
+          },
+          {
+            "q": "The school is between the bank and the ___.",
+            "a": "library"
+          },
+          {
+            "q": "The ___ is next to the sweet shop.",
+            "a": "temple"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The school is",
+            "options": [
+              "between",
+              "behind"
+            ],
+            "after": "the bank and the library.",
+            "a": "between"
+          },
+          {
+            "before": "The sweet shop is",
+            "options": [
+              "next to",
+              "far from"
+            ],
+            "after": "the temple.",
+            "a": "next to"
+          },
+          {
+            "before": "To walk from the bank to the library, we pass the",
+            "options": [
+              "school",
+              "temple"
+            ],
+            "after": ".",
+            "a": "school"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A map shows where places are.",
+            "a": true
+          },
+          {
+            "q": "A map shows places as if we look from above.",
+            "a": true
+          },
+          {
+            "q": "A map shows the noise on the street.",
+            "a": false
+          },
+          {
+            "q": "Small signs on a map can stand for places, like a cross for a hospital.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each word to its meaning.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "opposite",
+            "right": "facing, on the other side"
+          },
+          {
+            "left": "next to",
+            "right": "right beside"
+          },
+          {
+            "left": "between",
+            "right": "in the middle of two things"
+          },
+          {
+            "left": "far",
+            "right": "a long way away"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write what is next to your home.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"A grocery shop is next to my building.\""
+      }
+    ]
+  },
+  {
+    "id": "our-neighbourhood-10",
+    "topic": "our-neighbourhood",
+    "number": 10,
+    "level": "Practice",
+    "title": "Clean-Up Day in Our Colony",
+    "intro": "On Sunday the families of Shanti Nagar in Pune clean their colony. Wet waste goes in the green bin and dry waste in the blue bin.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the waste into the right bin.",
+        "marks": 8,
+        "groups": [
+          "Wet waste (green bin)",
+          "Dry waste (blue bin)"
+        ],
+        "words": [
+          "plastic bottle",
+          "banana peel",
+          "tin can",
+          "newspaper",
+          "tea leaves",
+          "cardboard box",
+          "eggshells",
+          "leftover rice"
+        ],
+        "a": {
+          "banana peel": "Wet waste (green bin)",
+          "tea leaves": "Wet waste (green bin)",
+          "eggshells": "Wet waste (green bin)",
+          "leftover rice": "Wet waste (green bin)",
+          "newspaper": "Dry waste (blue bin)",
+          "plastic bottle": "Dry waste (blue bin)",
+          "tin can": "Dry waste (blue bin)",
+          "cardboard box": "Dry waste (blue bin)"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Kiran picks up litter with",
+            "options": [
+              "gloves",
+              "bare feet"
+            ],
+            "after": "on.",
+            "a": "gloves"
+          },
+          {
+            "before": "We should",
+            "options": [
+              "throw",
+              "never throw"
+            ],
+            "after": "rubbish on the road.",
+            "a": "never throw"
+          },
+          {
+            "before": "Old newspapers can be",
+            "options": [
+              "recycled",
+              "eaten"
+            ],
+            "after": ".",
+            "a": "recycled"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Planting trees makes our neighbourhood green.",
+            "a": true
+          },
+          {
+            "q": "Spitting on the road is a good habit.",
+            "a": false
+          },
+          {
+            "q": "A clean colony keeps away flies and mosquitoes.",
+            "a": true
+          },
+          {
+            "q": "We should cover the dustbin with a lid.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Peels and leftover food go in the ___ bin.",
+            "a": "green"
+          },
+          {
+            "q": "We should ___ the tap after use to save water.",
+            "a": "close / turn off / shut"
+          },
+          {
+            "q": "We take a cloth bag to the shop instead of a plastic ___.",
+            "a": "bag"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways to keep your neighbourhood clean.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. use the dustbin, do not litter, plant trees, pick up rubbish, separate wet and dry waste."
+      }
+    ]
+  },
+  {
+    "id": "our-neighbourhood-11",
+    "topic": "our-neighbourhood",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Who Helps Us at Al Nahda?",
+    "intro": "Some problems happen in Noor's neighbourhood in Al Nahda. Think about who can help and where to go.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the best place to go.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Noor's kitten has a hurt paw. Take it to the",
+            "options": [
+              "vet",
+              "salon"
+            ],
+            "after": ".",
+            "a": "vet"
+          },
+          {
+            "before": "Smoke is coming from a shop. Call the",
+            "options": [
+              "fire station",
+              "bakery"
+            ],
+            "after": "at once.",
+            "a": "fire station"
+          },
+          {
+            "before": "Dad finds a lost wallet on the road. He takes it to the",
+            "options": [
+              "police station",
+              "laundry"
+            ],
+            "after": ".",
+            "a": "police station"
+          },
+          {
+            "before": "Grandpa needs new glasses. He goes to the",
+            "options": [
+              "optician",
+              "tailor"
+            ],
+            "after": ".",
+            "a": "optician"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each problem to the helper.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "water is dripping from the pipe",
+            "right": "plumber"
+          },
+          {
+            "left": "the fan will not switch on",
+            "right": "electrician"
+          },
+          {
+            "left": "the cupboard door is broken",
+            "right": "carpenter"
+          },
+          {
+            "left": "a man has fallen and hurt his leg",
+            "right": "doctor"
+          },
+          {
+            "left": "a car is stuck with a flat tyre",
+            "right": "mechanic"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Think and fill in the place.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The doctor writes a note for Noor's cough medicine. She buys it at the ___.",
+            "a": "pharmacy / chemist"
+          },
+          {
+            "q": "Mum wants to send money to Grandma in Kerala. She goes to the ___.",
+            "a": "bank / exchange"
+          },
+          {
+            "q": "Noor needs a book for her project. She borrows it from the ___.",
+            "a": "library"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Firefighters help when there is a fire.",
+            "a": true
+          },
+          {
+            "q": "We should go to the police station to buy bread.",
+            "a": false
+          },
+          {
+            "q": "A vet is a doctor for animals.",
+            "a": true
+          },
+          {
+            "q": "We should play a joke and call the fire station for fun.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "You are lost in a big mall. Whom will you ask for help?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. a security guard, a shop worker at the counter, or a police officer; stay in one place."
+      }
+    ]
+  },
+  {
+    "id": "our-neighbourhood-12",
+    "topic": "our-neighbourhood",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Spot the Mistakes in Rahul's Diary",
+    "intro": "Rahul from Lucknow wrote about his week, but he mixed up some places. Help him fix his diary.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Each sentence has the wrong place. Write it correctly.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "I went to the bakery to post a letter.",
+            "a": "I went to the post office to post a letter."
+          },
+          {
+            "q": "We bought medicines at the cinema.",
+            "a": "We bought medicines at the pharmacy."
+          },
+          {
+            "q": "The firefighters drove out of the bank.",
+            "a": "The firefighters drove out of the fire station."
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Find the odd one out.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "bakery, sweet shop, bank, cake shop",
+            "a": "bank"
+          },
+          {
+            "q": "mosque, temple, church, market",
+            "a": "market"
+          },
+          {
+            "q": "doctor, nurse, chef, dentist",
+            "a": "chef"
+          },
+          {
+            "q": "bus, metro, train, tailor",
+            "a": "tailor"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Is Rahul right? Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "\"I borrowed a book from the library and must return it.\"",
+            "a": true
+          },
+          {
+            "q": "\"The librarian cut my hair.\"",
+            "a": false
+          },
+          {
+            "q": "\"I saw a train at the railway station.\"",
+            "a": true
+          },
+          {
+            "q": "\"The gurudwara is a place where Sikhs pray.\"",
+            "a": true
+          },
+          {
+            "q": "\"We keep our money safe at the bus stop.\"",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A",
+            "options": [
+              "clinic",
+              "cinema"
+            ],
+            "after": "is a small hospital.",
+            "a": "clinic"
+          },
+          {
+            "before": "A place where many shops are under one roof is a",
+            "options": [
+              "mall",
+              "field"
+            ],
+            "after": ".",
+            "a": "mall"
+          },
+          {
+            "before": "A",
+            "options": [
+              "museum",
+              "garage"
+            ],
+            "after": "shows old and special things.",
+            "a": "museum"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a place you visited this week.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary. Check the place and what was done there go together, e.g. \"I bought apples at the market.\""
+      }
+    ]
+  },
+  {
+    "id": "our-neighbourhood-13",
+    "topic": "our-neighbourhood",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Planning Maya's Birthday Party in Abu Dhabi",
+    "intro": "Maya is turning eight. She and her mum must visit four places in their neighbourhood to get ready.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write where Maya should go for each thing.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "a chocolate cake",
+            "a": "bakery / cake shop"
+          },
+          {
+            "q": "balloons and party hats",
+            "a": "party shop / gift shop"
+          },
+          {
+            "q": "invitation cards",
+            "a": "stationery shop"
+          },
+          {
+            "q": "a hall for the party",
+            "a": "community hall"
+          },
+          {
+            "q": "juice and snacks",
+            "a": "supermarket / grocery shop"
+          },
+          {
+            "q": "a new dress",
+            "a": "clothes shop / tailor"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Read and fill in.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Maya needs ___ candles for her eighth birthday.",
+            "a": "8 / eight"
+          },
+          {
+            "q": "They walk to the supermarket because it is ___ their home.",
+            "a": "near / next to"
+          },
+          {
+            "q": "Maya posts a card to her cousin in Mumbai from the ___.",
+            "a": "post office"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The party hall is far away. Maya's family goes there by",
+            "options": [
+              "car",
+              "walking"
+            ],
+            "after": ".",
+            "a": "car"
+          },
+          {
+            "before": "After the party, they put the paper plates in the",
+            "options": [
+              "dustbin",
+              "park"
+            ],
+            "after": ".",
+            "a": "dustbin"
+          },
+          {
+            "before": "Maya invites the girl who lives next door. She is Maya's",
+            "options": [
+              "neighbour",
+              "teacher"
+            ],
+            "after": ".",
+            "a": "neighbour"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A community hall is a place where people meet for parties and events.",
+            "a": true
+          },
+          {
+            "q": "We buy cakes at a hardware shop.",
+            "a": false
+          },
+          {
+            "q": "Inviting neighbours to a party is a friendly thing to do.",
+            "a": true
+          },
+          {
+            "q": "Maya should leave the party rubbish in the park.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two places you would visit to plan a party.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Any two, e.g. bakery, supermarket, party shop, stationery shop, community hall."
+      }
+    ]
+  },
+  {
+    "id": "our-neighbourhood-14",
+    "topic": "our-neighbourhood",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Visiting Cousins in a Kerala Village",
+    "intro": "Arjun lives in a tall building in Dubai. In the holidays he visits his cousins in a village near Alappuzha.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the things into Village and City.",
+        "marks": 8,
+        "groups": [
+          "Village",
+          "City"
+        ],
+        "words": [
+          "tall buildings",
+          "paddy fields",
+          "shopping mall",
+          "metro",
+          "well",
+          "busy roads",
+          "bullock cart",
+          "small huts"
+        ],
+        "a": {
+          "paddy fields": "Village",
+          "well": "Village",
+          "bullock cart": "Village",
+          "small huts": "Village",
+          "metro": "City",
+          "tall buildings": "City",
+          "shopping mall": "City",
+          "busy roads": "City"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "In the village, Arjun's cousins get water from a",
+            "options": [
+              "well",
+              "mall"
+            ],
+            "after": ".",
+            "a": "well"
+          },
+          {
+            "before": "Arjun's city has",
+            "options": [
+              "more",
+              "fewer"
+            ],
+            "after": "cars than the village.",
+            "a": "more"
+          },
+          {
+            "before": "The village air is fresh because there are many",
+            "options": [
+              "trees",
+              "factories"
+            ],
+            "after": ".",
+            "a": "trees"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A village is usually quieter than a city.",
+            "a": true
+          },
+          {
+            "q": "Many people in villages grow crops.",
+            "a": true
+          },
+          {
+            "q": "A city has fewer people than a village.",
+            "a": false
+          },
+          {
+            "q": "People in both villages and cities need schools and hospitals.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each place to what it is like.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "village",
+            "right": "fields, ponds and small homes"
+          },
+          {
+            "left": "city",
+            "right": "big roads, malls and tall towers"
+          },
+          {
+            "left": "market",
+            "right": "busy, with many sellers"
+          },
+          {
+            "left": "beach",
+            "right": "sand and sea, for a day out"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way a village is different from a city.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"A village has fields, but a city has tall buildings.\""
+      }
+    ]
+  },
+  {
+    "id": "our-neighbourhood-15",
+    "topic": "our-neighbourhood",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Our Ajman Neighbourhood Newsletter",
+    "intro": "Read the news. The new library on Palm Street opened on Monday. Next to it is a small clinic. The park now has a cycling track. The neighbours planted twenty trees on Sunday.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the news and fill in.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The new ___ opened on Monday.",
+            "a": "library"
+          },
+          {
+            "q": "A small clinic is next to the ___.",
+            "a": "library"
+          },
+          {
+            "q": "The park now has a cycling ___.",
+            "a": "track"
+          },
+          {
+            "q": "The neighbours planted trees on ___.",
+            "a": "Sunday"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the places by what they do.",
+        "marks": 9,
+        "groups": [
+          "Learn",
+          "Buy",
+          "Get help"
+        ],
+        "words": [
+          "market",
+          "hospital",
+          "bakery",
+          "school",
+          "fire station",
+          "library",
+          "museum",
+          "mall",
+          "police station"
+        ],
+        "a": {
+          "school": "Learn",
+          "library": "Learn",
+          "museum": "Learn",
+          "market": "Buy",
+          "bakery": "Buy",
+          "mall": "Buy",
+          "hospital": "Get help",
+          "police station": "Get help",
+          "fire station": "Get help"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The neighbours planted trees to make the street",
+            "options": [
+              "greener",
+              "dirtier"
+            ],
+            "after": ".",
+            "a": "greener"
+          },
+          {
+            "before": "Children can ride",
+            "options": [
+              "bicycles",
+              "camels"
+            ],
+            "after": "on the new track.",
+            "a": "bicycles"
+          },
+          {
+            "before": "If you feel unwell, the nearest place is the",
+            "options": [
+              "clinic",
+              "museum"
+            ],
+            "after": ".",
+            "a": "clinic"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The library is next to the clinic.",
+            "a": true
+          },
+          {
+            "q": "The news says a new mall opened.",
+            "a": false
+          },
+          {
+            "q": "Good neighbours work together to make their area better.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one news line about your neighbourhood.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"A new fruit shop opened near our building.\""
+      }
+    ]
   }
 ]

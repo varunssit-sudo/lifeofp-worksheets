@@ -659,5 +659,1182 @@
         "a": "Any one, e.g. to call their babies, to warn of danger, to find friends, to show they are angry or hungry."
       }
     ]
+  },
+  {
+    "id": "animal-sounds-06",
+    "topic": "animal-sounds",
+    "number": 6,
+    "level": "Practice",
+    "title": "The Bird Park in Hyderabad",
+    "intro": "Sana and Oliver walk through a big bird park. Every bird makes its own sound.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the bird to its sound.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "peacock",
+            "right": "screams"
+          },
+          {
+            "left": "goose",
+            "right": "honks"
+          },
+          {
+            "left": "turkey",
+            "right": "gobbles"
+          },
+          {
+            "left": "eagle",
+            "right": "screeches"
+          },
+          {
+            "left": "koel",
+            "right": "sings"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct sound.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The goose",
+            "options": [
+              "honks",
+              "purrs"
+            ],
+            "after": "at the visitors.",
+            "a": "honks"
+          },
+          {
+            "before": "The koel",
+            "options": [
+              "sings",
+              "bellows"
+            ],
+            "after": "in the mango tree.",
+            "a": "sings"
+          },
+          {
+            "before": "The turkey",
+            "options": [
+              "gobbles",
+              "barks"
+            ],
+            "after": "as it walks.",
+            "a": "gobbles"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Different birds make different sounds.",
+            "a": true
+          },
+          {
+            "q": "A goose honks.",
+            "a": true
+          },
+          {
+            "q": "A turkey moos.",
+            "a": false
+          },
+          {
+            "q": "Birds sing and call to talk to other birds.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The eagle ___ high up in the sky.",
+            "a": "screeches"
+          },
+          {
+            "q": "A peacock ___ loudly from the tree.",
+            "a": "screams / calls"
+          },
+          {
+            "q": "Oliver hears the koel ___ at dawn.",
+            "a": "sing / singing"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write the sound of one bird you have heard.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"A crow caws.\" or \"A sparrow chirps.\""
+      }
+    ]
+  },
+  {
+    "id": "animal-sounds-07",
+    "topic": "animal-sounds",
+    "number": 7,
+    "level": "Practice",
+    "title": "Story Time with Grandpa",
+    "intro": "Grandpa reads Aisha an animal story in Lucknow. He makes a sound for every animal.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Grandpa says the sound. Write the action word.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "woof",
+            "a": "barks"
+          },
+          {
+            "q": "baa",
+            "a": "bleats"
+          },
+          {
+            "q": "oink",
+            "a": "grunts"
+          },
+          {
+            "q": "neigh",
+            "a": "neighs"
+          },
+          {
+            "q": "ribbit",
+            "a": "croaks"
+          },
+          {
+            "q": "tweet",
+            "a": "chirps"
+          },
+          {
+            "q": "hiss",
+            "a": "hisses"
+          },
+          {
+            "q": "moo",
+            "a": "moos"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the sound word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The duck in the story says",
+            "options": [
+              "quack",
+              "buzz"
+            ],
+            "after": ".",
+            "a": "quack"
+          },
+          {
+            "before": "The bee in the story says",
+            "options": [
+              "buzz",
+              "woof"
+            ],
+            "after": ".",
+            "a": "buzz"
+          },
+          {
+            "before": "The cat in the story says",
+            "options": [
+              "meow",
+              "oink"
+            ],
+            "after": ".",
+            "a": "meow"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the sound to the animal.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "cock-a-doodle-doo",
+            "right": "rooster"
+          },
+          {
+            "left": "hee-haw",
+            "right": "donkey"
+          },
+          {
+            "left": "squeak",
+            "right": "mouse"
+          },
+          {
+            "left": "hoo-hoo",
+            "right": "owl"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a sound word for your favourite animal.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"woof\" for a dog, \"moo\" for a cow."
+      }
+    ]
+  },
+  {
+    "id": "animal-sounds-08",
+    "topic": "animal-sounds",
+    "number": 8,
+    "level": "Practice",
+    "title": "A Camel Ride in the Desert",
+    "intro": "Khalid and Mia ride camels at a desert farm near Al Dhaid. They hear many animal sounds.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the sounds.",
+        "marks": 6,
+        "groups": [
+          "Loud sounds",
+          "Soft sounds"
+        ],
+        "words": [
+          "a mouse's squeak",
+          "a lion's roar",
+          "a dove's coo",
+          "a cat's purr",
+          "a donkey's bray",
+          "an elephant's trumpet"
+        ],
+        "a": {
+          "a lion's roar": "Loud sounds",
+          "a donkey's bray": "Loud sounds",
+          "an elephant's trumpet": "Loud sounds",
+          "a cat's purr": "Soft sounds",
+          "a mouse's squeak": "Soft sounds",
+          "a dove's coo": "Soft sounds"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct sound.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The camel",
+            "options": [
+              "grunts",
+              "chirps"
+            ],
+            "after": "when it sits down.",
+            "a": "grunts"
+          },
+          {
+            "before": "The falcon",
+            "options": [
+              "screeches",
+              "moos"
+            ],
+            "after": "in the sky.",
+            "a": "screeches"
+          },
+          {
+            "before": "The goats",
+            "options": [
+              "bleat",
+              "quack"
+            ],
+            "after": "in their pen.",
+            "a": "bleat"
+          },
+          {
+            "before": "Khalid's dog",
+            "options": [
+              "growls",
+              "coos"
+            ],
+            "after": "at a stray cat.",
+            "a": "growls"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A camel can make loud grunting sounds.",
+            "a": true
+          },
+          {
+            "q": "A purring cat makes a soft sound.",
+            "a": true
+          },
+          {
+            "q": "A donkey's bray is very quiet.",
+            "a": false
+          },
+          {
+            "q": "A falcon is a bird.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The donkey ___ when it wants food.",
+            "a": "brays"
+          },
+          {
+            "q": "The farm cat ___ softly on Mia's lap.",
+            "a": "purrs"
+          },
+          {
+            "q": "A ___ coos on the roof of the tent.",
+            "a": "dove / pigeon"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one loud and one soft animal sound.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. A lion roars (loud). A cat purrs (soft)."
+      }
+    ]
+  },
+  {
+    "id": "animal-sounds-09",
+    "topic": "animal-sounds",
+    "number": 9,
+    "level": "Practice",
+    "title": "Feeding Time at a Farm Stay in Coorg",
+    "intro": "Rohan and Isla help feed the animals at a farm stay. The animals are hungry and noisy.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the sound each animal makes.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "bull",
+            "a": "bellows"
+          },
+          {
+            "q": "piglet",
+            "a": "squeals"
+          },
+          {
+            "q": "lamb",
+            "a": "bleats"
+          },
+          {
+            "q": "duck",
+            "a": "quacks"
+          },
+          {
+            "q": "horse",
+            "a": "neighs / whinnies"
+          },
+          {
+            "q": "cow",
+            "a": "moos / lows"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the sound to the reason.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "a hungry calf moos",
+            "right": "it wants milk"
+          },
+          {
+            "left": "a hen clucks",
+            "right": "she calls her chicks"
+          },
+          {
+            "left": "a dog barks at the gate",
+            "right": "a stranger is near"
+          },
+          {
+            "left": "a goose honks loudly",
+            "right": "it warns of danger"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Farm animals make sounds when they are hungry.",
+            "a": true
+          },
+          {
+            "q": "A bull bellows.",
+            "a": true
+          },
+          {
+            "q": "A piglet squeals.",
+            "a": true
+          },
+          {
+            "q": "A horse barks.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The cows ___ loudly at feeding time.",
+            "a": "moo / low"
+          },
+          {
+            "q": "Isla hears the piglets ___ in the sty.",
+            "a": "squeal"
+          },
+          {
+            "q": "The horse ___ when Rohan brings oats.",
+            "a": "neighs / whinnies"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "How can you tell an animal is hungry? Write one way.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. It makes loud sounds, follows you or waits by its bowl."
+      }
+    ]
+  },
+  {
+    "id": "animal-sounds-10",
+    "topic": "animal-sounds",
+    "number": 10,
+    "level": "Practice",
+    "title": "The School Play: Jungle Band",
+    "intro": "Class 2 in Sharjah puts on a play. Each child plays an animal and makes its sound.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Meher is the hyena. She",
+            "options": [
+              "laughs",
+              "moos"
+            ],
+            "after": "loudly.",
+            "a": "laughs"
+          },
+          {
+            "before": "Jai is the parrot. He",
+            "options": [
+              "squawks",
+              "bleats"
+            ],
+            "after": "on the branch.",
+            "a": "squawks"
+          },
+          {
+            "before": "Lina is the bear. She",
+            "options": [
+              "growls",
+              "chirps"
+            ],
+            "after": "at the hunters.",
+            "a": "growls"
+          },
+          {
+            "before": "Tom is the jackal. He",
+            "options": [
+              "howls",
+              "quacks"
+            ],
+            "after": "at the moon.",
+            "a": "howls"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A hyena makes a sound like laughing.",
+            "a": true
+          },
+          {
+            "q": "A bear growls.",
+            "a": true
+          },
+          {
+            "q": "A jackal clucks.",
+            "a": false
+          },
+          {
+            "q": "An elephant trumpets.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the sounds: wild animal or farm animal?",
+        "marks": 8,
+        "groups": [
+          "Wild animal",
+          "Farm animal"
+        ],
+        "words": [
+          "laugh",
+          "cluck",
+          "roar",
+          "howl",
+          "bleat",
+          "trumpet",
+          "moo",
+          "bray"
+        ],
+        "a": {
+          "roar": "Wild animal",
+          "howl": "Wild animal",
+          "trumpet": "Wild animal",
+          "laugh": "Wild animal",
+          "moo": "Farm animal",
+          "bleat": "Farm animal",
+          "cluck": "Farm animal",
+          "bray": "Farm animal"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with: roar, hiss, trumpet.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The tiger in the play gives a big ___.",
+            "a": "roar"
+          },
+          {
+            "q": "The snake makes a long ___.",
+            "a": "hiss"
+          },
+          {
+            "q": "The elephant lifts its trunk to ___.",
+            "a": "trumpet"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which animal would you like to play? Write its sound.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"I would be a lion. A lion roars.\""
+      }
+    ]
+  },
+  {
+    "id": "animal-sounds-11",
+    "topic": "animal-sounds",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Picture Book with Mistakes",
+    "intro": "Ira finds mistakes in her little brother's picture book in Pune. Help her fix them.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Correct the mistake. Write the sentence again.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "The frog barks in the pond.",
+            "a": "The frog croaks in the pond."
+          },
+          {
+            "q": "The pig neighs in the mud.",
+            "a": "The pig grunts in the mud. / The pig oinks in the mud."
+          },
+          {
+            "q": "The owl moos at night.",
+            "a": "The owl hoots at night."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Is the sentence correct? Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "The sheep bleats.",
+            "a": true
+          },
+          {
+            "q": "The crow hoots.",
+            "a": false
+          },
+          {
+            "q": "The mosquito hums.",
+            "a": true
+          },
+          {
+            "q": "The parrot brays.",
+            "a": false
+          },
+          {
+            "q": "The tiger growls.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the odd one out.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The animal that does not buzz is the",
+            "options": [
+              "bee",
+              "fly",
+              "cow"
+            ],
+            "after": ".",
+            "a": "cow"
+          },
+          {
+            "before": "The sound that is not a bird sound is",
+            "options": [
+              "chirp",
+              "caw",
+              "bray"
+            ],
+            "after": ".",
+            "a": "bray"
+          },
+          {
+            "before": "The sound that is not an insect sound is",
+            "options": [
+              "hum",
+              "buzz",
+              "neigh"
+            ],
+            "after": ".",
+            "a": "neigh"
+          },
+          {
+            "before": "The quietest pet is the",
+            "options": [
+              "goldfish",
+              "dog",
+              "parrot"
+            ],
+            "after": ".",
+            "a": "goldfish"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a new sentence for the book with a correct animal sound.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. \"The donkey brays at the farm.\""
+      }
+    ]
+  },
+  {
+    "id": "animal-sounds-12",
+    "topic": "animal-sounds",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Dolphin Watching off Goa",
+    "intro": "Kabir and Anika take a boat out to sea. Dolphins jump and click near the boat.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Dolphins make clicking and whistling sounds.",
+            "a": true
+          },
+          {
+            "q": "Dolphins use sounds to talk to each other.",
+            "a": true
+          },
+          {
+            "q": "Some whales sing long songs under the sea.",
+            "a": true
+          },
+          {
+            "q": "Fish moo under the water.",
+            "a": false
+          },
+          {
+            "q": "Sound can travel through water.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct sound.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A seagull",
+            "options": [
+              "squawks",
+              "neighs"
+            ],
+            "after": "over the boat.",
+            "a": "squawks"
+          },
+          {
+            "before": "A mother dolphin",
+            "options": [
+              "whistles",
+              "brays"
+            ],
+            "after": "to call her baby.",
+            "a": "whistles"
+          },
+          {
+            "before": "The humpback whale",
+            "options": [
+              "sings",
+              "clucks"
+            ],
+            "after": "deep in the sea.",
+            "a": "sings"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the sound to the reason.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "a monkey screams",
+            "right": "to warn others of a leopard"
+          },
+          {
+            "left": "a cat hisses",
+            "right": "it is scared or angry"
+          },
+          {
+            "left": "a puppy whines",
+            "right": "it is hungry or lonely"
+          },
+          {
+            "left": "a lion roars",
+            "right": "to tell others this is its land"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Why do dolphins make sounds?",
+            "a": "e.g. To talk to each other, call their babies and find food."
+          },
+          {
+            "q": "How is a dolphin's sound different from a dog's sound?",
+            "a": "e.g. A dolphin clicks and whistles, but a dog barks."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "animal-sounds-13",
+    "topic": "animal-sounds",
+    "number": 13,
+    "level": "Challenge",
+    "title": "The Barking Dog Next Door",
+    "intro": "Every evening Max, the dog next door, barks at different things. Zainab in Dubai Marina tries to work out why.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match what Max does to what he may mean.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "barks loudly at the door",
+            "right": "a stranger is outside"
+          },
+          {
+            "left": "yaps and wags his tail",
+            "right": "he wants to play"
+          },
+          {
+            "left": "whines near his bowl",
+            "right": "he is hungry"
+          },
+          {
+            "left": "growls and shows his teeth",
+            "right": "he is angry, so stay away"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Animals use sounds to show how they feel.",
+            "a": true
+          },
+          {
+            "q": "A growling dog wants us to come close.",
+            "a": false
+          },
+          {
+            "q": "We should stay calm and still near a barking dog we do not know.",
+            "a": true
+          },
+          {
+            "q": "Only dogs use sounds to warn others.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A cat that hisses is",
+            "options": [
+              "scared",
+              "sleepy"
+            ],
+            "after": ".",
+            "a": "scared"
+          },
+          {
+            "before": "A cow moos loudly in the evening because she wants her",
+            "options": [
+              "calf",
+              "nest"
+            ],
+            "after": ".",
+            "a": "calf"
+          },
+          {
+            "before": "Birds chirp loudly when a cat comes near to",
+            "options": [
+              "warn others",
+              "sing a song"
+            ],
+            "after": ".",
+            "a": "warn others"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Max barks every time the doorbell rings. Why do you think he does this?",
+            "a": "e.g. He is telling his family that someone is at the door."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write what you would do if a dog growled at you.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Stand still, do not run or shout, slowly walk away and tell a grown-up."
+      }
+    ]
+  },
+  {
+    "id": "animal-sounds-14",
+    "topic": "animal-sounds",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Night Camp at Hatta",
+    "intro": "Riya and Daniel camp with their scout group in the Hatta hills. They lie in the tent and listen.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort: when do we mostly hear it?",
+        "marks": 8,
+        "groups": [
+          "At night",
+          "In the day"
+        ],
+        "words": [
+          "frog croaking",
+          "sparrow chirping",
+          "owl hooting",
+          "cricket chirping",
+          "bee buzzing",
+          "jackal howling",
+          "rooster crowing",
+          "crow cawing"
+        ],
+        "a": {
+          "owl hooting": "At night",
+          "cricket chirping": "At night",
+          "jackal howling": "At night",
+          "frog croaking": "At night",
+          "rooster crowing": "In the day",
+          "bee buzzing": "In the day",
+          "sparrow chirping": "In the day",
+          "crow cawing": "In the day"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Many animals awake at night use sounds to find each other.",
+            "a": true
+          },
+          {
+            "q": "A cricket chirps by rubbing its wings together.",
+            "a": true
+          },
+          {
+            "q": "An owl hoots mostly at noon.",
+            "a": false
+          },
+          {
+            "q": "A rooster crows at sunrise.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Guess who made the sound. Circle it.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Daniel hears a loud \"hoo-hoo\". It is an",
+            "options": [
+              "owl",
+              "ox"
+            ],
+            "after": ".",
+            "a": "owl"
+          },
+          {
+            "before": "A soft squeak near the cave is a",
+            "options": [
+              "bat",
+              "goat"
+            ],
+            "after": ".",
+            "a": "bat"
+          },
+          {
+            "before": "A long \"aooo\" far away is a",
+            "options": [
+              "jackal",
+              "hen"
+            ],
+            "after": ".",
+            "a": "jackal"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Owls have very good ___ to hunt in the dark.",
+            "a": "hearing / ears / eyes"
+          },
+          {
+            "q": "We should keep ___ at camp so we do not scare the animals.",
+            "a": "quiet"
+          },
+          {
+            "q": "The frogs ___ near the stream after dark.",
+            "a": "croak"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why do night animals use sounds to find each other? Write what you think.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. It is dark, so they cannot see well, but they can hear."
+      }
+    ]
+  },
+  {
+    "id": "animal-sounds-15",
+    "topic": "animal-sounds",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Riddle Time on Children's Day",
+    "intro": "On 14 November, Ms Rao gives Class 2 in Bhopal some animal sound riddles.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve the riddle.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "I have a long trunk and I trumpet. I am an ___.",
+            "a": "elephant"
+          },
+          {
+            "q": "I live in a hive and I buzz. I am a ___.",
+            "a": "bee"
+          },
+          {
+            "q": "I gallop fast and I neigh. I am a ___.",
+            "a": "horse"
+          },
+          {
+            "q": "I am green, I can copy words and I squawk. I am a ___.",
+            "a": "parrot"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the animal that makes the sound.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "brays",
+            "a": "donkey"
+          },
+          {
+            "q": "gobbles",
+            "a": "turkey"
+          },
+          {
+            "q": "quacks",
+            "a": "duck"
+          },
+          {
+            "q": "hoots",
+            "a": "owl"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct sound.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A squirrel",
+            "options": [
+              "chatters",
+              "bellows"
+            ],
+            "after": "from the tree.",
+            "a": "chatters"
+          },
+          {
+            "before": "A hungry baby bird",
+            "options": [
+              "cheeps",
+              "roars"
+            ],
+            "after": "in its nest.",
+            "a": "cheeps"
+          },
+          {
+            "before": "A lost goat",
+            "options": [
+              "bleats",
+              "honks"
+            ],
+            "after": "for its herd.",
+            "a": "bleats"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "All animals make the same sound.",
+            "a": false
+          },
+          {
+            "q": "Some animals make more than one sound.",
+            "a": true
+          },
+          {
+            "q": "A baby animal may cry out to call its mother.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A dog can bark, growl and whine. Write what one of these sounds means.",
+            "a": "e.g. A dog growls when it is angry."
+          },
+          {
+            "q": "Why should we not shout near animals?",
+            "a": "e.g. Loud noise can scare them."
+          }
+        ]
+      }
+    ]
   }
 ]

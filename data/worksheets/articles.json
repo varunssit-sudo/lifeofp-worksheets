@@ -639,5 +639,1287 @@
         ]
       }
     ]
+  },
+  {
+    "id": "articles-06",
+    "topic": "articles",
+    "number": 6,
+    "level": "Practice",
+    "title": "The Supermarket Trip",
+    "intro": "Nikhil and his Amma are shopping at the supermarket. Choose a or an.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write a or an.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "avocado",
+            "a": "an avocado"
+          },
+          {
+            "q": "carrot",
+            "a": "a carrot"
+          },
+          {
+            "q": "eggplant",
+            "a": "an eggplant"
+          },
+          {
+            "q": "loaf",
+            "a": "a loaf"
+          },
+          {
+            "q": "apricot",
+            "a": "an apricot"
+          },
+          {
+            "q": "melon",
+            "a": "a melon"
+          },
+          {
+            "q": "olive",
+            "a": "an olive"
+          },
+          {
+            "q": "yoghurt",
+            "a": "a yoghurt"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle a or an.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Amma picked",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "ice cream tub.",
+            "a": "an"
+          },
+          {
+            "before": "Nikhil pushed",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "trolley.",
+            "a": "a"
+          },
+          {
+            "before": "We bought",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "packet of oats.",
+            "a": "a"
+          },
+          {
+            "before": "The shop gave us",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "extra bag.",
+            "a": "an"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words: do they take a or an?",
+        "marks": 6,
+        "groups": [
+          "a",
+          "an"
+        ],
+        "words": [
+          "almond",
+          "bun",
+          "oat bar",
+          "jar",
+          "apple pie",
+          "coconut"
+        ],
+        "a": {
+          "almond": "an",
+          "bun": "a",
+          "oat bar": "an",
+          "jar": "a",
+          "apple pie": "an",
+          "coconut": "a"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a or an.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The cashier gave us ___ receipt.",
+            "a": "a"
+          },
+          {
+            "q": "There was ___ offer on mangoes.",
+            "a": "an"
+          },
+          {
+            "q": "We met ___ aunt from our building.",
+            "a": "an"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things you buy at a shop. Use a or an.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check correct a/an, e.g. \"a bag of rice and an orange.\""
+      }
+    ]
+  },
+  {
+    "id": "articles-07",
+    "topic": "articles",
+    "number": 7,
+    "level": "Practice",
+    "title": "A Day at Mysuru Zoo",
+    "intro": "We saw a tiger at the zoo. The tiger was asleep in the shade. Then we saw an emu. The emu ran very fast!",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in a, an or the.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "I saw a peacock. ___ peacock opened its tail.",
+            "a": "The"
+          },
+          {
+            "q": "Dad bought ___ map at the gate.",
+            "a": "a"
+          },
+          {
+            "q": "There was ___ ostrich near the fence.",
+            "a": "an"
+          },
+          {
+            "q": "We sat on a bench. ___ bench was wet.",
+            "a": "The"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Read the story. Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The first time, the story says",
+            "options": [
+              "a",
+              "the"
+            ],
+            "after": "tiger.",
+            "a": "a"
+          },
+          {
+            "before": "The second time, the story says",
+            "options": [
+              "a",
+              "the"
+            ],
+            "after": "tiger.",
+            "a": "the"
+          },
+          {
+            "before": "We watched",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "otter swim.",
+            "a": "an"
+          },
+          {
+            "before": "Mum took",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "photo of the giraffe.",
+            "a": "a"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We say \"a\" or \"an\" the first time we talk about something.",
+            "a": true
+          },
+          {
+            "q": "When we talk about the same thing again, we say \"the\".",
+            "a": true
+          },
+          {
+            "q": "We say \"an zebra\".",
+            "a": false
+          },
+          {
+            "q": "In the story, \"an emu\" is correct because e is a vowel.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Find the mistake and write it again.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "We saw a bear. A bear was eating honey.",
+            "a": "We saw a bear. The bear was eating honey."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a zoo animal. Use a, then the.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"I saw a monkey. The monkey ate a banana.\""
+      }
+    ]
+  },
+  {
+    "id": "articles-08",
+    "topic": "articles",
+    "number": 8,
+    "level": "Practice",
+    "title": "Aditi's Birthday Party",
+    "intro": "It is Aditi's birthday party. Look at the word just after a or an: an apple, but a red apple.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle a or an.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "Aditi got",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "big present.",
+            "a": "a"
+          },
+          {
+            "before": "Aditi got",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "orange balloon.",
+            "a": "an"
+          },
+          {
+            "before": "Grandma gave her",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "old music box.",
+            "a": "an"
+          },
+          {
+            "before": "Dad lit",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "tall candle.",
+            "a": "a"
+          },
+          {
+            "before": "Leo brought",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "amazing card.",
+            "a": "an"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write a or an.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "elephant cake",
+            "a": "an elephant cake"
+          },
+          {
+            "q": "huge cake",
+            "a": "a huge cake"
+          },
+          {
+            "q": "ugly mask",
+            "a": "an ugly mask"
+          },
+          {
+            "q": "funny hat",
+            "a": "a funny hat"
+          },
+          {
+            "q": "icy drink",
+            "a": "an icy drink"
+          },
+          {
+            "q": "red ribbon",
+            "a": "a red ribbon"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Add the word in brackets. Change a or an if you need to.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "an apple (green)",
+            "a": "a green apple"
+          },
+          {
+            "q": "a box (old)",
+            "a": "an old box"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We say \"an ice cream\".",
+            "a": true
+          },
+          {
+            "q": "We say \"an big balloon\".",
+            "a": false
+          },
+          {
+            "q": "The word just after a or an tells us which one to use.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write about a present you would like. Use a or an and a describing word.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check a/an matches the next word, e.g. \"I would like an orange kite.\""
+      }
+    ]
+  },
+  {
+    "id": "articles-09",
+    "topic": "articles",
+    "number": 9,
+    "level": "Practice",
+    "title": "Christmas at Grandma's in Goa",
+    "intro": "Maria spends Christmas with her grandma in Goa. Choose a, an or the.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in a, an or the.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Grandma baked ___ plum cake.",
+            "a": "a"
+          },
+          {
+            "q": "We put a star on top of ___ tree in the hall.",
+            "a": "the"
+          },
+          {
+            "q": "Maria hung ___ angel on a branch.",
+            "a": "an"
+          },
+          {
+            "q": "___ church bells rang at midnight.",
+            "a": "The"
+          },
+          {
+            "q": "Uncle gave me ___ ornament made of shells.",
+            "a": "an"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words: do they take a or an?",
+        "marks": 6,
+        "groups": [
+          "a",
+          "an"
+        ],
+        "words": [
+          "wreath",
+          "elf",
+          "stocking",
+          "icicle",
+          "gift",
+          "ivy leaf"
+        ],
+        "a": {
+          "wreath": "a",
+          "elf": "an",
+          "stocking": "a",
+          "icicle": "an",
+          "gift": "a",
+          "ivy leaf": "an"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Maria hung her stocking on",
+            "options": [
+              "a",
+              "the"
+            ],
+            "after": "door of her bedroom.",
+            "a": "the"
+          },
+          {
+            "before": "There is",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "old lamp on the porch.",
+            "a": "an"
+          },
+          {
+            "before": "Please pass me",
+            "options": [
+              "a",
+              "the"
+            ],
+            "after": "cake knife on the table.",
+            "a": "the"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We say \"a evening\".",
+            "a": false
+          },
+          {
+            "q": "\"The Christmas tree in our hall\" means one special tree.",
+            "a": true
+          },
+          {
+            "q": "We say \"a wreath\" because w is not a vowel.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a sentence about a festival at your home. Use the.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary; check \"the\" is used for a particular thing, e.g. \"We lit the lamps on the balcony.\""
+      }
+    ]
+  },
+  {
+    "id": "articles-10",
+    "topic": "articles",
+    "number": 10,
+    "level": "Practice",
+    "title": "Pongal in the Village",
+    "intro": "Kavin celebrates Pongal in his village in Tamil Nadu. Choose a, an or the.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write a or an.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "pot",
+            "a": "a pot"
+          },
+          {
+            "q": "bull",
+            "a": "a bull"
+          },
+          {
+            "q": "idol",
+            "a": "an idol"
+          },
+          {
+            "q": "aunt",
+            "a": "an aunt"
+          },
+          {
+            "q": "kolam",
+            "a": "a kolam"
+          },
+          {
+            "q": "elder",
+            "a": "an elder"
+          },
+          {
+            "q": "festival",
+            "a": "a festival"
+          },
+          {
+            "q": "iron pan",
+            "a": "an iron pan"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Amma made",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "big pot of pongal.",
+            "a": "a"
+          },
+          {
+            "before": "Kavin's family thanked",
+            "options": [
+              "a",
+              "the"
+            ],
+            "after": "sun.",
+            "a": "the"
+          },
+          {
+            "before": "Grandpa gave",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "ear of corn to the cow.",
+            "a": "an"
+          },
+          {
+            "before": "Kavin wore",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "new shirt.",
+            "a": "a"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a, an or the.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The cows had ___ bath in the pond.",
+            "a": "a"
+          },
+          {
+            "q": "Kavin saw ___ owl on the roof.",
+            "a": "an"
+          },
+          {
+            "q": "___ moon rose over the fields.",
+            "a": "The"
+          },
+          {
+            "q": "We played ___ game of kabaddi.",
+            "a": "a"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We say \"an bull\".",
+            "a": false
+          },
+          {
+            "q": "We say \"the sun\" because there is only one sun.",
+            "a": true
+          },
+          {
+            "q": "\"Idol\" starts with a vowel sound.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Find the mistake and write the sentence again.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Kavin found a egg in the hay.",
+            "a": "Kavin found an egg in the hay."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "articles-11",
+    "topic": "articles",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Clock Shop",
+    "intro": "Mr Rao mends clocks in his shop. Listen to the first sound: an honest man (h is silent), but a unicorn (u says \"you\").",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle a or an.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "Mr Rao is",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "honest man.",
+            "a": "an"
+          },
+          {
+            "before": "He has",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "unicorn clock for children.",
+            "a": "a"
+          },
+          {
+            "before": "A screwdriver is",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "useful tool.",
+            "a": "a"
+          },
+          {
+            "before": "He sold",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "hourglass to Ria.",
+            "a": "an"
+          },
+          {
+            "before": "He has",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "huge clock on the wall.",
+            "a": "a"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the words: do they take a or an?",
+        "marks": 6,
+        "groups": [
+          "a",
+          "an"
+        ],
+        "words": [
+          "honest girl",
+          "hammer",
+          "umpire",
+          "useful hint",
+          "hour hand",
+          "untidy desk"
+        ],
+        "a": {
+          "honest girl": "an",
+          "hammer": "a",
+          "umpire": "an",
+          "useful hint": "a",
+          "hour hand": "an",
+          "untidy desk": "an"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We say \"a honest boy\".",
+            "a": false
+          },
+          {
+            "q": "\"Unicorn\" starts with a \"you\" sound, so we say \"a unicorn\".",
+            "a": true
+          },
+          {
+            "q": "We say \"an hammer\".",
+            "a": false
+          },
+          {
+            "q": "We say \"an umbrella\" because u makes an \"uh\" sound here.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Find the mistakes and write the sentence again.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Mr Rao is a honest man.",
+            "a": "Mr Rao is an honest man."
+          },
+          {
+            "q": "It took a hour to fix an useful clock.",
+            "a": "It took an hour to fix a useful clock."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a sentence using \"an hour\".",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"We waited for an hour.\""
+      }
+    ]
+  },
+  {
+    "id": "articles-12",
+    "topic": "articles",
+    "number": 12,
+    "level": "Challenge",
+    "title": "The Fishing Trip in Kochi",
+    "intro": "Joel goes fishing with his uncle in Kochi. Some sentences use the wrong article. Find and fix them.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Each sentence has a mistake. Write it correctly.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "Uncle has an boat.",
+            "a": "Uncle has a boat."
+          },
+          {
+            "q": "Joel caught a eel!",
+            "a": "Joel caught an eel!"
+          },
+          {
+            "q": "A sun was hot on the boat.",
+            "a": "The sun was hot on the boat."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Is the sentence correct? Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Joel wore an orange cap.",
+            "a": true
+          },
+          {
+            "q": "Uncle threw an net into the water.",
+            "a": false
+          },
+          {
+            "q": "We saw a eagle over the sea.",
+            "a": false
+          },
+          {
+            "q": "The water near the shore was calm.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Joel saw",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "octopus in the net.",
+            "a": "an"
+          },
+          {
+            "before": "Uncle cooked",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "fish on the fire.",
+            "a": "a"
+          },
+          {
+            "before": "We rowed out to",
+            "options": [
+              "a",
+              "the"
+            ],
+            "after": "middle of the lake.",
+            "a": "the"
+          },
+          {
+            "before": "It was",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "exciting day.",
+            "a": "an"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a, an or the.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Uncle gave Joel ___ oar.",
+            "a": "an"
+          },
+          {
+            "q": "Joel's net caught ___ crab.",
+            "a": "a"
+          },
+          {
+            "q": "At sunset we rowed back to ___ shore.",
+            "a": "the"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a sentence about a trip. Use a, an and the.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"We took a bus and an auto to the beach.\""
+      }
+    ]
+  },
+  {
+    "id": "articles-13",
+    "topic": "articles",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Storytime in the Book Corner",
+    "intro": "Once there was a fox and an owl. The fox lived in a hole under an oak tree. The owl lived at the top of the tree. One day the fox gave the owl a plum.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the story. Answer in one or two words.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Which animal lived at the top of the tree? ___",
+            "a": "owl / the owl"
+          },
+          {
+            "q": "What did the fox give the owl? ___",
+            "a": "plum / a plum"
+          },
+          {
+            "q": "What kind of tree was it? ___",
+            "a": "oak / an oak"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Read the story. Circle the right word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The story says",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "owl because o is a vowel.",
+            "a": "an"
+          },
+          {
+            "before": "The second time, the story says",
+            "options": [
+              "an",
+              "the"
+            ],
+            "after": "owl.",
+            "a": "the"
+          },
+          {
+            "before": "The story says",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "plum because p is not a vowel.",
+            "a": "a"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write a or an.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "axe",
+            "a": "an axe"
+          },
+          {
+            "q": "wolf",
+            "a": "a wolf"
+          },
+          {
+            "q": "ostrich",
+            "a": "an ostrich"
+          },
+          {
+            "q": "hedgehog",
+            "a": "a hedgehog"
+          },
+          {
+            "q": "ink pot",
+            "a": "an ink pot"
+          },
+          {
+            "q": "yak",
+            "a": "a yak"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Find the three mistakes and write it again.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Once there was an hen. A hen laid a egg.",
+            "a": "Once there was a hen. The hen laid an egg."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two lines to finish the fox and owl story. Use a, an or the.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary; check correct use of a, an and the."
+      }
+    ]
+  },
+  {
+    "id": "articles-14",
+    "topic": "articles",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Cycling on the Abu Dhabi Corniche",
+    "intro": "Hamdan and his sister cycle along the Corniche. We use the for things there is only one of.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Is there only one, or many? Sort the words.",
+        "marks": 6,
+        "groups": [
+          "Only one: the",
+          "One of many: a"
+        ],
+        "words": [
+          "sun",
+          "helmet",
+          "sky",
+          "bench",
+          "world",
+          "seagull"
+        ],
+        "a": {
+          "sun": "Only one: the",
+          "helmet": "One of many: a",
+          "sky": "Only one: the",
+          "bench": "One of many: a",
+          "world": "Only one: the",
+          "seagull": "One of many: a"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "We stopped at",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "ice cream cart.",
+            "a": "an"
+          },
+          {
+            "before": "The wind came from",
+            "options": [
+              "a",
+              "the"
+            ],
+            "after": "sea.",
+            "a": "the"
+          },
+          {
+            "before": "His sister wore",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "yellow helmet.",
+            "a": "a"
+          },
+          {
+            "before": "We rested under",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "arch.",
+            "a": "an"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in a, an or the.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Hamdan saw ___ huge ship far away.",
+            "a": "a"
+          },
+          {
+            "q": "___ sun set at six o'clock.",
+            "a": "The"
+          },
+          {
+            "q": "His sister ate ___ energy bar.",
+            "a": "an"
+          },
+          {
+            "q": "We locked our bikes to ___ pole.",
+            "a": "a"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In \"Let's ride to the park near our home\", the means one park we both know.",
+            "a": true
+          },
+          {
+            "q": "We say \"a earth\".",
+            "a": false
+          },
+          {
+            "q": "\"A seagull\" means any one seagull.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a sentence about the sky. Use a and the.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"A plane flew across the sky.\""
+      }
+    ]
+  },
+  {
+    "id": "articles-15",
+    "topic": "articles",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Iftar with the Family",
+    "intro": "During Ramadan, Zaid's family breaks the fast together at sunset. Use a, an and the correctly.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Zaid ate",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "date first.",
+            "a": "a"
+          },
+          {
+            "before": "Grandpa told",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "interesting story.",
+            "a": "an"
+          },
+          {
+            "before": "We heard",
+            "options": [
+              "a",
+              "the"
+            ],
+            "after": "call to prayer from the mosque near our home.",
+            "a": "the"
+          },
+          {
+            "before": "There was",
+            "options": [
+              "a",
+              "an"
+            ],
+            "after": "huge pot of harees.",
+            "a": "a"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Find the mistake and write the sentence again.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "Zaid set an plate for each person.",
+            "a": "Zaid set a plate for each person."
+          },
+          {
+            "q": "We waited for a hour.",
+            "a": "We waited for an hour."
+          },
+          {
+            "q": "A moon was thin and bright.",
+            "a": "The moon was thin and bright."
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write a or an.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "samosa",
+            "a": "a samosa"
+          },
+          {
+            "q": "egg roll",
+            "a": "an egg roll"
+          },
+          {
+            "q": "lentil soup",
+            "a": "a lentil soup"
+          },
+          {
+            "q": "iftar meal",
+            "a": "an iftar meal"
+          },
+          {
+            "q": "honest answer",
+            "a": "an honest answer"
+          },
+          {
+            "q": "lantern",
+            "a": "a lantern"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We say \"an\" before a word that starts with a vowel sound.",
+            "a": true
+          },
+          {
+            "q": "\"An hour\" and \"a unicorn\" both follow the sound rule.",
+            "a": true
+          },
+          {
+            "q": "We always use \"the\" the first time we talk about something.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a family meal. Use a, an and the.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary; check correct use of a, an and the."
+      }
+    ]
   }
 ]

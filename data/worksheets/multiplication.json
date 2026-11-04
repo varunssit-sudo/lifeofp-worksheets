@@ -666,5 +666,1299 @@
         ]
       }
     ]
+  },
+  {
+    "id": "multiplication-06",
+    "topic": "multiplication",
+    "number": 6,
+    "level": "Practice",
+    "title": "A Visit to the Farm",
+    "intro": "Nikhil visits his uncle's farm in Punjab. A hen has 2 legs, a duck has 2 legs and a cow has 4 legs.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Count the legs.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "4 hens have ___ legs.",
+            "a": "8"
+          },
+          {
+            "q": "3 cows have ___ legs.",
+            "a": "12"
+          },
+          {
+            "q": "7 ducks have ___ legs.",
+            "a": "14"
+          },
+          {
+            "q": "5 cows have ___ legs.",
+            "a": "20"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Multiply.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "4 × 8",
+            "a": "32"
+          },
+          {
+            "q": "5 × 6",
+            "a": "30"
+          },
+          {
+            "q": "3 × 7",
+            "a": "21"
+          },
+          {
+            "q": "2 × 6",
+            "a": "12"
+          },
+          {
+            "q": "5 × 9",
+            "a": "45"
+          },
+          {
+            "q": "4 × 3",
+            "a": "12"
+          },
+          {
+            "q": "2 × 10",
+            "a": "20"
+          },
+          {
+            "q": "3 × 5",
+            "a": "15"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "6 cows have",
+            "options": [
+              "10",
+              "24",
+              "64"
+            ],
+            "after": "legs.",
+            "a": "24"
+          },
+          {
+            "before": "3 × 8 is the same as",
+            "options": [
+              "8 + 8 + 8",
+              "3 + 8",
+              "8 × 8"
+            ],
+            "after": ".",
+            "a": "8 + 8 + 8"
+          },
+          {
+            "before": "2 hens and 1 cow have",
+            "options": [
+              "6",
+              "8",
+              "10"
+            ],
+            "after": "legs.",
+            "a": "8"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each farm group to its total.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "3 groups of 6 sheep",
+            "right": "18"
+          },
+          {
+            "left": "5 rows of 4 carrots",
+            "right": "20"
+          },
+          {
+            "left": "2 baskets of 8 eggs",
+            "right": "16"
+          },
+          {
+            "left": "4 pens of 3 goats",
+            "right": "12"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the farm problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Uncle has 6 cows. Each gives 5 L of milk. That is ___ L of milk.",
+            "a": "30"
+          },
+          {
+            "q": "There are 4 rows of 9 sunflowers. That is ___ sunflowers.",
+            "a": "36"
+          },
+          {
+            "q": "Nikhil takes 3 eggs from each of 7 nests. He has ___ eggs.",
+            "a": "21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "multiplication-07",
+    "topic": "multiplication",
+    "number": 7,
+    "level": "Practice",
+    "title": "Crayon Boxes in Art Class",
+    "intro": "Ms Wong hands out boxes of crayons and brushes. Use the 2, 5 and 10 times tables.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Multiply.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "2 × 8",
+            "a": "16"
+          },
+          {
+            "q": "5 × 7",
+            "a": "35"
+          },
+          {
+            "q": "10 × 4",
+            "a": "40"
+          },
+          {
+            "q": "5 × 9",
+            "a": "45"
+          },
+          {
+            "q": "10 × 9",
+            "a": "90"
+          },
+          {
+            "q": "2 × 4",
+            "a": "8"
+          },
+          {
+            "q": "5 × 3",
+            "a": "15"
+          },
+          {
+            "q": "10 × 6",
+            "a": "60"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Skip count. Write the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "5, 10, 15, 20, ___",
+            "a": "25"
+          },
+          {
+            "q": "10, 20, 30, ___, 50",
+            "a": "40"
+          },
+          {
+            "q": "2, 4, 6, 8, ___, 12",
+            "a": "10"
+          },
+          {
+            "q": "4, 8, 12, ___, 20",
+            "a": "16"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Is it in the 5 times table?",
+        "marks": 6,
+        "groups": [
+          "In the 5 times table",
+          "Not in it"
+        ],
+        "words": [
+          "35",
+          "42",
+          "50",
+          "27",
+          "15",
+          "18"
+        ],
+        "a": {
+          "35": "In the 5 times table",
+          "42": "Not in it",
+          "50": "In the 5 times table",
+          "27": "Not in it",
+          "15": "In the 5 times table",
+          "18": "Not in it"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Solve the art class problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "8 children each get a box of 5 crayons. That is ___ crayons.",
+            "a": "40"
+          },
+          {
+            "q": "Ms Wong has 7 boxes of 10 crayons. That is ___ crayons.",
+            "a": "70"
+          },
+          {
+            "q": "Each child needs 2 brushes. 9 children need ___ brushes.",
+            "a": "18"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "10 × 6 = 60",
+            "a": true
+          },
+          {
+            "q": "5 × 8 = 45",
+            "a": false
+          },
+          {
+            "q": "Every number in the 10 times table ends in 0.",
+            "a": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "multiplication-08",
+    "topic": "multiplication",
+    "number": 8,
+    "level": "Practice",
+    "title": "Laddoos for Ganesh Chaturthi",
+    "intro": "Aai makes laddoos and modaks for Ganesh Chaturthi. Shreya helps pack them in equal boxes.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Multiply.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "22",
+            "op": "×",
+            "bottom": "4",
+            "a": "88"
+          },
+          {
+            "top": "13",
+            "op": "×",
+            "bottom": "3",
+            "a": "39"
+          },
+          {
+            "top": "41",
+            "op": "×",
+            "bottom": "2",
+            "a": "82"
+          },
+          {
+            "top": "32",
+            "op": "×",
+            "bottom": "3",
+            "a": "96"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "4 + 4 + 4 + 4 + 4 + 4 = ___ × 4",
+            "a": "6"
+          },
+          {
+            "q": "8 + 8 + 8 = 3 × ___",
+            "a": "8"
+          },
+          {
+            "q": "7 groups of 3 = ___",
+            "a": "21"
+          },
+          {
+            "q": "6 + 6 + 6 + 6 = ___",
+            "a": "24"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the boxes to the total.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "5 boxes of 6 laddoos",
+            "right": "30"
+          },
+          {
+            "left": "3 boxes of 9 modaks",
+            "right": "27"
+          },
+          {
+            "left": "4 boxes of 7 laddoos",
+            "right": "28"
+          },
+          {
+            "left": "6 boxes of 2 modaks",
+            "right": "12"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "31 × 2 = 62",
+            "a": true
+          },
+          {
+            "q": "3 × 0 = 3",
+            "a": false
+          },
+          {
+            "q": "5 × 4 is the same as 4 × 5.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the festival problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Shreya packs 21 modaks in each of 3 boxes. She packs ___ modaks.",
+            "a": "63"
+          },
+          {
+            "q": "Aai lights 4 rows of 10 diyas. She lights ___ diyas.",
+            "a": "40"
+          },
+          {
+            "q": "8 friends each eat 2 laddoos. They eat ___ laddoos.",
+            "a": "16"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "multiplication-09",
+    "topic": "multiplication",
+    "number": 9,
+    "level": "Practice",
+    "title": "Bookshelves in the Library",
+    "intro": "Isabel and Tariq help the librarian. The books stand in equal rows on the shelves.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Count the books on each shelf.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3 rows of 9 books = ___ books",
+            "a": "27"
+          },
+          {
+            "q": "6 rows of 5 books = ___ books",
+            "a": "30"
+          },
+          {
+            "q": "4 rows of 10 books = ___ books",
+            "a": "40"
+          },
+          {
+            "q": "7 rows of 2 books = ___ books",
+            "a": "14"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "6 rows of 3 is the same as 3 rows of",
+            "options": [
+              "3",
+              "6",
+              "9"
+            ],
+            "after": ".",
+            "a": "6"
+          },
+          {
+            "before": "7 × 4 =",
+            "options": [
+              "11",
+              "24",
+              "28"
+            ],
+            "after": "",
+            "a": "28"
+          },
+          {
+            "before": "5 rows with 5 books in each row make",
+            "options": [
+              "10",
+              "25",
+              "55"
+            ],
+            "after": "books.",
+            "a": "25"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Multiply.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "8 × 5",
+            "a": "40"
+          },
+          {
+            "q": "9 × 3",
+            "a": "27"
+          },
+          {
+            "q": "7 × 7",
+            "a": "49"
+          },
+          {
+            "q": "4 × 9",
+            "a": "36"
+          },
+          {
+            "q": "10 × 8",
+            "a": "80"
+          },
+          {
+            "q": "3 × 6",
+            "a": "18"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Multiply. Carry where you need to.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "26",
+            "op": "×",
+            "bottom": "3",
+            "a": "78"
+          },
+          {
+            "top": "17",
+            "op": "×",
+            "bottom": "4",
+            "a": "68"
+          },
+          {
+            "top": "29",
+            "op": "×",
+            "bottom": "2",
+            "a": "58"
+          },
+          {
+            "top": "13",
+            "op": "×",
+            "bottom": "5",
+            "a": "65"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the library problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There are 4 shelves with 12 books on each. That is ___ books.",
+            "a": "48"
+          },
+          {
+            "q": "Tariq makes 5 piles of 9 magazines. That is ___ magazines.",
+            "a": "45"
+          },
+          {
+            "q": "Each of 6 tables has 4 chairs. There are ___ chairs.",
+            "a": "24"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "multiplication-10",
+    "topic": "multiplication",
+    "number": 10,
+    "level": "Practice",
+    "title": "Seats on the Dubai Metro",
+    "intro": "Hamid and Chloe ride the Dubai Metro to the zoo. Each carriage is the same.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Multiply. Carry where you need to.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "28",
+            "op": "×",
+            "bottom": "3",
+            "a": "84"
+          },
+          {
+            "top": "19",
+            "op": "×",
+            "bottom": "5",
+            "a": "95"
+          },
+          {
+            "top": "47",
+            "op": "×",
+            "bottom": "2",
+            "a": "94"
+          },
+          {
+            "top": "14",
+            "op": "×",
+            "bottom": "7",
+            "a": "98"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the metro problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A train has 5 carriages with 18 seats in each. There are ___ seats.",
+            "a": "90"
+          },
+          {
+            "q": "Each carriage has 4 doors. 5 carriages have ___ doors.",
+            "a": "20"
+          },
+          {
+            "q": "8 people wait at each of 6 doors. ___ people are waiting.",
+            "a": "48"
+          },
+          {
+            "q": "Chloe counts 7 poles in each carriage. 4 carriages have ___ poles.",
+            "a": "28"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "3 × 8",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "4 × 6",
+            "a": "="
+          },
+          {
+            "before": "5 × 7",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "6 × 6",
+            "a": "<"
+          },
+          {
+            "before": "9 × 2",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "4 × 4",
+            "a": ">"
+          },
+          {
+            "before": "10 × 3",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "3 × 10",
+            "a": "="
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "15 × 3 = 45",
+            "a": true
+          },
+          {
+            "q": "26 × 2 = 42",
+            "a": false
+          },
+          {
+            "q": "When you multiply a number by 1, it stays the same.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a metro story for 4 × 6. Then solve it.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. 4 carriages with 6 people in each: 4 × 6 = 24 people."
+      }
+    ]
+  },
+  {
+    "id": "multiplication-11",
+    "topic": "multiplication",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Cricket Practice in the Park",
+    "intro": "Coach Imran runs cricket practice in the park on Saturday morning.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve the two-step problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "There are 4 teams of 6 players and 3 coaches. That is ___ people.",
+            "a": "27"
+          },
+          {
+            "q": "5 players each hit 8 balls. 7 balls are lost. ___ balls are found.",
+            "a": "33"
+          },
+          {
+            "q": "Coach puts 3 stumps at each of 6 nets. He had 20 stumps. ___ stumps are left.",
+            "a": "2"
+          },
+          {
+            "q": "Each of 4 teams has 2 bats. 1 bat breaks. ___ bats are left.",
+            "a": "7"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Multiply.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "37",
+            "op": "×",
+            "bottom": "2",
+            "a": "74"
+          },
+          {
+            "top": "23",
+            "op": "×",
+            "bottom": "4",
+            "a": "92"
+          },
+          {
+            "top": "18",
+            "op": "×",
+            "bottom": "5",
+            "a": "90"
+          },
+          {
+            "top": "29",
+            "op": "×",
+            "bottom": "3",
+            "a": "87"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "7 × ___ = 56",
+            "a": "8"
+          },
+          {
+            "q": "___ × 9 = 63",
+            "a": "7"
+          },
+          {
+            "q": "4 × 6 = 3 × ___",
+            "a": "8"
+          },
+          {
+            "q": "5 × 4 = 2 × ___",
+            "a": "10"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "6 × 7 is more than 5 × 8.",
+            "a": true
+          },
+          {
+            "q": "4 × 9 = 9 × 4",
+            "a": true
+          },
+          {
+            "q": "3 × 6 + 3 = 24",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Coach has 30 balls. Can he give 4 balls to each of 8 players? Say why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "No. 4 × 8 = 32 balls, which is 2 more than 30."
+      }
+    ]
+  },
+  {
+    "id": "multiplication-12",
+    "topic": "multiplication",
+    "number": 12,
+    "level": "Challenge",
+    "title": "The Mithai Shop Order",
+    "intro": "Mr Gupta's mithai shop gets a big wedding order. A box of jalebi costs ₹36. A box of kaju katli costs ₹48.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Multiply. Carry where you need to.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "48",
+            "op": "×",
+            "bottom": "2",
+            "a": "96"
+          },
+          {
+            "top": "36",
+            "op": "×",
+            "bottom": "3",
+            "a": "108"
+          },
+          {
+            "top": "25",
+            "op": "×",
+            "bottom": "4",
+            "a": "100"
+          },
+          {
+            "top": "19",
+            "op": "×",
+            "bottom": "4",
+            "a": "76"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the order problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3 boxes of jalebi cost ₹ ___.",
+            "a": "108"
+          },
+          {
+            "q": "2 boxes of kaju katli cost ₹ ___.",
+            "a": "96"
+          },
+          {
+            "q": "Each box holds 12 pieces. 5 boxes hold ___ pieces.",
+            "a": "60"
+          },
+          {
+            "q": "A tray has 6 rows of 8 barfis. Mr Gupta sells 10. ___ barfis are left.",
+            "a": "38"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle >, < or =.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "16 × 3",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "12 × 4",
+            "a": "="
+          },
+          {
+            "before": "25 × 2",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "13 × 4",
+            "a": "<"
+          },
+          {
+            "before": "19 × 3",
+            "options": [
+              ">",
+              "<",
+              "="
+            ],
+            "after": "28 × 2",
+            "a": ">"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each sum to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "17 × 3",
+            "right": "51"
+          },
+          {
+            "left": "24 × 3",
+            "right": "72"
+          },
+          {
+            "left": "38 × 2",
+            "right": "76"
+          },
+          {
+            "left": "15 × 6",
+            "right": "90"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Is ₹100 enough for 2 boxes of jalebi and 1 box of kaju katli? Show your working.",
+        "marks": 2,
+        "lines": 2,
+        "a": "No. ₹36 × 2 = ₹72, and ₹72 + ₹48 = ₹120, which is more than ₹100."
+      }
+    ]
+  },
+  {
+    "id": "multiplication-13",
+    "topic": "multiplication",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Tiles on the Kitchen Floor",
+    "intro": "Papa lays new tiles on the kitchen floor in equal rows. Anaya looks for patterns.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Find the pattern. Write the next number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3, 6, 9, 12",
+            "a": "15"
+          },
+          {
+            "q": "4, 8, 12, 16",
+            "a": "20"
+          },
+          {
+            "q": "6, 12, 18, 24",
+            "a": "30"
+          },
+          {
+            "q": "9, 18, 27, 36",
+            "a": "45"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Use one fact to find another.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "4 × 5 = 20, so 4 × 6 = ___",
+            "a": "24"
+          },
+          {
+            "q": "6 × 6 = 36, so 6 × 7 = ___",
+            "a": "42"
+          },
+          {
+            "q": "10 × 8 = 80, so 9 × 8 = ___",
+            "a": "72"
+          },
+          {
+            "q": "2 × 9 = 18, so 4 × 9 = ___",
+            "a": "36"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Spot the mistakes. Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "7 × 3 = 21",
+            "a": true
+          },
+          {
+            "q": "8 × 4 = 36",
+            "a": false
+          },
+          {
+            "q": "6 × 5 = 30",
+            "a": true
+          },
+          {
+            "q": "9 × 3 = 24",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Correct the wrong ones.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "8 × 4 = 36",
+            "a": "8 × 4 = 32"
+          },
+          {
+            "q": "9 × 3 = 24",
+            "a": "9 × 3 = 27"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the tile problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The floor has 6 rows of 9 tiles. That is ___ tiles.",
+            "a": "54"
+          },
+          {
+            "q": "Each box has 8 tiles. Papa buys 7 boxes. He gets ___ tiles.",
+            "a": "56"
+          },
+          {
+            "q": "The wall has 5 rows of 12 tiles. That is ___ tiles.",
+            "a": "60"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "multiplication-14",
+    "topic": "multiplication",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Weekly Haat in the Village",
+    "intro": "Asha and her grandma go to the weekly haat. Many things are sold in equal sets and bunches.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve the haat problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Bangles come in sets of 6. Grandma buys 4 sets. That is ___ bangles.",
+            "a": "24"
+          },
+          {
+            "q": "Bananas come in bunches of 12. She buys 3 bunches. That is ___ bananas.",
+            "a": "36"
+          },
+          {
+            "q": "A cup of chai costs ₹8. 7 cups cost ₹ ___.",
+            "a": "56"
+          },
+          {
+            "q": "A clay pot costs ₹15. 4 pots cost ₹ ___.",
+            "a": "60"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Multiply. Carry where you need to.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "15",
+            "op": "×",
+            "bottom": "6",
+            "a": "90"
+          },
+          {
+            "top": "27",
+            "op": "×",
+            "bottom": "3",
+            "a": "81"
+          },
+          {
+            "top": "16",
+            "op": "×",
+            "bottom": "5",
+            "a": "80"
+          },
+          {
+            "top": "39",
+            "op": "×",
+            "bottom": "2",
+            "a": "78"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The bigger amount is",
+            "options": [
+              "6 bags of 7 onions",
+              "5 bags of 8 onions"
+            ],
+            "after": ".",
+            "a": "6 bags of 7 onions"
+          },
+          {
+            "before": "5 × 0 =",
+            "options": [
+              "0",
+              "5",
+              "50"
+            ],
+            "after": "",
+            "a": "0"
+          },
+          {
+            "before": "8 × 3 is double",
+            "options": [
+              "4 × 3",
+              "8 × 6"
+            ],
+            "after": ".",
+            "a": "4 × 3"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the two-step problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Grandma buys 3 bags of 9 potatoes and 5 extra potatoes. She has ___ potatoes.",
+            "a": "32"
+          },
+          {
+            "q": "She has ₹100. She buys 4 clay pots. She has ₹ ___ left.",
+            "a": "40"
+          },
+          {
+            "q": "Asha buys 2 sets of 6 bangles. She gives 5 to her sister. She keeps ___ bangles.",
+            "a": "7"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a haat story for 5 × 7. Then solve it.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. 5 baskets with 7 mangoes in each: 5 × 7 = 35 mangoes."
+      }
+    ]
+  },
+  {
+    "id": "multiplication-15",
+    "topic": "multiplication",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Planning the Class Picnic",
+    "intro": "Class 2 plans a picnic in the park. There are 28 children and 4 teachers.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve the picnic problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Each child gets 2 sandwiches. That is ___ sandwiches.",
+            "a": "56"
+          },
+          {
+            "q": "Each of the 4 teachers gets 3 sandwiches. That is ___ sandwiches.",
+            "a": "12"
+          },
+          {
+            "q": "The children sit on mats in 7 rows of 4. That is ___ places.",
+            "a": "28"
+          },
+          {
+            "q": "Juice comes in packs of 6. The teacher buys 5 packs for the 28 children. ___ juices are left over.",
+            "a": "2"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Multiply.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "28",
+            "op": "×",
+            "bottom": "3",
+            "a": "84"
+          },
+          {
+            "top": "46",
+            "op": "×",
+            "bottom": "2",
+            "a": "92"
+          },
+          {
+            "top": "17",
+            "op": "×",
+            "bottom": "5",
+            "a": "85"
+          },
+          {
+            "top": "25",
+            "op": "×",
+            "bottom": "3",
+            "a": "75"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each story to its multiplication.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "6 mats with 4 children on each",
+            "right": "6 × 4"
+          },
+          {
+            "left": "4 teams of 7 children",
+            "right": "4 × 7"
+          },
+          {
+            "left": "3 bags of 8 balls",
+            "right": "3 × 8"
+          },
+          {
+            "left": "5 plates of 9 grapes",
+            "right": "5 × 9"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "7 × 4 + 4 = 32",
+            "a": true
+          },
+          {
+            "q": "28 children in 4 equal teams gives 7 in each team.",
+            "a": true
+          },
+          {
+            "q": "3 × 9 is less than 4 × 6.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "The bus has 8 rows of 4 seats. Are there enough seats for 28 children and 4 teachers? Say why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Yes, just enough. 8 × 4 = 32 seats and 28 + 4 = 32 people."
+      }
+    ]
   }
 ]

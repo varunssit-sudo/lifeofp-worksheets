@@ -653,5 +653,1301 @@
         ]
       }
     ]
+  },
+  {
+    "id": "number-patterns-06",
+    "topic": "number-patterns",
+    "number": 6,
+    "level": "Practice",
+    "title": "Watering Plants in the School Garden",
+    "intro": "Neha and Tom water the plants in the school garden. The pots have numbers that make patterns.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Count in 2s, 3s, 4s or 5s. Fill the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "12, 15, 18, ___",
+            "a": "21"
+          },
+          {
+            "q": "24, 28, 32, ___",
+            "a": "36"
+          },
+          {
+            "q": "55, 60, ___, 70",
+            "a": "65"
+          },
+          {
+            "q": "62, 64, ___, 68",
+            "a": "66"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Count back. Write the next number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "45, 42, 39",
+            "a": "36"
+          },
+          {
+            "q": "88, 84, 80",
+            "a": "76"
+          },
+          {
+            "q": "110, 100, 90",
+            "a": "80"
+          },
+          {
+            "q": "33, 31, 29",
+            "a": "27"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each pattern to its rule.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "6, 9, 12",
+            "right": "add 3"
+          },
+          {
+            "left": "28, 24, 20",
+            "right": "take away 4"
+          },
+          {
+            "left": "15, 20, 25",
+            "right": "add 5"
+          },
+          {
+            "left": "97, 95, 93",
+            "right": "take away 2"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "15, 18, 21, 24 adds 3 each time.",
+            "a": true
+          },
+          {
+            "q": "40, 36, 32, 28 takes away 2 each time.",
+            "a": false
+          },
+          {
+            "q": "Counting in 4s from 0 gives only even numbers.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the garden problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Neha waters every 3rd pot: 3, 6, 9 and so on. The 8th pot she waters is pot ___.",
+            "a": "24"
+          },
+          {
+            "q": "Tom fills 4 cans on each trip. After 7 trips he has filled ___ cans.",
+            "a": "28"
+          },
+          {
+            "q": "The tank has 50 litres. Each pot takes 5 litres. After 6 pots, ___ litres are left.",
+            "a": "20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "number-patterns-07",
+    "topic": "number-patterns",
+    "number": 7,
+    "level": "Practice",
+    "title": "Saving Coins in a Piggy Bank",
+    "intro": "Rahul puts the same amount of money in his piggy bank every week. Watch his savings grow.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill the missing amount.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "₹4, ₹8, ₹12, ₹ ___",
+            "a": "16"
+          },
+          {
+            "q": "₹15, ₹25, ₹35, ₹ ___",
+            "a": "45"
+          },
+          {
+            "q": "₹90, ₹80, ₹70, ₹ ___",
+            "a": "60"
+          },
+          {
+            "q": "₹150, ₹250, ₹350, ₹ ___",
+            "a": "450"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the rule.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "₹6, ₹12, ₹18, ₹24",
+            "options": [
+              "add 6",
+              "add 12",
+              "take away 6"
+            ],
+            "after": "",
+            "a": "add 6"
+          },
+          {
+            "before": "₹70, ₹65, ₹60",
+            "options": [
+              "add 5",
+              "take away 5",
+              "take away 10"
+            ],
+            "after": "",
+            "a": "take away 5"
+          },
+          {
+            "before": "₹20, ₹40, ₹60",
+            "options": [
+              "add 2",
+              "add 10",
+              "add 20"
+            ],
+            "after": "",
+            "a": "add 20"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Counting in 5s from 5: is the number in the pattern?",
+        "marks": 4,
+        "groups": [
+          "In the pattern",
+          "Not in it"
+        ],
+        "words": [
+          "35",
+          "52",
+          "65",
+          "80",
+          "99",
+          "105",
+          "47",
+          "120"
+        ],
+        "a": {
+          "35": "In the pattern",
+          "52": "Not in it",
+          "65": "In the pattern",
+          "80": "In the pattern",
+          "99": "Not in it",
+          "105": "In the pattern",
+          "47": "Not in it",
+          "120": "In the pattern"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "₹5, ₹10, ₹15, ₹20 is counting in 5s.",
+            "a": true
+          },
+          {
+            "q": "₹50, ₹45, ₹40 goes up.",
+            "a": false
+          },
+          {
+            "q": "₹100, ₹200, ₹300 adds ₹10 each time.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the savings problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Rahul saves ₹10 each week. After 6 weeks he has ₹ ___.",
+            "a": "60"
+          },
+          {
+            "q": "His sister Lina saves ₹5 each week. After 8 weeks she has ₹ ___.",
+            "a": "40"
+          },
+          {
+            "q": "Rahul had ₹80. He spends ₹10 each day. After 3 days he has ₹ ___.",
+            "a": "50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "number-patterns-08",
+    "topic": "number-patterns",
+    "number": 8,
+    "level": "Practice",
+    "title": "Laps at the Swimming Pool",
+    "intro": "Maya swims at the club pool in Abu Dhabi. Her coach counts laps and lengths in patterns.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the next number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "9, 12, 15",
+            "a": "18"
+          },
+          {
+            "q": "52, 56, 60",
+            "a": "64"
+          },
+          {
+            "q": "130, 140, 150",
+            "a": "160"
+          },
+          {
+            "q": "500, 400, 300",
+            "a": "200"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "26, 28, ___, 32",
+            "a": "30"
+          },
+          {
+            "q": "75, ___, 65, 60",
+            "a": "70"
+          },
+          {
+            "q": "___, 21, 24, 27",
+            "a": "18"
+          },
+          {
+            "q": "800, 700, ___, 500",
+            "a": "600"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the number that does not fit.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "In 4, 8, 12, 15, 20 the wrong number is",
+            "options": [
+              "8",
+              "15",
+              "20"
+            ],
+            "after": ".",
+            "a": "15"
+          },
+          {
+            "before": "In 30, 33, 36, 38, 42 the wrong number is",
+            "options": [
+              "33",
+              "38",
+              "42"
+            ],
+            "after": ".",
+            "a": "38"
+          },
+          {
+            "before": "In 95, 85, 75, 60, 55 the wrong number is",
+            "options": [
+              "85",
+              "60",
+              "55"
+            ],
+            "after": ".",
+            "a": "60"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Odd numbers go 1, 3, 5, 7, 9.",
+            "a": true
+          },
+          {
+            "q": "Counting in 3s from 3 gives only odd numbers.",
+            "a": false
+          },
+          {
+            "q": "Counting back in 10s from 95 gives 95, 85, 75.",
+            "a": true
+          },
+          {
+            "q": "200, 300, 400 goes up by 100.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the swimming problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Maya swims 2 lengths each minute. In 8 minutes she swims ___ lengths.",
+            "a": "16"
+          },
+          {
+            "q": "The lanes are numbered 1, 3, 5, 7. The next lane is ___.",
+            "a": "9"
+          },
+          {
+            "q": "The coach blows the whistle at 5, 10, 15 minutes. The 6th whistle is at ___ minutes.",
+            "a": "30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "number-patterns-09",
+    "topic": "number-patterns",
+    "number": 9,
+    "level": "Practice",
+    "title": "Lanterns on a Ramadan Street",
+    "intro": "In Ramadan, Huda's street in Sharjah is lit with lanterns. The lanterns are hung in number patterns.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "302, 304, 306, ___",
+            "a": "308"
+          },
+          {
+            "q": "540, 545, 550, ___",
+            "a": "555"
+          },
+          {
+            "q": "700, 690, 680, ___",
+            "a": "670"
+          },
+          {
+            "q": "111, 211, 311, ___",
+            "a": "411"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each pattern to its rule.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "48, 44, 40",
+            "right": "take away 4"
+          },
+          {
+            "left": "65, 75, 85",
+            "right": "add 10"
+          },
+          {
+            "left": "18, 20, 22",
+            "right": "add 2"
+          },
+          {
+            "left": "90, 87, 84",
+            "right": "take away 3"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Is the lantern number odd or even? Sort.",
+        "marks": 3,
+        "groups": [
+          "Odd",
+          "Even"
+        ],
+        "words": [
+          "101",
+          "214",
+          "357",
+          "486",
+          "520",
+          "633"
+        ],
+        "a": {
+          "101": "Odd",
+          "214": "Even",
+          "357": "Odd",
+          "486": "Even",
+          "520": "Even",
+          "633": "Odd"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the next number.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Count in 4s: 64, 68, 72,",
+            "options": [
+              "74",
+              "76",
+              "78"
+            ],
+            "after": "",
+            "a": "76"
+          },
+          {
+            "before": "Count back in 5s: 115, 110, 105,",
+            "options": [
+              "95",
+              "100",
+              "104"
+            ],
+            "after": "",
+            "a": "100"
+          },
+          {
+            "before": "Count in 100s: 175, 275, 375,",
+            "options": [
+              "385",
+              "400",
+              "475"
+            ],
+            "after": "",
+            "a": "475"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the lantern problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Huda hangs a lantern every 4 metres: at 4, 8, 12 metres. The 6th lantern is at ___ metres.",
+            "a": "24"
+          },
+          {
+            "q": "Each night 10 more lanterns light up: 30, 40, 50. The next night ___ lanterns light up.",
+            "a": "60"
+          },
+          {
+            "q": "There were 25 lanterns. 5 broke each night. After 3 nights ___ were left.",
+            "a": "10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "number-patterns-10",
+    "topic": "number-patterns",
+    "number": 10,
+    "level": "Practice",
+    "title": "The Lift in Our Tower",
+    "intro": "Ethan lives in a tall tower in Dubai Marina. The lift stops at floors that make patterns.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the next two numbers.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3, 6, 9",
+            "a": "12, 15"
+          },
+          {
+            "q": "40, 35, 30",
+            "a": "25, 20"
+          },
+          {
+            "q": "8, 12, 16",
+            "a": "20, 24"
+          },
+          {
+            "q": "21, 19, 17",
+            "a": "15, 13"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the rule: add or take away?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "4, 9, 14, 19: the rule is ___",
+            "a": "add 5 / +5"
+          },
+          {
+            "q": "60, 57, 54, 51: the rule is ___",
+            "a": "take away 3 / -3"
+          },
+          {
+            "q": "13, 23, 33, 43: the rule is ___",
+            "a": "add 10 / +10"
+          },
+          {
+            "q": "26, 22, 18, 14: the rule is ___",
+            "a": "take away 4 / -4"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In 4, 9, 14, 19, every number ends in 4 or 9.",
+            "a": true
+          },
+          {
+            "q": "Counting in 2s from 20 gives 20, 22, 24.",
+            "a": true
+          },
+          {
+            "q": "In 60, 57, 54, the next number is 50.",
+            "a": false
+          },
+          {
+            "q": "In 13, 23, 33, 43, only the tens digit changes.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the missing number.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "2, 5,",
+            "options": [
+              "7",
+              "8",
+              "9"
+            ],
+            "after": ", 11, 14",
+            "a": "8"
+          },
+          {
+            "before": "50, 46,",
+            "options": [
+              "44",
+              "42",
+              "40"
+            ],
+            "after": ", 38",
+            "a": "42"
+          },
+          {
+            "before": "1, 11,",
+            "options": [
+              "12",
+              "21",
+              "22"
+            ],
+            "after": ", 31",
+            "a": "21"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the lift problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The lift stops at floors 2, 4, 6, 8. The next stop is floor ___.",
+            "a": "10"
+          },
+          {
+            "q": "Ethan goes down 3 floors at a time: 18, 15, 12, ___.",
+            "a": "9"
+          },
+          {
+            "q": "The tower has a garden on floors 5, 10, 15 and so on. The 4th garden is on floor ___.",
+            "a": "20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "number-patterns-11",
+    "topic": "number-patterns",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Dance Classes on the Calendar",
+    "intro": "Saanvi has a dance class every Tuesday. On this month's calendar, the first Tuesday is the 3rd.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill the missing date. Each week has 7 days.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Tuesdays: 3, 10, 17, ___",
+            "a": "24"
+          },
+          {
+            "q": "Saturdays: 7, 14, ___, 28",
+            "a": "21"
+          },
+          {
+            "q": "Mondays, counting back: 30, 23, 16, ___",
+            "a": "9"
+          },
+          {
+            "q": "Every 2 weeks: 2, 16, ___",
+            "a": "30"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the next number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "6, 13, 20",
+            "a": "27"
+          },
+          {
+            "q": "11, 20, 29",
+            "a": "38"
+          },
+          {
+            "q": "72, 64, 56",
+            "a": "48"
+          },
+          {
+            "q": "125, 150, 175",
+            "a": "200"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the rule.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "5, 12, 19, 26",
+            "options": [
+              "add 6",
+              "add 7",
+              "add 8"
+            ],
+            "after": "",
+            "a": "add 7"
+          },
+          {
+            "before": "99, 90, 81, 72",
+            "options": [
+              "take away 8",
+              "take away 9",
+              "take away 10"
+            ],
+            "after": "",
+            "a": "take away 9"
+          },
+          {
+            "before": "250, 300, 350",
+            "options": [
+              "add 5",
+              "add 50",
+              "add 100"
+            ],
+            "after": "",
+            "a": "add 50"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "If the 1st is a Friday, the 8th is a Friday too.",
+            "a": true
+          },
+          {
+            "q": "A month can have five Tuesdays.",
+            "a": true
+          },
+          {
+            "q": "In 4, 11, 18, 25, all the numbers are even.",
+            "a": false
+          },
+          {
+            "q": "Saanvi's classes are every 7 days from the 3rd. She has a class on the 20th.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the dance problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Saanvi practises 5 minutes more each day: 10, 15, 20 minutes. On the 6th day she practises ___ minutes.",
+            "a": "35"
+          },
+          {
+            "q": "The show is on the 28th. Saanvi counts back in 7s: 28, 21, 14, ___.",
+            "a": "7"
+          },
+          {
+            "q": "Her class is on the 3rd, 10th, 17th, 24th and ___ of the month.",
+            "a": "31 / 31st"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "number-patterns-12",
+    "topic": "number-patterns",
+    "number": 12,
+    "level": "Challenge",
+    "title": "The Camel Race Countdown",
+    "intro": "At the camel race in Al Wathba, the big screen counts in large jumps. Some patterns go up and some go back.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "975, 950, 925, ___",
+            "a": "900"
+          },
+          {
+            "q": "640, 620, 600, ___",
+            "a": "580"
+          },
+          {
+            "q": "1000, 950, 900, ___",
+            "a": "850"
+          },
+          {
+            "q": "333, 330, 327, ___",
+            "a": "324"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Fill the two missing numbers.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "150, ?, 250, ?, 350",
+            "a": "200, 300"
+          },
+          {
+            "q": "880, ?, 860, ?",
+            "a": "870, 850"
+          },
+          {
+            "q": "?, 404, 408, ?",
+            "a": "400, 412"
+          },
+          {
+            "q": "715, ?, 735, ?",
+            "a": "725, 745"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each pattern to its rule.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "800, 750, 700",
+            "right": "take away 50"
+          },
+          {
+            "left": "120, 145, 170",
+            "right": "add 25"
+          },
+          {
+            "left": "330, 320, 310",
+            "right": "take away 10"
+          },
+          {
+            "left": "460, 660, 860",
+            "right": "add 200"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Counting back in 25s from 100 gives 100, 75, 50, 25.",
+            "a": true
+          },
+          {
+            "q": "In 640, 620, 600, the next number is 590.",
+            "a": false
+          },
+          {
+            "q": "Counting on in 50s from 50 reaches 500.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the race problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Camel A runs 200 metres every minute. After 4 minutes it has run ___ metres.",
+            "a": "800"
+          },
+          {
+            "q": "Camel B has run 750 metres. It counts on in 50s to 1000: 800, 850, 900, 950, ___.",
+            "a": "1000"
+          },
+          {
+            "q": "Tickets are numbered 105, 110, 115 and so on. The 10th ticket is ___.",
+            "a": "150"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "number-patterns-13",
+    "topic": "number-patterns",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Fixing the Broken Number Line",
+    "intro": "Mr Joseph's number line fell down and some numbers got mixed up. Find the mistakes and fix them.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the wrong number.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "In 12, 16, 20, 25, 28 the wrong number is",
+            "options": [
+              "16",
+              "25",
+              "28"
+            ],
+            "after": ".",
+            "a": "25"
+          },
+          {
+            "before": "In 81, 72, 63, 55, 45 the wrong number is",
+            "options": [
+              "72",
+              "55",
+              "45"
+            ],
+            "after": ".",
+            "a": "55"
+          },
+          {
+            "before": "In 130, 160, 190, 210, 250 the wrong number is",
+            "options": [
+              "160",
+              "210",
+              "250"
+            ],
+            "after": ".",
+            "a": "210"
+          },
+          {
+            "before": "In 6, 12, 18, 24, 29 the wrong number is",
+            "options": [
+              "12",
+              "24",
+              "29"
+            ],
+            "after": ".",
+            "a": "29"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "One number is wrong. Write the right number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "45, 50, 54, 60",
+            "a": "55"
+          },
+          {
+            "q": "9, 18, 27, 35",
+            "a": "36"
+          },
+          {
+            "q": "300, 250, 210, 150",
+            "a": "200"
+          },
+          {
+            "q": "77, 66, 54, 44",
+            "a": "55"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "An odd number + 2 is always odd.",
+            "a": true
+          },
+          {
+            "q": "Counting in 5s from 3 gives 3, 8, 13, 18.",
+            "a": true
+          },
+          {
+            "q": "Counting in 10s from 7 gives numbers that end in 0.",
+            "a": false
+          },
+          {
+            "q": "Counting in 4s from 1 gives 1, 5, 9, 13.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the missing number.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "7, 14, ___, 28, 35",
+            "a": "21"
+          },
+          {
+            "q": "96, ___, 80, 72",
+            "a": "88"
+          },
+          {
+            "q": "___, 145, 165, 185",
+            "a": "125"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Leo wrote 10, 20, 30, 40, 55. Find his mistake and fix it.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. 55 is wrong. It should be 50, because the rule is add 10."
+      }
+    ]
+  },
+  {
+    "id": "number-patterns-14",
+    "topic": "number-patterns",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Building Towers with Blocks",
+    "intro": "Ali and Freya build towers. Each tower has more blocks than the one before. These are growing patterns.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "The jumps grow by 1 each time. Find the next number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "1, 2, 4, 7, 11, ___",
+            "a": "16"
+          },
+          {
+            "q": "2, 3, 5, 8, 12, ___",
+            "a": "17"
+          },
+          {
+            "q": "4, 5, 7, 10, ___",
+            "a": "14"
+          },
+          {
+            "q": "50, 49, 47, 44, ___",
+            "a": "40"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle how the pattern grows.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "1, 2, 4, 7, 11",
+            "options": [
+              "adds 1, then 2, then 3, then 4",
+              "adds 2 each time"
+            ],
+            "after": "",
+            "a": "adds 1, then 2, then 3, then 4"
+          },
+          {
+            "before": "3, 6, 12, 24",
+            "options": [
+              "doubles each time",
+              "adds 3 each time"
+            ],
+            "after": "",
+            "a": "doubles each time"
+          },
+          {
+            "before": "5, 7, 9, 11",
+            "options": [
+              "adds 2 each time",
+              "doubles each time"
+            ],
+            "after": "",
+            "a": "adds 2 each time"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "The pattern doubles. Write the next number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "1, 2, 4, 8",
+            "a": "16"
+          },
+          {
+            "q": "6, 12, 24",
+            "a": "48"
+          },
+          {
+            "q": "5, 10, 20",
+            "a": "40"
+          },
+          {
+            "q": "10, 20, 40",
+            "a": "80"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In a growing pattern, the jumps can get bigger.",
+            "a": true
+          },
+          {
+            "q": "In 2, 4, 8, 16, we add 2 each time.",
+            "a": false
+          },
+          {
+            "q": "In 1, 3, 6, 10, the jumps are 2, 3 and 4.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the tower problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ali's towers have 2, 4, 6, 8 blocks. The 6th tower has ___ blocks.",
+            "a": "12"
+          },
+          {
+            "q": "Freya's towers have 1, 3, 6, 10 blocks. The 5th tower has ___ blocks.",
+            "a": "15"
+          },
+          {
+            "q": "Each tower doubles: 3, 6, 12 blocks. The 4th tower has ___ blocks.",
+            "a": "24"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "number-patterns-15",
+    "topic": "number-patterns",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Secret Codes at the Treasure Hunt",
+    "intro": "At Zubin's birthday treasure hunt, each lock opens with a number from a pattern.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the next two numbers.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "17, 21, 25",
+            "a": "29, 33"
+          },
+          {
+            "q": "96, 90, 84",
+            "a": "78, 72"
+          },
+          {
+            "q": "305, 405, 505",
+            "a": "605, 705"
+          },
+          {
+            "q": "44, 55, 66",
+            "a": "77, 88"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "18, 27, ___, 45",
+            "a": "36"
+          },
+          {
+            "q": "___, 375, 400, 425",
+            "a": "350"
+          },
+          {
+            "q": "612, 602, ___, 582",
+            "a": "592"
+          },
+          {
+            "q": "64, 32, 16, ___ (it halves each time)",
+            "a": "8"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the patterns by their rule.",
+        "marks": 6,
+        "groups": [
+          "Adds 3 each time",
+          "Adds 4 each time",
+          "Adds 5 each time"
+        ],
+        "words": [
+          "2, 5, 8",
+          "10, 14, 18",
+          "1, 6, 11",
+          "20, 23, 26",
+          "7, 11, 15",
+          "40, 45, 50"
+        ],
+        "a": {
+          "2, 5, 8": "Adds 3 each time",
+          "10, 14, 18": "Adds 4 each time",
+          "1, 6, 11": "Adds 5 each time",
+          "20, 23, 26": "Adds 3 each time",
+          "7, 11, 15": "Adds 4 each time",
+          "40, 45, 50": "Adds 5 each time"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the code.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The code is the 5th number in 6, 12, 18, ... It is",
+            "options": [
+              "24",
+              "30",
+              "36"
+            ],
+            "after": "",
+            "a": "30"
+          },
+          {
+            "before": "Count in 10s: 245, ?, 265. The code is",
+            "options": [
+              "250",
+              "255",
+              "260"
+            ],
+            "after": "",
+            "a": "255"
+          },
+          {
+            "before": "Count back in 9s: 90, 81, 72, ... The 5th number is",
+            "options": [
+              "63",
+              "54",
+              "45"
+            ],
+            "after": "",
+            "a": "54"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Make your own secret code: write 5 numbers that take away 6 each time.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. 50, 44, 38, 32, 26"
+      }
+    ]
   }
 ]

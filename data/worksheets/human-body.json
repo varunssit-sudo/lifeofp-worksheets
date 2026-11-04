@@ -593,5 +593,1258 @@
         "a": "Answers will vary, e.g. \"I use my eyes to read the board.\""
       }
     ]
+  },
+  {
+    "id": "human-body-06",
+    "topic": "human-body",
+    "number": 6,
+    "level": "Practice",
+    "title": "Diwali Night on the Rooftop",
+    "intro": "Mira and Tejas celebrate Diwali on their rooftop in Jaipur. Their senses are busy all night.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the sense organ Mira uses.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "rangoli colours",
+            "a": "eyes"
+          },
+          {
+            "q": "temple bells",
+            "a": "ears"
+          },
+          {
+            "q": "smell of agarbatti",
+            "a": "nose"
+          },
+          {
+            "q": "taste of kaju barfi",
+            "a": "tongue"
+          },
+          {
+            "q": "soft new kurta",
+            "a": "skin"
+          },
+          {
+            "q": "loud fireworks",
+            "a": "ears"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We should cover our ears when fireworks are very loud.",
+            "a": true
+          },
+          {
+            "q": "It is safe to touch a burning diya.",
+            "a": false
+          },
+          {
+            "q": "Smoke from crackers is bad for our lungs.",
+            "a": true
+          },
+          {
+            "q": "We smell sweets with our ears.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Tejas wears",
+            "options": [
+              "cotton",
+              "nylon"
+            ],
+            "after": "clothes near the diyas.",
+            "a": "cotton"
+          },
+          {
+            "before": "Papa keeps a bucket of",
+            "options": [
+              "water",
+              "oil"
+            ],
+            "after": "nearby for safety.",
+            "a": "water"
+          },
+          {
+            "before": "Mira sees the bright sky with her",
+            "options": [
+              "eyes",
+              "skin"
+            ],
+            "after": ".",
+            "a": "eyes"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The diya feels ___ when it is burning.",
+            "a": "hot / warm"
+          },
+          {
+            "q": "Tejas hears the bang with his ___.",
+            "a": "ears"
+          },
+          {
+            "q": "Mira feels the smooth clay pot with her ___.",
+            "a": "skin / fingers / hands"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things you can see during Diwali.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"diyas and a rangoli\". One mark each."
+      }
+    ]
+  },
+  {
+    "id": "human-body-07",
+    "topic": "human-body",
+    "number": 7,
+    "level": "Practice",
+    "title": "Yoga Class at the Community Hall",
+    "intro": "Aarav and Chloe join a Sunday yoga class. They learn how bones, joints and muscles help us move.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each joint to where it is.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "neck",
+            "right": "joins the head to the body"
+          },
+          {
+            "left": "shoulder",
+            "right": "joins the arm to the body"
+          },
+          {
+            "left": "wrist",
+            "right": "joins the hand to the arm"
+          },
+          {
+            "left": "ankle",
+            "right": "joins the foot to the leg"
+          },
+          {
+            "left": "hip",
+            "right": "joins the leg to the body"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "All the bones in our body make our ___.",
+            "a": "skeleton"
+          },
+          {
+            "q": "We can bend our body where two bones meet. This place is a ___.",
+            "a": "joint"
+          },
+          {
+            "q": "___ are attached to bones and pull them to move.",
+            "a": "Muscles"
+          },
+          {
+            "q": "The bones in our back make our ___.",
+            "a": "backbone / spine"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Bones are hard and strong.",
+            "a": true
+          },
+          {
+            "q": "Exercise makes our muscles stronger.",
+            "a": true
+          },
+          {
+            "q": "We cannot bend our fingers because they have no joints.",
+            "a": false
+          },
+          {
+            "q": "Milk and curd help build strong bones.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the joint Chloe bends.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Chloe touches her toes. She bends at the",
+            "options": [
+              "hip",
+              "elbow"
+            ],
+            "after": ".",
+            "a": "hip"
+          },
+          {
+            "before": "She turns her head left and right at the",
+            "options": [
+              "neck",
+              "knee"
+            ],
+            "after": ".",
+            "a": "neck"
+          },
+          {
+            "before": "She waves her hand at the",
+            "options": [
+              "wrist",
+              "ankle"
+            ],
+            "after": ".",
+            "a": "wrist"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one exercise you like and the body part it uses.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"Skipping uses my legs.\""
+      }
+    ]
+  },
+  {
+    "id": "human-body-08",
+    "topic": "human-body",
+    "number": 8,
+    "level": "Practice",
+    "title": "Packing a Healthy Tiffin",
+    "intro": "Fatima helps Ammi pack her school tiffin in Sharjah. Healthy food helps our body grow.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the food into Healthy food and Junk food.",
+        "marks": 8,
+        "groups": [
+          "Healthy food",
+          "Junk food"
+        ],
+        "words": [
+          "chapati",
+          "boiled egg",
+          "apple",
+          "sprouts",
+          "chips",
+          "cola",
+          "fried burger",
+          "jelly sweets"
+        ],
+        "a": {
+          "chapati": "Healthy food",
+          "boiled egg": "Healthy food",
+          "apple": "Healthy food",
+          "sprouts": "Healthy food",
+          "chips": "Junk food",
+          "cola": "Junk food",
+          "fried burger": "Junk food",
+          "jelly sweets": "Junk food"
+        }
+      },
+      {
+        "type": "match",
+        "title": "Match each food to how it helps us.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "rice and bread",
+            "right": "give us energy"
+          },
+          {
+            "left": "dal and eggs",
+            "right": "help us grow"
+          },
+          {
+            "left": "fruits and vegetables",
+            "right": "keep us healthy"
+          },
+          {
+            "left": "water",
+            "right": "helps the body stay cool"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We should wash fruits before we eat them.",
+            "a": true
+          },
+          {
+            "q": "Too many sweets can harm our teeth.",
+            "a": true
+          },
+          {
+            "q": "We should skip breakfast before school.",
+            "a": false
+          },
+          {
+            "q": "We should drink lots of water every day.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We should wash our ___ before we eat.",
+            "a": "hands"
+          },
+          {
+            "q": "We chew food with our ___.",
+            "a": "teeth"
+          },
+          {
+            "q": "Fatima drinks a glass of ___ for strong bones.",
+            "a": "milk"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two healthy foods you would pack in your tiffin.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"idli and a banana\". One mark each."
+      }
+    ]
+  },
+  {
+    "id": "human-body-09",
+    "topic": "human-body",
+    "number": 9,
+    "level": "Practice",
+    "title": "Swimming Lessons in Al Ain",
+    "intro": "Omar and Priya learn to swim at a pool in Al Ain. Their lungs and heart work hard in the water.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We breathe in air through our nose and ___.",
+            "a": "mouth"
+          },
+          {
+            "q": "The air goes down into our two ___.",
+            "a": "lungs"
+          },
+          {
+            "q": "When Omar swims fast, his heart beats ___.",
+            "a": "faster / fast"
+          },
+          {
+            "q": "Priya wears ___ to protect her eyes in the water.",
+            "a": "goggles"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Our chest gets bigger when we breathe in.",
+            "a": true
+          },
+          {
+            "q": "We can hold our breath under water for one whole hour.",
+            "a": false
+          },
+          {
+            "q": "We should swim only when a lifeguard or grown-up is near.",
+            "a": true
+          },
+          {
+            "q": "We breathe out air from our lungs.",
+            "a": true
+          },
+          {
+            "q": "Swimming is bad exercise for the heart.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Our heart pumps",
+            "options": [
+              "blood",
+              "air"
+            ],
+            "after": "all over the body.",
+            "a": "blood"
+          },
+          {
+            "before": "We breathe in",
+            "options": [
+              "oxygen",
+              "smoke"
+            ],
+            "after": "to stay alive.",
+            "a": "oxygen"
+          },
+          {
+            "before": "Omar wears",
+            "options": [
+              "ear plugs",
+              "gloves"
+            ],
+            "after": "to keep water out of his ears.",
+            "a": "ear plugs"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the body part for each job.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "pumps blood",
+            "a": "heart"
+          },
+          {
+            "q": "helps us breathe",
+            "a": "lungs"
+          },
+          {
+            "q": "kicks in the water",
+            "a": "legs"
+          },
+          {
+            "q": "helps us think",
+            "a": "brain"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one safety rule at a swimming pool.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"Do not run near the pool.\""
+      }
+    ]
+  },
+  {
+    "id": "human-body-10",
+    "topic": "human-body",
+    "number": 10,
+    "level": "Practice",
+    "title": "Bedtime Routine at Nani's House",
+    "intro": "Kabir stays at Nani's house in Lucknow. Every night he follows a healthy bedtime routine.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort into Do before bed and Do not do before bed.",
+        "marks": 8,
+        "groups": [
+          "Do",
+          "Do not do"
+        ],
+        "words": [
+          "brush teeth",
+          "wash face and feet",
+          "change into clean clothes",
+          "read a short story",
+          "drink cola",
+          "play video games late",
+          "eat a big plate of sweets",
+          "watch scary films"
+        ],
+        "a": {
+          "brush teeth": "Do",
+          "wash face and feet": "Do",
+          "change into clean clothes": "Do",
+          "read a short story": "Do",
+          "drink cola": "Do not do",
+          "play video games late": "Do not do",
+          "eat a big plate of sweets": "Do not do",
+          "watch scary films": "Do not do"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Kabir brushes his teeth",
+            "options": [
+              "twice",
+              "once a week"
+            ],
+            "after": "a day.",
+            "a": "twice"
+          },
+          {
+            "before": "Sleep helps our body to",
+            "options": [
+              "rest",
+              "get tired"
+            ],
+            "after": "and grow.",
+            "a": "rest"
+          },
+          {
+            "before": "Kabir goes to bed",
+            "options": [
+              "early",
+              "very late"
+            ],
+            "after": "on school nights.",
+            "a": "early"
+          },
+          {
+            "before": "We should change our toothbrush every",
+            "options": [
+              "few months",
+              "few years"
+            ],
+            "after": ".",
+            "a": "few months"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Children need more sleep than grown-ups.",
+            "a": true
+          },
+          {
+            "q": "Sleeping late makes us fresh in the morning.",
+            "a": false
+          },
+          {
+            "q": "We should trim our nails to keep germs away.",
+            "a": true
+          },
+          {
+            "q": "We should brush our tongue gently too.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Nani says, \"Wash your ___ after using the toilet.\"",
+            "a": "hands"
+          },
+          {
+            "q": "Kabir combs his ___ in the morning.",
+            "a": "hair"
+          },
+          {
+            "q": "We use a ___ to clean between our teeth.",
+            "a": "floss / dental floss"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things you do before going to bed.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"I brush my teeth. I read a book.\""
+      }
+    ]
+  },
+  {
+    "id": "human-body-11",
+    "topic": "human-body",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Marathon Morning in Mumbai",
+    "intro": "Uncle Daniel runs a marathon along Marine Drive. Think about what each part of his body is doing.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the body part that is working hardest.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Daniel runs up a slope. His",
+            "options": [
+              "leg muscles",
+              "ears"
+            ],
+            "after": "work very hard.",
+            "a": "leg muscles"
+          },
+          {
+            "before": "He breathes fast. His",
+            "options": [
+              "lungs",
+              "stomach"
+            ],
+            "after": "take in more air.",
+            "a": "lungs"
+          },
+          {
+            "before": "He plans when to run faster. His",
+            "options": [
+              "brain",
+              "teeth"
+            ],
+            "after": "is thinking.",
+            "a": "brain"
+          },
+          {
+            "before": "His chest is thumping. His",
+            "options": [
+              "heart",
+              "skin"
+            ],
+            "after": "pumps blood fast.",
+            "a": "heart"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Daniel sweats because his body is getting hot.",
+            "a": true
+          },
+          {
+            "q": "Sweat comes out of tiny holes in the skin.",
+            "a": true
+          },
+          {
+            "q": "After the race, his heart beats faster and faster for days.",
+            "a": false
+          },
+          {
+            "q": "Daniel needs more water when he runs a lot.",
+            "a": true
+          },
+          {
+            "q": "His muscles work without any food.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Give the reason. Fill in the blanks.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "Daniel drinks water on the way because he loses water in ___.",
+            "a": "sweat"
+          },
+          {
+            "q": "He eats a banana before the race to get ___.",
+            "a": "energy"
+          },
+          {
+            "q": "He breathes fast because his muscles need more ___.",
+            "a": "oxygen / air"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the cause to what happens.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "running fast",
+            "right": "heart beats faster"
+          },
+          {
+            "left": "sitting still",
+            "right": "heart beats slower"
+          },
+          {
+            "left": "not drinking water",
+            "right": "feeling thirsty and tired"
+          },
+          {
+            "left": "sleeping well",
+            "right": "feeling fresh"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why does your heart beat faster when you run? Write one sentence.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"My muscles need more blood and oxygen, so my heart pumps faster.\""
+      }
+    ]
+  },
+  {
+    "id": "human-body-12",
+    "topic": "human-body",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Checking Tara's Science Notebook",
+    "intro": "Tara wrote these body facts in her notebook, but some are wrong. Help her fix them.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Each sentence has a mistake. Write it correctly.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "We hear with our nose.",
+            "a": "We hear with our ears."
+          },
+          {
+            "q": "The skull protects our heart.",
+            "a": "The skull protects our brain."
+          },
+          {
+            "q": "Our lungs pump blood around the body.",
+            "a": "Our heart pumps blood around the body."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Our ribs are like a cage around the heart and lungs.",
+            "a": true
+          },
+          {
+            "q": "The stomach is below the chest.",
+            "a": true
+          },
+          {
+            "q": "A baby has no bones.",
+            "a": false
+          },
+          {
+            "q": "Our skin keeps germs out of the body.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the odd one out.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "eyes, ears, nose, knee",
+            "a": "knee"
+          },
+          {
+            "q": "heart, lungs, brain, tiffin",
+            "a": "tiffin"
+          },
+          {
+            "q": "elbow, knee, wrist, tongue",
+            "a": "tongue"
+          },
+          {
+            "q": "apple, dal, chips, milk",
+            "a": "chips"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "We see with our eyes and think with our",
+            "options": [
+              "brain",
+              "heart"
+            ],
+            "after": ".",
+            "a": "brain"
+          },
+          {
+            "before": "Food goes down a pipe from the mouth to the",
+            "options": [
+              "stomach",
+              "lungs"
+            ],
+            "after": ".",
+            "a": "stomach"
+          },
+          {
+            "before": "The",
+            "options": [
+              "tongue",
+              "nose"
+            ],
+            "after": "can tell sweet from salty.",
+            "a": "tongue"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one body fact you know that Tara did not write.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"Our heart never stops beating.\" Any correct fact."
+      }
+    ]
+  },
+  {
+    "id": "human-body-13",
+    "topic": "human-body",
+    "number": 13,
+    "level": "Challenge",
+    "title": "The Blindfold Game at a Birthday Party",
+    "intro": "Sana plays a blindfold game at Liam's birthday. She cannot see, so she must use her other senses.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the sense Sana uses to guess.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "She guesses the lemon by its sour",
+            "options": [
+              "taste",
+              "colour"
+            ],
+            "after": ".",
+            "a": "taste"
+          },
+          {
+            "before": "She knows the cake is near by its",
+            "options": [
+              "smell",
+              "colour"
+            ],
+            "after": ".",
+            "a": "smell"
+          },
+          {
+            "before": "She finds Liam by his",
+            "options": [
+              "voice",
+              "shirt colour"
+            ],
+            "after": ".",
+            "a": "voice"
+          },
+          {
+            "before": "She knows the ball is round by",
+            "options": [
+              "touching it",
+              "looking at it"
+            ],
+            "after": ".",
+            "a": "touching it"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the clue to the sense organ Sana uses.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "a ringing phone",
+            "right": "ears"
+          },
+          {
+            "left": "rough sandpaper",
+            "right": "skin"
+          },
+          {
+            "left": "salty popcorn",
+            "right": "tongue"
+          },
+          {
+            "left": "a rose",
+            "right": "nose"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "With a blindfold on, Sana cannot use her eyes.",
+            "a": true
+          },
+          {
+            "q": "Sana can still taste food with a blindfold on.",
+            "a": true
+          },
+          {
+            "q": "People who cannot see can read using their fingers.",
+            "a": true
+          },
+          {
+            "q": "A person who cannot hear can talk using sign language.",
+            "a": true
+          },
+          {
+            "q": "We need our eyes to smell food.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Braille is a way of reading with the sense of ___.",
+            "a": "touch"
+          },
+          {
+            "q": "A hearing aid helps people who cannot hear well with their ___.",
+            "a": "ears"
+          },
+          {
+            "q": "We should never put strange things in our mouth to ___ them.",
+            "a": "taste"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which sense would you miss most? Write why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"Sight, because I could not see my family.\" Any sense with a reason."
+      }
+    ]
+  },
+  {
+    "id": "human-body-14",
+    "topic": "human-body",
+    "number": 14,
+    "level": "Challenge",
+    "title": "A Visit to the Science Centre in Kolkata",
+    "intro": "Rehan and Alicia follow a big model of how food travels through the body.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Put the food's journey in order. Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "First, food is chewed in the ___.",
+            "a": "mouth"
+          },
+          {
+            "q": "Next, it slides down the food ___.",
+            "a": "pipe / tube"
+          },
+          {
+            "q": "Then the ___ mashes it with juices.",
+            "a": "stomach"
+          },
+          {
+            "q": "Last, the useful part goes into the blood from the ___.",
+            "a": "intestines"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Saliva in the mouth makes food soft and wet.",
+            "a": true
+          },
+          {
+            "q": "We should chew our food well before we swallow.",
+            "a": true
+          },
+          {
+            "q": "Food goes from the mouth straight into the lungs.",
+            "a": false
+          },
+          {
+            "q": "Our body gets energy from the food we eat.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the parts into Inside the body and Outside the body.",
+        "marks": 8,
+        "groups": [
+          "Inside",
+          "Outside"
+        ],
+        "words": [
+          "stomach",
+          "heart",
+          "lungs",
+          "brain",
+          "chin",
+          "palm",
+          "heel",
+          "eyebrow"
+        ],
+        "a": {
+          "stomach": "Inside",
+          "heart": "Inside",
+          "lungs": "Inside",
+          "brain": "Inside",
+          "chin": "Outside",
+          "palm": "Outside",
+          "heel": "Outside",
+          "eyebrow": "Outside"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "An adult has about",
+            "options": [
+              "206",
+              "20"
+            ],
+            "after": "bones.",
+            "a": "206"
+          },
+          {
+            "before": "The biggest bone is in the",
+            "options": [
+              "thigh",
+              "ear"
+            ],
+            "after": ".",
+            "a": "thigh"
+          },
+          {
+            "before": "We have",
+            "options": [
+              "32",
+              "10"
+            ],
+            "after": "teeth when we grow up.",
+            "a": "32"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write why we should chew our food slowly.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"So the food becomes soft and is easy to swallow and digest.\""
+      }
+    ]
+  },
+  {
+    "id": "human-body-15",
+    "topic": "human-body",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Ramadan Iftar with the Family",
+    "intro": "Yusuf's family gathers for iftar in Dubai at sunset. They think about how food, water and rest help the body.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each part of iftar to how it helps.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "dates",
+            "right": "quick energy"
+          },
+          {
+            "left": "water",
+            "right": "stops thirst"
+          },
+          {
+            "left": "lentil soup",
+            "right": "helps us grow"
+          },
+          {
+            "left": "fruit salad",
+            "right": "keeps us healthy"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best choice for Yusuf.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "After a hot day, Yusuf drinks",
+            "options": [
+              "water",
+              "fizzy cola"
+            ],
+            "after": ".",
+            "a": "water"
+          },
+          {
+            "before": "Before eating, he washes his",
+            "options": [
+              "hands",
+              "shoes"
+            ],
+            "after": ".",
+            "a": "hands"
+          },
+          {
+            "before": "After dinner, he",
+            "options": [
+              "brushes his teeth",
+              "sleeps at once"
+            ],
+            "after": ".",
+            "a": "brushes his teeth"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Eating too fast can give us a stomach ache.",
+            "a": true
+          },
+          {
+            "q": "Our body needs water to stay well.",
+            "a": true
+          },
+          {
+            "q": "Fried food every day is good for the heart.",
+            "a": false
+          },
+          {
+            "q": "Sharing a plate with dirty hands can spread germs.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Name the sense used for each.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "smell of biryani",
+            "a": "smell"
+          },
+          {
+            "q": "call to prayer",
+            "a": "hearing"
+          },
+          {
+            "q": "sweet kunafa",
+            "a": "taste"
+          },
+          {
+            "q": "lanterns in the street",
+            "a": "sight"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Think, then fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Yusuf ate too many sweets and did not brush. His ___ may get holes.",
+            "a": "teeth"
+          },
+          {
+            "q": "Yusuf slept very late, so in the morning he feels ___.",
+            "a": "tired / sleepy"
+          },
+          {
+            "q": "After a long, hot day, Yusuf's body needs more ___.",
+            "a": "water"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two healthy habits you follow every day.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"I drink water. I play outside.\" One mark each."
+      }
+    ]
   }
 ]

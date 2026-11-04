@@ -609,5 +609,1203 @@
         "a": "Answers will vary, e.g. \"From a plant: apple. From an animal: egg.\""
       }
     ]
+  },
+  {
+    "id": "food-from-plants-and-animals-06",
+    "topic": "food-from-plants-and-animals",
+    "number": 6,
+    "level": "Practice",
+    "title": "The Spice Souk in Deira",
+    "intro": "Rania and her grandfather visit the spice souk in Deira. Every spice comes from a part of a plant.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the spice to the plant part it comes from.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "cinnamon",
+            "right": "bark"
+          },
+          {
+            "left": "cloves",
+            "right": "flower buds"
+          },
+          {
+            "left": "cumin",
+            "right": "seeds"
+          },
+          {
+            "left": "bay leaf",
+            "right": "leaf"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Spices come from plants.",
+            "a": true
+          },
+          {
+            "q": "Saffron comes from an animal.",
+            "a": false
+          },
+          {
+            "q": "Mustard seeds are spices from a plant.",
+            "a": true
+          },
+          {
+            "q": "Spices give food flavour and smell.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Seeds and Leaves.",
+        "marks": 8,
+        "groups": [
+          "Seeds",
+          "Leaves"
+        ],
+        "words": [
+          "sesame",
+          "fennel",
+          "basil",
+          "coriander seeds",
+          "curry leaves",
+          "mint",
+          "mustard",
+          "methi leaves"
+        ],
+        "a": {
+          "mustard": "Seeds",
+          "fennel": "Seeds",
+          "sesame": "Seeds",
+          "coriander seeds": "Seeds",
+          "mint": "Leaves",
+          "curry leaves": "Leaves",
+          "basil": "Leaves",
+          "methi leaves": "Leaves"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Grandpa buys",
+            "options": [
+              "cardamom",
+              "chalk"
+            ],
+            "after": "for his tea.",
+            "a": "cardamom"
+          },
+          {
+            "before": "Rania smells the spices with her",
+            "options": [
+              "nose",
+              "ears"
+            ],
+            "after": ".",
+            "a": "nose"
+          },
+          {
+            "before": "Spices are kept in jars with tight lids to stay",
+            "options": [
+              "fresh",
+              "wet"
+            ],
+            "after": ".",
+            "a": "fresh"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name one spice used in your home and one dish it goes in.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"Turmeric goes in dal.\""
+      }
+    ]
+  },
+  {
+    "id": "food-from-plants-and-animals-07",
+    "topic": "food-from-plants-and-animals",
+    "number": 7,
+    "level": "Practice",
+    "title": "The Fish Market in Kochi",
+    "intro": "Early in the morning, Joseph and his father buy fish at the harbour market in Kochi. Fishermen bring their catch from the sea.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Fish, prawns and crabs live in water.",
+            "a": true
+          },
+          {
+            "q": "Fishermen catch fish with nets.",
+            "a": true
+          },
+          {
+            "q": "Prawns grow on trees.",
+            "a": false
+          },
+          {
+            "q": "Fish is a food that helps build our body.",
+            "a": true
+          },
+          {
+            "q": "We get food from both the sea and the land.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into From the water and From the land.",
+        "marks": 8,
+        "groups": [
+          "From the water",
+          "From the land"
+        ],
+        "words": [
+          "squid",
+          "prawns",
+          "crab",
+          "chicken",
+          "eggs",
+          "honey",
+          "mutton",
+          "sardines"
+        ],
+        "a": {
+          "prawns": "From the water",
+          "crab": "From the water",
+          "squid": "From the water",
+          "sardines": "From the water",
+          "mutton": "From the land",
+          "chicken": "From the land",
+          "honey": "From the land",
+          "eggs": "From the land"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A person who catches fish is a ___.",
+            "a": "fisherman / fisher"
+          },
+          {
+            "q": "Fish breathe in water with their ___.",
+            "a": "gills"
+          },
+          {
+            "q": "Joseph's mother cooks fish ___ with coconut.",
+            "a": "curry"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Fresh fish has",
+            "options": [
+              "bright",
+              "cloudy"
+            ],
+            "after": "eyes.",
+            "a": "bright"
+          },
+          {
+            "before": "Fish are kept on",
+            "options": [
+              "ice",
+              "a stove"
+            ],
+            "after": "to stay fresh.",
+            "a": "ice"
+          },
+          {
+            "before": "Kochi is a city by the",
+            "options": [
+              "sea",
+              "desert"
+            ],
+            "after": ".",
+            "a": "sea"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one food from the sea that you have eaten or seen.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. prawns, fish, crab, squid."
+      }
+    ]
+  },
+  {
+    "id": "food-from-plants-and-animals-08",
+    "topic": "food-from-plants-and-animals",
+    "number": 8,
+    "level": "Practice",
+    "title": "A Poultry Farm and Beehives",
+    "intro": "Kiara visits her uncle's farm near Nashik. He keeps hens on a poultry farm and bees in wooden boxes.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the word to its meaning.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "poultry farm",
+            "right": "a farm where hens are kept"
+          },
+          {
+            "left": "beekeeper",
+            "right": "a person who looks after bees"
+          },
+          {
+            "left": "hive",
+            "right": "a home for bees"
+          },
+          {
+            "left": "nectar",
+            "right": "sweet juice inside flowers"
+          },
+          {
+            "left": "yolk",
+            "right": "the yellow part of an egg"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A hen lays eggs.",
+            "a": true
+          },
+          {
+            "q": "Beekeepers wear special suits to stay safe from stings.",
+            "a": true
+          },
+          {
+            "q": "Honey goes bad in one day.",
+            "a": false
+          },
+          {
+            "q": "Eggs should be cooked well before we eat them.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the animal it comes from.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "omelette",
+            "a": "hen"
+          },
+          {
+            "q": "honeycomb",
+            "a": "bee"
+          },
+          {
+            "q": "goat cheese",
+            "a": "goat"
+          },
+          {
+            "q": "buffalo milk",
+            "a": "buffalo"
+          },
+          {
+            "q": "lamb chops",
+            "a": "sheep"
+          },
+          {
+            "q": "fish fry",
+            "a": "fish"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Kiara collects eggs from the hens' ___.",
+            "a": "nests / nest / coop"
+          },
+          {
+            "q": "Bees collect nectar from ___.",
+            "a": "flowers"
+          },
+          {
+            "q": "A beekeeper uses ___ to calm the bees.",
+            "a": "smoke"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one food made with eggs or honey.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. cake, omelette, honey toast, egg curry."
+      }
+    ]
+  },
+  {
+    "id": "food-from-plants-and-animals-09",
+    "topic": "food-from-plants-and-animals",
+    "number": 9,
+    "level": "Practice",
+    "title": "The Apple Orchard in Himachal",
+    "intro": "Dhruv visits an apple orchard in Himachal Pradesh in autumn. He learns that fruits have seeds inside them.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Apples grow on trees.",
+            "a": true
+          },
+          {
+            "q": "A fruit grows from a flower.",
+            "a": true
+          },
+          {
+            "q": "A seed inside a fruit can grow into a new plant.",
+            "a": true
+          },
+          {
+            "q": "Bananas grow under the ground.",
+            "a": false
+          },
+          {
+            "q": "Apricots and plums also grow in the hills.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Fruits and Seeds.",
+        "marks": 8,
+        "groups": [
+          "Fruits",
+          "Seeds"
+        ],
+        "words": [
+          "maize",
+          "apricot",
+          "sunflower seeds",
+          "apple",
+          "kidney beans",
+          "cherry",
+          "plum",
+          "walnut"
+        ],
+        "a": {
+          "apple": "Fruits",
+          "plum": "Fruits",
+          "apricot": "Fruits",
+          "cherry": "Fruits",
+          "walnut": "Seeds",
+          "kidney beans": "Seeds",
+          "maize": "Seeds",
+          "sunflower seeds": "Seeds"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Dhruv picks a red",
+            "options": [
+              "apple",
+              "potato"
+            ],
+            "after": "from the tree.",
+            "a": "apple"
+          },
+          {
+            "before": "Inside the apple he finds small",
+            "options": [
+              "seeds",
+              "stones"
+            ],
+            "after": ".",
+            "a": "seeds"
+          },
+          {
+            "before": "The apples are packed in boxes and sent to the",
+            "options": [
+              "market",
+              "river"
+            ],
+            "after": ".",
+            "a": "market"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Dal, peas and beans are seeds called ___.",
+            "a": "pulses"
+          },
+          {
+            "q": "A farm with many fruit trees is an ___.",
+            "a": "orchard"
+          },
+          {
+            "q": "We should not swallow the hard ___ of a cherry.",
+            "a": "stone / seed"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name one fruit and one seed you ate this week.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"Fruit: banana. Seed: peanuts.\""
+      }
+    ]
+  },
+  {
+    "id": "food-from-plants-and-animals-10",
+    "topic": "food-from-plants-and-animals",
+    "number": 10,
+    "level": "Practice",
+    "title": "Harvest Time on a Wheat Farm",
+    "intro": "Gurleen's family in Haryana grows wheat, mustard and sugarcane. Now it is harvest time.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the crop to the food we make from it.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "wheat",
+            "right": "chapati"
+          },
+          {
+            "left": "mustard seeds",
+            "right": "mustard oil"
+          },
+          {
+            "left": "sugarcane",
+            "right": "jaggery"
+          },
+          {
+            "left": "maize",
+            "right": "popcorn"
+          },
+          {
+            "left": "tea leaves",
+            "right": "a cup of tea"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Cereals and Pulses.",
+        "marks": 8,
+        "groups": [
+          "Cereals",
+          "Pulses"
+        ],
+        "words": [
+          "wheat",
+          "bajra",
+          "masoor",
+          "barley",
+          "rice",
+          "moong",
+          "urad",
+          "chana"
+        ],
+        "a": {
+          "wheat": "Cereals",
+          "rice": "Cereals",
+          "bajra": "Cereals",
+          "barley": "Cereals",
+          "moong": "Pulses",
+          "masoor": "Pulses",
+          "chana": "Pulses",
+          "urad": "Pulses"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Cooking oil can come from seeds.",
+            "a": true
+          },
+          {
+            "q": "Sugar is made from sugarcane.",
+            "a": true
+          },
+          {
+            "q": "Wheat grows under the ground.",
+            "a": false
+          },
+          {
+            "q": "Farmers work hard to grow our food.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Wheat grains are ground into ___ to make rotis.",
+            "a": "flour / atta"
+          },
+          {
+            "q": "A ___ grinds wheat into flour.",
+            "a": "mill / chakki"
+          },
+          {
+            "q": "Bajra and ragi are kinds of ___.",
+            "a": "millet / millets"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one food made from wheat and one made from rice.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"Wheat: bread. Rice: idli.\""
+      }
+    ]
+  },
+  {
+    "id": "food-from-plants-and-animals-11",
+    "topic": "food-from-plants-and-animals",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Mistakes on the Cafe Menu Board",
+    "intro": "A cafe in Bur Dubai has a board saying where each food comes from. Some of the notes are wrong.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Is the note right? Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Paneer comes from milk.",
+            "a": true
+          },
+          {
+            "q": "Honey comes from flowers, not from an animal.",
+            "a": false
+          },
+          {
+            "q": "Butter is made from cream.",
+            "a": true
+          },
+          {
+            "q": "Peanut butter comes from an animal.",
+            "a": false
+          },
+          {
+            "q": "An omelette is made from eggs.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the wrong notes correctly.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Honey comes from flowers, not from an animal.",
+            "a": "Honey is made by bees from flower nectar."
+          },
+          {
+            "q": "Peanut butter comes from an animal.",
+            "a": "Peanut butter comes from a plant (peanuts)."
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the cafe foods.",
+        "marks": 9,
+        "groups": [
+          "Only from plants",
+          "Only from animals",
+          "From plants and animals"
+        ],
+        "words": [
+          "chicken biryani",
+          "potato fries",
+          "popcorn",
+          "honey",
+          "cheese sandwich",
+          "mango juice",
+          "banana milkshake",
+          "boiled egg",
+          "plain milk"
+        ],
+        "a": {
+          "potato fries": "Only from plants",
+          "mango juice": "Only from plants",
+          "popcorn": "Only from plants",
+          "plain milk": "Only from animals",
+          "honey": "Only from animals",
+          "boiled egg": "Only from animals",
+          "cheese sandwich": "From plants and animals",
+          "chicken biryani": "From plants and animals",
+          "banana milkshake": "From plants and animals"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the food that does not belong.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Odd one out:",
+            "options": [
+              "paneer",
+              "curd",
+              "carrot"
+            ],
+            "after": "",
+            "a": "carrot"
+          },
+          {
+            "before": "Odd one out:",
+            "options": [
+              "mango",
+              "ghee",
+              "lemon"
+            ],
+            "after": "",
+            "a": "ghee"
+          },
+          {
+            "before": "Odd one out:",
+            "options": [
+              "honey",
+              "egg",
+              "rice"
+            ],
+            "after": "",
+            "a": "rice"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "food-from-plants-and-animals-12",
+    "topic": "food-from-plants-and-animals",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Pizza Night at Home",
+    "intro": "On Friday, Neil and his dad make pizza at home in Mumbai. They check where each topping comes from.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write P (from a plant) or A (from an animal).",
+        "marks": 8,
+        "items": [
+          {
+            "q": "flour for the base",
+            "a": "P"
+          },
+          {
+            "q": "cheese",
+            "a": "A"
+          },
+          {
+            "q": "tomato sauce",
+            "a": "P"
+          },
+          {
+            "q": "capsicum",
+            "a": "P"
+          },
+          {
+            "q": "chicken pieces",
+            "a": "A"
+          },
+          {
+            "q": "sweet corn",
+            "a": "P"
+          },
+          {
+            "q": "basil leaves",
+            "a": "P"
+          },
+          {
+            "q": "butter",
+            "a": "A"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write what each food is made from. Say plant or animal for each part.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "a cheese pizza",
+            "a": "e.g. flour (plant), tomato (plant), cheese (animal)"
+          },
+          {
+            "q": "a mango lassi",
+            "a": "e.g. mango (plant), curd (animal), sugar (plant)"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A pizza can have food from both plants and animals.",
+            "a": true
+          },
+          {
+            "q": "Pizza flour comes from wheat.",
+            "a": true
+          },
+          {
+            "q": "Tomato is a root.",
+            "a": false
+          },
+          {
+            "q": "A capsicum is the fruit of a plant.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The sweet corn on the pizza is a",
+            "options": [
+              "seed",
+              "leaf"
+            ],
+            "after": ".",
+            "a": "seed"
+          },
+          {
+            "before": "The basil on top is a",
+            "options": [
+              "leaf",
+              "root"
+            ],
+            "after": ".",
+            "a": "leaf"
+          },
+          {
+            "before": "The onion on the pizza grows",
+            "options": [
+              "under the ground",
+              "on a tall tree"
+            ],
+            "after": ".",
+            "a": "under the ground"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Plan your own pizza. Write two plant toppings and one animal topping.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"Plant: olives, onion. Animal: cheese.\""
+      }
+    ]
+  },
+  {
+    "id": "food-from-plants-and-animals-13",
+    "topic": "food-from-plants-and-animals",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Anu's Mango Tree",
+    "intro": "Anu has a mango tree in her garden in Goa. In March it is full of tiny flowers. By May the flowers turn into green mangoes that ripen to yellow. Anu shares the sweet mangoes with her neighbours.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Read the story. Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Anu's garden is in",
+            "options": [
+              "Goa",
+              "Delhi"
+            ],
+            "after": ".",
+            "a": "Goa"
+          },
+          {
+            "before": "In March the tree is full of",
+            "options": [
+              "flowers",
+              "snow"
+            ],
+            "after": ".",
+            "a": "flowers"
+          },
+          {
+            "before": "Ripe mangoes are",
+            "options": [
+              "yellow",
+              "blue"
+            ],
+            "after": ".",
+            "a": "yellow"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The mangoes grew from the flowers.",
+            "a": true
+          },
+          {
+            "q": "The mangoes were ripe in March.",
+            "a": false
+          },
+          {
+            "q": "Anu kept all the mangoes for herself.",
+            "a": false
+          },
+          {
+            "q": "A mango is a fruit from a plant.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the mango food to how it is made.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "aam panna",
+            "right": "a drink made from raw mango"
+          },
+          {
+            "left": "mango pickle",
+            "right": "raw mango with oil and spices"
+          },
+          {
+            "left": "mango lassi",
+            "right": "ripe mango blended with curd"
+          },
+          {
+            "left": "aamras",
+            "right": "thick pulp of ripe mango"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Anu's tree is full of flowers in ___.",
+            "a": "March"
+          },
+          {
+            "q": "Raw mangoes are ___ in colour.",
+            "a": "green"
+          },
+          {
+            "q": "Mango lassi has food from a plant and from an ___.",
+            "a": "animal"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write a mango food you like. Does it have any food from an animal?",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"Mango milkshake. Yes, milk comes from a cow.\""
+      }
+    ]
+  },
+  {
+    "id": "food-from-plants-and-animals-14",
+    "topic": "food-from-plants-and-animals",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Wedding Feast Menu",
+    "intro": "At a big wedding in Lucknow, some guests eat only plant foods. All the dishes are cooked in oil, not ghee. Sana helps check the menu.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the dishes.",
+        "marks": 8,
+        "groups": [
+          "Only plant food",
+          "Has animal food"
+        ],
+        "words": [
+          "rasmalai",
+          "raita",
+          "mutton korma",
+          "aloo gobi",
+          "fruit chaat",
+          "chana masala",
+          "paneer tikka",
+          "jeera rice"
+        ],
+        "a": {
+          "chana masala": "Only plant food",
+          "aloo gobi": "Only plant food",
+          "fruit chaat": "Only plant food",
+          "jeera rice": "Only plant food",
+          "paneer tikka": "Has animal food",
+          "raita": "Has animal food",
+          "mutton korma": "Has animal food",
+          "rasmalai": "Has animal food"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Raita has curd, so it has animal food.",
+            "a": true
+          },
+          {
+            "q": "Rasmalai is made from milk, so it is not a plant-only dish.",
+            "a": true
+          },
+          {
+            "q": "Chana masala has chickpeas, which come from an animal.",
+            "a": false
+          },
+          {
+            "q": "Many vegetarians eat milk foods but not meat.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A guest who eats only plant food can eat",
+            "options": [
+              "jeera rice",
+              "rasmalai"
+            ],
+            "after": ".",
+            "a": "jeera rice"
+          },
+          {
+            "before": "A vegetarian guest does not eat",
+            "options": [
+              "mutton korma",
+              "aloo gobi"
+            ],
+            "after": ".",
+            "a": "mutton korma"
+          },
+          {
+            "before": "Sana puts",
+            "options": [
+              "mint chutney",
+              "egg curry"
+            ],
+            "after": "on the plant-only table.",
+            "a": "mint chutney"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in one sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Why can a plant-only guest not eat paneer tikka?",
+            "a": "Because paneer is made from milk, which comes from an animal."
+          },
+          {
+            "q": "Name a sweet that has only plant food in it.",
+            "a": "e.g. fruit salad, dates, peanut chikki with jaggery."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "food-from-plants-and-animals-15",
+    "topic": "food-from-plants-and-animals",
+    "number": 15,
+    "level": "Challenge",
+    "title": "How Food Reaches Our Table",
+    "intro": "Lunch at Ayesha's home in Sharjah has rice from India, fish from the sea and milk from a dairy farm. Many people help bring it to us.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Put the steps in order. Write 1, 2, 3, 4.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Mum cooks the rice.   A farmer grows the rice.   A truck takes it to the shop.   Papa buys it at the supermarket.",
+            "a": "4, 1, 2, 3 (farmer grows, truck takes, Papa buys, Mum cooks)"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the helper to the job.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "farmer",
+            "right": "grows wheat and vegetables"
+          },
+          {
+            "left": "fisherman",
+            "right": "catches fish"
+          },
+          {
+            "left": "dairy farmer",
+            "right": "milks cows"
+          },
+          {
+            "left": "baker",
+            "right": "bakes bread"
+          },
+          {
+            "left": "shopkeeper",
+            "right": "sells food to us"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Rice can travel by ship from India to the UAE.",
+            "a": true
+          },
+          {
+            "q": "Wasting food wastes the hard work of farmers.",
+            "a": true
+          },
+          {
+            "q": "Leftover food can be shared or kept in the fridge.",
+            "a": true
+          },
+          {
+            "q": "Food comes only from shops, not from plants and animals.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Ayesha takes",
+            "options": [
+              "a small",
+              "a huge"
+            ],
+            "after": "helping first, so she does not waste food.",
+            "a": "a small"
+          },
+          {
+            "before": "Fruit peels can go into a",
+            "options": [
+              "compost bin",
+              "river"
+            ],
+            "after": ".",
+            "a": "compost bin"
+          },
+          {
+            "before": "We say thank you to the",
+            "options": [
+              "farmers",
+              "robots"
+            ],
+            "after": "for our food.",
+            "a": "farmers"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way you can stop wasting food at home.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. take only what I can eat, share leftovers, keep food covered in the fridge."
+      }
+    ]
   }
 ]

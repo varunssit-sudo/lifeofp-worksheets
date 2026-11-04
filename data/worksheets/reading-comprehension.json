@@ -606,5 +606,1254 @@
         "a": "Answers will vary. Names a kind of book and gives a reason, e.g. I would pick a book about sharks because I like the sea."
       }
     ]
+  },
+  {
+    "id": "reading-comprehension-06",
+    "topic": "reading-comprehension",
+    "number": 6,
+    "level": "Practice",
+    "title": "Diwali Lamps on the Balcony",
+    "intro": "On Diwali evening, Kavya and her grandmother lit twelve clay lamps on the balcony. Her little brother Om made a rangoli with pink and yellow powder. Their neighbour Mrs Fernandes brought a box of kaju katli. Everyone watched the fireworks from the window.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Read the story. Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Kavya lit the lamps with her",
+            "options": [
+              "grandmother",
+              "mother",
+              "aunt"
+            ],
+            "after": ".",
+            "a": "grandmother"
+          },
+          {
+            "before": "They lit",
+            "options": [
+              "twelve",
+              "ten",
+              "two"
+            ],
+            "after": "clay lamps.",
+            "a": "twelve"
+          },
+          {
+            "before": "The lamps were on the",
+            "options": [
+              "balcony",
+              "roof",
+              "gate"
+            ],
+            "after": ".",
+            "a": "balcony"
+          },
+          {
+            "before": "Om used pink and",
+            "options": [
+              "yellow",
+              "blue",
+              "green"
+            ],
+            "after": "powder.",
+            "a": "yellow"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each question to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Who made the rangoli?",
+            "right": "Om"
+          },
+          {
+            "left": "Who brought the sweets?",
+            "right": "Mrs Fernandes"
+          },
+          {
+            "left": "When did they light the lamps?",
+            "right": "On Diwali evening"
+          },
+          {
+            "left": "Where did they watch the fireworks?",
+            "right": "From the window"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Om is Kavya's little brother.",
+            "a": true
+          },
+          {
+            "q": "The lamps were made of clay.",
+            "a": true
+          },
+          {
+            "q": "Mrs Fernandes brought a cake.",
+            "a": false
+          },
+          {
+            "q": "They watched the fireworks in the park.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a full sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "What did Om make?",
+            "a": "Om made a rangoli with pink and yellow powder."
+          },
+          {
+            "q": "What did Mrs Fernandes bring?",
+            "a": "Mrs Fernandes brought a box of kaju katli."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about how your family celebrates a festival.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. We light lamps and eat sweets at Diwali. One complete sentence."
+      }
+    ]
+  },
+  {
+    "id": "reading-comprehension-07",
+    "topic": "reading-comprehension",
+    "number": 7,
+    "level": "Practice",
+    "title": "Bus Ride to Abu Dhabi",
+    "intro": "On Saturday morning, Yusuf and his father took a bus from Dubai to Abu Dhabi. The ride took two hours. Yusuf looked out of the window and counted white cars. Then they visited the Grand Mosque with its white domes.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blank from the story.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Yusuf went with his ___.",
+            "a": "father"
+          },
+          {
+            "q": "The bus left from ___.",
+            "a": "Dubai"
+          },
+          {
+            "q": "The ride took two ___.",
+            "a": "hours"
+          },
+          {
+            "q": "Yusuf counted white ___.",
+            "a": "cars"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Read the story. Circle the right word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "They travelled on",
+            "options": [
+              "Saturday",
+              "Sunday",
+              "Monday"
+            ],
+            "after": ".",
+            "a": "Saturday"
+          },
+          {
+            "before": "They went in the",
+            "options": [
+              "morning",
+              "evening",
+              "night"
+            ],
+            "after": ".",
+            "a": "morning"
+          },
+          {
+            "before": "The domes of the mosque were",
+            "options": [
+              "white",
+              "gold",
+              "blue"
+            ],
+            "after": ".",
+            "a": "white"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Find the word in the story for each clue.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "the day after Friday",
+            "a": "Saturday"
+          },
+          {
+            "q": "a big vehicle that carries many people",
+            "a": "bus"
+          },
+          {
+            "q": "a place where Muslims pray",
+            "a": "mosque"
+          },
+          {
+            "q": "you look out of it on a bus",
+            "a": "window"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Yusuf went with his mother.",
+            "a": false
+          },
+          {
+            "q": "The ride took two hours.",
+            "a": true
+          },
+          {
+            "q": "Yusuf counted red cars.",
+            "a": false
+          },
+          {
+            "q": "They visited a mosque.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Where would you like to go by bus? Write two sentences.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Two complete sentences naming a place and why."
+      }
+    ]
+  },
+  {
+    "id": "reading-comprehension-08",
+    "topic": "reading-comprehension",
+    "number": 8,
+    "level": "Practice",
+    "title": "The Mango Tree at Nani's House",
+    "intro": "Tara spent May at Nani's house in Lucknow. A tall mango tree grew in the yard. One hot afternoon, Tara and her cousin Neel picked six ripe mangoes. Nani cut them, and the children ate them with cold milk.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each question to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Where does Nani live?",
+            "right": "In Lucknow"
+          },
+          {
+            "left": "How many mangoes did they pick?",
+            "right": "Six"
+          },
+          {
+            "left": "Which month did Tara visit?",
+            "right": "May"
+          },
+          {
+            "left": "Where did the tree grow?",
+            "right": "In the yard"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Read the story. Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The mango tree was",
+            "options": [
+              "tall",
+              "short",
+              "small"
+            ],
+            "after": ".",
+            "a": "tall"
+          },
+          {
+            "before": "It was a",
+            "options": [
+              "hot",
+              "cold",
+              "rainy"
+            ],
+            "after": "afternoon.",
+            "a": "hot"
+          },
+          {
+            "before": "Neel is Tara's",
+            "options": [
+              "cousin",
+              "brother",
+              "friend"
+            ],
+            "after": ".",
+            "a": "cousin"
+          },
+          {
+            "before": "The mangoes were",
+            "options": [
+              "ripe",
+              "green",
+              "rotten"
+            ],
+            "after": ".",
+            "a": "ripe"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Nani cut the mangoes.",
+            "a": true
+          },
+          {
+            "q": "Tara visited Nani in December.",
+            "a": false
+          },
+          {
+            "q": "Tara picked ten mangoes.",
+            "a": false
+          },
+          {
+            "q": "The children drank cold milk.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a full sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Who picked the mangoes?",
+            "a": "Tara and Neel picked the mangoes."
+          },
+          {
+            "q": "What did the children eat the mangoes with?",
+            "a": "The children ate the mangoes with cold milk."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which fruit do you like best in summer? Write why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. I like watermelon best because it is cold and juicy."
+      }
+    ]
+  },
+  {
+    "id": "reading-comprehension-09",
+    "topic": "reading-comprehension",
+    "number": 9,
+    "level": "Practice",
+    "title": "Sports Day Relay Race",
+    "intro": "On Sports Day, Ishaan and Leela ran in a relay race for the Blue House. Ishaan ran first and passed the baton to Leela. Leela dropped the baton but picked it up quickly. The Blue House still won the race against the Red House.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Ishaan ran first.",
+            "a": true
+          },
+          {
+            "q": "Leela was in the Red House.",
+            "a": false
+          },
+          {
+            "q": "Leela dropped the baton.",
+            "a": true
+          },
+          {
+            "q": "The Red House won the race.",
+            "a": false
+          },
+          {
+            "q": "Ishaan and Leela were in the same house.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Read the story. Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Ishaan passed the baton to",
+            "options": [
+              "Leela",
+              "his teacher",
+              "the Red House"
+            ],
+            "after": ".",
+            "a": "Leela"
+          },
+          {
+            "before": "Leela picked up the baton",
+            "options": [
+              "quickly",
+              "slowly",
+              "later"
+            ],
+            "after": ".",
+            "a": "quickly"
+          },
+          {
+            "before": "It was a",
+            "options": [
+              "relay",
+              "sack",
+              "spoon"
+            ],
+            "after": "race.",
+            "a": "relay"
+          },
+          {
+            "before": "The winner was the",
+            "options": [
+              "Blue",
+              "Red",
+              "Green"
+            ],
+            "after": "House.",
+            "a": "Blue"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the beginning to the end.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Ishaan ran",
+            "right": "first"
+          },
+          {
+            "left": "Leela dropped",
+            "right": "the baton"
+          },
+          {
+            "left": "The Blue House",
+            "right": "won the race"
+          },
+          {
+            "left": "The race was on",
+            "right": "Sports Day"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a full sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "What did Leela do after she dropped the baton?",
+            "a": "Leela picked it up quickly."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "How do you think Leela felt when she dropped the baton? Write why.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. Leela felt worried because she did not want her team to lose."
+      }
+    ]
+  },
+  {
+    "id": "reading-comprehension-10",
+    "topic": "reading-comprehension",
+    "number": 10,
+    "level": "Practice",
+    "title": "Rainy Day in Mumbai",
+    "intro": "In July, heavy rain fell all day in Mumbai. Arya's school was closed, so she stayed at home. She made paper boats with her father and sailed them in a puddle. Her mother made hot pakoras for tea.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the blank from the story.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Heavy rain fell in ___.",
+            "a": "Mumbai"
+          },
+          {
+            "q": "Arya's school was ___.",
+            "a": "closed"
+          },
+          {
+            "q": "She made paper ___ with her father.",
+            "a": "boats"
+          },
+          {
+            "q": "Her mother made hot ___.",
+            "a": "pakoras"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Read the story. Circle the right word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Arya sailed the boats in a",
+            "options": [
+              "puddle",
+              "river",
+              "bucket"
+            ],
+            "after": ".",
+            "a": "puddle"
+          },
+          {
+            "before": "The rain fell",
+            "options": [
+              "all day",
+              "for one hour",
+              "at night"
+            ],
+            "after": ".",
+            "a": "all day"
+          },
+          {
+            "before": "Arya made the boats with her",
+            "options": [
+              "father",
+              "sister",
+              "friend"
+            ],
+            "after": ".",
+            "a": "father"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Is it in the story or not? Sort the words.",
+        "marks": 6,
+        "groups": [
+          "In the story",
+          "Not in the story"
+        ],
+        "words": [
+          "paper boats",
+          "umbrella",
+          "pakoras",
+          "school bus",
+          "puddle",
+          "cricket"
+        ],
+        "a": {
+          "paper boats": "In the story",
+          "umbrella": "Not in the story",
+          "pakoras": "In the story",
+          "school bus": "Not in the story",
+          "puddle": "In the story",
+          "cricket": "Not in the story"
+        }
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a full sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Why did Arya stay at home?",
+            "a": "Arya stayed at home because her school was closed."
+          },
+          {
+            "q": "When did the heavy rain fall?",
+            "a": "The heavy rain fell in July."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "What do you like to do on a rainy day? Write two sentences.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Two complete sentences about a rainy day activity."
+      }
+    ]
+  },
+  {
+    "id": "reading-comprehension-11",
+    "topic": "reading-comprehension",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Camel at the Heritage Village",
+    "intro": "Noor's class went to the Heritage Village on a cool winter morning. A camel named Sultan was sitting under a palm tree. When the keeper gave him dates, Sultan stood up slowly and made a loud noise. The children laughed and covered their ears.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Read the story. Circle the best answer.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Sultan was sitting under a",
+            "options": [
+              "palm tree",
+              "tent",
+              "bridge"
+            ],
+            "after": ".",
+            "a": "palm tree"
+          },
+          {
+            "before": "Sultan stood up when he got",
+            "options": [
+              "dates",
+              "water",
+              "a hat"
+            ],
+            "after": ".",
+            "a": "dates"
+          },
+          {
+            "before": "The best title for this story is",
+            "options": [
+              "Sultan the Camel",
+              "A Day at the Beach",
+              "Noor's New Shoes"
+            ],
+            "after": ".",
+            "a": "Sultan the Camel"
+          },
+          {
+            "before": "The trip was in",
+            "options": [
+              "winter",
+              "summer",
+              "the rainy season"
+            ],
+            "after": ".",
+            "a": "winter"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Put the story in order. Match each word to what happened.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "First",
+            "right": "The class went to the Heritage Village."
+          },
+          {
+            "left": "Next",
+            "right": "They saw Sultan under a palm tree."
+          },
+          {
+            "left": "Then",
+            "right": "The keeper gave Sultan dates."
+          },
+          {
+            "left": "Last",
+            "right": "The children laughed."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Think about the story. Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Sultan is the name of the keeper.",
+            "a": false
+          },
+          {
+            "q": "The camel was sitting in the shade.",
+            "a": true
+          },
+          {
+            "q": "The children were scared and cried.",
+            "a": false
+          },
+          {
+            "q": "Noor went to the village with her class.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Find the word in the story for each clue.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "a sweet fruit from a palm tree",
+            "a": "dates"
+          },
+          {
+            "q": "a person who looks after animals",
+            "a": "keeper"
+          },
+          {
+            "q": "not quickly",
+            "a": "slowly"
+          },
+          {
+            "q": "the opposite of cried",
+            "a": "laughed"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a full sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Why did the children cover their ears?",
+            "a": "The children covered their ears because Sultan made a loud noise."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Would you like to ride a camel? Write why or why not.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. Yes, because I want to see the desert from up high."
+      }
+    ]
+  },
+  {
+    "id": "reading-comprehension-12",
+    "topic": "reading-comprehension",
+    "number": 12,
+    "level": "Challenge",
+    "title": "The Missing Lunchbox",
+    "intro": "At break time, Rohan could not find his green lunchbox. He looked under his desk and in his bag. Then his friend Aiko saw something green on the music room shelf. Rohan smiled because he had left it there after singing practice.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Rohan found the lunchbox in his bag.",
+            "a": false
+          },
+          {
+            "q": "Aiko helped Rohan.",
+            "a": true
+          },
+          {
+            "q": "Rohan had singing practice before break.",
+            "a": true
+          },
+          {
+            "q": "The lunchbox was red.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Read the story. Circle the best answer.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "When he could not find it, Rohan felt",
+            "options": [
+              "worried",
+              "sleepy",
+              "proud"
+            ],
+            "after": ".",
+            "a": "worried"
+          },
+          {
+            "before": "At the end, Rohan felt",
+            "options": [
+              "happy",
+              "sad",
+              "scared"
+            ],
+            "after": ".",
+            "a": "happy"
+          },
+          {
+            "before": "The lunchbox was in the",
+            "options": [
+              "music room",
+              "art room",
+              "library"
+            ],
+            "after": ".",
+            "a": "music room"
+          },
+          {
+            "before": "Rohan looked for it at",
+            "options": [
+              "break time",
+              "home time",
+              "night"
+            ],
+            "after": ".",
+            "a": "break time"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a full sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Where did Rohan look for his lunchbox?",
+            "a": "Rohan looked under his desk and in his bag."
+          },
+          {
+            "q": "Why was the lunchbox in the music room?",
+            "a": "Rohan had left it there after singing practice."
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the missing word in the story.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Rohan could not ___ his lunchbox.",
+            "a": "find"
+          },
+          {
+            "q": "Aiko saw something ___ on the shelf.",
+            "a": "green"
+          },
+          {
+            "q": "Rohan ___ when he saw it.",
+            "a": "smiled"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Have you ever lost something? Write what you did to find it.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. I lost my cap. I looked in my bag and found it in the car."
+      }
+    ]
+  },
+  {
+    "id": "reading-comprehension-13",
+    "topic": "reading-comprehension",
+    "number": 13,
+    "level": "Challenge",
+    "title": "A Visit to the Dentist",
+    "intro": "Last Monday, Elena had a sore tooth, so her mother took her to Dr Mehta. The dentist looked inside her mouth with a tiny mirror. He said Elena must brush twice a day and eat fewer toffees. Elena got a yellow sticker for being brave.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Each sentence has one mistake. Write it correctly.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Elena's father took her to the dentist.",
+            "a": "Elena's mother took her to the dentist."
+          },
+          {
+            "q": "The dentist used a big mirror.",
+            "a": "The dentist used a tiny mirror."
+          },
+          {
+            "q": "Elena got a red sticker.",
+            "a": "Elena got a yellow sticker."
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Read the story. Circle the right word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Elena went to the dentist because she had a",
+            "options": [
+              "sore tooth",
+              "cold",
+              "cut knee"
+            ],
+            "after": ".",
+            "a": "sore tooth"
+          },
+          {
+            "before": "The dentist's name is",
+            "options": [
+              "Dr Mehta",
+              "Dr Rao",
+              "Dr Khan"
+            ],
+            "after": ".",
+            "a": "Dr Mehta"
+          },
+          {
+            "before": "Elena must eat fewer",
+            "options": [
+              "toffees",
+              "apples",
+              "carrots"
+            ],
+            "after": ".",
+            "a": "toffees"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Elena went to the dentist last Monday.",
+            "a": true
+          },
+          {
+            "q": "The dentist said to brush once a day.",
+            "a": false
+          },
+          {
+            "q": "Elena was brave.",
+            "a": true
+          },
+          {
+            "q": "Elena must eat more toffees.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each word from the story to its meaning.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "sore",
+            "right": "hurting"
+          },
+          {
+            "left": "tiny",
+            "right": "very small"
+          },
+          {
+            "left": "brave",
+            "right": "not afraid"
+          },
+          {
+            "left": "twice",
+            "right": "two times"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing you do to keep your teeth healthy.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. I brush my teeth every morning and night."
+      }
+    ]
+  },
+  {
+    "id": "reading-comprehension-14",
+    "topic": "reading-comprehension",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Class Garden Project",
+    "intro": "Class 2B planted seeds in four pots on Monday. Dhruv watered them every morning, and Sara put the pots in the sun. After one week, three pots had tiny green shoots, but one pot had nothing. Ms Joseph said that pot needed more time.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Read the story. Circle the best answer.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The number of pots with shoots was",
+            "options": [
+              "three",
+              "four",
+              "one"
+            ],
+            "after": ".",
+            "a": "three"
+          },
+          {
+            "before": "The pots were put in the",
+            "options": [
+              "sun",
+              "cupboard",
+              "fridge"
+            ],
+            "after": ".",
+            "a": "sun"
+          },
+          {
+            "before": "Dhruv watered the pots every",
+            "options": [
+              "morning",
+              "evening",
+              "Sunday"
+            ],
+            "after": ".",
+            "a": "morning"
+          },
+          {
+            "before": "Ms Joseph is most likely the",
+            "options": [
+              "teacher",
+              "bus driver",
+              "doctor"
+            ],
+            "after": ".",
+            "a": "teacher"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Put the story in order. Match each word to what happened.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "First",
+            "right": "The class planted seeds."
+          },
+          {
+            "left": "Next",
+            "right": "Dhruv and Sara looked after the pots."
+          },
+          {
+            "left": "Then",
+            "right": "Shoots came up after a week."
+          },
+          {
+            "left": "Last",
+            "right": "Ms Joseph said one pot needed more time."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The seeds were planted on Monday.",
+            "a": true
+          },
+          {
+            "q": "All four pots had shoots after one week.",
+            "a": false
+          },
+          {
+            "q": "Sara put the pots in the sun.",
+            "a": true
+          },
+          {
+            "q": "Ms Joseph threw the empty pot away.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Think and answer in a full sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Why do you think the seeds grew?",
+            "a": "e.g. The seeds grew because they got water and sunlight."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "What would you like to grow in a pot? Write how you would look after it.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. I would grow mint. I would water it and keep it in the sun."
+      }
+    ]
+  },
+  {
+    "id": "reading-comprehension-15",
+    "topic": "reading-comprehension",
+    "number": 15,
+    "level": "Challenge",
+    "title": "The Fishing Boats at Sunrise",
+    "intro": "Before sunrise, Ammar walked with his grandfather to the beach in Fujairah. The fishermen were pulling their nets out of the boats. One net was full of shiny silver fish, and hungry birds circled above. Grandfather bought two big fish for lunch.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Read the story. Circle the best answer.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The best title for this story is",
+            "options": [
+              "Morning at the Beach",
+              "A Day at School",
+              "The Lost Kite"
+            ],
+            "after": ".",
+            "a": "Morning at the Beach"
+          },
+          {
+            "before": "They went to the beach",
+            "options": [
+              "before sunrise",
+              "at lunch time",
+              "at night"
+            ],
+            "after": ".",
+            "a": "before sunrise"
+          },
+          {
+            "before": "The fish were",
+            "options": [
+              "silver",
+              "red",
+              "yellow"
+            ],
+            "after": ".",
+            "a": "silver"
+          },
+          {
+            "before": "Grandfather bought",
+            "options": [
+              "two",
+              "three",
+              "five"
+            ],
+            "after": "fish.",
+            "a": "two"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Find the word in the story for each clue.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "men who catch fish",
+            "a": "fishermen"
+          },
+          {
+            "q": "bright and gleaming",
+            "a": "shiny"
+          },
+          {
+            "q": "flew round and round",
+            "a": "circled"
+          },
+          {
+            "q": "wanting food",
+            "a": "hungry"
+          },
+          {
+            "q": "the meal in the middle of the day",
+            "a": "lunch"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Think about the story. Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Ammar went with his father.",
+            "a": false
+          },
+          {
+            "q": "The birds wanted to eat the fish.",
+            "a": true
+          },
+          {
+            "q": "The fishermen were pulling nets.",
+            "a": true
+          },
+          {
+            "q": "Ammar carried the nets.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Answer in a full sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Where did Ammar go before sunrise?",
+            "a": "Ammar went to the beach in Fujairah."
+          },
+          {
+            "q": "Why did Grandfather buy the fish?",
+            "a": "Grandfather bought the fish for lunch."
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about a morning you remember.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary. Two complete sentences about a morning."
+      }
+    ]
   }
 ]

@@ -597,5 +597,1229 @@
         "a": "They eat aphids and other small pests that harm plants."
       }
     ]
+  },
+  {
+    "id": "insects-06",
+    "topic": "insects",
+    "number": 6,
+    "level": "Practice",
+    "title": "Mosquito Watch After the Monsoon Rain",
+    "intro": "After the monsoon in Kolkata, Ishaan finds puddles near his building. Mosquitoes lay eggs in still water.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the life cycle of a mosquito.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A mosquito lays its ___ on still water.",
+            "a": "eggs"
+          },
+          {
+            "q": "A wriggling ___ comes out and lives in the water.",
+            "a": "larva"
+          },
+          {
+            "q": "The larva turns into a ___.",
+            "a": "pupa"
+          },
+          {
+            "q": "At last, an ___ mosquito flies away.",
+            "a": "adult"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Stops mosquitoes and Helps mosquitoes.",
+        "marks": 8,
+        "groups": [
+          "Stops mosquitoes",
+          "Helps mosquitoes"
+        ],
+        "words": [
+          "emptying old tyres",
+          "covering water tanks",
+          "sleeping under a net",
+          "changing water in flower vases",
+          "leaving buckets of water open",
+          "throwing cups in drains",
+          "keeping old pots full of rain",
+          "leaving windows open at dusk"
+        ],
+        "a": {
+          "emptying old tyres": "Stops mosquitoes",
+          "covering water tanks": "Stops mosquitoes",
+          "sleeping under a net": "Stops mosquitoes",
+          "changing water in flower vases": "Stops mosquitoes",
+          "leaving buckets of water open": "Helps mosquitoes",
+          "throwing cups in drains": "Helps mosquitoes",
+          "keeping old pots full of rain": "Helps mosquitoes",
+          "leaving windows open at dusk": "Helps mosquitoes"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Mosquito larvae live in water.",
+            "a": true
+          },
+          {
+            "q": "A mosquito has six legs.",
+            "a": true
+          },
+          {
+            "q": "Mosquitoes can spread dengue and malaria.",
+            "a": true
+          },
+          {
+            "q": "Mosquitoes like clean, dry places best.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A mosquito bite makes our skin",
+            "options": [
+              "itchy",
+              "shiny"
+            ],
+            "after": ".",
+            "a": "itchy"
+          },
+          {
+            "before": "Mosquitoes make a",
+            "options": [
+              "buzzing",
+              "chirping"
+            ],
+            "after": "sound near our ears.",
+            "a": "buzzing"
+          },
+          {
+            "before": "Ishaan's mother puts a",
+            "options": [
+              "mesh",
+              "mirror"
+            ],
+            "after": "on the windows.",
+            "a": "mesh"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way to stop mosquitoes at your home.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"Empty the water from old pots.\""
+      }
+    ]
+  },
+  {
+    "id": "insects-07",
+    "topic": "insects",
+    "number": 7,
+    "level": "Practice",
+    "title": "A Night Camp in the Western Ghats",
+    "intro": "Noah and Divya go on a night camp in the hills. They hear and see many night insects.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each night insect to what it does.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "firefly",
+            "right": "flashes a light"
+          },
+          {
+            "left": "cricket",
+            "right": "chirps by rubbing its wings"
+          },
+          {
+            "left": "moth",
+            "right": "flies around the lamp"
+          },
+          {
+            "left": "cockroach",
+            "right": "hides in dark corners"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Moths are often seen at night.",
+            "a": true
+          },
+          {
+            "q": "A firefly's light comes from a tiny battery.",
+            "a": false
+          },
+          {
+            "q": "A cricket is an insect with six legs.",
+            "a": true
+          },
+          {
+            "q": "A moth is an insect, just like a butterfly.",
+            "a": true
+          },
+          {
+            "q": "All insects sleep at night.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A moth has",
+            "options": [
+              "feathery",
+              "straight"
+            ],
+            "after": "antennae.",
+            "a": "feathery"
+          },
+          {
+            "before": "The camp leader keeps the tent",
+            "options": [
+              "zipped shut",
+              "wide open"
+            ],
+            "after": "to keep insects out.",
+            "a": "zipped shut"
+          },
+          {
+            "before": "Divya uses a",
+            "options": [
+              "torch",
+              "kite"
+            ],
+            "after": "to look at the moths.",
+            "a": "torch"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write how many.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "legs on a moth",
+            "a": "6"
+          },
+          {
+            "q": "body parts of a cricket",
+            "a": "3"
+          },
+          {
+            "q": "antennae on a firefly",
+            "a": "2"
+          },
+          {
+            "q": "wings on a moth",
+            "a": "4"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A firefly glows at ___.",
+            "a": "night"
+          },
+          {
+            "q": "A cricket hears with ears on its ___.",
+            "a": "legs"
+          },
+          {
+            "q": "Noah shines a light so he does not ___ on insects.",
+            "a": "step"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sound you might hear at night in a forest.",
+        "marks": 1,
+        "lines": 1,
+        "a": "Answers will vary, e.g. \"crickets chirping\" or \"an owl hooting\"."
+      }
+    ]
+  },
+  {
+    "id": "insects-08",
+    "topic": "insects",
+    "number": 8,
+    "level": "Practice",
+    "title": "The Silk Weavers of Kanchipuram",
+    "intro": "Meera visits silk weavers in Kanchipuram with Amma. Silk comes from a tiny insect called the silkworm.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the life cycle of a silk moth.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The silk moth lays tiny ___.",
+            "a": "eggs"
+          },
+          {
+            "q": "A ___ hatches and eats mulberry leaves.",
+            "a": "silkworm / caterpillar"
+          },
+          {
+            "q": "The silkworm spins a ___ of silk thread around itself.",
+            "a": "cocoon"
+          },
+          {
+            "q": "A silk ___ comes out of the cocoon.",
+            "a": "moth"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A silkworm eats mulberry leaves.",
+            "a": true
+          },
+          {
+            "q": "Silk thread comes from the cocoon.",
+            "a": true
+          },
+          {
+            "q": "Silk is made from the feathers of birds.",
+            "a": false
+          },
+          {
+            "q": "A silkworm is the young one of a moth.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Made by insects and Not made by insects.",
+        "marks": 6,
+        "groups": [
+          "Made by insects",
+          "Not made by insects"
+        ],
+        "words": [
+          "silk",
+          "honey",
+          "beeswax",
+          "cotton",
+          "wool",
+          "leather"
+        ],
+        "a": {
+          "silk": "Made by insects",
+          "honey": "Made by insects",
+          "beeswax": "Made by insects",
+          "cotton": "Not made by insects",
+          "wool": "Not made by insects",
+          "leather": "Not made by insects"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Meera's",
+            "options": [
+              "saree",
+              "plate"
+            ],
+            "after": "is made of silk.",
+            "a": "saree"
+          },
+          {
+            "before": "Silk feels",
+            "options": [
+              "soft and smooth",
+              "rough and hard"
+            ],
+            "after": ".",
+            "a": "soft and smooth"
+          },
+          {
+            "before": "Silkworms are kept on",
+            "options": [
+              "trays",
+              "rooftops"
+            ],
+            "after": "of leaves.",
+            "a": "trays"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing made from silk.",
+        "marks": 2,
+        "lines": 2,
+        "a": "Answers will vary, e.g. \"a silk scarf\" or \"a silk saree\"."
+      }
+    ]
+  },
+  {
+    "id": "insects-09",
+    "topic": "insects",
+    "number": 9,
+    "level": "Practice",
+    "title": "Harvest Time on Uncle's Farm in Punjab",
+    "intro": "Gurpreet and Mateo help at harvest time. Green grasshoppers jump between the wheat.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each grasshopper body part to its job.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "long back legs",
+            "right": "jump far"
+          },
+          {
+            "left": "wings",
+            "right": "fly"
+          },
+          {
+            "left": "antennae",
+            "right": "feel and smell"
+          },
+          {
+            "left": "strong jaws",
+            "right": "chew leaves"
+          },
+          {
+            "left": "big eyes",
+            "right": "see all around"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A grasshopper's legs are joined to its ___.",
+            "a": "thorax"
+          },
+          {
+            "q": "Its head, thorax and ___ make three body parts.",
+            "a": "abdomen"
+          },
+          {
+            "q": "Its green colour helps it ___ in the grass.",
+            "a": "hide"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A grasshopper can jump many times its own length.",
+            "a": true
+          },
+          {
+            "q": "Grasshoppers eat grass and leaves.",
+            "a": true
+          },
+          {
+            "q": "A grasshopper has eight legs.",
+            "a": false
+          },
+          {
+            "q": "Large groups of locusts can eat whole fields of crops.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write insect or not an insect.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "grasshopper",
+            "a": "insect"
+          },
+          {
+            "q": "earthworm",
+            "a": "not an insect"
+          },
+          {
+            "q": "locust",
+            "a": "insect"
+          },
+          {
+            "q": "scorpion",
+            "a": "not an insect"
+          },
+          {
+            "q": "wasp",
+            "a": "insect"
+          },
+          {
+            "q": "frog",
+            "a": "not an insect"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write why a green colour is useful for a grasshopper.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"It can hide in the green grass so birds cannot see it.\""
+      }
+    ]
+  },
+  {
+    "id": "insects-10",
+    "topic": "insects",
+    "number": 10,
+    "level": "Practice",
+    "title": "An Evening Walk in the Liwa Desert",
+    "intro": "Hessa and her cousin Aisha walk on the sand dunes in Liwa. They spot beetle tracks in the sand.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A beetle is an insect.",
+            "a": true
+          },
+          {
+            "q": "Beetles have hard wing cases on their backs.",
+            "a": true
+          },
+          {
+            "q": "A dung beetle rolls balls of animal dung.",
+            "a": true
+          },
+          {
+            "q": "Beetles have no legs.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Many desert insects come out in the cool ___.",
+            "a": "evening / night"
+          },
+          {
+            "q": "In the day, they hide under the ___ to stay cool.",
+            "a": "sand"
+          },
+          {
+            "q": "A beetle's hard wing cases ___ its soft wings.",
+            "a": "protect / cover"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort into Insect and Not an insect.",
+        "marks": 8,
+        "groups": [
+          "Insect",
+          "Not an insect"
+        ],
+        "words": [
+          "dung beetle",
+          "locust",
+          "desert ant",
+          "housefly",
+          "camel spider",
+          "lizard",
+          "scorpion",
+          "snake"
+        ],
+        "a": {
+          "dung beetle": "Insect",
+          "locust": "Insect",
+          "desert ant": "Insect",
+          "housefly": "Insect",
+          "camel spider": "Not an insect",
+          "lizard": "Not an insect",
+          "scorpion": "Not an insect",
+          "snake": "Not an insect"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Aisha sees",
+            "options": [
+              "six",
+              "eight"
+            ],
+            "after": "tiny legs on the beetle.",
+            "a": "six"
+          },
+          {
+            "before": "A ladybird is a kind of",
+            "options": [
+              "beetle",
+              "fly"
+            ],
+            "after": ".",
+            "a": "beetle"
+          },
+          {
+            "before": "Insects can be",
+            "options": [
+              "very small",
+              "bigger than camels"
+            ],
+            "after": ".",
+            "a": "very small"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way insects stay safe in the hot desert.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"They hide under the sand in the day.\""
+      }
+    ]
+  },
+  {
+    "id": "insects-11",
+    "topic": "insects",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Mini-Beast Quiz at the Safari Park",
+    "intro": "Ravi and Hannah take the mini-beast quiz. Count the legs and body parts to decide.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the clue. Write insect or not an insect.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "I have 8 legs and 2 body parts. I am ___.",
+            "a": "not an insect"
+          },
+          {
+            "q": "I have 6 legs, 3 body parts and 2 antennae. I am ___.",
+            "a": "an insect / insect"
+          },
+          {
+            "q": "I have no legs and a soft long body. I am ___.",
+            "a": "not an insect"
+          },
+          {
+            "q": "I have many, many legs and a long body. I am ___.",
+            "a": "not an insect"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write how many legs.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "ant",
+            "a": "6"
+          },
+          {
+            "q": "spider",
+            "a": "8"
+          },
+          {
+            "q": "2 butterflies",
+            "a": "12"
+          },
+          {
+            "q": "3 beetles",
+            "a": "18"
+          },
+          {
+            "q": "2 spiders",
+            "a": "16"
+          },
+          {
+            "q": "1 ant and 1 spider",
+            "a": "14"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Every insect has wings.",
+            "a": false
+          },
+          {
+            "q": "A spider has no antennae.",
+            "a": true
+          },
+          {
+            "q": "A centipede is an insect.",
+            "a": false
+          },
+          {
+            "q": "A butterfly and a bee are both insects.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "A housefly has",
+            "options": [
+              "two",
+              "four"
+            ],
+            "after": "wings.",
+            "a": "two"
+          },
+          {
+            "before": "A worker ant",
+            "options": [
+              "has no wings",
+              "has four wings"
+            ],
+            "after": ".",
+            "a": "has no wings"
+          },
+          {
+            "before": "A snail is not an insect because it has no",
+            "options": [
+              "legs",
+              "shell"
+            ],
+            "after": ".",
+            "a": "legs"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Hannah says a spider is an insect. Write why she is wrong.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"A spider has 8 legs and 2 body parts. Insects have 6 legs and 3 body parts.\""
+      }
+    ]
+  },
+  {
+    "id": "insects-12",
+    "topic": "insects",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Amara's Insect Poster for the Class Wall",
+    "intro": "Amara made an insect poster, but she made some mistakes. Help her fix it.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Each sentence has a mistake. Write it correctly.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "An insect has eight legs.",
+            "a": "An insect has six legs."
+          },
+          {
+            "q": "A caterpillar comes out of the pupa.",
+            "a": "A caterpillar comes out of the egg. / A butterfly comes out of the pupa."
+          },
+          {
+            "q": "Bees make silk from nectar.",
+            "a": "Bees make honey from nectar."
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the odd one out.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "ant, bee, spider, moth",
+            "a": "spider"
+          },
+          {
+            "q": "egg, larva, pupa, nest",
+            "a": "nest"
+          },
+          {
+            "q": "honey, silk, beeswax, milk",
+            "a": "milk"
+          },
+          {
+            "q": "head, thorax, abdomen, tail",
+            "a": "tail"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Ladybirds help farmers.",
+            "a": true
+          },
+          {
+            "q": "Termites can eat wood in our homes.",
+            "a": true
+          },
+          {
+            "q": "A housefly keeps our food clean.",
+            "a": false
+          },
+          {
+            "q": "Some insects can live in water when they are young.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "An insect's",
+            "options": [
+              "antennae",
+              "wings"
+            ],
+            "after": "are on its head.",
+            "a": "antennae"
+          },
+          {
+            "before": "A beehive is made of",
+            "options": [
+              "wax",
+              "mud"
+            ],
+            "after": ".",
+            "a": "wax"
+          },
+          {
+            "before": "Butterflies are",
+            "options": [
+              "helpful",
+              "harmful"
+            ],
+            "after": "because they carry pollen.",
+            "a": "helpful"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one more insect fact for Amara's poster.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"Ants work together in a colony.\" Any correct fact."
+      }
+    ]
+  },
+  {
+    "id": "insects-13",
+    "topic": "insects",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Dragonflies at the Lake in Bhopal",
+    "intro": "Zayn sees a dragonfly at the lake. It has four clear wings and huge eyes. Young dragonflies live under the water. Dragonflies eat mosquitoes.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Read the story. Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A dragonfly has four wings.",
+            "a": true
+          },
+          {
+            "q": "Young dragonflies live in trees.",
+            "a": false
+          },
+          {
+            "q": "Dragonflies eat mosquitoes.",
+            "a": true
+          },
+          {
+            "q": "Zayn saw the dragonfly at a lake.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A dragonfly has very big ___.",
+            "a": "eyes"
+          },
+          {
+            "q": "Its wings are ___, so you can see through them.",
+            "a": "clear"
+          },
+          {
+            "q": "Dragonflies lay their eggs in ___.",
+            "a": "water"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Dragonflies are",
+            "options": [
+              "helpful",
+              "harmful"
+            ],
+            "after": "because they eat mosquitoes.",
+            "a": "helpful"
+          },
+          {
+            "before": "A dragonfly has",
+            "options": [
+              "six",
+              "four"
+            ],
+            "after": "legs.",
+            "a": "six"
+          },
+          {
+            "before": "A clean lake has",
+            "options": [
+              "more",
+              "fewer"
+            ],
+            "after": "dragonflies than a dirty one.",
+            "a": "more"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each insect to where its young ones live.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "dragonfly",
+            "right": "in a pond"
+          },
+          {
+            "left": "mosquito",
+            "right": "in still water"
+          },
+          {
+            "left": "butterfly",
+            "right": "on a leaf"
+          },
+          {
+            "left": "honeybee",
+            "right": "in a hive"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write why a dragonfly is a good friend to have near your home.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"It eats mosquitoes, so we get fewer bites.\""
+      }
+    ]
+  },
+  {
+    "id": "insects-14",
+    "topic": "insects",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Life Cycles at the Nature Club",
+    "intro": "At the Saturday nature club, Kiran and Lucas compare how different insects grow.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each young one to its insect.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "caterpillar",
+            "right": "butterfly"
+          },
+          {
+            "left": "silkworm",
+            "right": "silk moth"
+          },
+          {
+            "left": "wriggler in water",
+            "right": "mosquito"
+          },
+          {
+            "left": "hopping baby with no wings",
+            "right": "grasshopper"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort: does the young one look like its parent?",
+        "marks": 6,
+        "groups": [
+          "Looks like the parent",
+          "Looks very different"
+        ],
+        "words": [
+          "baby grasshopper",
+          "baby cockroach",
+          "baby cricket",
+          "caterpillar",
+          "mosquito larva",
+          "silkworm"
+        ],
+        "a": {
+          "baby grasshopper": "Looks like the parent",
+          "baby cockroach": "Looks like the parent",
+          "baby cricket": "Looks like the parent",
+          "caterpillar": "Looks very different",
+          "mosquito larva": "Looks very different",
+          "silkworm": "Looks very different"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the missing stage.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "egg, caterpillar, ___, butterfly",
+            "a": "pupa"
+          },
+          {
+            "q": "egg, larva, pupa, ___ mosquito",
+            "a": "adult"
+          },
+          {
+            "q": "egg, ___, cocoon, silk moth",
+            "a": "silkworm"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A baby grasshopper has no wings at first.",
+            "a": true
+          },
+          {
+            "q": "A baby cockroach hatches from an egg.",
+            "a": true
+          },
+          {
+            "q": "A butterfly lays its eggs in the sea.",
+            "a": false
+          },
+          {
+            "q": "A caterpillar can fly.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two ways a caterpillar is different from a butterfly.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"A caterpillar has no wings. It crawls and eats leaves.\" One mark each."
+      }
+    ]
+  },
+  {
+    "id": "insects-15",
+    "topic": "insects",
+    "number": 15,
+    "level": "Challenge",
+    "title": "The Wedding Feast in Jaipur",
+    "intro": "Riya's cousin is getting married in Jaipur. The family must keep insects away from the feast.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle what the family should do.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The sweets are on the table. They",
+            "options": [
+              "cover them",
+              "leave them open"
+            ],
+            "after": ".",
+            "a": "cover them"
+          },
+          {
+            "before": "Rubbish is piling up. They put it in a",
+            "options": [
+              "bin with a lid",
+              "corner"
+            ],
+            "after": ".",
+            "a": "bin with a lid"
+          },
+          {
+            "before": "Water is collecting in pots. They",
+            "options": [
+              "empty the pots",
+              "add more water"
+            ],
+            "after": ".",
+            "a": "empty the pots"
+          },
+          {
+            "before": "Guests sit outside at dusk. They use",
+            "options": [
+              "mosquito coils",
+              "open buckets"
+            ],
+            "after": ".",
+            "a": "mosquito coils"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the insects into Helpful and Harmful.",
+        "marks": 8,
+        "groups": [
+          "Helpful",
+          "Harmful"
+        ],
+        "words": [
+          "honeybee",
+          "silk moth",
+          "ladybird",
+          "dragonfly",
+          "housefly",
+          "mosquito",
+          "termite",
+          "cockroach"
+        ],
+        "a": {
+          "honeybee": "Helpful",
+          "silk moth": "Helpful",
+          "ladybird": "Helpful",
+          "dragonfly": "Helpful",
+          "housefly": "Harmful",
+          "mosquito": "Harmful",
+          "termite": "Harmful",
+          "cockroach": "Harmful"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Think and fill in the blanks.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "A fly sat on the jalebi. The jalebi now has ___ on it.",
+            "a": "germs"
+          },
+          {
+            "q": "Riya's lehenga is made of silk, which comes from the ___.",
+            "a": "silkworm / silk moth"
+          },
+          {
+            "q": "The honey in the sweets was made by ___.",
+            "a": "bees / honeybees"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Flies can make us ill by spreading germs.",
+            "a": true
+          },
+          {
+            "q": "We should eat food that flies have sat on.",
+            "a": false
+          },
+          {
+            "q": "Without bees, many flowers would not make fruit.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two rules to keep insects away from food.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. \"Cover the food. Throw rubbish in a closed bin.\" One mark each."
+      }
+    ]
   }
 ]

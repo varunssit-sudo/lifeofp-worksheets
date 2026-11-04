@@ -673,5 +673,1232 @@
         "a": "Answers will vary. The sentence uses we or they."
       }
     ]
+  },
+  {
+    "id": "pronouns-06",
+    "topic": "pronouns",
+    "number": 6,
+    "level": "Practice",
+    "title": "The New Puppy at Home",
+    "intro": "Kunal and his sister Rhea have a new puppy. Pronouns help them talk about it.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write he, she, it, we or they.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "Kunal",
+            "a": "he"
+          },
+          {
+            "q": "the bowls",
+            "a": "they"
+          },
+          {
+            "q": "Mum and I",
+            "a": "we"
+          },
+          {
+            "q": "the leash",
+            "a": "it"
+          },
+          {
+            "q": "Ms Gomes",
+            "a": "she"
+          },
+          {
+            "q": "the kittens",
+            "a": "they"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with him, it, them or us.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The puppy licked Kunal. It licked ___ on the nose.",
+            "a": "him"
+          },
+          {
+            "q": "Rhea gave the puppy a bath. She washed ___ gently.",
+            "a": "it"
+          },
+          {
+            "q": "The puppy found my socks. It chewed ___ into holes!",
+            "a": "them"
+          },
+          {
+            "q": "Mum took Kunal and me to the pet shop. She took ___ in the car.",
+            "a": "us"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "We love",
+            "options": [
+              "our",
+              "us"
+            ],
+            "after": "new puppy very much.",
+            "a": "our"
+          },
+          {
+            "before": "Rhea brushed",
+            "options": [
+              "her",
+              "his"
+            ],
+            "after": "own hair, then brushed the puppy.",
+            "a": "her"
+          },
+          {
+            "before": "Kunal filled",
+            "options": [
+              "his",
+              "her"
+            ],
+            "after": "water bottle for the walk.",
+            "a": "his"
+          },
+          {
+            "before": "The puppy sleeps in",
+            "options": [
+              "its",
+              "their"
+            ],
+            "after": "basket.",
+            "a": "its"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "We can use 'it' for a puppy.",
+            "a": true
+          },
+          {
+            "q": "'Them' is used for one thing.",
+            "a": false
+          },
+          {
+            "q": "'Our' tells us that something belongs to us.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a pet. Use it or its.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. My cat licks its paws."
+      }
+    ]
+  },
+  {
+    "id": "pronouns-07",
+    "topic": "pronouns",
+    "number": 7,
+    "level": "Practice",
+    "title": "Baking Cookies with Aunty Rosa",
+    "intro": "Tom and his cousin bake cookies with Aunty Rosa in her kitchen in Goa.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "I",
+              "Me"
+            ],
+            "after": "cracked the eggs into the bowl.",
+            "a": "I"
+          },
+          {
+            "before": "Aunty Rosa showed",
+            "options": [
+              "I",
+              "me"
+            ],
+            "after": "how to mix the dough.",
+            "a": "me"
+          },
+          {
+            "before": "Tom and",
+            "options": [
+              "I",
+              "me"
+            ],
+            "after": "cut out star shapes.",
+            "a": "I"
+          },
+          {
+            "before": "Aunty gave Tom and",
+            "options": [
+              "I",
+              "me"
+            ],
+            "after": "a cookie each.",
+            "a": "me"
+          },
+          {
+            "before": "",
+            "options": [
+              "We",
+              "Us"
+            ],
+            "after": "waited for the oven to beep.",
+            "a": "We"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with you or your.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Aunty asked, \"Do ___ want chocolate chips?\"",
+            "a": "you"
+          },
+          {
+            "q": "\"Wash ___ hands first,\" she said.",
+            "a": "your"
+          },
+          {
+            "q": "\"Can ___ pass the sugar, please?\"",
+            "a": "you"
+          },
+          {
+            "q": "\"Put on ___ apron, Tom.\"",
+            "a": "your"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write it again. Use a pronoun so the name is not repeated.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Aunty Rosa rolled the dough. Aunty Rosa cut circles.",
+            "a": "Aunty Rosa rolled the dough. She cut circles."
+          },
+          {
+            "q": "The cookies came out. The cookies smelled yummy.",
+            "a": "The cookies came out. They smelled yummy."
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each pronoun to who it means.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "I",
+            "right": "the person speaking"
+          },
+          {
+            "left": "you",
+            "right": "the person you talk to"
+          },
+          {
+            "left": "we",
+            "right": "me and others"
+          },
+          {
+            "left": "they",
+            "right": "other people, not me"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one question you would ask a friend. Use you.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. Do you like cookies?"
+      }
+    ]
+  },
+  {
+    "id": "pronouns-08",
+    "topic": "pronouns",
+    "number": 8,
+    "level": "Practice",
+    "title": "Cheering at the Football Match",
+    "intro": "Kareem and Sana go to watch a football match in Al Ain with their family.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in with my, his, her, our or their.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Kareem waved ___ blue scarf.",
+            "a": "his"
+          },
+          {
+            "q": "Sana held up ___ flag.",
+            "a": "her"
+          },
+          {
+            "q": "The fans sang ___ team song.",
+            "a": "their"
+          },
+          {
+            "q": "We clapped for ___ team.",
+            "a": "our"
+          },
+          {
+            "q": "I lost ___ cap in the crowd.",
+            "a": "my"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Does the word name who, or show whose?",
+        "marks": 6,
+        "groups": [
+          "Names who",
+          "Shows whose"
+        ],
+        "words": [
+          "we",
+          "our",
+          "they",
+          "his",
+          "he",
+          "their"
+        ],
+        "a": {
+          "he": "Names who",
+          "they": "Names who",
+          "we": "Names who",
+          "his": "Shows whose",
+          "their": "Shows whose",
+          "our": "Shows whose"
+        }
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The goalkeeper caught the ball with",
+            "options": [
+              "his",
+              "him"
+            ],
+            "after": "hands.",
+            "a": "his"
+          },
+          {
+            "before": "The players and",
+            "options": [
+              "their",
+              "they"
+            ],
+            "after": "coach jumped for joy.",
+            "a": "their"
+          },
+          {
+            "before": "",
+            "options": [
+              "Our",
+              "Us"
+            ],
+            "after": "seats were in the front row.",
+            "a": "Our"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "'Their' shows that something belongs to them.",
+            "a": true
+          },
+          {
+            "q": "'Her bag' means the bag belongs to a girl or woman.",
+            "a": true
+          },
+          {
+            "q": "'Its' and 'their' mean the same.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write about your favourite team. Use our or their.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. Their players run very fast."
+      }
+    ]
+  },
+  {
+    "id": "pronouns-09",
+    "topic": "pronouns",
+    "number": 9,
+    "level": "Practice",
+    "title": "Morning Rush Before School",
+    "intro": "Maya and Rohan are late for school. Everyone at home is in a hurry.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Write it again. Use a pronoun for the words in capitals.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "MAYA AND ROHAN brushed their teeth.",
+            "a": "They brushed their teeth."
+          },
+          {
+            "q": "Dad packed THE LUNCH BOX.",
+            "a": "Dad packed it."
+          },
+          {
+            "q": "Mum hugged MAYA at the door.",
+            "a": "Mum hugged her at the door."
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write him, her, it, us or them.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "Rohan",
+            "a": "him"
+          },
+          {
+            "q": "the shoes",
+            "a": "them"
+          },
+          {
+            "q": "Maya",
+            "a": "her"
+          },
+          {
+            "q": "the bus",
+            "a": "it"
+          },
+          {
+            "q": "Maya and me",
+            "a": "us"
+          },
+          {
+            "q": "Uncle Dev",
+            "a": "him"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Maya could not find",
+            "options": [
+              "her",
+              "she"
+            ],
+            "after": "socks.",
+            "a": "her"
+          },
+          {
+            "before": "Rohan was late.",
+            "options": [
+              "He",
+              "Him"
+            ],
+            "after": "ate his toast quickly.",
+            "a": "He"
+          },
+          {
+            "before": "The bus honked. We ran to catch",
+            "options": [
+              "it",
+              "them"
+            ],
+            "after": ".",
+            "a": "it"
+          },
+          {
+            "before": "Dad drove",
+            "options": [
+              "we",
+              "us"
+            ],
+            "after": "to school in the end.",
+            "a": "us"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write what you do before school. Use I and my.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. I comb my hair and pack my bag."
+      }
+    ]
+  },
+  {
+    "id": "pronouns-10",
+    "topic": "pronouns",
+    "number": 10,
+    "level": "Practice",
+    "title": "A Houseboat Holiday in Kashmir",
+    "intro": "Lila and her family stay on a houseboat on Dal Lake. Mr Wani rows them in a shikara.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the words. Would you use he, she, it or they?",
+        "marks": 8,
+        "groups": [
+          "he",
+          "she",
+          "it",
+          "they"
+        ],
+        "words": [
+          "the shikara",
+          "the boatman",
+          "the ducks",
+          "the lake",
+          "Mr Wani",
+          "the oars",
+          "Aunt Zara",
+          "my sister"
+        ],
+        "a": {
+          "the boatman": "he",
+          "Mr Wani": "he",
+          "Aunt Zara": "she",
+          "my sister": "she",
+          "the lake": "it",
+          "the shikara": "it",
+          "the ducks": "they",
+          "the oars": "they"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the right pronoun.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "My sister and I sat at the front. ___ saw the mountains.",
+            "a": "We"
+          },
+          {
+            "q": "Mr Wani rowed the shikara. ___ sang a song.",
+            "a": "He"
+          },
+          {
+            "q": "The lotus flowers were pink. ___ floated on the water.",
+            "a": "They"
+          },
+          {
+            "q": "Aunt Zara bought a shawl. ___ was soft and warm.",
+            "a": "It"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Aunt Zara gave",
+            "options": [
+              "me",
+              "I"
+            ],
+            "after": "a walnut cake.",
+            "a": "me"
+          },
+          {
+            "before": "The ducks swam over to",
+            "options": [
+              "us",
+              "we"
+            ],
+            "after": ".",
+            "a": "us"
+          },
+          {
+            "before": "Mr Wani showed",
+            "options": [
+              "them",
+              "they"
+            ],
+            "after": "the floating market.",
+            "a": "them"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In 'The lake was cold. It was clear too.', 'It' means the lake.",
+            "a": true
+          },
+          {
+            "q": "In 'Ravi and Lila waved. They smiled.', 'They' means only Ravi.",
+            "a": false
+          },
+          {
+            "q": "We use 'they' for more than one person or thing.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a boat or a lake. Use it or they.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. The boat was red. It had a little roof."
+      }
+    ]
+  },
+  {
+    "id": "pronouns-11",
+    "topic": "pronouns",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Lost Property at School",
+    "intro": "Ms Begum has a box of lost things. Who owns them? Words like mine and yours tell us.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each pair that means the same.",
+        "marks": 6,
+        "items": [
+          {
+            "left": "my bag",
+            "right": "mine"
+          },
+          {
+            "left": "your coat",
+            "right": "yours"
+          },
+          {
+            "left": "her bottle",
+            "right": "hers"
+          },
+          {
+            "left": "our ball",
+            "right": "ours"
+          },
+          {
+            "left": "their books",
+            "right": "theirs"
+          },
+          {
+            "left": "his cap",
+            "right": "his"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "This lunch box is",
+            "options": [
+              "my",
+              "mine"
+            ],
+            "after": ".",
+            "a": "mine"
+          },
+          {
+            "before": "Is this pencil",
+            "options": [
+              "yours",
+              "your"
+            ],
+            "after": "?",
+            "a": "yours"
+          },
+          {
+            "before": "That red sweater is",
+            "options": [
+              "her",
+              "hers"
+            ],
+            "after": ".",
+            "a": "hers"
+          },
+          {
+            "before": "The class ball is",
+            "options": [
+              "our",
+              "ours"
+            ],
+            "after": ".",
+            "a": "ours"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with mine, yours or theirs.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Ali said, \"The blue cap is not ___. My cap is green.\"",
+            "a": "mine"
+          },
+          {
+            "q": "The twins said the kite was ___.",
+            "a": "theirs"
+          },
+          {
+            "q": "Mia asked Leo, \"Is this ___?\" Leo said, \"No, it is not mine.\"",
+            "a": "yours"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "'Mine' means it belongs to me.",
+            "a": true
+          },
+          {
+            "q": "'This bag is hers' means it belongs to a boy.",
+            "a": false
+          },
+          {
+            "q": "We can say 'That bottle is our.'",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write about one thing that is yours. Use mine.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. The green ruler is mine."
+      }
+    ]
+  },
+  {
+    "id": "pronouns-12",
+    "topic": "pronouns",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Our Trip to the Science Centre",
+    "intro": "Class 2D wrote about a trip to the science centre in Sharjah. Some pronouns are wrong.",
+    "sections": [
+      {
+        "type": "rewrite",
+        "title": "Each sentence has a wrong pronoun. Write it correctly.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "Me and Rafa saw a robot.",
+            "a": "Rafa and I saw a robot."
+          },
+          {
+            "q": "The guide gave we a badge.",
+            "a": "The guide gave us a badge."
+          },
+          {
+            "q": "Kiran lost him cap.",
+            "a": "Kiran lost his cap."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Is the sentence correct? Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Them are playing with the magnets.",
+            "a": false
+          },
+          {
+            "q": "She showed us the stars.",
+            "a": true
+          },
+          {
+            "q": "Kiran and me liked the dinosaur.",
+            "a": false
+          },
+          {
+            "q": "The robot waved its arm.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The guide asked",
+            "options": [
+              "we",
+              "us",
+              "our"
+            ],
+            "after": "to sit down.",
+            "a": "us"
+          },
+          {
+            "before": "Kiran and",
+            "options": [
+              "I",
+              "me",
+              "my"
+            ],
+            "after": "pressed the big red button.",
+            "a": "I"
+          },
+          {
+            "before": "The children held",
+            "options": [
+              "their",
+              "them",
+              "they"
+            ],
+            "after": "breath in the dark room.",
+            "a": "their"
+          },
+          {
+            "before": "",
+            "options": [
+              "She",
+              "Her",
+              "Hers"
+            ],
+            "after": "laughed at the talking parrot.",
+            "a": "She"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one sentence about a trip. Begin with 'My friend and I'.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. My friend and I saw a big whale model."
+      }
+    ]
+  },
+  {
+    "id": "pronouns-13",
+    "topic": "pronouns",
+    "number": 13,
+    "level": "Challenge",
+    "title": "The Lost Kitten",
+    "intro": "Ana found a kitten under a car. She took it home. Her brothers gave it milk. They named it Snowy.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the story. Who or what does each word mean?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In 'She took it home', She means ___.",
+            "a": "Ana"
+          },
+          {
+            "q": "In 'She took it home', it means ___.",
+            "a": "the kitten / kitten / Snowy"
+          },
+          {
+            "q": "In 'They named it Snowy', They means ___.",
+            "a": "Ana's brothers / her brothers / brothers"
+          },
+          {
+            "q": "In 'Her brothers', Her means ___.",
+            "a": "Ana / Ana's"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Write the word that shows whose, like I → my.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "I",
+            "a": "my"
+          },
+          {
+            "q": "he",
+            "a": "his"
+          },
+          {
+            "q": "she",
+            "a": "her"
+          },
+          {
+            "q": "we",
+            "a": "our"
+          },
+          {
+            "q": "they",
+            "a": "their"
+          },
+          {
+            "q": "you",
+            "a": "your"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Snowy chased",
+            "options": [
+              "its",
+              "it"
+            ],
+            "after": "tail.",
+            "a": "its"
+          },
+          {
+            "before": "Ana's brothers and",
+            "options": [
+              "she",
+              "her"
+            ],
+            "after": "played with Snowy.",
+            "a": "she"
+          },
+          {
+            "before": "Snowy slept next to",
+            "options": [
+              "them",
+              "they"
+            ],
+            "after": ".",
+            "a": "them"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In the story, 'They' means the kitten.",
+            "a": false
+          },
+          {
+            "q": "'Snowy' is the kitten's name.",
+            "a": true
+          },
+          {
+            "q": "In the story, 'it' always means the kitten.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the next line of the story. Use he, she, it or they.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "What happened next?",
+            "a": "Answers will vary, e.g. \"It slept on Ana's bed.\" Check a pronoun is used."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pronouns-14",
+    "topic": "pronouns",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Kite Festival in Ahmedabad",
+    "intro": "Dhruv and Nidhi fly kites on the roof for Uttarayan. Words like myself and herself point back to the person.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Dhruv made the kite",
+            "options": [
+              "himself",
+              "herself"
+            ],
+            "after": ".",
+            "a": "himself"
+          },
+          {
+            "before": "I tied the string",
+            "options": [
+              "myself",
+              "yourself"
+            ],
+            "after": ".",
+            "a": "myself"
+          },
+          {
+            "before": "Nidhi painted her kite all by",
+            "options": [
+              "herself",
+              "itself"
+            ],
+            "after": ".",
+            "a": "herself"
+          },
+          {
+            "before": "We fixed the broken kite",
+            "options": [
+              "ourselves",
+              "themselves"
+            ],
+            "after": ".",
+            "a": "ourselves"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in with he, him, she or her.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Nidhi's kite flew high. Everyone cheered for ___.",
+            "a": "her"
+          },
+          {
+            "q": "Dhruv cut down another kite. ___ shouted, \"Kai po che!\"",
+            "a": "He"
+          },
+          {
+            "q": "Grandpa held the reel for Dhruv. He helped ___ a lot.",
+            "a": "him"
+          },
+          {
+            "q": "Mum gave Nidhi a hat, so ___ wore it on the roof.",
+            "a": "she"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write it again. Use a pronoun so the names are not repeated.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Nidhi and Dhruv went to the roof. Nidhi and Dhruv flew kites all day.",
+            "a": "Nidhi and Dhruv went to the roof. They flew kites all day."
+          },
+          {
+            "q": "The kite got stuck in a tree. Grandpa pulled the kite down.",
+            "a": "The kite got stuck in a tree. Grandpa pulled it down."
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "'Himself' is used for a boy or man.",
+            "a": true
+          },
+          {
+            "q": "In 'Nidhi saw herself in the mirror', herself means Nidhi.",
+            "a": true
+          },
+          {
+            "q": "We say 'I did it ourselves.'",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one thing you can do by yourself. Use myself.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Answers will vary, e.g. I can tie my shoes myself."
+      }
+    ]
+  },
+  {
+    "id": "pronouns-15",
+    "topic": "pronouns",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Planting Trees for Green Week",
+    "intro": "Ms Kaur's class plants trees in the school garden. Use all you know about pronouns.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the words into the right group.",
+        "marks": 9,
+        "groups": [
+          "Who does it",
+          "Who it is done to",
+          "Whose"
+        ],
+        "words": [
+          "me",
+          "my",
+          "him",
+          "I",
+          "our",
+          "he",
+          "we",
+          "us",
+          "his"
+        ],
+        "a": {
+          "I": "Who does it",
+          "he": "Who does it",
+          "we": "Who does it",
+          "me": "Who it is done to",
+          "him": "Who it is done to",
+          "us": "Who it is done to",
+          "my": "Whose",
+          "his": "Whose",
+          "our": "Whose"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the right pronoun.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Ms Kaur gave each child a plant. She gave ___ one too.",
+            "a": "me"
+          },
+          {
+            "q": "Lily and I dug a hole. ___ put the plant in.",
+            "a": "We"
+          },
+          {
+            "q": "The plants need water, so we water ___ every day.",
+            "a": "them"
+          },
+          {
+            "q": "Arun planted a neem tree. ___ tree is near the gate.",
+            "a": "His"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "",
+            "options": [
+              "Their",
+              "They",
+              "Them"
+            ],
+            "after": "tree is the tallest.",
+            "a": "Their"
+          },
+          {
+            "before": "Ms Kaur thanked",
+            "options": [
+              "we",
+              "us",
+              "our"
+            ],
+            "after": "for helping.",
+            "a": "us"
+          },
+          {
+            "before": "The neem tree dropped one of",
+            "options": [
+              "it",
+              "its",
+              "they"
+            ],
+            "after": "leaves.",
+            "a": "its"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Pronouns help us not repeat the same name again and again.",
+            "a": true
+          },
+          {
+            "q": "'Lily and me planted a tree.' is correct.",
+            "a": false
+          },
+          {
+            "q": "'The tree is ours' means it belongs to us.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two sentences about helping the Earth. Use we and our.",
+        "marks": 3,
+        "lines": 2,
+        "a": "Answers will vary, e.g. We switch off the lights. Our class saves water."
+      }
+    ]
   }
 ]
