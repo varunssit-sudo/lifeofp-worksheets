@@ -207,10 +207,6 @@
       <div class="layout">
         <section class="grid" aria-label="Topics">${topics.map(topicCard).join('') || `<p class="empty">No topic matches “${esc(state.q)}”. Try a shorter word, like “tense” or “table”.</p>`}</section>
         <aside class="side">
-          <section class="panel panel-agent"><h2>Worksheet agent</h2>
-            <p class="agent-line"><b>${done} of ${state.topics.length}</b> topics have all 15 sheets.</p>
-            <ul>${started.slice(0, 4).map((t) => `<li><b>${esc(t.name)}</b><small>${listFor(t.id).length} of ${t.target} ready</small></li>`).join('') || '<li><small>Starting tonight with the first topics.</small></li>'}</ul>
-            <small>It writes new sheets every night and adds a topic for every new video on the channel.</small></section>
           <section class="panel panel-sub"><h2>Life of P on YouTube</h2><p class="agent-line">Every topic here has its own video. Subscribe to get new ones first.</p>
             <a class="btn btn-sub" href="${SUBSCRIBE}" target="_blank" rel="noopener">${BELL_ICON}Subscribe</a></section>
           <section class="panel panel-sun"><h2>Printed on this device</h2><ul>${printed || '<li><small>Nothing printed yet.</small></li>'}</ul></section>
@@ -227,7 +223,7 @@
     const all = listFor(t.id);
     const list = all.filter((s) => state.level === 'All' || s.level === state.level).filter((s) => matches(s.title));
     const pendingCount = Math.max(0, t.target - all.length);
-    const pending = state.level === 'All' && !state.q ? Array.from({ length: pendingCount }, (_, i) => `<div class="pending"><span class="meta">Sheet ${all.length + i + 1}</span><b>On the way</b><span>The worksheet agent is writing this one.</span></div>`).join('') : '';
+    const pending = state.level === 'All' && !state.q ? Array.from({ length: pendingCount }, (_, i) => `<div class="pending"><span class="meta">Sheet ${all.length + i + 1}</span><b>Coming soon</b><span>A new sheet is being made for this topic.</span></div>`).join('') : '';
     const thumb = t.videoId ? `<img src="https://i.ytimg.com/vi/${esc(t.videoId)}/hqdefault.jpg" alt="" loading="lazy">` : `<b>${esc(t.name)}</b>`;
     app.innerHTML = `
       <nav class="crumbs" aria-label="Breadcrumb"><a href="#">All subjects</a><span aria-hidden="true">/</span><a href="#${esc(t.subject.toLowerCase())}">${esc(t.subject)}</a><span aria-hidden="true">/</span><b>${esc(t.name)}</b></nav>
