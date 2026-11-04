@@ -6,7 +6,7 @@
 
 The worksheet agent runs `check` before every commit; a failing check means do not push.
 """
-import json, re, sys, pathlib
+import json, re, sys, pathlib, hashlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / 'data'
@@ -77,6 +77,16 @@ def sync():
 
 def fail(errors, where, msg):
     errors.append(f'{where}: {msg}')
+
+
+def stamp_assets():
+    """Give assets/app.js and assets/style.css a ?v=<content hash> in index.html, so browsers fetch new versions."""
+    page = ROOT / 'index.html'
+    html = page.read_text()
+    for name in ('app.js', 'style.css'):
+        v = hashlib.sha1((ROOT / 'assets' / name).read_bytes()).hexdigest()[:8]
+        html = re.sub(r'assets/' + re.escape(name) + r'(\?v=[0-9a-f]+)?"', f'assets/{name}?v={v}"', html)
+    page.write_text(html)
 
 
 def check():
@@ -171,6 +181,7 @@ def check():
         sys.exit(1)
     index.sort(key=lambda x: (x['topic'], x['number']))
     (DATA / 'index.json').write_text(json.dumps(index, ensure_ascii=False, separators=(',', ':')) + '\n')
+    stamp_assets()
     counts = {}
     for x in index:
         counts[x['topic']] = counts.get(x['topic'], 0) + 1

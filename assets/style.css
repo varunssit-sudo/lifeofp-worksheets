@@ -95,7 +95,7 @@ h1, h2, h3 { text-wrap: balance; }
 .sheets-head h2 { margin: 0; font-family: var(--display); font-size: 26px; }
 .sheets { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 16px; }
 .sheet-card { padding: 14px; gap: 12px; }
-.thumb { position: relative; display: block; width: 100%; aspect-ratio: 210 / 230; padding: 0; border: 1px solid var(--line2); border-radius: 10px; background: #fff; overflow: hidden; cursor: zoom-in; font: inherit; color: inherit; text-align: left; }
+.thumb { position: relative; display: block; width: 100%; aspect-ratio: 210 / 297; padding: 0; border: 1px solid var(--line2); border-radius: 10px; background: #fff; overflow: hidden; cursor: zoom-in; font: inherit; color: inherit; text-align: left; }
 .thumb:hover, .thumb:focus-visible { border-color: var(--ink); box-shadow: 0 6px 18px rgba(0,0,0,.12); }
 .thumb-lines { position: absolute; inset: 0; padding: 16px 18px; display: flex; flex-direction: column; gap: 9px; background: #FFF7F0; }
 .thumb-lines i { height: 6px; background: var(--line2); border-radius: 2px; display: block; }
