@@ -195,7 +195,7 @@
     app.innerHTML = `
       <section class="hero">
         <div><h1>Practice sheets for every <span>Life of P</span> video</h1>
-        <p>Standard 2 (ICSE) worksheets. Pick a subject, open a topic, print a sheet. Each topic grows to 15 worksheets, each with a fresh real-life scenario.</p></div>
+        <p>Standard 2 (ICSE) worksheets. Pick a subject, open a topic, print a sheet or do it online. Every topic has its own video on the <a href="${CHANNEL}" target="_blank" rel="noopener">Life of P YouTube channel</a>, and each topic grows to 15 worksheets with fresh real-life scenarios.</p></div>
         <div class="stats">
           <div class="stat"><b style="color:var(--maths)">${state.topics.length}</b><span>topics</span></div>
           <div class="stat"><b style="color:var(--english)">${total}</b><span>worksheets</span></div>
@@ -206,11 +206,6 @@
       ${sheetHits.length ? `<section class="hits"><h2>Worksheets matching “${esc(state.q)}”</h2><div class="sheets">${sheetHits.map(sheetCard).join('')}</div></section>` : ''}
       <div class="layout">
         <section class="grid" aria-label="Topics">${topics.map(topicCard).join('') || `<p class="empty">No topic matches “${esc(state.q)}”. Try a shorter word, like “tense” or “table”.</p>`}</section>
-        <aside class="side">
-          <section class="panel panel-sub"><h2>Life of P on YouTube</h2><p class="agent-line">Every topic here has its own video. Subscribe to get new ones first.</p>
-            <a class="btn btn-sub" href="${SUBSCRIBE}" target="_blank" rel="noopener">${BELL_ICON}Subscribe</a></section>
-          <section class="panel panel-sun"><h2>Printed on this device</h2><ul>${printed || '<li><small>Nothing printed yet.</small></li>'}</ul></section>
-        </aside>
       </div>`;
     app.querySelectorAll('[data-subject]').forEach((b) => b.addEventListener('click', () => {
       const h = b.dataset.subject === 'All' ? '' : b.dataset.subject.toLowerCase();
