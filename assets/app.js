@@ -195,8 +195,7 @@
     app.innerHTML = `
       <section class="hero">
         <div><h1>Practice sheets for every <span>Life of P</span> video</h1>
-        <p>Pick a subject, open a topic, print a sheet. Each topic grows to 15 worksheets, each with a fresh real-life scenario.</p>
-        <p class="hero-ask">Need a topic we do not have yet? <a href="#request">Ask for a worksheet or video</a></p></div>
+        <p>Standard 2 (ICSE) worksheets. Pick a subject, open a topic, print a sheet. Each topic grows to 15 worksheets, each with a fresh real-life scenario.</p></div>
         <div class="stats">
           <div class="stat"><b style="color:var(--maths)">${state.topics.length}</b><span>topics</span></div>
           <div class="stat"><b style="color:var(--english)">${total}</b><span>worksheets</span></div>
