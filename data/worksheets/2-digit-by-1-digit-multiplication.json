@@ -1,0 +1,1802 @@
+[
+ {
+  "id": "2-digit-by-1-digit-multiplication-01",
+  "topic": "2-digit-by-1-digit-multiplication",
+  "number": 1,
+  "level": "Starter",
+  "title": "Juice Boxes at the School Canteen",
+  "intro": "The canteen packs juice boxes in trays. Multiply the ones first, then the tens.",
+  "sections": [
+   {
+    "type": "column",
+    "title": "Multiply. Start with the ones.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "21",
+      "op": "×",
+      "bottom": "4",
+      "a": "84"
+     },
+     {
+      "top": "32",
+      "op": "×",
+      "bottom": "3",
+      "a": "96"
+     },
+     {
+      "top": "12",
+      "op": "×",
+      "bottom": "4",
+      "a": "48"
+     },
+     {
+      "top": "43",
+      "op": "×",
+      "bottom": "2",
+      "a": "86"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Multiply the tens in your head.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "10 × 6",
+      "a": "60"
+     },
+     {
+      "q": "20 × 4",
+      "a": "80"
+     },
+     {
+      "q": "30 × 3",
+      "a": "90"
+     },
+     {
+      "q": "40 × 2",
+      "a": "80"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Break the number into tens and ones.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "23 × 3 = 20 × 3 + 3 × 3 = ___",
+      "a": "69"
+     },
+     {
+      "q": "14 × 2 = 10 × 2 + 4 × 2 = ___",
+      "a": "28"
+     },
+     {
+      "q": "31 × 3 = 30 × 3 + 1 × 3 = ___",
+      "a": "93"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "We multiply the ones first.",
+      "a": true
+     },
+     {
+      "q": "33 × 3 = 99",
+      "a": true
+     },
+     {
+      "q": "42 × 2 = 82",
+      "a": false
+     },
+     {
+      "q": "The tens answer is written under the T column.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the canteen problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "One tray holds 22 juice boxes. There are 3 trays. That is ___ juice boxes.",
+      "a": "66"
+     },
+     {
+      "q": "A crate has 11 apples. The cook brings 4 crates. That is ___ apples.",
+      "a": "44"
+     },
+     {
+      "q": "Each class drinks 34 milk cartons. 2 classes drink ___ cartons.",
+      "a": "68"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2-digit-by-1-digit-multiplication-02",
+  "topic": "2-digit-by-1-digit-multiplication",
+  "number": 2,
+  "level": "Starter",
+  "title": "The Bead Stall at Global Village",
+  "intro": "Farah's family sells bead strings at Global Village in Dubai. Help her count the beads.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each bead order to its total.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "13 × 3",
+      "right": "39"
+     },
+     {
+      "left": "23 × 2",
+      "right": "46"
+     },
+     {
+      "left": "11 × 5",
+      "right": "55"
+     },
+     {
+      "left": "41 × 2",
+      "right": "82"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "44",
+      "op": "×",
+      "bottom": "2",
+      "a": "88"
+     },
+     {
+      "top": "12",
+      "op": "×",
+      "bottom": "3",
+      "a": "36"
+     },
+     {
+      "top": "33",
+      "op": "×",
+      "bottom": "2",
+      "a": "66"
+     },
+     {
+      "top": "11",
+      "op": "×",
+      "bottom": "7",
+      "a": "77"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct product.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "52 × 1 =",
+      "options": [
+       "51",
+       "52",
+       "53"
+      ],
+      "after": "",
+      "a": "52"
+     },
+     {
+      "before": "30 × 2 =",
+      "options": [
+       "32",
+       "50",
+       "60"
+      ],
+      "after": "",
+      "a": "60"
+     },
+     {
+      "before": "12 × 2 =",
+      "options": [
+       "14",
+       "22",
+       "24"
+      ],
+      "after": "",
+      "a": "24"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the bead problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "One string has 21 beads. Farah makes 3 strings. She uses ___ beads.",
+      "a": "63"
+     },
+     {
+      "q": "A box holds 11 bracelets. 6 boxes hold ___ bracelets.",
+      "a": "66"
+     },
+     {
+      "q": "One key ring costs ₹32. Two key rings cost ₹___.",
+      "a": "64"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Ishaan says 22 × 3 = 63. Write what he did wrong.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. 2 ones × 3 = 6 ones, not 3. So 22 × 3 = 66."
+   }
+  ]
+ },
+ {
+  "id": "2-digit-by-1-digit-multiplication-03",
+  "topic": "2-digit-by-1-digit-multiplication",
+  "number": 3,
+  "level": "Starter",
+  "title": "Stacking Chairs for Annual Day",
+  "intro": "The hall is getting ready for Annual Day. When the ones make 10 or more, carry the ten.",
+  "sections": [
+   {
+    "type": "column",
+    "title": "Multiply. Carry to the tens.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "16",
+      "op": "×",
+      "bottom": "3",
+      "a": "48"
+     },
+     {
+      "top": "27",
+      "op": "×",
+      "bottom": "2",
+      "a": "54"
+     },
+     {
+      "top": "15",
+      "op": "×",
+      "bottom": "4",
+      "a": "60"
+     },
+     {
+      "top": "38",
+      "op": "×",
+      "bottom": "2",
+      "a": "76"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the carrying steps.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "18 × 3: 8 × 3 = 24. Write 4, carry ___ ten.",
+      "a": "2"
+     },
+     {
+      "q": "26 × 3: 6 × 3 = 18. Write 8, carry ___ ten.",
+      "a": "1"
+     },
+     {
+      "q": "17 × 5: 7 × 5 = 35. Write 5, carry ___ tens.",
+      "a": "3"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort: do we carry, or not?",
+    "marks": 4,
+    "groups": [
+     "Carry",
+     "No carry"
+    ],
+    "words": [
+     "19 × 2",
+     "31 × 2",
+     "25 × 3",
+     "24 × 2"
+    ],
+    "a": {
+     "19 × 2": "Carry",
+     "31 × 2": "No carry",
+     "25 × 3": "Carry",
+     "24 × 2": "No carry"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Solve the Annual Day problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Each row has 14 chairs. There are 6 rows. That is ___ chairs.",
+      "a": "84"
+     },
+     {
+      "q": "One pack has 29 balloons. Two packs have ___ balloons.",
+      "a": "58"
+     },
+     {
+      "q": "Each dancer needs 13 bells. 7 dancers need ___ bells.",
+      "a": "91"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "In 16 × 3, we carry 1 ten.",
+      "a": true
+     },
+     {
+      "q": "28 × 3 = 64",
+      "a": false
+     },
+     {
+      "q": "45 × 2 = 90",
+      "a": true
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2-digit-by-1-digit-multiplication-04",
+  "topic": "2-digit-by-1-digit-multiplication",
+  "number": 4,
+  "level": "Starter",
+  "title": "Grandpa's Mango Orchard",
+  "intro": "Tanvi visits her grandpa's mango orchard in Ratnagiri. Multiply to count the mangoes.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "12 × 5",
+      "a": "60"
+     },
+     {
+      "q": "36 × 2",
+      "a": "72"
+     },
+     {
+      "q": "15 × 6",
+      "a": "90"
+     },
+     {
+      "q": "24 × 3",
+      "a": "72"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Multiply. Carry where you need to.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "18",
+      "op": "×",
+      "bottom": "4",
+      "a": "72"
+     },
+     {
+      "top": "28",
+      "op": "×",
+      "bottom": "2",
+      "a": "56"
+     },
+     {
+      "top": "47",
+      "op": "×",
+      "bottom": "2",
+      "a": "94"
+     },
+     {
+      "top": "16",
+      "op": "×",
+      "bottom": "5",
+      "a": "80"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the tens-and-ones break-up to the answer.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "20 × 4 + 7 × 4",
+      "right": "108"
+     },
+     {
+      "left": "10 × 9 + 1 × 9",
+      "right": "99"
+     },
+     {
+      "left": "30 × 2 + 9 × 2",
+      "right": "78"
+     },
+     {
+      "left": "10 × 8 + 2 × 8",
+      "right": "96"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the orchard problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Each tree gives 17 mangoes. 4 trees give ___ mangoes.",
+      "a": "68"
+     },
+     {
+      "q": "A basket holds 25 mangoes. 3 baskets hold ___ mangoes.",
+      "a": "75"
+     },
+     {
+      "q": "Grandpa sells a box for ₹48. Two boxes cost ₹___.",
+      "a": "96"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a mango story for 13 × 6. Then solve it.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. 13 mangoes in each of 6 bags. 13 × 6 = 78 mangoes."
+   }
+  ]
+ },
+ {
+  "id": "2-digit-by-1-digit-multiplication-05",
+  "topic": "2-digit-by-1-digit-multiplication",
+  "number": 5,
+  "level": "Practice",
+  "title": "Train Tickets to Jaipur",
+  "intro": "Kabir's family is booking a train trip to Jaipur. Use multiplication to work out the costs.",
+  "sections": [
+   {
+    "type": "column",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "46",
+      "op": "×",
+      "bottom": "2",
+      "a": "92"
+     },
+     {
+      "top": "19",
+      "op": "×",
+      "bottom": "5",
+      "a": "95"
+     },
+     {
+      "top": "27",
+      "op": "×",
+      "bottom": "3",
+      "a": "81"
+     },
+     {
+      "top": "14",
+      "op": "×",
+      "bottom": "7",
+      "a": "98"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Work out the costs.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "One snack box costs ₹35. Two boxes cost ₹___.",
+      "a": "70"
+     },
+     {
+      "q": "One water bottle costs ₹20. Five bottles cost ₹___.",
+      "a": "100"
+     },
+     {
+      "q": "A comic costs ₹26. Six comics cost ₹___.",
+      "a": "156"
+     },
+     {
+      "q": "One cup of chai costs ₹15. Five cups cost ₹___.",
+      "a": "75"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right answer.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "23 × 4 =",
+      "options": [
+       "82",
+       "92",
+       "27"
+      ],
+      "after": "",
+      "a": "92"
+     },
+     {
+      "before": "37 × 2 =",
+      "options": [
+       "64",
+       "74",
+       "39"
+      ],
+      "after": "",
+      "a": "74"
+     },
+     {
+      "before": "18 × 5 =",
+      "options": [
+       "90",
+       "80",
+       "23"
+      ],
+      "after": "",
+      "a": "90"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "14 × 7 has the same answer as 7 × 14.",
+      "a": true
+     },
+     {
+      "q": "41 × 3 = 123",
+      "a": true
+     },
+     {
+      "q": "16 × 4 = 74",
+      "a": false
+     },
+     {
+      "q": "In 19 × 5, we carry 4 tens.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "The train has 9 coaches. Each coach has 12 windows. How many windows? Show your work.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. 12 × 9 = 108 windows."
+   }
+  ]
+ },
+ {
+  "id": "2-digit-by-1-digit-multiplication-06",
+  "topic": "2-digit-by-1-digit-multiplication",
+  "number": 6,
+  "level": "Practice",
+  "title": "The Dates Shop in Al Ain",
+  "intro": "Mr Hamdan packs dates into trays. Some answers now go past 100. Carry into the hundreds.",
+  "sections": [
+   {
+    "type": "column",
+    "title": "Multiply. The answer may have 3 digits.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "52",
+      "op": "×",
+      "bottom": "3",
+      "a": "156"
+     },
+     {
+      "top": "61",
+      "op": "×",
+      "bottom": "4",
+      "a": "244"
+     },
+     {
+      "top": "73",
+      "op": "×",
+      "bottom": "2",
+      "a": "146"
+     },
+     {
+      "top": "42",
+      "op": "×",
+      "bottom": "4",
+      "a": "168"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Multiply the tens.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "50 × 3",
+      "a": "150"
+     },
+     {
+      "q": "60 × 4",
+      "a": "240"
+     },
+     {
+      "q": "70 × 2",
+      "a": "140"
+     },
+     {
+      "q": "40 × 5",
+      "a": "200"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the steps for 64 × 3.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "4 ones × 3 = ___ ones",
+      "a": "12"
+     },
+     {
+      "q": "6 tens × 3 = ___ tens",
+      "a": "18"
+     },
+     {
+      "q": "So 64 × 3 = ___",
+      "a": "192"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each tray order to its total.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "31 × 5",
+      "right": "155"
+     },
+     {
+      "left": "83 × 2",
+      "right": "166"
+     },
+     {
+      "left": "51 × 6",
+      "right": "306"
+     },
+     {
+      "left": "92 × 3",
+      "right": "276"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the date shop problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Each tray holds 41 dates. 4 trays hold ___ dates.",
+      "a": "164"
+     },
+     {
+      "q": "A crate has 62 dates. 3 crates have ___ dates.",
+      "a": "186"
+     },
+     {
+      "q": "Mr Hamdan packs 81 boxes a day. In 2 days he packs ___ boxes.",
+      "a": "162"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2-digit-by-1-digit-multiplication-07",
+  "topic": "2-digit-by-1-digit-multiplication",
+  "number": 7,
+  "level": "Practice",
+  "title": "Painting Diyas for Diwali",
+  "intro": "Class 2 is painting clay diyas for the Diwali fair. Count the paint and the diyas.",
+  "sections": [
+   {
+    "type": "column",
+    "title": "Multiply. Carry where you need to.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "36",
+      "op": "×",
+      "bottom": "4",
+      "a": "144"
+     },
+     {
+      "top": "25",
+      "op": "×",
+      "bottom": "6",
+      "a": "150"
+     },
+     {
+      "top": "47",
+      "op": "×",
+      "bottom": "3",
+      "a": "141"
+     },
+     {
+      "top": "58",
+      "op": "×",
+      "bottom": "3",
+      "a": "174"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the products: less than 100, or 100 and more?",
+    "marks": 4,
+    "groups": [
+     "Less than 100",
+     "100 or more"
+    ],
+    "words": [
+     "24 × 4",
+     "34 × 3",
+     "19 × 4",
+     "21 × 5"
+    ],
+    "a": {
+     "24 × 4": "Less than 100",
+     "34 × 3": "100 or more",
+     "19 × 4": "Less than 100",
+     "21 × 5": "100 or more"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Solve the diya problems.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Each child paints 16 diyas. 6 children paint ___ diyas.",
+      "a": "96"
+     },
+     {
+      "q": "One box holds 45 diyas. 6 boxes hold ___ diyas.",
+      "a": "270"
+     },
+     {
+      "q": "A paint pot costs ₹52. Four pots cost ₹___.",
+      "a": "208"
+     },
+     {
+      "q": "Each diya gets 8 dots. 17 diyas get ___ dots.",
+      "a": "136"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "26 × 5 = 130",
+      "a": true
+     },
+     {
+      "q": "33 × 5 = 155",
+      "a": false
+     },
+     {
+      "q": "When the tens make 10 or more, the answer has 3 digits.",
+      "a": true
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2-digit-by-1-digit-multiplication-08",
+  "topic": "2-digit-by-1-digit-multiplication",
+  "number": 8,
+  "level": "Practice",
+  "title": "Football League at the Community Park",
+  "intro": "Teams in the Sharjah park league are counting goals, kits and drinks.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "11 × 9",
+      "a": "99"
+     },
+     {
+      "q": "22 × 5",
+      "a": "110"
+     },
+     {
+      "q": "13 × 8",
+      "a": "104"
+     },
+     {
+      "q": "44 × 3",
+      "a": "132"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "57",
+      "op": "×",
+      "bottom": "3",
+      "a": "171"
+     },
+     {
+      "top": "68",
+      "op": "×",
+      "bottom": "2",
+      "a": "136"
+     },
+     {
+      "top": "29",
+      "op": "×",
+      "bottom": "4",
+      "a": "116"
+     },
+     {
+      "top": "35",
+      "op": "×",
+      "bottom": "5",
+      "a": "175"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the bigger answer.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Which is more?",
+      "options": [
+       "17 × 3",
+       "13 × 4"
+      ],
+      "after": "",
+      "a": "13 × 4"
+     },
+     {
+      "before": "Which is more?",
+      "options": [
+       "39 × 3",
+       "61 × 2"
+      ],
+      "after": "",
+      "a": "61 × 2"
+     },
+     {
+      "before": "Which is more?",
+      "options": [
+       "15 × 7",
+       "51 × 2"
+      ],
+      "after": "",
+      "a": "15 × 7"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the league problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Each team has 11 players. 8 teams have ___ players.",
+      "a": "88"
+     },
+     {
+      "q": "Each team scored 14 goals. 5 teams scored ___ goals.",
+      "a": "70"
+     },
+     {
+      "q": "One kit costs ₹86. Two kits cost ₹___.",
+      "a": "172"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Coach Zoya has 6 bags with 18 balls in each. Does she have more than 100 balls? Explain.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. Yes. 18 × 6 = 108, which is more than 100."
+   }
+  ]
+ },
+ {
+  "id": "2-digit-by-1-digit-multiplication-09",
+  "topic": "2-digit-by-1-digit-multiplication",
+  "number": 9,
+  "level": "Practice",
+  "title": "The Christmas Eve Bakery Order",
+  "intro": "Aunty Marie's bakery in Goa has a big Christmas order. Work out the cakes and the money.",
+  "sections": [
+   {
+    "type": "column",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "74",
+      "op": "×",
+      "bottom": "3",
+      "a": "222"
+     },
+     {
+      "top": "65",
+      "op": "×",
+      "bottom": "2",
+      "a": "130"
+     },
+     {
+      "top": "48",
+      "op": "×",
+      "bottom": "3",
+      "a": "144"
+     },
+     {
+      "top": "39",
+      "op": "×",
+      "bottom": "5",
+      "a": "195"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Work out the bill.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "One plum cake costs ₹95. Two cakes cost ₹___.",
+      "a": "190"
+     },
+     {
+      "q": "One cupcake costs ₹24. Six cupcakes cost ₹___.",
+      "a": "144"
+     },
+     {
+      "q": "One cookie jar costs ₹55. Three jars cost ₹___.",
+      "a": "165"
+     },
+     {
+      "q": "A bag of rose cookies costs ₹32. Five bags cost ₹___.",
+      "a": "160"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each tray to the number of buns.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "16 × 9",
+      "right": "144"
+     },
+     {
+      "left": "23 × 7",
+      "right": "161"
+     },
+     {
+      "left": "18 × 7",
+      "right": "126"
+     },
+     {
+      "left": "14 × 8",
+      "right": "112"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "27 × 5 = 135",
+      "a": true
+     },
+     {
+      "q": "49 × 2 = 88",
+      "a": false
+     },
+     {
+      "q": "₹65 × 2 is more than ₹100.",
+      "a": true
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2-digit-by-1-digit-multiplication-10",
+  "topic": "2-digit-by-1-digit-multiplication",
+  "number": 10,
+  "level": "Practice",
+  "title": "Checking Answers in Library Week",
+  "intro": "Neha and Omar did some sums about library books. Check their work and fix the mistakes.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Is the answer right? Circle True or False.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "43 × 3 = 129",
+      "a": true
+     },
+     {
+      "q": "26 × 4 = 84",
+      "a": false
+     },
+     {
+      "q": "37 × 5 = 185",
+      "a": true
+     },
+     {
+      "q": "19 × 8 = 142",
+      "a": false
+     },
+     {
+      "q": "54 × 2 = 108",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the correct answer.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "Omar wrote 28 × 4 = 82. Fix it.",
+      "a": "28 × 4 = 112 / 112"
+     },
+     {
+      "q": "Neha wrote 46 × 3 = 128. Fix it.",
+      "a": "46 × 3 = 138 / 138"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Multiply in your head or on rough paper.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "62 × 2",
+      "a": "124"
+     },
+     {
+      "q": "71 × 2",
+      "a": "142"
+     },
+     {
+      "q": "34 × 4",
+      "a": "136"
+     },
+     {
+      "q": "15 × 8",
+      "a": "120"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "53",
+      "op": "×",
+      "bottom": "4",
+      "a": "212"
+     },
+     {
+      "top": "17",
+      "op": "×",
+      "bottom": "6",
+      "a": "102"
+     },
+     {
+      "top": "66",
+      "op": "×",
+      "bottom": "3",
+      "a": "198"
+     },
+     {
+      "top": "84",
+      "op": "×",
+      "bottom": "2",
+      "a": "168"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the library problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Each shelf holds 32 books. 4 shelves hold ___ books.",
+      "a": "128"
+     },
+     {
+      "q": "Each child reads 12 pages a day. In 7 days that is ___ pages.",
+      "a": "84"
+     },
+     {
+      "q": "A bookmark costs ₹19. Three bookmarks cost ₹___.",
+      "a": "57"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2-digit-by-1-digit-multiplication-11",
+  "topic": "2-digit-by-1-digit-multiplication",
+  "number": 11,
+  "level": "Challenge",
+  "title": "Missing Digits at the Science Club",
+  "intro": "Some digits at the Science Club have rubbed off. Find the missing digits.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Find the missing number.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "___ × 3 = 252",
+      "a": "84"
+     },
+     {
+      "q": "42 × ___ = 210",
+      "a": "5"
+     },
+     {
+      "q": "___ × 5 = 115",
+      "a": "23"
+     },
+     {
+      "q": "36 × ___ = 108",
+      "a": "3"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "71 × 3",
+      "a": "213"
+     },
+     {
+      "q": "43 × 4",
+      "a": "172"
+     },
+     {
+      "q": "59 × 2",
+      "a": "118"
+     },
+     {
+      "q": "27 × 6",
+      "a": "162"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "78",
+      "op": "×",
+      "bottom": "3",
+      "a": "234"
+     },
+     {
+      "top": "49",
+      "op": "×",
+      "bottom": "4",
+      "a": "196"
+     },
+     {
+      "top": "63",
+      "op": "×",
+      "bottom": "5",
+      "a": "315"
+     },
+     {
+      "top": "88",
+      "op": "×",
+      "bottom": "2",
+      "a": "176"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the missing digit.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "2_ × 8 = 168. The missing digit is",
+      "options": [
+       "1",
+       "3",
+       "7"
+      ],
+      "after": ".",
+      "a": "1"
+     },
+     {
+      "before": "1_ × 7 = 133. The missing digit is",
+      "options": [
+       "7",
+       "8",
+       "9"
+      ],
+      "after": ".",
+      "a": "9"
+     },
+     {
+      "before": "_5 × 4 = 260. The missing digit is",
+      "options": [
+       "5",
+       "6",
+       "7"
+      ],
+      "after": ".",
+      "a": "6"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "A test tube rack holds 24 tubes. How many tubes fit in 5 racks? Show your work.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. 24 × 5 = 120 tubes."
+   }
+  ]
+ },
+ {
+  "id": "2-digit-by-1-digit-multiplication-12",
+  "topic": "2-digit-by-1-digit-multiplication",
+  "number": 12,
+  "level": "Challenge",
+  "title": "Packing Iftar Boxes",
+  "intro": "The neighbours in Karama are packing iftar boxes. Some problems need two steps.",
+  "sections": [
+   {
+    "type": "column",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "93",
+      "op": "×",
+      "bottom": "2",
+      "a": "186"
+     },
+     {
+      "top": "56",
+      "op": "×",
+      "bottom": "4",
+      "a": "224"
+     },
+     {
+      "top": "39",
+      "op": "×",
+      "bottom": "4",
+      "a": "156"
+     },
+     {
+      "top": "67",
+      "op": "×",
+      "bottom": "3",
+      "a": "201"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the two-step problems.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "12 boxes each have 2 plates. Each plate has 3 dates. How many dates? ___",
+      "a": "72"
+     },
+     {
+      "q": "Aunty Salma packs 25 boxes. Uncle Imran packs 25 boxes too. Each box has 4 samosas. ___ samosas.",
+      "a": "200"
+     },
+     {
+      "q": "There are 4 streets with 13 houses on each. Each house gets 2 boxes. ___ boxes.",
+      "a": "104"
+     },
+     {
+      "q": "One juice costs ₹15. Mira buys 6 and pays with ₹100. Change: ₹___",
+      "a": "10"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each order to its total.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "79 × 4",
+      "right": "316"
+     },
+     {
+      "left": "85 × 3",
+      "right": "255"
+     },
+     {
+      "left": "47 × 6",
+      "right": "282"
+     },
+     {
+      "left": "91 × 5",
+      "right": "455"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "8 boxes of 12 and 12 boxes of 8 hold the same number.",
+      "a": true
+     },
+     {
+      "q": "44 × 6 = 264",
+      "a": true
+     },
+     {
+      "q": "25 × 4 is 125.",
+      "a": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2-digit-by-1-digit-multiplication-13",
+  "topic": "2-digit-by-1-digit-multiplication",
+  "number": 13,
+  "level": "Challenge",
+  "title": "The Ice Cream Cart at Juhu Beach",
+  "intro": "Raju runs an ice cream cart at Juhu Beach in Mumbai. Help him with his sales.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Work out the money.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "A kulfi costs ₹45. Raju sells 4. He gets ₹___.",
+      "a": "180"
+     },
+     {
+      "q": "A cone costs ₹38. Raju sells 6. He gets ₹___.",
+      "a": "228"
+     },
+     {
+      "q": "A cup costs ₹29. Raju sells 7. He gets ₹___.",
+      "a": "203"
+     },
+     {
+      "q": "A bar costs ₹62. Raju sells 4. He gets ₹___.",
+      "a": "248"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Which costs more? Circle it.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Which costs more?",
+      "options": [
+       "3 kulfis at ₹45",
+       "4 cones at ₹33"
+      ],
+      "after": "",
+      "a": "3 kulfis at ₹45"
+     },
+     {
+      "before": "Which costs more?",
+      "options": [
+       "5 cups at ₹28",
+       "2 tubs at ₹74"
+      ],
+      "after": "",
+      "a": "2 tubs at ₹74"
+     },
+     {
+      "before": "Which costs more?",
+      "options": [
+       "6 bars at ₹19",
+       "3 sundaes at ₹37"
+      ],
+      "after": "",
+      "a": "6 bars at ₹19"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "76",
+      "op": "×",
+      "bottom": "4",
+      "a": "304"
+     },
+     {
+      "top": "59",
+      "op": "×",
+      "bottom": "3",
+      "a": "177"
+     },
+     {
+      "top": "87",
+      "op": "×",
+      "bottom": "2",
+      "a": "174"
+     },
+     {
+      "top": "34",
+      "op": "×",
+      "bottom": "6",
+      "a": "204"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "57 × 4 = 228",
+      "a": true
+     },
+     {
+      "q": "26 × 8 = 206",
+      "a": false
+     },
+     {
+      "q": "₹50 × 4 is ₹200.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Ananya has ₹200. Can she buy 5 cones at ₹38 each? Explain.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. Yes. 38 × 5 = ₹190, which is less than ₹200. She gets ₹10 back."
+   }
+  ]
+ },
+ {
+  "id": "2-digit-by-1-digit-multiplication-14",
+  "topic": "2-digit-by-1-digit-multiplication",
+  "number": 14,
+  "level": "Challenge",
+  "title": "Estimating at the Dhow Harbour",
+  "intro": "Fishing boats come into the Dhow Harbour in Deira. Round first to estimate, then work it out.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Round the 2-digit number to the nearest ten, then multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "29 × 3 is about",
+      "a": "90"
+     },
+     {
+      "q": "41 × 5 is about",
+      "a": "200"
+     },
+     {
+      "q": "58 × 2 is about",
+      "a": "120"
+     },
+     {
+      "q": "72 × 4 is about",
+      "a": "280"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Now find the exact answers.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "29",
+      "op": "×",
+      "bottom": "3",
+      "a": "87"
+     },
+     {
+      "top": "41",
+      "op": "×",
+      "bottom": "5",
+      "a": "205"
+     },
+     {
+      "top": "58",
+      "op": "×",
+      "bottom": "2",
+      "a": "116"
+     },
+     {
+      "top": "72",
+      "op": "×",
+      "bottom": "4",
+      "a": "288"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the harbour problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Each boat brings 64 fish. 4 boats bring ___ fish.",
+      "a": "256"
+     },
+     {
+      "q": "Each crate holds 37 crabs. 4 crates hold ___ crabs.",
+      "a": "148"
+     },
+     {
+      "q": "A rope is 18 metres long. 9 ropes are ___ metres long.",
+      "a": "162"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "31 × 4 is about 120.",
+      "a": true
+     },
+     {
+      "q": "67 × 2 is about 100.",
+      "a": false
+     },
+     {
+      "q": "An estimate is a close guess, not the exact answer.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Captain Faisal says 49 × 3 is about 150. Is that a good estimate? Explain.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. Yes. 49 is close to 50, and 50 × 3 = 150. The exact answer is 147."
+   }
+  ]
+ },
+ {
+  "id": "2-digit-by-1-digit-multiplication-15",
+  "topic": "2-digit-by-1-digit-multiplication",
+  "number": 15,
+  "level": "Challenge",
+  "title": "Water Bottles for Sports Day",
+  "intro": "It is Sports Day at a school in Bengaluru. Use everything you know about multiplying.",
+  "sections": [
+   {
+    "type": "column",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "97",
+      "op": "×",
+      "bottom": "2",
+      "a": "194"
+     },
+     {
+      "top": "48",
+      "op": "×",
+      "bottom": "5",
+      "a": "240"
+     },
+     {
+      "top": "69",
+      "op": "×",
+      "bottom": "3",
+      "a": "207"
+     },
+     {
+      "top": "25",
+      "op": "×",
+      "bottom": "8",
+      "a": "200"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each problem to its answer.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "33 × 7",
+      "right": "231"
+     },
+     {
+      "left": "54 × 3",
+      "right": "162"
+     },
+     {
+      "left": "16 × 7",
+      "right": "112"
+     },
+     {
+      "left": "82 × 4",
+      "right": "328"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct product.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "77 × 3 =",
+      "options": [
+       "221",
+       "231",
+       "241"
+      ],
+      "after": "",
+      "a": "231"
+     },
+     {
+      "before": "53 × 6 =",
+      "options": [
+       "308",
+       "318",
+       "328"
+      ],
+      "after": "",
+      "a": "318"
+     },
+     {
+      "before": "95 × 4 =",
+      "options": [
+       "360",
+       "380",
+       "390"
+      ],
+      "after": "",
+      "a": "380"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the Sports Day problems.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Each house team needs 23 bottles. There are 6 teams. ___ bottles.",
+      "a": "138"
+     },
+     {
+      "q": "Each race has 9 runners. There are 14 races. ___ runners.",
+      "a": "126"
+     },
+     {
+      "q": "A medal costs ₹56. The school buys 3 gold and 3 silver medals. They pay ₹___.",
+      "a": "336"
+     },
+     {
+      "q": "75 children run 2 laps each. They run ___ laps in all.",
+      "a": "150"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write your own Sports Day problem for 46 × 4. Then solve it.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. 46 children each get 4 ribbons. 46 × 4 = 184 ribbons."
+   }
+  ]
+ }
+]

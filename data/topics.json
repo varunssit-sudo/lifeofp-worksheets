@@ -1,5 +1,25 @@
 [
   {
+    "id": "2-digit-by-1-digit-multiplication",
+    "subject": "Maths",
+    "name": "2-Digit by 1-Digit Multiplication",
+    "blurb": "Column Method, Carrying & Word Problems",
+    "about": "Your child learns to multiply a 2-digit number by a 1-digit number in tens and ones columns, carrying into the tens and hundreds, and uses it to solve real-life word problems.",
+    "videoId": "z-47KfThxQw",
+    "videoUrl": "https://www.youtube.com/watch?v=z-47KfThxQw",
+    "target": 15
+  },
+  {
+    "id": "add-and-subtract-word-problems",
+    "subject": "Maths",
+    "name": "Add and Subtract Word Problems",
+    "blurb": "Choose the Operation & Smart Spending",
+    "about": "Your child learns to read a word problem, decide whether to add or subtract, and compare prices to spend money wisely.",
+    "videoId": "SdsFpU1-2IA",
+    "videoUrl": "https://www.youtube.com/watch?v=SdsFpU1-2IA",
+    "target": 15
+  },
+  {
     "id": "addition-word-problems-rucsac",
     "subject": "Maths",
     "name": "Addition Word Problems with RUCSAC",
@@ -130,6 +150,16 @@
     "target": 15
   },
   {
+    "id": "missing-numbers-and-inverse-operations",
+    "subject": "Maths",
+    "name": "Missing Numbers and Inverse Operations",
+    "blurb": "Fact Families & How Many at First",
+    "about": "Your child learns to find a missing number by using the opposite operation, such as adding back to find how many there were at first, and checks answers with fact families.",
+    "videoId": "s2VwHY93nj8",
+    "videoUrl": "https://www.youtube.com/watch?v=s2VwHY93nj8",
+    "target": 15
+  },
+  {
     "id": "money",
     "subject": "Maths",
     "name": "Money",
@@ -157,6 +187,16 @@
     "about": "Your child practises the times tables from 1 to 10, finds missing numbers in table facts and uses the tables to solve everyday problems.",
     "videoId": "mSG2c7rfDCY",
     "videoUrl": "https://www.youtube.com/watch?v=mSG2c7rfDCY",
+    "target": 15
+  },
+  {
+    "id": "multiplication-words-and-strategies",
+    "subject": "Maths",
+    "name": "Multiplication Words and Strategies",
+    "blurb": "Arrays, Equal Groups & Number Line",
+    "about": "Your child learns the words of multiplication (factor, product, times, groups of) and solves multiplication with arrays, equal groups, repeated addition and the number line.",
+    "videoId": "NQBWUgA84UM",
+    "videoUrl": "https://www.youtube.com/watch?v=NQBWUgA84UM",
     "target": 15
   },
   {
@@ -210,6 +250,16 @@
     "target": 15
   },
   {
+    "id": "pictographs",
+    "subject": "Maths",
+    "name": "Pictographs",
+    "blurb": "Reading Picture Graphs with a Key",
+    "about": "Your child learns to read a picture graph using its key, including half pictures, and to compare and total the data it shows.",
+    "videoId": "JYej5NmyObs",
+    "videoUrl": "https://www.youtube.com/watch?v=JYej5NmyObs",
+    "target": 15
+  },
+  {
     "id": "place-value",
     "subject": "Maths",
     "name": "Place Value",
@@ -237,6 +287,16 @@
     "about": "Your child learns the rules of addition: adding 1 gives the successor, adding 0 changes nothing, and changing the order of the numbers gives the same sum. They also add three numbers.",
     "videoId": "20XtDSnC5jA",
     "videoUrl": "https://www.youtube.com/watch?v=20XtDSnC5jA",
+    "target": 15
+  },
+  {
+    "id": "properties-of-multiplication",
+    "subject": "Maths",
+    "name": "Properties of Multiplication",
+    "blurb": "Order, Zero & One Properties",
+    "about": "Your child learns three rules of multiplication: changing the order gives the same answer, any number times 0 is 0, and any number times 1 stays the same.",
+    "videoId": "fMwIyWJxdFo",
+    "videoUrl": "https://www.youtube.com/watch?v=fMwIyWJxdFo",
     "target": 15
   },
   {
@@ -417,6 +477,16 @@
     "about": "Your child learns to use is for one and are for many in the present, and was for I, he, she and it and were for you, we and they in the past.",
     "videoId": "w3w5Bx3zhSE",
     "videoUrl": "https://www.youtube.com/watch?v=w3w5Bx3zhSE",
+    "target": 15
+  },
+  {
+    "id": "making-predictions",
+    "subject": "English",
+    "name": "Making Predictions",
+    "blurb": "What Will Happen Next?",
+    "about": "Your child learns to use clues in a story and what they already know to predict what will happen next, and to say it with \"will\".",
+    "videoId": "KzFYTi1kF-o",
+    "videoUrl": "https://www.youtube.com/watch?v=KzFYTi1kF-o",
     "target": 15
   },
   {
