@@ -1,0 +1,2046 @@
+[
+ {
+  "id": "plurals-ves-irregular-and-same-01",
+  "topic": "plurals-ves-irregular-and-same",
+  "number": 1,
+  "level": "Starter",
+  "title": "Autumn Leaves in the Park",
+  "intro": "Anaya is walking in the park. Change f to ves to make more than one.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the plural. Change f to ves.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "leaf",
+      "a": "leaves"
+     },
+     {
+      "q": "wolf",
+      "a": "wolves"
+     },
+     {
+      "q": "shelf",
+      "a": "shelves"
+     },
+     {
+      "q": "loaf",
+      "a": "loaves"
+     },
+     {
+      "q": "calf",
+      "a": "calves"
+     },
+     {
+      "q": "half",
+      "a": "halves"
+     },
+     {
+      "q": "thief",
+      "a": "thieves"
+     },
+     {
+      "q": "elf",
+      "a": "elves"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Many yellow",
+      "options": [
+       "leafs",
+       "leaves"
+      ],
+      "after": "fell from the tree.",
+      "a": "leaves"
+     },
+     {
+      "before": "The gardener keeps pots on two",
+      "options": [
+       "shelves",
+       "shelfs"
+      ],
+      "after": ".",
+      "a": "shelves"
+     },
+     {
+      "before": "Anaya cut her apple into two",
+      "options": [
+       "halfs",
+       "halves"
+      ],
+      "after": ".",
+      "a": "halves"
+     },
+     {
+      "before": "Two brown",
+      "options": [
+       "calves",
+       "calfs"
+      ],
+      "after": "ate grass by the gate.",
+      "a": "calves"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The plural of leaf is leafs.",
+      "a": false
+     },
+     {
+      "q": "To make the plural of wolf, change f to ves.",
+      "a": true
+     },
+     {
+      "q": "One loaf, two loaves.",
+      "a": true
+     },
+     {
+      "q": "One shelf, two shelfes.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the plural of the word in brackets.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "One leaf is red. Three ___ are orange. (leaf)",
+      "a": "leaves"
+     },
+     {
+      "q": "The story board shows two grey ___. (wolf)",
+      "a": "wolves"
+     },
+     {
+      "q": "Anaya's mother packed two ___ of bread. (loaf)",
+      "a": "loaves"
+     },
+     {
+      "q": "The mother cow has two ___. (calf)",
+      "a": "calves"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about a park. Use the words leaves and halves.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check the spelling of each plural word."
+   }
+  ]
+ },
+ {
+  "id": "plurals-ves-irregular-and-same-02",
+  "topic": "plurals-ves-irregular-and-same",
+  "number": 2,
+  "level": "Starter",
+  "title": "The Bakery on Our Street",
+  "intro": "Mr Thomas runs the bakery. Words that end in fe change to ves too.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match one to more than one.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "knife",
+      "right": "knives"
+     },
+     {
+      "left": "wife",
+      "right": "wives"
+     },
+     {
+      "left": "life",
+      "right": "lives"
+     },
+     {
+      "left": "loaf",
+      "right": "loaves"
+     },
+     {
+      "left": "scarf",
+      "right": "scarves"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the plural of the word in brackets.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The baker uses two sharp ___ to cut the bread. (knife)",
+      "a": "knives"
+     },
+     {
+      "q": "Fresh ___ of bread sit in the window. (loaf)",
+      "a": "loaves"
+     },
+     {
+      "q": "The buns are on the top three ___. (shelf)",
+      "a": "shelves"
+     },
+     {
+      "q": "The two bakers and their ___ run the shop. (wife)",
+      "a": "wives"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the words. Is it one or more than one?",
+    "marks": 8,
+    "groups": [
+     "One",
+     "More than one"
+    ],
+    "words": [
+     "loaves",
+     "wife",
+     "shelves",
+     "wives",
+     "loaf",
+     "shelf",
+     "knives",
+     "knife"
+    ],
+    "a": {
+     "loaves": "More than one",
+     "wife": "One",
+     "shelves": "More than one",
+     "wives": "More than one",
+     "loaf": "One",
+     "shelf": "One",
+     "knives": "More than one",
+     "knife": "One"
+    }
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Words ending in fe change fe to ves.",
+      "a": true
+     },
+     {
+      "q": "The plural of knife is knifes.",
+      "a": false
+     },
+     {
+      "q": "Lives is the plural of life.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "This sentence has a wrong plural. Write it correctly.",
+    "marks": 1,
+    "items": [
+     {
+      "q": "Meher bought two loafs of bread.",
+      "a": "Meher bought two loaves of bread."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "plurals-ves-irregular-and-same-03",
+  "topic": "plurals-ves-irregular-and-same",
+  "number": 3,
+  "level": "Starter",
+  "title": "Family Photo Day",
+  "intro": "The whole family is here for a big photo. Some plurals change the whole word.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the plural.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "man",
+      "a": "men"
+     },
+     {
+      "q": "woman",
+      "a": "women"
+     },
+     {
+      "q": "child",
+      "a": "children"
+     },
+     {
+      "q": "tooth",
+      "a": "teeth"
+     },
+     {
+      "q": "foot",
+      "a": "feet"
+     },
+     {
+      "q": "person",
+      "a": "people"
+     },
+     {
+      "q": "mouse",
+      "a": "mice"
+     },
+     {
+      "q": "goose",
+      "a": "geese"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Three",
+      "options": [
+       "childs",
+       "children"
+      ],
+      "after": "sat in the front row.",
+      "a": "children"
+     },
+     {
+      "before": "Two",
+      "options": [
+       "mans",
+       "men"
+      ],
+      "after": "stood at the back.",
+      "a": "men"
+     },
+     {
+      "before": "Smile and show your",
+      "options": [
+       "teeth",
+       "tooths"
+      ],
+      "after": "!",
+      "a": "teeth"
+     },
+     {
+      "before": "All the",
+      "options": [
+       "womans",
+       "women"
+      ],
+      "after": "wore bright saris.",
+      "a": "women"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the plural.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "One foot, two ___.",
+      "a": "feet"
+     },
+     {
+      "q": "One person, ten ___.",
+      "a": "people"
+     },
+     {
+      "q": "One tooth, many ___.",
+      "a": "teeth"
+     },
+     {
+      "q": "One child, five ___.",
+      "a": "children"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "We add s to man to make mans.",
+      "a": false
+     },
+     {
+      "q": "Feet means more than one foot.",
+      "a": true
+     },
+     {
+      "q": "Childs is the correct plural of child.",
+      "a": false
+     },
+     {
+      "q": "Some plurals change the whole word.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about your family. Use the words children and people.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check the spelling of each plural word."
+   }
+  ]
+ },
+ {
+  "id": "plurals-ves-irregular-and-same-04",
+  "topic": "plurals-ves-irregular-and-same",
+  "number": 4,
+  "level": "Starter",
+  "title": "The Sheep Farm in the Hills",
+  "intro": "Kabir visits a farm in the hills. Some words stay the same for one and for many.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "One sheep, two sheeps.",
+      "a": false
+     },
+     {
+      "q": "The plural of deer is deer.",
+      "a": true
+     },
+     {
+      "q": "We say three mooses.",
+      "a": false
+     },
+     {
+      "q": "One aircraft, four aircraft.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The farmer has forty",
+      "options": [
+       "sheep",
+       "sheeps"
+      ],
+      "after": ".",
+      "a": "sheep"
+     },
+     {
+      "before": "Five",
+      "options": [
+       "deers",
+       "deer"
+      ],
+      "after": "ran across the hill.",
+      "a": "deer"
+     },
+     {
+      "before": "Kabir saw many small",
+      "options": [
+       "fish",
+       "fishs"
+      ],
+      "after": "in the stream.",
+      "a": "fish"
+     },
+     {
+      "before": "Two",
+      "options": [
+       "aircraft",
+       "aircrafts"
+      ],
+      "after": "flew over the farm.",
+      "a": "aircraft"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the words. How do we make the plural?",
+    "marks": 8,
+    "groups": [
+     "Add s",
+     "Stays the same"
+    ],
+    "words": [
+     "cow",
+     "dog",
+     "moose",
+     "hen",
+     "sheep",
+     "fish",
+     "deer",
+     "goat"
+    ],
+    "a": {
+     "cow": "Add s",
+     "dog": "Add s",
+     "moose": "Stays the same",
+     "hen": "Add s",
+     "sheep": "Stays the same",
+     "fish": "Stays the same",
+     "deer": "Stays the same",
+     "goat": "Add s"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the plural.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The farmer counted one sheep, then nine more ___.",
+      "a": "sheep"
+     },
+     {
+      "q": "One deer drank water. Soon six ___ came.",
+      "a": "deer"
+     },
+     {
+      "q": "Kabir caught one fish. His sister caught three ___.",
+      "a": "fish / fishes"
+     },
+     {
+      "q": "One moose is big. Two ___ are bigger!",
+      "a": "moose"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write one sentence about sheep on a farm.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. Ten sheep ate grass on the hill. The word sheep must not have an s."
+   }
+  ]
+ },
+ {
+  "id": "plurals-ves-irregular-and-same-05",
+  "topic": "plurals-ves-irregular-and-same",
+  "number": 5,
+  "level": "Practice",
+  "title": "Setting the Table for Dinner",
+  "intro": "Guests are coming to Dadi's house. Help the family get ready.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the singular. Make it one.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "knives",
+      "a": "knife"
+     },
+     {
+      "q": "halves",
+      "a": "half"
+     },
+     {
+      "q": "loaves",
+      "a": "loaf"
+     },
+     {
+      "q": "shelves",
+      "a": "shelf"
+     },
+     {
+      "q": "children",
+      "a": "child"
+     },
+     {
+      "q": "people",
+      "a": "person"
+     },
+     {
+      "q": "feet",
+      "a": "foot"
+     },
+     {
+      "q": "women",
+      "a": "woman"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the plural of the word in brackets.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "Put the forks and ___ beside each plate. (knife)",
+      "a": "knives"
+     },
+     {
+      "q": "Eight ___ are coming for dinner. (person)",
+      "a": "people"
+     },
+     {
+      "q": "Dadi sliced two ___ of bread. (loaf)",
+      "a": "loaves"
+     },
+     {
+      "q": "The ___ washed their hands first. (child)",
+      "a": "children"
+     },
+     {
+      "q": "Take the bowls down from the ___. (shelf)",
+      "a": "shelves"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Mama cut the lemons into",
+      "options": [
+       "halfs",
+       "halves"
+      ],
+      "after": ".",
+      "a": "halves"
+     },
+     {
+      "before": "Both my uncles came with their",
+      "options": [
+       "wives",
+       "wifes"
+      ],
+      "after": ".",
+      "a": "wives"
+     },
+     {
+      "before": "Wipe your",
+      "options": [
+       "foots",
+       "feet"
+      ],
+      "after": "on the mat.",
+      "a": "feet"
+     },
+     {
+      "before": "Three",
+      "options": [
+       "men",
+       "mans"
+      ],
+      "after": "carried the big table.",
+      "a": "men"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Each sentence has a wrong plural. Write it correctly.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "The childs set the table.",
+      "a": "The children set the table."
+     },
+     {
+      "q": "Papa sharpened the knifes.",
+      "a": "Papa sharpened the knives."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about dinner at your home. Use two plural words from this sheet.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check the spelling of each plural word."
+   }
+  ]
+ },
+ {
+  "id": "plurals-ves-irregular-and-same-06",
+  "topic": "plurals-ves-irregular-and-same",
+  "number": 6,
+  "level": "Practice",
+  "title": "The School Health Check-up",
+  "intro": "The doctor and nurse are visiting Class 2 today.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match one to more than one.",
+    "marks": 6,
+    "items": [
+     {
+      "left": "tooth",
+      "right": "teeth"
+     },
+     {
+      "left": "foot",
+      "right": "feet"
+     },
+     {
+      "left": "child",
+      "right": "children"
+     },
+     {
+      "left": "person",
+      "right": "people"
+     },
+     {
+      "left": "woman",
+      "right": "women"
+     },
+     {
+      "left": "man",
+      "right": "men"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the plural of the word in brackets.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "The doctor checked the ___ of every child. (tooth)",
+      "a": "teeth"
+     },
+     {
+      "q": "Stand with both ___ on the scale. (foot)",
+      "a": "feet"
+     },
+     {
+      "q": "Thirty ___ waited in a line. (child)",
+      "a": "children"
+     },
+     {
+      "q": "Two ___ in white coats helped the doctor. (woman)",
+      "a": "women"
+     },
+     {
+      "q": "Many ___ came to the hall. (person)",
+      "a": "people"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Is the plural word right? Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Brush your teeth twice a day.",
+      "a": true
+     },
+     {
+      "q": "My two foots are the same size.",
+      "a": false
+     },
+     {
+      "q": "The childrens sat on the bench.",
+      "a": false
+     },
+     {
+      "q": "Five people stood by the door.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the sentence again. Change the word in brackets to its plural.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "The nurse measured my (foot).",
+      "a": "The nurse measured my feet."
+     },
+     {
+      "q": "Two (man) carried the weighing machine.",
+      "a": "Two men carried the weighing machine."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "plurals-ves-irregular-and-same-07",
+  "topic": "plurals-ves-irregular-and-same",
+  "number": 7,
+  "level": "Practice",
+  "title": "A Drive Through the Desert",
+  "intro": "Imran's family is driving through the desert near Al Ain. Use all three plural rules.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 5,
+    "items": [
+     {
+      "before": "Many green",
+      "options": [
+       "cacti",
+       "cactus"
+      ],
+      "after": "grew beside the road.",
+      "a": "cacti"
+     },
+     {
+      "before": "We saw a herd of",
+      "options": [
+       "deer",
+       "deers"
+      ],
+      "after": "near the dunes.",
+      "a": "deer"
+     },
+     {
+      "before": "Two",
+      "options": [
+       "aircraft",
+       "aircrafts"
+      ],
+      "after": "flew high above us.",
+      "a": "aircraft"
+     },
+     {
+      "before": "The sand was hot under our",
+      "options": [
+       "feet",
+       "foots"
+      ],
+      "after": ".",
+      "a": "feet"
+     },
+     {
+      "before": "The",
+      "options": [
+       "children",
+       "childs"
+      ],
+      "after": "rode a camel.",
+      "a": "children"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Write the plural.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "cactus",
+      "a": "cacti / cactuses"
+     },
+     {
+      "q": "deer",
+      "a": "deer"
+     },
+     {
+      "q": "aircraft",
+      "a": "aircraft"
+     },
+     {
+      "q": "ox",
+      "a": "oxen"
+     },
+     {
+      "q": "goose",
+      "a": "geese"
+     },
+     {
+      "q": "mouse",
+      "a": "mice"
+     },
+     {
+      "q": "scarf",
+      "a": "scarves / scarfs"
+     },
+     {
+      "q": "hoof",
+      "a": "hooves / hoofs"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the words by their plural rule.",
+    "marks": 9,
+    "groups": [
+     "Change f to ves",
+     "Whole word changes",
+     "Stays the same"
+    ],
+    "words": [
+     "sheep",
+     "wolf",
+     "moose",
+     "ox",
+     "thief",
+     "aircraft",
+     "cactus",
+     "mouse",
+     "calf"
+    ],
+    "a": {
+     "sheep": "Stays the same",
+     "wolf": "Change f to ves",
+     "moose": "Stays the same",
+     "ox": "Whole word changes",
+     "thief": "Change f to ves",
+     "aircraft": "Stays the same",
+     "cactus": "Whole word changes",
+     "mouse": "Whole word changes",
+     "calf": "Change f to ves"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the plural.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "A desert mouse ran by. Then two more ___ came out.",
+      "a": "mice"
+     },
+     {
+      "q": "One cactus has sharp spines. All ___ have spines.",
+      "a": "cacti / cactuses"
+     },
+     {
+      "q": "The guide tied a scarf on his head. We bought two ___.",
+      "a": "scarves / scarfs"
+     },
+     {
+      "q": "A camel has four ___. (foot)",
+      "a": "feet"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about the desert. Use the words cacti and people.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check the spelling of each plural word."
+   }
+  ]
+ },
+ {
+  "id": "plurals-ves-irregular-and-same-08",
+  "topic": "plurals-ves-irregular-and-same",
+  "number": 8,
+  "level": "Practice",
+  "title": "The Pet Shop",
+  "intro": "Lucas and his sister are choosing a pet. Look at all the animals!",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in the plural of the word in brackets.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "The shop has ten white ___ in a cage. (mouse)",
+      "a": "mice"
+     },
+     {
+      "q": "Gold ___ swim in the big tank. (fish)",
+      "a": "fish / fishes"
+     },
+     {
+      "q": "Two ___ bought a kitten. (woman)",
+      "a": "women"
+     },
+     {
+      "q": "The rabbit has soft fur on its ___. (foot)",
+      "a": "feet"
+     },
+     {
+      "q": "The parrot food is on the bottom two ___. (shelf)",
+      "a": "shelves"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Is the plural right? Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "mouse, mouses",
+      "a": false
+     },
+     {
+      "q": "fish, fish",
+      "a": true
+     },
+     {
+      "q": "shelf, shelves",
+      "a": true
+     },
+     {
+      "q": "goose, gooses",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Write the singular. Make it one.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "mice",
+      "a": "mouse"
+     },
+     {
+      "q": "geese",
+      "a": "goose"
+     },
+     {
+      "q": "teeth",
+      "a": "tooth"
+     },
+     {
+      "q": "lives",
+      "a": "life"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The puppy has sharp little",
+      "options": [
+       "teeth",
+       "tooths"
+      ],
+      "after": ".",
+      "a": "teeth"
+     },
+     {
+      "before": "People say a cat has nine",
+      "options": [
+       "lifes",
+       "lives"
+      ],
+      "after": ".",
+      "a": "lives"
+     },
+     {
+      "before": "Three",
+      "options": [
+       "children",
+       "childrens"
+      ],
+      "after": "fed the turtles.",
+      "a": "children"
+     },
+     {
+      "before": "The shopkeeper sold six",
+      "options": [
+       "fish",
+       "fishs"
+      ],
+      "after": "today.",
+      "a": "fish"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Each sentence has a wrong plural. Write it correctly.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "Two mouses hid in the hay.",
+      "a": "Two mice hid in the hay."
+     },
+     {
+      "q": "The mans cleaned the fish tank.",
+      "a": "The men cleaned the fish tank."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "plurals-ves-irregular-and-same-09",
+  "topic": "plurals-ves-irregular-and-same",
+  "number": 9,
+  "level": "Practice",
+  "title": "The Village Pond",
+  "intro": "Early in the morning, everyone in the village comes to the pond.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the plural.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "goose",
+      "a": "geese"
+     },
+     {
+      "q": "ox",
+      "a": "oxen"
+     },
+     {
+      "q": "fisherman",
+      "a": "fishermen"
+     },
+     {
+      "q": "calf",
+      "a": "calves"
+     },
+     {
+      "q": "wife",
+      "a": "wives"
+     },
+     {
+      "q": "fish",
+      "a": "fish / fishes"
+     },
+     {
+      "q": "milkman",
+      "a": "milkmen"
+     },
+     {
+      "q": "grandchild",
+      "a": "grandchildren"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "A pair of",
+      "options": [
+       "oxen",
+       "oxes"
+      ],
+      "after": "pulled the cart.",
+      "a": "oxen"
+     },
+     {
+      "before": "White",
+      "options": [
+       "gooses",
+       "geese"
+      ],
+      "after": "swam on the pond.",
+      "a": "geese"
+     },
+     {
+      "before": "The",
+      "options": [
+       "calfs",
+       "calves"
+      ],
+      "after": "drank water at the edge.",
+      "a": "calves"
+     },
+     {
+      "before": "Three",
+      "options": [
+       "fishermen",
+       "fishermans"
+      ],
+      "after": "sat with their nets.",
+      "a": "fishermen"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the words. Is it one or more than one?",
+    "marks": 8,
+    "groups": [
+     "One",
+     "More than one"
+    ],
+    "words": [
+     "calves",
+     "oxen",
+     "goose",
+     "geese",
+     "ox",
+     "woman",
+     "calf",
+     "women"
+    ],
+    "a": {
+     "calves": "More than one",
+     "oxen": "More than one",
+     "goose": "One",
+     "geese": "More than one",
+     "ox": "One",
+     "woman": "One",
+     "calf": "One",
+     "women": "More than one"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the plural.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "One goose honked. Soon all the ___ honked.",
+      "a": "geese"
+     },
+     {
+      "q": "The farmer has one ox, but his brother has four ___.",
+      "a": "oxen"
+     },
+     {
+      "q": "A woman washed clothes. Two more ___ joined her.",
+      "a": "women"
+     },
+     {
+      "q": "One leaf floated on the pond. Then many ___ fell in.",
+      "a": "leaves"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about a pond. Use the words geese and fish.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check the spelling of each plural word."
+   }
+  ]
+ },
+ {
+  "id": "plurals-ves-irregular-and-same-10",
+  "topic": "plurals-ves-irregular-and-same",
+  "number": 10,
+  "level": "Practice",
+  "title": "The Winter Clothes Market",
+  "intro": "It is cold in Delhi. Ishaan's family is shopping for woollens.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "All words ending in f just take s.",
+      "a": false
+     },
+     {
+      "q": "Sheep and deer do not change in the plural.",
+      "a": true
+     },
+     {
+      "q": "The plural of woman is womans.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the plural of the word in brackets.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Woollen ___ hung in every stall. (scarf)",
+      "a": "scarves / scarfs"
+     },
+     {
+      "q": "Warm socks keep your ___ cosy. (foot)",
+      "a": "feet"
+     },
+     {
+      "q": "Hundreds of ___ walked through the market. (person)",
+      "a": "people"
+     },
+     {
+      "q": "The jumper has a picture of two grey ___. (wolf)",
+      "a": "wolves"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match one to more than one.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "elf",
+      "right": "elves"
+     },
+     {
+      "left": "snowman",
+      "right": "snowmen"
+     },
+     {
+      "left": "reindeer",
+      "right": "reindeer"
+     },
+     {
+      "left": "half",
+      "right": "halves"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "This stall sells coats for",
+      "options": [
+       "men",
+       "mans"
+      ],
+      "after": "and women.",
+      "a": "men"
+     },
+     {
+      "before": "The jackets are stacked on three",
+      "options": [
+       "shelfs",
+       "shelves"
+      ],
+      "after": ".",
+      "a": "shelves"
+     },
+     {
+      "before": "Ishaan saw toy",
+      "options": [
+       "sheep",
+       "sheeps"
+      ],
+      "after": "made of wool.",
+      "a": "sheep"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the sentence again. Change the word in brackets to its plural.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "Mum bought caps for both (child).",
+      "a": "Mum bought caps for both children."
+     },
+     {
+      "q": "The shopkeeper folded the shawls into (half).",
+      "a": "The shopkeeper folded the shawls into halves."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "plurals-ves-irregular-and-same-11",
+  "topic": "plurals-ves-irregular-and-same",
+  "number": 11,
+  "level": "Challenge",
+  "title": "The Storybook Corner",
+  "intro": "Story time! Be careful: a few words ending in f just take s.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the plural. Some change to ves. Some just take s.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "roof",
+      "a": "roofs"
+     },
+     {
+      "q": "thief",
+      "a": "thieves"
+     },
+     {
+      "q": "chief",
+      "a": "chiefs"
+     },
+     {
+      "q": "elf",
+      "a": "elves"
+     },
+     {
+      "q": "cliff",
+      "a": "cliffs"
+     },
+     {
+      "q": "wolf",
+      "a": "wolves"
+     },
+     {
+      "q": "giraffe",
+      "a": "giraffes"
+     },
+     {
+      "q": "life",
+      "a": "lives"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the words by their plural rule.",
+    "marks": 8,
+    "groups": [
+     "Change to ves",
+     "Just add s"
+    ],
+    "words": [
+     "chef",
+     "roof",
+     "chief",
+     "loaf",
+     "shelf",
+     "knife",
+     "leaf",
+     "cliff"
+    ],
+    "a": {
+     "chef": "Just add s",
+     "roof": "Just add s",
+     "chief": "Just add s",
+     "loaf": "Change to ves",
+     "shelf": "Change to ves",
+     "knife": "Change to ves",
+     "leaf": "Change to ves",
+     "cliff": "Just add s"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the plural of the word in brackets.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The three little pigs built houses with strong ___. (roof)",
+      "a": "roofs"
+     },
+     {
+      "q": "Forty ___ hid their gold in a cave. (thief)",
+      "a": "thieves"
+     },
+     {
+      "q": "The ___ made shoes at night. (elf)",
+      "a": "elves"
+     },
+     {
+      "q": "The goats climbed the steep ___. (cliff)",
+      "a": "cliffs"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Each sentence has two wrong plurals. Write it correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The wolfs ran past the two chieves.",
+      "a": "The wolves ran past the two chiefs."
+     },
+     {
+      "q": "The elfs lived happy lifes.",
+      "a": "The elves lived happy lives."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences for a story. Use the words wolves and roofs.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check the spelling of each plural word."
+   }
+  ]
+ },
+ {
+  "id": "plurals-ves-irregular-and-same-12",
+  "topic": "plurals-ves-irregular-and-same",
+  "number": 12,
+  "level": "Challenge",
+  "title": "The Hotel Kitchen",
+  "intro": "Step into a busy hotel kitchen in Mumbai. Watch out for chef!",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Four",
+      "options": [
+       "chefs",
+       "cheves"
+      ],
+      "after": "work in the kitchen.",
+      "a": "chefs"
+     },
+     {
+      "before": "They keep their",
+      "options": [
+       "knifes",
+       "knives"
+      ],
+      "after": "very sharp.",
+      "a": "knives"
+     },
+     {
+      "before": "The cook grilled two pink",
+      "options": [
+       "salmon",
+       "salmons"
+      ],
+      "after": ".",
+      "a": "salmon"
+     },
+     {
+      "before": "Twenty",
+      "options": [
+       "loafs",
+       "loaves"
+      ],
+      "after": "come out of the oven each morning.",
+      "a": "loaves"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Chef ends in f, so its plural is cheves.",
+      "a": false
+     },
+     {
+      "q": "The plural of half is halves.",
+      "a": true
+     },
+     {
+      "q": "Fish can mean one fish or many fish.",
+      "a": true
+     },
+     {
+      "q": "Womans is the plural of woman.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Write the singular. Make it one.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "chefs",
+      "a": "chef"
+     },
+     {
+      "q": "knives",
+      "a": "knife"
+     },
+     {
+      "q": "halves",
+      "a": "half"
+     },
+     {
+      "q": "people",
+      "a": "person"
+     },
+     {
+      "q": "salmon",
+      "a": "salmon"
+     },
+     {
+      "q": "women",
+      "a": "woman"
+     },
+     {
+      "q": "roofs",
+      "a": "roof"
+     },
+     {
+      "q": "loaves",
+      "a": "loaf"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the plural.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "One chef chops onions. Three ___ fry them.",
+      "a": "chefs"
+     },
+     {
+      "q": "Cut the limes into ___. (half)",
+      "a": "halves"
+     },
+     {
+      "q": "The waiter carried plates for six ___. (person)",
+      "a": "people"
+     },
+     {
+      "q": "Wash the ___ before you cook them. (fish)",
+      "a": "fish / fishes"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write each sentence again. Make it about more than one.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The chef has a sharp knife.",
+      "a": "The chefs have sharp knives."
+     },
+     {
+      "q": "The woman bakes a loaf.",
+      "a": "The women bake loaves."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "plurals-ves-irregular-and-same-13",
+  "topic": "plurals-ves-irregular-and-same",
+  "number": 13,
+  "level": "Challenge",
+  "title": "The Busy Airport",
+  "intro": "Noor is flying from Dubai to Kochi. The airport is full of people.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in the plural of the word in brackets.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Six ___ stood at the gates. (aircraft)",
+      "a": "aircraft"
+     },
+     {
+      "q": "Many ___ waited with their bags. (person)",
+      "a": "people"
+     },
+     {
+      "q": "Two ___ checked our passports. (policeman)",
+      "a": "policemen"
+     },
+     {
+      "q": "The ___ pressed their noses to the window. (child)",
+      "a": "children"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the words by their plural rule.",
+    "marks": 9,
+    "groups": [
+     "Change to ves",
+     "Whole word changes",
+     "Stays the same"
+    ],
+    "words": [
+     "aircraft",
+     "scarf",
+     "fish",
+     "person",
+     "wife",
+     "goose",
+     "tooth",
+     "half",
+     "deer"
+    ],
+    "a": {
+     "aircraft": "Stays the same",
+     "scarf": "Change to ves",
+     "fish": "Stays the same",
+     "person": "Whole word changes",
+     "wife": "Change to ves",
+     "goose": "Whole word changes",
+     "tooth": "Whole word changes",
+     "half": "Change to ves",
+     "deer": "Stays the same"
+    }
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word. Is it about one or many?",
+    "marks": 4,
+    "items": [
+     {
+      "before": "One aircraft",
+      "options": [
+       "is",
+       "are"
+      ],
+      "after": "landing now.",
+      "a": "is"
+     },
+     {
+      "before": "Three aircraft",
+      "options": [
+       "is",
+       "are"
+      ],
+      "after": "on the runway.",
+      "a": "are"
+     },
+     {
+      "before": "The people",
+      "options": [
+       "is",
+       "are"
+      ],
+      "after": "in a long queue.",
+      "a": "are"
+     },
+     {
+      "before": "That woman",
+      "options": [
+       "has",
+       "have"
+      ],
+      "after": "a red suitcase.",
+      "a": "has"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Aircrafts is the plural of aircraft.",
+      "a": false
+     },
+     {
+      "q": "'The men are pilots' talks about more than one man.",
+      "a": true
+     },
+     {
+      "q": "Person becomes people in the plural.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Each sentence has two wrong plurals. Write it correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The childrens watched the aircrafts take off.",
+      "a": "The children watched the aircraft take off."
+     },
+     {
+      "q": "Two womans pushed trolleys with their foots.",
+      "a": "Two women pushed trolleys with their feet."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "plurals-ves-irregular-and-same-14",
+  "topic": "plurals-ves-irregular-and-same",
+  "number": 14,
+  "level": "Challenge",
+  "title": "The Zoo Keeper's Notebook",
+  "intro": "Keeper Farida writes about her animals every evening. Help her spell the plurals.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the plural.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "bison",
+      "a": "bison"
+     },
+     {
+      "q": "moose",
+      "a": "moose"
+     },
+     {
+      "q": "hoof",
+      "a": "hooves / hoofs"
+     },
+     {
+      "q": "giraffe",
+      "a": "giraffes"
+     },
+     {
+      "q": "goose",
+      "a": "geese"
+     },
+     {
+      "q": "ox",
+      "a": "oxen"
+     },
+     {
+      "q": "trout",
+      "a": "trout"
+     },
+     {
+      "q": "calf",
+      "a": "calves"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the plural of the word in brackets.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "The keeper fed the pack of ___ at noon. (wolf)",
+      "a": "wolves"
+     },
+     {
+      "q": "Two baby ___ stayed close to their mother. (calf)",
+      "a": "calves"
+     },
+     {
+      "q": "A zebra has four hard ___. (hoof)",
+      "a": "hooves / hoofs"
+     },
+     {
+      "q": "Three tall ___ ate from the treetop. (giraffe)",
+      "a": "giraffes"
+     },
+     {
+      "q": "The owl hunts ___ at night. (mouse)",
+      "a": "mice"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word. Is it about one or many?",
+    "marks": 4,
+    "items": [
+     {
+      "before": "A moose",
+      "options": [
+       "has",
+       "have"
+      ],
+      "after": "big antlers.",
+      "a": "has"
+     },
+     {
+      "before": "These bison",
+      "options": [
+       "is",
+       "are"
+      ],
+      "after": "very heavy.",
+      "a": "are"
+     },
+     {
+      "before": "Those",
+      "options": [
+       "goose",
+       "geese"
+      ],
+      "after": "are noisy.",
+      "a": "geese"
+     },
+     {
+      "before": "This",
+      "options": [
+       "deer",
+       "deers"
+      ],
+      "after": "is only a baby.",
+      "a": "deer"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Giraffe ends in fe, so the plural is giraves.",
+      "a": false
+     },
+     {
+      "q": "Bison stays the same in the plural.",
+      "a": true
+     },
+     {
+      "q": "One ox, two oxes.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about a zoo. Use three plural words from this sheet.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check the spelling of each plural word."
+   }
+  ]
+ },
+ {
+  "id": "plurals-ves-irregular-and-same-15",
+  "topic": "plurals-ves-irregular-and-same",
+  "number": 15,
+  "level": "Challenge",
+  "title": "The School Magazine",
+  "intro": "You are the editor of the school magazine. Find and fix the plural mistakes.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the words by their plural rule.",
+    "marks": 9,
+    "groups": [
+     "Change to ves",
+     "Whole word changes",
+     "Just add s"
+    ],
+    "words": [
+     "mouse",
+     "life",
+     "foot",
+     "thief",
+     "leaf",
+     "cliff",
+     "roof",
+     "chef",
+     "child"
+    ],
+    "a": {
+     "mouse": "Whole word changes",
+     "life": "Change to ves",
+     "foot": "Whole word changes",
+     "thief": "Change to ves",
+     "leaf": "Change to ves",
+     "cliff": "Just add s",
+     "roof": "Just add s",
+     "chef": "Just add s",
+     "child": "Whole word changes"
+    }
+   },
+   {
+    "type": "match",
+    "title": "Match each word to its plural.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "cactus",
+      "right": "cacti"
+     },
+     {
+      "left": "person",
+      "right": "people"
+     },
+     {
+      "left": "spacecraft",
+      "right": "spacecraft"
+     },
+     {
+      "left": "snowman",
+      "right": "snowmen"
+     },
+     {
+      "left": "wife",
+      "right": "wives"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the plural.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "One tooth fell out last year. This year two more ___ fell out.",
+      "a": "teeth"
+     },
+     {
+      "q": "Our team has one woman coach. The other team has two ___ coaches.",
+      "a": "women"
+     },
+     {
+      "q": "A sheep gives wool. Many ___ give a lot of wool.",
+      "a": "sheep"
+     },
+     {
+      "q": "Each person wrote a poem, so thirty ___ wrote poems.",
+      "a": "people"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Each sentence has wrong plurals. Write it correctly.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "Our class saw five deers and two mooses.",
+      "a": "Our class saw five deer and two moose."
+     },
+     {
+      "q": "The childs put the books on the shelfs.",
+      "a": "The children put the books on the shelves."
+     },
+     {
+      "q": "Two chefes cut the loafs into halfs.",
+      "a": "Two chefs cut the loaves into halves."
+     }
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,1812 @@
+[
+ {
+  "id": "diary-writing-01",
+  "topic": "diary-writing",
+  "number": 1,
+  "level": "Starter",
+  "title": "A Rainy Day at School",
+  "intro": "Anvi got wet in the rain at school and wrote about it in her diary. Learn the parts of a diary entry.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each part of a diary entry to its example.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "Day and date",
+      "right": "Monday, 14 July"
+     },
+     {
+      "left": "Greeting",
+      "right": "Dear Diary,"
+     },
+     {
+      "left": "What happened",
+      "right": "It rained during our lunch break."
+     },
+     {
+      "left": "Feeling",
+      "right": "I felt cold but very happy."
+     },
+     {
+      "left": "Sign-off",
+      "right": "Anvi"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "A diary entry begins with the day and date.",
+      "a": true
+     },
+     {
+      "q": "We write 'Dear Diary' at the very end.",
+      "a": false
+     },
+     {
+      "q": "In my diary, I write about my own day.",
+      "a": true
+     },
+     {
+      "q": "A diary entry tells what will happen next year.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Write the past tense of each verb.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "play",
+      "a": "played"
+     },
+     {
+      "q": "jump",
+      "a": "jumped"
+     },
+     {
+      "q": "walk",
+      "a": "walked"
+     },
+     {
+      "q": "look",
+      "a": "looked"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Anvi is writing about earlier today. Circle the correct word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "It",
+      "options": [
+       "rains",
+       "rained"
+      ],
+      "after": "all morning.",
+      "a": "rained"
+     },
+     {
+      "before": "",
+      "options": [
+       "I",
+       "Me"
+      ],
+      "after": "jumped over a big puddle.",
+      "a": "I"
+     },
+     {
+      "before": "My socks",
+      "options": [
+       "are",
+       "were"
+      ],
+      "after": "soaking wet when I reached home.",
+      "a": "were"
+     },
+     {
+      "before": "I",
+      "options": [
+       "feel",
+       "felt"
+      ],
+      "after": "cosy when Mama gave me hot milk.",
+      "a": "felt"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about a rainy day you remember. Start each with I.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I wore my yellow raincoat. I jumped in the puddles with my friend."
+   }
+  ]
+ },
+ {
+  "id": "diary-writing-02",
+  "topic": "diary-writing",
+  "number": 2,
+  "level": "Starter",
+  "title": "My Birthday Party",
+  "intro": "Kabir turned eight on Saturday. Help him put his diary entry together.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Is it a part of a diary entry? Sort the cards.",
+    "marks": 6,
+    "groups": [
+     "In a diary entry",
+     "Not in a diary entry"
+    ],
+    "words": [
+     "Day and date",
+     "Price list",
+     "Postage stamp",
+     "Dear Diary",
+     "My feelings",
+     "Page of sums"
+    ],
+    "a": {
+     "Day and date": "In a diary entry",
+     "Dear Diary": "In a diary entry",
+     "My feelings": "In a diary entry",
+     "Price list": "Not in a diary entry",
+     "Postage stamp": "Not in a diary entry",
+     "Page of sums": "Not in a diary entry"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blank with the past tense of the word in brackets.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "My friends ___ (come) to my house at five o'clock.",
+      "a": "came"
+     },
+     {
+      "q": "We ___ (dance) to my favourite songs.",
+      "a": "danced"
+     },
+     {
+      "q": "Papa ___ (bake) a chocolate cake.",
+      "a": "baked"
+     },
+     {
+      "q": "I ___ (open) all my presents after dinner.",
+      "a": "opened"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the order to the part of the diary entry.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "1st",
+      "right": "Day and date"
+     },
+     {
+      "left": "2nd",
+      "right": "Dear Diary"
+     },
+     {
+      "left": "3rd",
+      "right": "What happened"
+     },
+     {
+      "left": "4th",
+      "right": "How I felt"
+     },
+     {
+      "left": "5th",
+      "right": "My name"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the best feelings word.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "I felt",
+      "options": [
+       "thankful",
+       "angry"
+      ],
+      "after": "when Nani gave me a storybook.",
+      "a": "thankful"
+     },
+     {
+      "before": "I felt",
+      "options": [
+       "excited",
+       "bored"
+      ],
+      "after": "when I saw my big chocolate cake.",
+      "a": "excited"
+     },
+     {
+      "before": "I felt",
+      "options": [
+       "sad",
+       "cheerful"
+      ],
+      "after": "when the party ended and my friends went home.",
+      "a": "sad"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about your last birthday. Say how you felt.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I cut a mango cake with my cousins. I felt very happy."
+   }
+  ]
+ },
+ {
+  "id": "diary-writing-03",
+  "topic": "diary-writing",
+  "number": 3,
+  "level": "Starter",
+  "title": "A Visit to Grandpa's Farm",
+  "intro": "Zoya spent Sunday on her grandpa's farm near Pune. Help her write about it.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the past tense of each verb.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "milk",
+      "a": "milked"
+     },
+     {
+      "q": "feed",
+      "a": "fed"
+     },
+     {
+      "q": "ride",
+      "a": "rode"
+     },
+     {
+      "q": "see",
+      "a": "saw"
+     },
+     {
+      "q": "pick",
+      "a": "picked"
+     },
+     {
+      "q": "climb",
+      "a": "climbed"
+     },
+     {
+      "q": "help",
+      "a": "helped"
+     },
+     {
+      "q": "dig",
+      "a": "dug"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "In a diary we use the word I for ourselves.",
+      "a": true
+     },
+     {
+      "q": "We write what happened in the past tense.",
+      "a": true
+     },
+     {
+      "q": "The date goes at the bottom of the entry.",
+      "a": false
+     },
+     {
+      "q": "A diary entry can tell how we felt.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Complete Zoya's entry. Use: Sunday, Diary, fed, felt.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "___, 9 March",
+      "a": "Sunday"
+     },
+     {
+      "q": "Dear ___,",
+      "a": "Diary"
+     },
+     {
+      "q": "I ___ the hens with Grandpa.",
+      "a": "fed"
+     },
+     {
+      "q": "I ___ so happy on the farm.",
+      "a": "felt"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Change each sentence to the past tense.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "I pick ripe mangoes from the tree.",
+      "a": "I picked ripe mangoes from the tree."
+     },
+     {
+      "q": "I ride on the tractor.",
+      "a": "I rode on the tractor."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about a visit to a grandparent. Use I and the past tense.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I visited my grandmother in Kochi. I helped her water the plants."
+   }
+  ]
+ },
+ {
+  "id": "diary-writing-04",
+  "topic": "diary-writing",
+  "number": 4,
+  "level": "Starter",
+  "title": "The Lost Lunch Box",
+  "intro": "Omar could not find his lunch box at school today. Read how he wrote about it.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the feelings words.",
+    "marks": 8,
+    "groups": [
+     "Good feelings",
+     "Not-so-good feelings"
+    ],
+    "words": [
+     "glad",
+     "worried",
+     "upset",
+     "proud",
+     "cheerful",
+     "lonely",
+     "angry",
+     "calm"
+    ],
+    "a": {
+     "glad": "Good feelings",
+     "proud": "Good feelings",
+     "cheerful": "Good feelings",
+     "calm": "Good feelings",
+     "worried": "Not-so-good feelings",
+     "upset": "Not-so-good feelings",
+     "lonely": "Not-so-good feelings",
+     "angry": "Not-so-good feelings"
+    }
+   },
+   {
+    "type": "match",
+    "title": "Put Omar's entry in order. Match the number to the line.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "1",
+      "right": "Wednesday, 3 September"
+     },
+     {
+      "left": "2",
+      "right": "Dear Diary,"
+     },
+     {
+      "left": "3",
+      "right": "I lost my blue lunch box at school."
+     },
+     {
+      "left": "4",
+      "right": "I felt worried until my teacher found it."
+     },
+     {
+      "left": "5",
+      "right": "Omar"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Omar is writing about earlier today. Circle the correct word.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "I",
+      "options": [
+       "search",
+       "searched"
+      ],
+      "after": "under every desk.",
+      "a": "searched"
+     },
+     {
+      "before": "Tia",
+      "options": [
+       "shares",
+       "shared"
+      ],
+      "after": "her sandwich with me when the bell rang.",
+      "a": "shared"
+     },
+     {
+      "before": "I",
+      "options": [
+       "forget",
+       "forgot"
+      ],
+      "after": "the box near the library in the morning.",
+      "a": "forgot"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write the feelings word. Use: worried, thankful, happy.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "I could not find my lunch box, so I felt ___.",
+      "a": "worried"
+     },
+     {
+      "q": "Tia shared her food. I felt ___ to have a kind friend.",
+      "a": "thankful"
+     },
+     {
+      "q": "My teacher found the box, so I felt ___ again.",
+      "a": "happy"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about a time you lost something.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I lost my red pencil in the park. I felt sad, but my brother found it."
+   }
+  ]
+ },
+ {
+  "id": "diary-writing-05",
+  "topic": "diary-writing",
+  "number": 5,
+  "level": "Practice",
+  "title": "Diwali Night",
+  "intro": "Ishaan's family celebrated Diwali at home in Sharjah. Help him finish his diary entry.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in the blank with the past tense of the word in brackets.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "In the morning we ___ (clean) the whole house.",
+      "a": "cleaned"
+     },
+     {
+      "q": "Mummy ___ (make) sweet laddoos.",
+      "a": "made"
+     },
+     {
+      "q": "I ___ (draw) a rangoli at the door.",
+      "a": "drew"
+     },
+     {
+      "q": "At night we ___ (light) twelve diyas.",
+      "a": "lit / lighted"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the verbs.",
+    "marks": 8,
+    "groups": [
+     "Present tense",
+     "Past tense"
+    ],
+    "words": [
+     "buy",
+     "bought",
+     "sang",
+     "sing",
+     "send",
+     "sent",
+     "ate",
+     "eat"
+    ],
+    "a": {
+     "buy": "Present tense",
+     "sing": "Present tense",
+     "send": "Present tense",
+     "eat": "Present tense",
+     "bought": "Past tense",
+     "sang": "Past tense",
+     "sent": "Past tense",
+     "ate": "Past tense"
+    }
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "'Dear Diary' comes before the day and date.",
+      "a": false
+     },
+     {
+      "q": "'I lit a diya' is written in the past tense.",
+      "a": true
+     },
+     {
+      "q": "A diary entry ends with my name.",
+      "a": true
+     },
+     {
+      "q": "In his own diary, Ishaan writes 'Ishaan lit a diya' and not 'I lit a diya'.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Answer in a full sentence. Begin with I felt.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "How did Ishaan feel when the diyas glowed?",
+      "a": "e.g. I felt joyful when the diyas glowed."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a short diary entry about a festival you enjoyed.",
+    "marks": 3,
+    "lines": 3,
+    "a": "e.g. Dear Diary, Today we celebrated Onam. I ate a big meal on a banana leaf. I felt very happy. (Check for the past tense and a feelings word.)"
+   }
+  ]
+ },
+ {
+  "id": "diary-writing-06",
+  "topic": "diary-writing",
+  "number": 6,
+  "level": "Practice",
+  "title": "A Day at the Aquarium",
+  "intro": "Leila's class went to see the fish at a big aquarium in Dubai. Write the day in her diary.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the past tense of each verb.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "swim",
+      "a": "swam"
+     },
+     {
+      "q": "watch",
+      "a": "watched"
+     },
+     {
+      "q": "touch",
+      "a": "touched"
+     },
+     {
+      "q": "point",
+      "a": "pointed"
+     },
+     {
+      "q": "count",
+      "a": "counted"
+     },
+     {
+      "q": "wave",
+      "a": "waved"
+     },
+     {
+      "q": "take",
+      "a": "took"
+     },
+     {
+      "q": "hold",
+      "a": "held"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Leila plans her entry. Match each question to her note.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "When did it happen?",
+      "right": "Tuesday, 21 January"
+     },
+     {
+      "left": "Where did I go?",
+      "right": "To the aquarium"
+     },
+     {
+      "left": "Who went with me?",
+      "right": "My class and Miss Rana"
+     },
+     {
+      "left": "What did I see?",
+      "right": "Sharks, rays and a turtle"
+     },
+     {
+      "left": "How did I feel?",
+      "right": "Amazed and a little scared"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Leila is writing about this morning. Circle the correct word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "We",
+      "options": [
+       "go",
+       "went"
+      ],
+      "after": "by the school bus.",
+      "a": "went"
+     },
+     {
+      "before": "A huge ray",
+      "options": [
+       "swims",
+       "swam"
+      ],
+      "after": "over our heads in the tunnel.",
+      "a": "swam"
+     },
+     {
+      "before": "",
+      "options": [
+       "I",
+       "Me"
+      ],
+      "after": "counted nine yellow fish.",
+      "a": "I"
+     },
+     {
+      "before": "Miss Rana",
+      "options": [
+       "takes",
+       "took"
+      ],
+      "after": "a class photo near the tank.",
+      "a": "took"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Change each sentence to the past tense.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "I wave at the diver.",
+      "a": "I waved at the diver."
+     },
+     {
+      "q": "The turtle hides behind a rock.",
+      "a": "The turtle hid behind a rock."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about a class trip. Say how you felt.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. We visited a science museum. I felt curious when I saw the robots."
+   }
+  ]
+ },
+ {
+  "id": "diary-writing-07",
+  "topic": "diary-writing",
+  "number": 7,
+  "level": "Practice",
+  "title": "Sports Day Race",
+  "intro": "Tanmay ran in the relay race on Sports Day. Some things went well and some did not.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in the blank with the past tense of the word in brackets.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "I ___ (run) as fast as I could.",
+      "a": "ran"
+     },
+     {
+      "q": "Our team ___ (win) the relay race.",
+      "a": "won"
+     },
+     {
+      "q": "I ___ (fall) near the finish line.",
+      "a": "fell"
+     },
+     {
+      "q": "My friends ___ (cheer) loudly for me.",
+      "a": "cheered"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match what happened to the feeling.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "My team won the gold medal.",
+      "right": "proud"
+     },
+     {
+      "left": "I stood at the start line and my legs shook.",
+      "right": "nervous"
+     },
+     {
+      "left": "I ran in four races in one morning.",
+      "right": "tired"
+     },
+     {
+      "left": "Papa came to watch without telling me.",
+      "right": "surprised"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "A diary entry can tell about good things and bad things.",
+      "a": true
+     },
+     {
+      "q": "'I ran fast' is in the past tense.",
+      "a": true
+     },
+     {
+      "q": "'I run fast' tells about something that is over.",
+      "a": false
+     },
+     {
+      "q": "We write our feelings before the day and date.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Finish each sentence in your own words.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "I felt proud when",
+      "a": "e.g. I felt proud when I finished the race."
+     },
+     {
+      "q": "I felt nervous because",
+      "a": "e.g. I felt nervous because many people were watching."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about a race or game you played.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I played football with my class. We scored two goals and I felt great."
+   }
+  ]
+ },
+ {
+  "id": "diary-writing-08",
+  "topic": "diary-writing",
+  "number": 8,
+  "level": "Practice",
+  "title": "The New Puppy",
+  "intro": "A little brown puppy came to live with Meher's family on Friday. She cannot wait to tell her diary.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Does the line tell what happened or a feeling? Sort.",
+    "marks": 6,
+    "groups": [
+     "What happened",
+     "A feeling"
+    ],
+    "words": [
+     "Papa brought a puppy",
+     "I was so excited",
+     "I felt shy at first",
+     "He chewed my sock",
+     "We named him Biscuit",
+     "I felt very lucky"
+    ],
+    "a": {
+     "Papa brought a puppy": "What happened",
+     "He chewed my sock": "What happened",
+     "We named him Biscuit": "What happened",
+     "I was so excited": "A feeling",
+     "I felt shy at first": "A feeling",
+     "I felt very lucky": "A feeling"
+    }
+   },
+   {
+    "type": "pairs",
+    "title": "Write the past tense of each verb.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "bring",
+      "a": "brought"
+     },
+     {
+      "q": "name",
+      "a": "named"
+     },
+     {
+      "q": "bark",
+      "a": "barked"
+     },
+     {
+      "q": "wag",
+      "a": "wagged"
+     },
+     {
+      "q": "hug",
+      "a": "hugged"
+     },
+     {
+      "q": "sleep",
+      "a": "slept"
+     },
+     {
+      "q": "chew",
+      "a": "chewed"
+     },
+     {
+      "q": "lick",
+      "a": "licked"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Meher writes at bedtime about her day. Circle the correct word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Biscuit",
+      "options": [
+       "wags",
+       "wagged"
+      ],
+      "after": "his tail when he saw me.",
+      "a": "wagged"
+     },
+     {
+      "before": "",
+      "options": [
+       "We",
+       "Us"
+      ],
+      "after": "took him to the park.",
+      "a": "We"
+     },
+     {
+      "before": "He",
+      "options": [
+       "sleeps",
+       "slept"
+      ],
+      "after": "on my lap after dinner.",
+      "a": "slept"
+     },
+     {
+      "before": "I felt",
+      "options": [
+       "lucky",
+       "angry"
+      ],
+      "after": "to have a new friend.",
+      "a": "lucky"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Complete the entry. Use: Dear, Friday, Meher.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "___, 6 June",
+      "a": "Friday"
+     },
+     {
+      "q": "___ Diary,",
+      "a": "Dear"
+     },
+     {
+      "q": "Good night! ___",
+      "a": "Meher"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a diary entry about a pet or an animal you met.",
+    "marks": 3,
+    "lines": 3,
+    "a": "e.g. Dear Diary, Today I met my neighbour's parrot. It said hello to me. I felt surprised and happy. (Check for the past tense and a feelings word.)"
+   }
+  ]
+ },
+ {
+  "id": "diary-writing-09",
+  "topic": "diary-writing",
+  "number": 9,
+  "level": "Practice",
+  "title": "A Train Ride to Jaipur",
+  "intro": "Rehan travelled from Delhi to Jaipur by train with his aunt. Help him write about the journey.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Write 1, 2, 3, 4 or 5 to put the entry in order.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "___ Dear Diary,",
+      "a": "2"
+     },
+     {
+      "q": "___ I felt sleepy but glad.",
+      "a": "4"
+     },
+     {
+      "q": "___ Thursday, 18 December",
+      "a": "1"
+     },
+     {
+      "q": "___ Rehan",
+      "a": "5"
+     },
+     {
+      "q": "___ We sat by the window and drank hot tea.",
+      "a": "3"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Write the past tense of each verb.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "sit",
+      "a": "sat"
+     },
+     {
+      "q": "drink",
+      "a": "drank"
+     },
+     {
+      "q": "sell",
+      "a": "sold"
+     },
+     {
+      "q": "carry",
+      "a": "carried"
+     },
+     {
+      "q": "pack",
+      "a": "packed"
+     },
+     {
+      "q": "reach",
+      "a": "reached"
+     },
+     {
+      "q": "travel",
+      "a": "travelled / traveled"
+     },
+     {
+      "q": "stop",
+      "a": "stopped"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Is the sentence right for Rehan's own diary about today? Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "I ate hot samosas on the train.",
+      "a": true
+     },
+     {
+      "q": "Rehan eats hot samosas on the train.",
+      "a": false
+     },
+     {
+      "q": "We reached Jaipur at noon.",
+      "a": true
+     },
+     {
+      "q": "I will reach Jaipur tomorrow.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Rewrite each sentence the diary way. Use I and the past tense.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Rehan packs his red bag.",
+      "a": "I packed my red bag."
+     },
+     {
+      "q": "Rehan waves to the tea seller.",
+      "a": "I waved to the tea seller."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about a journey you made.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I went to Goa by aeroplane. I looked at the clouds from my window."
+   }
+  ]
+ },
+ {
+  "id": "diary-writing-10",
+  "topic": "diary-writing",
+  "number": 10,
+  "level": "Practice",
+  "title": "Eid at My Cousin's House",
+  "intro": "Amna's family drove to Ajman to celebrate Eid with her cousins. Read and complete her diary.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Amna is writing at night. Circle the correct word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "We",
+      "options": [
+       "meet",
+       "met"
+      ],
+      "after": "all our cousins.",
+      "a": "met"
+     },
+     {
+      "before": "Grandma",
+      "options": [
+       "cooks",
+       "cooked"
+      ],
+      "after": "biryani for lunch.",
+      "a": "cooked"
+     },
+     {
+      "before": "Uncle Faisal",
+      "options": [
+       "says",
+       "said"
+      ],
+      "after": "'Eid Mubarak!' at the door.",
+      "a": "said"
+     },
+     {
+      "before": "I",
+      "options": [
+       "get",
+       "got"
+      ],
+      "after": "a new bangle box.",
+      "a": "got"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the feelings words.",
+    "marks": 6,
+    "groups": [
+     "Happy feelings",
+     "Sad feelings",
+     "Scared feelings"
+    ],
+    "words": [
+     "joyful",
+     "unhappy",
+     "afraid",
+     "frightened",
+     "tearful",
+     "delighted"
+    ],
+    "a": {
+     "joyful": "Happy feelings",
+     "delighted": "Happy feelings",
+     "unhappy": "Sad feelings",
+     "tearful": "Sad feelings",
+     "afraid": "Scared feelings",
+     "frightened": "Scared feelings"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Write the feeling. Use: excited, shy, thankful, sleepy.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "I woke up early because I was ___ about Eid.",
+      "a": "excited"
+     },
+     {
+      "q": "I felt ___ when a new aunt asked me to sing.",
+      "a": "shy"
+     },
+     {
+      "q": "I felt ___ for my lovely gifts.",
+      "a": "thankful"
+     },
+     {
+      "q": "On the drive home at midnight I felt ___.",
+      "a": "sleepy"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Change each sentence to the past tense.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "I wear my purple dress.",
+      "a": "I wore my purple dress."
+     },
+     {
+      "q": "We taste sweet dates after lunch.",
+      "a": "We tasted sweet dates after lunch."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a diary entry about a family celebration.",
+    "marks": 3,
+    "lines": 3,
+    "a": "e.g. Dear Diary, Today was my uncle's wedding. I danced with my cousins. I felt joyful. (Check for the past tense and a feelings word.)"
+   }
+  ]
+ },
+ {
+  "id": "diary-writing-11",
+  "topic": "diary-writing",
+  "number": 11,
+  "level": "Challenge",
+  "title": "The School Play",
+  "intro": "Nikhil played the lion in the class play. He wrote his diary in a hurry, so help him fix it.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "One verb is wrong. Write the correct past tense word.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "I speaked my lines loudly. The correct word is ___.",
+      "a": "spoke"
+     },
+     {
+      "q": "We singed the last song together. The correct word is ___.",
+      "a": "sang"
+     },
+     {
+      "q": "I standed in the middle of the stage. The correct word is ___.",
+      "a": "stood"
+     },
+     {
+      "q": "Everyone claped for us. The correct word is ___.",
+      "a": "clapped"
+     },
+     {
+      "q": "The curtain goed up at six o'clock. The correct word is ___.",
+      "a": "went"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each feeling to its reason.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "I felt nervous",
+      "right": "because the hall was full of people."
+     },
+     {
+      "left": "I felt proud",
+      "right": "because I remembered every line."
+     },
+     {
+      "left": "I felt silly",
+      "right": "because my lion tail fell off."
+     },
+     {
+      "left": "I felt thankful",
+      "right": "because my teacher helped me practise."
+     },
+     {
+      "left": "I felt sad",
+      "right": "because the play was over so soon."
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "A diary entry needs the day and date at the top.",
+      "a": true
+     },
+     {
+      "q": "'I bowed to the crowd' uses I and the past tense.",
+      "a": true
+     },
+     {
+      "q": "'He bows to the crowd' is the right way to write about myself in my diary.",
+      "a": false
+     },
+     {
+      "q": "The sign-off comes before 'Dear Diary'.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a diary entry about a time you were on stage or in front of the class. Use because.",
+    "marks": 4,
+    "lines": 3,
+    "a": "e.g. Dear Diary, Today I read a poem in assembly. I felt nervous because everyone looked at me. My teacher smiled, so I felt proud."
+   }
+  ]
+ },
+ {
+  "id": "diary-writing-12",
+  "topic": "diary-writing",
+  "number": 12,
+  "level": "Challenge",
+  "title": "Camping in the Desert",
+  "intro": "Sana's family camped for a night among the sand dunes near Al Ain. Help her write a full entry.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the past tense of each verb.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "build",
+      "a": "built"
+     },
+     {
+      "q": "tell",
+      "a": "told"
+     },
+     {
+      "q": "hear",
+      "a": "heard"
+     },
+     {
+      "q": "shine",
+      "a": "shone"
+     },
+     {
+      "q": "wake",
+      "a": "woke"
+     },
+     {
+      "q": "roast",
+      "a": "roasted"
+     },
+     {
+      "q": "drive",
+      "a": "drove"
+     },
+     {
+      "q": "catch",
+      "a": "caught"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Where does each line go in a diary entry? Sort.",
+    "marks": 6,
+    "groups": [
+     "Top",
+     "Middle",
+     "Bottom"
+    ],
+    "words": [
+     "Saturday, 15 November",
+     "We built a tent",
+     "Sana",
+     "Bye for now",
+     "I felt brave",
+     "Dear Diary"
+    ],
+    "a": {
+     "Saturday, 15 November": "Top",
+     "Dear Diary": "Top",
+     "We built a tent": "Middle",
+     "I felt brave": "Middle",
+     "Sana": "Bottom",
+     "Bye for now": "Bottom"
+    }
+   },
+   {
+    "type": "rewrite",
+    "title": "Join the two sentences with because.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "I felt scared. I heard a strange sound.",
+      "a": "I felt scared because I heard a strange sound."
+     },
+     {
+      "q": "I felt cosy. The fire was warm.",
+      "a": "I felt cosy because the fire was warm."
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Sana writes about last night. Circle the correct word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The stars",
+      "options": [
+       "shine",
+       "shone"
+      ],
+      "after": "brightly above our tent.",
+      "a": "shone"
+     },
+     {
+      "before": "Baba",
+      "options": [
+       "tells",
+       "told"
+      ],
+      "after": "us a story about a clever camel.",
+      "a": "told"
+     },
+     {
+      "before": "I",
+      "options": [
+       "wake",
+       "woke"
+      ],
+      "after": "up when the sun rose.",
+      "a": "woke"
+     },
+     {
+      "before": "My brother and",
+      "options": [
+       "I",
+       "me"
+      ],
+      "after": "roasted corn on the fire.",
+      "a": "I"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a full diary entry about a night away from home.",
+    "marks": 3,
+    "lines": 3,
+    "a": "e.g. Friday, 2 May. Dear Diary, I slept at my cousin's house. We told stories in the dark. I felt brave. Aisha"
+   }
+  ]
+ },
+ {
+  "id": "diary-writing-13",
+  "topic": "diary-writing",
+  "number": 13,
+  "level": "Challenge",
+  "title": "My Wobbly Tooth",
+  "intro": "Read Elena's entry: 'Monday, 2 February. Dear Diary, My tooth came out at lunch. I felt a bit scared, then proud. Elena'",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Read Elena's entry above. Circle True or False.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "The entry has a day and date.",
+      "a": true
+     },
+     {
+      "q": "Elena wrote about something that happened at dinner.",
+      "a": false
+     },
+     {
+      "q": "Elena used the past tense.",
+      "a": true
+     },
+     {
+      "q": "Elena wrote about two different feelings.",
+      "a": true
+     },
+     {
+      "q": "The entry has no sign-off.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blank with the past tense of the word in brackets.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "I ___ (bite) into a red apple.",
+      "a": "bit"
+     },
+     {
+      "q": "My tooth ___ (wiggle) and then came out.",
+      "a": "wiggled"
+     },
+     {
+      "q": "I ___ (keep) it in a tiny box.",
+      "a": "kept"
+     },
+     {
+      "q": "Dadi ___ (smile) and gave me a hug.",
+      "a": "smiled"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each feelings word to a word that means the same.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "glad",
+      "right": "happy"
+     },
+     {
+      "left": "frightened",
+      "right": "scared"
+     },
+     {
+      "left": "cross",
+      "right": "angry"
+     },
+     {
+      "left": "upset",
+      "right": "sad"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Make the sentence better. Add a feeling.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "I showed my tooth to my friends.",
+      "a": "e.g. I felt proud when I showed my tooth to my friends."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a diary entry about a time something surprising happened to you.",
+    "marks": 3,
+    "lines": 3,
+    "a": "e.g. Dear Diary, Today a butterfly sat on my hand. It stayed for a long time. I felt surprised and calm. (Check for the past tense and a feelings word.)"
+   }
+  ]
+ },
+ {
+  "id": "diary-writing-14",
+  "topic": "diary-writing",
+  "number": 14,
+  "level": "Challenge",
+  "title": "The Science Fair",
+  "intro": "Dev and his partner Mariam showed a bean plant project at the science fair. Help Dev write a longer entry.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in the blank with the past tense of the word in brackets.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "We ___ (plant) five beans in a glass jar.",
+      "a": "planted"
+     },
+     {
+      "q": "The beans ___ (grow) tall in two weeks.",
+      "a": "grew"
+     },
+     {
+      "q": "Miss Thomas ___ (teach) us how to measure them.",
+      "a": "taught"
+     },
+     {
+      "q": "I ___ (write) the heights on a chart.",
+      "a": "wrote"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Which lines belong in Dev's diary about the fair? Sort.",
+    "marks": 6,
+    "groups": [
+     "Keep",
+     "Leave out"
+    ],
+    "words": [
+     "We set up our table",
+     "A week has seven days",
+     "Fish live in water",
+     "A judge asked a question",
+     "I felt nervous at first",
+     "Ten is an even number"
+    ],
+    "a": {
+     "We set up our table": "Keep",
+     "A judge asked a question": "Keep",
+     "I felt nervous at first": "Keep",
+     "A week has seven days": "Leave out",
+     "Fish live in water": "Leave out",
+     "Ten is an even number": "Leave out"
+    }
+   },
+   {
+    "type": "choice",
+    "title": "Circle the best joining word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "I felt nervous",
+      "options": [
+       "because",
+       "but"
+      ],
+      "after": "the judge looked very serious.",
+      "a": "because"
+     },
+     {
+      "before": "I was shy at first,",
+      "options": [
+       "but",
+       "because"
+      ],
+      "after": "then I spoke clearly.",
+      "a": "but"
+     },
+     {
+      "before": "We watered the beans every day,",
+      "options": [
+       "so",
+       "but"
+      ],
+      "after": "they grew tall.",
+      "a": "so"
+     },
+     {
+      "before": "I felt proud",
+      "options": [
+       "because",
+       "so"
+      ],
+      "after": "we got a gold star.",
+      "a": "because"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Rewrite each sentence the diary way. Use I or We and the past tense.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Dev and Mariam pour water on the beans.",
+      "a": "We poured water on the beans."
+     },
+     {
+      "q": "Dev explains the chart to the judge.",
+      "a": "I explained the chart to the judge."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two more sentences for Dev's entry. Tell how the day ended and how he felt.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. We packed up our jar at three o'clock. I felt tired but very proud."
+   }
+  ]
+ },
+ {
+  "id": "diary-writing-15",
+  "topic": "diary-writing",
+  "number": 15,
+  "level": "Challenge",
+  "title": "Moving to a New House",
+  "intro": "Farah's family moved from Mumbai to Abu Dhabi this week. She has mixed feelings about it.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the past tense of each verb.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "leave",
+      "a": "left"
+     },
+     {
+      "q": "move",
+      "a": "moved"
+     },
+     {
+      "q": "feel",
+      "a": "felt"
+     },
+     {
+      "q": "choose",
+      "a": "chose"
+     },
+     {
+      "q": "hang",
+      "a": "hung"
+     },
+     {
+      "q": "begin",
+      "a": "began"
+     },
+     {
+      "q": "know",
+      "a": "knew"
+     },
+     {
+      "q": "unpack",
+      "a": "unpacked"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "A person can feel happy and sad on the same day.",
+      "a": true
+     },
+     {
+      "q": "A diary entry must tell only about happy things.",
+      "a": false
+     },
+     {
+      "q": "'I left my old school' is in the past tense.",
+      "a": true
+     },
+     {
+      "q": "'Lonely' is a feelings word.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Name the part of the diary entry. Use: date, greeting, feeling, sign-off.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "'Thursday, 28 August' is the day and ___.",
+      "a": "date"
+     },
+     {
+      "q": "'Dear Diary' is the ___.",
+      "a": "greeting"
+     },
+     {
+      "q": "'I felt lonely at first' tells a ___.",
+      "a": "feeling"
+     },
+     {
+      "q": "'Farah' at the end is the ___.",
+      "a": "sign-off"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Answer in a full diary sentence. Start with I.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "What did Farah do in her new room?",
+      "a": "e.g. I hung my drawings on the wall."
+     },
+     {
+      "q": "How did Farah feel about leaving her friends?",
+      "a": "e.g. I felt sad because I left my best friends."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a diary entry about a big change, like a new class or a new home. Give two feelings.",
+    "marks": 3,
+    "lines": 3,
+    "a": "e.g. Dear Diary, Today I joined a new class. I felt lonely at first. Then a girl shared her crayons and I felt glad."
+   }
+  ]
+ }
+]

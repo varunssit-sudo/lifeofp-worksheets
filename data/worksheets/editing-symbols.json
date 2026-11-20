@@ -1,0 +1,1696 @@
+[
+ {
+  "id": "editing-symbols-01",
+  "topic": "editing-symbols",
+  "number": 1,
+  "level": "Starter",
+  "title": "Our Class Editing Chart",
+  "intro": "Ms Rekha has put up a chart of editing symbols. Learn what sp, cap and p mean, then be the editor.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each symbol to its meaning.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "sp",
+      "right": "spelling mistake"
+     },
+     {
+      "left": "cap",
+      "right": "capital letter needed"
+     },
+     {
+      "left": "p",
+      "right": "punctuation mistake"
+     },
+     {
+      "left": "gr",
+      "right": "grammar mistake"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Editing means checking and fixing our writing.",
+      "a": true
+     },
+     {
+      "q": "The symbol sp means 'speak loudly'.",
+      "a": false
+     },
+     {
+      "q": "The symbol cap tells us a capital letter is missing.",
+      "a": true
+     },
+     {
+      "q": "The symbol p can mean a full stop is missing.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "These words are marked sp. Write each one correctly.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "skool",
+      "a": "school"
+     },
+     {
+      "q": "frend",
+      "a": "friend"
+     },
+     {
+      "q": "techer",
+      "a": "teacher"
+     },
+     {
+      "q": "pensil",
+      "a": "pencil"
+     },
+     {
+      "q": "hapy",
+      "a": "happy"
+     },
+     {
+      "q": "buk",
+      "a": "book"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Fix the mistake the symbol shows. Write the sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "my bag is blue. (cap)",
+      "a": "My bag is blue."
+     },
+     {
+      "q": "We read a story (p)",
+      "a": "We read a story."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write one sentence. Check it for sp, cap and p.",
+    "marks": 2,
+    "lines": 1,
+    "a": "Answers will vary. Check spelling, the capital letter and the end mark."
+   }
+  ]
+ },
+ {
+  "id": "editing-symbols-02",
+  "topic": "editing-symbols",
+  "number": 2,
+  "level": "Starter",
+  "title": "A Diary Page About Friday",
+  "intro": "Tariq wrote in his diary in a hurry. Look for spelling mistakes (sp) and missing capital letters (cap).",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the mistakes. Which symbol does each word need?",
+    "marks": 6,
+    "groups": [
+     "sp",
+     "cap"
+    ],
+    "words": [
+     "becos",
+     "friday",
+     "wen",
+     "dubai",
+     "sed",
+     "sara"
+    ],
+    "a": {
+     "becos": "sp",
+     "friday": "cap",
+     "wen": "sp",
+     "dubai": "cap",
+     "sed": "sp",
+     "sara": "cap"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Each sentence is marked sp. Write the word correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "I woke up erly. The right spelling is ___.",
+      "a": "early"
+     },
+     {
+      "q": "We playd football. The right spelling is ___.",
+      "a": "played"
+     },
+     {
+      "q": "My bruther came too. The right spelling is ___.",
+      "a": "brother"
+     },
+     {
+      "q": "We had lunsh at one. The right spelling is ___.",
+      "a": "lunch"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the symbol each sentence needs.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "on Friday we had art.",
+      "options": [
+       "sp",
+       "cap"
+      ],
+      "after": "",
+      "a": "cap"
+     },
+     {
+      "before": "I drew a big flowr.",
+      "options": [
+       "sp",
+       "cap"
+      ],
+      "after": "",
+      "a": "sp"
+     },
+     {
+      "before": "my teacher liked it.",
+      "options": [
+       "sp",
+       "cap"
+      ],
+      "after": "",
+      "a": "cap"
+     },
+     {
+      "before": "She gave me a gold sticer.",
+      "options": [
+       "sp",
+       "cap"
+      ],
+      "after": "",
+      "a": "sp"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Fix the mistake the symbol shows. Write the sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "i painted with Tariq. (cap)",
+      "a": "I painted with Tariq."
+     },
+     {
+      "q": "We went home on the yelow bus. (sp)",
+      "a": "We went home on the yellow bus."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two lines about your Friday. Then check them.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check spelling and capital letters."
+   }
+  ]
+ },
+ {
+  "id": "editing-symbols-03",
+  "topic": "editing-symbols",
+  "number": 3,
+  "level": "Starter",
+  "title": "The Lost Lunch Box Notice",
+  "intro": "Wei has lost her lunch box and is writing a notice for the board. Check the punctuation (p).",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The symbol p means a punctuation mark is missing or wrong.",
+      "a": true
+     },
+     {
+      "q": "A question should end with a full stop.",
+      "a": false
+     },
+     {
+      "q": "The symbol p can point to a missing comma in a list.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Each sentence is marked p. Write the missing mark.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Have you seen my lunch box ___",
+      "a": "?"
+     },
+     {
+      "q": "It is green ___ round and shiny.",
+      "a": ","
+     },
+     {
+      "q": "It has my name on the lid ___",
+      "a": "."
+     },
+     {
+      "q": "Who took it from the bench ___",
+      "a": "?"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each symbol to the sentence that needs it.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "sp",
+      "right": "My lunch box is grean."
+     },
+     {
+      "left": "cap",
+      "right": "it was on the bench."
+     },
+     {
+      "left": "p",
+      "right": "Where can it be"
+     },
+     {
+      "left": "no mistake",
+      "right": "It was a gift from Nani."
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Fix the mistake the symbol shows. Write the sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Is it in the lost and found box. (p)",
+      "a": "Is it in the lost and found box?"
+     },
+     {
+      "q": "It had rice dal and curd in it. (p)",
+      "a": "It had rice, dal and curd in it."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a notice for something you lost. Check your punctuation.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. I lost my red cap. Have you seen it? Check the end marks."
+   }
+  ]
+ },
+ {
+  "id": "editing-symbols-04",
+  "topic": "editing-symbols",
+  "number": 4,
+  "level": "Starter",
+  "title": "A Note for Mama on the Fridge",
+  "intro": "Ritika left a note before going to play. Check the grammar (gr) so the note sounds right.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each symbol to what the writer must do.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "sp",
+      "right": "check the letters in the word"
+     },
+     {
+      "left": "cap",
+      "right": "change a small letter to a big one"
+     },
+     {
+      "left": "p",
+      "right": "add or change a mark like . , ?"
+     },
+     {
+      "left": "gr",
+      "right": "fix the form of a word, like go or goes"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the word with the right grammar.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Papa",
+      "options": [
+       "go",
+       "goes"
+      ],
+      "after": "to the shop every evening.",
+      "a": "goes"
+     },
+     {
+      "before": "We",
+      "options": [
+       "is",
+       "are"
+      ],
+      "after": "out of milk.",
+      "a": "are"
+     },
+     {
+      "before": "I",
+      "options": [
+       "has",
+       "have"
+      ],
+      "after": "football practice at five.",
+      "a": "have"
+     },
+     {
+      "before": "Yesterday I",
+      "options": [
+       "eat",
+       "ate"
+      ],
+      "after": "all the grapes.",
+      "a": "ate"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "These are marked gr. Write them correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "she run",
+      "a": "she runs"
+     },
+     {
+      "q": "they was",
+      "a": "they were"
+     },
+     {
+      "q": "three egg",
+      "a": "three eggs"
+     },
+     {
+      "q": "he have",
+      "a": "he has"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Fix the mistake the symbol shows. Write the sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Aunty Rupa are coming at six. (gr)",
+      "a": "Aunty Rupa is coming at six."
+     },
+     {
+      "q": "I feeded the cat. (gr)",
+      "a": "I fed the cat."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a short note to someone at home. Check the grammar.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. I am at the park. I will be back at six. Check that it sounds right."
+   }
+  ]
+ },
+ {
+  "id": "editing-symbols-05",
+  "topic": "editing-symbols",
+  "number": 5,
+  "level": "Practice",
+  "title": "A Recipe Card for Lemon Rice",
+  "intro": "Sahana copied a recipe from her grandmother. Look for wrong words (ww) and missing words (^).",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The symbol ww means 'write well'.",
+      "a": false
+     },
+     {
+      "q": "The symbol ^ shows that a word is missing.",
+      "a": true
+     },
+     {
+      "q": "We use ww when a word is spelled right but is the wrong word.",
+      "a": true
+     },
+     {
+      "q": "The symbol ^ means the sentence is too long.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "These are marked ww. Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Boil the rice in",
+      "options": [
+       "too",
+       "two"
+      ],
+      "after": "cups of water.",
+      "a": "two"
+     },
+     {
+      "before": "Squeeze",
+      "options": [
+       "won",
+       "one"
+      ],
+      "after": "big lemon.",
+      "a": "one"
+     },
+     {
+      "before": "Add salt",
+      "options": [
+       "to",
+       "two"
+      ],
+      "after": "the pan.",
+      "a": "to"
+     },
+     {
+      "before": "Stir until you can",
+      "options": [
+       "sea",
+       "see"
+      ],
+      "after": "steam.",
+      "a": "see"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write the word that is missing at ^.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Wash the rice ^ a bowl. Missing word: ___",
+      "a": "in"
+     },
+     {
+      "q": "Heat the oil in ^ pan. Missing word: ___",
+      "a": "a / the"
+     },
+     {
+      "q": "Add a pinch ^ turmeric. Missing word: ___",
+      "a": "of"
+     },
+     {
+      "q": "Serve it ^ a plate. Missing word: ___",
+      "a": "on"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Fix the mistake the symbol shows. Write the sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Add for curry leaves. (ww)",
+      "a": "Add four curry leaves."
+     },
+     {
+      "q": "Let it cool ten minutes. (^)",
+      "a": "Let it cool for ten minutes."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two steps of a recipe you know. Check for missing words.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. Cut the bread. Spread the butter on it. Check no word is missing."
+   }
+  ]
+ },
+ {
+  "id": "editing-symbols-06",
+  "topic": "editing-symbols",
+  "number": 6,
+  "level": "Practice",
+  "title": "A Postcard from Abu Dhabi",
+  "intro": "Hugo is writing to his cousin. Learn two new symbols: // for a new paragraph and ? for does not make sense.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each symbol to its meaning.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "^",
+      "right": "a word is missing"
+     },
+     {
+      "left": "//",
+      "right": "start a new paragraph"
+     },
+     {
+      "left": "?",
+      "right": "this does not make sense"
+     },
+     {
+      "left": "ww",
+      "right": "wrong word"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "We start a new paragraph when we begin a new idea.",
+      "a": true
+     },
+     {
+      "q": "The symbol // means 'rub out this line'.",
+      "a": false
+     },
+     {
+      "q": "A ? next to a sentence means the reader could not understand it.",
+      "a": true
+     },
+     {
+      "q": "A new paragraph starts on a new line.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "These are marked cap. Write them correctly.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "abu dhabi",
+      "a": "Abu Dhabi"
+     },
+     {
+      "q": "sunday",
+      "a": "Sunday"
+     },
+     {
+      "q": "yas island",
+      "a": "Yas Island"
+     },
+     {
+      "q": "uncle faisal",
+      "a": "Uncle Faisal"
+     },
+     {
+      "q": "august",
+      "a": "August"
+     },
+     {
+      "q": "hugo",
+      "a": "Hugo"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "These are marked ?. Put the words in order so they make sense.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "beach the to went We.",
+      "a": "We went to the beach."
+     },
+     {
+      "q": "big was mosque The very.",
+      "a": "The mosque was very big."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a postcard in two lines. Ask a friend if it makes sense.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check that each sentence makes sense and has capital letters."
+   }
+  ]
+ },
+ {
+  "id": "editing-symbols-07",
+  "topic": "editing-symbols",
+  "number": 7,
+  "level": "Practice",
+  "title": "The Science Fair Poster",
+  "intro": "Group 3 is making a poster about how plants grow. Use the editing symbols to check it.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Write the symbol.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "A spelling mistake: ___",
+      "a": "sp"
+     },
+     {
+      "q": "A missing word: ___",
+      "a": "^"
+     },
+     {
+      "q": "A capital letter is needed: ___",
+      "a": "cap"
+     },
+     {
+      "q": "The wrong word is used: ___",
+      "a": "ww"
+     },
+     {
+      "q": "Start a new paragraph: ___",
+      "a": "//"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the symbol each sentence needs.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Plants need water sunlight and air.",
+      "options": [
+       "p",
+       "sp"
+      ],
+      "after": "",
+      "a": "p"
+     },
+     {
+      "before": "the seed grew in six days.",
+      "options": [
+       "cap",
+       "gr"
+      ],
+      "after": "",
+      "a": "cap"
+     },
+     {
+      "before": "The roots grows down.",
+      "options": [
+       "gr",
+       "sp"
+      ],
+      "after": "",
+      "a": "gr"
+     },
+     {
+      "before": "We put the pot near the windo.",
+      "options": [
+       "sp",
+       "ww"
+      ],
+      "after": "",
+      "a": "sp"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "These words are marked sp. Write each one correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "plnat",
+      "a": "plant"
+     },
+     {
+      "q": "watter",
+      "a": "water"
+     },
+     {
+      "q": "leef",
+      "a": "leaf"
+     },
+     {
+      "q": "soyl",
+      "a": "soil"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Fix the mistake the symbol shows. Write the sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The beans was green. (gr)",
+      "a": "The beans were green."
+     },
+     {
+      "q": "We measured it with ruler. (^)",
+      "a": "We measured it with a ruler."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two facts for a poster. Swap with a friend and edit.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. Plants need sunlight. Roots drink water. Check with the editing symbols."
+   }
+  ]
+ },
+ {
+  "id": "editing-symbols-08",
+  "topic": "editing-symbols",
+  "number": 8,
+  "level": "Practice",
+  "title": "My Story About a Lost Puppy",
+  "intro": "Keya has written the first draft of her story. A draft always needs editing.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the mistakes under the right symbol.",
+    "marks": 6,
+    "groups": [
+     "sp",
+     "cap",
+     "gr"
+    ],
+    "words": [
+     "puppie",
+     "sharjah",
+     "he bark",
+     "littel",
+     "mrs das",
+     "we was"
+    ],
+    "a": {
+     "puppie": "sp",
+     "sharjah": "cap",
+     "he bark": "gr",
+     "littel": "sp",
+     "mrs das": "cap",
+     "we was": "gr"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Each sentence is marked ww. Write the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The puppy wagged its tale. The right word is ___.",
+      "a": "tail"
+     },
+     {
+      "q": "I could here it crying. The right word is ___.",
+      "a": "hear"
+     },
+     {
+      "q": "It hid under a blew car. The right word is ___.",
+      "a": "blue"
+     },
+     {
+      "q": "Its fur was as white as flower. The right word is ___.",
+      "a": "flour"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "When a story moves from morning to night, a new paragraph is a good idea.",
+      "a": true
+     },
+     {
+      "q": "Every sentence needs its own paragraph.",
+      "a": false
+     },
+     {
+      "q": "We put // where the new paragraph should begin.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Fix the mistake the symbol shows. Write the sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The puppy runned to its owner. (gr)",
+      "a": "The puppy ran to its owner."
+     },
+     {
+      "q": "puppy The home went happily. (?)",
+      "a": "The puppy went home happily."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write an ending for the story. Then edit it.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check spelling, capitals, punctuation and grammar."
+   }
+  ]
+ },
+ {
+  "id": "editing-symbols-09",
+  "topic": "editing-symbols",
+  "number": 9,
+  "level": "Practice",
+  "title": "An Invitation to Zara's Party",
+  "intro": "Zara is turning eight and has written her own invitation. Help her edit it before she gives it out.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the symbol each sentence needs.",
+    "marks": 5,
+    "items": [
+     {
+      "before": "Please come to my partee.",
+      "options": [
+       "sp",
+       "p"
+      ],
+      "after": "",
+      "a": "sp"
+     },
+     {
+      "before": "It is on saturday.",
+      "options": [
+       "cap",
+       "ww"
+      ],
+      "after": "",
+      "a": "cap"
+     },
+     {
+      "before": "Will you come",
+      "options": [
+       "p",
+       "gr"
+      ],
+      "after": "",
+      "a": "p"
+     },
+     {
+      "before": "We will play games eat cake.",
+      "options": [
+       "^",
+       "sp"
+      ],
+      "after": "",
+      "a": "^"
+     },
+     {
+      "before": "Their will be a magic show.",
+      "options": [
+       "ww",
+       "cap"
+      ],
+      "after": "",
+      "a": "ww"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Fix each word. The symbol tells you how.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "(sp) balons",
+      "a": "balloons"
+     },
+     {
+      "q": "(sp) invte",
+      "a": "invite"
+     },
+     {
+      "q": "(cap) march",
+      "a": "March"
+     },
+     {
+      "q": "(cap) al barsha",
+      "a": "Al Barsha"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write the word that is missing at ^.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The party starts ^ four o'clock. Missing word: ___",
+      "a": "at"
+     },
+     {
+      "q": "Bring a costume ^ a towel. Missing word: ___",
+      "a": "and"
+     },
+     {
+      "q": "My house is next ^ the park. Missing word: ___",
+      "a": "to"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Fix the mistake the symbol shows. Write the sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Please right back soon. (ww)",
+      "a": "Please write back soon."
+     },
+     {
+      "q": "can you come to my party (cap) (p)",
+      "a": "Can you come to my party?"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write an invitation in two lines. Edit it with the symbols.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. Please come to my party on Sunday. It starts at five. Check with the symbols."
+   }
+  ]
+ },
+ {
+  "id": "editing-symbols-10",
+  "topic": "editing-symbols",
+  "number": 10,
+  "level": "Practice",
+  "title": "The Cricket Match Report",
+  "intro": "Imran wrote about the big match for the notice board. Find each mistake and name its symbol.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each sentence to the symbol it needs.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "We winned the match.",
+      "right": "gr"
+     },
+     {
+      "left": "The bowler was verry fast.",
+      "right": "sp"
+     },
+     {
+      "left": "our team wore blue.",
+      "right": "cap"
+     },
+     {
+      "left": "Who hit the six",
+      "right": "p"
+     },
+     {
+      "left": "I court the ball.",
+      "right": "ww"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write the corrected word.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Imran throwed the ball. (gr) Write: ___",
+      "a": "threw"
+     },
+     {
+      "q": "The umpire were strict. (gr) Write: ___",
+      "a": "was"
+     },
+     {
+      "q": "We scored fifty runs in ten ovrs. (sp) Write: ___",
+      "a": "overs"
+     },
+     {
+      "q": "The crowd clapped there hands. (ww) Write: ___",
+      "a": "their"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "A report about the match and then the prize giving could use two paragraphs.",
+      "a": true
+     },
+     {
+      "q": "We write ? when a sentence is perfect.",
+      "a": false
+     },
+     {
+      "q": "One sentence can have more than one editing symbol.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Fix the mistake the symbol shows. Write the sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "the match began at nine (cap) (p)",
+      "a": "The match began at nine."
+     },
+     {
+      "q": "Our captain lifted trophy. (^)",
+      "a": "Our captain lifted the trophy."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two lines about a game you played. Edit them.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check with the editing symbols."
+   }
+  ]
+ },
+ {
+  "id": "editing-symbols-11",
+  "topic": "editing-symbols",
+  "number": 11,
+  "level": "Challenge",
+  "title": "A Letter to the Principal",
+  "intro": "Class 2 has some ideas to make school even better. Some sentences have two mistakes, so look closely.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the two symbols each sentence needs.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "can we have a longer break",
+      "options": [
+       "cap and p",
+       "sp and gr"
+      ],
+      "after": "",
+      "a": "cap and p"
+     },
+     {
+      "before": "The swings is brokan.",
+      "options": [
+       "gr and sp",
+       "cap and ww"
+      ],
+      "after": "",
+      "a": "gr and sp"
+     },
+     {
+      "before": "We want plant more trees their.",
+      "options": [
+       "^ and ww",
+       "p and cap"
+      ],
+      "after": "",
+      "a": "^ and ww"
+     },
+     {
+      "before": "our libary needs new books.",
+      "options": [
+       "cap and sp",
+       "gr and p"
+      ],
+      "after": "",
+      "a": "cap and sp"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Fix each one. The symbol tells you how.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "(sp) plaground",
+      "a": "playground"
+     },
+     {
+      "q": "(sp) beutiful",
+      "a": "beautiful"
+     },
+     {
+      "q": "(gr) childs",
+      "a": "children"
+     },
+     {
+      "q": "(gr) more big",
+      "a": "bigger"
+     },
+     {
+      "q": "(ww) brake time",
+      "a": "break time"
+     },
+     {
+      "q": "(cap) class 2a",
+      "a": "Class 2A"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "A new paragraph helps when the letter moves to a new idea.",
+      "a": true
+     },
+     {
+      "q": "'thank you, sir.' needs the symbol cap.",
+      "a": true
+     },
+     {
+      "q": "'We love our school.' needs the symbol sp.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Fix the mistake the symbol shows. Write the sentence correctly.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "the fan in our class make a lowd noise. (cap) (gr) (sp)",
+      "a": "The fan in our class makes a loud noise."
+     },
+     {
+      "q": "Can we have art club on mondays (cap) (p)",
+      "a": "Can we have art club on Mondays?"
+     },
+     {
+      "q": "Thank you for reading hour letter. (ww)",
+      "a": "Thank you for reading our letter."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write one idea for your school. Edit it carefully.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. Can we have a reading corner? Check with the editing symbols."
+   }
+  ]
+ },
+ {
+  "id": "editing-symbols-12",
+  "topic": "editing-symbols",
+  "number": 12,
+  "level": "Challenge",
+  "title": "The Class Trip to the Planetarium",
+  "intro": "Class 2 wrote about the star show. This time no symbols are given, so you must spot the mistakes.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Write the symbol for the mistake.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "We saw the moon threw a telescope. Symbol: ___",
+      "a": "ww"
+     },
+     {
+      "q": "saturn has rings. Symbol: ___",
+      "a": "cap"
+     },
+     {
+      "q": "Mars are red. Symbol: ___",
+      "a": "gr"
+     },
+     {
+      "q": "How far is the moon. Symbol: ___",
+      "a": "p"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the sentences.",
+    "marks": 6,
+    "groups": [
+     "Correct",
+     "Needs editing"
+    ],
+    "words": [
+     "Stars twinkle.",
+     "the sky is dark.",
+     "We sat in rows.",
+     "Earth are round.",
+     "I saw Jupiter.",
+     "It was amazeing."
+    ],
+    "a": {
+     "Stars twinkle.": "Correct",
+     "the sky is dark.": "Needs editing",
+     "We sat in rows.": "Correct",
+     "Earth are round.": "Needs editing",
+     "I saw Jupiter.": "Correct",
+     "It was amazeing.": "Needs editing"
+    }
+   },
+   {
+    "type": "match",
+    "title": "Match the wrong word to the right one.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "knight sky",
+      "right": "night sky"
+     },
+     {
+      "left": "bright son",
+      "right": "bright sun"
+     },
+     {
+      "left": "I no the answer",
+      "right": "I know the answer"
+     },
+     {
+      "left": "ate planets",
+      "right": "eight planets"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Fix the mistake the symbol shows. Write the sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "the guide telled us about mars. (cap) (gr) (cap)",
+      "a": "The guide told us about Mars."
+     },
+     {
+      "q": "show The star began ten at. (?)",
+      "a": "The star show began at ten."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two lines about space. Mark your own mistakes.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check with the editing symbols."
+   }
+  ]
+ },
+ {
+  "id": "editing-symbols-13",
+  "topic": "editing-symbols",
+  "number": 13,
+  "level": "Challenge",
+  "title": "Book Review Corner",
+  "intro": "Each child is writing a review for the reading corner. Use // to show where a new paragraph should start.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "We mark cap on the book title 'the magic pot'.",
+      "a": true
+     },
+     {
+      "q": "We put // between two sentences where a new idea begins.",
+      "a": true
+     },
+     {
+      "q": "The symbol ww is for a missing word.",
+      "a": false
+     },
+     {
+      "q": "We mark gr on 'The children was happy.'",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Where does // go? Write the first word of the new paragraph.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The book has ten chapters. It has funny pictures. Next, I will tell you about the hero. ___",
+      "a": "Next"
+     },
+     {
+      "q": "Tara is the hero. She is brave. Later that night, a storm begins. ___",
+      "a": "Later"
+     },
+     {
+      "q": "I liked the jokes. I liked the ending. Now for the part I did not like. ___",
+      "a": "Now"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Fix each one. The symbol tells you how.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "(sp) auther",
+      "a": "author"
+     },
+     {
+      "q": "(sp) favrite",
+      "a": "favourite / favorite"
+     },
+     {
+      "q": "(sp) caracter",
+      "a": "character"
+     },
+     {
+      "q": "(gr) I readed",
+      "a": "I read"
+     },
+     {
+      "q": "(gr) the most best",
+      "a": "the best"
+     },
+     {
+      "q": "(ww) the hole book",
+      "a": "the whole book"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Fix the mistake the symbol shows. Write the sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "i give this book for stars. (cap) (ww)",
+      "a": "I give this book four stars."
+     },
+     {
+      "q": "The ending were very sad (gr) (p)",
+      "a": "The ending was very sad."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two lines about a book you read. Edit your work.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check the book title has capital letters, then check with the symbols."
+   }
+  ]
+ },
+ {
+  "id": "editing-symbols-14",
+  "topic": "editing-symbols",
+  "number": 14,
+  "level": "Challenge",
+  "title": "Marking Kabir's Homework",
+  "intro": "Today you are the teacher. Kabir has made a few mistakes in his homework. Mark them and fix them.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Write the symbol for the mistake.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "My sister have a red cycle. Symbol: ___",
+      "a": "gr"
+     },
+     {
+      "q": "We went to the park on sunday. Symbol: ___",
+      "a": "cap"
+     },
+     {
+      "q": "I like apples grapes and plums. Symbol: ___",
+      "a": "p"
+     },
+     {
+      "q": "I herd the cat purr. Symbol: ___",
+      "a": "ww"
+     },
+     {
+      "q": "I went to bed nine o'clock. Symbol: ___",
+      "a": "^"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each symbol to the fix.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "sp",
+      "right": "change 'tommorow' to 'tomorrow'"
+     },
+     {
+      "left": "gr",
+      "right": "change 'he do' to 'he does'"
+     },
+     {
+      "left": "ww",
+      "right": "change 'by a pen' to 'buy a pen'"
+     },
+     {
+      "left": "^",
+      "right": "add 'is' to 'My dog big'"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Kabir wrote: I has two pets. The right symbol is gr.",
+      "a": true
+     },
+     {
+      "q": "Kabir wrote: Where is my book? It needs the symbol p.",
+      "a": false
+     },
+     {
+      "q": "Kabir wrote: My dad drives a tacksi. The right symbol is sp.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Fix the mistake the symbol shows. Write the sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "my frend play in the garden evry day. (cap) (sp) (gr) (sp)",
+      "a": "My friend plays in the garden every day."
+     },
+     {
+      "q": "homework my finished I. (?)",
+      "a": "I finished my homework."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write one sentence with two mistakes for a friend to mark.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. my cat are black. (cap) (gr)"
+   }
+  ]
+ },
+ {
+  "id": "editing-symbols-15",
+  "topic": "editing-symbols",
+  "number": 15,
+  "level": "Challenge",
+  "title": "The School Magazine Editor",
+  "intro": "The school magazine goes to print tomorrow. As the editor, you make the final check.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the symbol each sentence needs.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Our choir sang at Expo city.",
+      "options": [
+       "cap",
+       "p"
+      ],
+      "after": "",
+      "a": "cap"
+     },
+     {
+      "before": "The art room has knew paints.",
+      "options": [
+       "ww",
+       "gr"
+      ],
+      "after": "",
+      "a": "ww"
+     },
+     {
+      "before": "Class 2 planted fifty tree.",
+      "options": [
+       "gr",
+       "sp"
+      ],
+      "after": "",
+      "a": "gr"
+     },
+     {
+      "before": "The bake sale was a big sucess.",
+      "options": [
+       "sp",
+       "^"
+      ],
+      "after": "",
+      "a": "sp"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write the corrected or missing word.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The winners was very proud. (gr) Write: ___",
+      "a": "were"
+     },
+     {
+      "q": "We raised money four the animal shelter. (ww) Write: ___",
+      "a": "for"
+     },
+     {
+      "q": "The play was on wensday. (sp) (cap) Write: ___",
+      "a": "Wednesday"
+     },
+     {
+      "q": "Everyone enjoyed ^ puppet show. Write: ___",
+      "a": "the"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the mistakes under the right symbol.",
+    "marks": 6,
+    "groups": [
+     "sp",
+     "gr",
+     "ww"
+    ],
+    "words": [
+     "sience",
+     "tooths",
+     "a pear of shoes",
+     "musik",
+     "he goed",
+     "too cats"
+    ],
+    "a": {
+     "sience": "sp",
+     "tooths": "gr",
+     "a pear of shoes": "ww",
+     "musik": "sp",
+     "he goed": "gr",
+     "too cats": "ww"
+    }
+   },
+   {
+    "type": "rewrite",
+    "title": "Fix the mistake the symbol shows. Write the sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "our school magazine come out in june (cap) (gr) (cap) (p)",
+      "a": "Our school magazine comes out in June."
+     },
+     {
+      "q": "The editor thanked all writers and there teachers. (^) (ww)",
+      "a": "The editor thanked all the writers and their teachers."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write three lines of school news. Edit them with the symbols.",
+    "marks": 3,
+    "lines": 3,
+    "a": "Answers will vary. Check spelling, capitals, punctuation, grammar and missing words."
+   }
+  ]
+ }
+]

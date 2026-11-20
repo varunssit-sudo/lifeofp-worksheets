@@ -1,5 +1,25 @@
 [
   {
+    "id": "addition-word-problems-rucsac",
+    "subject": "Maths",
+    "name": "Addition Word Problems with RUCSAC",
+    "blurb": "Read, Circle, Solve, Check",
+    "about": "Your child learns to solve addition story sums step by step with RUCSAC: read, circle the numbers and clue words, write the addition sentence, solve in H T O and write an answer sentence.",
+    "videoId": "h9kqsj4u64Q",
+    "videoUrl": "https://www.youtube.com/watch?v=h9kqsj4u64Q",
+    "target": 15
+  },
+  {
+    "id": "addition-words-and-column-method",
+    "subject": "Maths",
+    "name": "Addition Words and Column Method",
+    "blurb": "Addend, Sum, H T O",
+    "about": "Your child learns the words addend and sum, adds in hundreds, tens and ones columns with carrying, and uses quick mental maths for simple sums.",
+    "videoId": "92ZJCVoKlv4",
+    "videoUrl": "https://www.youtube.com/watch?v=92ZJCVoKlv4",
+    "target": 15
+  },
+  {
     "id": "addition-with-grouping",
     "subject": "Maths",
     "name": "Addition with Grouping",
@@ -27,6 +47,16 @@
     "about": "Your child learns the days of the week and months of the year in order, how many days each month has, and how to read dates on a calendar. They also change weeks into days and solve simple date problems.",
     "videoId": "MPDShy9CmBY",
     "videoUrl": "https://www.youtube.com/watch?v=MPDShy9CmBY",
+    "target": 15
+  },
+  {
+    "id": "compare-and-order-to-1000",
+    "subject": "Maths",
+    "name": "Compare and Order Numbers to 1000",
+    "blurb": "Before, After, Between, < > =",
+    "about": "Your child learns to find the number before, after and between, compare numbers with <, > and =, and arrange numbers up to 1000 in ascending and descending order.",
+    "videoId": "4U3wZB3a8gY",
+    "videoUrl": "https://www.youtube.com/watch?v=4U3wZB3a8gY",
     "target": 15
   },
   {
@@ -90,6 +120,16 @@
     "target": 15
   },
   {
+    "id": "mental-maths-and-reasoning-puzzles",
+    "subject": "Maths",
+    "name": "Mental Maths and Reasoning Puzzles",
+    "blurb": "Quick Sums and Riddles",
+    "about": "Your child practises quick sums in their head, such as adding 0, 1 or 10, and uses words like century and dozen. They also solve digit riddles and shape puzzles.",
+    "videoId": "8SMy9Uh8Cy0",
+    "videoUrl": "https://www.youtube.com/watch?v=8SMy9Uh8Cy0",
+    "target": 15
+  },
+  {
     "id": "money",
     "subject": "Maths",
     "name": "Money",
@@ -150,6 +190,16 @@
     "target": 15
   },
   {
+    "id": "odd-and-even-rounding-off",
+    "subject": "Maths",
+    "name": "Odd and Even Numbers and Rounding Off",
+    "blurb": "Look at the Ones Place",
+    "about": "Your child learns to spot odd and even numbers by looking at the ones digit, and to round numbers to the nearest 10 and the nearest 100.",
+    "videoId": "fG_O-BSuGNY",
+    "videoUrl": "https://www.youtube.com/watch?v=fG_O-BSuGNY",
+    "target": 15
+  },
+  {
     "id": "patterns-and-symmetry",
     "subject": "Maths",
     "name": "Patterns and Symmetry",
@@ -170,6 +220,26 @@
     "target": 15
   },
   {
+    "id": "place-value-and-face-value",
+    "subject": "Maths",
+    "name": "Place Value and Face Value",
+    "blurb": "Hundreds, Tens, Ones",
+    "about": "Your child learns the difference between a digit's face value and its place value in hundreds, tens and ones, and uses it to read, write and expand numbers up to 999, including zero as a placeholder.",
+    "videoId": "v1hUzDDH10Y",
+    "videoUrl": "https://www.youtube.com/watch?v=v1hUzDDH10Y",
+    "target": 15
+  },
+  {
+    "id": "properties-of-addition",
+    "subject": "Maths",
+    "name": "Properties of Addition",
+    "blurb": "Successor, Identity, Order",
+    "about": "Your child learns the rules of addition: adding 1 gives the successor, adding 0 changes nothing, and changing the order of the numbers gives the same sum. They also add three numbers.",
+    "videoId": "20XtDSnC5jA",
+    "videoUrl": "https://www.youtube.com/watch?v=20XtDSnC5jA",
+    "target": 15
+  },
+  {
     "id": "shapes",
     "subject": "Maths",
     "name": "Shapes",
@@ -177,6 +247,26 @@
     "about": "Your child names flat (2D) shapes and solid (3D) shapes and finds them in everyday things. They count sides and corners, and the flat faces, edges and corners of cubes, cuboids, cylinders, cones and spheres.",
     "videoId": "9EdHZ1u2gEA",
     "videoUrl": "https://www.youtube.com/watch?v=9EdHZ1u2gEA",
+    "target": 15
+  },
+  {
+    "id": "subtraction-word-problems-and-mental-maths",
+    "subject": "Maths",
+    "name": "Subtraction Word Problems and Mental Maths",
+    "blurb": "Left, How Many More, Fewer",
+    "about": "Your child solves subtraction story sums with clue words like left, how many more and fewer, uses RUCSAC in columns, and practises quick mental subtraction.",
+    "videoId": "8uChcJ5jurg",
+    "videoUrl": "https://www.youtube.com/watch?v=8uChcJ5jurg",
+    "target": 15
+  },
+  {
+    "id": "subtraction-words-and-column-method",
+    "subject": "Maths",
+    "name": "Subtraction Words and Column Method",
+    "blurb": "Minuend, Subtrahend, Difference",
+    "about": "Your child learns the words minuend, subtrahend and difference and the clue words for taking away, subtracts in columns with borrowing, and checks the answer by adding.",
+    "videoId": "ZQ9qOqxc2jg",
+    "videoUrl": "https://www.youtube.com/watch?v=ZQ9qOqxc2jg",
     "target": 15
   },
   {
@@ -230,6 +320,16 @@
     "target": 15
   },
   {
+    "id": "adjectives-extend-your-sentences",
+    "subject": "English",
+    "name": "Adjectives: Extend Your Sentences",
+    "blurb": "Five Senses Words",
+    "about": "Your child learns to make sentences more interesting with describing words for how things look, sound, smell, taste and feel, and to use two adjectives joined by a comma.",
+    "videoId": "Sm99YdTcgJM",
+    "videoUrl": "https://www.youtube.com/watch?v=Sm99YdTcgJM",
+    "target": 15
+  },
+  {
     "id": "alphabetical-order",
     "subject": "English",
     "name": "Alphabetical Order",
@@ -250,6 +350,26 @@
     "target": 15
   },
   {
+    "id": "character-sketch",
+    "subject": "English",
+    "name": "Character Sketch",
+    "blurb": "Draw, Label, Clue",
+    "about": "Your child learns to write a character sketch: describe how a character looks and what they are like, and back up each trait with a clue from the story using because.",
+    "videoId": "P_NYnz7s0Y4",
+    "videoUrl": "https://www.youtube.com/watch?v=P_NYnz7s0Y4",
+    "target": 15
+  },
+  {
+    "id": "character-traits-inside-and-outside",
+    "subject": "English",
+    "name": "Character Traits: Inside and Outside",
+    "blurb": "What We See and What They Are Like",
+    "about": "Your child learns the difference between outside traits (how a character looks) and inside traits (what a character is like), and how a character's actions show their traits.",
+    "videoId": "5K5hjj1eMSo",
+    "videoUrl": "https://www.youtube.com/watch?v=5K5hjj1eMSo",
+    "target": 15
+  },
+  {
     "id": "common-and-proper-nouns",
     "subject": "English",
     "name": "Common and Proper Nouns",
@@ -267,6 +387,36 @@
     "about": "Your child learns to use the joining words and, but and or: and to add ideas, but to show a difference, and or to show a choice, and practises joining two short sentences into one.",
     "videoId": "f-bwpLKapGQ",
     "videoUrl": "https://www.youtube.com/watch?v=f-bwpLKapGQ",
+    "target": 15
+  },
+  {
+    "id": "diary-writing",
+    "subject": "English",
+    "name": "Diary Writing",
+    "blurb": "Dear Diary",
+    "about": "Your child learns to write a diary entry with the day and date, Dear Diary, what happened in the past tense, and how they felt about it.",
+    "videoId": "BcmnPZaUgU4",
+    "videoUrl": "https://www.youtube.com/watch?v=BcmnPZaUgU4",
+    "target": 15
+  },
+  {
+    "id": "editing-symbols",
+    "subject": "English",
+    "name": "Editing Symbols",
+    "blurb": "Find and Fix",
+    "about": "Your child learns the editing symbols used to mark mistakes in writing, such as sp, cap, p, gr and ww, and practises finding and fixing errors in sentences.",
+    "videoId": "-o50Uzk8DK0",
+    "videoUrl": "https://www.youtube.com/watch?v=-o50Uzk8DK0",
+    "target": 15
+  },
+  {
+    "id": "is-are-was-were",
+    "subject": "English",
+    "name": "Is, Are, Was, Were",
+    "blurb": "Helping Verbs",
+    "about": "Your child learns to use is for one and are for many in the present, and was for I, he, she and it and were for you, we and they in the past.",
+    "videoId": "w3w5Bx3zhSE",
+    "videoUrl": "https://www.youtube.com/watch?v=w3w5Bx3zhSE",
     "target": 15
   },
   {
@@ -300,6 +450,16 @@
     "target": 15
   },
   {
+    "id": "paragraph-writing-hamburger",
+    "subject": "English",
+    "name": "Paragraph Writing: The Hamburger Method",
+    "blurb": "Topic Sentence, Details, Conclusion",
+    "about": "Your child learns to write a paragraph about one topic using the hamburger method: a topic sentence on top, supporting details in the middle and a concluding sentence at the bottom.",
+    "videoId": "VCnXuYELKUQ",
+    "videoUrl": "https://www.youtube.com/watch?v=VCnXuYELKUQ",
+    "target": 15
+  },
+  {
     "id": "past-present-and-future-tense",
     "subject": "English",
     "name": "Past, Present and Future Tense",
@@ -307,6 +467,26 @@
     "about": "Your child learns to tell whether something happened in the past, is happening now, or will happen in the future, and to change verbs to match, using will for the future.",
     "videoId": "4z_JorU8_-w",
     "videoUrl": "https://www.youtube.com/watch?v=4z_JorU8_-w",
+    "target": 15
+  },
+  {
+    "id": "plurals-ves-irregular-and-same",
+    "subject": "English",
+    "name": "Plurals Part 2: ves, Irregular and Same",
+    "blurb": "f to ves, men, sheep",
+    "about": "Your child learns the harder plural rules: words ending in f or fe change to ves, some words change completely (man to men, mouse to mice), and some stay the same (sheep, deer, fish).",
+    "videoId": "gT5ZnJR5Ma0",
+    "videoUrl": "https://www.youtube.com/watch?v=gT5ZnJR5Ma0",
+    "target": 15
+  },
+  {
+    "id": "points-of-view",
+    "subject": "English",
+    "name": "Points of View",
+    "blurb": "Same Thing, Different Feelings",
+    "about": "Your child learns that different people can feel differently about the same thing, and practises saying so with sentences like 'Riya thinks... but Sam thinks...' and 'I think... because...'.",
+    "videoId": "IJn-vV56Qws",
+    "videoUrl": "https://www.youtube.com/watch?v=IJn-vV56Qws",
     "target": 15
   },
   {
@@ -350,6 +530,16 @@
     "target": 15
   },
   {
+    "id": "punctuation-and-capital-letters",
+    "subject": "English",
+    "name": "Punctuation and Capital Letters",
+    "blurb": "Full Stops to Speech Marks",
+    "about": "Your child learns when to use a full stop, question mark, exclamation mark, comma and speech marks, and when to use capital letters for names, places, days, titles and the word I.",
+    "videoId": "7l-JgmFdYMk",
+    "videoUrl": "https://www.youtube.com/watch?v=7l-JgmFdYMk",
+    "target": 15
+  },
+  {
     "id": "reading-comprehension",
     "subject": "English",
     "name": "Reading Comprehension",
@@ -387,6 +577,16 @@
     "about": "Your child learns that some words mean the same or almost the same, such as big and large or happy and glad, and uses them to make writing more interesting.",
     "videoId": "qqVop5oIJoY",
     "videoUrl": "https://www.youtube.com/watch?v=qqVop5oIJoY",
+    "target": 15
+  },
+  {
+    "id": "simple-past-and-future",
+    "subject": "English",
+    "name": "Tenses Part 2: Simple Past and Future",
+    "blurb": "went, drank, will go",
+    "about": "Your child learns the ways verbs change in the simple past (adding ed, changing a vowel, changing the whole word, or not changing at all) and how to talk about the future with will.",
+    "videoId": "Q6gSMUpHlgE",
+    "videoUrl": "https://www.youtube.com/watch?v=Q6gSMUpHlgE",
     "target": 15
   },
   {
@@ -627,6 +827,16 @@
     "about": "Your child learns the difference between natural and man-made sources of light, why the moon does not make its own light, how shadows form and how to use light safely.",
     "videoId": "YOPbrWsTprg",
     "videoUrl": "https://www.youtube.com/watch?v=YOPbrWsTprg",
+    "target": 15
+  },
+  {
+    "id": "tourism-in-the-uae",
+    "subject": "Science",
+    "name": "Tourism in the UAE",
+    "blurb": "Tourists, Landmarks, Jobs",
+    "about": "Your child learns why tourists visit the UAE, the famous landmarks and places they see, the jobs tourism creates, and how tourism helps the country's economy.",
+    "videoId": "Lfv39VLI60w",
+    "videoUrl": "https://www.youtube.com/watch?v=Lfv39VLI60w",
     "target": 15
   },
   {

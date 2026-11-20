@@ -1,0 +1,1809 @@
+[
+ {
+  "id": "tourism-in-the-uae-01",
+  "topic": "tourism-in-the-uae",
+  "number": 1,
+  "level": "Starter",
+  "title": "Cousins Visit from Kochi",
+  "intro": "Neel's cousins have flown in from Kochi to see the UAE for a week. They are tourists!",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "A tourist is a person who visits a place for fun or to see new things.",
+      "a": true
+     },
+     {
+      "q": "Tourists stay in the place they visit forever.",
+      "a": false
+     },
+     {
+      "q": "Tourists come to the UAE from many countries.",
+      "a": true
+     },
+     {
+      "q": "The UAE has seven emirates.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Why do tourists come to the UAE? Sort.",
+    "marks": 6,
+    "groups": [
+     "A reason to visit",
+     "Not a reason to visit"
+    ],
+    "words": [
+     "Sunny beaches",
+     "Doing homework",
+     "Catching a cold",
+     "Tall buildings",
+     "Desert rides",
+     "Getting lost"
+    ],
+    "a": {
+     "Sunny beaches": "A reason to visit",
+     "Tall buildings": "A reason to visit",
+     "Desert rides": "A reason to visit",
+     "Doing homework": "Not a reason to visit",
+     "Catching a cold": "Not a reason to visit",
+     "Getting lost": "Not a reason to visit"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Complete each sentence. Use: tourist, hotel, passport, camera.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "A person who travels to see new places is a ___.",
+      "a": "tourist"
+     },
+     {
+      "q": "Tourists sleep in a ___ when they are away from home.",
+      "a": "hotel"
+     },
+     {
+      "q": "Travellers show a ___ at the airport.",
+      "a": "passport"
+     },
+     {
+      "q": "The cousins take photos with a ___.",
+      "a": "camera"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the place to what tourists do there.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Beach",
+      "right": "Swim and build sandcastles"
+     },
+     {
+      "left": "Desert",
+      "right": "Ride a camel over the dunes"
+     },
+     {
+      "left": "Museum",
+      "right": "Look at old and special things"
+     },
+     {
+      "left": "Mall",
+      "right": "Shop and eat"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Which place in the UAE would you show a visitor? Say why.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I would show a visitor the beach because the sea is warm and blue."
+   }
+  ]
+ },
+ {
+  "id": "tourism-in-the-uae-02",
+  "topic": "tourism-in-the-uae",
+  "number": 2,
+  "level": "Starter",
+  "title": "At the Top of Burj Khalifa",
+  "intro": "Layla's aunt is visiting from Hyderabad. Today they ride the lift up the tallest building in the world.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the correct word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Burj Khalifa is in",
+      "options": [
+       "Dubai",
+       "Sharjah"
+      ],
+      "after": ".",
+      "a": "Dubai"
+     },
+     {
+      "before": "It is the",
+      "options": [
+       "tallest",
+       "shortest"
+      ],
+      "after": "building in the world.",
+      "a": "tallest"
+     },
+     {
+      "before": "Visitors go up in a",
+      "options": [
+       "lift",
+       "boat"
+      ],
+      "after": ".",
+      "a": "lift"
+     },
+     {
+      "before": "From the top, the cars below look very",
+      "options": [
+       "tiny",
+       "huge"
+      ],
+      "after": ".",
+      "a": "tiny"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the landmark to what it is.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "Burj Khalifa",
+      "right": "A very tall tower"
+     },
+     {
+      "left": "Palm Jumeirah",
+      "right": "An island shaped like a palm tree"
+     },
+     {
+      "left": "Sheikh Zayed Grand Mosque",
+      "right": "A large white mosque"
+     },
+     {
+      "left": "Louvre Abu Dhabi",
+      "right": "An art museum"
+     },
+     {
+      "left": "Dubai Creek",
+      "right": "A waterway with old wooden boats"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Burj Khalifa is the tallest building in the world.",
+      "a": true
+     },
+     {
+      "q": "Burj Khalifa is in Abu Dhabi.",
+      "a": false
+     },
+     {
+      "q": "Tourists go up Burj Khalifa to enjoy the view.",
+      "a": true
+     },
+     {
+      "q": "The Dubai Fountain is near Burj Khalifa.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Complete each sentence. Use: ticket, guide, photos.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Aunty buys a ___ to go up the tower.",
+      "a": "ticket"
+     },
+     {
+      "q": "A tour ___ tells us about the building.",
+      "a": "guide"
+     },
+     {
+      "q": "We take many ___ of the city.",
+      "a": "photos"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "What would you like to see from the top of a tall tower?",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I would like to see the sea, the roads and my school from the top."
+   }
+  ]
+ },
+ {
+  "id": "tourism-in-the-uae-03",
+  "topic": "tourism-in-the-uae",
+  "number": 3,
+  "level": "Starter",
+  "title": "Checking In at the Hotel",
+  "intro": "The Menon family has just landed in Dubai. Their first stop is the hotel where they will stay for five nights.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match the hotel worker to the job.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "Receptionist",
+      "right": "Welcomes guests and gives the room key"
+     },
+     {
+      "left": "Chef",
+      "right": "Cooks the meals"
+     },
+     {
+      "left": "Housekeeper",
+      "right": "Cleans the rooms and makes the beds"
+     },
+     {
+      "left": "Porter",
+      "right": "Carries the bags"
+     },
+     {
+      "left": "Lifeguard",
+      "right": "Keeps swimmers safe at the pool"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Where can a tourist stay? Sort.",
+    "marks": 6,
+    "groups": [
+     "A place to stay",
+     "Not a place to stay"
+    ],
+    "words": [
+     "Hotel",
+     "Bus stop",
+     "Car park",
+     "Resort",
+     "Desert camp",
+     "Petrol station"
+    ],
+    "a": {
+     "Hotel": "A place to stay",
+     "Resort": "A place to stay",
+     "Desert camp": "A place to stay",
+     "Bus stop": "Not a place to stay",
+     "Car park": "Not a place to stay",
+     "Petrol station": "Not a place to stay"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Complete each sentence. Use: key, guests, breakfast, pool.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "People who stay in a hotel are called ___.",
+      "a": "guests"
+     },
+     {
+      "q": "The receptionist gives the family a room ___.",
+      "a": "key"
+     },
+     {
+      "q": "In the morning they eat ___ in the hotel restaurant.",
+      "a": "breakfast"
+     },
+     {
+      "q": "The children swim in the hotel ___.",
+      "a": "pool"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "A hotel is a place where tourists pay to stay.",
+      "a": true
+     },
+     {
+      "q": "Hotels give jobs to many people.",
+      "a": true
+     },
+     {
+      "q": "A chef drives the hotel bus.",
+      "a": false
+     },
+     {
+      "q": "Tourists bring their own beds to a hotel.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Which hotel job would you like? Say why.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. I would like to be a chef because I enjoy cooking for people."
+   }
+  ]
+ },
+ {
+  "id": "tourism-in-the-uae-04",
+  "topic": "tourism-in-the-uae",
+  "number": 4,
+  "level": "Starter",
+  "title": "A Morning at Dubai Creek",
+  "intro": "Tourists love the old part of Dubai. Join Kenji and his grandmother as they cross the Creek on a small wooden boat.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Complete each sentence. Use: abra, souk, Dubai, spices.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The Creek is in the emirate of ___.",
+      "a": "Dubai"
+     },
+     {
+      "q": "A small wooden boat that crosses the Creek is called an ___.",
+      "a": "abra"
+     },
+     {
+      "q": "A traditional market is called a ___.",
+      "a": "souk"
+     },
+     {
+      "q": "Cinnamon, saffron and pepper are ___.",
+      "a": "spices"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the market to what it sells.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Gold Souk",
+      "right": "Bangles and necklaces"
+     },
+     {
+      "left": "Spice Souk",
+      "right": "Saffron and cinnamon"
+     },
+     {
+      "left": "Textile Souk",
+      "right": "Cloth and scarves"
+     },
+     {
+      "left": "Perfume Souk",
+      "right": "Scents and oud"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "An abra is a kind of aeroplane.",
+      "a": false
+     },
+     {
+      "q": "Tourists can cross Dubai Creek by boat.",
+      "a": true
+     },
+     {
+      "q": "A souk is a market.",
+      "a": true
+     },
+     {
+      "q": "Shopkeepers in the souk earn money when tourists buy things.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Old Dubai or modern Dubai? Sort.",
+    "marks": 6,
+    "groups": [
+     "Old and traditional",
+     "New and modern"
+    ],
+    "words": [
+     "Abra",
+     "Metro",
+     "Skyscraper",
+     "Souk",
+     "Wind tower",
+     "Museum of the Future"
+    ],
+    "a": {
+     "Abra": "Old and traditional",
+     "Souk": "Old and traditional",
+     "Wind tower": "Old and traditional",
+     "Metro": "New and modern",
+     "Skyscraper": "New and modern",
+     "Museum of the Future": "New and modern"
+    }
+   },
+   {
+    "type": "lines",
+    "title": "What would you buy at a souk, and for whom?",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I would buy a scarf for my grandmother because she loves bright colours."
+   }
+  ]
+ },
+ {
+  "id": "tourism-in-the-uae-05",
+  "topic": "tourism-in-the-uae",
+  "number": 5,
+  "level": "Practice",
+  "title": "The Desert Safari",
+  "intro": "The Okafor family from Nigeria has booked an evening in the desert. A guide picks them up in a big four-wheel-drive car.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "What can tourists do on a desert safari? Sort.",
+    "marks": 6,
+    "groups": [
+     "On a desert safari",
+     "Not on a desert safari"
+    ],
+    "words": [
+     "Ride a camel",
+     "Go ice skating",
+     "Ride a ferry",
+     "Drive over dunes",
+     "Watch the sunset",
+     "Climb a skyscraper"
+    ],
+    "a": {
+     "Ride a camel": "On a desert safari",
+     "Drive over dunes": "On a desert safari",
+     "Watch the sunset": "On a desert safari",
+     "Go ice skating": "Not on a desert safari",
+     "Ride a ferry": "Not on a desert safari",
+     "Climb a skyscraper": "Not on a desert safari"
+    }
+   },
+   {
+    "type": "match",
+    "title": "Match the worker to the job.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "Safari driver",
+      "right": "Drives the car safely over the dunes"
+     },
+     {
+      "left": "Camel handler",
+      "right": "Leads the camel and helps riders"
+     },
+     {
+      "left": "Camp cook",
+      "right": "Grills food for dinner"
+     },
+     {
+      "left": "Henna artist",
+      "right": "Paints patterns on hands"
+     },
+     {
+      "left": "Falcon trainer",
+      "right": "Shows a bird of prey to visitors"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The desert is covered with",
+      "options": [
+       "sand",
+       "snow"
+      ],
+      "after": ".",
+      "a": "sand"
+     },
+     {
+      "before": "A hill of sand is called a",
+      "options": [
+       "dune",
+       "wave"
+      ],
+      "after": ".",
+      "a": "dune"
+     },
+     {
+      "before": "The camel is called the ship of the",
+      "options": [
+       "desert",
+       "sea"
+      ],
+      "after": ".",
+      "a": "desert"
+     },
+     {
+      "before": "After dinner, good tourists put their rubbish in a",
+      "options": [
+       "bin",
+       "bush"
+      ],
+      "after": ".",
+      "a": "bin"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Complete each sentence. Use: workers, water, hat.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The money tourists pay helps to pay the ___ at the camp.",
+      "a": "workers"
+     },
+     {
+      "q": "In the desert we must drink plenty of ___.",
+      "a": "water"
+     },
+     {
+      "q": "A ___ keeps the sun off your head.",
+      "a": "hat"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Would you choose a camel ride or a dune drive? Say why.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I would choose a camel ride because camels walk slowly and I can look around."
+   }
+  ]
+ },
+ {
+  "id": "tourism-in-the-uae-06",
+  "topic": "tourism-in-the-uae",
+  "number": 6,
+  "level": "Practice",
+  "title": "A Day in Abu Dhabi",
+  "intro": "Abu Dhabi is the capital of the UAE. Grandpa Joseph is visiting from Goa, and Maya has planned his day.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "Abu Dhabi is the capital city of the UAE.",
+      "a": true
+     },
+     {
+      "q": "Sheikh Zayed Grand Mosque is in Abu Dhabi.",
+      "a": true
+     },
+     {
+      "q": "Louvre Abu Dhabi is a water park.",
+      "a": false
+     },
+     {
+      "q": "Sheikh Zayed Grand Mosque is white in colour.",
+      "a": true
+     },
+     {
+      "q": "Palm Jumeirah is in Abu Dhabi.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Complete each sentence. Use: museum, mosque, capital, island.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Abu Dhabi is the ___ of the UAE.",
+      "a": "capital"
+     },
+     {
+      "q": "The Sheikh Zayed Grand ___ has many white domes.",
+      "a": "mosque"
+     },
+     {
+      "q": "Louvre Abu Dhabi is a ___ full of art.",
+      "a": "museum"
+     },
+     {
+      "q": "Ferrari World is on Yas ___.",
+      "a": "island"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the place to what a visitor does there.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Sheikh Zayed Grand Mosque",
+      "right": "Walks quietly and admires the white domes"
+     },
+     {
+      "left": "Louvre Abu Dhabi",
+      "right": "Looks at paintings and statues"
+     },
+     {
+      "left": "The Corniche",
+      "right": "Walks or cycles beside the sea"
+     },
+     {
+      "left": "Ferrari World",
+      "right": "Goes on fast rides"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "How do good visitors behave? Circle the correct word.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "At the mosque, visitors speak",
+      "options": [
+       "softly",
+       "loudly"
+      ],
+      "after": ".",
+      "a": "softly"
+     },
+     {
+      "before": "Visitors take off their",
+      "options": [
+       "shoes",
+       "glasses"
+      ],
+      "after": "before going into the prayer hall.",
+      "a": "shoes"
+     },
+     {
+      "before": "In the museum we look at the art but do not",
+      "options": [
+       "touch",
+       "see"
+      ],
+      "after": "it.",
+      "a": "touch"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Which Abu Dhabi place should Grandpa see first? Give a reason.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. Grandpa should see the Grand Mosque first because it is cool and quiet in the morning."
+   }
+  ]
+ },
+ {
+  "id": "tourism-in-the-uae-07",
+  "topic": "tourism-in-the-uae",
+  "number": 7,
+  "level": "Practice",
+  "title": "The Airport Arrivals Hall",
+  "intro": "Planes land in the UAE all day and all night. Count how many people are at work before a tourist even leaves the airport!",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match the worker to the job.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "Pilot",
+      "right": "Flies the plane"
+     },
+     {
+      "left": "Cabin crew",
+      "right": "Looks after passengers during the flight"
+     },
+     {
+      "left": "Passport officer",
+      "right": "Checks and stamps passports"
+     },
+     {
+      "left": "Baggage handler",
+      "right": "Loads and unloads suitcases"
+     },
+     {
+      "left": "Taxi driver",
+      "right": "Drives visitors to their hotel"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Where does each person work? Sort.",
+    "marks": 6,
+    "groups": [
+     "Airport",
+     "Hotel",
+     "Tourist place"
+    ],
+    "words": [
+     "Pilot",
+     "Receptionist",
+     "Museum guide",
+     "Camel handler",
+     "Housekeeper",
+     "Passport officer"
+    ],
+    "a": {
+     "Pilot": "Airport",
+     "Passport officer": "Airport",
+     "Receptionist": "Hotel",
+     "Housekeeper": "Hotel",
+     "Museum guide": "Tourist place",
+     "Camel handler": "Tourist place"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Complete each sentence. Use: jobs, money, visitors, languages.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Pilot, guide and chef are all ___ in tourism.",
+      "a": "jobs"
+     },
+     {
+      "q": "Workers earn ___ for the work they do.",
+      "a": "money"
+     },
+     {
+      "q": "Another word for tourists is ___.",
+      "a": "visitors"
+     },
+     {
+      "q": "A tour guide may speak many ___.",
+      "a": "languages"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Only pilots have jobs because of tourism.",
+      "a": false
+     },
+     {
+      "q": "A taxi driver helps tourists travel around the city.",
+      "a": true
+     },
+     {
+      "q": "More tourists means more work for hotels and restaurants.",
+      "a": true
+     },
+     {
+      "q": "A baggage handler cooks food on the plane.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Which tourism job would you choose? What would you do all day?",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I would be a tour guide. I would show visitors the best places and tell them stories."
+   }
+  ]
+ },
+ {
+  "id": "tourism-in-the-uae-08",
+  "topic": "tourism-in-the-uae",
+  "number": 8,
+  "level": "Practice",
+  "title": "Up the Mountain Road to Jebel Jais",
+  "intro": "Not every tourist comes for the city. Ivan and his dad drive up a winding road in Ras Al Khaimah to the highest mountain in the UAE.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Complete each sentence. Use: mountain, Ras Al Khaimah, cooler, view.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Jebel Jais is the highest ___ in the UAE.",
+      "a": "mountain"
+     },
+     {
+      "q": "Jebel Jais is in the emirate of ___.",
+      "a": "Ras Al Khaimah"
+     },
+     {
+      "q": "The air at the top feels ___ than in the city.",
+      "a": "cooler"
+     },
+     {
+      "q": "Tourists stop on the way up to enjoy the ___.",
+      "a": "view"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the place to its emirate.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "Burj Khalifa",
+      "right": "Dubai"
+     },
+     {
+      "left": "Sheikh Zayed Grand Mosque",
+      "right": "Abu Dhabi"
+     },
+     {
+      "left": "Jebel Jais",
+      "right": "Ras Al Khaimah"
+     },
+     {
+      "left": "Fujairah Fort",
+      "right": "Fujairah"
+     },
+     {
+      "left": "Sharjah Aquarium",
+      "right": "Sharjah"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Made by nature or built by people? Sort.",
+    "marks": 6,
+    "groups": [
+     "Made by nature",
+     "Built by people"
+    ],
+    "words": [
+     "Mountains",
+     "Museums",
+     "Hotels",
+     "Sand dunes",
+     "Sea",
+     "Towers"
+    ],
+    "a": {
+     "Mountains": "Made by nature",
+     "Sand dunes": "Made by nature",
+     "Sea": "Made by nature",
+     "Museums": "Built by people",
+     "Hotels": "Built by people",
+     "Towers": "Built by people"
+    }
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "All of the UAE is flat desert.",
+      "a": false
+     },
+     {
+      "q": "Jebel Jais is the highest mountain in the UAE.",
+      "a": true
+     },
+     {
+      "q": "Tourists enjoy nature as well as cities.",
+      "a": true
+     },
+     {
+      "q": "It is fine to throw wrappers out of the car window on a mountain road.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "What would you pack for a day in the mountains?",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. I would pack water, a jacket, a hat and some snacks."
+   }
+  ]
+ },
+ {
+  "id": "tourism-in-the-uae-09",
+  "topic": "tourism-in-the-uae",
+  "number": 9,
+  "level": "Practice",
+  "title": "A School Trip to the Museum of the Future",
+  "intro": "Class 2 from a school in Ajman is going on a trip to Dubai. On the way, the bus passes more famous places.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the correct word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The Museum of the Future is in",
+      "options": [
+       "Dubai",
+       "Fujairah"
+      ],
+      "after": ".",
+      "a": "Dubai"
+     },
+     {
+      "before": "The building is shaped like a",
+      "options": [
+       "ring",
+       "pyramid"
+      ],
+      "after": ".",
+      "a": "ring"
+     },
+     {
+      "before": "Its walls are covered with Arabic",
+      "options": [
+       "writing",
+       "carpets"
+      ],
+      "after": ".",
+      "a": "writing"
+     },
+     {
+      "before": "Palm Jumeirah is an island shaped like a",
+      "options": [
+       "palm tree",
+       "star"
+      ],
+      "after": ".",
+      "a": "palm tree"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Which emirate is it in? Sort the places.",
+    "marks": 6,
+    "groups": [
+     "Dubai",
+     "Abu Dhabi"
+    ],
+    "words": [
+     "Palm Jumeirah",
+     "Louvre Abu Dhabi",
+     "Al Ain Oasis",
+     "Museum of the Future",
+     "Hatta",
+     "Sheikh Zayed Grand Mosque"
+    ],
+    "a": {
+     "Palm Jumeirah": "Dubai",
+     "Museum of the Future": "Dubai",
+     "Hatta": "Dubai",
+     "Louvre Abu Dhabi": "Abu Dhabi",
+     "Al Ain Oasis": "Abu Dhabi",
+     "Sheikh Zayed Grand Mosque": "Abu Dhabi"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Complete each sentence. Use: man-made, museum, tickets, bus.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Palm Jumeirah was built by people, so it is a ___ island.",
+      "a": "man-made"
+     },
+     {
+      "q": "A ___ is a building where we see and learn about special things.",
+      "a": "museum"
+     },
+     {
+      "q": "The teacher buys ___ for the whole class.",
+      "a": "tickets"
+     },
+     {
+      "q": "The class travels to Dubai by school ___.",
+      "a": "bus"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Palm Jumeirah is a natural island made by the sea.",
+      "a": false
+     },
+     {
+      "q": "Museum workers have jobs because people visit.",
+      "a": true
+     },
+     {
+      "q": "In a museum we should run and shout.",
+      "a": false
+     },
+     {
+      "q": "People from other emirates can be visitors in Dubai too.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "What do you think a museum about the future might show?",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I think it might show flying cars, helpful robots and homes on other planets."
+   }
+  ]
+ },
+ {
+  "id": "tourism-in-the-uae-10",
+  "topic": "tourism-in-the-uae",
+  "number": 10,
+  "level": "Practice",
+  "title": "A Picnic at Al Ain Oasis",
+  "intro": "Al Ain is called the Garden City. Salma's family and their guests from Jordan walk under thousands of date palms.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Al Ain Oasis is in the emirate of Abu Dhabi.",
+      "a": true
+     },
+     {
+      "q": "An oasis is a green place with water in the desert.",
+      "a": true
+     },
+     {
+      "q": "Date palms grow in Al Ain Oasis.",
+      "a": true
+     },
+     {
+      "q": "Al Ain Oasis is on top of a snowy mountain.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Complete each sentence. Use: dates, shade, falaj, Garden.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The sweet fruit of the date palm is called ___.",
+      "a": "dates"
+     },
+     {
+      "q": "Palm trees give cool ___ on a hot day.",
+      "a": "shade"
+     },
+     {
+      "q": "A ___ is an old water channel that brings water to the farms.",
+      "a": "falaj"
+     },
+     {
+      "q": "Al Ain is known as the ___ City.",
+      "a": "Garden"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each tourist to the best place for them.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "Rosa loves art and paintings.",
+      "right": "Louvre Abu Dhabi"
+     },
+     {
+      "left": "Hamid wants to see date palms and old water channels.",
+      "right": "Al Ain Oasis"
+     },
+     {
+      "left": "Chen wants to stand in the tallest building.",
+      "right": "Burj Khalifa"
+     },
+     {
+      "left": "Lina wants to ride a camel on the dunes.",
+      "right": "Desert safari"
+     },
+     {
+      "left": "Tom wants cool mountain air.",
+      "right": "Jebel Jais"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "How do we care for the oasis? Circle the correct word.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "In the oasis we walk on the",
+      "options": [
+       "paths",
+       "plants"
+      ],
+      "after": ".",
+      "a": "paths"
+     },
+     {
+      "before": "We",
+      "options": [
+       "pick",
+       "leave"
+      ],
+      "after": "the dates on the farmers' trees.",
+      "a": "leave"
+     },
+     {
+      "before": "We keep the water channels",
+      "options": [
+       "clean",
+       "dirty"
+      ],
+      "after": ".",
+      "a": "clean"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Why is an oasis a good place to rest on a hot day?",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. An oasis has trees that give shade and water that keeps the air cool."
+   }
+  ]
+ },
+ {
+  "id": "tourism-in-the-uae-11",
+  "topic": "tourism-in-the-uae",
+  "number": 11,
+  "level": "Challenge",
+  "title": "Dinner at the Hotel Restaurant",
+  "intro": "One tourist family orders dinner. Follow the money and see how many people it helps.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Write 1, 2, 3 or 4 to put the money story in order.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "___ The hotel pays the chef his salary.",
+      "a": "2"
+     },
+     {
+      "q": "___ The shopkeeper earns money too.",
+      "a": "4"
+     },
+     {
+      "q": "___ The tourist family pays the bill for dinner.",
+      "a": "1"
+     },
+     {
+      "q": "___ The chef buys school shoes for his children at a shop.",
+      "a": "3"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Who earns when a tourist does this? Match.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Eats dinner at a restaurant",
+      "right": "Chef and waiter"
+     },
+     {
+      "left": "Takes a ride from the airport",
+      "right": "Taxi driver"
+     },
+     {
+      "left": "Buys a scarf as a gift",
+      "right": "Shopkeeper"
+     },
+     {
+      "left": "Joins a city tour",
+      "right": "Tour guide"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Money that tourists spend helps to pay workers.",
+      "a": true
+     },
+     {
+      "q": "Tourism helps only the tourists.",
+      "a": false
+     },
+     {
+      "q": "When many tourists come, more workers are needed.",
+      "a": true
+     },
+     {
+      "q": "A country can use money from tourism to build roads and schools.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Do tourists pay for it? Sort.",
+    "marks": 6,
+    "groups": [
+     "Tourists pay for it",
+     "It is free"
+    ],
+    "words": [
+     "Hotel room",
+     "Sunshine",
+     "A walk on the beach",
+     "Museum ticket",
+     "Taxi ride",
+     "Watching the sunset"
+    ],
+    "a": {
+     "Hotel room": "Tourists pay for it",
+     "Museum ticket": "Tourists pay for it",
+     "Taxi ride": "Tourists pay for it",
+     "Sunshine": "It is free",
+     "A walk on the beach": "It is free",
+     "Watching the sunset": "It is free"
+    }
+   },
+   {
+    "type": "lines",
+    "title": "Explain how one tourist's dinner can help a farmer.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. The restaurant buys vegetables from the farmer to cook the dinner, so the farmer earns money."
+   }
+  ]
+ },
+ {
+  "id": "tourism-in-the-uae-12",
+  "topic": "tourism-in-the-uae",
+  "number": 12,
+  "level": "Challenge",
+  "title": "A Weekend in Hatta",
+  "intro": "Hatta is a quiet mountain town in the emirate of Dubai. Aditi's family leaves the city for two days of fresh air.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the correct word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Hatta is in the",
+      "options": [
+       "Hajar",
+       "Himalaya"
+      ],
+      "after": "Mountains.",
+      "a": "Hajar"
+     },
+     {
+      "before": "Hatta belongs to the emirate of",
+      "options": [
+       "Dubai",
+       "Ajman"
+      ],
+      "after": ".",
+      "a": "Dubai"
+     },
+     {
+      "before": "Tourists paddle a",
+      "options": [
+       "kayak",
+       "sledge"
+      ],
+      "after": "on the water at Hatta Dam.",
+      "a": "kayak"
+     },
+     {
+      "before": "A dam is a wall that holds back",
+      "options": [
+       "water",
+       "sand"
+      ],
+      "after": ".",
+      "a": "water"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "City, desert or mountains? Sort what tourists do.",
+    "marks": 6,
+    "groups": [
+     "In the city",
+     "In the desert",
+     "In the mountains"
+    ],
+    "words": [
+     "Visit a mall",
+     "Ride a camel",
+     "Hike a rocky trail",
+     "Kayak at a dam",
+     "Drive on dunes",
+     "Go up a tower"
+    ],
+    "a": {
+     "Visit a mall": "In the city",
+     "Go up a tower": "In the city",
+     "Ride a camel": "In the desert",
+     "Drive on dunes": "In the desert",
+     "Hike a rocky trail": "In the mountains",
+     "Kayak at a dam": "In the mountains"
+    }
+   },
+   {
+    "type": "match",
+    "title": "Match the tourist's need to the worker who helps.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "I am lost on the trail.",
+      "right": "Mountain guide"
+     },
+     {
+      "left": "I want to rent a kayak.",
+      "right": "Boat rental worker"
+     },
+     {
+      "left": "I am hungry after the hike.",
+      "right": "Cafe cook"
+     },
+     {
+      "left": "I need a room for the night.",
+      "right": "Lodge receptionist"
+     },
+     {
+      "left": "I need to get back to the city.",
+      "right": "Bus driver"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Tourism brings jobs to small towns as well as big cities.",
+      "a": true
+     },
+     {
+      "q": "Hatta is on an island in the sea.",
+      "a": false
+     },
+     {
+      "q": "Hikers should stay on the marked trail.",
+      "a": true
+     },
+     {
+      "q": "Feeding crisps to wild animals is a kind thing to do.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "How is a holiday in the mountains different from a holiday in the city?",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. In the mountains we hike and breathe fresh air. In the city we visit malls and tall towers."
+   }
+  ]
+ },
+ {
+  "id": "tourism-in-the-uae-13",
+  "topic": "tourism-in-the-uae",
+  "number": 13,
+  "level": "Challenge",
+  "title": "My Family Travel Plan",
+  "intro": "Daniel's grandparents are coming from Manila for four days. He is making a plan so they see the best of the UAE.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Write the best place. Use: Burj Khalifa, Al Ain Oasis, Louvre Abu Dhabi, Jebel Jais, Dubai Creek.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "Day 1: They ride an abra and visit the old souks at ___.",
+      "a": "Dubai Creek"
+     },
+     {
+      "q": "Day 2: They look at famous art at ___.",
+      "a": "Louvre Abu Dhabi"
+     },
+     {
+      "q": "Day 3: They walk under date palms at ___.",
+      "a": "Al Ain Oasis"
+     },
+     {
+      "q": "Day 4: They drive up the highest mountain, ___.",
+      "a": "Jebel Jais"
+     },
+     {
+      "q": "On the last evening they see the city from the top of ___.",
+      "a": "Burj Khalifa"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Unjumble the travel words.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "TELOH",
+      "a": "hotel"
+     },
+     {
+      "q": "DIUGE",
+      "a": "guide"
+     },
+     {
+      "q": "MESUMU",
+      "a": "museum"
+     },
+     {
+      "q": "TEKCIT",
+      "a": "ticket"
+     },
+     {
+      "q": "PORTAIR",
+      "a": "airport"
+     },
+     {
+      "q": "CHEAB",
+      "a": "beach"
+     },
+     {
+      "q": "RISTTOU",
+      "a": "tourist"
+     },
+     {
+      "q": "PORTPASS",
+      "a": "passport"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Is it a wise travel tip? Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Carry water on a hot day out.",
+      "a": true
+     },
+     {
+      "q": "Learn a few polite words, like 'shukran' for thank you.",
+      "a": true
+     },
+     {
+      "q": "Use a map or a guide to find your way.",
+      "a": true
+     },
+     {
+      "q": "Write your name on old walls.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Answer in a full sentence.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "Why is winter a good time for tourists to visit the UAE?",
+      "a": "e.g. Winter is a good time because the weather is cooler and pleasant."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Plan one perfect day in the UAE for a guest. Name the places and what you will do.",
+    "marks": 3,
+    "lines": 3,
+    "a": "e.g. In the morning we will ride an abra on Dubai Creek. After lunch we will go up Burj Khalifa. In the evening we will watch the fountain."
+   }
+  ]
+ },
+ {
+  "id": "tourism-in-the-uae-14",
+  "topic": "tourism-in-the-uae",
+  "number": 14,
+  "level": "Challenge",
+  "title": "The Busy Winter Season",
+  "intro": "From November to March the weather is lovely, and visitors fill the hotels and beaches. Find out how this helps the whole country.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match the cause to what happens next.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "More tourists arrive",
+      "right": "Hotels need more workers"
+     },
+     {
+      "left": "Workers earn salaries",
+      "right": "Families can buy what they need"
+     },
+     {
+      "left": "Shops sell more gifts",
+      "right": "Shopkeepers earn more"
+     },
+     {
+      "left": "The country earns more money",
+      "right": "New roads and schools can be built"
+     },
+     {
+      "left": "Tourists enjoy their trip",
+      "right": "They tell their friends to visit"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Complete each sentence. Use: economy, salary, souvenir, spend.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Money a worker is paid for a job is called a ___.",
+      "a": "salary"
+     },
+     {
+      "q": "A small gift bought to remember a trip is a ___.",
+      "a": "souvenir"
+     },
+     {
+      "q": "Tourists ___ money on food, rides and hotels.",
+      "a": "spend"
+     },
+     {
+      "q": "All the buying, selling and working in a country is its ___.",
+      "a": "economy"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "Tourism is one way a country earns money.",
+      "a": true
+     },
+     {
+      "q": "When tourists stop coming, hotels may need fewer workers.",
+      "a": true
+     },
+     {
+      "q": "Only big hotels earn from tourism; small shops never do.",
+      "a": false
+     },
+     {
+      "q": "Good roads and airports help tourists travel easily.",
+      "a": true
+     },
+     {
+      "q": "Tourists spending money is bad for workers.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Answer in a full sentence.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "How does a busy hotel help a vegetable seller?",
+      "a": "e.g. The hotel buys more vegetables to cook for its guests, so the seller earns more."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Name two things a country can build with money earned from tourism. Who do they help?",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. It can build schools and hospitals. They help all the people who live there."
+   }
+  ]
+ },
+ {
+  "id": "tourism-in-the-uae-15",
+  "topic": "tourism-in-the-uae",
+  "number": 15,
+  "level": "Challenge",
+  "title": "Clean-Up Day at the Beach",
+  "intro": "Tourists love clean beaches, and so do turtles. Class 2 joins a clean-up at a beach in Fujairah and learns how to be a responsible tourist.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Responsible tourist or not? Sort.",
+    "marks": 6,
+    "groups": [
+     "Responsible",
+     "Not responsible"
+    ],
+    "words": [
+     "Uses a bin",
+     "Drops litter",
+     "Scratches names on walls",
+     "Respects local customs",
+     "Stays on the path",
+     "Chases the birds"
+    ],
+    "a": {
+     "Uses a bin": "Responsible",
+     "Respects local customs": "Responsible",
+     "Stays on the path": "Responsible",
+     "Drops litter": "Not responsible",
+     "Scratches names on walls": "Not responsible",
+     "Chases the birds": "Not responsible"
+    }
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Plastic bags in the sea can harm",
+      "options": [
+       "turtles",
+       "rocks"
+      ],
+      "after": ".",
+      "a": "turtles"
+     },
+     {
+      "before": "We should carry a",
+      "options": [
+       "reusable",
+       "throwaway"
+      ],
+      "after": "water bottle.",
+      "a": "reusable"
+     },
+     {
+      "before": "Before taking a photo of someone, we should",
+      "options": [
+       "ask",
+       "hide"
+      ],
+      "after": ".",
+      "a": "ask"
+     },
+     {
+      "before": "We turn",
+      "options": [
+       "off",
+       "on"
+      ],
+      "after": "the tap while brushing our teeth.",
+      "a": "off"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "A responsible tourist cares for the places they visit.",
+      "a": true
+     },
+     {
+      "q": "Litter on a beach can hurt sea animals.",
+      "a": true
+     },
+     {
+      "q": "It is polite to learn about the local way of life.",
+      "a": true
+     },
+     {
+      "q": "Shells and corals should be taken home in big bags.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the problem to the responsible action.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "My juice box is empty.",
+      "right": "Find a bin or carry it home."
+     },
+     {
+      "left": "The sign says 'Do not climb'.",
+      "right": "Stay off and take a photo instead."
+     },
+     {
+      "left": "I want a turtle to come closer.",
+      "right": "Watch quietly from far away."
+     },
+     {
+      "left": "The hotel shower is still running.",
+      "right": "Turn off the tap."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two promises you will make as a responsible tourist.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I will always use a bin. I will be polite to the people who live there."
+   }
+  ]
+ }
+]

@@ -1,0 +1,2156 @@
+[
+ {
+  "id": "odd-and-even-rounding-off-01",
+  "topic": "odd-and-even-rounding-off",
+  "number": 1,
+  "level": "Starter",
+  "title": "Dancing Partners for Annual Day",
+  "intro": "Class 2 lines up in pairs for the Annual Day dance. A number is even when everyone gets a partner.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the numbers.",
+    "marks": 4,
+    "groups": [
+     "Even",
+     "Odd"
+    ],
+    "words": [
+     "4",
+     "7",
+     "10",
+     "13",
+     "16",
+     "19",
+     "22",
+     "25"
+    ],
+    "a": {
+     "4": "Even",
+     "7": "Odd",
+     "10": "Even",
+     "13": "Odd",
+     "16": "Even",
+     "19": "Odd",
+     "22": "Even",
+     "25": "Odd"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Make pairs of dancers.",
+    "items": [
+     {
+      "q": "8 children make ___ pairs.",
+      "a": "4"
+     },
+     {
+      "q": "12 children make ___ pairs.",
+      "a": "6"
+     },
+     {
+      "q": "9 children make 4 pairs and ___ child is left over.",
+      "a": "1"
+     },
+     {
+      "q": "A group of 14 makes ___ pairs.",
+      "a": "7"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle odd or even.",
+    "items": [
+     {
+      "before": "11 is",
+      "options": [
+       "odd",
+       "even"
+      ],
+      "after": "",
+      "a": "odd"
+     },
+     {
+      "before": "18 is",
+      "options": [
+       "odd",
+       "even"
+      ],
+      "after": "",
+      "a": "even"
+     },
+     {
+      "before": "27 is",
+      "options": [
+       "odd",
+       "even"
+      ],
+      "after": "",
+      "a": "odd"
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "Even numbers can be put into pairs with none left over.",
+      "a": true
+     },
+     {
+      "q": "5 is an even number.",
+      "a": false
+     },
+     {
+      "q": "2, 4, 6 and 8 are all even numbers.",
+      "a": true
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "fill",
+    "title": "Write odd or even.",
+    "items": [
+     {
+      "q": "Ms. Fernandes has 16 dancers. 16 is an ___ number.",
+      "a": "even"
+     },
+     {
+      "q": "There are 7 drummers. 7 is an ___ number.",
+      "a": "odd"
+     },
+     {
+      "q": "Gauri ties 21 ribbons. 21 is an ___ number.",
+      "a": "odd"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "odd-and-even-rounding-off-02",
+  "topic": "odd-and-even-rounding-off",
+  "number": 2,
+  "level": "Starter",
+  "title": "The Cycle Stand at School",
+  "intro": "Every cycle in the school stand has a number tag. Look at the ones digit to tell odd from even.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in the blanks.",
+    "items": [
+     {
+      "q": "The ones digit of 358 is ___.",
+      "a": "8"
+     },
+     {
+      "q": "The ones digit of 471 is ___.",
+      "a": "1"
+     },
+     {
+      "q": "Even numbers end in 0, 2, 4, 6 or ___.",
+      "a": "8"
+     },
+     {
+      "q": "Odd numbers end in 1, 3, 5, 7 or ___.",
+      "a": "9"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "pairs",
+    "title": "Write odd or even.",
+    "items": [
+     {
+      "q": "34",
+      "a": "even"
+     },
+     {
+      "q": "57",
+      "a": "odd"
+     },
+     {
+      "q": "126",
+      "a": "even"
+     },
+     {
+      "q": "243",
+      "a": "odd"
+     },
+     {
+      "q": "390",
+      "a": "even"
+     },
+     {
+      "q": "615",
+      "a": "odd"
+     },
+     {
+      "q": "708",
+      "a": "even"
+     },
+     {
+      "q": "999",
+      "a": "odd"
+     }
+    ],
+    "marks": 8
+   },
+   {
+    "type": "choice",
+    "title": "Circle the odd number.",
+    "items": [
+     {
+      "before": "",
+      "options": [
+       "42",
+       "65",
+       "80"
+      ],
+      "after": "",
+      "a": "65"
+     },
+     {
+      "before": "",
+      "options": [
+       "136",
+       "248",
+       "351"
+      ],
+      "after": "",
+      "a": "351"
+     },
+     {
+      "before": "",
+      "options": [
+       "407",
+       "512",
+       "620"
+      ],
+      "after": "",
+      "a": "407"
+     },
+     {
+      "before": "",
+      "options": [
+       "774",
+       "883",
+       "996"
+      ],
+      "after": "",
+      "a": "883"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "To check odd or even, look at the ones digit.",
+      "a": true
+     },
+     {
+      "q": "352 is odd because it starts with 3.",
+      "a": false
+     },
+     {
+      "q": "A number that ends in 0 is even.",
+      "a": true
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "fill",
+    "title": "Solve the cycle stand problems.",
+    "items": [
+     {
+      "q": "Each cycle has 2 wheels. 9 cycles have ___ wheels.",
+      "a": "18"
+     },
+     {
+      "q": "Theo's cycle has tag 135. Is 135 odd or even? ___",
+      "a": "odd"
+     },
+     {
+      "q": "Keerthi's cycle has tag 264. Is 264 odd or even? ___",
+      "a": "even"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "odd-and-even-rounding-off-03",
+  "topic": "odd-and-even-rounding-off",
+  "number": 3,
+  "level": "Starter",
+  "title": "The Fruit Seller's Cart",
+  "intro": "Mr. Iqbal sells fruit from his cart. He rounds his counts to the nearest 10 to say about how many he has.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Find the nearest ten.",
+    "items": [
+     {
+      "q": "34 lies between 30 and ___.",
+      "a": "40"
+     },
+     {
+      "q": "34 is nearer to ___.",
+      "a": "30"
+     },
+     {
+      "q": "67 lies between ___ and 70.",
+      "a": "60"
+     },
+     {
+      "q": "67 is nearer to ___.",
+      "a": "70"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "pairs",
+    "title": "Round to the nearest 10.",
+    "items": [
+     {
+      "q": "12",
+      "a": "10"
+     },
+     {
+      "q": "28",
+      "a": "30"
+     },
+     {
+      "q": "43",
+      "a": "40"
+     },
+     {
+      "q": "56",
+      "a": "60"
+     },
+     {
+      "q": "71",
+      "a": "70"
+     },
+     {
+      "q": "85",
+      "a": "90"
+     },
+     {
+      "q": "39",
+      "a": "40"
+     },
+     {
+      "q": "94",
+      "a": "90"
+     }
+    ],
+    "marks": 8
+   },
+   {
+    "type": "choice",
+    "title": "Circle up or down.",
+    "items": [
+     {
+      "before": "In 47 the ones digit is 7. We round",
+      "options": [
+       "up",
+       "down"
+      ],
+      "after": "",
+      "a": "up"
+     },
+     {
+      "before": "In 62 the ones digit is 2. We round",
+      "options": [
+       "up",
+       "down"
+      ],
+      "after": "",
+      "a": "down"
+     },
+     {
+      "before": "In 85 the ones digit is 5. We round",
+      "options": [
+       "up",
+       "down"
+      ],
+      "after": "",
+      "a": "up"
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "match",
+    "title": "Match the fruit to the rounded number.",
+    "items": [
+     {
+      "left": "18 bananas",
+      "right": "about 20"
+     },
+     {
+      "left": "33 pears",
+      "right": "about 30"
+     },
+     {
+      "left": "58 limes",
+      "right": "about 60"
+     },
+     {
+      "left": "81 plums",
+      "right": "about 80"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Round to the nearest 10.",
+    "items": [
+     {
+      "q": "Mr. Iqbal has 48 apples. That is about ___ apples.",
+      "a": "50"
+     },
+     {
+      "q": "Carmen buys 23 oranges. That is about ___ oranges.",
+      "a": "20"
+     },
+     {
+      "q": "There are 75 guavas on the cart. That is about ___ guavas.",
+      "a": "80"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "odd-and-even-rounding-off-04",
+  "topic": "odd-and-even-rounding-off",
+  "number": 4,
+  "level": "Starter",
+  "title": "The Road Trip to Abu Dhabi",
+  "intro": "Advik's family drives from Dubai to Abu Dhabi. They round the numbers on the road signs to the nearest 100.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Find the nearest hundred.",
+    "items": [
+     {
+      "q": "230 lies between 200 and ___.",
+      "a": "300"
+     },
+     {
+      "q": "230 is nearer to ___.",
+      "a": "200"
+     },
+     {
+      "q": "680 lies between ___ and 700.",
+      "a": "600"
+     },
+     {
+      "q": "680 is nearer to ___.",
+      "a": "700"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "pairs",
+    "title": "Round to the nearest 100.",
+    "items": [
+     {
+      "q": "120",
+      "a": "100"
+     },
+     {
+      "q": "380",
+      "a": "400"
+     },
+     {
+      "q": "450",
+      "a": "500"
+     },
+     {
+      "q": "610",
+      "a": "600"
+     },
+     {
+      "q": "790",
+      "a": "800"
+     },
+     {
+      "q": "240",
+      "a": "200"
+     },
+     {
+      "q": "560",
+      "a": "600"
+     },
+     {
+      "q": "870",
+      "a": "900"
+     }
+    ],
+    "marks": 8
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "To round to the nearest 100, look at the tens digit.",
+      "a": true
+     },
+     {
+      "q": "340 rounds to 400.",
+      "a": false
+     },
+     {
+      "q": "650 rounds to 700.",
+      "a": true
+     },
+     {
+      "q": "910 rounds to 1000.",
+      "a": false
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "sort",
+    "title": "Sort the numbers by the hundred they round to.",
+    "marks": 4,
+    "groups": [
+     "Rounds to 300",
+     "Rounds to 400"
+    ],
+    "words": [
+     "320",
+     "370",
+     "290",
+     "410",
+     "350",
+     "260",
+     "430",
+     "340"
+    ],
+    "a": {
+     "320": "Rounds to 300",
+     "370": "Rounds to 400",
+     "290": "Rounds to 300",
+     "410": "Rounds to 400",
+     "350": "Rounds to 400",
+     "260": "Rounds to 300",
+     "430": "Rounds to 400",
+     "340": "Rounds to 300"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Round to the nearest 100.",
+    "items": [
+     {
+      "q": "The drive is 140 km long. That is about ___ km.",
+      "a": "100"
+     },
+     {
+      "q": "Santiago counts 270 lamp posts. That is about ___ lamp posts.",
+      "a": "300"
+     },
+     {
+      "q": "The petrol costs ₹ 850. That is about ₹ ___.",
+      "a": "900"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "odd-and-even-rounding-off-05",
+  "topic": "odd-and-even-rounding-off",
+  "number": 5,
+  "level": "Practice",
+  "title": "Lunch Boxes at the Picnic",
+  "intro": "Class 2 has a picnic in the park. Nadia and Pranav count the food and round the numbers.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the numbers.",
+    "marks": 4,
+    "groups": [
+     "Even",
+     "Odd"
+    ],
+    "words": [
+     "148",
+     "275",
+     "306",
+     "419",
+     "532",
+     "687",
+     "790",
+     "861"
+    ],
+    "a": {
+     "148": "Even",
+     "275": "Odd",
+     "306": "Even",
+     "419": "Odd",
+     "532": "Even",
+     "687": "Odd",
+     "790": "Even",
+     "861": "Odd"
+    }
+   },
+   {
+    "type": "pairs",
+    "title": "Round to the nearest 10.",
+    "items": [
+     {
+      "q": "17",
+      "a": "20"
+     },
+     {
+      "q": "64",
+      "a": "60"
+     },
+     {
+      "q": "35",
+      "a": "40"
+     },
+     {
+      "q": "92",
+      "a": "90"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blanks.",
+    "items": [
+     {
+      "q": "The even number just after 46 is ___.",
+      "a": "48"
+     },
+     {
+      "q": "The odd number just after 71 is ___.",
+      "a": "73"
+     },
+     {
+      "q": "The even number just before 90 is ___.",
+      "a": "88"
+     },
+     {
+      "q": "The odd number just before 25 is ___.",
+      "a": "23"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the nearest 10.",
+    "items": [
+     {
+      "before": "53 is about",
+      "options": [
+       "50",
+       "60"
+      ],
+      "after": "",
+      "a": "50"
+     },
+     {
+      "before": "88 is about",
+      "options": [
+       "80",
+       "90"
+      ],
+      "after": "",
+      "a": "90"
+     },
+     {
+      "before": "45 is about",
+      "options": [
+       "40",
+       "50"
+      ],
+      "after": "",
+      "a": "50"
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "fill",
+    "title": "Solve the picnic problems.",
+    "items": [
+     {
+      "q": "Nadia packs 24 sandwiches. Is 24 odd or even? ___",
+      "a": "even"
+     },
+     {
+      "q": "Pranav brings 39 juice boxes. To the nearest 10, that is ___.",
+      "a": "40"
+     },
+     {
+      "q": "15 children sit in pairs. ___ child sits alone.",
+      "a": "1"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "odd-and-even-rounding-off-06",
+  "topic": "odd-and-even-rounding-off",
+  "number": 6,
+  "level": "Practice",
+  "title": "Dandiya Night at Navratri",
+  "intro": "Hetal's family goes to a dandiya night. Every dancer holds two sticks.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the even number.",
+    "items": [
+     {
+      "before": "",
+      "options": [
+       "231",
+       "344",
+       "457"
+      ],
+      "after": "",
+      "a": "344"
+     },
+     {
+      "before": "",
+      "options": [
+       "569",
+       "675",
+       "780"
+      ],
+      "after": "",
+      "a": "780"
+     },
+     {
+      "before": "",
+      "options": [
+       "802",
+       "911",
+       "123"
+      ],
+      "after": "",
+      "a": "802"
+     },
+     {
+      "before": "",
+      "options": [
+       "495",
+       "387",
+       "256"
+      ],
+      "after": "",
+      "a": "256"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Write the next number.",
+    "items": [
+     {
+      "q": "Even numbers: 212, 214, 216, ___",
+      "a": "218"
+     },
+     {
+      "q": "Odd numbers: 305, 307, 309, ___",
+      "a": "311"
+     },
+     {
+      "q": "Even numbers: 494, 496, 498, ___",
+      "a": "500"
+     },
+     {
+      "q": "Odd numbers: 595, 597, 599, ___",
+      "a": "601"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "pairs",
+    "title": "Round to the nearest 10.",
+    "items": [
+     {
+      "q": "26",
+      "a": "30"
+     },
+     {
+      "q": "74",
+      "a": "70"
+     },
+     {
+      "q": "55",
+      "a": "60"
+     },
+     {
+      "q": "99",
+      "a": "100"
+     },
+     {
+      "q": "8",
+      "a": "10"
+     },
+     {
+      "q": "61",
+      "a": "60"
+     },
+     {
+      "q": "15",
+      "a": "20"
+     },
+     {
+      "q": "47",
+      "a": "50"
+     }
+    ],
+    "marks": 8
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "7 dancers need 14 sticks. 14 is an even number.",
+      "a": true
+     },
+     {
+      "q": "451 is an even number.",
+      "a": false
+     },
+     {
+      "q": "65 rounded to the nearest 10 is 60.",
+      "a": false
+     },
+     {
+      "q": "92 rounded to the nearest 10 is 90.",
+      "a": true
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Solve the dandiya problems.",
+    "items": [
+     {
+      "q": "There are 37 sticks in a box. After making pairs, ___ stick is left over.",
+      "a": "1"
+     },
+     {
+      "q": "Hetal counts 78 dancers. To the nearest 10, that is ___ dancers.",
+      "a": "80"
+     },
+     {
+      "q": "Jignesh sells 126 tickets. Is 126 odd or even? ___",
+      "a": "even"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "odd-and-even-rounding-off-07",
+  "topic": "odd-and-even-rounding-off",
+  "number": 7,
+  "level": "Practice",
+  "title": "The Supermarket Bill",
+  "intro": "Mr. D'Souza shops for the week. He rounds the prices to check his bill quickly.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each price to the nearest ₹ 10.",
+    "items": [
+     {
+      "left": "₹ 42",
+      "right": "about ₹ 40"
+     },
+     {
+      "left": "₹ 58",
+      "right": "about ₹ 60"
+     },
+     {
+      "left": "₹ 75",
+      "right": "about ₹ 80"
+     },
+     {
+      "left": "₹ 91",
+      "right": "about ₹ 90"
+     },
+     {
+      "left": "₹ 66",
+      "right": "about ₹ 70"
+     }
+    ],
+    "marks": 5
+   },
+   {
+    "type": "pairs",
+    "title": "Round to the nearest 100.",
+    "items": [
+     {
+      "q": "137",
+      "a": "100"
+     },
+     {
+      "q": "262",
+      "a": "300"
+     },
+     {
+      "q": "418",
+      "a": "400"
+     },
+     {
+      "q": "550",
+      "a": "600"
+     },
+     {
+      "q": "683",
+      "a": "700"
+     },
+     {
+      "q": "749",
+      "a": "700"
+     },
+     {
+      "q": "871",
+      "a": "900"
+     },
+     {
+      "q": "905",
+      "a": "900"
+     }
+    ],
+    "marks": 8
+   },
+   {
+    "type": "fill",
+    "title": "Look at the tens digit.",
+    "items": [
+     {
+      "q": "In 462 the tens digit is ___.",
+      "a": "6"
+     },
+     {
+      "q": "So 462 rounded to the nearest 100 is ___.",
+      "a": "500"
+     },
+     {
+      "q": "In 729 the tens digit is ___.",
+      "a": "2"
+     },
+     {
+      "q": "So 729 rounded to the nearest 100 is ___.",
+      "a": "700"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "₹ 349 is about ₹ 300 to the nearest 100.",
+      "a": true
+     },
+     {
+      "q": "₹ 250 rounds to ₹ 200.",
+      "a": false
+     },
+     {
+      "q": "₹ 95 rounded to the nearest 10 is ₹ 100.",
+      "a": true
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "fill",
+    "title": "Round the prices.",
+    "items": [
+     {
+      "q": "A bag of rice costs ₹ 87. To the nearest 10, that is ₹ ___.",
+      "a": "90"
+     },
+     {
+      "q": "The fruit costs ₹ 632. To the nearest 100, that is ₹ ___.",
+      "a": "600"
+     },
+     {
+      "q": "The whole bill is ₹ 978. To the nearest 100, that is ₹ ___.",
+      "a": "1000"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "odd-and-even-rounding-off-08",
+  "topic": "odd-and-even-rounding-off",
+  "number": 8,
+  "level": "Practice",
+  "title": "Beach Clean-Up Day",
+  "intro": "Suhana and Marcus join the beach clean-up at Kite Beach and count what they collect.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write odd or even.",
+    "items": [
+     {
+      "q": "203",
+      "a": "odd"
+     },
+     {
+      "q": "318",
+      "a": "even"
+     },
+     {
+      "q": "467",
+      "a": "odd"
+     },
+     {
+      "q": "550",
+      "a": "even"
+     },
+     {
+      "q": "692",
+      "a": "even"
+     },
+     {
+      "q": "729",
+      "a": "odd"
+     },
+     {
+      "q": "846",
+      "a": "even"
+     },
+     {
+      "q": "981",
+      "a": "odd"
+     }
+    ],
+    "marks": 8
+   },
+   {
+    "type": "match",
+    "title": "Match each number to the nearest 100.",
+    "items": [
+     {
+      "left": "218",
+      "right": "200"
+     },
+     {
+      "left": "364",
+      "right": "400"
+     },
+     {
+      "left": "551",
+      "right": "600"
+     },
+     {
+      "left": "746",
+      "right": "700"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct rounding.",
+    "items": [
+     {
+      "before": "73 to the nearest 10 is",
+      "options": [
+       "70",
+       "80"
+      ],
+      "after": "",
+      "a": "70"
+     },
+     {
+      "before": "125 to the nearest 100 is",
+      "options": [
+       "100",
+       "200"
+      ],
+      "after": "",
+      "a": "100"
+     },
+     {
+      "before": "450 to the nearest 100 is",
+      "options": [
+       "400",
+       "500"
+      ],
+      "after": "",
+      "a": "500"
+     },
+     {
+      "before": "38 to the nearest 10 is",
+      "options": [
+       "30",
+       "40"
+      ],
+      "after": "",
+      "a": "40"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "sort",
+    "title": "Sort the numbers by the ten they round to.",
+    "marks": 4,
+    "groups": [
+     "Rounds to 60",
+     "Rounds to 70"
+    ],
+    "words": [
+     "56",
+     "64",
+     "65",
+     "68",
+     "59",
+     "73",
+     "61",
+     "74"
+    ],
+    "a": {
+     "56": "Rounds to 60",
+     "64": "Rounds to 60",
+     "65": "Rounds to 70",
+     "68": "Rounds to 70",
+     "59": "Rounds to 60",
+     "73": "Rounds to 70",
+     "61": "Rounds to 60",
+     "74": "Rounds to 70"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Solve the clean-up problems.",
+    "items": [
+     {
+      "q": "The team picks up 487 bottle caps. To the nearest 100, that is ___.",
+      "a": "500"
+     },
+     {
+      "q": "Marcus finds 63 cans. To the nearest 10, that is ___.",
+      "a": "60"
+     },
+     {
+      "q": "Suhana has 91 gloves. Is 91 odd or even? ___",
+      "a": "odd"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "odd-and-even-rounding-off-09",
+  "topic": "odd-and-even-rounding-off",
+  "number": 9,
+  "level": "Practice",
+  "title": "The Butterfly Garden",
+  "intro": "Anvi and Elias visit the butterfly garden and read the number boards along the path.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "Every number that ends in 5 is odd.",
+      "a": true
+     },
+     {
+      "q": "An even number plus 1 is an odd number.",
+      "a": true
+     },
+     {
+      "q": "620 is an odd number.",
+      "a": false
+     },
+     {
+      "q": "The odd number just after 199 is 201.",
+      "a": true
+     },
+     {
+      "q": "The even number just after 348 is 349.",
+      "a": false
+     }
+    ],
+    "marks": 5
+   },
+   {
+    "type": "pairs",
+    "title": "Round to the nearest 10.",
+    "items": [
+     {
+      "q": "123",
+      "a": "120"
+     },
+     {
+      "q": "247",
+      "a": "250"
+     },
+     {
+      "q": "365",
+      "a": "370"
+     },
+     {
+      "q": "482",
+      "a": "480"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blanks.",
+    "items": [
+     {
+      "q": "The even number between 57 and 59 is ___.",
+      "a": "58"
+     },
+     {
+      "q": "The odd number between 300 and 302 is ___.",
+      "a": "301"
+     },
+     {
+      "q": "The greatest 2-digit even number is ___.",
+      "a": "98"
+     },
+     {
+      "q": "The smallest 3-digit odd number is ___.",
+      "a": "101"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "match",
+    "title": "Match each number to the nearest 100.",
+    "items": [
+     {
+      "left": "149",
+      "right": "100"
+     },
+     {
+      "left": "150",
+      "right": "200"
+     },
+     {
+      "left": "251",
+      "right": "300"
+     },
+     {
+      "left": "449",
+      "right": "400"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Solve the garden problems.",
+    "items": [
+     {
+      "q": "Anvi counts 67 butterflies. To the nearest 10, that is ___.",
+      "a": "70"
+     },
+     {
+      "q": "The garden has 315 flower pots. Is 315 odd or even? ___",
+      "a": "odd"
+     },
+     {
+      "q": "Elias reads that 580 people visit each day. To the nearest 100, that is ___.",
+      "a": "600"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "odd-and-even-rounding-off-10",
+  "topic": "odd-and-even-rounding-off",
+  "number": 10,
+  "level": "Practice",
+  "title": "Lanterns for Ramadan Night",
+  "intro": "Yasmin's street glows with lanterns and lights for Ramadan. She counts and rounds them.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the numbers by the hundred they round to.",
+    "marks": 6,
+    "groups": [
+     "Rounds to 200",
+     "Rounds to 300",
+     "Rounds to 400"
+    ],
+    "words": [
+     "249",
+     "251",
+     "318",
+     "350",
+     "164",
+     "449"
+    ],
+    "a": {
+     "249": "Rounds to 200",
+     "251": "Rounds to 300",
+     "318": "Rounds to 300",
+     "350": "Rounds to 400",
+     "164": "Rounds to 200",
+     "449": "Rounds to 400"
+    }
+   },
+   {
+    "type": "pairs",
+    "title": "Round to the nearest 10.",
+    "items": [
+     {
+      "q": "134",
+      "a": "130"
+     },
+     {
+      "q": "278",
+      "a": "280"
+     },
+     {
+      "q": "405",
+      "a": "410"
+     },
+     {
+      "q": "596",
+      "a": "600"
+     },
+     {
+      "q": "61",
+      "a": "60"
+     },
+     {
+      "q": "849",
+      "a": "850"
+     },
+     {
+      "q": "712",
+      "a": "710"
+     },
+     {
+      "q": "995",
+      "a": "1000"
+     }
+    ],
+    "marks": 8
+   },
+   {
+    "type": "choice",
+    "title": "Circle odd or even.",
+    "items": [
+     {
+      "before": "219 is",
+      "options": [
+       "odd",
+       "even"
+      ],
+      "after": "",
+      "a": "odd"
+     },
+     {
+      "before": "500 is",
+      "options": [
+       "odd",
+       "even"
+      ],
+      "after": "",
+      "a": "even"
+     },
+     {
+      "before": "746 is",
+      "options": [
+       "odd",
+       "even"
+      ],
+      "after": "",
+      "a": "even"
+     },
+     {
+      "before": "833 is",
+      "options": [
+       "odd",
+       "even"
+      ],
+      "after": "",
+      "a": "odd"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Round the same number two ways.",
+    "items": [
+     {
+      "q": "376 to the nearest 10 is ___.",
+      "a": "380"
+     },
+     {
+      "q": "376 to the nearest 100 is ___.",
+      "a": "400"
+     },
+     {
+      "q": "243 to the nearest 10 is ___.",
+      "a": "240"
+     },
+     {
+      "q": "243 to the nearest 100 is ___.",
+      "a": "200"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Solve the lantern problems.",
+    "items": [
+     {
+      "q": "Yasmin hangs 44 lanterns. Is 44 odd or even? ___",
+      "a": "even"
+     },
+     {
+      "q": "Haroon's building has 168 lights. To the nearest 10, that is ___.",
+      "a": "170"
+     },
+     {
+      "q": "The courtyard has 352 lamps. To the nearest 100, that is ___.",
+      "a": "400"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "odd-and-even-rounding-off-11",
+  "topic": "odd-and-even-rounding-off",
+  "number": 11,
+  "level": "Challenge",
+  "title": "The Guessing Jar at the School Fair",
+  "intro": "At the school fair, children guess how many things are in each jar. Laila rounds the numbers to help her guess.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Find the number.",
+    "items": [
+     {
+      "q": "The smallest number that rounds to 50 (nearest 10) is ___.",
+      "a": "45"
+     },
+     {
+      "q": "The greatest number that rounds to 50 (nearest 10) is ___.",
+      "a": "54"
+     },
+     {
+      "q": "The smallest number that rounds to 300 (nearest 100) is ___.",
+      "a": "250"
+     },
+     {
+      "q": "The greatest number that rounds to 300 (nearest 100) is ___.",
+      "a": "349"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "sort",
+    "title": "Round to the nearest 100. Sort the numbers.",
+    "marks": 3,
+    "groups": [
+     "Rounds to 500",
+     "Does not round to 500"
+    ],
+    "words": [
+     "449",
+     "450",
+     "549",
+     "550",
+     "501",
+     "438"
+    ],
+    "a": {
+     "449": "Does not round to 500",
+     "450": "Rounds to 500",
+     "549": "Rounds to 500",
+     "550": "Does not round to 500",
+     "501": "Rounds to 500",
+     "438": "Does not round to 500"
+    }
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "65, 66 and 67 all round to 70.",
+      "a": true
+     },
+     {
+      "q": "Only one number rounds to 80.",
+      "a": false
+     },
+     {
+      "q": "149 and 249 both round to 200.",
+      "a": false
+     },
+     {
+      "q": "995 rounded to the nearest 10 is 1000.",
+      "a": true
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the number that could be in the jar.",
+    "items": [
+     {
+      "before": "About 70 marbles (nearest 10):",
+      "options": [
+       "64",
+       "68",
+       "76"
+      ],
+      "after": "",
+      "a": "68"
+     },
+     {
+      "before": "About 400 sweets (nearest 100):",
+      "options": [
+       "345",
+       "395",
+       "455"
+      ],
+      "after": "",
+      "a": "395"
+     },
+     {
+      "before": "About 90 buttons (nearest 10):",
+      "options": [
+       "84",
+       "96",
+       "93"
+      ],
+      "after": "",
+      "a": "93"
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "fill",
+    "title": "Solve the jar problems.",
+    "items": [
+     {
+      "q": "Laila guesses 238 beads. To the nearest 10, that is ___.",
+      "a": "240"
+     },
+     {
+      "q": "The jar really has 251 beads. To the nearest 100, that is ___.",
+      "a": "300"
+     },
+     {
+      "q": "Is 251 odd or even? ___",
+      "a": "odd"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "odd-and-even-rounding-off-12",
+  "topic": "odd-and-even-rounding-off",
+  "number": 12,
+  "level": "Challenge",
+  "title": "The Mystery Number Hunt",
+  "intro": "Tara follows number clues around the playground to find the mystery numbers.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Who am I?",
+    "items": [
+     {
+      "q": "I am the even number between 41 and 44. I am ___.",
+      "a": "42"
+     },
+     {
+      "q": "I am the odd number between 510 and 512. I am ___.",
+      "a": "511"
+     },
+     {
+      "q": "I round to 30 (nearest 10). I am even and greater than 32. I am ___.",
+      "a": "34"
+     },
+     {
+      "q": "I am the greatest 3-digit even number. I am ___.",
+      "a": "998"
+     },
+     {
+      "q": "I am odd. I am between 95 and 100. I round to 100 (nearest 10). My ones digit is 7. I am ___.",
+      "a": "97"
+     }
+    ],
+    "marks": 5
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "6 + 8 is an even number.",
+      "a": true
+     },
+     {
+      "q": "An odd number plus an odd number is always odd.",
+      "a": false
+     },
+     {
+      "q": "7 + 4 is an odd number.",
+      "a": true
+     },
+     {
+      "q": "The number just after an even number is always even.",
+      "a": false
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "match",
+    "title": "Round to the nearest 10. Match the clue to the number.",
+    "items": [
+     {
+      "left": "even, rounds to 20",
+      "right": "18"
+     },
+     {
+      "left": "odd, rounds to 20",
+      "right": "23"
+     },
+     {
+      "left": "even, rounds to 60",
+      "right": "56"
+     },
+     {
+      "left": "odd, rounds to 60",
+      "right": "63"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the number that fits both clues.",
+    "items": [
+     {
+      "before": "Odd and rounds to 100 (nearest 10):",
+      "options": [
+       "96",
+       "97",
+       "104"
+      ],
+      "after": "",
+      "a": "97"
+     },
+     {
+      "before": "Even and rounds to 700 (nearest 100):",
+      "options": [
+       "649",
+       "652",
+       "751"
+      ],
+      "after": "",
+      "a": "652"
+     },
+     {
+      "before": "Odd and rounds to 40 (nearest 10):",
+      "options": [
+       "35",
+       "44",
+       "46"
+      ],
+      "after": "",
+      "a": "35"
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "lines",
+    "title": "Write your own Who am I? clue for 75. Use odd or even and rounding.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I am an odd number between 74 and 76. I round to 80. Who am I?"
+   }
+  ]
+ },
+ {
+  "id": "odd-and-even-rounding-off-13",
+  "topic": "odd-and-even-rounding-off",
+  "number": 13,
+  "level": "Challenge",
+  "title": "Train Coaches at the Railway Station",
+  "intro": "Kian waits at the busy railway station and reads the numbers on coaches, seats and boards.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Round to the nearest 10.",
+    "items": [
+     {
+      "q": "108",
+      "a": "110"
+     },
+     {
+      "q": "256",
+      "a": "260"
+     },
+     {
+      "q": "394",
+      "a": "390"
+     },
+     {
+      "q": "445",
+      "a": "450"
+     },
+     {
+      "q": "502",
+      "a": "500"
+     },
+     {
+      "q": "667",
+      "a": "670"
+     },
+     {
+      "q": "799",
+      "a": "800"
+     },
+     {
+      "q": "913",
+      "a": "910"
+     }
+    ],
+    "marks": 8
+   },
+   {
+    "type": "choice",
+    "title": "Circle odd or even.",
+    "items": [
+     {
+      "before": "Odd + odd is always",
+      "options": [
+       "odd",
+       "even"
+      ],
+      "after": "",
+      "a": "even"
+     },
+     {
+      "before": "Even + even is always",
+      "options": [
+       "odd",
+       "even"
+      ],
+      "after": "",
+      "a": "even"
+     },
+     {
+      "before": "Even + odd is always",
+      "options": [
+       "odd",
+       "even"
+      ],
+      "after": "",
+      "a": "odd"
+     },
+     {
+      "before": "Double any number is always",
+      "options": [
+       "odd",
+       "even"
+      ],
+      "after": "",
+      "a": "even"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blanks.",
+    "items": [
+     {
+      "q": "Odd coach numbers: 11, 13, ___, 17",
+      "a": "15"
+     },
+     {
+      "q": "Even seat numbers: 24, 26, 28, ___",
+      "a": "30"
+     },
+     {
+      "q": "394 rounded to the nearest 100 is ___.",
+      "a": "400"
+     },
+     {
+      "q": "849 rounded to the nearest 100 is ___.",
+      "a": "800"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "The train has 18 coaches. 18 is an even number.",
+      "a": true
+     },
+     {
+      "q": "705 rounded to the nearest 10 is 700.",
+      "a": false
+     },
+     {
+      "q": "950 rounded to the nearest 100 is 1000.",
+      "a": true
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "fill",
+    "title": "Solve the station problems.",
+    "items": [
+     {
+      "q": "Coach A has 48 people and coach B has 31. Round each to the nearest 10 and add: about ___ people.",
+      "a": "80"
+     },
+     {
+      "q": "The train travels 276 km. To the nearest 100, that is ___ km.",
+      "a": "300"
+     },
+     {
+      "q": "Odd seat numbers are window seats. Is seat 86 a window seat? Write yes or no. ___",
+      "a": "no"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "odd-and-even-rounding-off-14",
+  "topic": "odd-and-even-rounding-off",
+  "number": 14,
+  "level": "Challenge",
+  "title": "The Class Garden Harvest",
+  "intro": "Ms. Kapoor's class picks tomatoes, beans and chillies from the school garden.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Think about the number line.",
+    "items": [
+     {
+      "q": "The number halfway between 40 and 50 is ___.",
+      "a": "45"
+     },
+     {
+      "q": "The number halfway between 200 and 300 is ___.",
+      "a": "250"
+     },
+     {
+      "q": "47 is ___ steps away from 50.",
+      "a": "3"
+     },
+     {
+      "q": "47 is ___ steps away from 40.",
+      "a": "7"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "sort",
+    "title": "Round to the nearest 10. Sort the numbers.",
+    "marks": 6,
+    "groups": [
+     "Rounds to 130",
+     "Rounds to 140",
+     "Rounds to 150"
+    ],
+    "words": [
+     "126",
+     "135",
+     "144",
+     "145",
+     "134",
+     "151"
+    ],
+    "a": {
+     "126": "Rounds to 130",
+     "135": "Rounds to 140",
+     "144": "Rounds to 140",
+     "145": "Rounds to 150",
+     "134": "Rounds to 130",
+     "151": "Rounds to 150"
+    }
+   },
+   {
+    "type": "pairs",
+    "title": "Work out the answer. Is it odd or even?",
+    "items": [
+     {
+      "q": "5 + 3",
+      "a": "even"
+     },
+     {
+      "q": "12 + 7",
+      "a": "odd"
+     },
+     {
+      "q": "20 + 20",
+      "a": "even"
+     },
+     {
+      "q": "9 + 9",
+      "a": "even"
+     },
+     {
+      "q": "14 − 5",
+      "a": "odd"
+     },
+     {
+      "q": "30 − 10",
+      "a": "even"
+     },
+     {
+      "q": "6 + 11",
+      "a": "odd"
+     },
+     {
+      "q": "8 + 8",
+      "a": "even"
+     }
+    ],
+    "marks": 8
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "96 rounded to the nearest 10 is a 3-digit number.",
+      "a": true
+     },
+     {
+      "q": "250 is halfway, so it rounds down to 200.",
+      "a": false
+     },
+     {
+      "q": "An even number of tomatoes can be shared equally between 2 baskets.",
+      "a": true
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "fill",
+    "title": "Solve the harvest problems.",
+    "items": [
+     {
+      "q": "The class picks 164 tomatoes. To the nearest 10, that is ___.",
+      "a": "160"
+     },
+     {
+      "q": "To the nearest 100, 164 tomatoes is about ___.",
+      "a": "200"
+     },
+     {
+      "q": "164 tomatoes fill 2 baskets equally with none left over. So 164 is an ___ number.",
+      "a": "even"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "odd-and-even-rounding-off-15",
+  "topic": "odd-and-even-rounding-off",
+  "number": 15,
+  "level": "Challenge",
+  "title": "The Toy Factory Tour",
+  "intro": "Imogen and Darsh tour a toy factory and see hundreds of toys on the moving belts.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Round to the nearest 100. Match each number to its clue.",
+    "items": [
+     {
+      "left": "287",
+      "right": "odd, rounds to 300"
+     },
+     {
+      "left": "312",
+      "right": "even, rounds to 300"
+     },
+     {
+      "left": "351",
+      "right": "odd, rounds to 400"
+     },
+     {
+      "left": "248",
+      "right": "even, rounds to 200"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Round each number to the nearest 10. Then work it out.",
+    "items": [
+     {
+      "q": "32 + 49 is about ___.",
+      "a": "80"
+     },
+     {
+      "q": "58 + 21 is about ___.",
+      "a": "80"
+     },
+     {
+      "q": "67 − 28 is about ___.",
+      "a": "40"
+     },
+     {
+      "q": "45 + 44 is about ___.",
+      "a": "90"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct rounding.",
+    "items": [
+     {
+      "before": "498 to the nearest 10 is",
+      "options": [
+       "490",
+       "500",
+       "510"
+      ],
+      "after": "",
+      "a": "500"
+     },
+     {
+      "before": "498 to the nearest 100 is",
+      "options": [
+       "400",
+       "500",
+       "600"
+      ],
+      "after": "",
+      "a": "500"
+     },
+     {
+      "before": "755 to the nearest 100 is",
+      "options": [
+       "700",
+       "750",
+       "800"
+      ],
+      "after": "",
+      "a": "800"
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "499 rounds to 500 for the nearest 10 and for the nearest 100.",
+      "a": true
+     },
+     {
+      "q": "Every number from 150 to 249 rounds to 200 (nearest 100).",
+      "a": true
+     },
+     {
+      "q": "A number that rounds to 60 must be even.",
+      "a": false
+     },
+     {
+      "q": "1000 is an odd number.",
+      "a": false
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Solve the factory problems.",
+    "items": [
+     {
+      "q": "A robot needs 2 batteries. There are 135 batteries. After making pairs, ___ battery is left over.",
+      "a": "1"
+     },
+     {
+      "q": "The factory packs 846 toys a day. To the nearest 100, that is ___.",
+      "a": "800"
+     },
+     {
+      "q": "Imogen counts 365 teddy bears. To the nearest 10, that is ___.",
+      "a": "370"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ }
+]

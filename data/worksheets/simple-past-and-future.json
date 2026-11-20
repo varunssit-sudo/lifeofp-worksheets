@@ -1,0 +1,2031 @@
+[
+ {
+  "id": "simple-past-and-future-01",
+  "topic": "simple-past-and-future",
+  "number": 1,
+  "level": "Starter",
+  "title": "The Art Class",
+  "intro": "Yesterday Mira's class made posters. Add ed or d to tell what happened.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the simple past. Add ed or d.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "paint",
+      "a": "painted"
+     },
+     {
+      "q": "colour",
+      "a": "coloured"
+     },
+     {
+      "q": "mix",
+      "a": "mixed"
+     },
+     {
+      "q": "wash",
+      "a": "washed"
+     },
+     {
+      "q": "smile",
+      "a": "smiled"
+     },
+     {
+      "q": "use",
+      "a": "used"
+     },
+     {
+      "q": "trace",
+      "a": "traced"
+     },
+     {
+      "q": "clean",
+      "a": "cleaned"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the simple past of the verb in brackets.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "Yesterday we ___ a big poster. (paint)",
+      "a": "painted"
+     },
+     {
+      "q": "Mira ___ blue and yellow to make green. (mix)",
+      "a": "mixed"
+     },
+     {
+      "q": "I ___ my brushes in the sink. (wash)",
+      "a": "washed"
+     },
+     {
+      "q": "The teacher ___ at my drawing. (smile)",
+      "a": "smiled"
+     },
+     {
+      "q": "We ___ glue to stick the paper stars. (use)",
+      "a": "used"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the verbs. What do we add for the past?",
+    "marks": 8,
+    "groups": [
+     "Add ed",
+     "Add only d"
+    ],
+    "words": [
+     "jump",
+     "help",
+     "close",
+     "look",
+     "bake",
+     "walk",
+     "dance",
+     "like"
+    ],
+    "a": {
+     "jump": "Add ed",
+     "help": "Add ed",
+     "close": "Add only d",
+     "look": "Add ed",
+     "bake": "Add only d",
+     "walk": "Add ed",
+     "dance": "Add only d",
+     "like": "Add only d"
+    }
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The simple past tells what already happened.",
+      "a": true
+     },
+     {
+      "q": "The past of smile is smileed.",
+      "a": false
+     },
+     {
+      "q": "The past of clean is cleaned.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about what you did in art class. Use two words that end in ed.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check that each action word is in the simple past."
+   }
+  ]
+ },
+ {
+  "id": "simple-past-and-future-02",
+  "topic": "simple-past-and-future",
+  "number": 2,
+  "level": "Starter",
+  "title": "The Football Match",
+  "intro": "Kian's team played a match last evening. Some verbs double a letter. Some change y to ied.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each verb to its simple past.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "stop",
+      "right": "stopped"
+     },
+     {
+      "left": "clap",
+      "right": "clapped"
+     },
+     {
+      "left": "carry",
+      "right": "carried"
+     },
+     {
+      "left": "cry",
+      "right": "cried"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right spelling.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The referee",
+      "options": [
+       "stoped",
+       "stopped"
+      ],
+      "after": "the game.",
+      "a": "stopped"
+     },
+     {
+      "before": "Kian",
+      "options": [
+       "tryed",
+       "tried"
+      ],
+      "after": "to score a goal.",
+      "a": "tried"
+     },
+     {
+      "before": "The fans",
+      "options": [
+       "clapped",
+       "claped"
+      ],
+      "after": "loudly.",
+      "a": "clapped"
+     },
+     {
+      "before": "We",
+      "options": [
+       "hurried",
+       "hurryed"
+      ],
+      "after": "back to our places.",
+      "a": "hurried"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the simple past of the verb in brackets.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The goalkeeper ___ the ball by mistake. (drop)",
+      "a": "dropped"
+     },
+     {
+      "q": "Coach ___ the cones to the field. (carry)",
+      "a": "carried"
+     },
+     {
+      "q": "Ravi ___ his friend after the goal. (hug)",
+      "a": "hugged"
+     },
+     {
+      "q": "The little boy ___ when his team lost. (cry)",
+      "a": "cried"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the verbs. How do we make the past?",
+    "marks": 8,
+    "groups": [
+     "Double the last letter",
+     "Change y to ied"
+    ],
+    "words": [
+     "skip",
+     "tidy",
+     "tap",
+     "copy",
+     "study",
+     "grab",
+     "plan",
+     "reply"
+    ],
+    "a": {
+     "skip": "Double the last letter",
+     "tidy": "Change y to ied",
+     "tap": "Double the last letter",
+     "copy": "Change y to ied",
+     "study": "Change y to ied",
+     "grab": "Double the last letter",
+     "plan": "Double the last letter",
+     "reply": "Change y to ied"
+    }
+   },
+   {
+    "type": "lines",
+    "title": "Write one sentence about a game you played. Use a word like stopped or tried.",
+    "marks": 2,
+    "lines": 1,
+    "a": "Answers will vary. Check that each action word is in the simple past."
+   }
+  ]
+ },
+ {
+  "id": "simple-past-and-future-03",
+  "topic": "simple-past-and-future",
+  "number": 3,
+  "level": "Starter",
+  "title": "The Music Concert",
+  "intro": "Last night Sofia's school had a concert. In these verbs, a vowel changes.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the simple past.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "sing",
+      "a": "sang"
+     },
+     {
+      "q": "ring",
+      "a": "rang"
+     },
+     {
+      "q": "drink",
+      "a": "drank"
+     },
+     {
+      "q": "run",
+      "a": "ran"
+     },
+     {
+      "q": "sit",
+      "a": "sat"
+     },
+     {
+      "q": "begin",
+      "a": "began"
+     },
+     {
+      "q": "swim",
+      "a": "swam"
+     },
+     {
+      "q": "come",
+      "a": "came"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the simple past of the verb in brackets.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "The choir ___ a welcome song. (sing)",
+      "a": "sang"
+     },
+     {
+      "q": "The bell ___ three times. (ring)",
+      "a": "rang"
+     },
+     {
+      "q": "The show ___ at six o'clock. (begin)",
+      "a": "began"
+     },
+     {
+      "q": "We ___ in the second row. (sit)",
+      "a": "sat"
+     },
+     {
+      "q": "Sofia ___ a prize for her flute solo. (win)",
+      "a": "won"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "I",
+      "options": [
+       "drinked",
+       "drank"
+      ],
+      "after": "lemonade in the break.",
+      "a": "drank"
+     },
+     {
+      "before": "Grandpa",
+      "options": [
+       "came",
+       "comed"
+      ],
+      "after": "to hear me play.",
+      "a": "came"
+     },
+     {
+      "before": "The drummer",
+      "options": [
+       "ran",
+       "runned"
+      ],
+      "after": "onto the stage.",
+      "a": "ran"
+     },
+     {
+      "before": "Miss Lobo",
+      "options": [
+       "gived",
+       "gave"
+      ],
+      "after": "us each a rose.",
+      "a": "gave"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Sing changes to sang in the past.",
+      "a": true
+     },
+     {
+      "q": "The past of drink is drinked.",
+      "a": false
+     },
+     {
+      "q": "Run becomes ran. Only one letter changes.",
+      "a": true
+     },
+     {
+      "q": "The past of sit is sitted.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about a show you watched. Use sang and began.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check that each action word is in the simple past."
+   }
+  ]
+ },
+ {
+  "id": "simple-past-and-future-04",
+  "topic": "simple-past-and-future",
+  "number": 4,
+  "level": "Starter",
+  "title": "Packing for the Hill Station",
+  "intro": "Tomorrow Joel's family will drive to Munnar. Use will + verb for the future.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in will and the verb in brackets.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Tomorrow I ___ my warm jacket. (pack)",
+      "a": "will pack"
+     },
+     {
+      "q": "Papa ___ the car. (drive)",
+      "a": "will drive"
+     },
+     {
+      "q": "We ___ at a hotel in Munnar. (stay)",
+      "a": "will stay"
+     },
+     {
+      "q": "My sister ___ lots of photos. (take)",
+      "a": "will take"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Will + verb tells about the future.",
+      "a": true
+     },
+     {
+      "q": "'We will went to the hills' is right.",
+      "a": false
+     },
+     {
+      "q": "After will, the verb does not change.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right words.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Next week we",
+      "options": [
+       "will visit",
+       "visited"
+      ],
+      "after": "a tea garden.",
+      "a": "will visit"
+     },
+     {
+      "before": "Tomorrow it",
+      "options": [
+       "rained",
+       "will rain"
+      ],
+      "after": "in the hills.",
+      "a": "will rain"
+     },
+     {
+      "before": "I",
+      "options": [
+       "will wear",
+       "wore"
+      ],
+      "after": "my boots on the trip next Sunday.",
+      "a": "will wear"
+     },
+     {
+      "before": "We",
+      "options": [
+       "saw",
+       "will see"
+      ],
+      "after": "waterfalls tomorrow.",
+      "a": "will see"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the time words. Past or future?",
+    "marks": 8,
+    "groups": [
+     "Past",
+     "Future"
+    ],
+    "words": [
+     "soon",
+     "yesterday",
+     "last week",
+     "last night",
+     "next week",
+     "tomorrow",
+     "two days ago",
+     "next year"
+    ],
+    "a": {
+     "soon": "Future",
+     "yesterday": "Past",
+     "last week": "Past",
+     "last night": "Past",
+     "next week": "Future",
+     "tomorrow": "Future",
+     "two days ago": "Past",
+     "next year": "Future"
+    }
+   },
+   {
+    "type": "lines",
+    "title": "Write two things you will do tomorrow. Use will.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check for will + verb."
+   }
+  ]
+ },
+ {
+  "id": "simple-past-and-future-05",
+  "topic": "simple-past-and-future",
+  "number": 5,
+  "level": "Practice",
+  "title": "The Weekend at the Mall",
+  "intro": "On Saturday Zain's family went to the mall. These verbs change the whole word.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the simple past.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "go",
+      "a": "went"
+     },
+     {
+      "q": "eat",
+      "a": "ate"
+     },
+     {
+      "q": "buy",
+      "a": "bought"
+     },
+     {
+      "q": "see",
+      "a": "saw"
+     },
+     {
+      "q": "take",
+      "a": "took"
+     },
+     {
+      "q": "make",
+      "a": "made"
+     },
+     {
+      "q": "find",
+      "a": "found"
+     },
+     {
+      "q": "have",
+      "a": "had"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the simple past of the verb in brackets.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "Aunty Rekha ___ her baby in a pram. (bring)",
+      "a": "brought"
+     },
+     {
+      "q": "I ___ the toy shop was closed. (think)",
+      "a": "thought"
+     },
+     {
+      "q": "Dev ___ a ball in the play zone. (catch)",
+      "a": "caught"
+     },
+     {
+      "q": "The guard ___ us the way to the cinema. (tell)",
+      "a": "told"
+     },
+     {
+      "q": "We ___ our shopping before lunch. (do)",
+      "a": "did"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Mama",
+      "options": [
+       "buyed",
+       "bought"
+      ],
+      "after": "a blue kurta.",
+      "a": "bought"
+     },
+     {
+      "before": "We",
+      "options": [
+       "goed",
+       "went"
+      ],
+      "after": "up the escalator.",
+      "a": "went"
+     },
+     {
+      "before": "I",
+      "options": [
+       "ate",
+       "eated"
+      ],
+      "after": "a chocolate waffle.",
+      "a": "ate"
+     },
+     {
+      "before": "Zain",
+      "options": [
+       "seed",
+       "saw"
+      ],
+      "after": "his teacher at the bookshop.",
+      "a": "saw"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each verb to its simple past.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "teach",
+      "right": "taught"
+     },
+     {
+      "left": "say",
+      "right": "said"
+     },
+     {
+      "left": "give",
+      "right": "gave"
+     },
+     {
+      "left": "write",
+      "right": "wrote"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about a place you went to. Use went and saw.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check that each action word is in the simple past."
+   }
+  ]
+ },
+ {
+  "id": "simple-past-and-future-06",
+  "topic": "simple-past-and-future",
+  "number": 6,
+  "level": "Practice",
+  "title": "The Library Hour",
+  "intro": "Yesterday was library day for Class 2. Some verbs do not change at all in the past.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The past of cut is cutted.",
+      "a": false
+     },
+     {
+      "q": "Put stays put in the past.",
+      "a": true
+     },
+     {
+      "q": "The past of hit is hitted.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the simple past of the verb in brackets.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Yesterday I ___ a book about whales. (read)",
+      "a": "read"
+     },
+     {
+      "q": "Naina ___ her bag on the rack. (put)",
+      "a": "put"
+     },
+     {
+      "q": "The librarian ___ the window because of the wind. (shut)",
+      "a": "shut"
+     },
+     {
+      "q": "We ___ paper strips to make bookmarks. (cut)",
+      "a": "cut"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the verbs. Do they change in the past?",
+    "marks": 8,
+    "groups": [
+     "Stays the same",
+     "Changes"
+    ],
+    "words": [
+     "hit",
+     "sing",
+     "play",
+     "shut",
+     "go",
+     "cut",
+     "eat",
+     "put"
+    ],
+    "a": {
+     "hit": "Stays the same",
+     "sing": "Changes",
+     "play": "Changes",
+     "shut": "Stays the same",
+     "go": "Changes",
+     "cut": "Stays the same",
+     "eat": "Changes",
+     "put": "Stays the same"
+    }
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Last week Omar",
+      "options": [
+       "hurt",
+       "hurted"
+      ],
+      "after": "his finger on a page.",
+      "a": "hurt"
+     },
+     {
+      "before": "Miss Rao",
+      "options": [
+       "letted",
+       "let"
+      ],
+      "after": "us choose two books.",
+      "a": "let"
+     },
+     {
+      "before": "I",
+      "options": [
+       "putted",
+       "put"
+      ],
+      "after": "the comic back on the shelf.",
+      "a": "put"
+     },
+     {
+      "before": "Leena",
+      "options": [
+       "set",
+       "setted"
+      ],
+      "after": "the timer for reading time.",
+      "a": "set"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the sentence in the simple past.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "Tia cuts the paper.",
+      "a": "Tia cut the paper."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "simple-past-and-future-07",
+  "topic": "simple-past-and-future",
+  "number": 7,
+  "level": "Practice",
+  "title": "The Birthday Sleepover",
+  "intro": "Last Friday Aarav had a sleepover for his birthday. Use all four kinds of past verbs.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the verbs. How do they change in the past?",
+    "marks": 6,
+    "groups": [
+     "Add ed or d",
+     "Vowel changes",
+     "Whole word changes",
+     "No change"
+    ],
+    "words": [
+     "giggle",
+     "tell",
+     "bring",
+     "shut",
+     "let",
+     "open",
+     "put",
+     "begin",
+     "drink",
+     "eat",
+     "watch",
+     "sing"
+    ],
+    "a": {
+     "giggle": "Add ed or d",
+     "tell": "Whole word changes",
+     "bring": "Whole word changes",
+     "shut": "No change",
+     "let": "No change",
+     "open": "Add ed or d",
+     "put": "No change",
+     "begin": "Vowel changes",
+     "drink": "Vowel changes",
+     "eat": "Whole word changes",
+     "watch": "Add ed or d",
+     "sing": "Vowel changes"
+    }
+   },
+   {
+    "type": "pairs",
+    "title": "Write the simple past.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "hide",
+      "a": "hid"
+     },
+     {
+      "q": "sleep",
+      "a": "slept"
+     },
+     {
+      "q": "feed",
+      "a": "fed"
+     },
+     {
+      "q": "keep",
+      "a": "kept"
+     },
+     {
+      "q": "open",
+      "a": "opened"
+     },
+     {
+      "q": "hug",
+      "a": "hugged"
+     },
+     {
+      "q": "hurry",
+      "a": "hurried"
+     },
+     {
+      "q": "set",
+      "a": "set"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the simple past of the verb in brackets.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "Aarav ___ out the candles. (blow)",
+      "a": "blew"
+     },
+     {
+      "q": "We ___ a film in our sleeping bags. (watch)",
+      "a": "watched"
+     },
+     {
+      "q": "Jia ___ a funny ghost story. (tell)",
+      "a": "told"
+     },
+     {
+      "q": "Mum ___ the lights off at ten. (put)",
+      "a": "put"
+     },
+     {
+      "q": "We ___ up late the next morning. (wake)",
+      "a": "woke"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "We",
+      "options": [
+       "singed",
+       "sang"
+      ],
+      "after": "the birthday song.",
+      "a": "sang"
+     },
+     {
+      "before": "Yuto",
+      "options": [
+       "brought",
+       "bringed"
+      ],
+      "after": "a board game.",
+      "a": "brought"
+     },
+     {
+      "before": "I",
+      "options": [
+       "drank",
+       "drinked"
+      ],
+      "after": "warm milk.",
+      "a": "drank"
+     },
+     {
+      "before": "Nobody",
+      "options": [
+       "shutted",
+       "shut"
+      ],
+      "after": "the door.",
+      "a": "shut"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about a party you went to. Use two past tense verbs.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check that each action word is in the simple past."
+   }
+  ]
+ },
+ {
+  "id": "simple-past-and-future-08",
+  "topic": "simple-past-and-future",
+  "number": 8,
+  "level": "Practice",
+  "title": "Next Week's School Fair",
+  "intro": "The school fair is next Friday. Tell what everyone will do.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the future. Use will.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "sell",
+      "a": "will sell"
+     },
+     {
+      "q": "bake",
+      "a": "will bake"
+     },
+     {
+      "q": "sing",
+      "a": "will sing"
+     },
+     {
+      "q": "come",
+      "a": "will come"
+     },
+     {
+      "q": "buy",
+      "a": "will buy"
+     },
+     {
+      "q": "win",
+      "a": "will win"
+     },
+     {
+      "q": "make",
+      "a": "will make"
+     },
+     {
+      "q": "help",
+      "a": "will help"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in will and the verb in brackets.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "Next Friday our class ___ a lemonade stall. (run)",
+      "a": "will run"
+     },
+     {
+      "q": "Parents ___ at ten o'clock. (arrive)",
+      "a": "will arrive"
+     },
+     {
+      "q": "I ___ tickets at the gate. (give)",
+      "a": "will give"
+     },
+     {
+      "q": "The band ___ in the evening. (play)",
+      "a": "will play"
+     },
+     {
+      "q": "We ___ the hall tomorrow. (decorate)",
+      "a": "will decorate"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right time words.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "We will hang the flags",
+      "options": [
+       "tomorrow",
+       "yesterday"
+      ],
+      "after": ".",
+      "a": "tomorrow"
+     },
+     {
+      "before": "",
+      "options": [
+       "Last week",
+       "Next week"
+      ],
+      "after": "the fair will open.",
+      "a": "Next week"
+     },
+     {
+      "before": "Class 2 will dance",
+      "options": [
+       "last night",
+       "tomorrow evening"
+      ],
+      "after": ".",
+      "a": "tomorrow evening"
+     },
+     {
+      "before": "The principal will give prizes",
+      "options": [
+       "next Friday",
+       "last Friday"
+      ],
+      "after": ".",
+      "a": "next Friday"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Is the sentence right? Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "We will sells cakes.",
+      "a": false
+     },
+     {
+      "q": "Yusuf will bring his drum.",
+      "a": true
+     },
+     {
+      "q": "She will danced tomorrow.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two things you will do at a school fair.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check for will + verb."
+   }
+  ]
+ },
+ {
+  "id": "simple-past-and-future-09",
+  "topic": "simple-past-and-future",
+  "number": 9,
+  "level": "Practice",
+  "title": "The Ferry to Elephanta Caves",
+  "intro": "Last Sunday Tanvi's family took a ferry from Mumbai to the caves.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in the simple past of the verb in brackets.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "Last Sunday we ___ a ferry from the Gateway of India. (take)",
+      "a": "took"
+     },
+     {
+      "q": "The boat ___ up and down on the waves. (rock)",
+      "a": "rocked"
+     },
+     {
+      "q": "Seagulls ___ beside us. (fly)",
+      "a": "flew"
+     },
+     {
+      "q": "We ___ up one hundred and twenty steps. (climb)",
+      "a": "climbed"
+     },
+     {
+      "q": "A monkey ___ my brother's corn! (grab)",
+      "a": "grabbed"
+     },
+     {
+      "q": "I ___ my cap on because of the sun. (put)",
+      "a": "put"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each verb to its simple past.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "fly",
+      "right": "flew"
+     },
+     {
+      "left": "ride",
+      "right": "rode"
+     },
+     {
+      "left": "stand",
+      "right": "stood"
+     },
+     {
+      "left": "hold",
+      "right": "held"
+     },
+     {
+      "left": "leave",
+      "right": "left"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right time words.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "We reached the island",
+      "options": [
+       "yesterday",
+       "tomorrow"
+      ],
+      "after": "at noon.",
+      "a": "yesterday"
+     },
+     {
+      "before": "",
+      "options": [
+       "Last night",
+       "Next week"
+      ],
+      "after": "I wrote about the trip.",
+      "a": "Last night"
+     },
+     {
+      "before": "The ferry left",
+      "options": [
+       "two hours ago",
+       "tomorrow"
+      ],
+      "after": ".",
+      "a": "two hours ago"
+     },
+     {
+      "before": "It rained",
+      "options": [
+       "next Monday",
+       "last Monday"
+      ],
+      "after": ".",
+      "a": "last Monday"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Change each sentence to the simple past.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "The guide tells us about the old statues.",
+      "a": "The guide told us about the old statues."
+     },
+     {
+      "q": "We carry water bottles.",
+      "a": "We carried water bottles."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "simple-past-and-future-10",
+  "topic": "simple-past-and-future",
+  "number": 10,
+  "level": "Practice",
+  "title": "The New Puppy",
+  "intro": "Chloe's family has a new puppy called Biscuit. Look at the time words to choose past or future.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the right words.",
+    "marks": 5,
+    "items": [
+     {
+      "before": "Yesterday the puppy",
+      "options": [
+       "chewed",
+       "will chew"
+      ],
+      "after": "my slipper.",
+      "a": "chewed"
+     },
+     {
+      "before": "Tomorrow we",
+      "options": [
+       "took",
+       "will take"
+      ],
+      "after": "him to the vet.",
+      "a": "will take"
+     },
+     {
+      "before": "Last night he",
+      "options": [
+       "slept",
+       "will sleep"
+      ],
+      "after": "in a basket.",
+      "a": "slept"
+     },
+     {
+      "before": "Next week I",
+      "options": [
+       "taught",
+       "will teach"
+      ],
+      "after": "him to sit.",
+      "a": "will teach"
+     },
+     {
+      "before": "Two days ago he",
+      "options": [
+       "ran",
+       "will run"
+      ],
+      "after": "after a crow.",
+      "a": "ran"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Write the simple past.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "chew",
+      "a": "chewed"
+     },
+     {
+      "q": "wag",
+      "a": "wagged"
+     },
+     {
+      "q": "bite",
+      "a": "bit"
+     },
+     {
+      "q": "dig",
+      "a": "dug"
+     },
+     {
+      "q": "shake",
+      "a": "shook"
+     },
+     {
+      "q": "lick",
+      "a": "licked"
+     },
+     {
+      "q": "bury",
+      "a": "buried"
+     },
+     {
+      "q": "throw",
+      "a": "threw"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in will and the verb in brackets.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Soon the puppy ___ bigger. (grow)",
+      "a": "will grow"
+     },
+     {
+      "q": "Tomorrow I ___ him a red collar. (buy)",
+      "a": "will buy"
+     },
+     {
+      "q": "Next month he ___ to fetch. (learn)",
+      "a": "will learn"
+     },
+     {
+      "q": "Tonight he ___ near my bed. (sleep)",
+      "a": "will sleep"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Change each sentence to the future. Use will.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "The puppy drank his milk.",
+      "a": "The puppy will drink his milk."
+     },
+     {
+      "q": "We walked to the park.",
+      "a": "We will walk to the park."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write one thing a pet did yesterday and one thing it will do tomorrow.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. Yesterday my cat slept on the sofa. Tomorrow she will play with a ball."
+   }
+  ]
+ },
+ {
+  "id": "simple-past-and-future-11",
+  "topic": "simple-past-and-future",
+  "number": 11,
+  "level": "Challenge",
+  "title": "The Cooking Competition",
+  "intro": "Class 2 had a cooking contest yesterday. The final is tomorrow. Choose the tense with care.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in the past or the future of the verb in brackets.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "Yesterday the chef ___ us how to fold samosas. (show)",
+      "a": "showed"
+     },
+     {
+      "q": "Tomorrow each team ___ a salad. (make)",
+      "a": "will make"
+     },
+     {
+      "q": "Last week Kenji ___ the first prize. (win)",
+      "a": "won"
+     },
+     {
+      "q": "Next Saturday the winners ___ for the whole school. (cook)",
+      "a": "will cook"
+     },
+     {
+      "q": "An hour ago I ___ the onions. (chop)",
+      "a": "chopped"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the past to the future.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "ate",
+      "right": "will eat"
+     },
+     {
+      "left": "stirred",
+      "right": "will stir"
+     },
+     {
+      "left": "froze",
+      "right": "will freeze"
+     },
+     {
+      "left": "chose",
+      "right": "will choose"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Is the sentence right? Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Tomorrow we baked a cake.",
+      "a": false
+     },
+     {
+      "q": "Last night Mum fried pooris.",
+      "a": true
+     },
+     {
+      "q": "I will stirred the soup.",
+      "a": false
+     },
+     {
+      "q": "The cake will rise in the oven.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Change each sentence to the future.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "The judges tasted every dish.",
+      "a": "The judges will taste every dish."
+     },
+     {
+      "q": "Ananya made a mango pudding.",
+      "a": "Ananya will make a mango pudding."
+     },
+     {
+      "q": "We wore white aprons.",
+      "a": "We will wear white aprons."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "simple-past-and-future-12",
+  "topic": "simple-past-and-future",
+  "number": 12,
+  "level": "Challenge",
+  "title": "The Space Camp",
+  "intro": "Rhea is at a space camp this week. Say what will and will not happen.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the short form.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "will not",
+      "a": "won't"
+     },
+     {
+      "q": "I will",
+      "a": "I'll"
+     },
+     {
+      "q": "we will",
+      "a": "we'll"
+     },
+     {
+      "q": "she will",
+      "a": "she'll"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in will or will not.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "Astronauts float in space. They ___ walk like us.",
+      "a": "will not / won't"
+     },
+     {
+      "q": "The rocket is ready. It ___ take off soon.",
+      "a": "will"
+     },
+     {
+      "q": "The sun is too hot. People ___ ever land on it.",
+      "a": "will not / won't"
+     },
+     {
+      "q": "I love stars. I ___ look through the telescope tonight.",
+      "a": "will"
+     },
+     {
+      "q": "The camp ends on Friday. We ___ be here on Saturday.",
+      "a": "will not / won't"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Follow the instruction in brackets.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "We will build a model rocket. (make it negative)",
+      "a": "We will not build a model rocket."
+     },
+     {
+      "q": "Rhea will wear a space suit. (make a question)",
+      "a": "Will Rhea wear a space suit?"
+     },
+     {
+      "q": "The class visited the planet room. (change to the future)",
+      "a": "The class will visit the planet room."
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right words.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "",
+      "options": [
+       "Will",
+       "Did"
+      ],
+      "after": "you come to camp next year?",
+      "a": "Will"
+     },
+     {
+      "before": "We",
+      "options": [
+       "will not",
+       "were not"
+      ],
+      "after": "sleep late tomorrow.",
+      "a": "will not"
+     },
+     {
+      "before": "Yesterday we",
+      "options": [
+       "will see",
+       "saw"
+      ],
+      "after": "a film about Mars.",
+      "a": "saw"
+     },
+     {
+      "before": "Next time I",
+      "options": [
+       "bring",
+       "will bring"
+      ],
+      "after": "my own binoculars.",
+      "a": "will bring"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write one thing you will not do tomorrow.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. I will not wake up late tomorrow."
+   }
+  ]
+ },
+ {
+  "id": "simple-past-and-future-13",
+  "topic": "simple-past-and-future",
+  "number": 13,
+  "level": "Challenge",
+  "title": "The Treasure Hunt in the Park",
+  "intro": "Maya's friends had a treasure hunt on Saturday. Watch out for tricky past forms.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the simple past.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "draw",
+      "a": "drew"
+     },
+     {
+      "q": "know",
+      "a": "knew"
+     },
+     {
+      "q": "fall",
+      "a": "fell"
+     },
+     {
+      "q": "break",
+      "a": "broke"
+     },
+     {
+      "q": "speak",
+      "a": "spoke"
+     },
+     {
+      "q": "forget",
+      "a": "forgot"
+     },
+     {
+      "q": "build",
+      "a": "built"
+     },
+     {
+      "q": "spread",
+      "a": "spread"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the verb. Use the simple past for 1 to 4 and the future for 5.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "Leo ___ the map on the grass. (spread)",
+      "a": "spread"
+     },
+     {
+      "q": "Then I ___ where the last clue was. (know)",
+      "a": "knew"
+     },
+     {
+      "q": "The box ___ out of the tree. (fall)",
+      "a": "fell"
+     },
+     {
+      "q": "We ___ a secret word to open it. (speak)",
+      "a": "spoke"
+     },
+     {
+      "q": "Next time I ___ the clues myself. (write)",
+      "a": "will write"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Maya",
+      "options": [
+       "drawed",
+       "drew"
+      ],
+      "after": "an arrow on the path.",
+      "a": "drew"
+     },
+     {
+      "before": "Nobody",
+      "options": [
+       "forgot",
+       "forgetted"
+      ],
+      "after": "the rules.",
+      "a": "forgot"
+     },
+     {
+      "before": "The twins",
+      "options": [
+       "builded",
+       "built"
+      ],
+      "after": "a tower of stones as a sign.",
+      "a": "built"
+     },
+     {
+      "before": "The lock",
+      "options": [
+       "broke",
+       "breaked"
+      ],
+      "after": "when we pulled it.",
+      "a": "broke"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Each sentence has wrong verbs. Write it correctly.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "We finded the first clue and runned to the pond.",
+      "a": "We found the first clue and ran to the pond."
+     },
+     {
+      "q": "Isha readed the map and cutted the string.",
+      "a": "Isha read the map and cut the string."
+     },
+     {
+      "q": "Tomorrow we will went on a new hunt.",
+      "a": "Tomorrow we will go on a new hunt."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "simple-past-and-future-14",
+  "topic": "simple-past-and-future",
+  "number": 14,
+  "level": "Challenge",
+  "title": "Lohri Bonfire Night",
+  "intro": "Last night Harleen's family lit a bonfire for Lohri. Next year they will do it again.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the verbs. Past or future?",
+    "marks": 8,
+    "groups": [
+     "Past",
+     "Future"
+    ],
+    "words": [
+     "will light",
+     "will throw",
+     "lit",
+     "threw",
+     "will dance",
+     "danced",
+     "will sing",
+     "sang"
+    ],
+    "a": {
+     "will light": "Future",
+     "will throw": "Future",
+     "lit": "Past",
+     "threw": "Past",
+     "will dance": "Future",
+     "danced": "Past",
+     "will sing": "Future",
+     "sang": "Past"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the past or the future of the verb in brackets.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Yesterday evening we ___ a big bonfire. (light)",
+      "a": "lit"
+     },
+     {
+      "q": "Last night everyone ___ popcorn and peanuts into the fire. (throw)",
+      "a": "threw"
+     },
+     {
+      "q": "Next year my cousins ___ from Canada. (come)",
+      "a": "will come"
+     },
+     {
+      "q": "Grandpa ___ the dhol until midnight yesterday. (beat)",
+      "a": "beat"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Change each sentence to the simple past.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "We will sit around the fire.",
+      "a": "We sat around the fire."
+     },
+     {
+      "q": "Bua will bring gajak for us.",
+      "a": "Bua brought gajak for us."
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Beat stays the same in the past.",
+      "a": true
+     },
+     {
+      "q": "'Next year we danced the bhangra' is right.",
+      "a": false
+     },
+     {
+      "q": "Will is used for things that already happened.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write one sentence about last night and one about tomorrow.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. Last night I read a story. Tomorrow I will go to school."
+   }
+  ]
+ },
+ {
+  "id": "simple-past-and-future-15",
+  "topic": "simple-past-and-future",
+  "number": 15,
+  "level": "Challenge",
+  "title": "My Diary: Yesterday and Tomorrow",
+  "intro": "Dear Diary! Nikolai writes what he did yesterday and what he will do tomorrow.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Change the past to the future.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "slept",
+      "a": "will sleep"
+     },
+     {
+      "q": "wrote",
+      "a": "will write"
+     },
+     {
+      "q": "rode",
+      "a": "will ride"
+     },
+     {
+      "q": "met",
+      "a": "will meet"
+     },
+     {
+      "q": "swept",
+      "a": "will sweep"
+     },
+     {
+      "q": "paid",
+      "a": "will pay"
+     },
+     {
+      "q": "studied",
+      "a": "will study"
+     },
+     {
+      "q": "shut",
+      "a": "will shut"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the past or the future of the verb in brackets.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "Yesterday I ___ up at six. (get)",
+      "a": "got"
+     },
+     {
+      "q": "I ___ my bicycle to the park yesterday. (ride)",
+      "a": "rode"
+     },
+     {
+      "q": "It ___ ₹20 to hire a helmet last week. (cost)",
+      "a": "cost"
+     },
+     {
+      "q": "Tomorrow I ___ my grandmother. (visit)",
+      "a": "will visit"
+     },
+     {
+      "q": "Tomorrow she ___ me how to knit. (teach)",
+      "a": "will teach"
+     },
+     {
+      "q": "Last night I ___ my homework before dinner. (finish)",
+      "a": "finished"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right words.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Two days ago I",
+      "options": [
+       "lose",
+       "lost"
+      ],
+      "after": "my pencil box.",
+      "a": "lost"
+     },
+     {
+      "before": "I",
+      "options": [
+       "find",
+       "found"
+      ],
+      "after": "it under the sofa last evening.",
+      "a": "found"
+     },
+     {
+      "before": "Next week our class",
+      "options": [
+       "will go",
+       "went"
+      ],
+      "after": "on a nature walk.",
+      "a": "will go"
+     },
+     {
+      "before": "Tomorrow I",
+      "options": [
+       "packed",
+       "will pack"
+      ],
+      "after": "my bag early.",
+      "a": "will pack"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Change Yesterday to Tomorrow. Write the sentence again.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Yesterday I fed the pigeons.",
+      "a": "Tomorrow I will feed the pigeons."
+     },
+     {
+      "q": "Yesterday we flew a kite.",
+      "a": "Tomorrow we will fly a kite."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a diary line about yesterday and one about tomorrow.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. Yesterday I played chess. Tomorrow I will bake a cake."
+   }
+  ]
+ }
+]

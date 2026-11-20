@@ -1,0 +1,2024 @@
+[
+ {
+  "id": "subtraction-words-and-column-method-01",
+  "topic": "subtraction-words-and-column-method",
+  "number": 1,
+  "level": "Starter",
+  "title": "The Class Sticker Chart",
+  "intro": "Class 2 wins stickers for good work. Learn the three special words of subtraction.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each word to its meaning.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "minuend",
+      "right": "the number we start with"
+     },
+     {
+      "left": "subtrahend",
+      "right": "the number we take away"
+     },
+     {
+      "left": "difference",
+      "right": "the answer"
+     },
+     {
+      "left": "minus",
+      "right": "the sign −"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Name the parts of each subtraction.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "In 58 − 23 = 35, the minuend is ___.",
+      "a": "58"
+     },
+     {
+      "q": "In 67 − 42 = 25, the subtrahend is ___.",
+      "a": "42"
+     },
+     {
+      "q": "In 89 − 36 = 53, the difference is ___.",
+      "a": "53"
+     },
+     {
+      "q": "In 45 − 14 = 31, the minuend is ___.",
+      "a": "45"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Subtract. Start with the ones.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "79",
+      "op": "-",
+      "bottom": "25",
+      "a": "54"
+     },
+     {
+      "top": "96",
+      "op": "-",
+      "bottom": "54",
+      "a": "42"
+     },
+     {
+      "top": "38",
+      "op": "-",
+      "bottom": "12",
+      "a": "26"
+     },
+     {
+      "top": "87",
+      "op": "-",
+      "bottom": "63",
+      "a": "24"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The answer of a subtraction is called the difference.",
+      "a": true
+     },
+     {
+      "q": "The minuend is the number we take away.",
+      "a": false
+     },
+     {
+      "q": "In 9 − 4 = 5, the subtrahend is 4.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the sticker problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Mei had 48 stickers. She gave away 16. ___ stickers are left.",
+      "a": "32"
+     },
+     {
+      "q": "Row A has 39 star stickers. Row B has 5 fewer. Row B has ___ star stickers.",
+      "a": "34"
+     },
+     {
+      "q": "There were 65 smiley stickers. 32 were used. ___ smiley stickers are left.",
+      "a": "33"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "subtraction-words-and-column-method-02",
+  "topic": "subtraction-words-and-column-method",
+  "number": 2,
+  "level": "Starter",
+  "title": "The Juice Stall at the School Fete",
+  "intro": "Arjun and Sofia sell juice at the school fete. Listen for the clue words that tell you to subtract.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the clue words.",
+    "marks": 8,
+    "groups": [
+     "Subtraction words",
+     "Addition words"
+    ],
+    "words": [
+     "take away",
+     "altogether",
+     "left",
+     "plus",
+     "fewer",
+     "in all",
+     "minus",
+     "total"
+    ],
+    "a": {
+     "take away": "Subtraction words",
+     "altogether": "Addition words",
+     "left": "Subtraction words",
+     "plus": "Addition words",
+     "fewer": "Subtraction words",
+     "in all": "Addition words",
+     "minus": "Subtraction words",
+     "total": "Addition words"
+    }
+   },
+   {
+    "type": "column",
+    "title": "Subtract in columns.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "95",
+      "op": "-",
+      "bottom": "42",
+      "a": "53"
+     },
+     {
+      "top": "68",
+      "op": "-",
+      "bottom": "35",
+      "a": "33"
+     },
+     {
+      "top": "77",
+      "op": "-",
+      "bottom": "50",
+      "a": "27"
+     },
+     {
+      "top": "49",
+      "op": "-",
+      "bottom": "26",
+      "a": "23"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The word 'left' tells us to",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "subtract"
+     },
+     {
+      "before": "The sign for minus is",
+      "options": [
+       "+",
+       "−"
+      ],
+      "after": ".",
+      "a": "−"
+     },
+     {
+      "before": "Fewer means a",
+      "options": [
+       "smaller",
+       "bigger"
+      ],
+      "after": "number.",
+      "a": "smaller"
+     },
+     {
+      "before": "When a number decreases, it gets",
+      "options": [
+       "smaller",
+       "bigger"
+      ],
+      "after": ".",
+      "a": "smaller"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Use the clue words.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "86 take away 31 is ___.",
+      "a": "55"
+     },
+     {
+      "q": "57 minus 24 is ___.",
+      "a": "33"
+     },
+     {
+      "q": "5 fewer than 39 is ___.",
+      "a": "34"
+     },
+     {
+      "q": "Decrease 98 by 60. You get ___.",
+      "a": "38"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a take-away story for 15 − 4. Use the word left.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. Sofia had 15 glasses of juice. She sold 4. 11 glasses are left."
+   }
+  ]
+ },
+ {
+  "id": "subtraction-words-and-column-method-03",
+  "topic": "subtraction-words-and-column-method",
+  "number": 3,
+  "level": "Starter",
+  "title": "Marbles at Break Time",
+  "intro": "Nikhil and Hana count marbles at break. Line the numbers up under H, T and O.",
+  "sections": [
+   {
+    "type": "column",
+    "title": "Subtract. Ones first, then tens, then hundreds.",
+    "marks": 6,
+    "items": [
+     {
+      "top": "368",
+      "op": "-",
+      "bottom": "125",
+      "a": "243"
+     },
+     {
+      "top": "547",
+      "op": "-",
+      "bottom": "213",
+      "a": "334"
+     },
+     {
+      "top": "879",
+      "op": "-",
+      "bottom": "436",
+      "a": "443"
+     },
+     {
+      "top": "695",
+      "op": "-",
+      "bottom": "302",
+      "a": "393"
+     },
+     {
+      "top": "486",
+      "op": "-",
+      "bottom": "54",
+      "a": "432"
+     },
+     {
+      "top": "759",
+      "op": "-",
+      "bottom": "38",
+      "a": "721"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the number.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "In 274 − 130 = 144, the subtrahend is ___.",
+      "a": "130"
+     },
+     {
+      "q": "In 590 − 80 = 510, the minuend is ___.",
+      "a": "590"
+     },
+     {
+      "q": "The minuend is 96. The subtrahend is 43. The difference is ___.",
+      "a": "53"
+     },
+     {
+      "q": "The minuend is 475. The subtrahend is 261. The difference is ___.",
+      "a": "214"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "We subtract the ones first, then the tens, then the hundreds.",
+      "a": true
+     },
+     {
+      "q": "In H T O, the letter T stands for tens.",
+      "a": true
+     },
+     {
+      "q": "The minuend is written on the bottom line of a column sum.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Check by adding.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "64 − 21 = 43. Check: 43 + 21 = ___",
+      "a": "64"
+     },
+     {
+      "q": "88 − 35 = 53. Check: 53 + 35 = ___",
+      "a": "88"
+     },
+     {
+      "q": "249 − 117 = 132. Check: 132 + 117 = ___",
+      "a": "249"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "subtraction-words-and-column-method-04",
+  "topic": "subtraction-words-and-column-method",
+  "number": 4,
+  "level": "Starter",
+  "title": "The Bird Park Visit",
+  "intro": "Class 2 visits the bird park. When the ones on top are too few, borrow a ten.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Do we need to borrow? Circle.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "63 − 28:",
+      "options": [
+       "borrow",
+       "no borrow"
+      ],
+      "after": "",
+      "a": "borrow"
+     },
+     {
+      "before": "85 − 41:",
+      "options": [
+       "borrow",
+       "no borrow"
+      ],
+      "after": "",
+      "a": "no borrow"
+     },
+     {
+      "before": "70 − 36:",
+      "options": [
+       "borrow",
+       "no borrow"
+      ],
+      "after": "",
+      "a": "borrow"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Subtract. Borrow a ten.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "63",
+      "op": "-",
+      "bottom": "28",
+      "a": "35"
+     },
+     {
+      "top": "70",
+      "op": "-",
+      "bottom": "36",
+      "a": "34"
+     },
+     {
+      "top": "52",
+      "op": "-",
+      "bottom": "19",
+      "a": "33"
+     },
+     {
+      "top": "81",
+      "op": "-",
+      "bottom": "45",
+      "a": "36"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the borrowing steps.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "In 52 − 19, we cannot take 9 from 2. We borrow 1 ten. Now we have ___ ones.",
+      "a": "12"
+     },
+     {
+      "q": "In 52 − 19, after borrowing, the 5 tens become ___ tens.",
+      "a": "4"
+     },
+     {
+      "q": "In 81 − 45, after borrowing we have ___ ones.",
+      "a": "11"
+     },
+     {
+      "q": "In 81 − 45, the 8 tens become ___ tens.",
+      "a": "7"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the words to the answer.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "34 take away 9",
+      "right": "25"
+     },
+     {
+      "left": "46 minus 18",
+      "right": "28"
+     },
+     {
+      "left": "7 fewer than 31",
+      "right": "24"
+     },
+     {
+      "left": "decrease 50 by 23",
+      "right": "27"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the bird park problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "There were 43 parrots on the tree. 17 flew away. ___ parrots are left.",
+      "a": "26"
+     },
+     {
+      "q": "The pond has 60 ducks and 38 swans. There are ___ fewer swans than ducks.",
+      "a": "22"
+     },
+     {
+      "q": "Rohan had 93 grains. He fed 57 to the pigeons. ___ grains are left.",
+      "a": "36"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "subtraction-words-and-column-method-05",
+  "topic": "subtraction-words-and-column-method",
+  "number": 5,
+  "level": "Practice",
+  "title": "The Fish Market in Kochi",
+  "intro": "Amma and Yusuf go to the fish market early in the morning. Subtract the hundreds, tens and ones.",
+  "sections": [
+   {
+    "type": "column",
+    "title": "Subtract. Borrow a ten where you need to.",
+    "marks": 8,
+    "items": [
+     {
+      "top": "472",
+      "op": "-",
+      "bottom": "138",
+      "a": "334"
+     },
+     {
+      "top": "653",
+      "op": "-",
+      "bottom": "229",
+      "a": "424"
+     },
+     {
+      "top": "581",
+      "op": "-",
+      "bottom": "347",
+      "a": "234"
+     },
+     {
+      "top": "790",
+      "op": "-",
+      "bottom": "457",
+      "a": "333"
+     },
+     {
+      "top": "364",
+      "op": "-",
+      "bottom": "145",
+      "a": "219"
+     },
+     {
+      "top": "895",
+      "op": "-",
+      "bottom": "678",
+      "a": "217"
+     },
+     {
+      "top": "246",
+      "op": "-",
+      "bottom": "119",
+      "a": "127"
+     },
+     {
+      "top": "932",
+      "op": "-",
+      "bottom": "714",
+      "a": "218"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the number.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The minuend is 340. The subtrahend is 125. The difference is ___.",
+      "a": "215"
+     },
+     {
+      "q": "The difference is 28. The subtrahend is 15. The minuend is ___.",
+      "a": "43"
+     },
+     {
+      "q": "In 561 − 237 = 324, the subtrahend is ___.",
+      "a": "237"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "83 − 47 = 36",
+      "a": true
+     },
+     {
+      "q": "250 − 126 = 134",
+      "a": false
+     },
+     {
+      "q": "To check 91 − 58 = 33, we add 33 and 58.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the market problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Amma had ₹350. She paid ₹128 for prawns. She has ₹ ___ left.",
+      "a": "222"
+     },
+     {
+      "q": "The boat brought 264 fish. 138 were sold by noon. ___ fish are left.",
+      "a": "126"
+     },
+     {
+      "q": "Stall A has 182 crabs. Stall B has 55 fewer. Stall B has ___ crabs.",
+      "a": "127"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Name the minuend, subtrahend and difference in 264 − 138 = 126.",
+    "marks": 2,
+    "lines": 1,
+    "a": "Minuend 264, subtrahend 138, difference 126."
+   }
+  ]
+ },
+ {
+  "id": "subtraction-words-and-column-method-06",
+  "topic": "subtraction-words-and-column-method",
+  "number": 6,
+  "level": "Practice",
+  "title": "The Family Picnic at the Beach Park",
+  "intro": "Dev and his cousins have a picnic at Al Mamzar Beach Park. Sometimes you must borrow from the hundreds.",
+  "sections": [
+   {
+    "type": "column",
+    "title": "Subtract. Borrow from the hundreds.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "428",
+      "op": "-",
+      "bottom": "165",
+      "a": "263"
+     },
+     {
+      "top": "739",
+      "op": "-",
+      "bottom": "284",
+      "a": "455"
+     },
+     {
+      "top": "617",
+      "op": "-",
+      "bottom": "352",
+      "a": "265"
+     },
+     {
+      "top": "509",
+      "op": "-",
+      "bottom": "243",
+      "a": "266"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Check by adding. Fill in the number.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "135 − 62 = 73. Check: 73 + 62 = ___",
+      "a": "135"
+     },
+     {
+      "q": "308 − 153 = 155. Check: 155 + ___ = 308",
+      "a": "153"
+     },
+     {
+      "q": "The difference is 45. The subtrahend is 38. The minuend is ___.",
+      "a": "83"
+     },
+     {
+      "q": "219 − 87 = 132. Check: ___ + 87 = 219",
+      "a": "132"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each story to its sum.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Dev had 12 grapes and ate 5.",
+      "right": "12 − 5"
+     },
+     {
+      "left": "There are 20 cups and 8 fewer plates.",
+      "right": "20 − 8"
+     },
+     {
+      "left": "The 15 kites decrease by 6.",
+      "right": "15 − 6"
+     },
+     {
+      "left": "30 shells minus 10 shells.",
+      "right": "30 − 10"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right answer.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "In 617 − 352, the minuend is",
+      "options": [
+       "617",
+       "352",
+       "265"
+      ],
+      "after": ".",
+      "a": "617"
+     },
+     {
+      "before": "The number we take away is called the",
+      "options": [
+       "minuend",
+       "subtrahend",
+       "difference"
+      ],
+      "after": ".",
+      "a": "subtrahend"
+     },
+     {
+      "before": "Difference + subtrahend =",
+      "options": [
+       "minuend",
+       "difference",
+       "zero"
+      ],
+      "after": "",
+      "a": "minuend"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the picnic problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The basket had 125 dates. The family ate 83. ___ dates are left.",
+      "a": "42"
+     },
+     {
+      "q": "Layla collected 316 shells. Omar collected 142 fewer. Omar collected ___ shells.",
+      "a": "174"
+     },
+     {
+      "q": "It is 450 steps to the water and 270 steps to the swings. The swings are ___ steps nearer.",
+      "a": "180"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "subtraction-words-and-column-method-07",
+  "topic": "subtraction-words-and-column-method",
+  "number": 7,
+  "level": "Practice",
+  "title": "The Post Office",
+  "intro": "Diya helps her uncle at the post office in Jaipur. These sums need borrowing two times.",
+  "sections": [
+   {
+    "type": "column",
+    "title": "Subtract. Borrow two times.",
+    "marks": 8,
+    "items": [
+     {
+      "top": "432",
+      "op": "-",
+      "bottom": "178",
+      "a": "254"
+     },
+     {
+      "top": "651",
+      "op": "-",
+      "bottom": "284",
+      "a": "367"
+     },
+     {
+      "top": "723",
+      "op": "-",
+      "bottom": "456",
+      "a": "267"
+     },
+     {
+      "top": "845",
+      "op": "-",
+      "bottom": "367",
+      "a": "478"
+     },
+     {
+      "top": "514",
+      "op": "-",
+      "bottom": "239",
+      "a": "275"
+     },
+     {
+      "top": "962",
+      "op": "-",
+      "bottom": "594",
+      "a": "368"
+     },
+     {
+      "top": "370",
+      "op": "-",
+      "bottom": "184",
+      "a": "186"
+     },
+     {
+      "top": "621",
+      "op": "-",
+      "bottom": "147",
+      "a": "474"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "In 432 − 178, we borrow two times.",
+      "a": true
+     },
+     {
+      "q": "In 586 − 243, we do not need to borrow.",
+      "a": true
+     },
+     {
+      "q": "In 651 − 284, the subtrahend is 651.",
+      "a": false
+     },
+     {
+      "q": "The difference can never be bigger than the minuend.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the post office problems.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The postman had 315 letters. He delivered 168. ___ letters are left.",
+      "a": "147"
+     },
+     {
+      "q": "A parcel costs ₹242 to send. A letter costs ₹57. The letter costs ₹ ___ less.",
+      "a": "185"
+     },
+     {
+      "q": "The post office had 530 envelopes. It sold 276. ___ envelopes are left.",
+      "a": "254"
+     },
+     {
+      "q": "On Monday 421 parcels came. On Tuesday the number decreased by 133. ___ parcels came on Tuesday.",
+      "a": "288"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Check 315 − 168 by adding. Write the addition sum.",
+    "marks": 2,
+    "lines": 1,
+    "a": "147 + 168 = 315"
+   }
+  ]
+ },
+ {
+  "id": "subtraction-words-and-column-method-08",
+  "topic": "subtraction-words-and-column-method",
+  "number": 8,
+  "level": "Practice",
+  "title": "The Flower Market in Bengaluru",
+  "intro": "Sam visits the flower market with his grandmother before sunrise. Find each difference.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Find the difference.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "54 − 26",
+      "a": "28"
+     },
+     {
+      "q": "73 − 35",
+      "a": "38"
+     },
+     {
+      "q": "90 − 64",
+      "a": "26"
+     },
+     {
+      "q": "41 − 17",
+      "a": "24"
+     },
+     {
+      "q": "66 − 49",
+      "a": "17"
+     },
+     {
+      "q": "82 − 8",
+      "a": "74"
+     },
+     {
+      "q": "35 − 16",
+      "a": "19"
+     },
+     {
+      "q": "95 − 58",
+      "a": "37"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the numbers in 97 − 41 = 56 and 78 − 30 = 48.",
+    "marks": 6,
+    "groups": [
+     "Minuend",
+     "Subtrahend",
+     "Difference"
+    ],
+    "words": [
+     "97",
+     "41",
+     "56",
+     "78",
+     "30",
+     "48"
+    ],
+    "a": {
+     "97": "Minuend",
+     "41": "Subtrahend",
+     "56": "Difference",
+     "78": "Minuend",
+     "30": "Subtrahend",
+     "48": "Difference"
+    }
+   },
+   {
+    "type": "column",
+    "title": "Subtract in columns.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "384",
+      "op": "-",
+      "bottom": "159",
+      "a": "225"
+     },
+     {
+      "top": "705",
+      "op": "-",
+      "bottom": "361",
+      "a": "344"
+     },
+     {
+      "top": "836",
+      "op": "-",
+      "bottom": "478",
+      "a": "358"
+     },
+     {
+      "top": "290",
+      "op": "-",
+      "bottom": "137",
+      "a": "153"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right answer.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "She sold 20 roses, so the number of roses",
+      "options": [
+       "increased",
+       "decreased"
+      ],
+      "after": ".",
+      "a": "decreased"
+     },
+     {
+      "before": "12 fewer lilies means we",
+      "options": [
+       "add 12",
+       "subtract 12"
+      ],
+      "after": ".",
+      "a": "subtract 12"
+     },
+     {
+      "before": "45 minus 9 is written as",
+      "options": [
+       "45 − 9",
+       "9 − 45",
+       "45 + 9"
+      ],
+      "after": ".",
+      "a": "45 − 9"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the flower problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The stall had 465 marigolds. 278 were sold for a wedding. ___ marigolds are left.",
+      "a": "187"
+     },
+     {
+      "q": "There were 132 jasmine strings in the morning and 74 fewer in the evening. There were ___ in the evening.",
+      "a": "58"
+     },
+     {
+      "q": "Sam had ₹150. A bunch of roses costs ₹95. He gets ₹ ___ back.",
+      "a": "55"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "subtraction-words-and-column-method-09",
+  "topic": "subtraction-words-and-column-method",
+  "number": 9,
+  "level": "Practice",
+  "title": "The Aquarium Visit",
+  "intro": "Noor and Ben visit the aquarium at the mall. Subtract first, then check each answer by adding.",
+  "sections": [
+   {
+    "type": "column",
+    "title": "Subtract.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "673",
+      "op": "-",
+      "bottom": "289",
+      "a": "384"
+     },
+     {
+      "top": "541",
+      "op": "-",
+      "bottom": "76",
+      "a": "465"
+     },
+     {
+      "top": "320",
+      "op": "-",
+      "bottom": "145",
+      "a": "175"
+     },
+     {
+      "top": "908",
+      "op": "-",
+      "bottom": "463",
+      "a": "445"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Now check. Add the difference and the subtrahend.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "384",
+      "op": "+",
+      "bottom": "289",
+      "a": "673"
+     },
+     {
+      "top": "465",
+      "op": "+",
+      "bottom": "76",
+      "a": "541"
+     },
+     {
+      "top": "175",
+      "op": "+",
+      "bottom": "145",
+      "a": "320"
+     },
+     {
+      "top": "445",
+      "op": "+",
+      "bottom": "463",
+      "a": "908"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Is the answer right? Check by adding.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "92 − 47 = 45",
+      "a": true
+     },
+     {
+      "q": "361 − 128 = 243",
+      "a": false
+     },
+     {
+      "q": "500 − 250 = 250",
+      "a": true
+     },
+     {
+      "q": "714 − 306 = 418",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the number.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The difference is 126. The subtrahend is 58. The minuend is ___.",
+      "a": "184"
+     },
+     {
+      "q": "If 83 − 29 = 54, then 54 + 29 = ___.",
+      "a": "83"
+     },
+     {
+      "q": "If 245 + 137 = 382, then 382 − 137 = ___.",
+      "a": "245"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the aquarium problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The big tank has 235 fish. 68 are clownfish. ___ are not clownfish.",
+      "a": "167"
+     },
+     {
+      "q": "There were 152 visitors in the morning and 85 fewer in the afternoon. There were ___ in the afternoon.",
+      "a": "67"
+     },
+     {
+      "q": "A ticket for a grown-up costs ₹180. A ticket for a child costs ₹95 less. The child ticket costs ₹ ___.",
+      "a": "85"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "subtraction-words-and-column-method-10",
+  "topic": "subtraction-words-and-column-method",
+  "number": 10,
+  "level": "Practice",
+  "title": "The Apartment Car Park",
+  "intro": "Farah counts cars and cycles in the car park below her flat. Use all three subtraction words.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in the number.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The minuend is 432. The subtrahend is 215. The difference is ___.",
+      "a": "217"
+     },
+     {
+      "q": "The difference is 30. The subtrahend is 46. The minuend is ___.",
+      "a": "76"
+     },
+     {
+      "q": "The minuend is 95. The difference is 60. The subtrahend is ___.",
+      "a": "35"
+     },
+     {
+      "q": "In 654 − 327 = 327, the minuend is ___.",
+      "a": "654"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Subtract in columns.",
+    "marks": 8,
+    "items": [
+     {
+      "top": "91",
+      "op": "-",
+      "bottom": "57",
+      "a": "34"
+     },
+     {
+      "top": "80",
+      "op": "-",
+      "bottom": "43",
+      "a": "37"
+     },
+     {
+      "top": "356",
+      "op": "-",
+      "bottom": "129",
+      "a": "227"
+     },
+     {
+      "top": "648",
+      "op": "-",
+      "bottom": "275",
+      "a": "373"
+     },
+     {
+      "top": "913",
+      "op": "-",
+      "bottom": "548",
+      "a": "365"
+     },
+     {
+      "top": "467",
+      "op": "-",
+      "bottom": "398",
+      "a": "69"
+     },
+     {
+      "top": "752",
+      "op": "-",
+      "bottom": "86",
+      "a": "666"
+     },
+     {
+      "top": "230",
+      "op": "-",
+      "bottom": "114",
+      "a": "116"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the words to the answer.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "take away 25 from 61",
+      "right": "36"
+     },
+     {
+      "left": "the difference of 90 and 45",
+      "right": "45"
+     },
+     {
+      "left": "19 fewer than 73",
+      "right": "54"
+     },
+     {
+      "left": "decrease 120 by 35",
+      "right": "85"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the car park problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The car park has 240 spaces. 156 are full. ___ spaces are empty.",
+      "a": "84"
+     },
+     {
+      "q": "Tower A has 118 cars. Tower B has 79 cars. Tower B has ___ fewer cars.",
+      "a": "39"
+     },
+     {
+      "q": "There were 65 cycles in the stand. 28 were taken out. ___ cycles are left.",
+      "a": "37"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "subtraction-words-and-column-method-11",
+  "topic": "subtraction-words-and-column-method",
+  "number": 11,
+  "level": "Challenge",
+  "title": "The Flight to Mumbai",
+  "intro": "Pari flies from Dubai to Mumbai to see her grandparents. The numbers have zeros, so borrow carefully.",
+  "sections": [
+   {
+    "type": "column",
+    "title": "Subtract. Borrow across the zeros.",
+    "marks": 8,
+    "items": [
+     {
+      "top": "300",
+      "op": "-",
+      "bottom": "124",
+      "a": "176"
+     },
+     {
+      "top": "500",
+      "op": "-",
+      "bottom": "263",
+      "a": "237"
+     },
+     {
+      "top": "402",
+      "op": "-",
+      "bottom": "158",
+      "a": "244"
+     },
+     {
+      "top": "704",
+      "op": "-",
+      "bottom": "389",
+      "a": "315"
+     },
+     {
+      "top": "600",
+      "op": "-",
+      "bottom": "47",
+      "a": "553"
+     },
+     {
+      "top": "801",
+      "op": "-",
+      "bottom": "536",
+      "a": "265"
+     },
+     {
+      "top": "900",
+      "op": "-",
+      "bottom": "675",
+      "a": "225"
+     },
+     {
+      "top": "203",
+      "op": "-",
+      "bottom": "96",
+      "a": "107"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the number.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "400 is the same as 3 hundreds, ___ tens and 10 ones.",
+      "a": "9"
+     },
+     {
+      "q": "500 is the same as 4 hundreds, 9 tens and ___ ones.",
+      "a": "10"
+     },
+     {
+      "q": "To check 502 − 263 = 239, we add 239 and ___.",
+      "a": "263"
+     },
+     {
+      "q": "1 less than 700 is ___.",
+      "a": "699"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "200 − 99 = 101",
+      "a": true
+     },
+     {
+      "q": "600 − 302 = 398",
+      "a": false
+     },
+     {
+      "q": "When there are 0 tens, we borrow from the hundreds first.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the airport problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The plane has 300 seats. 187 are taken. ___ seats are empty.",
+      "a": "113"
+     },
+     {
+      "q": "The airport shop had 400 boxes of chocolates. It sold 256. ___ boxes are left.",
+      "a": "144"
+     },
+     {
+      "q": "The big plane carries 502 people. The small plane carries 348. The small plane carries ___ fewer people.",
+      "a": "154"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Reyansh wrote 400 − 156 = 356. What is the right answer? What did he forget?",
+    "marks": 2,
+    "lines": 1,
+    "a": "The right answer is 244. He forgot to borrow."
+   }
+  ]
+ },
+ {
+  "id": "subtraction-words-and-column-method-12",
+  "topic": "subtraction-words-and-column-method",
+  "number": 12,
+  "level": "Challenge",
+  "title": "The Date Farm in Al Ain",
+  "intro": "Omar visits a date farm in Al Ain. Some numbers are hiding, so use what you know to find them.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Find the missing number.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "___ − 34 = 52",
+      "a": "86"
+     },
+     {
+      "q": "75 − ___ = 48",
+      "a": "27"
+     },
+     {
+      "q": "___ − 126 = 243",
+      "a": "369"
+     },
+     {
+      "q": "510 − ___ = 325",
+      "a": "185"
+     },
+     {
+      "q": "___ − 289 = 164",
+      "a": "453"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Subtract. Borrow two times.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "824",
+      "op": "-",
+      "bottom": "359",
+      "a": "465"
+     },
+     {
+      "top": "613",
+      "op": "-",
+      "bottom": "247",
+      "a": "366"
+     },
+     {
+      "top": "950",
+      "op": "-",
+      "bottom": "483",
+      "a": "467"
+     },
+     {
+      "top": "731",
+      "op": "-",
+      "bottom": "644",
+      "a": "87"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "To find a missing minuend, we",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": "the difference and the subtrahend.",
+      "a": "add"
+     },
+     {
+      "before": "To find a missing subtrahend, we take the difference away from the",
+      "options": [
+       "minuend",
+       "answer"
+      ],
+      "after": ".",
+      "a": "minuend"
+     },
+     {
+      "before": "In ? − 20 = 30, the missing number is the",
+      "options": [
+       "minuend",
+       "subtrahend",
+       "difference"
+      ],
+      "after": ".",
+      "a": "minuend"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "If the difference is 0, the minuend and the subtrahend are the same.",
+      "a": true
+     },
+     {
+      "q": "Subtrahend + difference = minuend.",
+      "a": true
+     },
+     {
+      "q": "If we take away 0, the difference is 0.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the date farm problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "A palm had some dates. Workers picked 135. 248 are left. There were ___ dates at first.",
+      "a": "383"
+     },
+     {
+      "q": "The farm had 620 boxes. Some went to Dubai. 275 are left. ___ boxes went to Dubai.",
+      "a": "345"
+     },
+     {
+      "q": "Amna packed 304 boxes. Luca packed 86 fewer. Luca packed ___ boxes.",
+      "a": "218"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "subtraction-words-and-column-method-13",
+  "topic": "subtraction-words-and-column-method",
+  "number": 13,
+  "level": "Challenge",
+  "title": "The Onam Feast",
+  "intro": "Anaya helps count for the big Onam feast in Thrissur. Some answers on her list are wrong. Find them.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Is the answer right? Circle True or False.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "453 − 187 = 266",
+      "a": true
+     },
+     {
+      "q": "602 − 345 = 367",
+      "a": false
+     },
+     {
+      "q": "81 − 36 = 55",
+      "a": false
+     },
+     {
+      "q": "740 − 296 = 444",
+      "a": true
+     },
+     {
+      "q": "325 − 158 = 233",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Do the wrong sums the right way. Then try one more.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "602",
+      "op": "-",
+      "bottom": "345",
+      "a": "257"
+     },
+     {
+      "top": "81",
+      "op": "-",
+      "bottom": "36",
+      "a": "45"
+     },
+     {
+      "top": "325",
+      "op": "-",
+      "bottom": "158",
+      "a": "167"
+     },
+     {
+      "top": "517",
+      "op": "-",
+      "bottom": "269",
+      "a": "248"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each clue to the missing number.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Minuend 72, subtrahend 38. Find the difference.",
+      "right": "34"
+     },
+     {
+      "left": "Subtrahend 25, difference 40. Find the minuend.",
+      "right": "65"
+     },
+     {
+      "left": "Minuend 90, difference 55. Find the subtrahend.",
+      "right": "35"
+     },
+     {
+      "left": "Minuend 48, difference 0. Find the subtrahend.",
+      "right": "48"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the feast problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "There are 204 banana leaves. 126 are used for lunch. ___ leaves are left.",
+      "a": "78"
+     },
+     {
+      "q": "250 guests were invited. 37 could not come. ___ guests came.",
+      "a": "213"
+     },
+     {
+      "q": "The cooks made 415 cups of payasam. 368 were served. ___ cups are left.",
+      "a": "47"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Kiran says the subtrahend goes on top in a column sum. Is he right? Tell why.",
+    "marks": 2,
+    "lines": 1,
+    "a": "No. The minuend, the number we start with, goes on top. The subtrahend goes below it."
+   }
+  ]
+ },
+ {
+  "id": "subtraction-words-and-column-method-14",
+  "topic": "subtraction-words-and-column-method",
+  "number": 14,
+  "level": "Challenge",
+  "title": "The Stamp Collection",
+  "intro": "Luca and Zara collect stamps from many countries. Subtract step by step.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Subtract two times.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "86 − 20 − 14 = ___",
+      "a": "52"
+     },
+     {
+      "q": "340 − 115 − 108 = ___",
+      "a": "117"
+     },
+     {
+      "q": "700 − 250 − 175 = ___",
+      "a": "275"
+     },
+     {
+      "q": "925 − 400 − 268 = ___",
+      "a": "257"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Subtract in columns.",
+    "marks": 8,
+    "items": [
+     {
+      "top": "800",
+      "op": "-",
+      "bottom": "372",
+      "a": "428"
+     },
+     {
+      "top": "913",
+      "op": "-",
+      "bottom": "457",
+      "a": "456"
+     },
+     {
+      "top": "604",
+      "op": "-",
+      "bottom": "218",
+      "a": "386"
+     },
+     {
+      "top": "571",
+      "op": "-",
+      "bottom": "395",
+      "a": "176"
+     },
+     {
+      "top": "430",
+      "op": "-",
+      "bottom": "277",
+      "a": "153"
+     },
+     {
+      "top": "706",
+      "op": "-",
+      "bottom": "49",
+      "a": "657"
+     },
+     {
+      "top": "852",
+      "op": "-",
+      "bottom": "763",
+      "a": "89"
+     },
+     {
+      "top": "345",
+      "op": "-",
+      "bottom": "168",
+      "a": "177"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the sum that matches the story.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Luca had 320 stamps. He gave 45 to Ben and 60 to Mira. Stamps left:",
+      "options": [
+       "320 − 45 − 60",
+       "320 + 45 − 60",
+       "320 − 45 + 60"
+      ],
+      "after": "",
+      "a": "320 − 45 − 60"
+     },
+     {
+      "before": "Kiran has 150 stamps. Tom has 30 fewer. Tom has:",
+      "options": [
+       "150 + 30",
+       "150 − 30",
+       "30 − 150"
+      ],
+      "after": "",
+      "a": "150 − 30"
+     },
+     {
+      "before": "Noor's 200 stamps decrease by 75. Now she has:",
+      "options": [
+       "75 − 200",
+       "200 + 75",
+       "200 − 75"
+      ],
+      "after": "",
+      "a": "200 − 75"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the stamp problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Luca had 320 stamps. He gave 45 to Ben and 60 to Mira. He has ___ stamps left.",
+      "a": "215"
+     },
+     {
+      "q": "An album holds 600 stamps. Zara has 438 in it. ___ more stamps will fit.",
+      "a": "162"
+     },
+     {
+      "q": "Zara has 438 stamps. 179 are from India. ___ are from other countries.",
+      "a": "259"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a story sum for 300 − 125. Use the word fewer.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. Shop A has 300 stamps. Shop B has 125 fewer. Shop B has 175 stamps."
+   }
+  ]
+ },
+ {
+  "id": "subtraction-words-and-column-method-15",
+  "topic": "subtraction-words-and-column-method",
+  "number": 15,
+  "level": "Challenge",
+  "title": "The School Canteen Count",
+  "intro": "Hana is the canteen monitor this week. Show everything you know about subtraction.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Find the difference.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "100 − 37",
+      "a": "63"
+     },
+     {
+      "q": "200 − 85",
+      "a": "115"
+     },
+     {
+      "q": "150 − 76",
+      "a": "74"
+     },
+     {
+      "q": "301 − 99",
+      "a": "202"
+     },
+     {
+      "q": "90 − 54",
+      "a": "36"
+     },
+     {
+      "q": "410 − 205",
+      "a": "205"
+     },
+     {
+      "q": "123 − 45",
+      "a": "78"
+     },
+     {
+      "q": "260 − 131",
+      "a": "129"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the number.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The minuend is 503. The subtrahend is 276. The difference is ___.",
+      "a": "227"
+     },
+     {
+      "q": "The difference is 148. The subtrahend is 265. The minuend is ___.",
+      "a": "413"
+     },
+     {
+      "q": "The minuend is 720. The difference is 365. The subtrahend is ___.",
+      "a": "355"
+     },
+     {
+      "q": "The subtrahend and the difference are both 250. The minuend is ___.",
+      "a": "500"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Subtract in columns.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "900",
+      "op": "-",
+      "bottom": "458",
+      "a": "442"
+     },
+     {
+      "top": "635",
+      "op": "-",
+      "bottom": "479",
+      "a": "156"
+     },
+     {
+      "top": "724",
+      "op": "-",
+      "bottom": "86",
+      "a": "638"
+     },
+     {
+      "top": "407",
+      "op": "-",
+      "bottom": "239",
+      "a": "168"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Minuend − subtrahend = difference.",
+      "a": true
+     },
+     {
+      "q": "We can check 635 − 479 by adding 479 to the answer.",
+      "a": true
+     },
+     {
+      "q": "Take away, minus, fewer and left are all subtraction words.",
+      "a": true
+     },
+     {
+      "q": "In a column sum we start with the hundreds.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the canteen problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The canteen made 360 idlis. 284 were eaten. ___ idlis are left.",
+      "a": "76"
+     },
+     {
+      "q": "The canteen sold 225 samosas on Monday. On Tuesday the number decreased by 48. It sold ___ on Tuesday.",
+      "a": "177"
+     },
+     {
+      "q": "Hana had ₹500. Lunch for her team cost ₹365. She has ₹ ___ left.",
+      "a": "135"
+     }
+    ]
+   }
+  ]
+ }
+]

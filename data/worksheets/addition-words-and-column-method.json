@@ -1,0 +1,2072 @@
+[
+  {
+    "id": "addition-words-and-column-method-01",
+    "topic": "addition-words-and-column-method",
+    "number": 1,
+    "level": "Starter",
+    "title": "The Fruit Cart on Our Street",
+    "intro": "Raju Uncle sells fruit from his cart. Learn the words addend and sum as you add his fruit.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "In 12 + 5 = 17, the number 17 is the",
+            "options": [
+              "addend",
+              "sum"
+            ],
+            "after": ".",
+            "a": "sum"
+          },
+          {
+            "before": "In 12 + 5 = 17, the number 5 is an",
+            "options": [
+              "addend",
+              "answer"
+            ],
+            "after": ".",
+            "a": "addend"
+          },
+          {
+            "before": "The answer we get when we add is called the",
+            "options": [
+              "sum",
+              "addend"
+            ],
+            "after": ".",
+            "a": "sum"
+          },
+          {
+            "before": "The sign we use to add is",
+            "options": [
+              "+",
+              "−"
+            ],
+            "after": ".",
+            "a": "+"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add the ones first, then the tens.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "23",
+            "op": "+",
+            "bottom": "14",
+            "a": "37"
+          },
+          {
+            "top": "41",
+            "op": "+",
+            "bottom": "26",
+            "a": "67"
+          },
+          {
+            "top": "52",
+            "op": "+",
+            "bottom": "35",
+            "a": "87"
+          },
+          {
+            "top": "30",
+            "op": "+",
+            "bottom": "48",
+            "a": "78"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each sum to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "20 + 30",
+            "right": "50"
+          },
+          {
+            "left": "6 + 4",
+            "right": "10"
+          },
+          {
+            "left": "50 + 7",
+            "right": "57"
+          },
+          {
+            "left": "9 + 9",
+            "right": "18"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The numbers we add together are called addends.",
+            "a": true
+          },
+          {
+            "q": "The sum of 10 and 5 is 16.",
+            "a": false
+          },
+          {
+            "q": "In H T O, the letter T stands for tens.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the fruit cart problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The cart has 24 apples and 15 oranges. There are ___ fruits in all.",
+            "a": "39"
+          },
+          {
+            "q": "Raju Uncle sold 32 bananas before lunch and 27 after lunch. He sold ___ bananas altogether.",
+            "a": "59"
+          },
+          {
+            "q": "A box has 40 mangoes. Another box has 18 mangoes. The total is ___ mangoes.",
+            "a": "58"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-words-and-column-method-02",
+    "topic": "addition-words-and-column-method",
+    "number": 2,
+    "level": "Starter",
+    "title": "Counting Blocks in Maths Class",
+    "intro": "Ms Fernandes gives each table a tray of base-10 blocks. Use hundreds, tens and ones to build and add numbers.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the number the blocks show.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3 tens blocks and 4 ones blocks show the number ___.",
+            "a": "34"
+          },
+          {
+            "q": "1 hundreds block, 2 tens blocks and 5 ones blocks show the number ___.",
+            "a": "125"
+          },
+          {
+            "q": "5 tens blocks and 0 ones blocks show the number ___.",
+            "a": "50"
+          },
+          {
+            "q": "2 hundreds blocks, 0 tens blocks and 7 ones blocks show the number ___.",
+            "a": "207"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Add the blocks. Write the number of tens or ones.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "2 tens + 3 tens = ? tens",
+            "a": "5"
+          },
+          {
+            "q": "4 ones + 5 ones = ? ones",
+            "a": "9"
+          },
+          {
+            "q": "6 tens + 1 ten = ? tens",
+            "a": "7"
+          },
+          {
+            "q": "3 ones + 3 ones = ? ones",
+            "a": "6"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add in H T O columns.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "34",
+            "op": "+",
+            "bottom": "25",
+            "a": "59"
+          },
+          {
+            "top": "61",
+            "op": "+",
+            "bottom": "17",
+            "a": "78"
+          },
+          {
+            "top": "125",
+            "op": "+",
+            "bottom": "43",
+            "a": "168"
+          },
+          {
+            "top": "207",
+            "op": "+",
+            "bottom": "92",
+            "a": "299"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "10 ones blocks make 1",
+            "options": [
+              "ten",
+              "hundred"
+            ],
+            "after": ".",
+            "a": "ten"
+          },
+          {
+            "before": "10 tens blocks make 1",
+            "options": [
+              "ten",
+              "hundred"
+            ],
+            "after": ".",
+            "a": "hundred"
+          },
+          {
+            "before": "The number 46 has",
+            "options": [
+              "4 tens and 6 ones",
+              "6 tens and 4 ones"
+            ],
+            "after": ".",
+            "a": "4 tens and 6 ones"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the block problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Kabir has 13 ones blocks. Lina gives him 6 more. Now he has ___ ones blocks.",
+            "a": "19"
+          },
+          {
+            "q": "The red tray has 45 blocks and the blue tray has 32 blocks. There are ___ blocks in all.",
+            "a": "77"
+          },
+          {
+            "q": "Anaya builds 53 with blocks. She adds 2 more tens blocks. Her number is now ___.",
+            "a": "73"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-words-and-column-method-03",
+    "topic": "addition-words-and-column-method",
+    "number": 3,
+    "level": "Starter",
+    "title": "The Date Farm in Al Ain",
+    "intro": "Hamdan visits his uncle's date farm. Look for the words that tell you to add: plus, total, altogether and in all.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the words. Which ones tell us to add?",
+        "marks": 8,
+        "groups": [
+          "Tells us to add",
+          "Does not tell us to add"
+        ],
+        "words": [
+          "plus",
+          "left",
+          "total",
+          "altogether",
+          "take away",
+          "in all",
+          "minus",
+          "sum"
+        ],
+        "a": {
+          "plus": "Tells us to add",
+          "left": "Does not tell us to add",
+          "total": "Tells us to add",
+          "altogether": "Tells us to add",
+          "take away": "Does not tell us to add",
+          "in all": "Tells us to add",
+          "minus": "Does not tell us to add",
+          "sum": "Tells us to add"
+        }
+      },
+      {
+        "type": "column",
+        "title": "Add in H T O columns.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "142",
+            "op": "+",
+            "bottom": "35",
+            "a": "177"
+          },
+          {
+            "top": "310",
+            "op": "+",
+            "bottom": "264",
+            "a": "574"
+          },
+          {
+            "top": "53",
+            "op": "+",
+            "bottom": "44",
+            "a": "97"
+          },
+          {
+            "top": "407",
+            "op": "+",
+            "bottom": "61",
+            "a": "468"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the total on the date farm.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "21 plus 8 is ___.",
+            "a": "29"
+          },
+          {
+            "q": "One palm tree has 12 bunches and another has 14. Altogether there are ___ bunches.",
+            "a": "26"
+          },
+          {
+            "q": "Hamdan fills 26 baskets and his uncle fills 43. They fill ___ baskets in all.",
+            "a": "69"
+          },
+          {
+            "q": "The total of 150 dates and 30 dates is ___ dates.",
+            "a": "180"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The total of 30 and 40 is 70.",
+            "a": true
+          },
+          {
+            "q": "60 plus 28 is 98.",
+            "a": false
+          },
+          {
+            "q": "The word \"altogether\" tells us to add.",
+            "a": true
+          },
+          {
+            "q": "44 and 5 make 54 in all.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Add the tens in your head.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "40 + 20",
+            "a": "60"
+          },
+          {
+            "q": "30 + 50",
+            "a": "80"
+          },
+          {
+            "q": "60 + 30",
+            "a": "90"
+          },
+          {
+            "q": "10 + 80",
+            "a": "90"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-words-and-column-method-04",
+    "topic": "addition-words-and-column-method",
+    "number": 4,
+    "level": "Starter",
+    "title": "Kite Flying on Makar Sankranti",
+    "intro": "The sky over Ahmedabad is full of kites. When the ones make 10 or more, carry 1 ten to the tens column.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Follow the steps to add 27 + 15.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Add the ones: 7 + 5 = ___ ones.",
+            "a": "12"
+          },
+          {
+            "q": "12 ones = 1 ten and ___ ones.",
+            "a": "2"
+          },
+          {
+            "q": "Add the tens with the carry: 2 + 1 + 1 = ___ tens.",
+            "a": "4"
+          },
+          {
+            "q": "So 27 + 15 = ___.",
+            "a": "42"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add. Carry 1 ten each time.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "38",
+            "op": "+",
+            "bottom": "24",
+            "a": "62"
+          },
+          {
+            "top": "46",
+            "op": "+",
+            "bottom": "37",
+            "a": "83"
+          },
+          {
+            "top": "59",
+            "op": "+",
+            "bottom": "13",
+            "a": "72"
+          },
+          {
+            "top": "25",
+            "op": "+",
+            "bottom": "68",
+            "a": "93"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the sums. Do you need to carry?",
+        "marks": 6,
+        "groups": [
+          "Carry",
+          "No carry"
+        ],
+        "words": [
+          "34 + 25",
+          "48 + 16",
+          "71 + 18",
+          "57 + 29",
+          "62 + 34",
+          "19 + 19"
+        ],
+        "a": {
+          "34 + 25": "No carry",
+          "48 + 16": "Carry",
+          "71 + 18": "No carry",
+          "57 + 29": "Carry",
+          "62 + 34": "No carry",
+          "19 + 19": "Carry"
+        }
+      },
+      {
+        "type": "match",
+        "title": "Match each double to its sum.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "6 + 6",
+            "right": "12"
+          },
+          {
+            "left": "8 + 8",
+            "right": "16"
+          },
+          {
+            "left": "7 + 7",
+            "right": "14"
+          },
+          {
+            "left": "15 + 15",
+            "right": "30"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the kite problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Dhruv has 18 red kites and 14 yellow kites. He has ___ kites in all.",
+            "a": "32"
+          },
+          {
+            "q": "A shop sold 47 kites on Monday and 36 on Tuesday. It sold ___ kites altogether.",
+            "a": "83"
+          },
+          {
+            "q": "Mitali used 29 metres of string. Then she used 55 metres more. She used ___ metres in total.",
+            "a": "84"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-words-and-column-method-05",
+    "topic": "addition-words-and-column-method",
+    "number": 5,
+    "level": "Practice",
+    "title": "The Toy Shop Stock Count",
+    "intro": "Mr Bose is counting the toys in his shop before the holidays. Help him add the stock.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Add. Carry when the ones make 10 or more.",
+        "marks": 8,
+        "items": [
+          {
+            "top": "126",
+            "op": "+",
+            "bottom": "48",
+            "a": "174"
+          },
+          {
+            "top": "235",
+            "op": "+",
+            "bottom": "37",
+            "a": "272"
+          },
+          {
+            "top": "64",
+            "op": "+",
+            "bottom": "28",
+            "a": "92"
+          },
+          {
+            "top": "408",
+            "op": "+",
+            "bottom": "56",
+            "a": "464"
+          },
+          {
+            "top": "319",
+            "op": "+",
+            "bottom": "65",
+            "a": "384"
+          },
+          {
+            "top": "77",
+            "op": "+",
+            "bottom": "16",
+            "a": "93"
+          },
+          {
+            "top": "543",
+            "op": "+",
+            "bottom": "29",
+            "a": "572"
+          },
+          {
+            "top": "152",
+            "op": "+",
+            "bottom": "39",
+            "a": "191"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks with a number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In 45 + 23 = 68, the addends are 45 and ___.",
+            "a": "23"
+          },
+          {
+            "q": "In 61 + 17 = 78, the sum is ___.",
+            "a": "78"
+          },
+          {
+            "q": "If the addends are 31 and 8, the sum is ___.",
+            "a": "39"
+          },
+          {
+            "q": "The sum of 200 and 50 is ___.",
+            "a": "250"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "We need to carry in 126 + 48.",
+            "a": true
+          },
+          {
+            "q": "We need to carry in 203 + 45.",
+            "a": false
+          },
+          {
+            "q": "When we carry from the ones, we write the small 1 above the tens.",
+            "a": true
+          },
+          {
+            "q": "64 + 28 = 73",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the toy shop problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There are 138 toy cars and 47 toy buses on the shelf. There are ___ toys in all.",
+            "a": "185"
+          },
+          {
+            "q": "Mr Bose has 56 puzzles. A van brings 39 more. Now he has ___ puzzles.",
+            "a": "95"
+          },
+          {
+            "q": "The shop has 217 teddy bears and 68 dolls. The total is ___ soft toys.",
+            "a": "285"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-words-and-column-method-06",
+    "topic": "addition-words-and-column-method",
+    "number": 6,
+    "level": "Practice",
+    "title": "A Train Ride to Jaipur",
+    "intro": "Ishaan is on the train to Jaipur with his grandmother. He does quick sums in his head to pass the time.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Add in your head.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "45 + 10",
+            "a": "55"
+          },
+          {
+            "q": "70 + 20",
+            "a": "90"
+          },
+          {
+            "q": "8 + 2",
+            "a": "10"
+          },
+          {
+            "q": "36 + 4",
+            "a": "40"
+          },
+          {
+            "q": "25 + 25",
+            "a": "50"
+          },
+          {
+            "q": "90 + 10",
+            "a": "100"
+          },
+          {
+            "q": "63 + 20",
+            "a": "83"
+          },
+          {
+            "q": "7 + 8",
+            "a": "15"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each sum to its answer.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "50 + 50",
+            "right": "100"
+          },
+          {
+            "left": "12 + 12",
+            "right": "24"
+          },
+          {
+            "left": "30 + 45",
+            "right": "75"
+          },
+          {
+            "left": "19 + 1",
+            "right": "20"
+          },
+          {
+            "left": "40 + 15",
+            "right": "55"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add in H T O columns. Carry when you need to.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "248",
+            "op": "+",
+            "bottom": "36",
+            "a": "284"
+          },
+          {
+            "top": "157",
+            "op": "+",
+            "bottom": "28",
+            "a": "185"
+          },
+          {
+            "top": "369",
+            "op": "+",
+            "bottom": "24",
+            "a": "393"
+          },
+          {
+            "top": "86",
+            "op": "+",
+            "bottom": "9",
+            "a": "95"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct sum.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "58 + 10 =",
+            "options": [
+              "59",
+              "68",
+              "78"
+            ],
+            "after": "",
+            "a": "68"
+          },
+          {
+            "before": "34 + 6 =",
+            "options": [
+              "40",
+              "39",
+              "30"
+            ],
+            "after": "",
+            "a": "40"
+          },
+          {
+            "before": "20 + 20 + 20 =",
+            "options": [
+              "40",
+              "60",
+              "80"
+            ],
+            "after": "",
+            "a": "60"
+          },
+          {
+            "before": "9 + 6 =",
+            "options": [
+              "14",
+              "15",
+              "16"
+            ],
+            "after": "",
+            "a": "15"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve in your head.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Coach A has 40 people and coach B has 30 people. There are ___ people in all.",
+            "a": "70"
+          },
+          {
+            "q": "Ishaan counts 16 cows and then 4 more. He counts ___ cows altogether.",
+            "a": "20"
+          },
+          {
+            "q": "The train stops for 10 minutes at Ajmer and 5 minutes at Kishangarh. It stops for ___ minutes in total.",
+            "a": "15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-words-and-column-method-07",
+    "topic": "addition-words-and-column-method",
+    "number": 7,
+    "level": "Practice",
+    "title": "The School Canteen Tuck Shop",
+    "intro": "At break time the tuck shop is busy. Add the prices to find the total. Sometimes the tens make a new hundred.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Add. Carry 1 hundred when the tens make 10 or more.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "164",
+            "op": "+",
+            "bottom": "82",
+            "a": "246"
+          },
+          {
+            "top": "273",
+            "op": "+",
+            "bottom": "45",
+            "a": "318"
+          },
+          {
+            "top": "91",
+            "op": "+",
+            "bottom": "54",
+            "a": "145"
+          },
+          {
+            "top": "356",
+            "op": "+",
+            "bottom": "93",
+            "a": "449"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Follow the steps to add 164 + 82.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Add the ones: 4 + 2 = ___ ones.",
+            "a": "6"
+          },
+          {
+            "q": "Add the tens: 6 + 8 = ___ tens.",
+            "a": "14"
+          },
+          {
+            "q": "14 tens = 1 hundred and ___ tens.",
+            "a": "4"
+          },
+          {
+            "q": "Add the hundreds with the carry: 1 + 1 = ___ hundreds.",
+            "a": "2"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each bill to its total.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "₹20 + ₹35",
+            "right": "₹55"
+          },
+          {
+            "left": "₹15 + ₹15",
+            "right": "₹30"
+          },
+          {
+            "left": "₹40 + ₹25",
+            "right": "₹65"
+          },
+          {
+            "left": "₹12 + ₹30",
+            "right": "₹42"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "10 tens make 1 hundred.",
+            "a": true
+          },
+          {
+            "q": "60 + 70 = 120",
+            "a": false
+          },
+          {
+            "q": "82 + 45 = 137",
+            "a": false
+          },
+          {
+            "q": "In 91 + 54, the sum has only two digits.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the addition sentence and the total.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "A samosa costs ₹18 and a glass of lassi costs ₹25. How much do they cost altogether?",
+            "a": "18 + 25 = 43. They cost ₹43 altogether."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-words-and-column-method-08",
+    "topic": "addition-words-and-column-method",
+    "number": 8,
+    "level": "Practice",
+    "title": "Eid Shopping at the Mall",
+    "intro": "Maryam and her family are buying gifts and new clothes for Eid. Add the 3-digit numbers with care.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Add. Watch for the carry.",
+        "marks": 8,
+        "items": [
+          {
+            "top": "325",
+            "op": "+",
+            "bottom": "148",
+            "a": "473"
+          },
+          {
+            "top": "417",
+            "op": "+",
+            "bottom": "236",
+            "a": "653"
+          },
+          {
+            "top": "508",
+            "op": "+",
+            "bottom": "327",
+            "a": "835"
+          },
+          {
+            "top": "264",
+            "op": "+",
+            "bottom": "153",
+            "a": "417"
+          },
+          {
+            "top": "182",
+            "op": "+",
+            "bottom": "475",
+            "a": "657"
+          },
+          {
+            "top": "346",
+            "op": "+",
+            "bottom": "291",
+            "a": "637"
+          },
+          {
+            "top": "629",
+            "op": "+",
+            "bottom": "135",
+            "a": "764"
+          },
+          {
+            "top": "253",
+            "op": "+",
+            "bottom": "562",
+            "a": "815"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Maryam wants the total cost of two gifts. She must",
+            "options": [
+              "add",
+              "take away"
+            ],
+            "after": "the prices.",
+            "a": "add"
+          },
+          {
+            "before": "In 325 + 148 = 473, the numbers 325 and 148 are the",
+            "options": [
+              "sums",
+              "addends"
+            ],
+            "after": ".",
+            "a": "addends"
+          },
+          {
+            "before": "When the ones make 13, we write 3 and carry",
+            "options": [
+              "1 ten",
+              "3 tens"
+            ],
+            "after": ".",
+            "a": "1 ten"
+          },
+          {
+            "before": "We begin adding from the",
+            "options": [
+              "ones",
+              "hundreds"
+            ],
+            "after": "column.",
+            "a": "ones"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the shopping problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A dress costs ₹436 and a pair of shoes costs ₹245. The total is ₹ ___.",
+            "a": "681"
+          },
+          {
+            "q": "The sweet shop sold 127 boxes of baklava and 118 boxes of maamoul. It sold ___ boxes in all.",
+            "a": "245"
+          },
+          {
+            "q": "There are 284 cars on level 1 and 163 cars on level 2. Altogether there are ___ cars.",
+            "a": "447"
+          },
+          {
+            "q": "Yousef counts 109 lanterns in one hall and 215 in the next. He counts ___ lanterns altogether.",
+            "a": "324"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: How do you know when to carry?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. I carry when the digits in a column add up to 10 or more. I write the ones digit and carry 1 to the next column."
+      }
+    ]
+  },
+  {
+    "id": "addition-words-and-column-method-09",
+    "topic": "addition-words-and-column-method",
+    "number": 9,
+    "level": "Practice",
+    "title": "The Aquarium Visit",
+    "intro": "Class 2 is at the aquarium counting fish, turtles and starfish. Trade 10 small blocks for 1 bigger block when you add.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Trade the blocks. Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "12 ones blocks = 1 tens block and ___ ones blocks.",
+            "a": "2"
+          },
+          {
+            "q": "15 tens blocks = 1 hundreds block and ___ tens blocks.",
+            "a": "5"
+          },
+          {
+            "q": "3 tens + 9 tens = ___ tens.",
+            "a": "12"
+          },
+          {
+            "q": "4 hundreds + 2 hundreds = ___ hundreds.",
+            "a": "6"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add in H T O columns.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "237",
+            "op": "+",
+            "bottom": "145",
+            "a": "382"
+          },
+          {
+            "top": "382",
+            "op": "+",
+            "bottom": "163",
+            "a": "545"
+          },
+          {
+            "top": "455",
+            "op": "+",
+            "bottom": "228",
+            "a": "683"
+          },
+          {
+            "top": "171",
+            "op": "+",
+            "bottom": "96",
+            "a": "267"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the sums. Do you need to carry?",
+        "marks": 6,
+        "groups": [
+          "Carry",
+          "No carry"
+        ],
+        "words": [
+          "213 + 145",
+          "326 + 157",
+          "540 + 238",
+          "462 + 371",
+          "105 + 604",
+          "718 + 191"
+        ],
+        "a": {
+          "213 + 145": "No carry",
+          "326 + 157": "Carry",
+          "540 + 238": "No carry",
+          "462 + 371": "Carry",
+          "105 + 604": "No carry",
+          "718 + 191": "Carry"
+        }
+      },
+      {
+        "type": "pairs",
+        "title": "Add the hundreds in your head.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "300 + 200",
+            "a": "500"
+          },
+          {
+            "q": "150 + 50",
+            "a": "200"
+          },
+          {
+            "q": "400 + 400",
+            "a": "800"
+          },
+          {
+            "q": "600 + 100",
+            "a": "700"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the aquarium problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The big tank has 168 blue fish and 124 yellow fish. It has ___ fish in all.",
+            "a": "292"
+          },
+          {
+            "q": "253 children came in the morning and 172 in the afternoon. ___ children came altogether.",
+            "a": "425"
+          },
+          {
+            "q": "Tenzin counted 39 starfish and 45 seahorses. He counted ___ sea animals in total.",
+            "a": "84"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-words-and-column-method-10",
+    "topic": "addition-words-and-column-method",
+    "number": 10,
+    "level": "Practice",
+    "title": "Grandpa's Stamp Collection",
+    "intro": "Nikhil's grandpa has albums full of stamps from India, the UAE and many other countries. Add them up.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the words to the answer.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "The sum of 40 and 25",
+            "right": "65"
+          },
+          {
+            "left": "The total of 16 and 30",
+            "right": "46"
+          },
+          {
+            "left": "9 plus 8",
+            "right": "17"
+          },
+          {
+            "left": "70 and 20 altogether",
+            "right": "90"
+          },
+          {
+            "left": "Double 35",
+            "right": "70"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add the stamps in each pair of albums.",
+        "marks": 8,
+        "items": [
+          {
+            "top": "146",
+            "op": "+",
+            "bottom": "239",
+            "a": "385"
+          },
+          {
+            "top": "68",
+            "op": "+",
+            "bottom": "27",
+            "a": "95"
+          },
+          {
+            "top": "306",
+            "op": "+",
+            "bottom": "485",
+            "a": "791"
+          },
+          {
+            "top": "571",
+            "op": "+",
+            "bottom": "264",
+            "a": "835"
+          },
+          {
+            "top": "93",
+            "op": "+",
+            "bottom": "49",
+            "a": "142"
+          },
+          {
+            "top": "218",
+            "op": "+",
+            "bottom": "356",
+            "a": "574"
+          },
+          {
+            "top": "460",
+            "op": "+",
+            "bottom": "187",
+            "a": "647"
+          },
+          {
+            "top": "734",
+            "op": "+",
+            "bottom": "128",
+            "a": "862"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Every addition has at least two addends.",
+            "a": true
+          },
+          {
+            "q": "The sum of 68 and 27 is less than 68.",
+            "a": false
+          },
+          {
+            "q": "571 + 264 = 840",
+            "a": false
+          },
+          {
+            "q": "We carry from the ones to the tens in 306 + 485.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the stamp problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Grandpa has 276 stamps from India and 158 from the UAE. That is ___ stamps in all.",
+            "a": "434"
+          },
+          {
+            "q": "Nikhil sticks 48 stamps on one page and 36 on the next. He sticks ___ stamps altogether.",
+            "a": "84"
+          },
+          {
+            "q": "The bird album has 325 stamps and the flower album has 291. The total is ___ stamps.",
+            "a": "616"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-words-and-column-method-11",
+    "topic": "addition-words-and-column-method",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Spice Souk in Deira",
+    "intro": "Sacks of saffron, cardamom and dried lemons fill the lanes of the souk. These sums need two carries.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Add. You will carry twice.",
+        "marks": 8,
+        "items": [
+          {
+            "top": "278",
+            "op": "+",
+            "bottom": "356",
+            "a": "634"
+          },
+          {
+            "top": "467",
+            "op": "+",
+            "bottom": "185",
+            "a": "652"
+          },
+          {
+            "top": "389",
+            "op": "+",
+            "bottom": "244",
+            "a": "633"
+          },
+          {
+            "top": "158",
+            "op": "+",
+            "bottom": "663",
+            "a": "821"
+          },
+          {
+            "top": "96",
+            "op": "+",
+            "bottom": "78",
+            "a": "174"
+          },
+          {
+            "top": "575",
+            "op": "+",
+            "bottom": "296",
+            "a": "871"
+          },
+          {
+            "top": "348",
+            "op": "+",
+            "bottom": "87",
+            "a": "435"
+          },
+          {
+            "top": "199",
+            "op": "+",
+            "bottom": "199",
+            "a": "398"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Follow the steps to add 278 + 356.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Ones: 8 + 6 = 14. Write 4 and carry ___ ten.",
+            "a": "1"
+          },
+          {
+            "q": "Tens: 7 + 5 + 1 = ___ tens.",
+            "a": "13"
+          },
+          {
+            "q": "Write 3 in the tens place and carry 1 ___.",
+            "a": "hundred"
+          },
+          {
+            "q": "Hundreds: 2 + 3 + 1 = ___ hundreds.",
+            "a": "6"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best answer without adding fully.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "389 + 244 is",
+            "options": [
+              "more than 600",
+              "less than 600"
+            ],
+            "after": ".",
+            "a": "more than 600"
+          },
+          {
+            "before": "158 + 663 is",
+            "options": [
+              "more than 900",
+              "less than 900"
+            ],
+            "after": ".",
+            "a": "less than 900"
+          },
+          {
+            "before": "96 + 78 is",
+            "options": [
+              "more than 200",
+              "less than 200"
+            ],
+            "after": ".",
+            "a": "less than 200"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the souk problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A shop has 185 grams of saffron in one jar and 136 grams in another. That is ___ grams in all.",
+            "a": "321"
+          },
+          {
+            "q": "Faisal carried 67 sacks in the morning and 58 in the evening. He carried ___ sacks altogether.",
+            "a": "125"
+          },
+          {
+            "q": "Cardamom costs ₹465 and cinnamon costs ₹378. The total is ₹ ___.",
+            "a": "843"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: Why do we start adding from the ones column?",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. Because a carry from the ones goes to the tens, and a carry from the tens goes to the hundreds."
+      }
+    ]
+  },
+  {
+    "id": "addition-words-and-column-method-12",
+    "topic": "addition-words-and-column-method",
+    "number": 12,
+    "level": "Challenge",
+    "title": "The Pongal Harvest",
+    "intro": "Farmers in Tamil Nadu bring in rice and sugarcane for Pongal. Find missing addends and spot the mistakes.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Find the missing addend.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "45 + ___ = 60",
+            "a": "15"
+          },
+          {
+            "q": "___ + 30 = 100",
+            "a": "70"
+          },
+          {
+            "q": "250 + ___ = 300",
+            "a": "50"
+          },
+          {
+            "q": "___ + 9 = 27",
+            "a": "18"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Is the sum correct? Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "47 + 34 = 71",
+            "a": false
+          },
+          {
+            "q": "56 + 25 = 81",
+            "a": true
+          },
+          {
+            "q": "268 + 174 = 442",
+            "a": true
+          },
+          {
+            "q": "329 + 194 = 513",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add in H T O columns.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "476",
+            "op": "+",
+            "bottom": "358",
+            "a": "834"
+          },
+          {
+            "top": "289",
+            "op": "+",
+            "bottom": "67",
+            "a": "356"
+          },
+          {
+            "top": "543",
+            "op": "+",
+            "bottom": "379",
+            "a": "922"
+          },
+          {
+            "top": "85",
+            "op": "+",
+            "bottom": "97",
+            "a": "182"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each sum to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "250 + 250",
+            "right": "500"
+          },
+          {
+            "left": "125 + 125",
+            "right": "250"
+          },
+          {
+            "left": "300 + 450",
+            "right": "750"
+          },
+          {
+            "left": "99 + 1",
+            "right": "100"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the addition sentence and the total.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "A farmer cut 368 sugarcane stalks on Friday and 274 on Saturday. How many stalks did he cut in all?",
+            "a": "368 + 274 = 642. He cut 642 stalks in all."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-words-and-column-method-13",
+    "topic": "addition-words-and-column-method",
+    "number": 13,
+    "level": "Challenge",
+    "title": "The Class Recycling Drive",
+    "intro": "Three classes are collecting bottles, cans and newspapers. Add three numbers to find how much they collect.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Add three numbers in your head.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "20 + 30 + 40 = ___",
+            "a": "90"
+          },
+          {
+            "q": "5 + 5 + 8 = ___",
+            "a": "18"
+          },
+          {
+            "q": "100 + 200 + 300 = ___",
+            "a": "600"
+          },
+          {
+            "q": "15 + 15 + 10 = ___",
+            "a": "40"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add. Carry when you need to.",
+        "marks": 8,
+        "items": [
+          {
+            "top": "137",
+            "op": "+",
+            "bottom": "268",
+            "a": "405"
+          },
+          {
+            "top": "459",
+            "op": "+",
+            "bottom": "73",
+            "a": "532"
+          },
+          {
+            "top": "284",
+            "op": "+",
+            "bottom": "516",
+            "a": "800"
+          },
+          {
+            "top": "95",
+            "op": "+",
+            "bottom": "38",
+            "a": "133"
+          },
+          {
+            "top": "606",
+            "op": "+",
+            "bottom": "297",
+            "a": "903"
+          },
+          {
+            "top": "378",
+            "op": "+",
+            "bottom": "144",
+            "a": "522"
+          },
+          {
+            "top": "59",
+            "op": "+",
+            "bottom": "862",
+            "a": "921"
+          },
+          {
+            "top": "423",
+            "op": "+",
+            "bottom": "389",
+            "a": "812"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "An addition with three addends has",
+            "options": [
+              "one sum",
+              "three sums"
+            ],
+            "after": ".",
+            "a": "one sum"
+          },
+          {
+            "before": "40 + 40 + 40 is",
+            "options": [
+              "120",
+              "80",
+              "160"
+            ],
+            "after": ".",
+            "a": "120"
+          },
+          {
+            "before": "If one addend gets bigger, the sum gets",
+            "options": [
+              "bigger",
+              "smaller"
+            ],
+            "after": ".",
+            "a": "bigger"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve. Add all three numbers.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Class 2A brought 120 bottles, 2B brought 135 and 2C brought 210. They brought ___ bottles in all.",
+            "a": "465"
+          },
+          {
+            "q": "Rehana collected 46 cans on Monday, 28 on Tuesday and 17 on Wednesday. She collected ___ cans altogether.",
+            "a": "91"
+          },
+          {
+            "q": "The bins hold 250 kg of paper, 164 kg of plastic and 85 kg of glass. The total is ___ kg.",
+            "a": "499"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-words-and-column-method-14",
+    "topic": "addition-words-and-column-method",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Airport Luggage Belt",
+    "intro": "Bags roll past at Mumbai airport as Elena waits for her suitcase. Use quick thinking and careful columns.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Add in your head.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "199 + 1",
+            "a": "200"
+          },
+          {
+            "q": "450 + 50",
+            "a": "500"
+          },
+          {
+            "q": "99 + 10",
+            "a": "109"
+          },
+          {
+            "q": "310 + 90",
+            "a": "400"
+          },
+          {
+            "q": "75 + 25",
+            "a": "100"
+          },
+          {
+            "q": "500 + 250",
+            "a": "750"
+          },
+          {
+            "q": "46 + 40",
+            "a": "86"
+          },
+          {
+            "q": "18 + 18",
+            "a": "36"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add in H T O columns.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "567",
+            "op": "+",
+            "bottom": "285",
+            "a": "852"
+          },
+          {
+            "top": "398",
+            "op": "+",
+            "bottom": "406",
+            "a": "804"
+          },
+          {
+            "top": "179",
+            "op": "+",
+            "bottom": "643",
+            "a": "822"
+          },
+          {
+            "top": "88",
+            "op": "+",
+            "bottom": "754",
+            "a": "842"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the sums. Is the sum less than 500 or more than 500?",
+        "marks": 6,
+        "groups": [
+          "Less than 500",
+          "More than 500"
+        ],
+        "words": [
+          "230 + 180",
+          "350 + 260",
+          "125 + 290",
+          "410 + 95",
+          "275 + 240",
+          "160 + 320"
+        ],
+        "a": {
+          "230 + 180": "Less than 500",
+          "350 + 260": "More than 500",
+          "125 + 290": "Less than 500",
+          "410 + 95": "More than 500",
+          "275 + 240": "More than 500",
+          "160 + 320": "Less than 500"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "5 hundreds blocks, 6 tens blocks and 7 ones blocks show 567.",
+            "a": true
+          },
+          {
+            "q": "We carry twice in 398 + 406.",
+            "a": true
+          },
+          {
+            "q": "179 + 643 = 832",
+            "a": false
+          },
+          {
+            "q": "The sum is always bigger than each addend when both addends are more than 0.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the airport problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Flight one has 286 bags and flight two has 337 bags. There are ___ bags altogether.",
+            "a": "623"
+          },
+          {
+            "q": "Elena walks 148 steps to the belt and 275 steps to the taxi. She walks ___ steps in total.",
+            "a": "423"
+          },
+          {
+            "q": "189 people land from Delhi and 164 from Kochi. ___ people land in all.",
+            "a": "353"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-words-and-column-method-15",
+    "topic": "addition-words-and-column-method",
+    "number": 15,
+    "level": "Challenge",
+    "title": "The Science Fair Scoreboard",
+    "intro": "The judges are adding up points at the school science fair. Use everything you know about addends and sums.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Add the points in H T O columns.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "486",
+            "op": "+",
+            "bottom": "357",
+            "a": "843"
+          },
+          {
+            "top": "265",
+            "op": "+",
+            "bottom": "678",
+            "a": "943"
+          },
+          {
+            "top": "594",
+            "op": "+",
+            "bottom": "329",
+            "a": "923"
+          },
+          {
+            "top": "77",
+            "op": "+",
+            "bottom": "845",
+            "a": "922"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The sum is 500. One addend is 320. The other addend is ___.",
+            "a": "180"
+          },
+          {
+            "q": "3 hundreds, 14 tens and 5 ones make the number ___.",
+            "a": "445"
+          },
+          {
+            "q": "2 hundreds, 6 tens and 18 ones make the number ___.",
+            "a": "278"
+          },
+          {
+            "q": "The addends are 245 and 245. The sum is ___.",
+            "a": "490"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the words to the answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "The sum of 350 and 150",
+            "right": "500"
+          },
+          {
+            "left": "125 plus 75",
+            "right": "200"
+          },
+          {
+            "left": "The total of 60, 70 and 80",
+            "right": "210"
+          },
+          {
+            "left": "Double 450",
+            "right": "900"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The team with 486 + 357 points has",
+            "options": [
+              "more than 800",
+              "less than 800"
+            ],
+            "after": "points.",
+            "a": "more than 800"
+          },
+          {
+            "before": "In 594 + 329, the ones add up to",
+            "options": [
+              "13",
+              "3",
+              "12"
+            ],
+            "after": ".",
+            "a": "13"
+          },
+          {
+            "before": "The biggest sum is",
+            "options": [
+              "300 + 300",
+              "250 + 400",
+              "199 + 399"
+            ],
+            "after": ".",
+            "a": "250 + 400"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Make up an addition story using 245 and 138. Write the sum too.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. Team A scored 245 points and Team B scored 138 points. They scored 383 points altogether. (245 + 138 = 383)"
+      }
+    ]
+  }
+]

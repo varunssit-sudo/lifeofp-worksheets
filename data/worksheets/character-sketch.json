@@ -1,0 +1,1637 @@
+[
+ {
+  "id": "character-sketch-01",
+  "topic": "character-sketch",
+  "number": 1,
+  "level": "Starter",
+  "title": "The Art Room",
+  "intro": "Tanvi read a story about Gopi the gardener. Gopi has a straw hat and muddy boots. He waters every plant before he eats his own breakfast. Now Tanvi will make a character sketch of him.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Write 1, 2, 3 or 4 to put the steps of a character sketch in order.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "___ Find a clue from the story for each trait.",
+      "a": "3"
+     },
+     {
+      "q": "___ Draw the character.",
+      "a": "1"
+     },
+     {
+      "q": "___ Write the sketch using because.",
+      "a": "4"
+     },
+     {
+      "q": "___ Label the outside and inside traits.",
+      "a": "2"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Help Tanvi label her drawing of Gopi.",
+    "marks": 6,
+    "groups": [
+     "Outside traits",
+     "Inside traits"
+    ],
+    "words": [
+     "straw hat",
+     "caring",
+     "muddy boots",
+     "hardworking",
+     "green apron",
+     "gentle"
+    ],
+    "a": {
+     "straw hat": "Outside traits",
+     "caring": "Inside traits",
+     "muddy boots": "Outside traits",
+     "hardworking": "Inside traits",
+     "green apron": "Outside traits",
+     "gentle": "Inside traits"
+    }
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "A character sketch tells how a character looks and what they are like.",
+      "a": true
+     },
+     {
+      "q": "A clue is something the character does or says in the story.",
+      "a": true
+     },
+     {
+      "q": "We write the sketch before we read the story.",
+      "a": false
+     },
+     {
+      "q": "Gopi wears a straw hat.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct word.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "We join a trait and its clue with the word",
+      "options": [
+       "because",
+       "under"
+      ],
+      "after": ".",
+      "a": "because"
+     },
+     {
+      "before": "Gopi waters the plants first, so he is",
+      "options": [
+       "caring",
+       "selfish"
+      ],
+      "after": ".",
+      "a": "caring"
+     },
+     {
+      "before": "\"Muddy boots\" is an",
+      "options": [
+       "inside",
+       "outside"
+      ],
+      "after": "trait.",
+      "a": "outside"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Finish the sentence: Gopi is caring because ...",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. Gopi is caring because he waters every plant before he eats his breakfast."
+   }
+  ]
+ },
+ {
+  "id": "character-sketch-02",
+  "topic": "character-sketch",
+  "number": 2,
+  "level": "Starter",
+  "title": "The Lighthouse Keeper",
+  "intro": "Old Bashir keeps the lighthouse. He has a white beard and a navy blue cap. On stormy nights he climbs ninety steps to light the lamp so that the ships stay safe.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write O for an outside trait or I for an inside trait.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "white beard",
+      "a": "O"
+     },
+     {
+      "q": "brave",
+      "a": "I"
+     },
+     {
+      "q": "navy blue cap",
+      "a": "O"
+     },
+     {
+      "q": "hardworking",
+      "a": "I"
+     },
+     {
+      "q": "rough hands",
+      "a": "O"
+     },
+     {
+      "q": "careful",
+      "a": "I"
+     },
+     {
+      "q": "long raincoat",
+      "a": "O"
+     },
+     {
+      "q": "caring",
+      "a": "I"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blanks from the story.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Bashir has a white ___.",
+      "a": "beard"
+     },
+     {
+      "q": "He wears a navy blue ___.",
+      "a": "cap"
+     },
+     {
+      "q": "He climbs ___ steps to light the lamp.",
+      "a": "90 / ninety"
+     },
+     {
+      "q": "He lights the lamp so that the ___ stay safe.",
+      "a": "ships"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the clue that shows the trait.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Bashir is brave because he",
+      "options": [
+       "climbs up on stormy nights",
+       "has a white beard"
+      ],
+      "after": ".",
+      "a": "climbs up on stormy nights"
+     },
+     {
+      "before": "Bashir is caring because he",
+      "options": [
+       "wears a cap",
+       "keeps the ships safe"
+      ],
+      "after": ".",
+      "a": "keeps the ships safe"
+     },
+     {
+      "before": "Bashir is hardworking because he",
+      "options": [
+       "climbs ninety steps",
+       "is old"
+      ],
+      "after": ".",
+      "a": "climbs ninety steps"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "\"He has a white beard\" is a clue that Bashir is brave.",
+      "a": false
+     },
+     {
+      "q": "An inside trait needs a clue from the story.",
+      "a": true
+     },
+     {
+      "q": "We can draw Bashir's cap and beard.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write one sentence about how Bashir looks.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. Bashir has a white beard and wears a navy blue cap. It must use outside traits from the story."
+   }
+  ]
+ },
+ {
+  "id": "character-sketch-03",
+  "topic": "character-sketch",
+  "number": 3,
+  "level": "Starter",
+  "title": "The Tea Stall",
+  "intro": "Raju Uncle runs a tea stall near the station. He has a round face and a checked towel on his shoulder. He remembers how every customer likes their tea, and he gives a free cup to the street sweeper each morning.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each trait to its clue from the story.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "generous",
+      "right": "He gives a free cup to the street sweeper."
+     },
+     {
+      "left": "clever",
+      "right": "He remembers how everyone likes their tea."
+     },
+     {
+      "left": "round-faced",
+      "right": "The story says he has a round face."
+     },
+     {
+      "left": "tidy",
+      "right": "He wipes the counter with his towel all day."
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the labels for a drawing of Raju Uncle.",
+    "marks": 6,
+    "groups": [
+     "Outside traits",
+     "Inside traits"
+    ],
+    "words": [
+     "round face",
+     "generous",
+     "checked towel",
+     "friendly",
+     "rolled-up sleeves",
+     "clever"
+    ],
+    "a": {
+     "round face": "Outside traits",
+     "generous": "Inside traits",
+     "checked towel": "Outside traits",
+     "friendly": "Inside traits",
+     "rolled-up sleeves": "Outside traits",
+     "clever": "Inside traits"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Use because. Fill in the trait: generous, clever.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Raju Uncle is ___ because he gives free tea to the sweeper.",
+      "a": "generous"
+     },
+     {
+      "q": "Raju Uncle is ___ because he remembers every order.",
+      "a": "clever"
+     },
+     {
+      "q": "The word ___ joins the trait to the clue.",
+      "a": "because"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Raju Uncle's stall is near the station.",
+      "a": true
+     },
+     {
+      "q": "He charges the street sweeper double.",
+      "a": false
+     },
+     {
+      "q": "\"Friendly\" is an inside trait.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write one sentence about Raju Uncle. Use because.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. Raju Uncle is generous because he gives the sweeper a free cup of tea. The clue must match the trait."
+   }
+  ]
+ },
+ {
+  "id": "character-sketch-04",
+  "topic": "character-sketch",
+  "number": 4,
+  "level": "Starter",
+  "title": "The Cricket Coach",
+  "intro": "Coach Nandini wears a white cap and has a whistle round her neck. When Arnav drops three catches, she does not scold him. She throws him fifty more balls until he catches every one.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the correct answer.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Coach Nandini wears a",
+      "options": [
+       "white",
+       "black"
+      ],
+      "after": "cap.",
+      "a": "white"
+     },
+     {
+      "before": "She has a",
+      "options": [
+       "whistle",
+       "scarf"
+      ],
+      "after": "round her neck.",
+      "a": "whistle"
+     },
+     {
+      "before": "She does not scold Arnav. She is",
+      "options": [
+       "patient",
+       "grumpy"
+      ],
+      "after": ".",
+      "a": "patient"
+     },
+     {
+      "before": "She throws fifty more balls. She is",
+      "options": [
+       "lazy",
+       "hardworking"
+      ],
+      "after": ".",
+      "a": "hardworking"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the step to what Arnav's friend Lily does.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Draw",
+      "right": "Lily draws Coach Nandini with her cap."
+     },
+     {
+      "left": "Label",
+      "right": "Lily writes \"patient\" next to the drawing."
+     },
+     {
+      "left": "Clue",
+      "right": "Lily finds the part where the coach does not scold."
+     },
+     {
+      "left": "Write",
+      "right": "Lily writes: \"She is patient because ...\""
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blanks.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Arnav drops ___ catches.",
+      "a": "3 / three"
+     },
+     {
+      "q": "The coach throws him ___ more balls.",
+      "a": "50 / fifty"
+     },
+     {
+      "q": "\"A white cap\" is an ___ trait.",
+      "a": "outside"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Is this a good clue that the coach is patient?",
+    "marks": 3,
+    "items": [
+     {
+      "q": "She does not scold Arnav.",
+      "a": true
+     },
+     {
+      "q": "She wears a white cap.",
+      "a": false
+     },
+     {
+      "q": "She keeps throwing until he catches every ball.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Finish the sentence: Coach Nandini is patient because ...",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. Coach Nandini is patient because she does not scold Arnav when he drops the catches."
+   }
+  ]
+ },
+ {
+  "id": "character-sketch-05",
+  "topic": "character-sketch",
+  "number": 5,
+  "level": "Practice",
+  "title": "The Camel Farm",
+  "intro": "Salma lives on a camel farm in Al Ain. She has sun-browned cheeks and wears a long green scarf. When a baby camel is too weak to stand, she sits beside it all night and feeds it from a bottle.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the labels for a drawing of Salma.",
+    "marks": 8,
+    "groups": [
+     "Outside traits",
+     "Inside traits"
+    ],
+    "words": [
+     "sun-browned cheeks",
+     "loving",
+     "long green scarf",
+     "patient",
+     "dusty sandals",
+     "responsible",
+     "dark braid",
+     "gentle"
+    ],
+    "a": {
+     "sun-browned cheeks": "Outside traits",
+     "loving": "Inside traits",
+     "long green scarf": "Outside traits",
+     "patient": "Inside traits",
+     "dusty sandals": "Outside traits",
+     "responsible": "Inside traits",
+     "dark braid": "Outside traits",
+     "gentle": "Inside traits"
+    }
+   },
+   {
+    "type": "choice",
+    "title": "Circle the better clue for each trait.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Loving:",
+      "options": [
+       "She feeds the baby camel from a bottle.",
+       "She wears a scarf."
+      ],
+      "after": "",
+      "a": "She feeds the baby camel from a bottle."
+     },
+     {
+      "before": "Patient:",
+      "options": [
+       "She lives in Al Ain.",
+       "She sits beside the camel all night."
+      ],
+      "after": "",
+      "a": "She sits beside the camel all night."
+     },
+     {
+      "before": "Responsible:",
+      "options": [
+       "She checks the water tubs every day.",
+       "Her sandals are dusty."
+      ],
+      "after": "",
+      "a": "She checks the water tubs every day."
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blanks from the story.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Salma wears a long ___ scarf.",
+      "a": "green"
+     },
+     {
+      "q": "The baby camel is too ___ to stand.",
+      "a": "weak"
+     },
+     {
+      "q": "She feeds it from a ___.",
+      "a": "bottle"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Finish each sentence with a clue from the story.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Salma is loving because",
+      "a": "e.g. Salma is loving because she feeds the weak baby camel from a bottle."
+     },
+     {
+      "q": "Salma is patient because",
+      "a": "e.g. Salma is patient because she sits beside the camel all night."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write one sentence about how Salma looks.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. Salma has sun-browned cheeks and a long green scarf."
+   }
+  ]
+ },
+ {
+  "id": "character-sketch-06",
+  "topic": "character-sketch",
+  "number": 6,
+  "level": "Practice",
+  "title": "The Flower Seller",
+  "intro": "Kamala sells jasmine strings outside the temple. She has silver anklets and a big red bindi. She hums old songs as she works, and she always ties an extra flower into each string for little girls.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each trait to its clue.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "cheerful",
+      "right": "She hums old songs as she works."
+     },
+     {
+      "left": "generous",
+      "right": "She ties in an extra flower for little girls."
+     },
+     {
+      "left": "skilful",
+      "right": "Her fingers tie the flowers very fast."
+     },
+     {
+      "left": "hardworking",
+      "right": "She picks the jasmine before sunrise."
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Write O for outside or I for inside.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "silver anklets",
+      "a": "O"
+     },
+     {
+      "q": "cheerful",
+      "a": "I"
+     },
+     {
+      "q": "big red bindi",
+      "a": "O"
+     },
+     {
+      "q": "generous",
+      "a": "I"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Kamala sells roses outside a school.",
+      "a": false
+     },
+     {
+      "q": "Humming while she works shows that she is cheerful.",
+      "a": true
+     },
+     {
+      "q": "\"Kamala is generous because she has anklets\" is a good sentence.",
+      "a": false
+     },
+     {
+      "q": "A good clue comes from the story.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the missing word.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Kamala is cheerful ___ she hums old songs.",
+      "a": "because"
+     },
+     {
+      "q": "Kamala is ___ because she gives extra flowers.",
+      "a": "generous"
+     },
+     {
+      "q": "Kamala sells ___ strings.",
+      "a": "jasmine"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences for a sketch of Kamala: one outside trait, one inside trait with because.",
+    "marks": 4,
+    "lines": 2,
+    "a": "e.g. Kamala wears silver anklets and a big red bindi. She is generous because she ties an extra flower into each string."
+   }
+  ]
+ },
+ {
+  "id": "character-sketch-07",
+  "topic": "character-sketch",
+  "number": 7,
+  "level": "Practice",
+  "title": "The Rainy School Trip",
+  "intro": "It rained on the trip to the fort. Oscar, a small boy with spiky hair and a yellow raincoat, saw that Priya had no umbrella. He shared his. Later he made the whole bus laugh with his frog voices.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the correct answer.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Oscar has",
+      "options": [
+       "spiky",
+       "curly"
+      ],
+      "after": "hair.",
+      "a": "spiky"
+     },
+     {
+      "before": "His raincoat is",
+      "options": [
+       "red",
+       "yellow"
+      ],
+      "after": ".",
+      "a": "yellow"
+     },
+     {
+      "before": "He shares his umbrella. He is",
+      "options": [
+       "kind",
+       "mean"
+      ],
+      "after": ".",
+      "a": "kind"
+     },
+     {
+      "before": "He makes the bus laugh. He is",
+      "options": [
+       "funny",
+       "shy"
+      ],
+      "after": ".",
+      "a": "funny"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write 1 to 4 to put the steps in order.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "___ I label him: spiky hair, kind, funny.",
+      "a": "2"
+     },
+     {
+      "q": "___ I write my character sketch of Oscar.",
+      "a": "4"
+     },
+     {
+      "q": "___ I draw Oscar in his raincoat.",
+      "a": "1"
+     },
+     {
+      "q": "___ I find a clue for kind and a clue for funny.",
+      "a": "3"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the sentence beginnings and endings.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Oscar is kind because",
+      "right": "he shares his umbrella with Priya."
+     },
+     {
+      "left": "Oscar is funny because",
+      "right": "he does frog voices on the bus."
+     },
+     {
+      "left": "Oscar looks bright because",
+      "right": "he wears a yellow raincoat."
+     },
+     {
+      "left": "Priya gets wet because",
+      "right": "she has no umbrella."
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write a sentence with because for each trait.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Oscar is kind",
+      "a": "e.g. Oscar is kind because he shares his umbrella with Priya."
+     },
+     {
+      "q": "Oscar is funny",
+      "a": "e.g. Oscar is funny because he makes the whole bus laugh with his frog voices."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write one more outside trait you could give Oscar.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. Oscar wears big blue gumboots. Anything we could see."
+   }
+  ]
+ },
+ {
+  "id": "character-sketch-08",
+  "topic": "character-sketch",
+  "number": 8,
+  "level": "Practice",
+  "title": "The Toy Repair Shop",
+  "intro": "Mr Chen fixes broken toys in a tiny shop in Bur Dubai. He wears thick glasses and a brown waistcoat. He once worked for a whole week on one music box, and he never charges children who cannot pay.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in the blanks from the story.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Mr Chen fixes broken ___.",
+      "a": "toys"
+     },
+     {
+      "q": "He wears thick ___.",
+      "a": "glasses"
+     },
+     {
+      "q": "He worked a whole ___ on one music box.",
+      "a": "week"
+     },
+     {
+      "q": "His waistcoat is ___.",
+      "a": "brown"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each trait to its clue.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "patient",
+      "right": "He worked for a whole week on one music box."
+     },
+     {
+      "left": "kind-hearted",
+      "right": "He never charges children who cannot pay."
+     },
+     {
+      "left": "careful",
+      "right": "He holds each tiny screw with tweezers."
+     },
+     {
+      "left": "tidy",
+      "right": "He keeps every tool in its own box."
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "\"Thick glasses\" is a label for the outside.",
+      "a": true
+     },
+     {
+      "q": "\"Patient\" is a label for the inside.",
+      "a": true
+     },
+     {
+      "q": "Mr Chen is patient because his shop is tiny.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Finish each sentence with a clue from the story.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Mr Chen is patient because",
+      "a": "e.g. Mr Chen is patient because he worked for a whole week on one music box."
+     },
+     {
+      "q": "Mr Chen is kind because",
+      "a": "e.g. Mr Chen is kind because he never charges children who cannot pay."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write one sentence about how Mr Chen looks.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. Mr Chen wears thick glasses and a brown waistcoat."
+   }
+  ]
+ },
+ {
+  "id": "character-sketch-09",
+  "topic": "character-sketch",
+  "number": 9,
+  "level": "Practice",
+  "title": "The Swimming Lesson",
+  "intro": "Ira is the smallest girl in the swimming class. She has a purple cap and goggles that are too big. She is afraid of the deep end, but she holds her nose and jumps in anyway. Then she cheers for her friend Bilal.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the labels for a drawing of Ira.",
+    "marks": 6,
+    "groups": [
+     "Outside traits",
+     "Inside traits"
+    ],
+    "words": [
+     "purple cap",
+     "brave",
+     "big goggles",
+     "encouraging",
+     "small",
+     "determined"
+    ],
+    "a": {
+     "purple cap": "Outside traits",
+     "brave": "Inside traits",
+     "big goggles": "Outside traits",
+     "encouraging": "Inside traits",
+     "small": "Outside traits",
+     "determined": "Inside traits"
+    }
+   },
+   {
+    "type": "choice",
+    "title": "Circle the sentence that uses because correctly.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "",
+      "options": [
+       "Ira is brave because she jumps into the deep end.",
+       "Ira is brave because she has a purple cap."
+      ],
+      "after": "",
+      "a": "Ira is brave because she jumps into the deep end."
+     },
+     {
+      "before": "",
+      "options": [
+       "Ira is encouraging because she is small.",
+       "Ira is encouraging because she cheers for Bilal."
+      ],
+      "after": "",
+      "a": "Ira is encouraging because she cheers for Bilal."
+     },
+     {
+      "before": "",
+      "options": [
+       "Ira is determined because she jumps though she is afraid.",
+       "Ira is determined because of her goggles."
+      ],
+      "after": "",
+      "a": "Ira is determined because she jumps though she is afraid."
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Ira is the tallest girl in the class.",
+      "a": false
+     },
+     {
+      "q": "Ira is afraid, but she still jumps.",
+      "a": true
+     },
+     {
+      "q": "A brave person can feel afraid.",
+      "a": true
+     },
+     {
+      "q": "Ira laughs at Bilal.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write a sentence with because.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "Ira is brave",
+      "a": "e.g. Ira is brave because she jumps into the deep end even though she is afraid."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a two-sentence sketch of Ira: how she looks, then what she is like.",
+    "marks": 4,
+    "lines": 2,
+    "a": "e.g. Ira is a small girl with a purple cap and big goggles. She is encouraging because she cheers for Bilal."
+   }
+  ]
+ },
+ {
+  "id": "character-sketch-10",
+  "topic": "character-sketch",
+  "number": 10,
+  "level": "Practice",
+  "title": "The Fishing Boat",
+  "intro": "Captain Mathew sails his fishing boat from Kochi before sunrise. His arms are strong and his face is wrinkled by the sun. He shares the day's catch equally with his crew and throws the baby fish back into the sea.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each trait to its clue.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "fair",
+      "right": "He shares the catch equally with his crew."
+     },
+     {
+      "left": "thoughtful",
+      "right": "He throws the baby fish back into the sea."
+     },
+     {
+      "left": "hardworking",
+      "right": "He sails before sunrise."
+     },
+     {
+      "left": "strong",
+      "right": "The story says his arms are strong."
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blanks from the story.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Captain Mathew sails from ___.",
+      "a": "Kochi"
+     },
+     {
+      "q": "His face is ___ by the sun.",
+      "a": "wrinkled"
+     },
+     {
+      "q": "He throws the ___ fish back into the sea.",
+      "a": "baby"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct word.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "\"Strong arms\" is an",
+      "options": [
+       "inside",
+       "outside"
+      ],
+      "after": "trait.",
+      "a": "outside"
+     },
+     {
+      "before": "\"Fair\" is an",
+      "options": [
+       "inside",
+       "outside"
+      ],
+      "after": "trait.",
+      "a": "inside"
+     },
+     {
+      "before": "A captain who kept all the fish would be",
+      "options": [
+       "greedy",
+       "fair"
+      ],
+      "after": ".",
+      "a": "greedy"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Finish each sentence with a clue from the story.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Captain Mathew is fair because",
+      "a": "e.g. Captain Mathew is fair because he shares the catch equally with his crew."
+     },
+     {
+      "q": "Captain Mathew is hardworking because",
+      "a": "e.g. Captain Mathew is hardworking because he sails before sunrise."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write the first sentence of your sketch. Tell how the captain looks.",
+    "marks": 3,
+    "lines": 2,
+    "a": "e.g. Captain Mathew is a fisherman with strong arms and a wrinkled face."
+   }
+  ]
+ },
+ {
+  "id": "character-sketch-11",
+  "topic": "character-sketch",
+  "number": 11,
+  "level": "Challenge",
+  "title": "The Village Well",
+  "intro": "Gauri is nine. She has two tight braids and wears her brother's old shirt. Each morning she carries water for the widow next door before she fills her own pot. When the boys tease her, she laughs and keeps walking.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Gauri fills her own pot first.",
+      "a": false
+     },
+     {
+      "q": "Gauri gets angry when the boys tease her.",
+      "a": false
+     },
+     {
+      "q": "\"Two tight braids\" goes on the outside of the drawing.",
+      "a": true
+     },
+     {
+      "q": "Carrying water for a neighbour is a clue for \"helpful\".",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each trait to its clue.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "helpful",
+      "right": "She carries water for the widow next door."
+     },
+     {
+      "left": "unselfish",
+      "right": "She fills her own pot last."
+     },
+     {
+      "left": "good-humoured",
+      "right": "She laughs when the boys tease her."
+     },
+     {
+      "left": "strong",
+      "right": "She carries two full pots every morning."
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the stronger sentence for a sketch.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "",
+      "options": [
+       "Gauri is nice.",
+       "Gauri is helpful because she carries water for her neighbour."
+      ],
+      "after": "",
+      "a": "Gauri is helpful because she carries water for her neighbour."
+     },
+     {
+      "before": "",
+      "options": [
+       "Gauri has two tight braids and an old shirt.",
+       "Gauri looks like a girl."
+      ],
+      "after": "",
+      "a": "Gauri has two tight braids and an old shirt."
+     },
+     {
+      "before": "",
+      "options": [
+       "She is good.",
+       "She is good-humoured because she laughs when she is teased."
+      ],
+      "after": "",
+      "a": "She is good-humoured because she laughs when she is teased."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a three-sentence sketch of Gauri: how she looks, then two inside traits with because.",
+    "marks": 6,
+    "lines": 3,
+    "a": "e.g. Gauri has two tight braids and wears an old shirt. She is helpful because she carries water for the widow. She is good-humoured because she laughs when the boys tease her."
+   },
+   {
+    "type": "lines",
+    "title": "Would you like Gauri as a neighbour? Why?",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. Yes, because she helps people who need it. Any reason from the story."
+   }
+  ]
+ },
+ {
+  "id": "character-sketch-12",
+  "topic": "character-sketch",
+  "number": 12,
+  "level": "Challenge",
+  "title": "The Museum Guide",
+  "intro": "Ms Amal guides children around the museum in Abu Dhabi. She is tall, wears a silver name badge and speaks softly. She kneels down to answer the smallest child's question, and she says \"Good thinking!\" even when an answer is wrong.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the clues. What does each one show?",
+    "marks": 6,
+    "groups": [
+     "How she looks",
+     "What she is like"
+    ],
+    "words": [
+     "She is tall.",
+     "She kneels to answer a small child.",
+     "She wears a silver name badge.",
+     "She says \"Good thinking!\"",
+     "She wears flat blue shoes.",
+     "She never hurries a slow reader."
+    ],
+    "a": {
+     "She is tall.": "How she looks",
+     "She kneels to answer a small child.": "What she is like",
+     "She wears a silver name badge.": "How she looks",
+     "She says \"Good thinking!\"": "What she is like",
+     "She wears flat blue shoes.": "How she looks",
+     "She never hurries a slow reader.": "What she is like"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Write the trait. Use: encouraging, respectful, patient.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "She says \"Good thinking!\" so she is ___.",
+      "a": "encouraging"
+     },
+     {
+      "q": "She kneels down to listen to a small child, so she is ___.",
+      "a": "respectful"
+     },
+     {
+      "q": "She never hurries a slow reader, so she is ___.",
+      "a": "patient"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "What a character says can be a clue.",
+      "a": true
+     },
+     {
+      "q": "\"Ms Amal is encouraging because she is tall\" makes sense.",
+      "a": false
+     },
+     {
+      "q": "A sketch should give a clue for each inside trait.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Fix each sentence. Give a clue that fits the trait.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Ms Amal is encouraging because she wears a badge.",
+      "a": "e.g. Ms Amal is encouraging because she says \"Good thinking!\" even when an answer is wrong."
+     },
+     {
+      "q": "Ms Amal is respectful because she is tall.",
+      "a": "e.g. Ms Amal is respectful because she kneels down to answer the smallest child."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write one sentence about how Ms Amal looks and sounds.",
+    "marks": 3,
+    "lines": 2,
+    "a": "e.g. Ms Amal is tall, wears a silver name badge and speaks softly."
+   }
+  ]
+ },
+ {
+  "id": "character-sketch-13",
+  "topic": "character-sketch",
+  "number": 13,
+  "level": "Challenge",
+  "title": "The Mountain Trek",
+  "intro": "Tenzin is a guide in Ladakh. He is short, with red cheeks and a woollen cap with ear flaps. When the fog came down, he tied the group together with a rope and led them slowly. He gave his own gloves to a shivering girl.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each trait to its clue.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "sensible",
+      "right": "He ties the group together with a rope."
+     },
+     {
+      "left": "selfless",
+      "right": "He gives his own gloves to a shivering girl."
+     },
+     {
+      "left": "calm",
+      "right": "He leads them slowly through the fog."
+     },
+     {
+      "left": "experienced",
+      "right": "He knows every path on the mountain."
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blanks from the story.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Tenzin is a guide in ___.",
+      "a": "Ladakh"
+     },
+     {
+      "q": "His woollen cap has ear ___.",
+      "a": "flaps"
+     },
+     {
+      "q": "He tied the group together with a ___.",
+      "a": "rope"
+     },
+     {
+      "q": "He gave away his own ___.",
+      "a": "gloves"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct answer.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Which is an outside trait?",
+      "options": [
+       "red cheeks",
+       "selfless"
+      ],
+      "after": "",
+      "a": "red cheeks"
+     },
+     {
+      "before": "Which is an inside trait?",
+      "options": [
+       "a woollen cap",
+       "calm"
+      ],
+      "after": "",
+      "a": "calm"
+     },
+     {
+      "before": "Which clue shows he is selfless?",
+      "options": [
+       "He is short.",
+       "He gives away his gloves."
+      ],
+      "after": "",
+      "a": "He gives away his gloves."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a three-sentence sketch of Tenzin. Use because two times.",
+    "marks": 6,
+    "lines": 3,
+    "a": "e.g. Tenzin is short, with red cheeks and a woollen cap. He is sensible because he ties the group together in the fog. He is selfless because he gives his gloves to a shivering girl."
+   },
+   {
+    "type": "lines",
+    "title": "What might a careless guide have done in the fog?",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. A careless guide might have walked fast and left people behind."
+   }
+  ]
+ },
+ {
+  "id": "character-sketch-14",
+  "topic": "character-sketch",
+  "number": 14,
+  "level": "Challenge",
+  "title": "The Night Market",
+  "intro": "Two stalls stand side by side. Bao is thin, with a paper lantern on his cart; he lets children taste a dumpling before they buy. Next to him, Mr Dorn has a shiny gold watch; he shoos children away and gives too little change.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the traits. Who do they describe?",
+    "marks": 6,
+    "groups": [
+     "Bao",
+     "Mr Dorn"
+    ],
+    "words": [
+     "thin",
+     "gold watch",
+     "generous",
+     "dishonest",
+     "welcoming",
+     "unfriendly"
+    ],
+    "a": {
+     "thin": "Bao",
+     "gold watch": "Mr Dorn",
+     "generous": "Bao",
+     "dishonest": "Mr Dorn",
+     "welcoming": "Bao",
+     "unfriendly": "Mr Dorn"
+    }
+   },
+   {
+    "type": "match",
+    "title": "Match each trait to its clue.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "generous",
+      "right": "He lets children taste a dumpling first."
+     },
+     {
+      "left": "dishonest",
+      "right": "He gives too little change."
+     },
+     {
+      "left": "unfriendly",
+      "right": "He shoos children away."
+     },
+     {
+      "left": "welcoming",
+      "right": "He hangs a bright lantern and waves people over."
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Two characters in the same story can be very different.",
+      "a": true
+     },
+     {
+      "q": "A gold watch proves that a person is honest.",
+      "a": false
+     },
+     {
+      "q": "We judge the inside traits from what the characters do.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write one sentence with because for each man.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Bao is generous",
+      "a": "e.g. Bao is generous because he lets children taste a dumpling before they buy."
+     },
+     {
+      "q": "Mr Dorn is dishonest",
+      "a": "e.g. Mr Dorn is dishonest because he gives too little change."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Which stall would you go to? Give a reason from the story.",
+    "marks": 3,
+    "lines": 2,
+    "a": "e.g. I would go to Bao's stall because he is kind to children. The reason must come from the story."
+   }
+  ]
+ },
+ {
+  "id": "character-sketch-15",
+  "topic": "character-sketch",
+  "number": 15,
+  "level": "Challenge",
+  "title": "My Own Story Character",
+  "intro": "Now you are the writer. Rhea made up a character: Zuzu, a girl inventor with oil on her nose and a tool belt, who builds a wheelchair ramp for her neighbour. Follow the same steps for a character of your own.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Write the missing step word: Draw, Label, Clue, Write.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Step 1: ___ the character.",
+      "a": "Draw"
+     },
+     {
+      "q": "Step 2: ___ the outside and inside traits.",
+      "a": "Label"
+     },
+     {
+      "q": "Step 3: Find a ___ for each inside trait.",
+      "a": "Clue / clue"
+     },
+     {
+      "q": "Step 4: ___ the sketch using because.",
+      "a": "Write"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct answer about Zuzu.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "\"Oil on her nose\" is an",
+      "options": [
+       "inside",
+       "outside"
+      ],
+      "after": "trait.",
+      "a": "outside"
+     },
+     {
+      "before": "She builds a ramp for her neighbour. She is",
+      "options": [
+       "helpful",
+       "lazy"
+      ],
+      "after": ".",
+      "a": "helpful"
+     },
+     {
+      "before": "She makes things nobody has made before. She is",
+      "options": [
+       "inventive",
+       "forgetful"
+      ],
+      "after": ".",
+      "a": "inventive"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Check Rhea's sketch. Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "\"Zuzu is helpful because she builds a ramp for her neighbour\" has a trait and a clue.",
+      "a": true
+     },
+     {
+      "q": "\"Zuzu is nice\" has a clue.",
+      "a": false
+     },
+     {
+      "q": "\"Zuzu wears a tool belt\" tells an outside trait.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Make up a character. Write the name, two outside traits and two inside traits.",
+    "marks": 5,
+    "lines": 2,
+    "a": "e.g. Captain Pip. Outside: red boots, a long coat. Inside: brave, funny. Check for two of each kind."
+   },
+   {
+    "type": "lines",
+    "title": "Write your sketch. Use because for each inside trait.",
+    "marks": 6,
+    "lines": 3,
+    "a": "e.g. Captain Pip wears red boots and a long coat. He is brave because he sails through storms. He is funny because he tells jokes to the fish. Each inside trait needs an action as a clue."
+   }
+  ]
+ }
+]

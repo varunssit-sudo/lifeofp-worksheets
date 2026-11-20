@@ -1,0 +1,2071 @@
+[
+ {
+  "id": "place-value-and-face-value-01",
+  "topic": "place-value-and-face-value",
+  "number": 1,
+  "level": "Starter",
+  "title": "Beads on the Abacus at School",
+  "intro": "Class 2 shows numbers with beads on the hundreds (H), tens (T) and ones (O) rods of the abacus.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Write the number the beads show.",
+    "items": [
+     {
+      "q": "2 beads on H, 4 beads on T and 3 beads on O show ___.",
+      "a": "243"
+     },
+     {
+      "q": "5 beads on H, 1 beads on T and 6 beads on O show ___.",
+      "a": "516"
+     },
+     {
+      "q": "1 beads on H, 3 beads on T and 4 beads on O show ___.",
+      "a": "134"
+     },
+     {
+      "q": "3 beads on H, 6 beads on T and 2 beads on O show ___.",
+      "a": "362"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct place.",
+    "items": [
+     {
+      "before": "In 243, the digit 4 is in the",
+      "options": [
+       "hundreds",
+       "tens",
+       "ones"
+      ],
+      "after": "place.",
+      "a": "tens"
+     },
+     {
+      "before": "In 516, the digit 5 is in the",
+      "options": [
+       "hundreds",
+       "tens",
+       "ones"
+      ],
+      "after": "place.",
+      "a": "hundreds"
+     },
+     {
+      "before": "In 134, the digit 4 is in the",
+      "options": [
+       "hundreds",
+       "tens",
+       "ones"
+      ],
+      "after": "place.",
+      "a": "ones"
+     },
+     {
+      "before": "In 362, the digit 6 is in the",
+      "options": [
+       "hundreds",
+       "tens",
+       "ones"
+      ],
+      "after": "place.",
+      "a": "tens"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "pairs",
+    "title": "Write the face value of the digit.",
+    "items": [
+     {
+      "q": "2 in 425",
+      "a": "2"
+     },
+     {
+      "q": "6 in 671",
+      "a": "6"
+     },
+     {
+      "q": "8 in 358",
+      "a": "8"
+     },
+     {
+      "q": "1 in 912",
+      "a": "1"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "The face value of 7 in 174 is 7.",
+      "a": true
+     },
+     {
+      "q": "In 285, the digit 8 is in the ones place.",
+      "a": false
+     },
+     {
+      "q": "A number with 3 hundreds, 1 ten and 9 ones is 319.",
+      "a": true
+     },
+     {
+      "q": "The face value of a digit changes when it moves to a new place.",
+      "a": false
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Help the children at the abacus.",
+    "items": [
+     {
+      "q": "Kabir puts 4 beads on H, 2 on T and 7 on O. His number is ___.",
+      "a": "427"
+     },
+     {
+      "q": "Lina shows 653. She has ___ beads on the T rod.",
+      "a": "5"
+     },
+     {
+      "q": "Tenzin shows 381. The digit in his hundreds place is ___.",
+      "a": "3"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "place-value-and-face-value-02",
+  "topic": "place-value-and-face-value",
+  "number": 2,
+  "level": "Starter",
+  "title": "Laddoo Boxes at the Sweet Shop",
+  "intro": "Mr. Gupta packs laddoos in trays of 100, boxes of 10 and loose ones.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the place value of the digit.",
+    "items": [
+     {
+      "q": "4 in 346",
+      "a": "40"
+     },
+     {
+      "q": "7 in 729",
+      "a": "700"
+     },
+     {
+      "q": "8 in 158",
+      "a": "8"
+     },
+     {
+      "q": "6 in 563",
+      "a": "60"
+     },
+     {
+      "q": "2 in 291",
+      "a": "200"
+     },
+     {
+      "q": "8 in 485",
+      "a": "80"
+     },
+     {
+      "q": "1 in 617",
+      "a": "10"
+     },
+     {
+      "q": "3 in 934",
+      "a": "30"
+     }
+    ],
+    "marks": 8
+   },
+   {
+    "type": "match",
+    "title": "Match the packing to the number of laddoos.",
+    "items": [
+     {
+      "left": "2 trays, 5 boxes, 3 loose",
+      "right": "253"
+     },
+     {
+      "left": "4 trays, 1 boxes, 6 loose",
+      "right": "416"
+     },
+     {
+      "left": "3 trays, 5 boxes, 2 loose",
+      "right": "352"
+     },
+     {
+      "left": "5 trays, 2 boxes, 3 loose",
+      "right": "523"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blanks.",
+    "items": [
+     {
+      "q": "In 472, the digit ___ is in the tens place.",
+      "a": "7"
+     },
+     {
+      "q": "In 835, the place value of 8 is ___.",
+      "a": "800"
+     },
+     {
+      "q": "In 169, the face value of 6 is ___.",
+      "a": "6"
+     },
+     {
+      "q": "In 794, the digit in the ones place is ___.",
+      "a": "4"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "The place value of 5 in 652 is 50.",
+      "a": true
+     },
+     {
+      "q": "The place value of 9 in 219 is 90.",
+      "a": false
+     },
+     {
+      "q": "The face value of 3 in 837 is 3.",
+      "a": true
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "fill",
+    "title": "Solve the sweet shop problems.",
+    "items": [
+     {
+      "q": "Zoya buys 2 trays, 3 boxes and 8 loose laddoos. She buys ___ laddoos.",
+      "a": "238"
+     },
+     {
+      "q": "A tray holds 100 laddoos. 6 full trays hold ___ laddoos.",
+      "a": "600"
+     },
+     {
+      "q": "Farid packs 745 laddoos. He fills ___ full trays.",
+      "a": "7"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "place-value-and-face-value-03",
+  "topic": "place-value-and-face-value",
+  "number": 3,
+  "level": "Starter",
+  "title": "Shells from Jumeirah Beach",
+  "intro": "Mira and her family collect shells at the beach and count them in hundreds, tens and ones.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write in expanded form.",
+    "items": [
+     {
+      "q": "264",
+      "a": "200 + 60 + 4"
+     },
+     {
+      "q": "537",
+      "a": "500 + 30 + 7"
+     },
+     {
+      "q": "189",
+      "a": "100 + 80 + 9"
+     },
+     {
+      "q": "721",
+      "a": "700 + 20 + 1"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "match",
+    "title": "Match the number to its name.",
+    "items": [
+     {
+      "left": "312",
+      "right": "three hundred twelve"
+     },
+     {
+      "left": "321",
+      "right": "three hundred twenty-one"
+     },
+     {
+      "left": "231",
+      "right": "two hundred thirty-one"
+     },
+     {
+      "left": "213",
+      "right": "two hundred thirteen"
+     },
+     {
+      "left": "123",
+      "right": "one hundred twenty-three"
+     }
+    ],
+    "marks": 5
+   },
+   {
+    "type": "pairs",
+    "title": "Write the number.",
+    "items": [
+     {
+      "q": "400 + 50 + 6",
+      "a": "456"
+     },
+     {
+      "q": "600 + 10 + 8",
+      "a": "618"
+     },
+     {
+      "q": "800 + 70 + 3",
+      "a": "873"
+     },
+     {
+      "q": "300 + 90 + 2",
+      "a": "392"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct answer.",
+    "items": [
+     {
+      "before": "The place value of 6 in 264 is",
+      "options": [
+       "6",
+       "60",
+       "600"
+      ],
+      "after": "",
+      "a": "60"
+     },
+     {
+      "before": "The face value of 5 in 537 is",
+      "options": [
+       "5",
+       "50",
+       "500"
+      ],
+      "after": "",
+      "a": "5"
+     },
+     {
+      "before": "900 + 40 + 5 is",
+      "options": [
+       "459",
+       "945",
+       "954"
+      ],
+      "after": "",
+      "a": "945"
+     },
+     {
+      "before": "Four hundred seventy-six is",
+      "options": [
+       "467",
+       "476",
+       "746"
+      ],
+      "after": "",
+      "a": "476"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Count the shells.",
+    "items": [
+     {
+      "q": "Mira finds 100 white shells, 40 pink shells and 5 brown shells. She has ___ shells.",
+      "a": "145"
+     },
+     {
+      "q": "Jonah has 238 shells. 238 = 200 + ___ + 8",
+      "a": "30"
+     },
+     {
+      "q": "Papa counts six hundred fifty-two shells. In figures this is ___.",
+      "a": "652"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "place-value-and-face-value-04",
+  "topic": "place-value-and-face-value",
+  "number": 4,
+  "level": "Starter",
+  "title": "Cricket Cards with Cousins",
+  "intro": "Arnav and his cousins swap cricket cards. Some card numbers have a zero in them.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Write the number.",
+    "items": [
+     {
+      "q": "4 hundreds, 0 tens and 6 ones = ___",
+      "a": "406"
+     },
+     {
+      "q": "7 hundreds, 3 tens and 0 ones = ___",
+      "a": "730"
+     },
+     {
+      "q": "2 hundreds, 0 tens and 9 ones = ___",
+      "a": "209"
+     },
+     {
+      "q": "5 hundreds, 8 tens and 0 ones = ___",
+      "a": "580"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "sort",
+    "title": "Sort the card numbers.",
+    "marks": 4,
+    "groups": [
+     "Zero in the tens place",
+     "Zero in the ones place"
+    ],
+    "words": [
+     "305",
+     "350",
+     "608",
+     "680",
+     "901",
+     "910",
+     "207",
+     "470"
+    ],
+    "a": {
+     "305": "Zero in the tens place",
+     "350": "Zero in the ones place",
+     "608": "Zero in the tens place",
+     "680": "Zero in the ones place",
+     "901": "Zero in the tens place",
+     "910": "Zero in the ones place",
+     "207": "Zero in the tens place",
+     "470": "Zero in the ones place"
+    }
+   },
+   {
+    "type": "pairs",
+    "title": "Write the place value of the digit.",
+    "items": [
+     {
+      "q": "5 in 504",
+      "a": "500"
+     },
+     {
+      "q": "6 in 160",
+      "a": "60"
+     },
+     {
+      "q": "2 in 802",
+      "a": "2"
+     },
+     {
+      "q": "9 in 390",
+      "a": "90"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "In 507 there are no tens.",
+      "a": true
+     },
+     {
+      "q": "608 and 68 are the same number.",
+      "a": false
+     },
+     {
+      "q": "The place value of 0 in 340 is 0.",
+      "a": true
+     },
+     {
+      "q": "Six hundred four is written as 64.",
+      "a": false
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Find the card numbers.",
+    "items": [
+     {
+      "q": "Arnav has two hundred eight cards. In figures: ___",
+      "a": "208"
+     },
+     {
+      "q": "Sunita's card has 9 hundreds, no tens and 3 ones. Its number is ___.",
+      "a": "903"
+     },
+     {
+      "q": "Pablo's card has 4 hundreds, 5 tens and no ones. Its number is ___.",
+      "a": "450"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "place-value-and-face-value-05",
+  "topic": "place-value-and-face-value",
+  "number": 5,
+  "level": "Practice",
+  "title": "The Dubai Metro Ride",
+  "intro": "Hamza rides the Metro with his aunt and spots numbers on tickets, signs and coaches.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match the digit to its place value.",
+    "items": [
+     {
+      "left": "5 in 652",
+      "right": "50"
+     },
+     {
+      "left": "5 in 265",
+      "right": "5"
+     },
+     {
+      "left": "5 in 526",
+      "right": "500"
+     },
+     {
+      "left": "2 in 265",
+      "right": "200"
+     },
+     {
+      "left": "2 in 526",
+      "right": "20"
+     }
+    ],
+    "marks": 5
+   },
+   {
+    "type": "pairs",
+    "title": "Write in expanded form.",
+    "items": [
+     {
+      "q": "847",
+      "a": "800 + 40 + 7"
+     },
+     {
+      "q": "395",
+      "a": "300 + 90 + 5"
+     },
+     {
+      "q": "618",
+      "a": "600 + 10 + 8"
+     },
+     {
+      "q": "254",
+      "a": "200 + 50 + 4"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blanks.",
+    "items": [
+     {
+      "q": "The face value of 3 in 739 is ___.",
+      "a": "3"
+     },
+     {
+      "q": "The place value of 3 in 739 is ___.",
+      "a": "30"
+     },
+     {
+      "q": "The digit in the hundreds place of 481 is ___.",
+      "a": "4"
+     },
+     {
+      "q": "In 926, the digit 6 is in the ___ place.",
+      "a": "ones"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct number name.",
+    "items": [
+     {
+      "before": "Ticket 365 is",
+      "options": [
+       "three hundred sixty-five",
+       "three hundred fifty-six"
+      ],
+      "after": "",
+      "a": "three hundred sixty-five"
+     },
+     {
+      "before": "Coach 518 is",
+      "options": [
+       "five hundred eighty-one",
+       "five hundred eighteen"
+      ],
+      "after": "",
+      "a": "five hundred eighteen"
+     },
+     {
+      "before": "Seat 240 is",
+      "options": [
+       "two hundred forty",
+       "two hundred fourteen"
+      ],
+      "after": "",
+      "a": "two hundred forty"
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "fill",
+    "title": "Solve the Metro problems.",
+    "items": [
+     {
+      "q": "Hamza's ticket number has 6 hundreds, 4 tens and 2 ones. It is ___.",
+      "a": "642"
+     },
+     {
+      "q": "A sign shows 800 + 30 + 9. The number is ___.",
+      "a": "839"
+     },
+     {
+      "q": "Aunt Noor pays ₹ 125. The place value of 1 in 125 is ___.",
+      "a": "100"
+     },
+     {
+      "q": "In 317, the digit with the greatest place value is ___.",
+      "a": "3"
+     }
+    ],
+    "marks": 4
+   }
+  ]
+ },
+ {
+  "id": "place-value-and-face-value-06",
+  "topic": "place-value-and-face-value",
+  "number": 6,
+  "level": "Practice",
+  "title": "Lamps for Diwali Night",
+  "intro": "Tanvi and her family count diyas, candles and lanterns for Diwali.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the place value of the digit.",
+    "items": [
+     {
+      "q": "8 in 583",
+      "a": "80"
+     },
+     {
+      "q": "7 in 746",
+      "a": "700"
+     },
+     {
+      "q": "9 in 291",
+      "a": "90"
+     },
+     {
+      "q": "5 in 615",
+      "a": "5"
+     },
+     {
+      "q": "3 in 437",
+      "a": "30"
+     },
+     {
+      "q": "2 in 862",
+      "a": "2"
+     },
+     {
+      "q": "4 in 974",
+      "a": "4"
+     },
+     {
+      "q": "1 in 128",
+      "a": "100"
+     }
+    ],
+    "marks": 8
+   },
+   {
+    "type": "match",
+    "title": "Match the number to its name.",
+    "items": [
+     {
+      "left": "450",
+      "right": "four hundred fifty"
+     },
+     {
+      "left": "405",
+      "right": "four hundred five"
+     },
+     {
+      "left": "540",
+      "right": "five hundred forty"
+     },
+     {
+      "left": "504",
+      "right": "five hundred four"
+     },
+     {
+      "left": "545",
+      "right": "five hundred forty-five"
+     }
+    ],
+    "marks": 5
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "The place value and the face value of 7 in 317 are the same.",
+      "a": true
+     },
+     {
+      "q": "The place value of 4 in 948 is 400.",
+      "a": false
+     },
+     {
+      "q": "600 + 5 = 65",
+      "a": false
+     },
+     {
+      "q": "In 380, zero holds the ones place.",
+      "a": true
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "pairs",
+    "title": "Write the number.",
+    "items": [
+     {
+      "q": "700 + 60 + 2",
+      "a": "762"
+     },
+     {
+      "q": "500 + 9",
+      "a": "509"
+     },
+     {
+      "q": "200 + 80",
+      "a": "280"
+     },
+     {
+      "q": "900 + 10 + 4",
+      "a": "914"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Count the lamps.",
+    "items": [
+     {
+      "q": "Tanvi's family lights 236 diyas. 236 = 200 + 30 + ___",
+      "a": "6"
+     },
+     {
+      "q": "Dadi buys one hundred seventy candles. In figures: ___",
+      "a": "170"
+     },
+     {
+      "q": "The shop has 358 lanterns. The digit 5 stands for ___ lanterns.",
+      "a": "50"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "place-value-and-face-value-07",
+  "topic": "place-value-and-face-value",
+  "number": 7,
+  "level": "Practice",
+  "title": "The Juice Stall at Global Village",
+  "intro": "Samir helps at his uncle's juice stall and looks closely at every number.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the numbers by the place of the digit 6.",
+    "marks": 3,
+    "groups": [
+     "6 in the hundreds place",
+     "6 in the tens place",
+     "6 in the ones place"
+    ],
+    "words": [
+     "618",
+     "364",
+     "536",
+     "692",
+     "167",
+     "406"
+    ],
+    "a": {
+     "618": "6 in the hundreds place",
+     "364": "6 in the tens place",
+     "536": "6 in the ones place",
+     "692": "6 in the hundreds place",
+     "167": "6 in the tens place",
+     "406": "6 in the ones place"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Write the face value or the place value.",
+    "items": [
+     {
+      "q": "In 483, the face value of 8 is ___.",
+      "a": "8"
+     },
+     {
+      "q": "In 483, the place value of 8 is ___.",
+      "a": "80"
+     },
+     {
+      "q": "In 915, the place value of 9 is ___.",
+      "a": "900"
+     },
+     {
+      "q": "In 257, the place value of 5 is ___.",
+      "a": "50"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct answer.",
+    "items": [
+     {
+      "before": "The number with 3 in the tens place is",
+      "options": [
+       "735",
+       "357",
+       "573"
+      ],
+      "after": "",
+      "a": "735"
+     },
+     {
+      "before": "The number with 9 in the hundreds place is",
+      "options": [
+       "294",
+       "942",
+       "429"
+      ],
+      "after": "",
+      "a": "942"
+     },
+     {
+      "before": "The number where 4 has the place value 4 is",
+      "options": [
+       "418",
+       "841",
+       "184"
+      ],
+      "after": "",
+      "a": "184"
+     },
+     {
+      "before": "The expanded form of 520 is",
+      "options": [
+       "500 + 2",
+       "500 + 20",
+       "50 + 20"
+      ],
+      "after": "",
+      "a": "500 + 20"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the sentence again with the number in words.",
+    "items": [
+     {
+      "q": "The stall sold 248 glasses of juice.",
+      "a": "The stall sold two hundred forty-eight glasses of juice. / The stall sold two hundred and forty-eight glasses of juice."
+     },
+     {
+      "q": "Uncle bought 730 oranges.",
+      "a": "Uncle bought seven hundred thirty oranges. / Uncle bought seven hundred and thirty oranges."
+     }
+    ],
+    "marks": 2
+   },
+   {
+    "type": "fill",
+    "title": "Solve the juice stall problems.",
+    "items": [
+     {
+      "q": "Samir gets ₹ 135 for a tray of juice. The digit in the tens place is ___.",
+      "a": "3"
+     },
+     {
+      "q": "The stall has 400 + 60 + 8 paper cups. That is ___ cups.",
+      "a": "468"
+     },
+     {
+      "q": "Elena counts 7 hundreds and 2 tens of straws. That is ___ straws.",
+      "a": "720"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "place-value-and-face-value-08",
+  "topic": "place-value-and-face-value",
+  "number": 8,
+  "level": "Practice",
+  "title": "Milk Crates at the Dairy",
+  "intro": "The dairy packs milk bottles in crates of 100, trays of 10 and single bottles.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in the blanks.",
+    "items": [
+     {
+      "q": "10 tens = ___ hundred",
+      "a": "1"
+     },
+     {
+      "q": "1 hundred = ___ tens",
+      "a": "10"
+     },
+     {
+      "q": "3 hundreds = ___ ones",
+      "a": "300"
+     },
+     {
+      "q": "5 tens = ___ ones",
+      "a": "50"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "pairs",
+    "title": "Write in expanded form.",
+    "items": [
+     {
+      "q": "936",
+      "a": "900 + 30 + 6"
+     },
+     {
+      "q": "248",
+      "a": "200 + 40 + 8"
+     },
+     {
+      "q": "705",
+      "a": "700 + 5 / 700 + 0 + 5"
+     },
+     {
+      "q": "460",
+      "a": "400 + 60 / 400 + 60 + 0"
+     },
+     {
+      "q": "573",
+      "a": "500 + 70 + 3"
+     },
+     {
+      "q": "819",
+      "a": "800 + 10 + 9"
+     }
+    ],
+    "marks": 6
+   },
+   {
+    "type": "match",
+    "title": "Match to the number.",
+    "items": [
+     {
+      "left": "8 hundreds 2 ones",
+      "right": "802"
+     },
+     {
+      "left": "8 tens 2 ones",
+      "right": "82"
+     },
+     {
+      "left": "8 hundreds 2 tens",
+      "right": "820"
+     },
+     {
+      "left": "2 hundreds 8 tens",
+      "right": "280"
+     },
+     {
+      "left": "2 hundreds 8 ones",
+      "right": "208"
+     }
+    ],
+    "marks": 5
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "The place value of 2 in 248 is 200.",
+      "a": true
+     },
+     {
+      "q": "705 = 700 + 50",
+      "a": false
+     },
+     {
+      "q": "In 460, the face value of 6 is 60.",
+      "a": false
+     },
+     {
+      "q": "4 hundreds, 1 ten and 1 one make 411.",
+      "a": true
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Solve the dairy problems.",
+    "items": [
+     {
+      "q": "Gopal loads 3 crates, 4 trays and 5 single bottles. He loads ___ bottles.",
+      "a": "345"
+     },
+     {
+      "q": "Rania counts 627 bottles. She fills ___ full crates.",
+      "a": "6"
+     },
+     {
+      "q": "A van carries 5 crates and 9 single bottles. That is ___ bottles.",
+      "a": "509"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "place-value-and-face-value-09",
+  "topic": "place-value-and-face-value",
+  "number": 9,
+  "level": "Practice",
+  "title": "Parcels at the Courier Office",
+  "intro": "Leela visits the courier office where every parcel has a number on its label.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the number name.",
+    "items": [
+     {
+      "q": "119",
+      "a": "one hundred nineteen / one hundred and nineteen"
+     },
+     {
+      "q": "340",
+      "a": "three hundred forty / three hundred and forty"
+     },
+     {
+      "q": "607",
+      "a": "six hundred seven / six hundred and seven"
+     },
+     {
+      "q": "812",
+      "a": "eight hundred twelve / eight hundred and twelve"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct answer.",
+    "items": [
+     {
+      "before": "The place value of 0 in 408 is",
+      "options": [
+       "0",
+       "10",
+       "100"
+      ],
+      "after": "",
+      "a": "0"
+     },
+     {
+      "before": "The number name of 660 is",
+      "options": [
+       "six hundred six",
+       "six hundred sixty"
+      ],
+      "after": "",
+      "a": "six hundred sixty"
+     },
+     {
+      "before": "In 973, the digit with the smallest place value is",
+      "options": [
+       "9",
+       "7",
+       "3"
+      ],
+      "after": "",
+      "a": "3"
+     },
+     {
+      "before": "The face value of 9 in 195 is",
+      "options": [
+       "9",
+       "90",
+       "900"
+      ],
+      "after": "",
+      "a": "9"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "sort",
+    "title": "Sort by the place value of the digit 7.",
+    "marks": 3,
+    "groups": [
+     "700",
+     "70",
+     "7"
+    ],
+    "words": [
+     "372",
+     "706",
+     "147",
+     "479",
+     "753",
+     "237"
+    ],
+    "a": {
+     "372": "70",
+     "706": "700",
+     "147": "7",
+     "479": "70",
+     "753": "700",
+     "237": "7"
+    }
+   },
+   {
+    "type": "pairs",
+    "title": "Write the number in figures.",
+    "items": [
+     {
+      "q": "five hundred ninety",
+      "a": "590"
+     },
+     {
+      "q": "seven hundred thirteen",
+      "a": "713"
+     },
+     {
+      "q": "two hundred six",
+      "a": "206"
+     },
+     {
+      "q": "four hundred fifty-one",
+      "a": "451"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "Seven hundred seven is written as 707.",
+      "a": true
+     },
+     {
+      "q": "Four hundred sixteen is written as 460.",
+      "a": false
+     },
+     {
+      "q": "The number name of 930 is nine hundred thirty.",
+      "a": true
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "fill",
+    "title": "Read the parcel labels.",
+    "items": [
+     {
+      "q": "A parcel weighs two hundred fifteen grams. In figures: ___ grams",
+      "a": "215"
+     },
+     {
+      "q": "Leela posts parcel 864. The digit 6 stands for ___.",
+      "a": "60"
+     },
+     {
+      "q": "Bruno's parcel number is 300 + 2. The number is ___.",
+      "a": "302"
+     },
+     {
+      "q": "The office sorted 500 + 80 + 1 parcels today. That is ___ parcels.",
+      "a": "581"
+     }
+    ],
+    "marks": 4
+   }
+  ]
+ },
+ {
+  "id": "place-value-and-face-value-10",
+  "topic": "place-value-and-face-value",
+  "number": 10,
+  "level": "Practice",
+  "title": "Rangoli Colours for Pongal",
+  "intro": "Kavin's street makes a giant rangoli for Pongal. He counts the cups of coloured powder.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in the missing part.",
+    "items": [
+     {
+      "q": "629 = 600 + ___ + 9",
+      "a": "20"
+     },
+     {
+      "q": "784 = ___ + 80 + 4",
+      "a": "700"
+     },
+     {
+      "q": "503 = 500 + ___",
+      "a": "3"
+     },
+     {
+      "q": "961 = 900 + 60 + ___",
+      "a": "1"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "match",
+    "title": "Match the digit to its place value.",
+    "items": [
+     {
+      "left": "4 in 142",
+      "right": "40"
+     },
+     {
+      "left": "4 in 421",
+      "right": "400"
+     },
+     {
+      "left": "4 in 214",
+      "right": "4"
+     },
+     {
+      "left": "1 in 142",
+      "right": "100"
+     },
+     {
+      "left": "1 in 214",
+      "right": "10"
+     }
+    ],
+    "marks": 5
+   },
+   {
+    "type": "choice",
+    "title": "Circle the number that fits.",
+    "items": [
+     {
+      "before": "8 in the tens place:",
+      "options": [
+       "829",
+       "298",
+       "982"
+      ],
+      "after": "",
+      "a": "982"
+     },
+     {
+      "before": "0 in the ones place:",
+      "options": [
+       "601",
+       "610",
+       "106"
+      ],
+      "after": "",
+      "a": "610"
+     },
+     {
+      "before": "5 with the place value 500:",
+      "options": [
+       "152",
+       "215",
+       "531"
+      ],
+      "after": "",
+      "a": "531"
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "In 777, every 7 has the same face value.",
+      "a": true
+     },
+     {
+      "q": "In 777, every 7 has the same place value.",
+      "a": false
+     },
+     {
+      "q": "The place value of 3 in 836 is 30.",
+      "a": true
+     },
+     {
+      "q": "Nine hundred nine is written as 990.",
+      "a": false
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "lines",
+    "title": "Kavin uses 264 cups of powder. Write the place value and the face value of 6 in 264.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. The place value of 6 is 60. The face value of 6 is 6."
+   }
+  ]
+ },
+ {
+  "id": "place-value-and-face-value-11",
+  "topic": "place-value-and-face-value",
+  "number": 11,
+  "level": "Challenge",
+  "title": "The Missing Zero at the Bakery",
+  "intro": "Some zeros have fallen off the bakery's number board. Yusra puts the numbers right.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Write the number in figures.",
+    "items": [
+     {
+      "q": "Five hundred six bread rolls: ___",
+      "a": "506"
+     },
+     {
+      "q": "8 hundreds and 4 ones = ___",
+      "a": "804"
+     },
+     {
+      "q": "7 hundreds and 1 ten = ___",
+      "a": "710"
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "407 and 47 have the same value.",
+      "a": false
+     },
+     {
+      "q": "In 90, the zero shows that there are no ones.",
+      "a": true
+     },
+     {
+      "q": "250 and 205 are the same number.",
+      "a": false
+     },
+     {
+      "q": "The place value of 0 is always 0.",
+      "a": true
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct answer.",
+    "items": [
+     {
+      "before": "If the zero falls off 603, it looks like",
+      "options": [
+       "63",
+       "630",
+       "36"
+      ],
+      "after": "",
+      "a": "63"
+     },
+     {
+      "before": "The number with no tens is",
+      "options": [
+       "410",
+       "401",
+       "140"
+      ],
+      "after": "",
+      "a": "401"
+     },
+     {
+      "before": "The number with no ones is",
+      "options": [
+       "308",
+       "380",
+       "803"
+      ],
+      "after": "",
+      "a": "380"
+     },
+     {
+      "before": "400 + 9 is",
+      "options": [
+       "49",
+       "409",
+       "490"
+      ],
+      "after": "",
+      "a": "409"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "pairs",
+    "title": "Write in expanded form.",
+    "items": [
+     {
+      "q": "902",
+      "a": "900 + 2 / 900 + 0 + 2"
+     },
+     {
+      "q": "160",
+      "a": "100 + 60 / 100 + 60 + 0"
+     },
+     {
+      "q": "530",
+      "a": "500 + 30 / 500 + 30 + 0"
+     },
+     {
+      "q": "208",
+      "a": "200 + 8 / 200 + 0 + 8"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Fix the bakery numbers.",
+    "items": [
+     {
+      "q": "Yusra bakes 3 hundreds and 5 ones of cookies. She writes ___.",
+      "a": "305"
+     },
+     {
+      "q": "The baker writes 72 but means seven hundred two. The right number is ___.",
+      "a": "702"
+     },
+     {
+      "q": "A big cake costs ₹ 640. The digit in the ones place is ___.",
+      "a": "0"
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "lines",
+    "title": "Why is the zero in 508 important?",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. The zero shows there are no tens. Without it the number would look like 58."
+   }
+  ]
+ },
+ {
+  "id": "place-value-and-face-value-12",
+  "topic": "place-value-and-face-value",
+  "number": 12,
+  "level": "Challenge",
+  "title": "The Chocolate Factory Tour",
+  "intro": "Idris and his class visit a camel milk chocolate factory in Dubai and count the boxes.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Subtract the face value from the place value.",
+    "items": [
+     {
+      "q": "In 462: place value of 6 − face value of 6 = ___",
+      "a": "54"
+     },
+     {
+      "q": "In 835: place value of 8 − face value of 8 = ___",
+      "a": "792"
+     },
+     {
+      "q": "In 279: place value of 7 − face value of 7 = ___",
+      "a": "63"
+     },
+     {
+      "q": "In 341: place value of 1 − face value of 1 = ___",
+      "a": "0"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "pairs",
+    "title": "Add the place values of the two digits.",
+    "items": [
+     {
+      "q": "3 and 5 in 395",
+      "a": "305"
+     },
+     {
+      "q": "7 and 2 in 172",
+      "a": "72"
+     },
+     {
+      "q": "6 and 4 in 684",
+      "a": "604"
+     },
+     {
+      "q": "9 and 1 in 219",
+      "a": "19"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "In 484, both 4s have the same place value.",
+      "a": false
+     },
+     {
+      "q": "In 484, both 4s have the same face value.",
+      "a": true
+     },
+     {
+      "q": "A digit in the ones place has the same place value and face value.",
+      "a": true
+     },
+     {
+      "q": "In 925, the place value of 2 is greater than the place value of 5.",
+      "a": true
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct number.",
+    "items": [
+     {
+      "before": "5 has the greatest place value in",
+      "options": [
+       "350",
+       "503",
+       "835"
+      ],
+      "after": "",
+      "a": "503"
+     },
+     {
+      "before": "3 has the smallest place value in",
+      "options": [
+       "381",
+       "138",
+       "813"
+      ],
+      "after": "",
+      "a": "813"
+     },
+     {
+      "before": "The place value of 9 is 90 in",
+      "options": [
+       "149",
+       "914",
+       "395"
+      ],
+      "after": "",
+      "a": "395"
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "fill",
+    "title": "Solve the factory problems.",
+    "items": [
+     {
+      "q": "A box holds 248 chocolates. Place value of 2 − face value of 2 = ___",
+      "a": "198"
+     },
+     {
+      "q": "Idris counts 3 hundreds and 12 tens of wrappers. That is ___ wrappers.",
+      "a": "420"
+     },
+     {
+      "q": "Wei sees 15 tens of gift bags. That is ___ gift bags.",
+      "a": "150"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "place-value-and-face-value-13",
+  "topic": "place-value-and-face-value",
+  "number": 13,
+  "level": "Challenge",
+  "title": "Secret Codes at the Treasure Hunt",
+  "intro": "Ayesha and Oscar must crack number codes to open each treasure box.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Who am I?",
+    "items": [
+     {
+      "q": "I have 5 hundreds, 2 tens and 8 ones. I am ___.",
+      "a": "528"
+     },
+     {
+      "q": "My hundreds digit is 7, my ones digit is 1 and I have no tens. I am ___.",
+      "a": "701"
+     },
+     {
+      "q": "My tens digit is 4. My hundreds digit is double my tens digit. My ones digit is 3. I am ___.",
+      "a": "843"
+     },
+     {
+      "q": "All three of my digits are 6. I am ___.",
+      "a": "666"
+     },
+     {
+      "q": "I am 400 + 90. I am ___.",
+      "a": "490"
+     }
+    ],
+    "marks": 5
+   },
+   {
+    "type": "match",
+    "title": "Match the clue to the code.",
+    "items": [
+     {
+      "left": "3 in the hundreds place, 9 in the tens place",
+      "right": "397"
+     },
+     {
+      "left": "3 in the hundreds place, 9 in the ones place",
+      "right": "379"
+     },
+     {
+      "left": "9 in the hundreds place, 7 in the ones place",
+      "right": "937"
+     },
+     {
+      "left": "9 in the tens place, 3 in the ones place",
+      "right": "793"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct answer.",
+    "items": [
+     {
+      "before": "Swap the tens and ones digits of 258. You get",
+      "options": [
+       "285",
+       "528",
+       "852"
+      ],
+      "after": "",
+      "a": "285"
+     },
+     {
+      "before": "Swap the hundreds and ones digits of 416. You get",
+      "options": [
+       "614",
+       "461",
+       "146"
+      ],
+      "after": "",
+      "a": "614"
+     },
+     {
+      "before": "In 672, the digit with the greatest place value is",
+      "options": [
+       "6",
+       "7",
+       "2"
+      ],
+      "after": "",
+      "a": "6"
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "Swap the digits of 36. Now the place value of 3 is 3.",
+      "a": true
+     },
+     {
+      "q": "In 505, the two 5s stand for 500 and 5.",
+      "a": true
+     },
+     {
+      "q": "The number with 2 hundreds, no tens and no ones is 20.",
+      "a": false
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "lines",
+    "title": "Write your own Who am I? clue for the number 374.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I have 3 hundreds, 7 tens and 4 ones. Who am I?"
+   }
+  ]
+ },
+ {
+  "id": "place-value-and-face-value-14",
+  "topic": "place-value-and-face-value",
+  "number": 14,
+  "level": "Challenge",
+  "title": "Scoreboard at the Kabaddi Match",
+  "intro": "Jasleen keeps the scoreboard for the school kabaddi league.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the number.",
+    "items": [
+     {
+      "q": "40 + 300 + 7",
+      "a": "347"
+     },
+     {
+      "q": "8 + 600 + 50",
+      "a": "658"
+     },
+     {
+      "q": "90 + 2 + 100",
+      "a": "192"
+     },
+     {
+      "q": "5 + 700",
+      "a": "705"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Write the new number.",
+    "items": [
+     {
+      "q": "Add 1 ten to 352. The new number is ___.",
+      "a": "362"
+     },
+     {
+      "q": "Add 1 hundred to 418. The new number is ___.",
+      "a": "518"
+     },
+     {
+      "q": "Take away 1 ten from 675. The new number is ___.",
+      "a": "665"
+     },
+     {
+      "q": "Add 1 ten to 290. The new number is ___.",
+      "a": "300"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the place of the digit that changes.",
+    "items": [
+     {
+      "before": "100 more than 263 changes the digit in the",
+      "options": [
+       "hundreds",
+       "tens",
+       "ones"
+      ],
+      "after": "place.",
+      "a": "hundreds"
+     },
+     {
+      "before": "10 more than 541 changes the digit in the",
+      "options": [
+       "hundreds",
+       "tens",
+       "ones"
+      ],
+      "after": "place.",
+      "a": "tens"
+     },
+     {
+      "before": "1 more than 327 changes the digit in the",
+      "options": [
+       "hundreds",
+       "tens",
+       "ones"
+      ],
+      "after": "place.",
+      "a": "ones"
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "200 + 70 + 5 and 70 + 5 + 200 are the same number.",
+      "a": true
+     },
+     {
+      "q": "10 more than 384 is 484.",
+      "a": false
+     },
+     {
+      "q": "Add 1 ten to 394 and you get 404.",
+      "a": true
+     },
+     {
+      "q": "600 + 13 = 613",
+      "a": true
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Solve the scoreboard problems.",
+    "items": [
+     {
+      "q": "The Blue Panthers have 245 points. They win 1 hundred more. Now they have ___ points.",
+      "a": "345"
+     },
+     {
+      "q": "Jasleen counts 30 + 500 + 6 fans. That is ___ fans.",
+      "a": "536"
+     },
+     {
+      "q": "The Red Tigers have 187 points. The place value of the digit 8 is ___.",
+      "a": "80"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "place-value-and-face-value-15",
+  "topic": "place-value-and-face-value",
+  "number": 15,
+  "level": "Challenge",
+  "title": "The Class Shop on Market Day",
+  "intro": "Class 2 runs a pretend shop. The children pay with ₹100 notes, ₹10 coins and ₹1 coins.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Count the money.",
+    "items": [
+     {
+      "q": "3 notes of ₹100, 4 coins of ₹10 and 2 coins of ₹1 make ₹ ___.",
+      "a": "342"
+     },
+     {
+      "q": "6 notes of ₹100 and 7 coins of ₹1 make ₹ ___.",
+      "a": "607"
+     },
+     {
+      "q": "₹ 580 = ___ notes of ₹100 and 8 coins of ₹10",
+      "a": "5"
+     },
+     {
+      "q": "12 coins of ₹10 make ₹ ___.",
+      "a": "120"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "sort",
+    "title": "Sort by the place value of the digit.",
+    "marks": 3,
+    "groups": [
+     "Place value more than 50",
+     "Place value less than 50"
+    ],
+    "words": [
+     "7 in 472",
+     "3 in 319",
+     "6 in 216",
+     "2 in 124",
+     "4 in 843",
+     "8 in 281"
+    ],
+    "a": {
+     "7 in 472": "Place value more than 50",
+     "3 in 319": "Place value more than 50",
+     "6 in 216": "Place value less than 50",
+     "2 in 124": "Place value less than 50",
+     "4 in 843": "Place value less than 50",
+     "8 in 281": "Place value more than 50"
+    }
+   },
+   {
+    "type": "pairs",
+    "title": "Write the price in words.",
+    "items": [
+     {
+      "q": "₹ 318",
+      "a": "three hundred eighteen / three hundred and eighteen"
+     },
+     {
+      "q": "₹ 745",
+      "a": "seven hundred forty-five / seven hundred and forty-five"
+     },
+     {
+      "q": "₹ 150",
+      "a": "one hundred fifty / one hundred and fifty"
+     },
+     {
+      "q": "₹ 909",
+      "a": "nine hundred nine / nine hundred and nine"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "₹ 430 is 4 notes of ₹100 and 3 coins of ₹10.",
+      "a": true
+     },
+     {
+      "q": "The place value of 5 in ₹ 259 is 5.",
+      "a": false
+     },
+     {
+      "q": "₹ 706 is seven hundred sixty rupees.",
+      "a": false
+     },
+     {
+      "q": "In ₹ 888, the first 8 is worth ₹ 800.",
+      "a": true
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Solve the shop problems.",
+    "items": [
+     {
+      "q": "Anaya sells a puzzle for ₹ 265. The digit 2 is worth ₹ ___.",
+      "a": "200"
+     },
+     {
+      "q": "Declan pays with 1 note of ₹100 and 15 coins of ₹10. He pays ₹ ___.",
+      "a": "250"
+     },
+     {
+      "q": "Shreya's price tag says 400 + 5. The price is ₹ ___.",
+      "a": "405"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ }
+]

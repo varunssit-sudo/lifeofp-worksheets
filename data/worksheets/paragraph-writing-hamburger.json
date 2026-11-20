@@ -1,0 +1,1747 @@
+[
+ {
+  "id": "paragraph-writing-hamburger-01",
+  "topic": "paragraph-writing-hamburger",
+  "number": 1,
+  "level": "Starter",
+  "title": "The School Canteen",
+  "intro": "Aarav's paragraph: Our school canteen is my favourite place. It sells hot samosas. The lunch aunty always smiles. That is why I love the canteen.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each hamburger part to its job.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Top bun",
+      "right": "Topic sentence"
+     },
+     {
+      "left": "Fillings",
+      "right": "Supporting details"
+     },
+     {
+      "left": "Bottom bun",
+      "right": "Concluding sentence"
+     },
+     {
+      "left": "Whole hamburger",
+      "right": "One paragraph"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "A paragraph is about one topic.",
+      "a": true
+     },
+     {
+      "q": "The topic sentence comes at the end.",
+      "a": false
+     },
+     {
+      "q": "Supporting details tell us more about the topic.",
+      "a": true
+     },
+     {
+      "q": "The concluding sentence is the top bun.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Read Aarav's paragraph. Circle what each sentence is.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "\"Our school canteen is my favourite place.\" is the",
+      "options": [
+       "topic sentence",
+       "supporting detail",
+       "concluding sentence"
+      ],
+      "after": "",
+      "a": "topic sentence"
+     },
+     {
+      "before": "\"It sells hot samosas.\" is a",
+      "options": [
+       "topic sentence",
+       "supporting detail",
+       "concluding sentence"
+      ],
+      "after": "",
+      "a": "supporting detail"
+     },
+     {
+      "before": "\"That is why I love the canteen.\" is the",
+      "options": [
+       "topic sentence",
+       "supporting detail",
+       "concluding sentence"
+      ],
+      "after": "",
+      "a": "concluding sentence"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blanks about Aarav's paragraph.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The paragraph is about the school ___.",
+      "a": "canteen"
+     },
+     {
+      "q": "It has ___ supporting details.",
+      "a": "2 / two"
+     },
+     {
+      "q": "The first sentence is called the ___ sentence.",
+      "a": "topic"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write one more detail Aarav could add about the canteen.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. The canteen has long blue tables. Any sentence that tells more about the canteen."
+   }
+  ]
+ },
+ {
+  "id": "paragraph-writing-hamburger-02",
+  "topic": "paragraph-writing-hamburger",
+  "number": 2,
+  "level": "Starter",
+  "title": "A Rainy Day in Mumbai",
+  "intro": "Tara is writing about the monsoon. She must keep every sentence on one topic.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort each detail under the right topic.",
+    "marks": 8,
+    "groups": [
+     "A Rainy Day",
+     "A Sunny Day"
+    ],
+    "words": [
+     "puddles on the road",
+     "sunglasses",
+     "a wet umbrella",
+     "a bright blue sky",
+     "grey clouds",
+     "a cold ice lolly",
+     "raincoat and gumboots",
+     "a sun hat"
+    ],
+    "a": {
+     "puddles on the road": "A Rainy Day",
+     "sunglasses": "A Sunny Day",
+     "a wet umbrella": "A Rainy Day",
+     "a bright blue sky": "A Sunny Day",
+     "grey clouds": "A Rainy Day",
+     "a cold ice lolly": "A Sunny Day",
+     "raincoat and gumboots": "A Rainy Day",
+     "a sun hat": "A Sunny Day"
+    }
+   },
+   {
+    "type": "choice",
+    "title": "Circle the better topic sentence for the details.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Details: puddles, paper boats, thunder.",
+      "options": [
+       "Rainy days are great fun.",
+       "My bag is red."
+      ],
+      "after": "",
+      "a": "Rainy days are great fun."
+     },
+     {
+      "before": "Details: hot bhajiyas, ginger tea, warm soup.",
+      "options": [
+       "I have two cousins.",
+       "Monsoon food is tasty."
+      ],
+      "after": "",
+      "a": "Monsoon food is tasty."
+     },
+     {
+      "before": "Details: wet shoes, a slow bus, a late bell.",
+      "options": [
+       "Going to school in the rain is hard.",
+       "Cats like milk."
+      ],
+      "after": "",
+      "a": "Going to school in the rain is hard."
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "One sentence is not about the topic. Write its number.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "(1) Rainy days are fun. (2) I float paper boats. (3) My uncle drives a taxi. (4) I jump in puddles. Sentence ___ does not belong.",
+      "a": "3"
+     },
+     {
+      "q": "(1) Tara loves her umbrella. (2) It is yellow with dots. (3) It keeps her dry. (4) Lions live in forests. Sentence ___ does not belong.",
+      "a": "4"
+     },
+     {
+      "q": "(1) The sea is wild in the monsoon. (2) I like maths. (3) Big waves hit the wall. (4) The wind blows hard. Sentence ___ does not belong.",
+      "a": "2"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "All the sentences in a paragraph are about the same topic.",
+      "a": true
+     },
+     {
+      "q": "A paragraph about rain can have a sentence about a zoo trip.",
+      "a": false
+     },
+     {
+      "q": "The topic sentence tells us what the paragraph is about.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two details for the topic: A Rainy Day.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. The roads are full of puddles. I wear my raincoat to school. Both sentences must be about a rainy day."
+   }
+  ]
+ },
+ {
+  "id": "paragraph-writing-hamburger-03",
+  "topic": "paragraph-writing-hamburger",
+  "number": 3,
+  "level": "Starter",
+  "title": "My Pet Parrot",
+  "intro": "Kabir's paragraph: I have a pet parrot named Mithu. He has bright green feathers. He eats red chillies. He says \"hello\" every morning. Mithu is the best pet.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Read Kabir's paragraph. Circle the hamburger part.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "\"I have a pet parrot named Mithu.\" is the",
+      "options": [
+       "top bun",
+       "filling",
+       "bottom bun"
+      ],
+      "after": "",
+      "a": "top bun"
+     },
+     {
+      "before": "\"He eats red chillies.\" is a",
+      "options": [
+       "top bun",
+       "filling",
+       "bottom bun"
+      ],
+      "after": "",
+      "a": "filling"
+     },
+     {
+      "before": "\"He has bright green feathers.\" is a",
+      "options": [
+       "top bun",
+       "filling",
+       "bottom bun"
+      ],
+      "after": "",
+      "a": "filling"
+     },
+     {
+      "before": "\"Mithu is the best pet.\" is the",
+      "options": [
+       "top bun",
+       "filling",
+       "bottom bun"
+      ],
+      "after": "",
+      "a": "bottom bun"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blanks about Kabir's paragraph.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The paragraph is about a pet ___.",
+      "a": "parrot"
+     },
+     {
+      "q": "Kabir gives ___ supporting details.",
+      "a": "3 / three"
+     },
+     {
+      "q": "The fillings of a hamburger paragraph are the supporting ___.",
+      "a": "details"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Would this sentence belong in Kabir's paragraph?",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Mithu sits on my shoulder.",
+      "a": true
+     },
+     {
+      "q": "My school has a big gate.",
+      "a": false
+     },
+     {
+      "q": "He whistles when the cooker whistles.",
+      "a": true
+     },
+     {
+      "q": "Trains run on tracks.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort each sentence. Is it a detail about a parrot or a puppy?",
+    "marks": 6,
+    "groups": [
+     "Parrot",
+     "Puppy"
+    ],
+    "words": [
+     "It has a curved beak.",
+     "It wags its tail.",
+     "It sits on a perch.",
+     "It barks at the doorbell.",
+     "It flaps its wings.",
+     "It chews my slippers."
+    ],
+    "a": {
+     "It has a curved beak.": "Parrot",
+     "It wags its tail.": "Puppy",
+     "It sits on a perch.": "Parrot",
+     "It barks at the doorbell.": "Puppy",
+     "It flaps its wings.": "Parrot",
+     "It chews my slippers.": "Puppy"
+    }
+   },
+   {
+    "type": "lines",
+    "title": "Write a topic sentence for a paragraph about a pet you like.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. A rabbit is a lovely pet. The sentence must name the pet and say what the paragraph is about."
+   }
+  ]
+ },
+ {
+  "id": "paragraph-writing-hamburger-04",
+  "topic": "paragraph-writing-hamburger",
+  "number": 4,
+  "level": "Starter",
+  "title": "The Friday Souk",
+  "intro": "Layla went to the souk with her aunt. She wants to end her paragraph well.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The concluding sentence comes last.",
+      "a": true
+     },
+     {
+      "q": "The concluding sentence starts a new topic.",
+      "a": false
+     },
+     {
+      "q": "The bottom bun holds the paragraph together at the end.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each topic sentence to its concluding sentence.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "The souk is a busy place.",
+      "right": "I love how busy the souk is."
+     },
+     {
+      "left": "Dates are my favourite fruit.",
+      "right": "That is why I eat dates every day."
+     },
+     {
+      "left": "My aunt is a good cook.",
+      "right": "Nobody cooks like my aunt."
+     },
+     {
+      "left": "Spices have strong smells.",
+      "right": "The smell of spices stays with me."
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the part of the paragraph.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "\"There are many things to see at the souk.\" is the",
+      "options": [
+       "topic sentence",
+       "supporting detail",
+       "concluding sentence"
+      ],
+      "after": "",
+      "a": "topic sentence"
+     },
+     {
+      "before": "\"One shop sells shiny lamps.\" is a",
+      "options": [
+       "topic sentence",
+       "supporting detail",
+       "concluding sentence"
+      ],
+      "after": "",
+      "a": "supporting detail"
+     },
+     {
+      "before": "\"Another shop sells sweet dates.\" is a",
+      "options": [
+       "topic sentence",
+       "supporting detail",
+       "concluding sentence"
+      ],
+      "after": "",
+      "a": "supporting detail"
+     },
+     {
+      "before": "\"So the souk is full of things to see.\" is the",
+      "options": [
+       "topic sentence",
+       "supporting detail",
+       "concluding sentence"
+      ],
+      "after": "",
+      "a": "concluding sentence"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write 1, 2, 3 or 4 to put Layla's paragraph in order.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "___ That is why I love Friday mornings.",
+      "a": "4"
+     },
+     {
+      "q": "___ Friday morning at the souk is fun.",
+      "a": "1"
+     },
+     {
+      "q": "___ First, we buy warm bread.",
+      "a": "2"
+     },
+     {
+      "q": "___ Then, we drink sweet mint tea.",
+      "a": "3"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a concluding sentence for a paragraph that begins: \"My school bag is very useful.\"",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. That is why I take my school bag everywhere. The sentence should say the main idea again in new words."
+   }
+  ]
+ },
+ {
+  "id": "paragraph-writing-hamburger-05",
+  "topic": "paragraph-writing-hamburger",
+  "number": 5,
+  "level": "Practice",
+  "title": "Kite Flying on Makar Sankranti",
+  "intro": "Dev and his cousins fly kites from the terrace in Ahmedabad every January.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Write 1 to 5 to put the paragraph in order.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "___ Next, Dev holds the string tight.",
+      "a": "3"
+     },
+     {
+      "q": "___ Flying a kite takes three steps.",
+      "a": "1"
+     },
+     {
+      "q": "___ Now you know how to fly a kite.",
+      "a": "5"
+     },
+     {
+      "q": "___ First, his cousin holds the kite up high.",
+      "a": "2"
+     },
+     {
+      "q": "___ Last, the wind lifts the kite into the sky.",
+      "a": "4"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct word.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "The topic sentence is the",
+      "options": [
+       "top",
+       "bottom"
+      ],
+      "after": "bun.",
+      "a": "top"
+     },
+     {
+      "before": "Details go in the",
+      "options": [
+       "middle",
+       "end"
+      ],
+      "after": "of the paragraph.",
+      "a": "middle"
+     },
+     {
+      "before": "A paragraph is about",
+      "options": [
+       "one",
+       "many"
+      ],
+      "after": "topic.",
+      "a": "one"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "One sentence does not belong. Write its number.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "(1) The sky is full of kites. (2) Some are red and some are blue. (3) I brush my teeth at night. (4) One kite looks like a fish. Sentence ___ does not belong.",
+      "a": "3"
+     },
+     {
+      "q": "(1) Grandma makes til laddoos. (2) My pencil is sharp. (3) They are round and sweet. (4) We eat them on the terrace. Sentence ___ does not belong.",
+      "a": "2"
+     },
+     {
+      "q": "(1) Kite string can be sharp. (2) We wear gloves. (3) We stay away from the edge. (4) Fish swim in the pond. Sentence ___ does not belong.",
+      "a": "4"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Is this a good topic sentence for a paragraph about kites?",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Kites are fun to fly.",
+      "a": true
+     },
+     {
+      "q": "My sister has a new watch.",
+      "a": false
+     },
+     {
+      "q": "There are many kinds of kites.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two details about a festival you enjoy.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. We light diyas on Diwali. We share sweets with our neighbours. Both details must be about the same festival."
+   }
+  ]
+ },
+ {
+  "id": "paragraph-writing-hamburger-06",
+  "topic": "paragraph-writing-hamburger",
+  "number": 6,
+  "level": "Practice",
+  "title": "The Desert Safari",
+  "intro": "Omar's family rode over the sand dunes near Dubai. Help him plan his paragraph.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each topic sentence to a detail that fits it.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "The desert is very hot.",
+      "right": "The sand burns your feet at noon."
+     },
+     {
+      "left": "Camels are made for the desert.",
+      "right": "They can walk for days without water."
+     },
+     {
+      "left": "The dune ride was bumpy.",
+      "right": "Our jeep went up and down the sand hills."
+     },
+     {
+      "left": "Dinner at the camp was tasty.",
+      "right": "We ate grilled chicken and warm bread."
+     },
+     {
+      "left": "The night sky was beautiful.",
+      "right": "We counted hundreds of stars."
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the best topic sentence for the details.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Details: long eyelashes, a hump, wide feet.",
+      "options": [
+       "A camel has a special body.",
+       "I ate lunch."
+      ],
+      "after": "",
+      "a": "A camel has a special body."
+     },
+     {
+      "before": "Details: a scarf, a water bottle, sun cream.",
+      "options": [
+       "Jeeps are fast.",
+       "You must pack well for the desert."
+      ],
+      "after": "",
+      "a": "You must pack well for the desert."
+     },
+     {
+      "before": "Details: drums, dancing, a fire show.",
+      "options": [
+       "The camp show was exciting.",
+       "Sand is yellow."
+      ],
+      "after": "",
+      "a": "The camp show was exciting."
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the sentences into the hamburger parts.",
+    "marks": 6,
+    "groups": [
+     "Top bun",
+     "Filling",
+     "Bottom bun"
+    ],
+    "words": [
+     "A desert safari is a great trip.",
+     "You can ride a camel.",
+     "Everyone should try a desert safari.",
+     "You can slide down a dune.",
+     "You can watch the sun set.",
+     "That is why I loved the safari."
+    ],
+    "a": {
+     "A desert safari is a great trip.": "Top bun",
+     "You can ride a camel.": "Filling",
+     "Everyone should try a desert safari.": "Bottom bun",
+     "You can slide down a dune.": "Filling",
+     "You can watch the sun set.": "Filling",
+     "That is why I loved the safari.": "Bottom bun"
+    }
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "A detail should tell more about the topic sentence.",
+      "a": true
+     },
+     {
+      "q": "\"Sand is yellow\" is a detail about camp food.",
+      "a": false
+     },
+     {
+      "q": "A paragraph can have three details.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write one detail for the topic sentence: \"The desert is quiet at night.\"",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. You can only hear the wind on the sand. The detail must tell more about the quiet desert night."
+   }
+  ]
+ },
+ {
+  "id": "paragraph-writing-hamburger-07",
+  "topic": "paragraph-writing-hamburger",
+  "number": 7,
+  "level": "Practice",
+  "title": "Grandpa's Mango Tree",
+  "intro": "Ishaan spends the summer under the mango tree in his grandfather's garden in Ratnagiri.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the best concluding sentence.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Topic: The mango tree gives us many things.",
+      "options": [
+       "So the mango tree is a gift to us.",
+       "I have a blue cycle."
+      ],
+      "after": "",
+      "a": "So the mango tree is a gift to us."
+     },
+     {
+      "before": "Topic: Summer holidays are the best.",
+      "options": [
+       "Mangoes are yellow.",
+       "I wish summer holidays never ended."
+      ],
+      "after": "",
+      "a": "I wish summer holidays never ended."
+     },
+     {
+      "before": "Topic: Grandpa looks after his garden.",
+      "options": [
+       "That is how Grandpa keeps his garden green.",
+       "The bus was late."
+      ],
+      "after": "",
+      "a": "That is how Grandpa keeps his garden green."
+     },
+     {
+      "before": "Topic: Squirrels are busy animals.",
+      "options": [
+       "I like mango juice.",
+       "A squirrel never sits still."
+      ],
+      "after": "",
+      "a": "A squirrel never sits still."
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blanks. Use: topic, details, concluding, one.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "A paragraph is about ___ topic.",
+      "a": "one"
+     },
+     {
+      "q": "The ___ sentence tells what the paragraph is about.",
+      "a": "topic"
+     },
+     {
+      "q": "Supporting ___ tell us more.",
+      "a": "details"
+     },
+     {
+      "q": "The ___ sentence wraps up the paragraph.",
+      "a": "concluding"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Does this detail fit the topic sentence \"The mango tree gives us many things\"?",
+    "marks": 4,
+    "items": [
+     {
+      "q": "It gives us sweet fruit.",
+      "a": true
+     },
+     {
+      "q": "It gives us cool shade.",
+      "a": true
+     },
+     {
+      "q": "My cousin lives in Pune.",
+      "a": false
+     },
+     {
+      "q": "Birds build nests in its branches.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write a concluding sentence for this paragraph.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "I love climbing Grandpa's mango tree. The branches are strong. I can see the whole village from the top.",
+      "a": "e.g. That is why climbing the mango tree is my favourite game."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two details for the topic sentence: \"Mangoes are a tasty fruit.\"",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. They are sweet and juicy. We can make milkshake with them. Both details must be about mangoes."
+   }
+  ]
+ },
+ {
+  "id": "paragraph-writing-hamburger-08",
+  "topic": "paragraph-writing-hamburger",
+  "number": 8,
+  "level": "Practice",
+  "title": "The Metro Ride",
+  "intro": "Zoya took the metro to the mall, and Rohan took a boat across the creek. Two trips, two paragraphs.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort each detail into the right paragraph.",
+    "marks": 8,
+    "groups": [
+     "Metro Ride",
+     "Boat Ride"
+    ],
+    "words": [
+     "The doors slide open.",
+     "Water splashes the sides.",
+     "It runs on tracks.",
+     "We wear life jackets.",
+     "We tap a card at the gate.",
+     "Seagulls fly beside us.",
+     "It stops at many stations.",
+     "It rocks on the waves."
+    ],
+    "a": {
+     "The doors slide open.": "Metro Ride",
+     "Water splashes the sides.": "Boat Ride",
+     "It runs on tracks.": "Metro Ride",
+     "We wear life jackets.": "Boat Ride",
+     "We tap a card at the gate.": "Metro Ride",
+     "Seagulls fly beside us.": "Boat Ride",
+     "It stops at many stations.": "Metro Ride",
+     "It rocks on the waves.": "Boat Ride"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "One sentence does not belong. Write its number.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "(1) The metro is fast. (2) It has no driver. (3) My shoes are black. (4) It comes every few minutes. Sentence ___ does not belong.",
+      "a": "3"
+     },
+     {
+      "q": "(1) The station is clean. (2) The floor shines. (3) There are bins everywhere. (4) I had eggs for breakfast. Sentence ___ does not belong.",
+      "a": "4"
+     },
+     {
+      "q": "(1) I ate a banana. (2) The boat is made of wood. (3) It has long benches. (4) Its engine hums. Sentence ___ does not belong.",
+      "a": "1"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle what each sentence is.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "\"Riding the metro is easy.\" is the",
+      "options": [
+       "topic sentence",
+       "supporting detail",
+       "concluding sentence"
+      ],
+      "after": "",
+      "a": "topic sentence"
+     },
+     {
+      "before": "\"You buy a ticket first.\" is a",
+      "options": [
+       "topic sentence",
+       "supporting detail",
+       "concluding sentence"
+      ],
+      "after": "",
+      "a": "supporting detail"
+     },
+     {
+      "before": "\"As you can see, anyone can ride the metro.\" is the",
+      "options": [
+       "topic sentence",
+       "supporting detail",
+       "concluding sentence"
+      ],
+      "after": "",
+      "a": "concluding sentence"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Take out the sentence that does not belong. Write the paragraph again.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The boat ride was short. It took five minutes. Elephants are big. Then we were across the creek.",
+      "a": "e.g. The boat ride was short. It took five minutes. Then we were across the creek."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two details about a ride you have taken.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. The bus was full of people. I sat by the window. Both details must be about the same ride."
+   }
+  ]
+ },
+ {
+  "id": "paragraph-writing-hamburger-09",
+  "topic": "paragraph-writing-hamburger",
+  "number": 9,
+  "level": "Practice",
+  "title": "Diwali at Home",
+  "intro": "Ananya's family gets ready for Diwali. Words like First, Next, Then and Finally keep her details in order.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Write First, Next, Then or Finally to put the details in order.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "___, we clean the whole house in the morning.",
+      "a": "First"
+     },
+     {
+      "q": "___, we draw a rangoli at the door.",
+      "a": "Next / Then"
+     },
+     {
+      "q": "___, we light the diyas when it gets dark.",
+      "a": "Then / Next"
+     },
+     {
+      "q": "___, we eat sweets together before bed.",
+      "a": "Finally"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each order word to where it goes.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "First",
+      "right": "The detail that starts things off"
+     },
+     {
+      "left": "Next",
+      "right": "The detail in the middle"
+     },
+     {
+      "left": "Finally",
+      "right": "The last detail"
+     },
+     {
+      "left": "That is why",
+      "right": "The concluding sentence"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Order words help the reader follow the details.",
+      "a": true
+     },
+     {
+      "q": "\"Finally\" is a good word to begin the first detail.",
+      "a": false
+     },
+     {
+      "q": "\"Diwali is my favourite festival\" is a topic sentence.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct word.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "",
+      "options": [
+       "First",
+       "Finally"
+      ],
+      "after": ", Mama mixes the flour for the laddoos.",
+      "a": "First"
+     },
+     {
+      "before": "",
+      "options": [
+       "Next",
+       "Finally"
+      ],
+      "after": ", she rolls them into balls.",
+      "a": "Next"
+     },
+     {
+      "before": "",
+      "options": [
+       "First",
+       "Finally"
+      ],
+      "after": ", we all eat them.",
+      "a": "Finally"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write three details about getting ready for school. Start them with First, Next and Finally.",
+    "marks": 3,
+    "lines": 3,
+    "a": "e.g. First, I brush my teeth. Next, I put on my uniform. Finally, I pack my bag. Check that the steps are in a sensible order."
+   }
+  ]
+ },
+ {
+  "id": "paragraph-writing-hamburger-10",
+  "topic": "paragraph-writing-hamburger",
+  "number": 10,
+  "level": "Practice",
+  "title": "The Public Library",
+  "intro": "Farah visits the library every Saturday. Today she builds a paragraph one layer at a time.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the best topic sentence for the details.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Details: storybooks, comics, atlases.",
+      "options": [
+       "The library has many kinds of books.",
+       "I walk to school."
+      ],
+      "after": "",
+      "a": "The library has many kinds of books."
+     },
+     {
+      "before": "Details: no shouting, soft steps, whispers.",
+      "options": [
+       "Books are heavy.",
+       "The library is a quiet place."
+      ],
+      "after": "",
+      "a": "The library is a quiet place."
+     },
+     {
+      "before": "Details: stamps the card, finds books, reads stories aloud.",
+      "options": [
+       "The librarian is helpful.",
+       "Chairs have four legs."
+      ],
+      "after": "",
+      "a": "The librarian is helpful."
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write 1 to 4 to put the paragraph in order.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "___ Then, I show my card at the desk.",
+      "a": "3"
+     },
+     {
+      "q": "___ Borrowing a book is simple.",
+      "a": "1"
+     },
+     {
+      "q": "___ So I can take a new book home each week.",
+      "a": "4"
+     },
+     {
+      "q": "___ First, I choose a book from the shelf.",
+      "a": "2"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write a topic sentence for these details.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Details: Pictures help me understand the story. The words are big. Each story is short.",
+      "a": "e.g. Picture books are easy to read."
+     },
+     {
+      "q": "Details: I must not tear the pages. I must keep books dry. I must return them on time.",
+      "a": "e.g. We should take good care of library books."
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "A topic sentence should fit all the details.",
+      "a": true
+     },
+     {
+      "q": "A paragraph needs only a topic sentence.",
+      "a": false
+     },
+     {
+      "q": "The details come between the two buns.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a concluding sentence for a paragraph about why you like books.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. That is why books are my best friends. It should say the main idea again in new words."
+   }
+  ]
+ },
+ {
+  "id": "paragraph-writing-hamburger-11",
+  "topic": "paragraph-writing-hamburger",
+  "number": 11,
+  "level": "Challenge",
+  "title": "Sports Day Relay",
+  "intro": "Nikhil ran the last lap of the relay for the Blue House. His paragraph needs fixing before it goes in the school magazine.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Nikhil's paragraph is jumbled. Write 1 to 5 to fix the order.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "___ Next, I ran as fast as I could.",
+      "a": "3"
+     },
+     {
+      "q": "___ It was the best race of my life.",
+      "a": "5"
+     },
+     {
+      "q": "___ First, Sana passed me the baton.",
+      "a": "2"
+     },
+     {
+      "q": "___ Our relay race on Sports Day was exciting.",
+      "a": "1"
+     },
+     {
+      "q": "___ Finally, I crossed the line and everyone cheered.",
+      "a": "4"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the stronger sentence.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Topic sentence:",
+      "options": [
+       "Sports Day is the happiest day at school.",
+       "This is about Sports Day."
+      ],
+      "after": "",
+      "a": "Sports Day is the happiest day at school."
+     },
+     {
+      "before": "Detail:",
+      "options": [
+       "It was nice.",
+       "The whole field was covered in house flags."
+      ],
+      "after": "",
+      "a": "The whole field was covered in house flags."
+     },
+     {
+      "before": "Concluding sentence:",
+      "options": [
+       "The end.",
+       "I cannot wait for the next Sports Day."
+      ],
+      "after": "",
+      "a": "I cannot wait for the next Sports Day."
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "A concluding sentence can say the topic again in new words.",
+      "a": true
+     },
+     {
+      "q": "\"The end\" is a strong concluding sentence.",
+      "a": false
+     },
+     {
+      "q": "A detail like \"It was nice\" tells the reader a lot.",
+      "a": false
+     },
+     {
+      "q": "A paragraph with a topic sentence, details and a concluding sentence is complete.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "This paragraph has no bottom bun. Write a concluding sentence.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "Our PE teacher is very kind. She ties our laces. She claps for every runner.",
+      "a": "e.g. We are lucky to have such a kind PE teacher."
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "This paragraph has no top bun. Write a topic sentence.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "We stretch our arms. We jog on the spot. We touch our toes. Now our bodies are ready to race.",
+      "a": "e.g. We warm up before every race."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "paragraph-writing-hamburger-12",
+  "topic": "paragraph-writing-hamburger",
+  "number": 12,
+  "level": "Challenge",
+  "title": "A Picnic at the Creek Park",
+  "intro": "Sofia's picnic paragraph is too thin. Good paragraphs have juicy fillings.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each plain detail to a juicier one.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "We ate food.",
+      "right": "We ate cheese sandwiches and cold watermelon."
+     },
+     {
+      "left": "We played.",
+      "right": "We played catch with a big orange ball."
+     },
+     {
+      "left": "We saw birds.",
+      "right": "We saw two white egrets by the water."
+     },
+     {
+      "left": "We sat down.",
+      "right": "We sat on a striped mat under a palm tree."
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Does the sentence fit a paragraph about a picnic? Sort.",
+    "marks": 6,
+    "groups": [
+     "Belongs",
+     "Does not belong"
+    ],
+    "words": [
+     "We spread a mat on the grass.",
+     "My tooth fell out in March.",
+     "Papa packed lemon rice.",
+     "Whales are bigger than buses.",
+     "Ants marched to our crumbs.",
+     "Our TV has a remote."
+    ],
+    "a": {
+     "We spread a mat on the grass.": "Belongs",
+     "My tooth fell out in March.": "Does not belong",
+     "Papa packed lemon rice.": "Belongs",
+     "Whales are bigger than buses.": "Does not belong",
+     "Ants marched to our crumbs.": "Belongs",
+     "Our TV has a remote.": "Does not belong"
+    }
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct word.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Juicy details make a paragraph",
+      "options": [
+       "better",
+       "worse"
+      ],
+      "after": "to read.",
+      "a": "better"
+     },
+     {
+      "before": "Details should all be about the",
+      "options": [
+       "same",
+       "next"
+      ],
+      "after": "topic.",
+      "a": "same"
+     },
+     {
+      "before": "A juicy detail tells us",
+      "options": [
+       "more",
+       "less"
+      ],
+      "after": "about the topic.",
+      "a": "more"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Make each detail juicier. Add more information.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "We played a game.",
+      "a": "e.g. We played hide and seek behind the tall trees."
+     },
+     {
+      "q": "I saw a boat.",
+      "a": "e.g. I saw a small wooden boat sailing on the creek."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a topic sentence and a concluding sentence for a picnic paragraph.",
+    "marks": 4,
+    "lines": 2,
+    "a": "e.g. Our picnic at the park was wonderful. I hope we go on a picnic again soon. The first sentence names the topic and the second wraps it up."
+   }
+  ]
+ },
+ {
+  "id": "paragraph-writing-hamburger-13",
+  "topic": "paragraph-writing-hamburger",
+  "number": 13,
+  "level": "Challenge",
+  "title": "The Train to Jaipur",
+  "intro": "Vihaan mixed up two paragraphs in his diary: one about the train and one about the fort. Help him pull them apart.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort each sentence into the right paragraph.",
+    "marks": 8,
+    "groups": [
+     "The Train",
+     "The Fort"
+    ],
+    "words": [
+     "Our train left at six in the morning.",
+     "The fort sits on top of a hill.",
+     "A man sold hot tea in the coach.",
+     "Its walls are thick and yellow.",
+     "I slept on the top berth.",
+     "We climbed a long stone ramp.",
+     "The wheels went clack-clack all day.",
+     "Old cannons stand at the gate."
+    ],
+    "a": {
+     "Our train left at six in the morning.": "The Train",
+     "The fort sits on top of a hill.": "The Fort",
+     "A man sold hot tea in the coach.": "The Train",
+     "Its walls are thick and yellow.": "The Fort",
+     "I slept on the top berth.": "The Train",
+     "We climbed a long stone ramp.": "The Fort",
+     "The wheels went clack-clack all day.": "The Train",
+     "Old cannons stand at the gate.": "The Fort"
+    }
+   },
+   {
+    "type": "choice",
+    "title": "Circle what each sentence is.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "\"The train ride to Jaipur was an adventure.\" is the",
+      "options": [
+       "topic sentence",
+       "supporting detail",
+       "concluding sentence"
+      ],
+      "after": "",
+      "a": "topic sentence"
+     },
+     {
+      "before": "\"Its walls are thick and yellow.\" is a",
+      "options": [
+       "topic sentence",
+       "supporting detail",
+       "concluding sentence"
+      ],
+      "after": "",
+      "a": "supporting detail"
+     },
+     {
+      "before": "\"I will never forget that grand old fort.\" is the",
+      "options": [
+       "topic sentence",
+       "supporting detail",
+       "concluding sentence"
+      ],
+      "after": "",
+      "a": "concluding sentence"
+     },
+     {
+      "before": "\"A man sold hot tea in the coach.\" is a",
+      "options": [
+       "topic sentence",
+       "supporting detail",
+       "concluding sentence"
+      ],
+      "after": "",
+      "a": "supporting detail"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Two different topics need two paragraphs.",
+      "a": true
+     },
+     {
+      "q": "\"The fort sits on top of a hill\" belongs in the train paragraph.",
+      "a": false
+     },
+     {
+      "q": "Each paragraph needs its own topic sentence.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write a topic sentence for the paragraph about the fort.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "Details: The fort sits on top of a hill. Its walls are thick and yellow. Old cannons stand at the gate.",
+      "a": "e.g. The fort in Jaipur is big and strong."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a concluding sentence for the paragraph about the train.",
+    "marks": 3,
+    "lines": 2,
+    "a": "e.g. It was the best train ride I have ever had. It should wrap up the train paragraph, not start a new topic."
+   }
+  ]
+ },
+ {
+  "id": "paragraph-writing-hamburger-14",
+  "topic": "paragraph-writing-hamburger",
+  "number": 14,
+  "level": "Challenge",
+  "title": "Eid Morning",
+  "intro": "Hamza wants to write about Eid morning at his house in Sharjah. First he plans, then he writes.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each part of Hamza's plan to its sentence.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "Topic sentence",
+      "right": "Eid morning is the happiest time of the year."
+     },
+     {
+      "left": "Detail 1",
+      "right": "First, we wear new clothes and go to pray."
+     },
+     {
+      "left": "Detail 2",
+      "right": "Next, Grandma gives every child some Eidi."
+     },
+     {
+      "left": "Detail 3",
+      "right": "Then, we eat sweet sheer khurma."
+     },
+     {
+      "left": "Concluding sentence",
+      "right": "I wish every morning could be like Eid morning."
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blanks about Hamza's plan.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Hamza's paragraph will have ___ sentences.",
+      "a": "5 / five"
+     },
+     {
+      "q": "The topic of the paragraph is ___ morning.",
+      "a": "Eid"
+     },
+     {
+      "q": "The word ___ begins the second detail.",
+      "a": "Next"
+     },
+     {
+      "q": "The concluding sentence is the ___ bun.",
+      "a": "bottom"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Should Hamza add this sentence to his paragraph?",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Our cousins come over with boxes of dates.",
+      "a": true
+     },
+     {
+      "q": "My classroom is on the second floor.",
+      "a": false
+     },
+     {
+      "q": "The whole house smells of rose water.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Plan your own paragraph about a special morning. Write the topic sentence and one detail.",
+    "marks": 4,
+    "lines": 2,
+    "a": "e.g. My birthday morning is always exciting. My family wakes me up with a song. The detail must tell more about the topic sentence."
+   },
+   {
+    "type": "lines",
+    "title": "Now write two more details and a concluding sentence.",
+    "marks": 5,
+    "lines": 3,
+    "a": "e.g. Next, I open my presents. Then, we eat cake for breakfast. I love my birthday mornings. Check for two details on the same topic and a sentence that wraps up."
+   }
+  ]
+ },
+ {
+  "id": "paragraph-writing-hamburger-15",
+  "topic": "paragraph-writing-hamburger",
+  "number": 15,
+  "level": "Challenge",
+  "title": "My Dream Treehouse",
+  "intro": "Chloe is designing a treehouse for the big neem tree in her garden. Write a full hamburger paragraph with her.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the best choice for Chloe's paragraph.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Top bun:",
+      "options": [
+       "My dream treehouse would be amazing.",
+       "Trees have leaves."
+      ],
+      "after": "",
+      "a": "My dream treehouse would be amazing."
+     },
+     {
+      "before": "Filling:",
+      "options": [
+       "It would have a rope ladder and a slide.",
+       "I do not like peas."
+      ],
+      "after": "",
+      "a": "It would have a rope ladder and a slide."
+     },
+     {
+      "before": "Filling:",
+      "options": [
+       "My aunt lives in Kochi.",
+       "It would have a shelf for my comics."
+      ],
+      "after": "",
+      "a": "It would have a shelf for my comics."
+     },
+     {
+      "before": "Bottom bun:",
+      "options": [
+       "I would never want to leave my treehouse.",
+       "Slides are slippery."
+      ],
+      "after": "",
+      "a": "I would never want to leave my treehouse."
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the checklist words. Use: one, first, details, last.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "My topic sentence comes ___.",
+      "a": "first"
+     },
+     {
+      "q": "I wrote at least three supporting ___.",
+      "a": "details"
+     },
+     {
+      "q": "All my sentences are about ___ topic.",
+      "a": "one"
+     },
+     {
+      "q": "My concluding sentence comes ___.",
+      "a": "last"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "You should read your paragraph again to check it.",
+      "a": true
+     },
+     {
+      "q": "It is fine to leave out the concluding sentence.",
+      "a": false
+     },
+     {
+      "q": "Each sentence begins with a capital letter and ends with a full stop.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write the top bun and two fillings for a paragraph about your dream room or den.",
+    "marks": 5,
+    "lines": 3,
+    "a": "e.g. My dream room would be like a spaceship. It would have a round window. The bed would hang from the ceiling. Look for a topic sentence and two details on the same topic."
+   },
+   {
+    "type": "lines",
+    "title": "Write one more filling and the bottom bun.",
+    "marks": 4,
+    "lines": 2,
+    "a": "e.g. The walls would glow in the dark. I would love to live in my spaceship room. The last sentence must wrap up the paragraph."
+   }
+  ]
+ }
+]

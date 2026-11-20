@@ -1,0 +1,2072 @@
+[
+  {
+    "id": "properties-of-addition-01",
+    "topic": "properties-of-addition",
+    "number": 1,
+    "level": "Starter",
+    "title": "The Bead Necklace Stall",
+    "intro": "Shreya threads beads at her aunt's stall. Each time she adds 1 bead, she gets the next number, called the successor.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Add 1 to each number.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "14 + 1",
+            "a": "15"
+          },
+          {
+            "q": "27 + 1",
+            "a": "28"
+          },
+          {
+            "q": "40 + 1",
+            "a": "41"
+          },
+          {
+            "q": "8 + 1",
+            "a": "9"
+          },
+          {
+            "q": "63 + 1",
+            "a": "64"
+          },
+          {
+            "q": "35 + 1",
+            "a": "36"
+          },
+          {
+            "q": "52 + 1",
+            "a": "53"
+          },
+          {
+            "q": "76 + 1",
+            "a": "77"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The successor of 29 is ___.",
+            "a": "30"
+          },
+          {
+            "q": "1 more than 56 is ___.",
+            "a": "57"
+          },
+          {
+            "q": "The number just after 99 is ___.",
+            "a": "100"
+          },
+          {
+            "q": "When we add 1 to 44, we get ___.",
+            "a": "45"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The successor of a number is 1 more than the number.",
+            "a": true
+          },
+          {
+            "q": "The successor of 19 is 18.",
+            "a": false
+          },
+          {
+            "q": "70 + 1 = 71",
+            "a": true
+          },
+          {
+            "q": "To find the successor, we add 10.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each number to its successor.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Successor of 32",
+            "right": "33"
+          },
+          {
+            "left": "Successor of 59",
+            "right": "60"
+          },
+          {
+            "left": "Successor of 85",
+            "right": "86"
+          },
+          {
+            "left": "Successor of 11",
+            "right": "12"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the bead problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A necklace has 38 beads. Shreya adds 1 more bead. Now it has ___ beads.",
+            "a": "39"
+          },
+          {
+            "q": "There are 67 blue beads in the bowl. Aunty drops in 1 more. Now there are ___ blue beads.",
+            "a": "68"
+          },
+          {
+            "q": "Shreya sold 20 bracelets. Then she sold 1 more. She sold ___ bracelets in all.",
+            "a": "21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "properties-of-addition-02",
+    "topic": "properties-of-addition",
+    "number": 2,
+    "level": "Starter",
+    "title": "Marbles in the Playground",
+    "intro": "Farhan and his friends play marbles at break time. See what happens when a bag with 0 marbles is added.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Add zero. Write the sum.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "37 + 0 = ___",
+            "a": "37"
+          },
+          {
+            "q": "0 + 82 = ___",
+            "a": "82"
+          },
+          {
+            "q": "9 + 0 = ___",
+            "a": "9"
+          },
+          {
+            "q": "0 + 60 = ___",
+            "a": "60"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "When we add 0 to a number, the sum is",
+            "options": [
+              "the same number",
+              "zero"
+            ],
+            "after": ".",
+            "a": "the same number"
+          },
+          {
+            "before": "25 + 0 =",
+            "options": [
+              "0",
+              "25",
+              "250"
+            ],
+            "after": "",
+            "a": "25"
+          },
+          {
+            "before": "0 + 0 =",
+            "options": [
+              "0",
+              "1",
+              "10"
+            ],
+            "after": "",
+            "a": "0"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add in columns.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "45",
+            "op": "+",
+            "bottom": "0",
+            "a": "45"
+          },
+          {
+            "top": "126",
+            "op": "+",
+            "bottom": "0",
+            "a": "126"
+          },
+          {
+            "top": "0",
+            "op": "+",
+            "bottom": "78",
+            "a": "78"
+          },
+          {
+            "top": "300",
+            "op": "+",
+            "bottom": "0",
+            "a": "300"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "13 + 0 = 13",
+            "a": true
+          },
+          {
+            "q": "0 + 48 = 0",
+            "a": false
+          },
+          {
+            "q": "Adding 0 makes a number bigger.",
+            "a": false
+          },
+          {
+            "q": "91 + 0 = 91",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the marble problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Farhan has 23 marbles. He wins 0 marbles today. Now he has ___ marbles.",
+            "a": "23"
+          },
+          {
+            "q": "The green bag has 0 marbles and the red bag has 16 marbles. There are ___ marbles in all.",
+            "a": "16"
+          },
+          {
+            "q": "Tashi found 0 marbles on Monday and 34 on Tuesday. He found ___ marbles altogether.",
+            "a": "34"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "properties-of-addition-03",
+    "topic": "properties-of-addition",
+    "number": 3,
+    "level": "Starter",
+    "title": "The Birthday Party Balloons",
+    "intro": "It is Naomi's birthday and the hall is full of balloons. Swap the addends and see that the sum stays the same.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "4 + 7 = 7 + ___",
+            "a": "4"
+          },
+          {
+            "q": "12 + 5 = ___ + 12",
+            "a": "5"
+          },
+          {
+            "q": "9 + 20 = 20 + ___",
+            "a": "9"
+          },
+          {
+            "q": "___ + 6 = 6 + 31",
+            "a": "31"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the sums that have the same answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "23 + 6",
+            "right": "6 + 23"
+          },
+          {
+            "left": "14 + 3",
+            "right": "3 + 14"
+          },
+          {
+            "left": "50 + 8",
+            "right": "8 + 50"
+          },
+          {
+            "left": "2 + 17",
+            "right": "17 + 2"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "8 + 5 and 5 + 8 have the same sum.",
+            "a": true
+          },
+          {
+            "q": "15 + 4 = 4 + 51",
+            "a": false
+          },
+          {
+            "q": "We can add two numbers in any order.",
+            "a": true
+          },
+          {
+            "q": "10 + 3 = 3 + 10",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Start with the bigger number. Add in your head.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3 + 40",
+            "a": "43"
+          },
+          {
+            "q": "5 + 62",
+            "a": "67"
+          },
+          {
+            "q": "2 + 37",
+            "a": "39"
+          },
+          {
+            "q": "4 + 71",
+            "a": "75"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the balloon problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Naomi has 6 pink balloons and 22 white balloons. She has ___ balloons in all.",
+            "a": "28"
+          },
+          {
+            "q": "Joel has 22 pink balloons and 6 white balloons. He has ___ balloons in all.",
+            "a": "28"
+          },
+          {
+            "q": "Papa blows up 9 + 15 balloons. Mama blows up 15 + ___ balloons. They blow up the same number.",
+            "a": "9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "properties-of-addition-04",
+    "topic": "properties-of-addition",
+    "number": 4,
+    "level": "Starter",
+    "title": "Feeding Ducks at the Park Pond",
+    "intro": "Ananya and her brother feed the ducks at the park. Use all three rules: add 1, add 0 and change the order.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the number sentences by the rule they show.",
+        "marks": 6,
+        "groups": [
+          "Add 1",
+          "Add 0",
+          "Change the order"
+        ],
+        "words": [
+          "45 + 1 = 46",
+          "0 + 9 = 9",
+          "3 + 6 = 6 + 3",
+          "72 + 0 = 72",
+          "1 + 18 = 19",
+          "25 + 4 = 4 + 25"
+        ],
+        "a": {
+          "45 + 1 = 46": "Add 1",
+          "0 + 9 = 9": "Add 0",
+          "3 + 6 = 6 + 3": "Change the order",
+          "72 + 0 = 72": "Add 0",
+          "1 + 18 = 19": "Add 1",
+          "25 + 4 = 4 + 25": "Change the order"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "58 + 1 = ___",
+            "a": "59"
+          },
+          {
+            "q": "0 + 33 = ___",
+            "a": "33"
+          },
+          {
+            "q": "7 + 12 = 12 + ___",
+            "a": "7"
+          },
+          {
+            "q": "___ + 0 = 49",
+            "a": "49"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct word.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Adding 1 to a number gives its",
+            "options": [
+              "successor",
+              "double"
+            ],
+            "after": ".",
+            "a": "successor"
+          },
+          {
+            "before": "Adding",
+            "options": [
+              "0",
+              "1"
+            ],
+            "after": "to a number gives the same number.",
+            "a": "0"
+          },
+          {
+            "before": "If we change the order of the addends, the sum",
+            "options": [
+              "stays the same",
+              "changes"
+            ],
+            "after": ".",
+            "a": "stays the same"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add each pair. What do you notice?",
+        "marks": 4,
+        "items": [
+          {
+            "top": "32",
+            "op": "+",
+            "bottom": "45",
+            "a": "77"
+          },
+          {
+            "top": "45",
+            "op": "+",
+            "bottom": "32",
+            "a": "77"
+          },
+          {
+            "top": "16",
+            "op": "+",
+            "bottom": "51",
+            "a": "67"
+          },
+          {
+            "top": "51",
+            "op": "+",
+            "bottom": "16",
+            "a": "67"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the pond problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There are 17 ducks on the pond. 1 more duck swims in. Now there are ___ ducks.",
+            "a": "18"
+          },
+          {
+            "q": "Ananya throws 30 grains to the ducks. Her brother throws 0. They throw ___ grains in all.",
+            "a": "30"
+          },
+          {
+            "q": "5 white ducks and 8 brown ducks make 13. So 8 brown ducks and 5 white ducks make ___.",
+            "a": "13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "properties-of-addition-05",
+    "topic": "properties-of-addition",
+    "number": 5,
+    "level": "Practice",
+    "title": "The Rangoli Competition",
+    "intro": "Three teams are making rangoli with coloured powder and flowers. Learn to add three numbers.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Add three numbers.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "3 + 4 + 5 = ___",
+            "a": "12"
+          },
+          {
+            "q": "6 + 2 + 9 = ___",
+            "a": "17"
+          },
+          {
+            "q": "10 + 20 + 30 = ___",
+            "a": "60"
+          },
+          {
+            "q": "7 + 7 + 7 = ___",
+            "a": "21"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Make ten first. Then add.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "6 + 4 + 7",
+            "a": "17"
+          },
+          {
+            "q": "8 + 5 + 2",
+            "a": "15"
+          },
+          {
+            "q": "3 + 9 + 7",
+            "a": "19"
+          },
+          {
+            "q": "1 + 6 + 9",
+            "a": "16"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "2 + 5 + 8 and 8 + 2 + 5 have the same sum.",
+            "a": true
+          },
+          {
+            "q": "4 + 6 + 9 = 18",
+            "a": false
+          },
+          {
+            "q": "5 + 5 + 6 = 16",
+            "a": true
+          },
+          {
+            "q": "We can add three numbers in any order.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add each pair. Carry when you need to.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "47",
+            "op": "+",
+            "bottom": "35",
+            "a": "82"
+          },
+          {
+            "top": "35",
+            "op": "+",
+            "bottom": "47",
+            "a": "82"
+          },
+          {
+            "top": "28",
+            "op": "+",
+            "bottom": "64",
+            "a": "92"
+          },
+          {
+            "top": "64",
+            "op": "+",
+            "bottom": "28",
+            "a": "92"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the rangoli problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Team A used 4 bowls of red, 6 of yellow and 3 of green. They used ___ bowls in all.",
+            "a": "13"
+          },
+          {
+            "q": "The judges gave 8 points, 9 points and 2 points. The total is ___ points.",
+            "a": "19"
+          },
+          {
+            "q": "Mrinal put 12 diyas, 20 marigolds and 8 roses around her rangoli. She used ___ things altogether.",
+            "a": "40"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "properties-of-addition-06",
+    "topic": "properties-of-addition",
+    "number": 6,
+    "level": "Practice",
+    "title": "Sticker Album Swap",
+    "intro": "Zoya and her cousins swap stickers every Friday. Find the successor of bigger numbers.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the successor.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "124",
+            "a": "125"
+          },
+          {
+            "q": "309",
+            "a": "310"
+          },
+          {
+            "q": "199",
+            "a": "200"
+          },
+          {
+            "q": "560",
+            "a": "561"
+          },
+          {
+            "q": "478",
+            "a": "479"
+          },
+          {
+            "q": "899",
+            "a": "900"
+          },
+          {
+            "q": "250",
+            "a": "251"
+          },
+          {
+            "q": "617",
+            "a": "618"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "___ + 1 = 500",
+            "a": "499"
+          },
+          {
+            "q": "The successor of 609 is ___.",
+            "a": "610"
+          },
+          {
+            "q": "1 + 289 = ___",
+            "a": "290"
+          },
+          {
+            "q": "The successor of 20 + 30 is ___.",
+            "a": "51"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct answer.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "The successor of 399 is",
+            "options": [
+              "400",
+              "398",
+              "390"
+            ],
+            "after": ".",
+            "a": "400"
+          },
+          {
+            "before": "745 is the successor of",
+            "options": [
+              "744",
+              "746"
+            ],
+            "after": ".",
+            "a": "744"
+          },
+          {
+            "before": "1 + 829 =",
+            "options": [
+              "829",
+              "830",
+              "839"
+            ],
+            "after": "",
+            "a": "830"
+          },
+          {
+            "before": "The successor of 109 is",
+            "options": [
+              "108",
+              "110",
+              "119"
+            ],
+            "after": ".",
+            "a": "110"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each sum to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "349 + 1",
+            "right": "350"
+          },
+          {
+            "left": "1 + 534",
+            "right": "535"
+          },
+          {
+            "left": "689 + 1",
+            "right": "690"
+          },
+          {
+            "left": "1 + 798",
+            "right": "799"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the addition sentence and the answer.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Zoya has 219 stickers. Her cousin gives her 1 more. How many stickers does she have now?",
+            "a": "219 + 1 = 220. She has 220 stickers now."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "properties-of-addition-07",
+    "topic": "properties-of-addition",
+    "number": 7,
+    "level": "Practice",
+    "title": "The Abra Ride on Dubai Creek",
+    "intro": "Wooden abras carry people across Dubai Creek all day. Use the zero rule and the order rule with bigger numbers.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Fill in the missing number.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "418 + 0 = ___",
+            "a": "418"
+          },
+          {
+            "q": "0 + ___ = 705",
+            "a": "705"
+          },
+          {
+            "q": "136 + 42 = 42 + ___",
+            "a": "136"
+          },
+          {
+            "q": "250 + ___ = 250",
+            "a": "0"
+          },
+          {
+            "q": "___ + 317 = 317 + 80",
+            "a": "80"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add each pair. The sums should match.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "156",
+            "op": "+",
+            "bottom": "237",
+            "a": "393"
+          },
+          {
+            "top": "237",
+            "op": "+",
+            "bottom": "156",
+            "a": "393"
+          },
+          {
+            "top": "348",
+            "op": "+",
+            "bottom": "91",
+            "a": "439"
+          },
+          {
+            "top": "91",
+            "op": "+",
+            "bottom": "348",
+            "a": "439"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "520 + 0 = 0 + 520",
+            "a": true
+          },
+          {
+            "q": "164 + 23 = 23 + 146",
+            "a": false
+          },
+          {
+            "q": "0 + 999 = 0",
+            "a": false
+          },
+          {
+            "q": "75 + 120 = 120 + 75",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the number sentences by the property they show.",
+        "marks": 6,
+        "groups": [
+          "Successor",
+          "Identity",
+          "Order"
+        ],
+        "words": [
+          "230 + 1 = 231",
+          "0 + 815 = 815",
+          "64 + 108 = 108 + 64",
+          "1 + 449 = 450",
+          "372 + 0 = 372",
+          "500 + 26 = 26 + 500"
+        ],
+        "a": {
+          "230 + 1 = 231": "Successor",
+          "0 + 815 = 815": "Identity",
+          "64 + 108 = 108 + 64": "Order",
+          "1 + 449 = 450": "Successor",
+          "372 + 0 = 372": "Identity",
+          "500 + 26 = 26 + 500": "Order"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Solve the creek problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "364 people crossed in the morning. 0 people crossed at night because of fog. ___ people crossed in all.",
+            "a": "364"
+          },
+          {
+            "q": "One abra made 28 + 45 trips. Another made 45 + 28 trips. Each abra made ___ trips.",
+            "a": "73"
+          },
+          {
+            "q": "The ticket man sold 599 tickets. Then he sold 1 more. He sold ___ tickets.",
+            "a": "600"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "properties-of-addition-08",
+    "topic": "properties-of-addition",
+    "number": 8,
+    "level": "Practice",
+    "title": "Lunch Boxes in Class 2",
+    "intro": "It is lunch time and everyone is sharing snacks. Change the order of three numbers to make the adding easy.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Change the order to make ten. Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "7 + 5 + 3 = 7 + 3 + ___",
+            "a": "5"
+          },
+          {
+            "q": "7 + 3 + 5 = 10 + ___",
+            "a": "5"
+          },
+          {
+            "q": "4 + 9 + 6 = 4 + 6 + ___",
+            "a": "9"
+          },
+          {
+            "q": "4 + 6 + 9 = ___",
+            "a": "19"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each sum to its answer.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "8 + 2 + 6",
+            "right": "16"
+          },
+          {
+            "left": "5 + 7 + 5",
+            "right": "17"
+          },
+          {
+            "left": "9 + 4 + 1",
+            "right": "14"
+          },
+          {
+            "left": "3 + 8 + 7",
+            "right": "18"
+          },
+          {
+            "left": "6 + 9 + 4",
+            "right": "19"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the pair that is easiest to add first.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "In 8 + 6 + 2, add",
+            "options": [
+              "8 + 2",
+              "8 + 6"
+            ],
+            "after": "first.",
+            "a": "8 + 2"
+          },
+          {
+            "before": "In 5 + 9 + 5, add",
+            "options": [
+              "9 + 5",
+              "5 + 5"
+            ],
+            "after": "first.",
+            "a": "5 + 5"
+          },
+          {
+            "before": "In 13 + 4 + 7, add",
+            "options": [
+              "13 + 7",
+              "4 + 7"
+            ],
+            "after": "first.",
+            "a": "13 + 7"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Add three numbers.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "20 + 9 + 10",
+            "a": "39"
+          },
+          {
+            "q": "15 + 3 + 5",
+            "a": "23"
+          },
+          {
+            "q": "11 + 30 + 9",
+            "a": "50"
+          },
+          {
+            "q": "2 + 40 + 8",
+            "a": "50"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the lunch problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Kiara has 8 grapes, 5 orange slices and 2 dates. She has ___ pieces of fruit.",
+            "a": "15"
+          },
+          {
+            "q": "Table one has 6 children, table two has 7 and table three has 4. There are ___ children in all.",
+            "a": "17"
+          },
+          {
+            "q": "Lucas shares 9 biscuits, Pari shares 3 and Idris shares 11. They share ___ biscuits altogether.",
+            "a": "23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "properties-of-addition-09",
+    "topic": "properties-of-addition",
+    "number": 9,
+    "level": "Practice",
+    "title": "The Navratri Garba Night",
+    "intro": "Dancers in bright colours spin with dandiya sticks. Name the property each number sentence shows.",
+    "sections": [
+      {
+        "type": "choice",
+        "title": "Circle the property.",
+        "marks": 5,
+        "items": [
+          {
+            "before": "63 + 0 = 63 shows the",
+            "options": [
+              "Successor",
+              "Identity",
+              "Order"
+            ],
+            "after": "property.",
+            "a": "Identity"
+          },
+          {
+            "before": "27 + 1 = 28 shows the",
+            "options": [
+              "Successor",
+              "Identity",
+              "Order"
+            ],
+            "after": "property.",
+            "a": "Successor"
+          },
+          {
+            "before": "14 + 9 = 9 + 14 shows the",
+            "options": [
+              "Successor",
+              "Identity",
+              "Order"
+            ],
+            "after": "property.",
+            "a": "Order"
+          },
+          {
+            "before": "0 + 150 = 150 shows the",
+            "options": [
+              "Successor",
+              "Identity",
+              "Order"
+            ],
+            "after": "property.",
+            "a": "Identity"
+          },
+          {
+            "before": "1 + 99 = 100 shows the",
+            "options": [
+              "Successor",
+              "Identity",
+              "Order"
+            ],
+            "after": "property.",
+            "a": "Successor"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "86 + ___ = 86",
+            "a": "0"
+          },
+          {
+            "q": "35 + 48 = ___ + 35",
+            "a": "48"
+          },
+          {
+            "q": "___ + 1 = 70",
+            "a": "69"
+          },
+          {
+            "q": "20 + 7 + 3 = ___",
+            "a": "30"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add each pair.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "274",
+            "op": "+",
+            "bottom": "118",
+            "a": "392"
+          },
+          {
+            "top": "118",
+            "op": "+",
+            "bottom": "274",
+            "a": "392"
+          },
+          {
+            "top": "59",
+            "op": "+",
+            "bottom": "163",
+            "a": "222"
+          },
+          {
+            "top": "163",
+            "op": "+",
+            "bottom": "59",
+            "a": "222"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The identity property is about adding 0.",
+            "a": true
+          },
+          {
+            "q": "The order property says 6 + 9 = 9 + 6.",
+            "a": true
+          },
+          {
+            "q": "The successor of 300 is 299.",
+            "a": false
+          },
+          {
+            "q": "12 + 8 + 30 = 40",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: What happens when you add 0 to any number?",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. The number stays the same. For example, 45 + 0 = 45."
+      }
+    ]
+  },
+  {
+    "id": "properties-of-addition-10",
+    "topic": "properties-of-addition",
+    "number": 10,
+    "level": "Practice",
+    "title": "Building a Lego City",
+    "intro": "Arnav and Mei are building a city with toy bricks. Use every property to count their bricks quickly.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the two sides that are equal.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "17 + 0",
+            "right": "17"
+          },
+          {
+            "left": "17 + 1",
+            "right": "18"
+          },
+          {
+            "left": "9 + 17",
+            "right": "17 + 9"
+          },
+          {
+            "left": "0 + 71",
+            "right": "71"
+          },
+          {
+            "left": "71 + 9",
+            "right": "9 + 71"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Add three numbers.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "12 + 8 + 5",
+            "a": "25"
+          },
+          {
+            "q": "30 + 6 + 4",
+            "a": "40"
+          },
+          {
+            "q": "25 + 25 + 10",
+            "a": "60"
+          },
+          {
+            "q": "9 + 14 + 1",
+            "a": "24"
+          },
+          {
+            "q": "40 + 30 + 20",
+            "a": "90"
+          },
+          {
+            "q": "7 + 16 + 3",
+            "a": "26"
+          },
+          {
+            "q": "18 + 2 + 11",
+            "a": "31"
+          },
+          {
+            "q": "50 + 5 + 50",
+            "a": "105"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The successor of 189 is ___.",
+            "a": "190"
+          },
+          {
+            "q": "64 + 0 + 1 = ___",
+            "a": "65"
+          },
+          {
+            "q": "23 + 45 = 45 + ___",
+            "a": "23"
+          },
+          {
+            "q": "___ + 0 = 208",
+            "a": "208"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the number sentences by the property they show.",
+        "marks": 6,
+        "groups": [
+          "Successor",
+          "Identity",
+          "Order"
+        ],
+        "words": [
+          "93 + 1 = 94",
+          "0 + 57 = 57",
+          "41 + 16 = 16 + 41",
+          "1 + 600 = 601",
+          "144 + 0 = 144",
+          "8 + 95 = 95 + 8"
+        ],
+        "a": {
+          "93 + 1 = 94": "Successor",
+          "0 + 57 = 57": "Identity",
+          "41 + 16 = 16 + 41": "Order",
+          "1 + 600 = 601": "Successor",
+          "144 + 0 = 144": "Identity",
+          "8 + 95 = 95 + 8": "Order"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Solve the brick problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The tower has 16 red bricks, 4 blue bricks and 9 white bricks. It has ___ bricks in all.",
+            "a": "29"
+          },
+          {
+            "q": "Mei's bridge has 129 bricks. She adds 1 more. Now it has ___ bricks.",
+            "a": "130"
+          },
+          {
+            "q": "Arnav uses 35 + 18 bricks. Mei uses 18 + 35 bricks. Each of them uses ___ bricks.",
+            "a": "53"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "properties-of-addition-11",
+    "topic": "properties-of-addition",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Camel Farm Visit",
+    "intro": "Class 2 visits a camel farm near Al Marmoom. Use the properties with big numbers and find what is missing.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Find the missing number.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "___ + 1 = 800",
+            "a": "799"
+          },
+          {
+            "q": "356 + ___ = 356",
+            "a": "0"
+          },
+          {
+            "q": "147 + 268 = 268 + ___",
+            "a": "147"
+          },
+          {
+            "q": "The successor of 499 + 0 is ___.",
+            "a": "500"
+          },
+          {
+            "q": "0 + ___ + 1 = 650",
+            "a": "649"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add each pair. Carry when you need to.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "367",
+            "op": "+",
+            "bottom": "285",
+            "a": "652"
+          },
+          {
+            "top": "285",
+            "op": "+",
+            "bottom": "367",
+            "a": "652"
+          },
+          {
+            "top": "478",
+            "op": "+",
+            "bottom": "96",
+            "a": "574"
+          },
+          {
+            "top": "96",
+            "op": "+",
+            "bottom": "478",
+            "a": "574"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "409 + 0 = 0 + 409",
+            "a": true
+          },
+          {
+            "q": "The successor of 699 is 700.",
+            "a": true
+          },
+          {
+            "q": "235 + 461 = 461 + 253",
+            "a": false
+          },
+          {
+            "q": "If 318 + 124 = 442, then 124 + 318 = 442.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "If 256 + 139 = 395, then 139 + 256 =",
+            "options": [
+              "395",
+              "359",
+              "495"
+            ],
+            "after": "",
+            "a": "395"
+          },
+          {
+            "before": "899 + 1 =",
+            "options": [
+              "890",
+              "900",
+              "910"
+            ],
+            "after": "",
+            "a": "900"
+          },
+          {
+            "before": "0 + 574 + 0 =",
+            "options": [
+              "0",
+              "574",
+              "5740"
+            ],
+            "after": "",
+            "a": "574"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the addition sentence and the answer.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "The farm has 249 camels. One baby camel is born today. How many camels are there now?",
+            "a": "249 + 1 = 250. There are 250 camels now."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "properties-of-addition-12",
+    "topic": "properties-of-addition",
+    "number": 12,
+    "level": "Challenge",
+    "title": "The Cricket Scorecard",
+    "intro": "Veer keeps the scorecard for his colony cricket team. Add three scores by making tens and hundreds first.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Add three numbers. Look for tens first.",
+        "marks": 8,
+        "items": [
+          {
+            "q": "25 + 48 + 75",
+            "a": "148"
+          },
+          {
+            "q": "30 + 16 + 70",
+            "a": "116"
+          },
+          {
+            "q": "45 + 27 + 55",
+            "a": "127"
+          },
+          {
+            "q": "60 + 39 + 40",
+            "a": "139"
+          },
+          {
+            "q": "18 + 50 + 12",
+            "a": "80"
+          },
+          {
+            "q": "99 + 36 + 1",
+            "a": "136"
+          },
+          {
+            "q": "64 + 20 + 80",
+            "a": "164"
+          },
+          {
+            "q": "35 + 35 + 30",
+            "a": "100"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Change the order. Fill in the blanks.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "25 + 48 + 75 = 25 + 75 + ___",
+            "a": "48"
+          },
+          {
+            "q": "25 + 75 + 48 = 100 + ___",
+            "a": "48"
+          },
+          {
+            "q": "19 + 37 + 81 = 19 + 81 + ___",
+            "a": "37"
+          },
+          {
+            "q": "19 + 81 + 37 = ___",
+            "a": "137"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each sum to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "50 + 23 + 50",
+            "right": "123"
+          },
+          {
+            "left": "90 + 45 + 10",
+            "right": "145"
+          },
+          {
+            "left": "15 + 62 + 85",
+            "right": "162"
+          },
+          {
+            "left": "200 + 150 + 300",
+            "right": "650"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "40 + 20 + 60 = 120",
+            "a": true
+          },
+          {
+            "q": "75 + 50 + 35 = 150",
+            "a": false
+          },
+          {
+            "q": "32 + 9 + 8 and 8 + 32 + 9 have the same sum.",
+            "a": true
+          },
+          {
+            "q": "100 + 100 + 99 = 300",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the cricket problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Veer scored 46 runs, Kunal scored 28 and Sameer scored 54. They scored ___ runs in all.",
+            "a": "128"
+          },
+          {
+            "q": "The team hit 13 fours in match one, 9 in match two and 7 in match three. That is ___ fours altogether.",
+            "a": "29"
+          },
+          {
+            "q": "150 people sat in stand A, 86 in stand B and 50 in stand C. ___ people watched in total.",
+            "a": "286"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "properties-of-addition-13",
+    "topic": "properties-of-addition",
+    "number": 13,
+    "level": "Challenge",
+    "title": "The Chennai Bookshop",
+    "intro": "Lakshmi helps at her grandfather's bookshop near Marina Beach. Group the numbers in different ways and test the rules.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "(2 + 3) + 4 and 2 + (3 + 4) have the same sum.",
+            "a": true
+          },
+          {
+            "q": "9 − 4 and 4 − 9 give the same answer.",
+            "a": false
+          },
+          {
+            "q": "The order property works for addition.",
+            "a": true
+          },
+          {
+            "q": "The successor of 909 is 910.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Add the numbers in brackets first.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "(4 + 6) + 9 = 10 + ___",
+            "a": "9"
+          },
+          {
+            "q": "5 + (8 + 2) = 5 + ___",
+            "a": "10"
+          },
+          {
+            "q": "(30 + 20) + 15 = ___",
+            "a": "65"
+          },
+          {
+            "q": "12 + (40 + 40) = ___",
+            "a": "92"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add each pair. Carry when you need to.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "189",
+            "op": "+",
+            "bottom": "456",
+            "a": "645"
+          },
+          {
+            "top": "456",
+            "op": "+",
+            "bottom": "189",
+            "a": "645"
+          },
+          {
+            "top": "67",
+            "op": "+",
+            "bottom": "486",
+            "a": "553"
+          },
+          {
+            "top": "486",
+            "op": "+",
+            "bottom": "67",
+            "a": "553"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the number sentences by the property they show.",
+        "marks": 9,
+        "groups": [
+          "Successor",
+          "Identity",
+          "Order"
+        ],
+        "words": [
+          "709 + 1 = 710",
+          "0 + 340 = 340",
+          "125 + 86 = 86 + 125",
+          "1 + 98 = 99",
+          "661 + 0 = 661",
+          "19 + 450 = 450 + 19",
+          "384 + 1 = 385",
+          "0 + 12 = 12",
+          "77 + 203 = 203 + 77"
+        ],
+        "a": {
+          "709 + 1 = 710": "Successor",
+          "0 + 340 = 340": "Identity",
+          "125 + 86 = 86 + 125": "Order",
+          "1 + 98 = 99": "Successor",
+          "661 + 0 = 661": "Identity",
+          "19 + 450 = 450 + 19": "Order",
+          "384 + 1 = 385": "Successor",
+          "0 + 12 = 12": "Identity",
+          "77 + 203 = 203 + 77": "Order"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: Lakshmi says 46 + 0 = 460. Is she right? Tell why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. No. Adding 0 does not change a number, so 46 + 0 = 46."
+      }
+    ]
+  },
+  {
+    "id": "properties-of-addition-14",
+    "topic": "properties-of-addition",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The National Day Flag Stall",
+    "intro": "Stalls sell flags, scarves and badges for UAE National Day. Solve the number riddles using the properties.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve the riddles.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Add 0 to me and you get 245. I am ___.",
+            "a": "245"
+          },
+          {
+            "q": "Add 1 to me and you get 600. I am ___.",
+            "a": "599"
+          },
+          {
+            "q": "I am the successor of 138 + 0. I am ___.",
+            "a": "139"
+          },
+          {
+            "q": "54 + me = 37 + 54. I am ___.",
+            "a": "37"
+          },
+          {
+            "q": "Add me to 721 and you still get 721. I am ___.",
+            "a": "0"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "Add in your head.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "0 + 465 + 1",
+            "a": "466"
+          },
+          {
+            "q": "1 + 0 + 99",
+            "a": "100"
+          },
+          {
+            "q": "70 + 0 + 30",
+            "a": "100"
+          },
+          {
+            "q": "1 + 548 + 1",
+            "a": "550"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the property that helps.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "We know 87 + 65 = 152. To find 65 + 87 we use the",
+            "options": [
+              "Successor",
+              "Identity",
+              "Order"
+            ],
+            "after": "property.",
+            "a": "Order"
+          },
+          {
+            "before": "To find the number after 429 we use the",
+            "options": [
+              "Successor",
+              "Identity",
+              "Order"
+            ],
+            "after": "property.",
+            "a": "Successor"
+          },
+          {
+            "before": "To find 0 + 812 we use the",
+            "options": [
+              "Successor",
+              "Identity",
+              "Order"
+            ],
+            "after": "property.",
+            "a": "Identity"
+          },
+          {
+            "before": "To add 6 + 39 by starting from 39 we use the",
+            "options": [
+              "Successor",
+              "Identity",
+              "Order"
+            ],
+            "after": "property.",
+            "a": "Order"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add each pair.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "295",
+            "op": "+",
+            "bottom": "438",
+            "a": "733"
+          },
+          {
+            "top": "438",
+            "op": "+",
+            "bottom": "295",
+            "a": "733"
+          },
+          {
+            "top": "176",
+            "op": "+",
+            "bottom": "87",
+            "a": "263"
+          },
+          {
+            "top": "87",
+            "op": "+",
+            "bottom": "176",
+            "a": "263"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the stall problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "A stall sold 140 flags on Friday, 75 on Saturday and 60 on Sunday. It sold ___ flags in all.",
+            "a": "275"
+          },
+          {
+            "q": "Hessa had 379 badges. She found 1 more in the box. Now she has ___ badges.",
+            "a": "380"
+          },
+          {
+            "q": "Rashid sold 163 + 248 scarves. Noura sold 248 + 163 scarves. Each sold ___ scarves.",
+            "a": "411"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "properties-of-addition-15",
+    "topic": "properties-of-addition",
+    "number": 15,
+    "level": "Challenge",
+    "title": "The Magic Number Show",
+    "intro": "Magician Mirza does number tricks on stage. Use the properties of addition to see how each trick works.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match the two sides that are equal.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "348 + 0",
+            "right": "348"
+          },
+          {
+            "left": "348 + 1",
+            "right": "349"
+          },
+          {
+            "left": "52 + 348",
+            "right": "348 + 52"
+          },
+          {
+            "left": "0 + 1 + 438",
+            "right": "439"
+          },
+          {
+            "left": "438 + 25",
+            "right": "25 + 438"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Find the missing number.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "(15 + 5) + 37 = ___",
+            "a": "57"
+          },
+          {
+            "q": "26 + 59 + 74 = 26 + 74 + ___",
+            "a": "59"
+          },
+          {
+            "q": "___ + 0 + 1 = 900",
+            "a": "899"
+          },
+          {
+            "q": "160 + 275 = ___ + 160",
+            "a": "275"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the number sentences by the property they show.",
+        "marks": 6,
+        "groups": [
+          "Successor",
+          "Identity",
+          "Order"
+        ],
+        "words": [
+          "998 + 1 = 999",
+          "0 + 286 = 286",
+          "333 + 444 = 444 + 333",
+          "1 + 110 = 111",
+          "905 + 0 = 905",
+          "67 + 9 = 9 + 67"
+        ],
+        "a": {
+          "998 + 1 = 999": "Successor",
+          "0 + 286 = 286": "Identity",
+          "333 + 444 = 444 + 333": "Order",
+          "1 + 110 = 111": "Successor",
+          "905 + 0 = 905": "Identity",
+          "67 + 9 = 9 + 67": "Order"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Every number has a successor.",
+            "a": true
+          },
+          {
+            "q": "0 + 0 = 1",
+            "a": false
+          },
+          {
+            "q": "75 + 18 + 25 is the same as 75 + 25 + 18.",
+            "a": true
+          },
+          {
+            "q": "If 427 + 365 = 792, then 365 + 427 = 729.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Use the order property. Write the sum in an easier order and solve.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "45 + 38 + 55",
+            "a": "45 + 55 + 38 = 138"
+          }
+        ]
+      }
+    ]
+  }
+]

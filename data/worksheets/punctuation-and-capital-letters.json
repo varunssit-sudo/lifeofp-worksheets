@@ -1,0 +1,1792 @@
+[
+ {
+  "id": "punctuation-and-capital-letters-01",
+  "topic": "punctuation-and-capital-letters",
+  "number": 1,
+  "level": "Starter",
+  "title": "Morning Assembly",
+  "intro": "The whole school is in the hall. Start each sentence with a capital letter and end it with a full stop.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "A sentence begins with a capital letter.",
+      "a": true
+     },
+     {
+      "q": "A telling sentence ends with a full stop.",
+      "a": true
+     },
+     {
+      "q": "We put a full stop in the middle of a word.",
+      "a": false
+     },
+     {
+      "q": "The word I is always a capital letter.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the word that starts the sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "",
+      "options": [
+       "The",
+       "the"
+      ],
+      "after": "bell rings at eight o'clock.",
+      "a": "The"
+     },
+     {
+      "before": "",
+      "options": [
+       "we",
+       "We"
+      ],
+      "after": "stand in straight lines.",
+      "a": "We"
+     },
+     {
+      "before": "",
+      "options": [
+       "Our",
+       "our"
+      ],
+      "after": "choir sings the school song.",
+      "a": "Our"
+     },
+     {
+      "before": "",
+      "options": [
+       "today",
+       "Today"
+      ],
+      "after": "Class 2 will read a poem.",
+      "a": "Today"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write the mark that ends each sentence.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The flag goes up the pole ___",
+      "a": "."
+     },
+     {
+      "q": "Who will read the thought for the day ___",
+      "a": "?"
+     },
+     {
+      "q": "Rehan plays the drum ___",
+      "a": "."
+     },
+     {
+      "q": "Is the hall full ___",
+      "a": "?"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write each sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "the principal reads the news",
+      "a": "The principal reads the news."
+     },
+     {
+      "q": "we walk back to class quietly",
+      "a": "We walk back to class quietly."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about your school assembly.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check for a capital letter at the start and a full stop at the end."
+   }
+  ]
+ },
+ {
+  "id": "punctuation-and-capital-letters-02",
+  "topic": "punctuation-and-capital-letters",
+  "number": 2,
+  "level": "Starter",
+  "title": "The Fish Souk in Deira",
+  "intro": "Baba and Salma are buying fish for dinner. Some sentences tell and some sentences ask.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the sentences. Is each one telling or asking?",
+    "marks": 6,
+    "groups": [
+     "Telling",
+     "Asking"
+    ],
+    "words": [
+     "How much is it",
+     "The fish is fresh",
+     "Where is Baba",
+     "We need two crabs",
+     "Is that a shark",
+     "Ice keeps fish cold"
+    ],
+    "a": {
+     "How much is it": "Asking",
+     "The fish is fresh": "Telling",
+     "Where is Baba": "Asking",
+     "We need two crabs": "Telling",
+     "Is that a shark": "Asking",
+     "Ice keeps fish cold": "Telling"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Write a full stop or a question mark.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "Which fish do you want ___",
+      "a": "?"
+     },
+     {
+      "q": "The prawns are in the blue box ___",
+      "a": "."
+     },
+     {
+      "q": "Can you clean the fish for us ___",
+      "a": "?"
+     },
+     {
+      "q": "Salma holds the bag ___",
+      "a": "."
+     },
+     {
+      "q": "Why is the floor so wet ___",
+      "a": "?"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each question to its answer.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "How much are the prawns?",
+      "right": "They are ₹300 a kilo."
+     },
+     {
+      "left": "When did the boats come in?",
+      "right": "They came at sunrise."
+     },
+     {
+      "left": "Who caught this big fish?",
+      "right": "My uncle caught it."
+     },
+     {
+      "left": "Where do I pay?",
+      "right": "You pay at the counter."
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write each sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "what is the name of this fish",
+      "a": "What is the name of this fish?"
+     },
+     {
+      "q": "the seller wraps the fish in paper",
+      "a": "The seller wraps the fish in paper."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write one question you would ask the fish seller.",
+    "marks": 2,
+    "lines": 1,
+    "a": "Answers will vary, e.g. Is this fish fresh? Check the capital letter and the question mark."
+   }
+  ]
+ },
+ {
+  "id": "punctuation-and-capital-letters-03",
+  "topic": "punctuation-and-capital-letters",
+  "number": 3,
+  "level": "Starter",
+  "title": "The Kite Festival in Ahmedabad",
+  "intro": "The sky is full of kites on Uttarayan. Use an exclamation mark to show a strong feeling.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "An exclamation mark shows a strong feeling.",
+      "a": true
+     },
+     {
+      "q": "We use an exclamation mark after every question.",
+      "a": false
+     },
+     {
+      "q": "'Watch out!' needs an exclamation mark.",
+      "a": true
+     },
+     {
+      "q": "An exclamation mark looks like this: ?",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the mark that ends each sentence.",
+    "marks": 5,
+    "items": [
+     {
+      "before": "What a huge kite",
+      "options": [
+       "!",
+       "?"
+      ],
+      "after": "",
+      "a": "!"
+     },
+     {
+      "before": "Whose kite is the red one",
+      "options": [
+       "!",
+       "?"
+      ],
+      "after": "",
+      "a": "?"
+     },
+     {
+      "before": "Hurray, we won",
+      "options": [
+       "?",
+       "!"
+      ],
+      "after": "",
+      "a": "!"
+     },
+     {
+      "before": "How many kites can you count",
+      "options": [
+       "?",
+       "!"
+      ],
+      "after": "",
+      "a": "?"
+     },
+     {
+      "before": "Ouch, the string cut my finger",
+      "options": [
+       "!",
+       "?"
+      ],
+      "after": "",
+      "a": "!"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write the missing word.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The mark ! is called an ___ mark.",
+      "a": "exclamation"
+     },
+     {
+      "q": "An asking sentence ends with a ___ mark.",
+      "a": "question"
+     },
+     {
+      "q": "A telling sentence ends with a full ___.",
+      "a": "stop"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write each sentence correctly. End it with an exclamation mark.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "look out for the tree",
+      "a": "Look out for the tree!"
+     },
+     {
+      "q": "what a windy day it is",
+      "a": "What a windy day it is!"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two things you might shout at a kite festival. Use !",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. I cut your kite! Check the capital letters and exclamation marks."
+   }
+  ]
+ },
+ {
+  "id": "punctuation-and-capital-letters-04",
+  "topic": "punctuation-and-capital-letters",
+  "number": 4,
+  "level": "Starter",
+  "title": "Packing for a Picnic at Zabeel Park",
+  "intro": "Lina is packing the picnic basket. Use commas when you write a list of things.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "A comma separates the things in a list.",
+      "a": true
+     },
+     {
+      "q": "In a list, we put a comma after every single word.",
+      "a": false
+     },
+     {
+      "q": "'I packed a mat, a ball and a hat.' has the comma in the right place.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write the missing mark.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "We took apples ___ grapes and bananas.",
+      "a": ","
+     },
+     {
+      "q": "Did you pack the cups and the plates ___",
+      "a": "?"
+     },
+     {
+      "q": "Mama made wraps ___ salad and lemon juice.",
+      "a": ","
+     },
+     {
+      "q": "The basket is very heavy ___",
+      "a": "."
+     },
+     {
+      "q": "Tom ___ Riya and Hamad came with us.",
+      "a": ","
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write each sentence again. Add the commas.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Lina packed plates cups spoons and tissues.",
+      "a": "Lina packed plates, cups, spoons and tissues."
+     },
+     {
+      "q": "We played catch cricket and tag.",
+      "a": "We played catch, cricket and tag."
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "How many commas does each list need?",
+    "marks": 4,
+    "items": [
+     {
+      "q": "a mat a ball and a kite",
+      "a": "1"
+     },
+     {
+      "q": "juice water milk and tea",
+      "a": "2"
+     },
+     {
+      "q": "Omar and Tia",
+      "a": "0"
+     },
+     {
+      "q": "chips nuts dates figs and buns",
+      "a": "3"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a list of four things you would pack. Use commas.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. I would pack a hat, a bottle, a ball and a book. Check the commas."
+   }
+  ]
+ },
+ {
+  "id": "punctuation-and-capital-letters-05",
+  "topic": "punctuation-and-capital-letters",
+  "number": 5,
+  "level": "Practice",
+  "title": "The New Class Register",
+  "intro": "Ms Anita is writing the names of Class 2D. Names of people and the word I always get a capital letter.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the words. Which ones need a capital letter?",
+    "marks": 8,
+    "groups": [
+     "Needs a capital",
+     "No capital"
+    ],
+    "words": [
+     "aarav",
+     "pencil",
+     "sofia",
+     "window",
+     "yusuf",
+     "eraser",
+     "meenal",
+     "bench"
+    ],
+    "a": {
+     "aarav": "Needs a capital",
+     "pencil": "No capital",
+     "sofia": "Needs a capital",
+     "window": "No capital",
+     "yusuf": "Needs a capital",
+     "eraser": "No capital",
+     "meenal": "Needs a capital",
+     "bench": "No capital"
+    }
+   },
+   {
+    "type": "pairs",
+    "title": "Write each name correctly.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "tanvi",
+      "a": "Tanvi"
+     },
+     {
+      "q": "omar farouk",
+      "a": "Omar Farouk"
+     },
+     {
+      "q": "li wei",
+      "a": "Li Wei"
+     },
+     {
+      "q": "priya nair",
+      "a": "Priya Nair"
+     },
+     {
+      "q": "ben",
+      "a": "Ben"
+     },
+     {
+      "q": "fatima",
+      "a": "Fatima"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "My friend and",
+      "options": [
+       "i",
+       "I"
+      ],
+      "after": "sit together.",
+      "a": "I"
+     },
+     {
+      "before": "",
+      "options": [
+       "Diya",
+       "diya"
+      ],
+      "after": "is the class monitor.",
+      "a": "Diya"
+     },
+     {
+      "before": "Can",
+      "options": [
+       "I",
+       "i"
+      ],
+      "after": "answer for Kofi?",
+      "a": "I"
+     },
+     {
+      "before": "The teacher called",
+      "options": [
+       "hamza",
+       "Hamza"
+      ],
+      "after": "first.",
+      "a": "Hamza"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write each sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "i think noor and emma are absent today",
+      "a": "I think Noor and Emma are absent today."
+     },
+     {
+      "q": "may i sit next to jacob",
+      "a": "May I sit next to Jacob?"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write your full name and a friend's full name.",
+    "marks": 2,
+    "lines": 1,
+    "a": "Answers will vary. Check that every name begins with a capital letter."
+   }
+  ]
+ },
+ {
+  "id": "punctuation-and-capital-letters-06",
+  "topic": "punctuation-and-capital-letters",
+  "number": 6,
+  "level": "Practice",
+  "title": "A Road Trip to Jaipur",
+  "intro": "Vihaan's family is driving to the Pink City. Names of places begin with a capital letter.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write each place name with capital letters.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "jaipur",
+      "a": "Jaipur"
+     },
+     {
+      "q": "delhi",
+      "a": "Delhi"
+     },
+     {
+      "q": "kota",
+      "a": "Kota"
+     },
+     {
+      "q": "sharjah",
+      "a": "Sharjah"
+     },
+     {
+      "q": "rajasthan",
+      "a": "Rajasthan"
+     },
+     {
+      "q": "hawa mahal",
+      "a": "Hawa Mahal"
+     },
+     {
+      "q": "amber fort",
+      "a": "Amber Fort"
+     },
+     {
+      "q": "india",
+      "a": "India"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Names of cities begin with a capital letter.",
+      "a": true
+     },
+     {
+      "q": "The word 'city' always needs a capital letter.",
+      "a": false
+     },
+     {
+      "q": "'River Yamuna' is written correctly.",
+      "a": true
+     },
+     {
+      "q": "'we drove to Ajmer.' is written correctly.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write the place name in brackets correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "We live in ___ (dubai).",
+      "a": "Dubai"
+     },
+     {
+      "q": "Our flight landed in ___ (new delhi).",
+      "a": "New Delhi"
+     },
+     {
+      "q": "Papa drove us to ___ (pushkar).",
+      "a": "Pushkar"
+     },
+     {
+      "q": "Nani lives in ___ (udaipur).",
+      "a": "Udaipur"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write each sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "we saw camels near jodhpur",
+      "a": "We saw camels near Jodhpur."
+     },
+     {
+      "q": "is the taj mahal in agra",
+      "a": "Is the Taj Mahal in Agra?"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write the names of two places you have visited.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check that each place name begins with a capital letter."
+   }
+  ]
+ },
+ {
+  "id": "punctuation-and-capital-letters-07",
+  "topic": "punctuation-and-capital-letters",
+  "number": 7,
+  "level": "Practice",
+  "title": "The Class Calendar",
+  "intro": "Class 2 is filling in the big wall calendar. Days of the week and months of the year begin with a capital letter.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the words into days and months.",
+    "marks": 6,
+    "groups": [
+     "Day",
+     "Month"
+    ],
+    "words": [
+     "Friday",
+     "March",
+     "Sunday",
+     "August",
+     "Wednesday",
+     "December"
+    ],
+    "a": {
+     "Friday": "Day",
+     "March": "Month",
+     "Sunday": "Day",
+     "August": "Month",
+     "Wednesday": "Day",
+     "December": "Month"
+    }
+   },
+   {
+    "type": "pairs",
+    "title": "Write each word with a capital letter.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "monday",
+      "a": "Monday"
+     },
+     {
+      "q": "june",
+      "a": "June"
+     },
+     {
+      "q": "thursday",
+      "a": "Thursday"
+     },
+     {
+      "q": "october",
+      "a": "October"
+     },
+     {
+      "q": "saturday",
+      "a": "Saturday"
+     },
+     {
+      "q": "january",
+      "a": "January"
+     },
+     {
+      "q": "tuesday",
+      "a": "Tuesday"
+     },
+     {
+      "q": "april",
+      "a": "April"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the word that is written correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Sports Day is on",
+      "options": [
+       "friday",
+       "Friday"
+      ],
+      "after": ".",
+      "a": "Friday"
+     },
+     {
+      "before": "My birthday is in",
+      "options": [
+       "September",
+       "september"
+      ],
+      "after": ".",
+      "a": "September"
+     },
+     {
+      "before": "We go swimming in",
+      "options": [
+       "Summer",
+       "summer"
+      ],
+      "after": ".",
+      "a": "summer"
+     },
+     {
+      "before": "It is my turn to water the plants",
+      "options": [
+       "Today",
+       "today"
+      ],
+      "after": ".",
+      "a": "today"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write the day or month.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The month after May is ___.",
+      "a": "June"
+     },
+     {
+      "q": "The day before Sunday is ___.",
+      "a": "Saturday"
+     },
+     {
+      "q": "The first month of the year is ___.",
+      "a": "January"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write each sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "our holiday starts on monday in july",
+      "a": "Our holiday starts on Monday in July."
+     },
+     {
+      "q": "is diwali in october or november",
+      "a": "Is Diwali in October or November?"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "punctuation-and-capital-letters-08",
+  "topic": "punctuation-and-capital-letters",
+  "number": 8,
+  "level": "Practice",
+  "title": "A Visit to the Dentist",
+  "intro": "Elena has a check-up today. Titles like Mr, Mrs, Miss and Dr begin with a capital letter.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each title to the person.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Mr",
+      "right": "a man"
+     },
+     {
+      "left": "Mrs",
+      "right": "a married woman"
+     },
+     {
+      "left": "Dr",
+      "right": "a doctor"
+     },
+     {
+      "left": "Miss",
+      "right": "a girl or an unmarried woman"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Write each name with capital letters.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "dr rao",
+      "a": "Dr Rao"
+     },
+     {
+      "q": "mrs pillai",
+      "a": "Mrs Pillai"
+     },
+     {
+      "q": "mr ahmed",
+      "a": "Mr Ahmed"
+     },
+     {
+      "q": "miss chen",
+      "a": "Miss Chen"
+     },
+     {
+      "q": "dr fernandes",
+      "a": "Dr Fernandes"
+     },
+     {
+      "q": "mr okoro",
+      "a": "Mr Okoro"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the one that is written correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "",
+      "options": [
+       "Dr Mehta",
+       "dr Mehta"
+      ],
+      "after": "checked my teeth.",
+      "a": "Dr Mehta"
+     },
+     {
+      "before": "The nurse called",
+      "options": [
+       "mrs Haddad",
+       "Mrs Haddad"
+      ],
+      "after": "next.",
+      "a": "Mrs Haddad"
+     },
+     {
+      "before": "I saw a",
+      "options": [
+       "Doctor",
+       "doctor"
+      ],
+      "after": "in a white coat.",
+      "a": "doctor"
+     },
+     {
+      "before": "",
+      "options": [
+       "Mr Thomas",
+       "Mr thomas"
+      ],
+      "after": "gave me a sticker.",
+      "a": "Mr Thomas"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write each sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "dr kapoor told me to brush twice a day",
+      "a": "Dr Kapoor told me to brush twice a day."
+     },
+     {
+      "q": "did mrs lobo bring her son",
+      "a": "Did Mrs Lobo bring her son?"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write about a doctor or teacher you know. Use Mr, Mrs, Miss or Dr.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. Dr Shah is kind. Check the capital letters in the title and the name."
+   }
+  ]
+ },
+ {
+  "id": "punctuation-and-capital-letters-09",
+  "topic": "punctuation-and-capital-letters",
+  "number": 9,
+  "level": "Practice",
+  "title": "The School Library",
+  "intro": "It is library period. The main words in a book title begin with capital letters.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The main words in a book title begin with capital letters.",
+      "a": true
+     },
+     {
+      "q": "'the jungle book' is written correctly as a title.",
+      "a": false
+     },
+     {
+      "q": "The first word of a title always has a capital letter.",
+      "a": true
+     },
+     {
+      "q": "Small words like 'and' in the middle of a title usually stay small.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write the book title in brackets correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "My favourite book is ___ (the ugly duckling).",
+      "a": "The Ugly Duckling"
+     },
+     {
+      "q": "Ms Dana read ___ (the lion and the mouse) to us.",
+      "a": "The Lion and the Mouse"
+     },
+     {
+      "q": "I borrowed ___ (the magic paintbrush).",
+      "a": "The Magic Paintbrush"
+     },
+     {
+      "q": "Have you read ___ (the thirsty crow)?",
+      "a": "The Thirsty Crow"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the one that is written correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "",
+      "options": [
+       "Cinderella",
+       "cinderella"
+      ],
+      "after": "lost her glass shoe.",
+      "a": "Cinderella"
+     },
+     {
+      "before": "The",
+      "options": [
+       "Librarian",
+       "librarian"
+      ],
+      "after": "stamped my card.",
+      "a": "librarian"
+     },
+     {
+      "before": "Zayn is reading",
+      "options": [
+       "The Hungry Fox",
+       "the hungry fox"
+      ],
+      "after": ".",
+      "a": "The Hungry Fox"
+     },
+     {
+      "before": "Return your",
+      "options": [
+       "Book",
+       "book"
+      ],
+      "after": "next week.",
+      "a": "book"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write each sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "i read the tale of the brave ant at home",
+      "a": "I read The Tale of the Brave Ant at home."
+     },
+     {
+      "q": "who wrote the red umbrella",
+      "a": "Who wrote The Red Umbrella?"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write the titles of two books you like.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check that the main words in each title begin with a capital letter."
+   }
+  ]
+ },
+ {
+  "id": "punctuation-and-capital-letters-10",
+  "topic": "punctuation-and-capital-letters",
+  "number": 10,
+  "level": "Practice",
+  "title": "Chatting on the School Bus",
+  "intro": "The children are talking on the way home. Speech marks go around the words a person says.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Speech marks go around the words someone says.",
+      "a": true
+     },
+     {
+      "q": "The words 'said Ali' go inside the speech marks.",
+      "a": false
+     },
+     {
+      "q": "The first spoken word begins with a capital letter.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Who is speaking? Write the name.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "\"I forgot my bottle,\" said Nia. ___ is speaking.",
+      "a": "Nia"
+     },
+     {
+      "q": "Pavel said, \"My stop is first.\" ___ is speaking.",
+      "a": "Pavel"
+     },
+     {
+      "q": "\"Sara, is this your cap?\" asked Jun. ___ is speaking.",
+      "a": "Jun"
+     },
+     {
+      "q": "\"Thank you, Kiran,\" said Maya. ___ is speaking.",
+      "a": "Maya"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write each sentence again. Add the speech marks.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "Sit down, said the driver.",
+      "a": "\"Sit down,\" said the driver."
+     },
+     {
+      "q": "Leo asked, Is this seat free?",
+      "a": "Leo asked, \"Is this seat free?\""
+     },
+     {
+      "q": "We are late! shouted Amna.",
+      "a": "\"We are late!\" shouted Amna."
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the mark that fits inside the speech marks.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "\"Can I sit here",
+      "options": [
+       ".",
+       "?"
+      ],
+      "after": "\" asked Ira.",
+      "a": "?"
+     },
+     {
+      "before": "\"Stop the bus",
+      "options": [
+       "!",
+       "?"
+      ],
+      "after": "\" yelled Dev.",
+      "a": "!"
+     },
+     {
+      "before": "Hana said, \"My house is near the mosque",
+      "options": [
+       ".",
+       "?"
+      ],
+      "after": "\"",
+      "a": "."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write what you say to the bus driver. Use speech marks.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. I said, \"Good morning, Uncle.\" Check the speech marks."
+   }
+  ]
+ },
+ {
+  "id": "punctuation-and-capital-letters-11",
+  "topic": "punctuation-and-capital-letters",
+  "number": 11,
+  "level": "Challenge",
+  "title": "Pongal at Grandma's House",
+  "intro": "Arjun is in Chennai for the harvest festival. Use everything you know about marks and capital letters.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Write the missing mark.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "Grandma made rice ___ dal and payasam.",
+      "a": ","
+     },
+     {
+      "q": "Who drew the kolam at the door ___",
+      "a": "?"
+     },
+     {
+      "q": "Wow, the pot is boiling over ___",
+      "a": "!"
+     },
+     {
+      "q": "We wore new clothes ___ ate sweets and flew kites.",
+      "a": ","
+     },
+     {
+      "q": "Pongal comes in January ___",
+      "a": "."
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Write each one with capital letters.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "pongal",
+      "a": "Pongal"
+     },
+     {
+      "q": "january",
+      "a": "January"
+     },
+     {
+      "q": "chennai",
+      "a": "Chennai"
+     },
+     {
+      "q": "mrs iyer",
+      "a": "Mrs Iyer"
+     },
+     {
+      "q": "tamil nadu",
+      "a": "Tamil Nadu"
+     },
+     {
+      "q": "thursday",
+      "a": "Thursday"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the words. Which ones need a capital letter?",
+    "marks": 6,
+    "groups": [
+     "Capital letter",
+     "Small letter"
+    ],
+    "words": [
+     "salem",
+     "sugarcane",
+     "february",
+     "pot",
+     "kavya",
+     "cow"
+    ],
+    "a": {
+     "salem": "Capital letter",
+     "sugarcane": "Small letter",
+     "february": "Capital letter",
+     "pot": "Small letter",
+     "kavya": "Capital letter",
+     "cow": "Small letter"
+    }
+   },
+   {
+    "type": "rewrite",
+    "title": "Write each sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "grandma said come and eat",
+      "a": "Grandma said, \"Come and eat.\""
+     },
+     {
+      "q": "we visited the temple in madurai on friday",
+      "a": "We visited the temple in Madurai on Friday."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about a festival meal. Use a list with commas.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. We ate rice, sambar and sweets. Check capitals, commas and end marks."
+   }
+  ]
+ },
+ {
+  "id": "punctuation-and-capital-letters-12",
+  "topic": "punctuation-and-capital-letters",
+  "number": 12,
+  "level": "Challenge",
+  "title": "The Metro Ride to the Museum",
+  "intro": "Class 2 is going on a trip by metro. Find the mistakes and fix them.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the one that is correct.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "We got on at",
+      "options": [
+       "union Station",
+       "Union Station"
+      ],
+      "after": ".",
+      "a": "Union Station"
+     },
+     {
+      "before": "",
+      "options": [
+       "Mr Bose",
+       "mr Bose"
+      ],
+      "after": "bought the tickets.",
+      "a": "Mr Bose"
+     },
+     {
+      "before": "The train was fast",
+      "options": [
+       ",",
+       "."
+      ],
+      "after": "clean and cool.",
+      "a": ","
+     },
+     {
+      "before": "Is this the stop for the museum",
+      "options": [
+       "?",
+       "!"
+      ],
+      "after": "",
+      "a": "?"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "This is correct: \"Mind the gap!\" said the voice.",
+      "a": true
+     },
+     {
+      "q": "This is correct: On saturday we went by metro.",
+      "a": false
+     },
+     {
+      "q": "This is correct: We saw coins, pots and old maps.",
+      "a": true
+     },
+     {
+      "q": "This is correct: what a long tunnel!",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "How many capital letters are missing?",
+    "marks": 4,
+    "items": [
+     {
+      "q": "on monday i met dr sen. Missing capitals: ___",
+      "a": "5"
+     },
+     {
+      "q": "my friend tara lives in ajman. Missing capitals: ___",
+      "a": "3"
+     },
+     {
+      "q": "we went in march. Missing capitals: ___",
+      "a": "2"
+     },
+     {
+      "q": "the guide was kind. Missing capitals: ___",
+      "a": "1"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write each sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "the guide showed us swords coins and a boat",
+      "a": "The guide showed us swords, coins and a boat."
+     },
+     {
+      "q": "wow that boat is a hundred years old",
+      "a": "Wow, that boat is a hundred years old!"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about a trip by train or metro.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check capital letters, commas and end marks."
+   }
+  ]
+ },
+ {
+  "id": "punctuation-and-capital-letters-13",
+  "topic": "punctuation-and-capital-letters",
+  "number": 13,
+  "level": "Challenge",
+  "title": "An Interview with the School Nurse",
+  "intro": "Mei is asking the school nurse about her job for a class project. Use speech marks and question marks.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each mark to its job.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "?",
+      "right": "ends a question"
+     },
+     {
+      "left": "!",
+      "right": "shows a strong feeling"
+     },
+     {
+      "left": ",",
+      "right": "separates things in a list"
+     },
+     {
+      "left": "\" \"",
+      "right": "go around spoken words"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write the missing mark.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "\"How do you help children ___\" asked Mei.",
+      "a": "?"
+     },
+     {
+      "q": "\"I clean cuts and give plasters ___\" said the nurse.",
+      "a": ","
+     },
+     {
+      "q": "Mei asked, \"Do you work on Fridays ___\"",
+      "a": "?"
+     },
+     {
+      "q": "\"Ouch ___\" cried a boy at the door.",
+      "a": "!"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write each sentence correctly. Add speech marks.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "what is your name asked mei",
+      "a": "\"What is your name?\" asked Mei."
+     },
+     {
+      "q": "the nurse said my name is mrs george",
+      "a": "The nurse said, \"My name is Mrs George.\""
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "A question inside speech marks still needs a question mark.",
+      "a": true
+     },
+     {
+      "q": "The name of the speaker goes inside the speech marks.",
+      "a": false
+     },
+     {
+      "q": "We need speech marks for this sentence: The nurse was kind.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write one question and its answer. Use speech marks.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. I asked, \"Are you busy?\" She said, \"Yes, I am.\" Check the speech marks."
+   }
+  ]
+ },
+ {
+  "id": "punctuation-and-capital-letters-14",
+  "topic": "punctuation-and-capital-letters",
+  "number": 14,
+  "level": "Challenge",
+  "title": "A Postcard from Kerala",
+  "intro": "Anika is on a houseboat holiday and is writing to her friend. Check every capital letter.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the words with capital letters.",
+    "marks": 6,
+    "groups": [
+     "Person",
+     "Place",
+     "Day or month"
+    ],
+    "words": [
+     "Kochi",
+     "Anika",
+     "May",
+     "Munnar",
+     "Sunday",
+     "Mr Varghese"
+    ],
+    "a": {
+     "Kochi": "Place",
+     "Anika": "Person",
+     "May": "Day or month",
+     "Munnar": "Place",
+     "Sunday": "Day or month",
+     "Mr Varghese": "Person"
+    }
+   },
+   {
+    "type": "pairs",
+    "title": "Write each one correctly.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "alleppey",
+      "a": "Alleppey"
+     },
+     {
+      "q": "dr menon",
+      "a": "Dr Menon"
+     },
+     {
+      "q": "saturday",
+      "a": "Saturday"
+     },
+     {
+      "q": "april",
+      "a": "April"
+     },
+     {
+      "q": "arabian sea",
+      "a": "Arabian Sea"
+     },
+     {
+      "q": "kerala",
+      "a": "Kerala"
+     },
+     {
+      "q": "i",
+      "a": "I"
+     },
+     {
+      "q": "miss paul",
+      "a": "Miss Paul"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write the word in brackets correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "We reached Kochi on ___ (tuesday).",
+      "a": "Tuesday"
+     },
+     {
+      "q": "The boatman, ___ (mr babu), sang for us.",
+      "a": "Mr Babu"
+     },
+     {
+      "q": "Mama and ___ (i) saw an elephant.",
+      "a": "I"
+     },
+     {
+      "q": "We fly home in ___ (june).",
+      "a": "June"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write each sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "i am reading the monkey and the crocodile on the boat",
+      "a": "I am reading The Monkey and the Crocodile on the boat."
+     },
+     {
+      "q": "we will be back in dubai on friday",
+      "a": "We will be back in Dubai on Friday."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a short postcard to a friend. Use capital letters and end marks.",
+    "marks": 3,
+    "lines": 3,
+    "a": "Answers will vary. Check capitals for names, places and days, and an end mark on every sentence."
+   }
+  ]
+ },
+ {
+  "id": "punctuation-and-capital-letters-15",
+  "topic": "punctuation-and-capital-letters",
+  "number": 15,
+  "level": "Challenge",
+  "title": "The Class Newspaper",
+  "intro": "You are the editor of the Class 2 newspaper. Check the marks and capital letters before it is printed.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Write the missing mark.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Our class grew tomatoes ___ beans and mint.",
+      "a": ","
+     },
+     {
+      "q": "Who won the spelling bee ___",
+      "a": "?"
+     },
+     {
+      "q": "\"We did it ___\" shouted the team.",
+      "a": "!"
+     },
+     {
+      "q": "The book fair is on 5 December ___",
+      "a": "."
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the one that is written correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The play is called",
+      "options": [
+       "The Lost Crown",
+       "the lost crown"
+      ],
+      "after": ".",
+      "a": "The Lost Crown"
+     },
+     {
+      "before": "",
+      "options": [
+       "Miss Tan",
+       "miss Tan"
+      ],
+      "after": "took the photos.",
+      "a": "Miss Tan"
+     },
+     {
+      "before": "The match is next",
+      "options": [
+       "Thursday",
+       "thursday"
+      ],
+      "after": ".",
+      "a": "Thursday"
+     },
+     {
+      "before": "Our",
+      "options": [
+       "School",
+       "school"
+      ],
+      "after": "has a new slide.",
+      "a": "school"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "This is correct: Dr Ali visited our class on Monday.",
+      "a": true
+     },
+     {
+      "q": "This is correct: We sold cakes, juice, and, pens.",
+      "a": false
+     },
+     {
+      "q": "This is correct: Can you write for the newspaper.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write each sentence correctly.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "class 2b went to al ain zoo on tuesday",
+      "a": "Class 2B went to Al Ain Zoo on Tuesday."
+     },
+     {
+      "q": "mr nasser said we are proud of you",
+      "a": "Mr Nasser said, \"We are proud of you.\""
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two lines of news about your class.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check capital letters, commas and end marks."
+   }
+  ]
+ }
+]

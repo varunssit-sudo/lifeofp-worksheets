@@ -1,0 +1,1769 @@
+[
+ {
+  "id": "points-of-view-01",
+  "topic": "points-of-view",
+  "number": 1,
+  "level": "Starter",
+  "title": "The Thunderstorm",
+  "intro": "Thunder rumbles over the building. Aarav loves storms, but his sister Diya hides under a blanket.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Aarav and Diya feel the same way about the storm.",
+      "a": false
+     },
+     {
+      "q": "Two people can feel differently about the same thing.",
+      "a": true
+     },
+     {
+      "q": "Diya is scared of the storm.",
+      "a": true
+     },
+     {
+      "q": "Aarav hides under a blanket.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Who would say it? Sort.",
+    "marks": 6,
+    "groups": [
+     "Aarav",
+     "Diya"
+    ],
+    "words": [
+     "What a great flash!",
+     "It is too loud",
+     "Please close the curtains",
+     "Let us watch from the window",
+     "I love the rumble",
+     "I want it to stop"
+    ],
+    "a": {
+     "What a great flash!": "Aarav",
+     "Let us watch from the window": "Aarav",
+     "I love the rumble": "Aarav",
+     "It is too loud": "Diya",
+     "Please close the curtains": "Diya",
+     "I want it to stop": "Diya"
+    }
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Aarav",
+      "options": [
+       "think",
+       "thinks"
+      ],
+      "after": "the storm is exciting.",
+      "a": "thinks"
+     },
+     {
+      "before": "Aarav thinks thunder is fun,",
+      "options": [
+       "but",
+       "because"
+      ],
+      "after": "Diya thinks it is scary.",
+      "a": "but"
+     },
+     {
+      "before": "Diya is scared",
+      "options": [
+       "but",
+       "because"
+      ],
+      "after": "the thunder is so loud.",
+      "a": "because"
+     },
+     {
+      "before": "I",
+      "options": [
+       "think",
+       "thinks"
+      ],
+      "after": "storms are noisy.",
+      "a": "think"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "The same rain, different feelings. Match.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "The farmer",
+      "right": "is happy because the crops get water."
+     },
+     {
+      "left": "The child with a new kite",
+      "right": "is sad because kites cannot fly in rain."
+     },
+     {
+      "left": "The duck",
+      "right": "is happy because the pond fills up."
+     },
+     {
+      "left": "The man drying clothes",
+      "right": "is upset because the washing gets wet."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "What do you think about storms? Write: I think ... because ...",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I think storms are exciting because the sky lights up."
+   }
+  ]
+ },
+ {
+  "id": "points-of-view-02",
+  "topic": "points-of-view",
+  "number": 2,
+  "level": "Starter",
+  "title": "Broccoli for Dinner",
+  "intro": "Mum has cooked broccoli tonight. Hana smiles, but her brother Yusuf makes a face.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in each blank with but or because.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Hana thinks broccoli is tasty, ___ Yusuf thinks it is yucky.",
+      "a": "but"
+     },
+     {
+      "q": "Hana likes it ___ it is crunchy.",
+      "a": "because"
+     },
+     {
+      "q": "Yusuf does not like it ___ it smells strong.",
+      "a": "because"
+     },
+     {
+      "q": "Mum likes broccoli, ___ Dad likes carrots more.",
+      "a": "but"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each point of view to its reason.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Leo thinks mangoes are the best fruit",
+      "right": "because they are sweet and juicy."
+     },
+     {
+      "left": "Priya thinks lemons are horrible",
+      "right": "because they are so sour."
+     },
+     {
+      "left": "Ken thinks chillies are too much",
+      "right": "because they burn his tongue."
+     },
+     {
+      "left": "Asha thinks ice cream is perfect",
+      "right": "because it is cold on a hot day."
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Does the speaker like the food or not? Sort.",
+    "marks": 6,
+    "groups": [
+     "Likes it",
+     "Does not like it"
+    ],
+    "words": [
+     "Yummy!",
+     "Yuck!",
+     "No, thank you",
+     "More, please",
+     "My favourite",
+     "It tastes bad"
+    ],
+    "a": {
+     "Yummy!": "Likes it",
+     "More, please": "Likes it",
+     "My favourite": "Likes it",
+     "Yuck!": "Does not like it",
+     "No, thank you": "Does not like it",
+     "It tastes bad": "Does not like it"
+    }
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Everyone must like the same food.",
+      "a": false
+     },
+     {
+      "q": "Yusuf thinks broccoli is yucky.",
+      "a": true
+     },
+     {
+      "q": "It is fine for Hana and Yusuf to think differently.",
+      "a": true
+     },
+     {
+      "q": "The word 'because' helps us give a reason.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write about a food you like. Use: I think ... because ...",
+    "marks": 2,
+    "items": [
+     {
+      "q": "My food:",
+      "a": "e.g. I think dal is tasty because it is warm and soft."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "points-of-view-03",
+  "topic": "points-of-view",
+  "number": 3,
+  "level": "Starter",
+  "title": "The Cat and the Mouse",
+  "intro": "A cat sits by a small hole in the wall. Inside the hole, a mouse is watching. They see the same room very differently.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Who is thinking it? Sort.",
+    "marks": 6,
+    "groups": [
+     "Cat",
+     "Mouse"
+    ],
+    "words": [
+     "I want to catch it",
+     "I must hide",
+     "That animal is huge",
+     "That hole is too small for me",
+     "I will wait here quietly",
+     "My hole keeps me safe"
+    ],
+    "a": {
+     "I want to catch it": "Cat",
+     "That hole is too small for me": "Cat",
+     "I will wait here quietly": "Cat",
+     "I must hide": "Mouse",
+     "That animal is huge": "Mouse",
+     "My hole keeps me safe": "Mouse"
+    }
+   },
+   {
+    "type": "match",
+    "title": "How does each one see it? Match.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "A cat, to a mouse,",
+      "right": "is a scary giant."
+     },
+     {
+      "left": "A mouse, to a cat,",
+      "right": "is something to chase."
+     },
+     {
+      "left": "A bowl of milk, to a cat,",
+      "right": "is a tasty treat."
+     },
+     {
+      "left": "A tiny hole, to a mouse,",
+      "right": "is a safe home."
+     },
+     {
+      "left": "A barking dog, to a cat,",
+      "right": "is a reason to run up a tree."
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The cat",
+      "options": [
+       "think",
+       "thinks"
+      ],
+      "after": "the mouse is fun to chase.",
+      "a": "thinks"
+     },
+     {
+      "before": "The mouse thinks the cat is",
+      "options": [
+       "friendly",
+       "dangerous"
+      ],
+      "after": ".",
+      "a": "dangerous"
+     },
+     {
+      "before": "The mouse stays in its hole",
+      "options": [
+       "because",
+       "but"
+      ],
+      "after": "it is safe there.",
+      "a": "because"
+     },
+     {
+      "before": "The cat is big,",
+      "options": [
+       "because",
+       "but"
+      ],
+      "after": "the mouse is small.",
+      "a": "but"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write the feeling. Use: scared, safe, bored.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The mouse feels ___ when the cat comes near.",
+      "a": "scared"
+     },
+     {
+      "q": "Deep inside its hole, the mouse feels ___.",
+      "a": "safe"
+     },
+     {
+      "q": "The cat feels ___ when nothing happens for an hour.",
+      "a": "bored"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Pretend you are the mouse. Write two sentences about the cat.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I think the cat is scary because it has sharp claws. I will stay in my hole until it goes away."
+   }
+  ]
+ },
+ {
+  "id": "points-of-view-04",
+  "topic": "points-of-view",
+  "number": 4,
+  "level": "Starter",
+  "title": "The Swimming Pool",
+  "intro": "It is the first swimming lesson. Nora jumps right in, Jai dips one toe, and Coach Peter watches them both.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each person to their point of view.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Nora",
+      "right": "The water is fun. I want to dive!"
+     },
+     {
+      "left": "Jai",
+      "right": "The water looks deep. I will go slowly."
+     },
+     {
+      "left": "Coach Peter",
+      "right": "Everyone must stay safe in my class."
+     },
+     {
+      "left": "Jai's mum, watching",
+      "right": "I hope my son enjoys his lesson."
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write think or thinks.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Nora ___ swimming is the best sport.",
+      "a": "thinks"
+     },
+     {
+      "q": "I ___ the pool is cold today.",
+      "a": "think"
+     },
+     {
+      "q": "Jai and his mum ___ the deep end is scary.",
+      "a": "think"
+     },
+     {
+      "q": "Coach Peter ___ every child can learn to swim.",
+      "a": "thinks"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Nora and Jai feel the same about the water.",
+      "a": false
+     },
+     {
+      "q": "Jai is wrong to feel nervous.",
+      "a": false
+     },
+     {
+      "q": "Different feelings about one thing can both be okay.",
+      "a": true
+     },
+     {
+      "q": "Nora is excited about swimming.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Write the opposite word. Use: boring, hard, noisy, dangerous.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "fun",
+      "a": "boring"
+     },
+     {
+      "q": "easy",
+      "a": "hard"
+     },
+     {
+      "q": "quiet",
+      "a": "noisy"
+     },
+     {
+      "q": "safe",
+      "a": "dangerous"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Join the two sentences with but.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "Nora thinks the pool is fun. Jai thinks it is scary.",
+      "a": "Nora thinks the pool is fun, but Jai thinks it is scary."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "What do you think about swimming? Give a reason.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I think swimming is fun because I can splash and float."
+   }
+  ]
+ },
+ {
+  "id": "points-of-view-05",
+  "topic": "points-of-view",
+  "number": 5,
+  "level": "Practice",
+  "title": "A Loud Fireworks Night",
+  "intro": "Fireworks light up the sky over the Corniche. The crowd claps, a baby cries and a dog hides under a bench.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each one to how they see the fireworks.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "The children in the crowd",
+      "right": "They are bright and beautiful!"
+     },
+     {
+      "left": "The sleeping baby",
+      "right": "That bang woke me up!"
+     },
+     {
+      "left": "The dog",
+      "right": "The noise hurts my ears. I must hide."
+     },
+     {
+      "left": "The firework maker",
+      "right": "I worked hard to make this show."
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the best joining word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Mira loves the fireworks",
+      "options": [
+       "because",
+       "but"
+      ],
+      "after": "they are colourful.",
+      "a": "because"
+     },
+     {
+      "before": "Mira claps,",
+      "options": [
+       "but",
+       "because"
+      ],
+      "after": "her baby brother cries.",
+      "a": "but"
+     },
+     {
+      "before": "The baby is crying,",
+      "options": [
+       "so",
+       "but"
+      ],
+      "after": "Mum covers his ears.",
+      "a": "so"
+     },
+     {
+      "before": "Grandpa thinks the show is too long,",
+      "options": [
+       "but",
+       "so"
+      ],
+      "after": "Mira thinks it is too short.",
+      "a": "but"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The dog and the children feel the same about fireworks.",
+      "a": false
+     },
+     {
+      "q": "A loud sound can be fun for one person and scary for another.",
+      "a": true
+     },
+     {
+      "q": "The firework maker worked hard to make the show.",
+      "a": true
+     },
+     {
+      "q": "The baby enjoys the loud bangs.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write both views in one sentence. Use thinks ... but ... thinks.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Mira: Fireworks are pretty. Grandpa: Fireworks are noisy.",
+      "a": "e.g. Mira thinks fireworks are pretty, but Grandpa thinks they are noisy."
+     },
+     {
+      "q": "The dog: Bangs are scary. Mira: Bangs are exciting.",
+      "a": "e.g. The dog thinks bangs are scary, but Mira thinks they are exciting."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Do you like fireworks? Write what you think and give a reason.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I think fireworks are lovely because they look like flowers in the sky."
+   }
+  ]
+ },
+ {
+  "id": "points-of-view-06",
+  "topic": "points-of-view",
+  "number": 6,
+  "level": "Practice",
+  "title": "The Neighbour's Dog",
+  "intro": "Bruno is a big, friendly dog who lives next door. Not everyone on the street feels the same about him.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Does the speaker like Bruno or not? Sort.",
+    "marks": 6,
+    "groups": [
+     "Likes Bruno",
+     "Does not like Bruno"
+    ],
+    "words": [
+     "He is so cuddly",
+     "He barks all night",
+     "He dug up my flowers",
+     "I love his waggy tail",
+     "He guards our street",
+     "He chased my cat"
+    ],
+    "a": {
+     "He is so cuddly": "Likes Bruno",
+     "I love his waggy tail": "Likes Bruno",
+     "He guards our street": "Likes Bruno",
+     "He barks all night": "Does not like Bruno",
+     "He dug up my flowers": "Does not like Bruno",
+     "He chased my cat": "Does not like Bruno"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Complete each sentence. Use: thinks, think, but, because.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Tara ___ Bruno is gentle.",
+      "a": "thinks"
+     },
+     {
+      "q": "The twins ___ Bruno is too noisy.",
+      "a": "think"
+     },
+     {
+      "q": "Mr Rao likes dogs, ___ he does not like barking at night.",
+      "a": "but"
+     },
+     {
+      "q": "Baby Zain cries ___ Bruno's bark is loud.",
+      "a": "because"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each neighbour to a reason.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "Tara loves Bruno",
+      "right": "because he plays fetch with her."
+     },
+     {
+      "left": "Mr Rao is cross with Bruno",
+      "right": "because he dug up the rose bed."
+     },
+     {
+      "left": "The postman is nervous",
+      "right": "because Bruno runs to the gate barking."
+     },
+     {
+      "left": "Mrs Lim feels safe",
+      "right": "because Bruno scares away thieves."
+     },
+     {
+      "left": "The cat stays on the wall",
+      "right": "because Bruno chases her."
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "All the neighbours think the same about Bruno.",
+      "a": false
+     },
+     {
+      "q": "Tara and Mr Rao have different points of view.",
+      "a": true
+     },
+     {
+      "q": "A point of view is how someone thinks or feels about something.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Pretend you are Bruno. What do you think about the postman? Give a reason.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I think the postman is a stranger because he comes to my gate every day."
+   }
+  ]
+ },
+ {
+  "id": "points-of-view-07",
+  "topic": "points-of-view",
+  "number": 7,
+  "level": "Practice",
+  "title": "Homework on Saturday",
+  "intro": "Miss Fernandes gave the class a page of sums for the weekend. Listen to what everyone thinks.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each person to their point of view.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Miss Fernandes",
+      "right": "Practice helps children learn."
+     },
+     {
+      "left": "Arjun",
+      "right": "Saturday is for cricket, not sums!"
+     },
+     {
+      "left": "Sofia",
+      "right": "I like sums. This will be fun."
+     },
+     {
+      "left": "Arjun's dad",
+      "right": "Finish it early, then go and play."
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle think or thinks.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Sofia",
+      "options": [
+       "think",
+       "thinks"
+      ],
+      "after": "homework is fun.",
+      "a": "thinks"
+     },
+     {
+      "before": "Arjun and his friends",
+      "options": [
+       "think",
+       "thinks"
+      ],
+      "after": "it is boring.",
+      "a": "think"
+     },
+     {
+      "before": "We",
+      "options": [
+       "think",
+       "thinks"
+      ],
+      "after": "a little practice is good.",
+      "a": "think"
+     },
+     {
+      "before": "My teacher",
+      "options": [
+       "think",
+       "thinks"
+      ],
+      "after": "we can do it.",
+      "a": "thinks"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Finish each reason. Use: learn, play, proud, tired.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Miss Fernandes gives homework because she wants us to ___.",
+      "a": "learn"
+     },
+     {
+      "q": "Arjun is grumpy because he wants to ___ outside.",
+      "a": "play"
+     },
+     {
+      "q": "Sofia is happy because a page full of ticks makes her feel ___.",
+      "a": "proud"
+     },
+     {
+      "q": "Dad says start early because at night you will be too ___.",
+      "a": "tired"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Join the two sentences with but.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Sofia thinks homework is fun. Arjun thinks it is boring.",
+      "a": "Sofia thinks homework is fun, but Arjun thinks it is boring."
+     },
+     {
+      "q": "Dad wants the sums done first. Arjun wants to play first.",
+      "a": "Dad wants the sums done first, but Arjun wants to play first."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "What do you think about weekend homework? Give a reason with because.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I think a little homework is fine because it helps me remember my tables."
+   }
+  ]
+ },
+ {
+  "id": "points-of-view-08",
+  "topic": "points-of-view",
+  "number": 8,
+  "level": "Practice",
+  "title": "The Roller Coaster at the Fair",
+  "intro": "The Dragon Loop is the tallest ride at the fair. Four cousins stand in line, and each one feels something different.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "How does each speaker feel? Sort.",
+    "marks": 6,
+    "groups": [
+     "Excited",
+     "Scared",
+     "Bored"
+    ],
+    "words": [
+     "I cannot wait!",
+     "My tummy feels funny",
+     "The line is so slow",
+     "I have done this ten times",
+     "It is too high for me",
+     "This will be amazing"
+    ],
+    "a": {
+     "I cannot wait!": "Excited",
+     "This will be amazing": "Excited",
+     "My tummy feels funny": "Scared",
+     "It is too high for me": "Scared",
+     "The line is so slow": "Bored",
+     "I have done this ten times": "Bored"
+    }
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "One ride can give different people different feelings.",
+      "a": true
+     },
+     {
+      "q": "If you are scared of a ride, your feeling is wrong.",
+      "a": false
+     },
+     {
+      "q": "'I cannot wait!' shows an excited point of view.",
+      "a": true
+     },
+     {
+      "q": "Everyone in the line thinks the ride is boring.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write but or because.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Kiran wants to sit in front ___ he loves going fast.",
+      "a": "because"
+     },
+     {
+      "q": "Lucy wants to ride, ___ Bela wants to watch.",
+      "a": "but"
+     },
+     {
+      "q": "Bela holds Mum's hand ___ the ride looks very high.",
+      "a": "because"
+     },
+     {
+      "q": "The Dragon Loop is fast, ___ the Ferris wheel is slow.",
+      "a": "but"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the start to the best ending.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Kiran thinks the loop is thrilling,",
+      "right": "but Bela thinks it is terrifying."
+     },
+     {
+      "left": "Lucy thinks the queue is too long,",
+      "right": "but Omkar thinks the wait is worth it."
+     },
+     {
+      "left": "Mum thinks candy floss is too sweet,",
+      "right": "but the children think it is delicious."
+     },
+     {
+      "left": "Dad thinks the music is too loud,",
+      "right": "but Lucy thinks it is perfect for dancing."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Would you ride the Dragon Loop? Write: I think ... because ...",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I think the Dragon Loop is too scary because it goes upside down."
+   }
+  ]
+ },
+ {
+  "id": "points-of-view-09",
+  "topic": "points-of-view",
+  "number": 9,
+  "level": "Practice",
+  "title": "The Bird and the Worm",
+  "intro": "It is early morning in the garden. A hungry bird hops on the grass, and a little worm wriggles in the soil.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "How does each animal see it? Match.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "Rain, to a worm,",
+      "right": "is lovely because the soil gets soft."
+     },
+     {
+      "left": "Rain, to a butterfly,",
+      "right": "is a problem because wet wings cannot fly."
+     },
+     {
+      "left": "A tall tree, to a bird,",
+      "right": "is a safe place for a nest."
+     },
+     {
+      "left": "A tall tree, to an ant,",
+      "right": "is a very long climb."
+     },
+     {
+      "left": "A scarecrow, to a crow,",
+      "right": "is a scary stranger in the field."
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Who is thinking it? Sort.",
+    "marks": 6,
+    "groups": [
+     "Bird",
+     "Worm"
+    ],
+    "words": [
+     "I can see far from up here",
+     "I must dig down deep",
+     "The soil is my home",
+     "Breakfast time!",
+     "My chicks are hungry",
+     "I hope nobody sees me"
+    ],
+    "a": {
+     "I can see far from up here": "Bird",
+     "Breakfast time!": "Bird",
+     "My chicks are hungry": "Bird",
+     "I must dig down deep": "Worm",
+     "The soil is my home": "Worm",
+     "I hope nobody sees me": "Worm"
+    }
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The bird thinks the worm is",
+      "options": [
+       "food",
+       "a friend"
+      ],
+      "after": ".",
+      "a": "food"
+     },
+     {
+      "before": "The worm thinks the bird is",
+      "options": [
+       "danger",
+       "dinner"
+      ],
+      "after": ".",
+      "a": "danger"
+     },
+     {
+      "before": "The worm hides",
+      "options": [
+       "because",
+       "but"
+      ],
+      "after": "it wants to stay safe.",
+      "a": "because"
+     },
+     {
+      "before": "The bird",
+      "options": [
+       "think",
+       "thinks"
+      ],
+      "after": "morning is the best time to hunt.",
+      "a": "thinks"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write one sentence. Use: The bird thinks ... but the worm thinks ...",
+    "marks": 2,
+    "items": [
+     {
+      "q": "The garden: a place to find food, or a place to hide?",
+      "a": "e.g. The bird thinks the garden is a place to find food, but the worm thinks it is a place to hide."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Pretend you are the worm. Write two sentences about your morning.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I think mornings are risky because birds are hungry. I stayed under a wet leaf until the bird flew away."
+   }
+  ]
+ },
+ {
+  "id": "points-of-view-10",
+  "topic": "points-of-view",
+  "number": 10,
+  "level": "Practice",
+  "title": "A Hot Summer Afternoon",
+  "intro": "It is a very hot June afternoon in Dubai. Some people love the heat, and some cannot wait for winter.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Complete each sentence. Use: thinks, think, but, because.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The ice cream seller ___ summer is wonderful.",
+      "a": "thinks"
+     },
+     {
+      "q": "The gardeners ___ the sun is too strong.",
+      "a": "think"
+     },
+     {
+      "q": "Pia loves summer ___ the pool is open.",
+      "a": "because"
+     },
+     {
+      "q": "Pia loves summer, ___ her cat hates the heat.",
+      "a": "but"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each one to their point of view about summer.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "The ice cream seller",
+      "right": "Hot days bring me many customers."
+     },
+     {
+      "left": "The gardener",
+      "right": "My plants dry up too quickly."
+     },
+     {
+      "left": "The child on holiday",
+      "right": "No school for two months!"
+     },
+     {
+      "left": "The camel",
+      "right": "Heat does not bother me much."
+     },
+     {
+      "left": "The snowman in a storybook",
+      "right": "Oh no, I will melt!"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The ice cream seller and the gardener see summer differently.",
+      "a": true
+     },
+     {
+      "q": "A point of view can come with a reason.",
+      "a": true
+     },
+     {
+      "q": "'Summer is the best season' is true for everyone.",
+      "a": false
+     },
+     {
+      "q": "The gardener is happy that the plants dry up.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Finish each sentence with your own reason.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "I think summer is fun because",
+      "a": "e.g. I think summer is fun because I can swim every day."
+     },
+     {
+      "q": "My friend thinks winter is better because",
+      "a": "e.g. My friend thinks winter is better because we can play outside."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "points-of-view-11",
+  "topic": "points-of-view",
+  "number": 11,
+  "level": "Challenge",
+  "title": "The Class Pet Spider",
+  "intro": "Mr Haddad brought a pet spider called Velvet to Class 2. Now tell facts from opinions and give strong reasons.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Fact or opinion? Sort.",
+    "marks": 6,
+    "groups": [
+     "Fact (can be checked)",
+     "Opinion (what someone thinks)"
+    ],
+    "words": [
+     "A spider has eight legs",
+     "Spiders are creepy",
+     "Velvet is beautiful",
+     "Many spiders spin webs",
+     "Velvet lives in a glass tank",
+     "Spiders make the best pets"
+    ],
+    "a": {
+     "A spider has eight legs": "Fact (can be checked)",
+     "Many spiders spin webs": "Fact (can be checked)",
+     "Velvet lives in a glass tank": "Fact (can be checked)",
+     "Spiders are creepy": "Opinion (what someone thinks)",
+     "Velvet is beautiful": "Opinion (what someone thinks)",
+     "Spiders make the best pets": "Opinion (what someone thinks)"
+    }
+   },
+   {
+    "type": "match",
+    "title": "Match each point of view to its reason.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Ines thinks Velvet is amazing",
+      "right": "because she spins such neat webs."
+     },
+     {
+      "left": "Rohit thinks Velvet is scary",
+      "right": "because her legs are long and hairy."
+     },
+     {
+      "left": "Mr Haddad thinks spiders are useful",
+      "right": "because they eat flies and mosquitoes."
+     },
+     {
+      "left": "The fly thinks spiders are terrible",
+      "right": "because webs are sticky traps."
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Ines likes spiders,",
+      "options": [
+       "but",
+       "because"
+      ],
+      "after": "Rohit does not.",
+      "a": "but"
+     },
+     {
+      "before": "'I think' usually starts",
+      "options": [
+       "a fact",
+       "an opinion"
+      ],
+      "after": ".",
+      "a": "an opinion"
+     },
+     {
+      "before": "Rohit stands far away",
+      "options": [
+       "because",
+       "but"
+      ],
+      "after": "he feels afraid.",
+      "a": "because"
+     },
+     {
+      "before": "Ines and Rohit",
+      "options": [
+       "think",
+       "thinks"
+      ],
+      "after": "differently, and that is fine.",
+      "a": "think"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write both views in one sentence. Use but.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Ines: Velvet is cute. Rohit: Velvet is frightening.",
+      "a": "e.g. Ines thinks Velvet is cute, but Rohit thinks she is frightening."
+     },
+     {
+      "q": "Mr Haddad: Spiders are useful. The fly: Spiders are terrible.",
+      "a": "e.g. Mr Haddad thinks spiders are useful, but the fly thinks they are terrible."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Should a class have a pet spider? Write what you think and give a reason.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I think a class should have a pet spider because we can learn how it spins a web."
+   }
+  ]
+ },
+ {
+  "id": "points-of-view-12",
+  "topic": "points-of-view",
+  "number": 12,
+  "level": "Challenge",
+  "title": "Bedtime at Eight O'Clock",
+  "intro": "Mum says lights out at eight. Vihaan wants to stay up. Read both sides before you decide.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Whose reason is it? Sort.",
+    "marks": 6,
+    "groups": [
+     "Mum's reasons",
+     "Vihaan's reasons"
+    ],
+    "words": [
+     "Sleep helps you grow",
+     "I am not sleepy yet",
+     "My book is at the best part",
+     "School starts early",
+     "Tired children get grumpy",
+     "My friends stay up later"
+    ],
+    "a": {
+     "Sleep helps you grow": "Mum's reasons",
+     "School starts early": "Mum's reasons",
+     "Tired children get grumpy": "Mum's reasons",
+     "I am not sleepy yet": "Vihaan's reasons",
+     "My book is at the best part": "Vihaan's reasons",
+     "My friends stay up later": "Vihaan's reasons"
+    }
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Mum and Vihaan both have reasons for what they think.",
+      "a": true
+     },
+     {
+      "q": "Vihaan thinks eight o'clock is too early.",
+      "a": true
+     },
+     {
+      "q": "Mum's reasons are about keeping Vihaan healthy and rested.",
+      "a": true
+     },
+     {
+      "q": "A fair person listens to only one point of view.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Complete each sentence. Use: thinks, but, because, so.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Mum ___ sleep is more important than stories.",
+      "a": "thinks"
+     },
+     {
+      "q": "Vihaan feels wide awake, ___ Mum says it is bedtime.",
+      "a": "but"
+     },
+     {
+      "q": "Mum sets an early bedtime ___ school starts at seven.",
+      "a": "because"
+     },
+     {
+      "q": "Mum let Vihaan read for ten minutes, ___ both of them were happy.",
+      "a": "so"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Now write the other person's point of view.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Vihaan: I think bedtime should be at nine because I am not tired.",
+      "a": "e.g. Mum thinks bedtime should be at eight because Vihaan has school early."
+     },
+     {
+      "q": "Mum: I think screens should be off after dinner.",
+      "a": "e.g. Vihaan thinks one cartoon after dinner is fine because it helps him relax."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "What is a fair bedtime for a seven-year-old? Give your view and a reason.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I think half past eight is fair because children need ten hours of sleep."
+   }
+  ]
+ },
+ {
+  "id": "points-of-view-13",
+  "topic": "points-of-view",
+  "number": 13,
+  "level": "Challenge",
+  "title": "The Farmer and the Monkeys",
+  "intro": "A troop of monkeys visits a banana farm in Kerala every morning. The farmer and the monkeys do not see it the same way.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each start to the right point of view.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "To the farmer, the bananas are",
+      "right": "fruit to sell at the market."
+     },
+     {
+      "left": "To the monkeys, the bananas are",
+      "right": "a free breakfast."
+     },
+     {
+      "left": "To the farmer, the monkeys are",
+      "right": "naughty thieves."
+     },
+     {
+      "left": "To the monkeys, the farmer is",
+      "right": "a noisy man with a stick."
+     },
+     {
+      "left": "To the farmer's son, the monkeys are",
+      "right": "funny acrobats to watch."
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The farmer feels",
+      "options": [
+       "angry",
+       "thankful"
+      ],
+      "after": "when the monkeys take his fruit.",
+      "a": "angry"
+     },
+     {
+      "before": "The monkeys come to the farm",
+      "options": [
+       "because",
+       "but"
+      ],
+      "after": "they are hungry.",
+      "a": "because"
+     },
+     {
+      "before": "The farmer shouts,",
+      "options": [
+       "but",
+       "because"
+      ],
+      "after": "the monkeys only climb higher.",
+      "a": "but"
+     },
+     {
+      "before": "The farmer and his son",
+      "options": [
+       "think",
+       "thinks"
+      ],
+      "after": "differently about the monkeys.",
+      "a": "think"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The farmer and the monkeys see the bananas in the same way.",
+      "a": false
+     },
+     {
+      "q": "The monkeys take bananas because they need food.",
+      "a": true
+     },
+     {
+      "q": "The farmer grows bananas to sell them.",
+      "a": true
+     },
+     {
+      "q": "Looking at both sides helps us understand a problem.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write what the smallest monkey thinks about the farmer. Use because.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "The smallest monkey says:",
+      "a": "e.g. I think the farmer is scary because he shouts and waves a stick."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "How could the farmer and the monkeys both be happy? Write your idea.",
+    "marks": 3,
+    "lines": 3,
+    "a": "e.g. The farmer could plant a few banana trees near the forest for the monkeys. Then the monkeys would not need to come to the farm."
+   }
+  ]
+ },
+ {
+  "id": "points-of-view-14",
+  "topic": "points-of-view",
+  "number": 14,
+  "level": "Challenge",
+  "title": "Sharing a Room",
+  "intro": "Sisters Anika and Rhea share one bedroom. Anika likes it neat and quiet. Rhea likes music and a floor full of toys.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Who would say it? Sort.",
+    "marks": 6,
+    "groups": [
+     "Anika",
+     "Rhea"
+    ],
+    "words": [
+     "Please put the blocks away",
+     "Let us dance on the bed",
+     "Mess means fun",
+     "I need quiet to read",
+     "Books go on the shelf",
+     "Turn the music up"
+    ],
+    "a": {
+     "Please put the blocks away": "Anika",
+     "I need quiet to read": "Anika",
+     "Books go on the shelf": "Anika",
+     "Let us dance on the bed": "Rhea",
+     "Mess means fun": "Rhea",
+     "Turn the music up": "Rhea"
+    }
+   },
+   {
+    "type": "pairs",
+    "title": "Write the opposite word. Use: messy, noisy, late, wild.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "neat",
+      "a": "messy"
+     },
+     {
+      "q": "quiet",
+      "a": "noisy"
+     },
+     {
+      "q": "early",
+      "a": "late"
+     },
+     {
+      "q": "calm",
+      "a": "wild"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each wish to its reason.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Anika wants the floor clear",
+      "right": "because she tripped on a toy car."
+     },
+     {
+      "left": "Rhea wants her blocks left out",
+      "right": "because her tower is not finished."
+     },
+     {
+      "left": "Anika wants the light off early",
+      "right": "because she wakes up at six."
+     },
+     {
+      "left": "Rhea wants the night lamp on",
+      "right": "because she dislikes the dark."
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Anika and Rhea want the same kind of room.",
+      "a": false
+     },
+     {
+      "q": "Each sister has reasons for what she wants.",
+      "a": true
+     },
+     {
+      "q": "Listening to each other can help the sisters agree.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write both views in one sentence. Use thinks ... but ... thinks.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "Anika: The music is too loud. Rhea: The music is just right.",
+      "a": "e.g. Anika thinks the music is too loud, but Rhea thinks it is just right."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a room rule that is fair to both sisters. Say why.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. Toys can stay out until dinner and then go in the box. This is fair because Rhea can play and Anika gets a clear floor at night."
+   }
+  ]
+ },
+ {
+  "id": "points-of-view-15",
+  "topic": "points-of-view",
+  "number": 15,
+  "level": "Challenge",
+  "title": "A New Playground Rule",
+  "intro": "The principal says only Classes 1 and 2 may use the swings at first break. Find out what everyone thinks, then give your own view.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each person to their point of view.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "The principal",
+      "right": "Small children need a safe turn."
+     },
+     {
+      "left": "A Class 2 child",
+      "right": "Hooray, no more long waits!"
+     },
+     {
+      "left": "A Class 5 child",
+      "right": "That is unfair. We like swings too."
+     },
+     {
+      "left": "The playground helper",
+      "right": "Fewer children at once means fewer falls."
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Fact or opinion? Sort.",
+    "marks": 6,
+    "groups": [
+     "Fact (can be checked)",
+     "Opinion (what someone thinks)"
+    ],
+    "words": [
+     "The school has four swings",
+     "The rule is unfair",
+     "Swings are the best",
+     "First break is at ten o'clock",
+     "The rule began on Monday",
+     "Big kids are too rough"
+    ],
+    "a": {
+     "The school has four swings": "Fact (can be checked)",
+     "First break is at ten o'clock": "Fact (can be checked)",
+     "The rule began on Monday": "Fact (can be checked)",
+     "The rule is unfair": "Opinion (what someone thinks)",
+     "Swings are the best": "Opinion (what someone thinks)",
+     "Big kids are too rough": "Opinion (what someone thinks)"
+    }
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "A Class 5 child thinks the rule is unfair",
+      "options": [
+       "because",
+       "but"
+      ],
+      "after": "older children like swings too.",
+      "a": "because"
+     },
+     {
+      "before": "The principal",
+      "options": [
+       "think",
+       "thinks"
+      ],
+      "after": "the rule keeps little ones safe.",
+      "a": "thinks"
+     },
+     {
+      "before": "The rule is good for Class 2,",
+      "options": [
+       "but",
+       "so"
+      ],
+      "after": "it is hard on Class 5.",
+      "a": "but"
+     },
+     {
+      "before": "'I think' tells the listener it is my",
+      "options": [
+       "opinion",
+       "fact"
+      ],
+      "after": ".",
+      "a": "opinion"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the two views in one sentence. Use but.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "Class 2: The rule is great. Class 5: The rule is unfair.",
+      "a": "e.g. Class 2 thinks the rule is great, but Class 5 thinks it is unfair."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "What do you think of the rule? Write: I think ... because ... Then add what someone else may think.",
+    "marks": 3,
+    "lines": 3,
+    "a": "e.g. I think the rule is fair because small children get pushed. A Class 5 child may think it is unfair because they love swings too."
+   }
+  ]
+ }
+]

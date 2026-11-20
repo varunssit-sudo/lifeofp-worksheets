@@ -1,0 +1,1755 @@
+[
+ {
+  "id": "adjectives-extend-your-sentences-01",
+  "topic": "adjectives-extend-your-sentences",
+  "number": 1,
+  "level": "Starter",
+  "title": "The Bakery on Our Street",
+  "intro": "Mr Joseph bakes fresh bread every morning. Adjectives are describing words that tell us more about a thing.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "An adjective is a describing word.",
+      "a": true
+     },
+     {
+      "q": "In 'a round bun', the adjective is 'bun'.",
+      "a": false
+     },
+     {
+      "q": "Adjectives make sentences more interesting.",
+      "a": true
+     },
+     {
+      "q": "'Golden' tells us how the bread looks.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Write the adjective in each group of words.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "a warm bun",
+      "a": "warm"
+     },
+     {
+      "q": "the tall baker",
+      "a": "tall"
+     },
+     {
+      "q": "a tiny cupcake",
+      "a": "tiny"
+     },
+     {
+      "q": "the pink icing",
+      "a": "pink"
+     },
+     {
+      "q": "a long loaf",
+      "a": "long"
+     },
+     {
+      "q": "the shiny tray",
+      "a": "shiny"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each adjective to the thing it describes best.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "hot",
+      "right": "oven"
+     },
+     {
+      "left": "sharp",
+      "right": "knife"
+     },
+     {
+      "left": "striped",
+      "right": "apron"
+     },
+     {
+      "left": "sweet",
+      "right": "jam"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Add the adjective in brackets to the sentence.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The baker held a tray. (heavy)",
+      "a": "The baker held a heavy tray."
+     },
+     {
+      "q": "I bought a muffin. (huge)",
+      "a": "I bought a huge muffin."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about your favourite bakery treat. Use an adjective in each.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. I love soft doughnuts. Check for one adjective in each sentence."
+   }
+  ]
+ },
+ {
+  "id": "adjectives-extend-your-sentences-02",
+  "topic": "adjectives-extend-your-sentences",
+  "number": 2,
+  "level": "Starter",
+  "title": "A Rainy Evening on the Balcony",
+  "intro": "Ishaan is watching the rain with his grandfather. Some adjectives tell us how things look and some tell us how they sound.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the words. Do they tell how something looks or sounds?",
+    "marks": 6,
+    "groups": [
+     "Looks",
+     "Sounds"
+    ],
+    "words": [
+     "grey",
+     "loud",
+     "cloudy",
+     "noisy",
+     "bright",
+     "quiet"
+    ],
+    "a": {
+     "grey": "Looks",
+     "loud": "Sounds",
+     "cloudy": "Looks",
+     "noisy": "Sounds",
+     "bright": "Looks",
+     "quiet": "Sounds"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Fill in with a word from the box: booming, squeaky, gentle, buzzing.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The ___ thunder made me jump.",
+      "a": "booming"
+     },
+     {
+      "q": "The old gate made a ___ noise.",
+      "a": "squeaky"
+     },
+     {
+      "q": "A ___ mosquito flew near my ear.",
+      "a": "buzzing"
+     },
+     {
+      "q": "The ___ rain went pitter-patter.",
+      "a": "gentle"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the adjective that fits.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The rain made a",
+      "options": [
+       "pattering",
+       "purple"
+      ],
+      "after": "sound on the roof.",
+      "a": "pattering"
+     },
+     {
+      "before": "A",
+      "options": [
+       "croaking",
+       "crunchy"
+      ],
+      "after": "frog sat in a puddle.",
+      "a": "croaking"
+     },
+     {
+      "before": "We heard the",
+      "options": [
+       "salty",
+       "whistling"
+      ],
+      "after": "wind.",
+      "a": "whistling"
+     },
+     {
+      "before": "Dada spoke in a",
+      "options": [
+       "soft",
+       "square"
+      ],
+      "after": "voice.",
+      "a": "soft"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Add the adjective in brackets to the sentence.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The dog barked at the rain. (noisy)",
+      "a": "The noisy dog barked at the rain."
+     },
+     {
+      "q": "We heard a bell. (tinkling)",
+      "a": "We heard a tinkling bell."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about the sounds of a rainy day.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. I heard loud thunder. Check for a sound adjective in each sentence."
+   }
+  ]
+ },
+ {
+  "id": "adjectives-extend-your-sentences-03",
+  "topic": "adjectives-extend-your-sentences",
+  "number": 3,
+  "level": "Starter",
+  "title": "The Spice Souk",
+  "intro": "Layla and her aunt are walking past sacks of spices. Use adjectives to tell how things smell and look.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "'Spicy' can tell us how something smells.",
+      "a": true
+     },
+     {
+      "q": "'Stinky' is a word for a nice smell.",
+      "a": false
+     },
+     {
+      "q": "'Fragrant' means it smells good.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the smell words.",
+    "marks": 6,
+    "groups": [
+     "Nice smell",
+     "Bad smell"
+    ],
+    "words": [
+     "fresh",
+     "rotten",
+     "flowery",
+     "stinky",
+     "minty",
+     "smelly"
+    ],
+    "a": {
+     "fresh": "Nice smell",
+     "rotten": "Bad smell",
+     "flowery": "Nice smell",
+     "stinky": "Bad smell",
+     "minty": "Nice smell",
+     "smelly": "Bad smell"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Fill in with a word from the box: red, long, yellow.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The ___ chillies looked like little flames.",
+      "a": "red"
+     },
+     {
+      "q": "Turmeric is a bright ___ powder.",
+      "a": "yellow"
+     },
+     {
+      "q": "Cinnamon comes in ___ brown sticks.",
+      "a": "long"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each smell word to the thing.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "sweet-smelling",
+      "right": "rose water"
+     },
+     {
+      "left": "smoky",
+      "right": "charcoal fire"
+     },
+     {
+      "left": "fishy",
+      "right": "dried fish"
+     },
+     {
+      "left": "lemony",
+      "right": "dried limes"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Add the adjective in brackets to the sentence.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The shopkeeper opened a sack. (dusty)",
+      "a": "The shopkeeper opened a dusty sack."
+     },
+     {
+      "q": "I smelled the saffron. (fragrant)",
+      "a": "I smelled the fragrant saffron."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "adjectives-extend-your-sentences-04",
+  "topic": "adjectives-extend-your-sentences",
+  "number": 4,
+  "level": "Starter",
+  "title": "Lunch Box Swap",
+  "intro": "Class 2 is sharing lunch today. Use adjectives to tell how food tastes and feels.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the words. Do they tell how something tastes or feels?",
+    "marks": 6,
+    "groups": [
+     "Tastes",
+     "Feels"
+    ],
+    "words": [
+     "sour",
+     "bumpy",
+     "salty",
+     "smooth",
+     "bitter",
+     "rough"
+    ],
+    "a": {
+     "sour": "Tastes",
+     "bumpy": "Feels",
+     "salty": "Tastes",
+     "smooth": "Feels",
+     "bitter": "Tastes",
+     "rough": "Feels"
+    }
+   },
+   {
+    "type": "match",
+    "title": "Match each taste to the food.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "sour",
+      "right": "lemon slices"
+     },
+     {
+      "left": "sweet",
+      "right": "mango jam"
+     },
+     {
+      "left": "salty",
+      "right": "potato crisps"
+     },
+     {
+      "left": "spicy",
+      "right": "chilli pickle"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the adjective that fits.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The",
+      "options": [
+       "juicy",
+       "rusty"
+      ],
+      "after": "orange dripped on my hand.",
+      "a": "juicy"
+     },
+     {
+      "before": "Kenji shared his",
+      "options": [
+       "crunchy",
+       "fluffy"
+      ],
+      "after": "carrot sticks.",
+      "a": "crunchy"
+     },
+     {
+      "before": "The curd was cool and",
+      "options": [
+       "creamy",
+       "crispy"
+      ],
+      "after": ".",
+      "a": "creamy"
+     },
+     {
+      "before": "The",
+      "options": [
+       "stale",
+       "fresh"
+      ],
+      "after": "bread was hard and dry.",
+      "a": "stale"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the sentence again. Put a comma between the two adjectives.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "I ate a sweet sticky ladoo.",
+      "a": "I ate a sweet, sticky ladoo."
+     },
+     {
+      "q": "Bela had a hot spicy samosa.",
+      "a": "Bela had a hot, spicy samosa."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about your lunch. Tell how it tastes.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. My dosa was crisp and salty. Check for taste adjectives."
+   }
+  ]
+ },
+ {
+  "id": "adjectives-extend-your-sentences-05",
+  "topic": "adjectives-extend-your-sentences",
+  "number": 5,
+  "level": "Practice",
+  "title": "The Pet Shop Visit",
+  "intro": "Noah and his sister are choosing a pet. When two adjectives come together, put a comma between them.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the words. Do they tell how something feels or sounds?",
+    "marks": 6,
+    "groups": [
+     "Feels",
+     "Sounds"
+    ],
+    "words": [
+     "furry",
+     "chirping",
+     "slimy",
+     "squeaking",
+     "prickly",
+     "purring"
+    ],
+    "a": {
+     "furry": "Feels",
+     "chirping": "Sounds",
+     "slimy": "Feels",
+     "squeaking": "Sounds",
+     "prickly": "Feels",
+     "purring": "Sounds"
+    }
+   },
+   {
+    "type": "pairs",
+    "title": "Write the two adjectives.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "a soft, fluffy kitten",
+      "a": "soft, fluffy"
+     },
+     {
+      "q": "a small, noisy parrot",
+      "a": "small, noisy"
+     },
+     {
+      "q": "the long, green snake",
+      "a": "long, green"
+     },
+     {
+      "q": "the tiny, white mice",
+      "a": "tiny, white"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the adjective that fits.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The rabbit has",
+      "options": [
+       "silky",
+       "spiky"
+      ],
+      "after": "ears.",
+      "a": "silky"
+     },
+     {
+      "before": "The tortoise has a",
+      "options": [
+       "hard",
+       "squishy"
+      ],
+      "after": "shell.",
+      "a": "hard"
+     },
+     {
+      "before": "The fish felt wet and",
+      "options": [
+       "slippery",
+       "dusty"
+      ],
+      "after": ".",
+      "a": "slippery"
+     },
+     {
+      "before": "A lamb has a",
+      "options": [
+       "woolly",
+       "scaly"
+      ],
+      "after": "coat.",
+      "a": "woolly"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Add the two adjectives in brackets. Use a comma.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The puppy licked my hand. (small, brown)",
+      "a": "The small, brown puppy licked my hand."
+     },
+     {
+      "q": "A hamster ran in its wheel. (fat, sleepy)",
+      "a": "A fat, sleepy hamster ran in its wheel."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Describe a pet you like. Use two adjectives with a comma.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. I like the soft, white rabbit. Check the comma between the adjectives."
+   }
+  ]
+ },
+ {
+  "id": "adjectives-extend-your-sentences-06",
+  "topic": "adjectives-extend-your-sentences",
+  "number": 6,
+  "level": "Practice",
+  "title": "A Night at the Desert Camp",
+  "intro": "Rashid's family is spending the night in the dunes. Use all five senses to describe it.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each sentence to the body part.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "We see with our",
+      "right": "eyes"
+     },
+     {
+      "left": "We hear with our",
+      "right": "ears"
+     },
+     {
+      "left": "We smell with our",
+      "right": "nose"
+     },
+     {
+      "left": "We taste with our",
+      "right": "tongue"
+     },
+     {
+      "left": "We feel with our",
+      "right": "skin"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort each word under the right sense.",
+    "marks": 5,
+    "groups": [
+     "Looks",
+     "Sounds",
+     "Smells",
+     "Tastes",
+     "Feels"
+    ],
+    "words": [
+     "starry",
+     "crackling",
+     "smoky",
+     "salty",
+     "gritty"
+    ],
+    "a": {
+     "starry": "Looks",
+     "crackling": "Sounds",
+     "smoky": "Smells",
+     "salty": "Tastes",
+     "gritty": "Feels"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Fill in with a word from the box: cool, sweet, bright, loud.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The ___ stars filled the sky.",
+      "a": "bright"
+     },
+     {
+      "q": "We ate ___ dates after dinner.",
+      "a": "sweet"
+     },
+     {
+      "q": "The ___ drums made us dance.",
+      "a": "loud"
+     },
+     {
+      "q": "The sand felt ___ under my feet at night.",
+      "a": "cool"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Add the two adjectives in brackets. Use a comma.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The camel sat on the sand. (tall, sleepy)",
+      "a": "The tall, sleepy camel sat on the sand."
+     },
+     {
+      "q": "We sat near the fire. (warm, crackling)",
+      "a": "We sat near the warm, crackling fire."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about the desert at night. Use two senses.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. I saw the round, white moon. I heard soft music. Check for sense adjectives."
+   }
+  ]
+ },
+ {
+  "id": "adjectives-extend-your-sentences-07",
+  "topic": "adjectives-extend-your-sentences",
+  "number": 7,
+  "level": "Practice",
+  "title": "Grandma's Garden in Pune",
+  "intro": "Mihika is helping Aaji in her garden. Which sense does each describing word use?",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Which sense? Write see, hear, smell, taste or feel.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "purple",
+      "a": "see"
+     },
+     {
+      "q": "buzzing",
+      "a": "hear"
+     },
+     {
+      "q": "thorny",
+      "a": "feel"
+     },
+     {
+      "q": "sour",
+      "a": "taste"
+     },
+     {
+      "q": "stinky",
+      "a": "smell"
+     },
+     {
+      "q": "striped",
+      "a": "see"
+     },
+     {
+      "q": "bitter",
+      "a": "taste"
+     },
+     {
+      "q": "velvety",
+      "a": "feel"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the adjective that fits.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "A",
+      "options": [
+       "buzzing",
+       "barking"
+      ],
+      "after": "bee sat on the marigold.",
+      "a": "buzzing"
+     },
+     {
+      "before": "The roses had a",
+      "options": [
+       "sweet",
+       "sour"
+      ],
+      "after": "smell.",
+      "a": "sweet"
+     },
+     {
+      "before": "I touched the",
+      "options": [
+       "rough",
+       "loud"
+      ],
+      "after": "bark of the mango tree.",
+      "a": "rough"
+     },
+     {
+      "before": "Aaji picked a",
+      "options": [
+       "ripe",
+       "rude"
+      ],
+      "after": "guava.",
+      "a": "ripe"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write the missing comma or full stop.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The garden has tall ___ shady trees.",
+      "a": ","
+     },
+     {
+      "q": "A fat ___ green caterpillar ate a leaf.",
+      "a": ","
+     },
+     {
+      "q": "Aaji waters the plants every morning ___",
+      "a": "."
+     },
+     {
+      "q": "I picked a small ___ red tomato.",
+      "a": ","
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Use the two adjectives to describe the first naming word. Use a comma.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The squirrel ran up the tree. (quick, grey)",
+      "a": "The quick, grey squirrel ran up the tree."
+     },
+     {
+      "q": "Mud stuck to my shoes. (wet, sticky)",
+      "a": "Wet, sticky mud stuck to my shoes."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about a garden. Tell what you see and smell.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. I see bright, orange flowers. Check for adjectives and the comma."
+   }
+  ]
+ },
+ {
+  "id": "adjectives-extend-your-sentences-08",
+  "topic": "adjectives-extend-your-sentences",
+  "number": 8,
+  "level": "Practice",
+  "title": "The School Fun Fair",
+  "intro": "The playground is full of stalls and games today. Describe the fun with good adjectives.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each adjective to the thing it describes best.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "bouncy",
+      "right": "castle"
+     },
+     {
+      "left": "sticky",
+      "right": "candy floss"
+     },
+     {
+      "left": "loud",
+      "right": "music"
+     },
+     {
+      "left": "colourful",
+      "right": "balloons"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "'a big, red balloon' is written correctly.",
+      "a": true
+     },
+     {
+      "q": "'a tall thin, clown' is written correctly.",
+      "a": false
+     },
+     {
+      "q": "'The fair was noisy.' has two adjectives.",
+      "a": false
+     },
+     {
+      "q": "'I won a soft, cuddly panda.' has two adjectives.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in with a word from the box: spinning, sweet, noisy, slippery.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The ___ wheel went round and round.",
+      "a": "spinning"
+     },
+     {
+      "q": "We went down the ___ slide.",
+      "a": "slippery"
+     },
+     {
+      "q": "The ___ crowd cheered for the clown.",
+      "a": "noisy"
+     },
+     {
+      "q": "I licked a ___ lollipop.",
+      "a": "sweet"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the sentence again. Put in the missing comma.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "We rode a fast scary roller coaster.",
+      "a": "We rode a fast, scary roller coaster."
+     },
+     {
+      "q": "Tomas wore a tall shiny hat.",
+      "a": "Tomas wore a tall, shiny hat."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about a stall you would like to run.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. I would sell cold, fizzy drinks. Check for adjectives."
+   }
+  ]
+ },
+ {
+  "id": "adjectives-extend-your-sentences-09",
+  "topic": "adjectives-extend-your-sentences",
+  "number": 9,
+  "level": "Practice",
+  "title": "Making Lemonade",
+  "intro": "It is a hot afternoon and Daniyal is making lemonade with his mother. Describe each step.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the describing words.",
+    "marks": 6,
+    "groups": [
+     "Looks",
+     "Tastes",
+     "Feels"
+    ],
+    "words": [
+     "yellow",
+     "sour",
+     "wet",
+     "round",
+     "sugary",
+     "icy"
+    ],
+    "a": {
+     "yellow": "Looks",
+     "sour": "Tastes",
+     "wet": "Feels",
+     "round": "Looks",
+     "sugary": "Tastes",
+     "icy": "Feels"
+    }
+   },
+   {
+    "type": "choice",
+    "title": "Circle the adjective that fits.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Squeeze the",
+      "options": [
+       "juicy",
+       "furry"
+      ],
+      "after": "lemons.",
+      "a": "juicy"
+     },
+     {
+      "before": "Stir in two spoons of",
+      "options": [
+       "white",
+       "windy"
+      ],
+      "after": "sugar.",
+      "a": "white"
+     },
+     {
+      "before": "Add",
+      "options": [
+       "cold",
+       "curly"
+      ],
+      "after": "water from the fridge.",
+      "a": "cold"
+     },
+     {
+      "before": "Drop in some",
+      "options": [
+       "fresh",
+       "angry"
+      ],
+      "after": "mint leaves.",
+      "a": "fresh"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write the adjective from each sentence.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Mama cut a big lemon. The adjective is ___.",
+      "a": "big"
+     },
+     {
+      "q": "The tangy juice made me blink. The adjective is ___.",
+      "a": "tangy"
+     },
+     {
+      "q": "We used a wooden spoon. The adjective is ___.",
+      "a": "wooden"
+     },
+     {
+      "q": "The jug was heavy. The adjective is ___.",
+      "a": "heavy"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Add the two adjectives in brackets. Use a comma.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "I drank the lemonade. (cool, sweet)",
+      "a": "I drank the cool, sweet lemonade."
+     },
+     {
+      "q": "Pips fell into the bowl. (small, slippery)",
+      "a": "Small, slippery pips fell into the bowl."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write how to make your favourite drink. Use three adjectives.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. Pour cold milk into a tall glass. Add sweet syrup. Check for three adjectives."
+   }
+  ]
+ },
+ {
+  "id": "adjectives-extend-your-sentences-10",
+  "topic": "adjectives-extend-your-sentences",
+  "number": 10,
+  "level": "Practice",
+  "title": "A Boat Ride on Dubai Creek",
+  "intro": "Sana and her cousins are crossing the creek on an abra. What can they see, hear, smell and feel?",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Which sense? Write see, hear, smell, taste or feel.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "sparkling",
+      "a": "see"
+     },
+     {
+      "q": "honking",
+      "a": "hear"
+     },
+     {
+      "q": "fishy",
+      "a": "smell"
+     },
+     {
+      "q": "breezy",
+      "a": "feel"
+     },
+     {
+      "q": "splashing",
+      "a": "hear"
+     },
+     {
+      "q": "blue",
+      "a": "see"
+     },
+     {
+      "q": "damp",
+      "a": "feel"
+     },
+     {
+      "q": "tangy",
+      "a": "taste"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "'The old, wooden boat rocked.' uses two adjectives.",
+      "a": true
+     },
+     {
+      "q": "A comma goes after the second adjective.",
+      "a": false
+     },
+     {
+      "q": "'Sparkling' tells us how the water tastes.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in with a word from the box: screeching, cool, tall, crowded.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The ___ seagulls flew over us.",
+      "a": "screeching"
+     },
+     {
+      "q": "A ___ breeze blew on my face.",
+      "a": "cool"
+     },
+     {
+      "q": "We saw ___ towers across the water.",
+      "a": "tall"
+     },
+     {
+      "q": "The ___ boat had no empty seats.",
+      "a": "crowded"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Make each sentence longer with the two adjectives. Use a comma.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The boatman waved. (old, friendly)",
+      "a": "The old, friendly boatman waved."
+     },
+     {
+      "q": "We sat on a bench. (long, narrow)",
+      "a": "We sat on a long, narrow bench."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Describe the creek. Tell what you see and hear.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. I see small, brown boats. I hear noisy birds. Check for adjectives."
+   }
+  ]
+ },
+ {
+  "id": "adjectives-extend-your-sentences-11",
+  "topic": "adjectives-extend-your-sentences",
+  "number": 11,
+  "level": "Challenge",
+  "title": "The Vegetable Market in Kochi",
+  "intro": "Appu is shopping with his grandmother on a busy morning. Make every sentence paint a picture.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort each word under the right sense.",
+    "marks": 10,
+    "groups": [
+     "Looks",
+     "Sounds",
+     "Smells",
+     "Tastes",
+     "Feels"
+    ],
+    "words": [
+     "purple",
+     "shouting",
+     "musty",
+     "bland",
+     "knobbly",
+     "leafy",
+     "rustling",
+     "stinky",
+     "peppery",
+     "waxy"
+    ],
+    "a": {
+     "purple": "Looks",
+     "shouting": "Sounds",
+     "musty": "Smells",
+     "bland": "Tastes",
+     "knobbly": "Feels",
+     "leafy": "Looks",
+     "rustling": "Sounds",
+     "stinky": "Smells",
+     "peppery": "Tastes",
+     "waxy": "Feels"
+    }
+   },
+   {
+    "type": "choice",
+    "title": "Circle the adjective that fits.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The",
+      "options": [
+       "plump",
+       "polite"
+      ],
+      "after": "tomatoes were bright red.",
+      "a": "plump"
+     },
+     {
+      "before": "Coconuts have a",
+      "options": [
+       "hairy",
+       "hasty"
+      ],
+      "after": "brown shell.",
+      "a": "hairy"
+     },
+     {
+      "before": "The seller had a",
+      "options": [
+       "booming",
+       "blooming"
+      ],
+      "after": "voice.",
+      "a": "booming"
+     },
+     {
+      "before": "Curry leaves have a",
+      "options": [
+       "strong",
+       "strict"
+      ],
+      "after": "smell.",
+      "a": "strong"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Add both adjectives. Each one describes a different naming word.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The woman sold bananas. (cheerful, ripe)",
+      "a": "The cheerful woman sold ripe bananas."
+     },
+     {
+      "q": "A boy carried a basket. (thin, heavy)",
+      "a": "A thin boy carried a heavy basket."
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the two adjectives to the vegetable.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "long, green",
+      "right": "drumsticks"
+     },
+     {
+      "left": "small, fiery",
+      "right": "chillies"
+     },
+     {
+      "left": "round, orange",
+      "right": "pumpkin"
+     },
+     {
+      "left": "tiny, white",
+      "right": "garlic cloves"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Make this sentence longer and better: The man sold fish.",
+    "marks": 3,
+    "lines": 3,
+    "a": "e.g. The loud, smiling man sold fresh, silver fish. Check for at least two adjectives and the commas."
+   }
+  ]
+ },
+ {
+  "id": "adjectives-extend-your-sentences-12",
+  "topic": "adjectives-extend-your-sentences",
+  "number": 12,
+  "level": "Challenge",
+  "title": "Lohri Bonfire Night",
+  "intro": "Gurleen's family is celebrating Lohri in Amritsar. Describe the fire, the food and the music.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "'Crackling' is a sound word.",
+      "a": true
+     },
+     {
+      "q": "In 'the warm, orange fire', the comma is in the right place.",
+      "a": true
+     },
+     {
+      "q": "'We ate popcorn.' has an adjective.",
+      "a": false
+     },
+     {
+      "q": "'Smoky' can describe a smell.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in with a word from the box: roasted, thumping, freezing, glowing, sweet.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "The ___ dhol made everyone dance.",
+      "a": "thumping"
+     },
+     {
+      "q": "Dadi gave us hot, ___ peanuts in their shells.",
+      "a": "roasted"
+     },
+     {
+      "q": "I chewed a ___ piece of jaggery.",
+      "a": "sweet"
+     },
+     {
+      "q": "It was a ___ January night.",
+      "a": "freezing"
+     },
+     {
+      "q": "The ___ sparks rose into the sky.",
+      "a": "glowing"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Write the two adjectives.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "the bright, crackling bonfire",
+      "a": "bright, crackling"
+     },
+     {
+      "q": "a thick, woolly shawl",
+      "a": "thick, woolly"
+     },
+     {
+      "q": "crunchy, golden popcorn",
+      "a": "crunchy, golden"
+     },
+     {
+      "q": "the cold, dark field",
+      "a": "cold, dark"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Add both adjectives. Each one describes a different naming word.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Children sang songs. (happy, old)",
+      "a": "Happy children sang old songs."
+     },
+     {
+      "q": "Smoke rose into the sky. (grey, starry)",
+      "a": "Grey smoke rose into the starry sky."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Make this sentence longer and better: The fire burned.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. The huge, golden fire burned in the cold field. Check for at least two adjectives."
+   }
+  ]
+ },
+ {
+  "id": "adjectives-extend-your-sentences-13",
+  "topic": "adjectives-extend-your-sentences",
+  "number": 13,
+  "level": "Challenge",
+  "title": "A Day at the Aquarium",
+  "intro": "Class 2 is walking through the glass tunnel. Describe the sea animals so a friend can picture them.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match the two adjectives to the sea animal.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "slow, wrinkly",
+      "right": "turtle"
+     },
+     {
+      "left": "sharp-toothed, grey",
+      "right": "shark"
+     },
+     {
+      "left": "wobbly, see-through",
+      "right": "jellyfish"
+     },
+     {
+      "left": "eight-armed, squishy",
+      "right": "octopus"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the adjective that fits.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The glass tunnel felt",
+      "options": [
+       "cool",
+       "cruel"
+      ],
+      "after": "and smooth.",
+      "a": "cool"
+     },
+     {
+      "before": "We heard the",
+      "options": [
+       "bubbling",
+       "bumbling"
+      ],
+      "after": "water pumps.",
+      "a": "bubbling"
+     },
+     {
+      "before": "The fish food had a",
+      "options": [
+       "fishy",
+       "fizzy"
+      ],
+      "after": "smell.",
+      "a": "fishy"
+     },
+     {
+      "before": "A ray swam past like a",
+      "options": [
+       "flat",
+       "fat"
+      ],
+      "after": "kite.",
+      "a": "flat"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Finish with looks, sounds, smells, tastes or feels.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "'Glittering' tells how something ___.",
+      "a": "looks"
+     },
+     {
+      "q": "'Gurgling' tells how something ___.",
+      "a": "sounds"
+     },
+     {
+      "q": "'Rubbery' tells how something ___.",
+      "a": "feels"
+     },
+     {
+      "q": "'Salty' tells how something ___.",
+      "a": "tastes"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Join the sentences into one. Use both adjectives with a comma.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "I saw a crab. It was red. It was spiky.",
+      "a": "I saw a red, spiky crab."
+     },
+     {
+      "q": "A diver fed the fish. They were big. They were hungry.",
+      "a": "A diver fed the big, hungry fish."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Describe a sea animal. Do not say its name.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary, e.g. It is a small, orange fish with white stripes. Check for adjectives."
+   }
+  ]
+ },
+ {
+  "id": "adjectives-extend-your-sentences-14",
+  "topic": "adjectives-extend-your-sentences",
+  "number": 14,
+  "level": "Challenge",
+  "title": "Camping in the Hatta Mountains",
+  "intro": "Oliver's family has pitched a tent near the rocks. Use your senses to describe the night.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the describing words.",
+    "marks": 6,
+    "groups": [
+     "Looks",
+     "Sounds",
+     "Feels"
+    ],
+    "words": [
+     "rocky",
+     "hooting",
+     "chilly",
+     "steep",
+     "rustling",
+     "scratchy"
+    ],
+    "a": {
+     "rocky": "Looks",
+     "hooting": "Sounds",
+     "chilly": "Feels",
+     "steep": "Looks",
+     "rustling": "Sounds",
+     "scratchy": "Feels"
+    }
+   },
+   {
+    "type": "pairs",
+    "title": "Write the naming word that is described.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "a deep, cold pool",
+      "a": "pool"
+     },
+     {
+      "q": "the thin, winding road",
+      "a": "road"
+     },
+     {
+      "q": "our small, cosy tent",
+      "a": "tent"
+     },
+     {
+      "q": "a loud, sudden echo",
+      "a": "echo"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in with a word from the box: burnt, bubbling, starlit, heavy.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "I carried a ___ backpack up the hill.",
+      "a": "heavy"
+     },
+     {
+      "q": "The ___ soup smelled of pepper.",
+      "a": "bubbling"
+     },
+     {
+      "q": "My ___ marshmallow tasted bitter.",
+      "a": "burnt"
+     },
+     {
+      "q": "We lay under the ___ sky.",
+      "a": "starlit"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Join the sentences into one. Use both adjectives with a comma.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "We found a cave. It was dark. It was damp.",
+      "a": "We found a dark, damp cave."
+     },
+     {
+      "q": "Papa lit a lamp. It was small. It was bright.",
+      "a": "Papa lit a small, bright lamp."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write three sentences about a night outdoors. Use a different sense in each.",
+    "marks": 3,
+    "lines": 3,
+    "a": "Answers will vary, e.g. I saw tiny stars. I heard a hooting owl. The ground felt hard. Check each sentence uses a different sense."
+   }
+  ]
+ },
+ {
+  "id": "adjectives-extend-your-sentences-15",
+  "topic": "adjectives-extend-your-sentences",
+  "number": 15,
+  "level": "Challenge",
+  "title": "The Old Lighthouse Story",
+  "intro": "Farida is writing a spooky story for the class book. Help her choose adjectives that set the scene.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the better adjective for a spooky story.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The",
+      "options": [
+       "creaky",
+       "cheerful"
+      ],
+      "after": "door opened slowly.",
+      "a": "creaky"
+     },
+     {
+      "before": "A",
+      "options": [
+       "cold",
+       "cosy"
+      ],
+      "after": "wind blew out my candle.",
+      "a": "cold"
+     },
+     {
+      "before": "I climbed the",
+      "options": [
+       "dusty",
+       "tasty"
+      ],
+      "after": "stairs.",
+      "a": "dusty"
+     },
+     {
+      "before": "A",
+      "options": [
+       "shadowy",
+       "sunny"
+      ],
+      "after": "shape moved on the wall.",
+      "a": "shadowy"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Finish with see, hear, smell or feel.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "'The lamp was dazzling.' You ___ this.",
+      "a": "see"
+     },
+     {
+      "q": "'The waves were roaring.' You ___ this.",
+      "a": "hear"
+     },
+     {
+      "q": "'The rope was rough.' You ___ this.",
+      "a": "feel"
+     },
+     {
+      "q": "'The air was stale and fishy.' You ___ this.",
+      "a": "smell"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "'The tall, white lighthouse stood on a rock.' has the comma in the right place.",
+      "a": true
+     },
+     {
+      "q": "'A loud, bang shook the door.' is written correctly.",
+      "a": false
+     },
+     {
+      "q": "Adjectives help the reader picture the story.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Add both pairs of adjectives. Use commas.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The keeper carried a lantern. (old, kind) (heavy, brass)",
+      "a": "The old, kind keeper carried a heavy, brass lantern."
+     },
+     {
+      "q": "A gull sat on the wall. (fat, white) (low, stone)",
+      "a": "A fat, white gull sat on the low, stone wall."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write the start of your own story. Use at least four adjectives.",
+    "marks": 3,
+    "lines": 3,
+    "a": "Answers will vary. Check for at least four adjectives and a comma between two adjectives in a row."
+   }
+  ]
+ }
+]

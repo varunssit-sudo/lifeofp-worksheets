@@ -1,0 +1,1964 @@
+[
+ {
+  "id": "is-are-was-were-01",
+  "topic": "is-are-was-were",
+  "number": 1,
+  "level": "Starter",
+  "title": "My Classroom",
+  "intro": "Look around Zoya's classroom. Use is for one and are for many.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle is or are.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The board",
+      "options": [
+       "is",
+       "are"
+      ],
+      "after": "green.",
+      "a": "is"
+     },
+     {
+      "before": "The chairs",
+      "options": [
+       "is",
+       "are"
+      ],
+      "after": "blue.",
+      "a": "are"
+     },
+     {
+      "before": "My bag",
+      "options": [
+       "is",
+       "are"
+      ],
+      "after": "under the desk.",
+      "a": "is"
+     },
+     {
+      "before": "The windows",
+      "options": [
+       "is",
+       "are"
+      ],
+      "after": "open.",
+      "a": "are"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the words. Do they go with is or are?",
+    "marks": 8,
+    "groups": [
+     "is",
+     "are"
+    ],
+    "words": [
+     "my friend",
+     "the books",
+     "the crayons",
+     "the door",
+     "all the desks",
+     "a pencil",
+     "two fans",
+     "the clock"
+    ],
+    "a": {
+     "my friend": "is",
+     "the books": "are",
+     "the crayons": "are",
+     "the door": "is",
+     "all the desks": "are",
+     "a pencil": "is",
+     "two fans": "are",
+     "the clock": "is"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Fill in is or are.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The duster ___ on the table.",
+      "a": "is"
+     },
+     {
+      "q": "Ten charts ___ on the wall.",
+      "a": "are"
+     },
+     {
+      "q": "The dustbin ___ near the door.",
+      "a": "is"
+     },
+     {
+      "q": "The children ___ in their seats.",
+      "a": "are"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Is the sentence right? Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The pencils is sharp.",
+      "a": false
+     },
+     {
+      "q": "The map is on the wall.",
+      "a": true
+     },
+     {
+      "q": "The lunch boxes is on the shelf.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about your classroom. Use is in one and are in the other.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check: is with one thing, are with many."
+   }
+  ]
+ },
+ {
+  "id": "is-are-was-were-02",
+  "topic": "is-are-was-were",
+  "number": 2,
+  "level": "Starter",
+  "title": "Pets on Our Street",
+  "intro": "Farhan knows every pet on his street. Use am with I, is for one, and are with you, we and they.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write am, is or are.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "I",
+      "a": "am"
+     },
+     {
+      "q": "he",
+      "a": "is"
+     },
+     {
+      "q": "she",
+      "a": "is"
+     },
+     {
+      "q": "it",
+      "a": "is"
+     },
+     {
+      "q": "we",
+      "a": "are"
+     },
+     {
+      "q": "you",
+      "a": "are"
+     },
+     {
+      "q": "they",
+      "a": "are"
+     },
+     {
+      "q": "the cat",
+      "a": "is"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in am, is or are.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "I ___ Farhan, and this is my street.",
+      "a": "am"
+     },
+     {
+      "q": "You ___ my best friend.",
+      "a": "are"
+     },
+     {
+      "q": "She ___ the owner of a white rabbit.",
+      "a": "is"
+     },
+     {
+      "q": "We ___ happy to feed the kittens.",
+      "a": "are"
+     },
+     {
+      "q": "They ___ puppies, only six weeks old.",
+      "a": "are"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "It",
+      "options": [
+       "is",
+       "are"
+      ],
+      "after": "a noisy parrot.",
+      "a": "is"
+     },
+     {
+      "before": "I",
+      "options": [
+       "am",
+       "is"
+      ],
+      "after": "afraid of the big dog.",
+      "a": "am"
+     },
+     {
+      "before": "The tortoise",
+      "options": [
+       "is",
+       "are"
+      ],
+      "after": "very slow.",
+      "a": "is"
+     },
+     {
+      "before": "Mrs D'Souza's cats",
+      "options": [
+       "is",
+       "are"
+      ],
+      "after": "on the wall.",
+      "a": "are"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "'I is' is right.",
+      "a": false
+     },
+     {
+      "q": "We use are with you, we and they.",
+      "a": true
+     },
+     {
+      "q": "We use am only with I.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about a pet. Start one with I am and one with It is.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I am fond of dogs. It is a brown puppy."
+   }
+  ]
+ },
+ {
+  "id": "is-are-was-were-03",
+  "topic": "is-are-was-were",
+  "number": 3,
+  "level": "Starter",
+  "title": "Yesterday at the Fun Fair",
+  "intro": "Yesterday Arnav went to the fun fair. Use was for one and were for many.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle was or were.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The giant wheel",
+      "options": [
+       "was",
+       "were"
+      ],
+      "after": "very tall.",
+      "a": "was"
+     },
+     {
+      "before": "The lights",
+      "options": [
+       "was",
+       "were"
+      ],
+      "after": "bright.",
+      "a": "were"
+     },
+     {
+      "before": "I",
+      "options": [
+       "was",
+       "were"
+      ],
+      "after": "on the toy train.",
+      "a": "was"
+     },
+     {
+      "before": "We",
+      "options": [
+       "was",
+       "were"
+      ],
+      "after": "in a long line for tickets.",
+      "a": "were"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the words. Do they go with was or were?",
+    "marks": 8,
+    "groups": [
+     "was",
+     "were"
+    ],
+    "words": [
+     "the clown",
+     "we",
+     "she",
+     "I",
+     "you",
+     "the balloons",
+     "it",
+     "they"
+    ],
+    "a": {
+     "the clown": "was",
+     "we": "were",
+     "she": "was",
+     "I": "was",
+     "you": "were",
+     "the balloons": "were",
+     "it": "was",
+     "they": "were"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Fill in was or were.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The candy floss ___ pink and sweet.",
+      "a": "was"
+     },
+     {
+      "q": "The bumper cars ___ fast.",
+      "a": "were"
+     },
+     {
+      "q": "My sister ___ scared of the ghost house.",
+      "a": "was"
+     },
+     {
+      "q": "They ___ tired at the end.",
+      "a": "were"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Was and were tell about the past.",
+      "a": true
+     },
+     {
+      "q": "'They was happy' is right.",
+      "a": false
+     },
+     {
+      "q": "'He was happy' is right.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about a fun day. Use was in one and were in the other.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check: was with one, were with many."
+   }
+  ]
+ },
+ {
+  "id": "is-are-was-were-04",
+  "topic": "is-are-was-were",
+  "number": 4,
+  "level": "Starter",
+  "title": "My Birthday Morning",
+  "intro": "Today is Elena's birthday. Is it happening now, or did it happen before?",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the past form.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "is",
+      "a": "was"
+     },
+     {
+      "q": "am",
+      "a": "was"
+     },
+     {
+      "q": "are",
+      "a": "were"
+     },
+     {
+      "q": "we are",
+      "a": "we were"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 5,
+    "items": [
+     {
+      "before": "Today",
+      "options": [
+       "is",
+       "was"
+      ],
+      "after": "my birthday.",
+      "a": "is"
+     },
+     {
+      "before": "Yesterday",
+      "options": [
+       "is",
+       "was"
+      ],
+      "after": "a school day.",
+      "a": "was"
+     },
+     {
+      "before": "The balloons",
+      "options": [
+       "are",
+       "were"
+      ],
+      "after": "on the wall now.",
+      "a": "are"
+     },
+     {
+      "before": "Last night the gifts",
+      "options": [
+       "are",
+       "were"
+      ],
+      "after": "in Papa's cupboard.",
+      "a": "were"
+     },
+     {
+      "before": "I",
+      "options": [
+       "am",
+       "was"
+      ],
+      "after": "seven last year.",
+      "a": "was"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in am, is, are or was.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "I ___ eight years old today.",
+      "a": "am"
+     },
+     {
+      "q": "My cake ___ on the table now.",
+      "a": "is"
+     },
+     {
+      "q": "My cousins ___ here now for the party.",
+      "a": "are"
+     },
+     {
+      "q": "Yesterday the house ___ quiet.",
+      "a": "was"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "'Yesterday' tells us to use was or were.",
+      "a": true
+     },
+     {
+      "q": "'Now' tells us to use am, is or are.",
+      "a": true
+     },
+     {
+      "q": "'The candles was lit last night' is right.",
+      "a": false
+     },
+     {
+      "q": "'I am happy today' is right.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about your birthday. Use is in one and was in the other.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check: is for now, was for the past."
+   }
+  ]
+ },
+ {
+  "id": "is-are-was-were-05",
+  "topic": "is-are-was-were",
+  "number": 5,
+  "level": "Practice",
+  "title": "The Metro Ride in Dubai",
+  "intro": "Vihaan and his family are on the Dubai Metro right now.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in am, is or are.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "The station ___ very clean.",
+      "a": "is"
+     },
+     {
+      "q": "The trains ___ on time.",
+      "a": "are"
+     },
+     {
+      "q": "I ___ next to the window.",
+      "a": "am"
+     },
+     {
+      "q": "Mama and I ___ in the first coach.",
+      "a": "are"
+     },
+     {
+      "q": "The seat ___ blue.",
+      "a": "is"
+     },
+     {
+      "q": "The doors ___ about to close.",
+      "a": "are"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Our tickets",
+      "options": [
+       "is",
+       "are"
+      ],
+      "after": "in Papa's pocket.",
+      "a": "are"
+     },
+     {
+      "before": "The Burj Khalifa",
+      "options": [
+       "is",
+       "are"
+      ],
+      "after": "far away.",
+      "a": "is"
+     },
+     {
+      "before": "You",
+      "options": [
+       "is",
+       "are"
+      ],
+      "after": "too close to the yellow line.",
+      "a": "are"
+     },
+     {
+      "before": "My brother and his friend",
+      "options": [
+       "is",
+       "are"
+      ],
+      "after": "by the map.",
+      "a": "are"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match to make a sentence.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "I",
+      "right": "am holding the handle."
+     },
+     {
+      "left": "The escalator",
+      "right": "is moving up."
+     },
+     {
+      "left": "The shops at the station",
+      "right": "are not open yet."
+     },
+     {
+      "left": "We",
+      "right": "are getting off at the next stop."
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Each sentence has a mistake. Write it correctly.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "The lights is bright in the tunnel.",
+      "a": "The lights are bright in the tunnel."
+     },
+     {
+      "q": "The next stop are Mall of the Emirates.",
+      "a": "The next stop is Mall of the Emirates."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "is-are-was-were-06",
+  "topic": "is-are-was-were",
+  "number": 6,
+  "level": "Practice",
+  "title": "The Kite Festival in Jaipur",
+  "intro": "Last January, Leela's family flew kites on the roof on Makar Sankranti.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write was or were.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "I",
+      "a": "was"
+     },
+     {
+      "q": "we",
+      "a": "were"
+     },
+     {
+      "q": "the sky",
+      "a": "was"
+     },
+     {
+      "q": "the kites",
+      "a": "were"
+     },
+     {
+      "q": "they",
+      "a": "were"
+     },
+     {
+      "q": "she",
+      "a": "was"
+     },
+     {
+      "q": "you",
+      "a": "were"
+     },
+     {
+      "q": "my cousins",
+      "a": "were"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in was or were.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "Last January we ___ in Jaipur for the kite festival.",
+      "a": "were"
+     },
+     {
+      "q": "The sky ___ full of colours.",
+      "a": "was"
+     },
+     {
+      "q": "The rooftops ___ crowded.",
+      "a": "were"
+     },
+     {
+      "q": "My kite ___ red with a long tail.",
+      "a": "was"
+     },
+     {
+      "q": "The til laddoos ___ sweet and warm.",
+      "a": "were"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Uncle Dev",
+      "options": [
+       "was",
+       "were"
+      ],
+      "after": "the best flyer on our roof.",
+      "a": "was"
+     },
+     {
+      "before": "The strings",
+      "options": [
+       "was",
+       "were"
+      ],
+      "after": "very sharp.",
+      "a": "were"
+     },
+     {
+      "before": "I",
+      "options": [
+       "was",
+       "were"
+      ],
+      "after": "careful with my fingers.",
+      "a": "was"
+     },
+     {
+      "before": "Leela and Omar",
+      "options": [
+       "was",
+       "were"
+      ],
+      "after": "on the next roof.",
+      "a": "were"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Each sentence has a mistake. Write it correctly.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "The kites was high above the fort.",
+      "a": "The kites were high above the fort."
+     },
+     {
+      "q": "It were windy all morning.",
+      "a": "It was windy all morning."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about a festival you went to. Use was and were.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check: was with one, were with many."
+   }
+  ]
+ },
+ {
+  "id": "is-are-was-were-07",
+  "topic": "is-are-was-were",
+  "number": 7,
+  "level": "Practice",
+  "title": "Our Garden, Then and Now",
+  "intro": "The garden has changed a lot since last year. Think: is it now, or was it before?",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the words. Do they tell about now or the past?",
+    "marks": 10,
+    "groups": [
+     "Now",
+     "Past"
+    ],
+    "words": [
+     "am",
+     "at present",
+     "today",
+     "yesterday",
+     "last week",
+     "was",
+     "were",
+     "is",
+     "are",
+     "long ago"
+    ],
+    "a": {
+     "am": "Now",
+     "at present": "Now",
+     "today": "Now",
+     "yesterday": "Past",
+     "last week": "Past",
+     "was": "Past",
+     "were": "Past",
+     "is": "Now",
+     "are": "Now",
+     "long ago": "Past"
+    }
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 5,
+    "items": [
+     {
+      "before": "Last year the mango tree",
+      "options": [
+       "is",
+       "was"
+      ],
+      "after": "small.",
+      "a": "was"
+     },
+     {
+      "before": "Now it",
+      "options": [
+       "is",
+       "was"
+      ],
+      "after": "taller than Papa.",
+      "a": "is"
+     },
+     {
+      "before": "Yesterday the roses",
+      "options": [
+       "are",
+       "were"
+      ],
+      "after": "only buds.",
+      "a": "were"
+     },
+     {
+      "before": "Today they",
+      "options": [
+       "are",
+       "were"
+      ],
+      "after": "open.",
+      "a": "are"
+     },
+     {
+      "before": "Last week the pots",
+      "options": [
+       "are",
+       "were"
+      ],
+      "after": "empty.",
+      "a": "were"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in am, is, are, was or were.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The seeds were tiny last month. Now the plants ___ big.",
+      "a": "are"
+     },
+     {
+      "q": "The soil is wet today. Yesterday it ___ dry.",
+      "a": "was"
+     },
+     {
+      "q": "Two birds are in the nest now. Last week the eggs ___ there.",
+      "a": "were"
+     },
+     {
+      "q": "I was a helper last year. Now I ___ the garden captain.",
+      "a": "am"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write each sentence in the past. Change is to was and are to were.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "The grass is wet.",
+      "a": "The grass was wet."
+     },
+     {
+      "q": "The butterflies are near the lilies.",
+      "a": "The butterflies were near the lilies."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "is-are-was-were-08",
+  "topic": "is-are-was-were",
+  "number": 8,
+  "level": "Practice",
+  "title": "The Class Photo Album",
+  "intro": "Class 2 is looking at photos from last year. Everything in the album is in the past.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Is the sentence right? Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "We were in Class 1 last year.",
+      "a": true
+     },
+     {
+      "q": "Miss Fernandes were our teacher.",
+      "a": false
+     },
+     {
+      "q": "The twins was in the front row.",
+      "a": false
+     },
+     {
+      "q": "I was the shortest in the class.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in was or were.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "This photo ___ taken on Sports Day last year.",
+      "a": "was"
+     },
+     {
+      "q": "Hamza and Yuki ___ the fastest runners.",
+      "a": "were"
+     },
+     {
+      "q": "Our uniforms ___ white that day.",
+      "a": "were"
+     },
+     {
+      "q": "I ___ so proud of my team.",
+      "a": "was"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match to make a sentence.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "I",
+      "right": "was only six then."
+     },
+     {
+      "left": "The picnic",
+      "right": "was at Zabeel Park."
+     },
+     {
+      "left": "My friends",
+      "right": "were all in fancy dress."
+     },
+     {
+      "left": "You",
+      "right": "were the lion in the play."
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Last Friday the album",
+      "options": [
+       "is",
+       "was"
+      ],
+      "after": "on the teacher's desk.",
+      "a": "was"
+     },
+     {
+      "before": "The photos",
+      "options": [
+       "was",
+       "were"
+      ],
+      "after": "from our annual day.",
+      "a": "were"
+     },
+     {
+      "before": "Our costumes",
+      "options": [
+       "was",
+       "were"
+      ],
+      "after": "very bright.",
+      "a": "were"
+     },
+     {
+      "before": "The stage",
+      "options": [
+       "was",
+       "were"
+      ],
+      "after": "full of flowers.",
+      "a": "was"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about an old photo of you. Use was and were.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I was three years old. My parents were next to me."
+   }
+  ]
+ },
+ {
+  "id": "is-are-was-were-09",
+  "topic": "is-are-was-were",
+  "number": 9,
+  "level": "Practice",
+  "title": "The Lunch Break",
+  "intro": "The bell has rung and Class 2 is in the dining hall. Use There is for one and There are for many.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle is or are.",
+    "marks": 5,
+    "items": [
+     {
+      "before": "There",
+      "options": [
+       "is",
+       "are"
+      ],
+      "after": "a banana in my tiffin.",
+      "a": "is"
+     },
+     {
+      "before": "There",
+      "options": [
+       "is",
+       "are"
+      ],
+      "after": "two idlis in Tara's box.",
+      "a": "are"
+     },
+     {
+      "before": "There",
+      "options": [
+       "is",
+       "are"
+      ],
+      "after": "many children in the dining hall.",
+      "a": "are"
+     },
+     {
+      "before": "There",
+      "options": [
+       "is",
+       "are"
+      ],
+      "after": "a water cooler near the door.",
+      "a": "is"
+     },
+     {
+      "before": "There",
+      "options": [
+       "is",
+       "are"
+      ],
+      "after": "no chips today.",
+      "a": "are"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in am, is or are.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "My sandwich ___ cut into triangles.",
+      "a": "is"
+     },
+     {
+      "q": "The grapes ___ sweet.",
+      "a": "are"
+     },
+     {
+      "q": "I ___ very hungry.",
+      "a": "am"
+     },
+     {
+      "q": "Nikhil and Sana ___ sharing their parathas.",
+      "a": "are"
+     },
+     {
+      "q": "The bell ___ about to ring.",
+      "a": "is"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Is the sentence right? Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "There is three spoons on the tray.",
+      "a": false
+     },
+     {
+      "q": "There are six benches in the hall.",
+      "a": true
+     },
+     {
+      "q": "My friends is at the tap.",
+      "a": false
+     },
+     {
+      "q": "The juice is cold.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Each sentence has a mistake. Write it correctly.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "There is five oranges in the basket.",
+      "a": "There are five oranges in the basket."
+     },
+     {
+      "q": "The lunch boxes is empty now.",
+      "a": "The lunch boxes are empty now."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "is-are-was-were-10",
+  "topic": "is-are-was-were",
+  "number": 10,
+  "level": "Practice",
+  "title": "A Day at Global Village",
+  "intro": "Last Saturday Hana's family went to Global Village. Today she is telling her friends about it.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in am, is, are, was or were.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "Last Saturday we ___ at Global Village.",
+      "a": "were"
+     },
+     {
+      "q": "The India pavilion ___ our first stop that day.",
+      "a": "was"
+     },
+     {
+      "q": "Now I ___ at home with my new lamp.",
+      "a": "am"
+     },
+     {
+      "q": "The photos ___ on Papa's phone now.",
+      "a": "are"
+     },
+     {
+      "q": "The fireworks ___ loud that night.",
+      "a": "were"
+     },
+     {
+      "q": "My lamp ___ on my study table today.",
+      "a": "is"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Change to the past.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "it is",
+      "a": "it was"
+     },
+     {
+      "q": "they are",
+      "a": "they were"
+     },
+     {
+      "q": "I am",
+      "a": "I was"
+     },
+     {
+      "q": "you are",
+      "a": "you were"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The boat ride",
+      "options": [
+       "is",
+       "are",
+       "was",
+       "were"
+      ],
+      "after": "fun last week.",
+      "a": "was"
+     },
+     {
+      "before": "The shops",
+      "options": [
+       "is",
+       "are",
+       "was",
+       "were"
+      ],
+      "after": "full of people that evening.",
+      "a": "were"
+     },
+     {
+      "before": "Today the park",
+      "options": [
+       "is",
+       "are",
+       "was",
+       "were"
+      ],
+      "after": "closed.",
+      "a": "is"
+     },
+     {
+      "before": "My feet",
+      "options": [
+       "is",
+       "are",
+       "was",
+       "were"
+      ],
+      "after": "still sore now.",
+      "a": "are"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the naming words. One or many?",
+    "marks": 8,
+    "groups": [
+     "One (is, was)",
+     "Many (are, were)"
+    ],
+    "words": [
+     "the stage",
+     "the stalls",
+     "six lamps",
+     "the dancers",
+     "the rides",
+     "the ticket",
+     "a camel",
+     "my cap"
+    ],
+    "a": {
+     "the stage": "One (is, was)",
+     "the stalls": "Many (are, were)",
+     "six lamps": "Many (are, were)",
+     "the dancers": "Many (are, were)",
+     "the rides": "Many (are, were)",
+     "the ticket": "One (is, was)",
+     "a camel": "One (is, was)",
+     "my cap": "One (is, was)"
+    }
+   },
+   {
+    "type": "lines",
+    "title": "Write about a trip. Use was or were in one sentence and is or are in the other.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check the helping verb matches the time and the number."
+   }
+  ]
+ },
+ {
+  "id": "is-are-was-were-11",
+  "topic": "is-are-was-were",
+  "number": 11,
+  "level": "Challenge",
+  "title": "The School Quiz Show",
+  "intro": "It is quiz day! To ask a question, put is, are, was or were first.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the right word to start the question.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "",
+      "options": [
+       "Is",
+       "Are"
+      ],
+      "after": "the buzzers on the table?",
+      "a": "Are"
+     },
+     {
+      "before": "",
+      "options": [
+       "Was",
+       "Were"
+      ],
+      "after": "your team first last year?",
+      "a": "Was"
+     },
+     {
+      "before": "",
+      "options": [
+       "Is",
+       "Are"
+      ],
+      "after": "Mr Khan the quiz master?",
+      "a": "Is"
+     },
+     {
+      "before": "",
+      "options": [
+       "Was",
+       "Were"
+      ],
+      "after": "the questions easy yesterday?",
+      "a": "Were"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each question to its answer.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Is Diya the captain?",
+      "right": "Yes, she is."
+     },
+     {
+      "left": "Are the judges here?",
+      "right": "Yes, they are."
+     },
+     {
+      "left": "Was the score a tie?",
+      "right": "No, it was not."
+     },
+     {
+      "left": "Were you nervous?",
+      "right": "Yes, I was."
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in Is, Are, Was or Were.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "___ you in the blue team today?",
+      "a": "Are"
+     },
+     {
+      "q": "___ the prize a trophy last time?",
+      "a": "Was"
+     },
+     {
+      "q": "___ this the final round?",
+      "a": "Is"
+     },
+     {
+      "q": "___ the answers correct yesterday?",
+      "a": "Were"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Turn each sentence into a question.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "The quiz is in the hall.",
+      "a": "Is the quiz in the hall?"
+     },
+     {
+      "q": "The teams are ready.",
+      "a": "Are the teams ready?"
+     },
+     {
+      "q": "The last round was hard.",
+      "a": "Was the last round hard?"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "is-are-was-were-12",
+  "topic": "is-are-was-were",
+  "number": 12,
+  "level": "Challenge",
+  "title": "The Lost Umbrella",
+  "intro": "Pooja cannot find her umbrella on a rainy day. Add not to say no.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the short form.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "is not",
+      "a": "isn't"
+     },
+     {
+      "q": "are not",
+      "a": "aren't"
+     },
+     {
+      "q": "was not",
+      "a": "wasn't"
+     },
+     {
+      "q": "were not",
+      "a": "weren't"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in is not, are not, am not, was not or were not.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "The umbrella ___ in my bag now. It is lost!",
+      "a": "is not / isn't"
+     },
+     {
+      "q": "My boots ___ wet now. They are dry.",
+      "a": "are not / aren't"
+     },
+     {
+      "q": "Yesterday the sky ___ clear. It was cloudy.",
+      "a": "was not / wasn't"
+     },
+     {
+      "q": "The buses ___ on time last evening. They were late.",
+      "a": "were not / weren't"
+     },
+     {
+      "q": "I ___ sad now, because Aunty Mei found it.",
+      "a": "am not"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Make each sentence negative. Add not.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The umbrella is under the bench.",
+      "a": "The umbrella is not under the bench."
+     },
+     {
+      "q": "The puddles were deep.",
+      "a": "The puddles were not deep."
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Is the sentence right? Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The raincoats was not dry.",
+      "a": false
+     },
+     {
+      "q": "It is not my umbrella.",
+      "a": true
+     },
+     {
+      "q": "We were not at the bus stop.",
+      "a": true
+     },
+     {
+      "q": "I are not cold.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right words.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "The clouds",
+      "options": [
+       "is not",
+       "are not"
+      ],
+      "after": "dark any more.",
+      "a": "are not"
+     },
+     {
+      "before": "Yesterday my shoes",
+      "options": [
+       "was not",
+       "were not"
+      ],
+      "after": "clean.",
+      "a": "were not"
+     },
+     {
+      "before": "This",
+      "options": [
+       "is not",
+       "are not"
+      ],
+      "after": "the right bus.",
+      "a": "is not"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "is-are-was-were-13",
+  "topic": "is-are-was-were",
+  "number": 13,
+  "level": "Challenge",
+  "title": "Grandma's Old Photographs",
+  "intro": "Dadi is showing Kiaan photos from when she was a little girl.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in is, are, was or were.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "Long ago Dadi's house ___ in a small village.",
+      "a": "was"
+     },
+     {
+      "q": "Now her home ___ in Pune.",
+      "a": "is"
+     },
+     {
+      "q": "Her brothers ___ farmers in those days.",
+      "a": "were"
+     },
+     {
+      "q": "Today they ___ grandfathers.",
+      "a": "are"
+     },
+     {
+      "q": "___ you a baby in this photo, Dadi?",
+      "a": "Were"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "",
+      "options": [
+       "Was",
+       "Were"
+      ],
+      "after": "this your school, Dadi?",
+      "a": "Was"
+     },
+     {
+      "before": "The photos",
+      "options": [
+       "is",
+       "are"
+      ],
+      "after": "black and white.",
+      "a": "are"
+     },
+     {
+      "before": "There",
+      "options": [
+       "was",
+       "were"
+      ],
+      "after": "no cars in the village then.",
+      "a": "were"
+     },
+     {
+      "before": "Dadi",
+      "options": [
+       "was",
+       "were"
+      ],
+      "after": "not afraid of the cows.",
+      "a": "was"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each question to its answer.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Was the house big?",
+      "right": "No, it was not."
+     },
+     {
+      "left": "Were your friends naughty?",
+      "right": "Yes, they were."
+     },
+     {
+      "left": "Is this your sister?",
+      "right": "Yes, she is."
+     },
+     {
+      "left": "Are these photos old?",
+      "right": "Yes, they are."
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Change each sentence to the past.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The village well is deep.",
+      "a": "The village well was deep."
+     },
+     {
+      "q": "The roads are muddy.",
+      "a": "The roads were muddy."
+     },
+     {
+      "q": "I am the youngest child.",
+      "a": "I was the youngest child."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "is-are-was-were-14",
+  "topic": "is-are-was-were",
+  "number": 14,
+  "level": "Challenge",
+  "title": "The Durga Puja Pandal",
+  "intro": "Bela's family visits the pandal every evening in Kolkata. Watch out for tricky sentences.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "There",
+      "options": [
+       "was",
+       "were"
+      ],
+      "after": "a huge crowd last night.",
+      "a": "was"
+     },
+     {
+      "before": "There",
+      "options": [
+       "was",
+       "were"
+      ],
+      "after": "hundreds of lamps.",
+      "a": "were"
+     },
+     {
+      "before": "My cousin and I",
+      "options": [
+       "was",
+       "were"
+      ],
+      "after": "in new clothes.",
+      "a": "were"
+     },
+     {
+      "before": "The sound of the drums",
+      "options": [
+       "was",
+       "were"
+      ],
+      "after": "loud.",
+      "a": "was"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in is, are, was or were.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The pandal ___ shaped like a palace this year.",
+      "a": "is"
+     },
+     {
+      "q": "Last year it ___ shaped like a ship.",
+      "a": "was"
+     },
+     {
+      "q": "The drummers ___ here now.",
+      "a": "are"
+     },
+     {
+      "q": "The streets ___ not empty last night.",
+      "a": "were"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Is the sentence right? Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Bela and her mother was at the pandal.",
+      "a": false
+     },
+     {
+      "q": "The lights were not off.",
+      "a": true
+     },
+     {
+      "q": "Is the drummers tired?",
+      "a": false
+     },
+     {
+      "q": "I was with my grandparents.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Follow the instruction in brackets.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The bhog is hot. (make a question)",
+      "a": "Is the bhog hot?"
+     },
+     {
+      "q": "The dancers were tired. (make it negative)",
+      "a": "The dancers were not tired."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences about a festival night. Use were in one and are in the other.",
+    "marks": 2,
+    "lines": 2,
+    "a": "Answers will vary. Check: were for the past, are for now."
+   }
+  ]
+ },
+ {
+  "id": "is-are-was-were-15",
+  "topic": "is-are-was-were",
+  "number": 15,
+  "level": "Challenge",
+  "title": "The Weather Report",
+  "intro": "Rashid reads the weather on the school radio. He tells about today and yesterday.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write am, is, are, was or were.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "today it",
+      "a": "is"
+     },
+     {
+      "q": "yesterday it",
+      "a": "was"
+     },
+     {
+      "q": "now we",
+      "a": "are"
+     },
+     {
+      "q": "last week we",
+      "a": "were"
+     },
+     {
+      "q": "today I",
+      "a": "am"
+     },
+     {
+      "q": "last night I",
+      "a": "was"
+     },
+     {
+      "q": "now the clouds",
+      "a": "are"
+     },
+     {
+      "q": "yesterday the winds",
+      "a": "were"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in is, are, was or were.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "Today the sun ___ hot in Abu Dhabi.",
+      "a": "is"
+     },
+     {
+      "q": "Yesterday there ___ a sandstorm.",
+      "a": "was"
+     },
+     {
+      "q": "The roads ___ dusty last evening.",
+      "a": "were"
+     },
+     {
+      "q": "The skies ___ clear now.",
+      "a": "are"
+     },
+     {
+      "q": "___ it rainy in Kochi last Monday?",
+      "a": "Was"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Follow the instruction in brackets.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "The clouds are grey. (change to the past)",
+      "a": "The clouds were grey."
+     },
+     {
+      "q": "It was foggy in Delhi. (make a question)",
+      "a": "Was it foggy in Delhi?"
+     },
+     {
+      "q": "The nights are cold. (make it negative)",
+      "a": "The nights are not cold."
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "'Was the winds strong?' is right.",
+      "a": false
+     },
+     {
+      "q": "We use were with many things in the past.",
+      "a": true
+     },
+     {
+      "q": "'It is not sunny today' is right.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two sentences. Tell today's weather and yesterday's weather.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. Today it is sunny. Yesterday it was windy."
+   }
+  ]
+ }
+]

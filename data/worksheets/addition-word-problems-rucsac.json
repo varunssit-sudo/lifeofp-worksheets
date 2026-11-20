@@ -1,0 +1,1948 @@
+[
+  {
+    "id": "addition-word-problems-rucsac-01",
+    "topic": "addition-word-problems-rucsac",
+    "number": 1,
+    "level": "Starter",
+    "title": "The Tiffin Stall",
+    "intro": "Mira helps at her mother's tiffin stall before school. Learn the six RUCSAC steps and use them on a story sum.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each RUCSAC letter to its step.",
+        "marks": 6,
+        "items": [
+          {
+            "left": "Step 1: R",
+            "right": "Read"
+          },
+          {
+            "left": "Step 2: U",
+            "right": "Understand"
+          },
+          {
+            "left": "Step 3: C",
+            "right": "Choose"
+          },
+          {
+            "left": "Step 4: S",
+            "right": "Solve"
+          },
+          {
+            "left": "Step 5: A",
+            "right": "Answer"
+          },
+          {
+            "left": "Step 6: C",
+            "right": "Check"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Use the steps to solve the story sum.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Read: Mira sold 45 idlis in the morning and 32 in the evening. How many idlis did she sell altogether? The clue word is ___.",
+            "a": "altogether"
+          },
+          {
+            "q": "Understand: The numbers to circle are 45 and ___.",
+            "a": "32"
+          },
+          {
+            "q": "Choose: We must ___ 45 and 32.",
+            "a": "add"
+          },
+          {
+            "q": "Solve: 45 + 32 = ___.",
+            "a": "77"
+          },
+          {
+            "q": "Answer: Mira sold ___ idlis altogether.",
+            "a": "77"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The first step of RUCSAC is Read.",
+            "a": true
+          },
+          {
+            "q": "We solve the sum before we read the story.",
+            "a": false
+          },
+          {
+            "q": "The last step of RUCSAC is Check.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Solve in H T O.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "21",
+            "op": "+",
+            "bottom": "36",
+            "a": "57"
+          },
+          {
+            "top": "54",
+            "op": "+",
+            "bottom": "13",
+            "a": "67"
+          },
+          {
+            "top": "62",
+            "op": "+",
+            "bottom": "27",
+            "a": "89"
+          },
+          {
+            "top": "40",
+            "op": "+",
+            "bottom": "49",
+            "a": "89"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-word-problems-rucsac-02",
+    "topic": "addition-word-problems-rucsac",
+    "number": 2,
+    "level": "Starter",
+    "title": "Swimming Class at the Club",
+    "intro": "Aarush goes to swimming class every Saturday. Find the clue words that tell you to add.",
+    "sections": [
+      {
+        "type": "sort",
+        "title": "Sort the words. Which ones are addition clue words?",
+        "marks": 8,
+        "groups": [
+          "Tells us to add",
+          "Does not tell us to add"
+        ],
+        "words": [
+          "altogether",
+          "left",
+          "in all",
+          "total",
+          "fewer",
+          "sum",
+          "gave away",
+          "more"
+        ],
+        "a": {
+          "altogether": "Tells us to add",
+          "left": "Does not tell us to add",
+          "in all": "Tells us to add",
+          "total": "Tells us to add",
+          "fewer": "Does not tell us to add",
+          "sum": "Tells us to add",
+          "gave away": "Does not tell us to add",
+          "more": "Tells us to add"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Write the addition clue word.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "12 boys and 9 girls are in the pool. How many children are there altogether? Clue word: ___",
+            "a": "altogether"
+          },
+          {
+            "q": "What is the total of 15 floats and 4 floats? Clue word: ___",
+            "a": "total"
+          },
+          {
+            "q": "Find the sum of 30 and 8. Clue word: ___",
+            "a": "sum"
+          },
+          {
+            "q": "Aarush had 6 badges. He won 2 more. Clue word: ___",
+            "a": "more"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "To find how many in all, we",
+            "options": [
+              "add",
+              "subtract"
+            ],
+            "after": ".",
+            "a": "add"
+          },
+          {
+            "before": "The sign for addition is",
+            "options": [
+              "−",
+              "+"
+            ],
+            "after": ".",
+            "a": "+"
+          },
+          {
+            "before": "In RUCSAC, we circle the numbers and the",
+            "options": [
+              "clue words",
+              "names"
+            ],
+            "after": ".",
+            "a": "clue words"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Solve in H T O.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "33",
+            "op": "+",
+            "bottom": "25",
+            "a": "58"
+          },
+          {
+            "top": "71",
+            "op": "+",
+            "bottom": "16",
+            "a": "87"
+          },
+          {
+            "top": "42",
+            "op": "+",
+            "bottom": "54",
+            "a": "96"
+          },
+          {
+            "top": "80",
+            "op": "+",
+            "bottom": "17",
+            "a": "97"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the swimming problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "12 boys and 9 girls are in the pool. There are ___ children altogether.",
+            "a": "21"
+          },
+          {
+            "q": "Aarush swam 25 metres. Then he swam 20 metres more. He swam ___ metres in all.",
+            "a": "45"
+          },
+          {
+            "q": "The coach has 31 blue caps and 18 red caps. The total is ___ caps.",
+            "a": "49"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-word-problems-rucsac-03",
+    "topic": "addition-word-problems-rucsac",
+    "number": 3,
+    "level": "Starter",
+    "title": "The Bird Park in Mysuru",
+    "intro": "Pooja visits the bird park with her cousins. Circle the numbers and write the addition sentence.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read: Pooja saw 34 parrots and 25 pigeons. How many birds did she see in all?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The first number to circle is ___.",
+            "a": "34"
+          },
+          {
+            "q": "The second number to circle is ___.",
+            "a": "25"
+          },
+          {
+            "q": "The clue words are ___.",
+            "a": "in all"
+          },
+          {
+            "q": "The addition sentence is 34 + 25 = ___.",
+            "a": "59"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each story to its addition sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "12 swans and 7 ducks in all",
+            "right": "12 + 7"
+          },
+          {
+            "left": "20 owls and 14 more owls",
+            "right": "20 + 14"
+          },
+          {
+            "left": "The total of 7 eggs and 20 eggs",
+            "right": "7 + 20"
+          },
+          {
+            "left": "14 nests and 12 nests altogether",
+            "right": "14 + 12"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Solve in H T O.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "43",
+            "op": "+",
+            "bottom": "22",
+            "a": "65"
+          },
+          {
+            "top": "16",
+            "op": "+",
+            "bottom": "51",
+            "a": "67"
+          },
+          {
+            "top": "35",
+            "op": "+",
+            "bottom": "44",
+            "a": "79"
+          },
+          {
+            "top": "60",
+            "op": "+",
+            "bottom": "28",
+            "a": "88"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In the Understand step, we circle the numbers.",
+            "a": true
+          },
+          {
+            "q": "\"In all\" is a clue for addition.",
+            "a": true
+          },
+          {
+            "q": "An addition sentence uses the − sign.",
+            "a": false
+          },
+          {
+            "q": "34 + 25 = 58",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the addition sentence and the answer sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Dev counted 41 peacocks and 17 cranes. How many birds did he count altogether?",
+            "a": "41 + 17 = 58. Dev counted 58 birds altogether."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-word-problems-rucsac-04",
+    "topic": "addition-word-problems-rucsac",
+    "number": 4,
+    "level": "Starter",
+    "title": "The Lohri Bonfire",
+    "intro": "Families sing around the Lohri bonfire in Amritsar and share peanuts and popcorn. Finish each sum with an answer sentence and a check.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Use the steps to solve the story sum.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Read: Harleen has 28 peanuts. Her dadi gives her 15 more. How many peanuts does she have now? The clue word is ___.",
+            "a": "more"
+          },
+          {
+            "q": "Choose: We must ___ 28 and 15.",
+            "a": "add"
+          },
+          {
+            "q": "Solve: 28 + 15 = ___.",
+            "a": "43"
+          },
+          {
+            "q": "Answer: Harleen has ___ peanuts now.",
+            "a": "43"
+          },
+          {
+            "q": "Check: 15 + 28 = ___.",
+            "a": "43"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the step.",
+        "marks": 4,
+        "items": [
+          {
+            "before": "Writing \"There are 43 peanuts in all\" is the",
+            "options": [
+              "Answer",
+              "Read",
+              "Choose"
+            ],
+            "after": "step.",
+            "a": "Answer"
+          },
+          {
+            "before": "Adding again to make sure is the",
+            "options": [
+              "Solve",
+              "Check",
+              "Understand"
+            ],
+            "after": "step.",
+            "a": "Check"
+          },
+          {
+            "before": "Picking the + sign is the",
+            "options": [
+              "Choose",
+              "Answer",
+              "Read"
+            ],
+            "after": "step.",
+            "a": "Choose"
+          },
+          {
+            "before": "Adding in H T O columns is the",
+            "options": [
+              "Read",
+              "Solve",
+              "Check"
+            ],
+            "after": "step.",
+            "a": "Solve"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Solve in H T O. Carry when you need to.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "37",
+            "op": "+",
+            "bottom": "26",
+            "a": "63"
+          },
+          {
+            "top": "18",
+            "op": "+",
+            "bottom": "47",
+            "a": "65"
+          },
+          {
+            "top": "59",
+            "op": "+",
+            "bottom": "24",
+            "a": "83"
+          },
+          {
+            "top": "66",
+            "op": "+",
+            "bottom": "19",
+            "a": "85"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Check by adding in the other order.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "37 + 26 = 63. Check: 26 + 37 = ___",
+            "a": "63"
+          },
+          {
+            "q": "18 + 47 = 65. Check: 47 + 18 = ___",
+            "a": "65"
+          },
+          {
+            "q": "59 + 24 = 83. Check: 24 + 59 = ___",
+            "a": "83"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the addition sentence and the answer sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Gurpreet ate 19 pieces of popcorn. Simran ate 27. How many pieces did they eat in all?",
+            "a": "19 + 27 = 46. They ate 46 pieces in all."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-word-problems-rucsac-05",
+    "topic": "addition-word-problems-rucsac",
+    "number": 5,
+    "level": "Practice",
+    "title": "The Flower Market in Bengaluru",
+    "intro": "Before sunrise the flower market is full of jasmine, roses and marigolds. Use RUCSAC with bigger numbers.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Use the steps to solve the story sum.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Read: A seller has 136 roses and 48 lotus flowers. How many flowers does she have in all? The clue word is ___.",
+            "a": "in all"
+          },
+          {
+            "q": "Understand: The numbers to circle are 136 and ___.",
+            "a": "48"
+          },
+          {
+            "q": "Choose: We must ___ 136 and 48.",
+            "a": "add"
+          },
+          {
+            "q": "Solve: 136 + 48 = ___.",
+            "a": "184"
+          },
+          {
+            "q": "Answer: She has ___ flowers in all.",
+            "a": "184"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Solve in H T O. Carry when you need to.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "245",
+            "op": "+",
+            "bottom": "37",
+            "a": "282"
+          },
+          {
+            "top": "118",
+            "op": "+",
+            "bottom": "56",
+            "a": "174"
+          },
+          {
+            "top": "327",
+            "op": "+",
+            "bottom": "64",
+            "a": "391"
+          },
+          {
+            "top": "409",
+            "op": "+",
+            "bottom": "85",
+            "a": "494"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the questions. Do they tell us to add?",
+        "marks": 6,
+        "groups": [
+          "Add",
+          "Do not add"
+        ],
+        "words": [
+          "How many in all?",
+          "How many are left?",
+          "What is the total?",
+          "How many altogether?",
+          "How many were sold?",
+          "What is the sum?"
+        ],
+        "a": {
+          "How many in all?": "Add",
+          "How many are left?": "Do not add",
+          "What is the total?": "Add",
+          "How many altogether?": "Add",
+          "How many were sold?": "Do not add",
+          "What is the sum?": "Add"
+        }
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In 136 + 48, the ones add up to more than 9.",
+            "a": true
+          },
+          {
+            "q": "136 + 48 = 174",
+            "a": false
+          },
+          {
+            "q": "The answer sentence should have words and a number.",
+            "a": true
+          },
+          {
+            "q": "We can skip the Check step if we are fast.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the addition sentence and the answer sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Venkat made 152 jasmine strings on Monday and 39 on Tuesday. How many strings did he make altogether?",
+            "a": "152 + 39 = 191. Venkat made 191 strings altogether."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-word-problems-rucsac-06",
+    "topic": "addition-word-problems-rucsac",
+    "number": 6,
+    "level": "Practice",
+    "title": "The Ramadan Charity Box",
+    "intro": "Class 2 is collecting money and food packs to share during Ramadan. Add the amounts step by step.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match what we do to the RUCSAC step.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "Circle the numbers and clue words",
+            "right": "Understand"
+          },
+          {
+            "left": "Add the ones, then the tens, then the hundreds",
+            "right": "Solve"
+          },
+          {
+            "left": "Write a full sentence with the number",
+            "right": "Answer"
+          },
+          {
+            "left": "Decide to use the + sign",
+            "right": "Choose"
+          },
+          {
+            "left": "Add again in the other order",
+            "right": "Check"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Solve in H T O. Carry when you need to.",
+        "marks": 8,
+        "items": [
+          {
+            "top": "125",
+            "op": "+",
+            "bottom": "68",
+            "a": "193"
+          },
+          {
+            "top": "246",
+            "op": "+",
+            "bottom": "39",
+            "a": "285"
+          },
+          {
+            "top": "57",
+            "op": "+",
+            "bottom": "36",
+            "a": "93"
+          },
+          {
+            "top": "318",
+            "op": "+",
+            "bottom": "154",
+            "a": "472"
+          },
+          {
+            "top": "460",
+            "op": "+",
+            "bottom": "275",
+            "a": "735"
+          },
+          {
+            "top": "83",
+            "op": "+",
+            "bottom": "49",
+            "a": "132"
+          },
+          {
+            "top": "209",
+            "op": "+",
+            "bottom": "517",
+            "a": "726"
+          },
+          {
+            "top": "172",
+            "op": "+",
+            "bottom": "93",
+            "a": "265"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the charity problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Layla put ₹85 in the box. Omar put ₹60. The total is ₹ ___.",
+            "a": "145"
+          },
+          {
+            "q": "Class 2A packed 127 food boxes and Class 2B packed 135. They packed ___ boxes altogether.",
+            "a": "262"
+          },
+          {
+            "q": "The box had ₹340. Then the teacher added ₹250 more. Now it has ₹ ___.",
+            "a": "590"
+          },
+          {
+            "q": "Children gave 96 packets of dates and 78 bottles of water. They gave ___ things in all.",
+            "a": "174"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Think and write: Why is it good to check your answer?",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. Checking helps me find mistakes and be sure my answer is right."
+      }
+    ]
+  },
+  {
+    "id": "addition-word-problems-rucsac-07",
+    "topic": "addition-word-problems-rucsac",
+    "number": 7,
+    "level": "Practice",
+    "title": "The Kerala Houseboat Trip",
+    "intro": "Joseph and his family float down the backwaters on a houseboat. Watch for the clue word \"more\" in each story.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the addition clue word.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Joseph saw 24 boats. Then he saw 18 more. Clue word: ___",
+            "a": "more"
+          },
+          {
+            "q": "How many coconut trees are there in all? Clue words: ___",
+            "a": "in all"
+          },
+          {
+            "q": "What is the total number of fish? Clue word: ___",
+            "a": "total"
+          },
+          {
+            "q": "How many ducks swam past altogether? Clue word: ___",
+            "a": "altogether"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct addition sentence.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "24 boats and 18 more:",
+            "options": [
+              "24 + 18",
+              "24 − 18"
+            ],
+            "after": "",
+            "a": "24 + 18"
+          },
+          {
+            "before": "135 coconut trees and 47 banana trees in all:",
+            "options": [
+              "135 + 47",
+              "135 + 74"
+            ],
+            "after": "",
+            "a": "135 + 47"
+          },
+          {
+            "before": "The total of 206 fish and 58 fish:",
+            "options": [
+              "206 + 85",
+              "206 + 58"
+            ],
+            "after": "",
+            "a": "206 + 58"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Solve in H T O. Carry when you need to.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "135",
+            "op": "+",
+            "bottom": "47",
+            "a": "182"
+          },
+          {
+            "top": "206",
+            "op": "+",
+            "bottom": "58",
+            "a": "264"
+          },
+          {
+            "top": "24",
+            "op": "+",
+            "bottom": "18",
+            "a": "42"
+          },
+          {
+            "top": "363",
+            "op": "+",
+            "bottom": "29",
+            "a": "392"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Use the steps to solve the story sum.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Read: Annie counted 157 lilies on one side of the river and 26 on the other. How many lilies did she count altogether? The clue word is ___.",
+            "a": "altogether"
+          },
+          {
+            "q": "Understand: The numbers to circle are 157 and ___.",
+            "a": "26"
+          },
+          {
+            "q": "Solve: 157 + 26 = ___.",
+            "a": "183"
+          },
+          {
+            "q": "Answer: Annie counted ___ lilies altogether.",
+            "a": "183"
+          },
+          {
+            "q": "Check: 26 + 157 = ___.",
+            "a": "183"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the addition sentence and the answer sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "The cook fried 48 banana chips. Then he fried 36 more. How many chips did he fry in all?",
+            "a": "48 + 36 = 84. He fried 84 chips in all."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-word-problems-rucsac-08",
+    "topic": "addition-word-problems-rucsac",
+    "number": 8,
+    "level": "Practice",
+    "title": "The School Annual Day",
+    "intro": "The hall is being set up for Annual Day with chairs, lights and costumes. Solve each story sum in H T O.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Solve in H T O. Carry when you need to.",
+        "marks": 8,
+        "items": [
+          {
+            "top": "135",
+            "op": "+",
+            "bottom": "248",
+            "a": "383"
+          },
+          {
+            "top": "326",
+            "op": "+",
+            "bottom": "157",
+            "a": "483"
+          },
+          {
+            "top": "412",
+            "op": "+",
+            "bottom": "369",
+            "a": "781"
+          },
+          {
+            "top": "254",
+            "op": "+",
+            "bottom": "483",
+            "a": "737"
+          },
+          {
+            "top": "167",
+            "op": "+",
+            "bottom": "251",
+            "a": "418"
+          },
+          {
+            "top": "508",
+            "op": "+",
+            "bottom": "236",
+            "a": "744"
+          },
+          {
+            "top": "391",
+            "op": "+",
+            "bottom": "446",
+            "a": "837"
+          },
+          {
+            "top": "273",
+            "op": "+",
+            "bottom": "164",
+            "a": "437"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each story to its addition sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "216 chairs and 145 more chairs",
+            "right": "216 + 145"
+          },
+          {
+            "left": "The total of 145 lights and 126 lights",
+            "right": "145 + 126"
+          },
+          {
+            "left": "126 dancers and 216 singers in all",
+            "right": "126 + 216"
+          },
+          {
+            "left": "154 parents and 216 children altogether",
+            "right": "154 + 216"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "216 + 145 = 361",
+            "a": true
+          },
+          {
+            "q": "145 + 126 = 261",
+            "a": false
+          },
+          {
+            "q": "126 + 216 = 342",
+            "a": true
+          },
+          {
+            "q": "We need two numbers before we can write an addition sentence.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the Annual Day problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "328 parents sat downstairs and 146 sat upstairs. ___ parents came in all.",
+            "a": "474"
+          },
+          {
+            "q": "The art club made 219 paper stars and 153 paper lanterns. The total is ___ decorations.",
+            "a": "372"
+          },
+          {
+            "q": "Class 2 sold 184 tickets on Thursday and 162 on Friday. They sold ___ tickets altogether.",
+            "a": "346"
+          },
+          {
+            "q": "Ms Kapoor ordered 275 samosas and 208 sandwiches. She ordered ___ snacks in all.",
+            "a": "483"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-word-problems-rucsac-09",
+    "topic": "addition-word-problems-rucsac",
+    "number": 9,
+    "level": "Practice",
+    "title": "The Pet Shop",
+    "intro": "Meher loves the pet shop near her house. Some of her sums have mistakes. Use the Check step to find them.",
+    "sections": [
+      {
+        "type": "truefalse",
+        "title": "Meher solved these sums. Circle True if she is right.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "46 + 37 = 73",
+            "a": false
+          },
+          {
+            "q": "58 + 34 = 92",
+            "a": true
+          },
+          {
+            "q": "127 + 64 = 181",
+            "a": false
+          },
+          {
+            "q": "235 + 45 = 280",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Use the steps to solve the story sum.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Read: The shop has 164 goldfish and 53 guppies. What is the total number of fish? The clue word is ___.",
+            "a": "total"
+          },
+          {
+            "q": "Understand: The numbers to circle are 164 and ___.",
+            "a": "53"
+          },
+          {
+            "q": "Choose: We must ___ 164 and 53.",
+            "a": "add"
+          },
+          {
+            "q": "Solve: 164 + 53 = ___.",
+            "a": "217"
+          },
+          {
+            "q": "Answer: The total is ___ fish.",
+            "a": "217"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Solve in H T O. Carry when you need to.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "46",
+            "op": "+",
+            "bottom": "37",
+            "a": "83"
+          },
+          {
+            "top": "127",
+            "op": "+",
+            "bottom": "64",
+            "a": "191"
+          },
+          {
+            "top": "235",
+            "op": "+",
+            "bottom": "45",
+            "a": "280"
+          },
+          {
+            "top": "382",
+            "op": "+",
+            "bottom": "71",
+            "a": "453"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the step.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Meher adds 37 + 46 to test her answer. This is the",
+            "options": [
+              "Check",
+              "Read",
+              "Choose"
+            ],
+            "after": "step.",
+            "a": "Check"
+          },
+          {
+            "before": "She circles 164 and 53. This is the",
+            "options": [
+              "Answer",
+              "Understand",
+              "Solve"
+            ],
+            "after": "step.",
+            "a": "Understand"
+          },
+          {
+            "before": "She reads the story two times. This is the",
+            "options": [
+              "Solve",
+              "Check",
+              "Read"
+            ],
+            "after": "step.",
+            "a": "Read"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the addition sentence and the answer sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "There are 76 budgies and 58 lovebirds in the shop. How many birds are there altogether?",
+            "a": "76 + 58 = 134. There are 134 birds altogether."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-word-problems-rucsac-10",
+    "topic": "addition-word-problems-rucsac",
+    "number": 10,
+    "level": "Practice",
+    "title": "The Juice Stand at Kite Beach",
+    "intro": "Salma and her brother run a juice stand at Kite Beach on Saturday. Use all six steps on your own.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Write the step for each letter.",
+        "marks": 6,
+        "items": [
+          {
+            "q": "R",
+            "a": "Read"
+          },
+          {
+            "q": "U",
+            "a": "Understand"
+          },
+          {
+            "q": "1st C",
+            "a": "Choose"
+          },
+          {
+            "q": "S",
+            "a": "Solve"
+          },
+          {
+            "q": "A",
+            "a": "Answer"
+          },
+          {
+            "q": "2nd C",
+            "a": "Check"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Write the addition clue word.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Salma sold 65 orange juices and 48 lemon juices altogether. Clue word: ___",
+            "a": "altogether"
+          },
+          {
+            "q": "She had 120 cups. Her brother brought 80 more. Clue word: ___",
+            "a": "more"
+          },
+          {
+            "q": "The sum of ₹250 and ₹175 is in the tin. Clue word: ___",
+            "a": "sum"
+          },
+          {
+            "q": "The total number of straws is 300. Clue word: ___",
+            "a": "total"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Solve in H T O.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "65",
+            "op": "+",
+            "bottom": "48",
+            "a": "113"
+          },
+          {
+            "top": "120",
+            "op": "+",
+            "bottom": "80",
+            "a": "200"
+          },
+          {
+            "top": "250",
+            "op": "+",
+            "bottom": "175",
+            "a": "425"
+          },
+          {
+            "top": "144",
+            "op": "+",
+            "bottom": "268",
+            "a": "412"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the juice stand problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Salma used 138 oranges in the morning and 95 in the afternoon. She used ___ oranges in all.",
+            "a": "233"
+          },
+          {
+            "q": "77 people came before noon and 86 came after. ___ people came altogether.",
+            "a": "163"
+          },
+          {
+            "q": "The stand earned ₹465 on Saturday and ₹380 on Sunday. The total is ₹ ___.",
+            "a": "845"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the addition sentence and the answer sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Salma cut 54 lemons. Then she cut 29 more. How many lemons did she cut in all?",
+            "a": "54 + 29 = 83. She cut 83 lemons in all."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-word-problems-rucsac-11",
+    "topic": "addition-word-problems-rucsac",
+    "number": 11,
+    "level": "Challenge",
+    "title": "The Museum Trip",
+    "intro": "Class 2 visits a museum in Sharjah. Some stories have a number you do not need. Read with care.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Write the number we do NOT need.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Zain is 8 years old. He saw 35 old coins and 27 clay pots. How many things did he see in all? ___",
+            "a": "8"
+          },
+          {
+            "q": "The bus left at 9 o'clock with 42 girls and 39 boys. How many children were on the bus? ___",
+            "a": "9"
+          },
+          {
+            "q": "Hall 3 has 126 paintings and 58 statues. How many works of art are in the hall altogether? ___",
+            "a": "3"
+          },
+          {
+            "q": "In 2 hours, Ruth drew 14 swords and 17 shields. How many drawings did she make in total? ___",
+            "a": "2"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Solve in H T O.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "35",
+            "op": "+",
+            "bottom": "27",
+            "a": "62"
+          },
+          {
+            "top": "42",
+            "op": "+",
+            "bottom": "39",
+            "a": "81"
+          },
+          {
+            "top": "126",
+            "op": "+",
+            "bottom": "58",
+            "a": "184"
+          },
+          {
+            "top": "14",
+            "op": "+",
+            "bottom": "17",
+            "a": "31"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve. Add all three numbers.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The museum has 215 coins, 132 stamps and 48 maps. It has ___ things in all.",
+            "a": "395"
+          },
+          {
+            "q": "164 children came on Monday, 120 on Tuesday and 97 on Wednesday. ___ children came altogether.",
+            "a": "381"
+          },
+          {
+            "q": "Tickets cost ₹150, lunch costs ₹85 and a postcard costs ₹25. The total is ₹ ___.",
+            "a": "260"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Every number in a story must be added.",
+            "a": false
+          },
+          {
+            "q": "A story sum can have three numbers to add.",
+            "a": true
+          },
+          {
+            "q": "215 + 132 + 48 = 395",
+            "a": true
+          },
+          {
+            "q": "Reading the story twice helps us understand it.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the addition sentence and the answer sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Row 5 of the shop has 68 toy camels and 74 toy boats. How many toys are in the row altogether?",
+            "a": "68 + 74 = 142. There are 142 toys in the row altogether."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-word-problems-rucsac-12",
+    "topic": "addition-word-problems-rucsac",
+    "number": 12,
+    "level": "Challenge",
+    "title": "The Tea Garden in Munnar",
+    "intro": "Green hills of tea cover Munnar. Workers pick leaves all day. These story sums need careful carrying.",
+    "sections": [
+      {
+        "type": "column",
+        "title": "Solve in H T O. Carry when you need to.",
+        "marks": 8,
+        "items": [
+          {
+            "top": "268",
+            "op": "+",
+            "bottom": "157",
+            "a": "425"
+          },
+          {
+            "top": "375",
+            "op": "+",
+            "bottom": "289",
+            "a": "664"
+          },
+          {
+            "top": "186",
+            "op": "+",
+            "bottom": "147",
+            "a": "333"
+          },
+          {
+            "top": "459",
+            "op": "+",
+            "bottom": "263",
+            "a": "722"
+          },
+          {
+            "top": "94",
+            "op": "+",
+            "bottom": "87",
+            "a": "181"
+          },
+          {
+            "top": "577",
+            "op": "+",
+            "bottom": "148",
+            "a": "725"
+          },
+          {
+            "top": "239",
+            "op": "+",
+            "bottom": "483",
+            "a": "722"
+          },
+          {
+            "top": "368",
+            "op": "+",
+            "bottom": "54",
+            "a": "422"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Use the steps to solve the story sum.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Read: Chinnamma picked 278 leaves before lunch and 165 after lunch. How many leaves did she pick altogether? The clue word is ___.",
+            "a": "altogether"
+          },
+          {
+            "q": "Understand: The numbers to circle are 278 and ___.",
+            "a": "165"
+          },
+          {
+            "q": "Solve: 278 + 165 = ___.",
+            "a": "443"
+          },
+          {
+            "q": "Answer: Chinnamma picked ___ leaves altogether.",
+            "a": "443"
+          },
+          {
+            "q": "Check: 165 + 278 = ___.",
+            "a": "443"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the best answer without adding fully.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "375 + 289 is",
+            "options": [
+              "more than 600",
+              "less than 600"
+            ],
+            "after": ".",
+            "a": "more than 600"
+          },
+          {
+            "before": "186 + 147 is",
+            "options": [
+              "more than 400",
+              "less than 400"
+            ],
+            "after": ".",
+            "a": "less than 400"
+          },
+          {
+            "before": "459 + 263 is",
+            "options": [
+              "more than 700",
+              "less than 700"
+            ],
+            "after": ".",
+            "a": "more than 700"
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the addition sentence and the answer sentence.",
+        "marks": 2,
+        "items": [
+          {
+            "q": "Basket A has 156 kg of tea. Basket B has 87 kg more than Basket A. How many kg does Basket B have?",
+            "a": "156 + 87 = 243. Basket B has 243 kg of tea."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-word-problems-rucsac-13",
+    "topic": "addition-word-problems-rucsac",
+    "number": 13,
+    "level": "Challenge",
+    "title": "The Baisakhi Mela",
+    "intro": "Drums, swings and food stalls fill the Baisakhi mela in Punjab. Some stories need two addition steps.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve in two steps.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Jasleen had 120 tokens. She won 45, so she had 120 + 45 = ___ tokens.",
+            "a": "165"
+          },
+          {
+            "q": "Then she won 30 more. Now she has 165 + 30 = ___ tokens.",
+            "a": "195"
+          },
+          {
+            "q": "A stall sold 86 jalebis and 57 ladoos. That is 86 + 57 = ___ sweets.",
+            "a": "143"
+          },
+          {
+            "q": "Then it sold 40 more sweets. In all it sold 143 + 40 = ___ sweets.",
+            "a": "183"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each story to its answer.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "35 swings and 25 slides in all",
+            "right": "60 rides"
+          },
+          {
+            "left": "148 kites and 52 more kites",
+            "right": "200 kites"
+          },
+          {
+            "left": "The total of 75 drums and 75 flutes",
+            "right": "150 instruments"
+          },
+          {
+            "left": "260 men and 240 women altogether",
+            "right": "500 people"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Solve in H T O.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "348",
+            "op": "+",
+            "bottom": "276",
+            "a": "624"
+          },
+          {
+            "top": "159",
+            "op": "+",
+            "bottom": "483",
+            "a": "642"
+          },
+          {
+            "top": "67",
+            "op": "+",
+            "bottom": "95",
+            "a": "162"
+          },
+          {
+            "top": "526",
+            "op": "+",
+            "bottom": "198",
+            "a": "724"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the stories. Do we add?",
+        "marks": 6,
+        "groups": [
+          "Add",
+          "Do not add"
+        ],
+        "words": [
+          "45 birds, then 12 more come",
+          "45 birds, then 12 fly away",
+          "30 red and 20 blue balloons in all",
+          "30 balloons, 20 pop",
+          "The total of 18 boys and 16 girls",
+          "18 laddoos, 6 are eaten"
+        ],
+        "a": {
+          "45 birds, then 12 more come": "Add",
+          "45 birds, then 12 fly away": "Do not add",
+          "30 red and 20 blue balloons in all": "Add",
+          "30 balloons, 20 pop": "Do not add",
+          "The total of 18 boys and 16 girls": "Add",
+          "18 laddoos, 6 are eaten": "Do not add"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Write your own story sum for 256 + 137. Then write the answer sentence.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. A stall had 256 bangles. It got 137 more. How many bangles in all? There are 393 bangles in all."
+      }
+    ]
+  },
+  {
+    "id": "addition-word-problems-rucsac-14",
+    "topic": "addition-word-problems-rucsac",
+    "number": 14,
+    "level": "Challenge",
+    "title": "The Supermarket Trolley",
+    "intro": "Tanvi and her father push a trolley around the supermarket. Add the prices in Rupees and check the bill.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Solve. Add all the prices.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Rice costs ₹240, dal costs ₹135 and oil costs ₹180. The total is ₹ ___.",
+            "a": "555"
+          },
+          {
+            "q": "Tanvi picks biscuits for ₹45 and juice for ₹85. She must pay ₹ ___ altogether.",
+            "a": "130"
+          },
+          {
+            "q": "Apples cost ₹160 and grapes cost ₹35 more than apples. Grapes cost ₹ ___.",
+            "a": "195"
+          },
+          {
+            "q": "The bill was ₹568. Then Papa added a ₹275 cake. Now the bill is ₹ ___.",
+            "a": "843"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add the prices in H T O.",
+        "marks": 8,
+        "items": [
+          {
+            "top": "199",
+            "op": "+",
+            "bottom": "250",
+            "a": "449"
+          },
+          {
+            "top": "345",
+            "op": "+",
+            "bottom": "175",
+            "a": "520"
+          },
+          {
+            "top": "99",
+            "op": "+",
+            "bottom": "65",
+            "a": "164"
+          },
+          {
+            "top": "420",
+            "op": "+",
+            "bottom": "389",
+            "a": "809"
+          },
+          {
+            "top": "275",
+            "op": "+",
+            "bottom": "149",
+            "a": "424"
+          },
+          {
+            "top": "88",
+            "op": "+",
+            "bottom": "44",
+            "a": "132"
+          },
+          {
+            "top": "560",
+            "op": "+",
+            "bottom": "295",
+            "a": "855"
+          },
+          {
+            "top": "129",
+            "op": "+",
+            "bottom": "399",
+            "a": "528"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Check each bill. Circle True if the total is right.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "₹199 + ₹250 = ₹449",
+            "a": true
+          },
+          {
+            "q": "₹345 + ₹175 = ₹510",
+            "a": false
+          },
+          {
+            "q": "₹99 + ₹65 = ₹164",
+            "a": true
+          },
+          {
+            "q": "₹420 + ₹389 = ₹709",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "rewrite",
+        "title": "Write the addition sentence and the answer sentence.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "A bag of flour costs ₹285 and a jar of honey costs ₹346. What is the total cost?",
+            "a": "285 + 346 = 631. The total cost is ₹631."
+          },
+          {
+            "q": "Tanvi has ₹150. Her aunt gives her ₹75 more. How much money does she have now?",
+            "a": "150 + 75 = 225. She has ₹225 now."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "addition-word-problems-rucsac-15",
+    "topic": "addition-word-problems-rucsac",
+    "number": 15,
+    "level": "Challenge",
+    "title": "The Mountain Trip to Hatta",
+    "intro": "Sana's family drives to the Hatta mountains for kayaking and a picnic. Show all you know about RUCSAC.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Sana adds 148 steps up and 276 steps down. Match what she does to the step.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "She circles 148, 276 and \"in all\"",
+            "right": "Understand"
+          },
+          {
+            "left": "She says, \"I will add\"",
+            "right": "Choose"
+          },
+          {
+            "left": "She works out 148 + 276 in H T O",
+            "right": "Solve"
+          },
+          {
+            "left": "She writes \"I took 424 steps in all\"",
+            "right": "Answer"
+          },
+          {
+            "left": "She works out 276 + 148",
+            "right": "Check"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the Hatta problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Sana saw 87 goats on one hill and 65 on the next. She saw ___ goats altogether.",
+            "a": "152"
+          },
+          {
+            "q": "The family drove 134 km to Hatta and 58 km around the dam. They drove ___ km in total.",
+            "a": "192"
+          },
+          {
+            "q": "At 4 o'clock, 46 red kayaks and 38 yellow kayaks were on the lake. There were ___ kayaks in all.",
+            "a": "84"
+          },
+          {
+            "q": "Baba took 125 photos on day one, 240 on day two and 96 on day three. He took ___ photos in all.",
+            "a": "461"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Solve in H T O.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "148",
+            "op": "+",
+            "bottom": "276",
+            "a": "424"
+          },
+          {
+            "top": "387",
+            "op": "+",
+            "bottom": "295",
+            "a": "682"
+          },
+          {
+            "top": "469",
+            "op": "+",
+            "bottom": "152",
+            "a": "621"
+          },
+          {
+            "top": "78",
+            "op": "+",
+            "bottom": "643",
+            "a": "721"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the correct answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The clue word in \"How many goats altogether?\" is",
+            "options": [
+              "goats",
+              "altogether",
+              "many"
+            ],
+            "after": ".",
+            "a": "altogether"
+          },
+          {
+            "before": "In the kayak story, the number we do not need is",
+            "options": [
+              "4",
+              "46",
+              "38"
+            ],
+            "after": ".",
+            "a": "4"
+          },
+          {
+            "before": "387 + 295 is",
+            "options": [
+              "more than 700",
+              "less than 700"
+            ],
+            "after": ".",
+            "a": "less than 700"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write your own story sum for 315 + 268. Then write the answer sentence.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. A camp had 315 tents and 268 more were put up. How many tents in all? There are 583 tents in all."
+      }
+    ]
+  }
+]

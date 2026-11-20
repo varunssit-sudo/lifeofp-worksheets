@@ -1,0 +1,2011 @@
+[
+ {
+  "id": "mental-maths-and-reasoning-puzzles-01",
+  "topic": "mental-maths-and-reasoning-puzzles",
+  "number": 1,
+  "level": "Starter",
+  "title": "The Morning Assembly Quiz",
+  "intro": "Ms Fernandes asks quick questions at assembly. Work out each answer in your head.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Add in your head.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "34 + 0",
+      "a": "34"
+     },
+     {
+      "q": "0 + 58",
+      "a": "58"
+     },
+     {
+      "q": "26 + 1",
+      "a": "27"
+     },
+     {
+      "q": "79 + 1",
+      "a": "80"
+     },
+     {
+      "q": "1 + 43",
+      "a": "44"
+     },
+     {
+      "q": "60 + 0",
+      "a": "60"
+     },
+     {
+      "q": "99 + 1",
+      "a": "100"
+     },
+     {
+      "q": "15 + 1",
+      "a": "16"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write 10 more or 10 less.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "10 more than 42 is ___.",
+      "a": "52"
+     },
+     {
+      "q": "10 less than 67 is ___.",
+      "a": "57"
+     },
+     {
+      "q": "10 more than 85 is ___.",
+      "a": "95"
+     },
+     {
+      "q": "10 less than 30 is ___.",
+      "a": "20"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each number word to its number.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "a century",
+      "right": "100"
+     },
+     {
+      "left": "a dozen",
+      "right": "12"
+     },
+     {
+      "left": "half a century",
+      "right": "50"
+     },
+     {
+      "left": "half a dozen",
+      "right": "6"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Adding 0 to a number does not change it.",
+      "a": true
+     },
+     {
+      "q": "Adding 1 gives the next number.",
+      "a": true
+     },
+     {
+      "q": "A triangle has 4 sides.",
+      "a": false
+     },
+     {
+      "q": "A dozen is the same as 10.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the riddles.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "I am a 2-digit number. My tens digit is 7 and my ones digit is 3. I am ___.",
+      "a": "73"
+     },
+     {
+      "q": "I have 3 sides and 3 corners. I am a ___.",
+      "a": "triangle"
+     },
+     {
+      "q": "I am the number that comes just after 39. I am ___.",
+      "a": "40"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mental-maths-and-reasoning-puzzles-02",
+  "topic": "mental-maths-and-reasoning-puzzles",
+  "number": 2,
+  "level": "Starter",
+  "title": "The Cricket Scoreboard",
+  "intro": "Kabir and his friends keep the score at a colony cricket match. A century is 100 runs.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Write the runs.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Kabir scored a century. That is ___ runs.",
+      "a": "100"
+     },
+     {
+      "q": "Zara scored a half-century. That is ___ runs.",
+      "a": "50"
+     },
+     {
+      "q": "Dev scored a century and 1 more run. He scored ___ runs.",
+      "a": "101"
+     },
+     {
+      "q": "Omar scored a half-century and then 10 more runs. He scored ___ runs.",
+      "a": "60"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Each batter hits 10 more runs. Write the new score.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "18 + 10",
+      "a": "28"
+     },
+     {
+      "q": "37 + 10",
+      "a": "47"
+     },
+     {
+      "q": "54 + 10",
+      "a": "64"
+     },
+     {
+      "q": "61 + 10",
+      "a": "71"
+     },
+     {
+      "q": "76 + 10",
+      "a": "86"
+     },
+     {
+      "q": "45 + 10",
+      "a": "55"
+     },
+     {
+      "q": "82 + 10",
+      "a": "92"
+     },
+     {
+      "q": "90 + 10",
+      "a": "100"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right number.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "A century is",
+      "options": [
+       "10",
+       "100",
+       "1000"
+      ],
+      "after": ".",
+      "a": "100"
+     },
+     {
+      "before": "A half-century is",
+      "options": [
+       "5",
+       "50",
+       "500"
+      ],
+      "after": ".",
+      "a": "50"
+     },
+     {
+      "before": "10 less than a century is",
+      "options": [
+       "90",
+       "99",
+       "110"
+      ],
+      "after": ".",
+      "a": "90"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "50 + 50 = 100",
+      "a": true
+     },
+     {
+      "q": "A half-century plus a half-century makes a century.",
+      "a": true
+     },
+     {
+      "q": "64 + 0 = 640",
+      "a": false
+     },
+     {
+      "q": "10 less than 71 is 61.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Think and write: Mei has 49 runs. How many more runs does she need for a half-century?",
+    "marks": 2,
+    "lines": 1,
+    "a": "1 more run, because 49 + 1 = 50."
+   }
+  ]
+ },
+ {
+  "id": "mental-maths-and-reasoning-puzzles-03",
+  "topic": "mental-maths-and-reasoning-puzzles",
+  "number": 3,
+  "level": "Starter",
+  "title": "The Egg Seller's Dozens",
+  "intro": "Uncle Joseph sells eggs and fruit by the dozen. A dozen is 12.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each basket to its number.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "2 dozen",
+      "right": "24"
+     },
+     {
+      "left": "a dozen and 1 more",
+      "right": "13"
+     },
+     {
+      "left": "half a dozen and 10 more",
+      "right": "16"
+     },
+     {
+      "left": "1 less than a dozen",
+      "right": "11"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the number.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Ishaan buys a dozen eggs. He buys ___ eggs.",
+      "a": "12"
+     },
+     {
+      "q": "Aunty Rose buys half a dozen bananas. She buys ___ bananas.",
+      "a": "6"
+     },
+     {
+      "q": "A dozen eggs and 10 more eggs make ___ eggs.",
+      "a": "22"
+     },
+     {
+      "q": "Half a dozen eggs plus 0 eggs is ___ eggs.",
+      "a": "6"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Write 10 less.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "95 − 10",
+      "a": "85"
+     },
+     {
+      "q": "48 − 10",
+      "a": "38"
+     },
+     {
+      "q": "33 − 10",
+      "a": "23"
+     },
+     {
+      "q": "70 − 10",
+      "a": "60"
+     },
+     {
+      "q": "52 − 10",
+      "a": "42"
+     },
+     {
+      "q": "81 − 10",
+      "a": "71"
+     },
+     {
+      "q": "19 − 10",
+      "a": "9"
+     },
+     {
+      "q": "64 − 10",
+      "a": "54"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Half a dozen is 6.",
+      "a": true
+     },
+     {
+      "q": "A dozen is more than 10.",
+      "a": true
+     },
+     {
+      "q": "Two half-dozens make a dozen.",
+      "a": true
+     },
+     {
+      "q": "A dozen plus a dozen is 22.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the riddles.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "An egg tray is a rectangle. A rectangle has ___ corners.",
+      "a": "4"
+     },
+     {
+      "q": "I am round like the top of a tin. I have no sides and no corners. I am a ___.",
+      "a": "circle"
+     },
+     {
+      "q": "I am a 2-digit number. Both my digits are 1. I am ___.",
+      "a": "11"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mental-maths-and-reasoning-puzzles-04",
+  "topic": "mental-maths-and-reasoning-puzzles",
+  "number": 4,
+  "level": "Starter",
+  "title": "Rangoli Shapes at Pongal",
+  "intro": "Tara and her cousins draw a rangoli with shapes for Pongal. Count sides and spot the patterns.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Count the sides and corners.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "A triangle has ___ sides.",
+      "a": "3"
+     },
+     {
+      "q": "A square has ___ corners.",
+      "a": "4"
+     },
+     {
+      "q": "A rectangle has ___ sides.",
+      "a": "4"
+     },
+     {
+      "q": "A circle has ___ sides.",
+      "a": "0"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "What comes next in the pattern?",
+    "marks": 4,
+    "items": [
+     {
+      "q": "circle, square, circle, square, ___",
+      "a": "circle"
+     },
+     {
+      "q": "triangle, triangle, circle, triangle, triangle, ___",
+      "a": "circle"
+     },
+     {
+      "q": "square, rectangle, square, rectangle, square, ___",
+      "a": "rectangle"
+     },
+     {
+      "q": "circle, triangle, square, circle, triangle, ___",
+      "a": "square"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the shapes.",
+    "marks": 6,
+    "groups": [
+     "Has corners",
+     "No corners"
+    ],
+    "words": [
+     "triangle",
+     "circle",
+     "square",
+     "oval",
+     "rectangle",
+     "diamond"
+    ],
+    "a": {
+     "triangle": "Has corners",
+     "circle": "No corners",
+     "square": "Has corners",
+     "oval": "No corners",
+     "rectangle": "Has corners",
+     "diamond": "Has corners"
+    }
+   },
+   {
+    "type": "pairs",
+    "title": "Quick sums for the rangoli helpers.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "27 + 1",
+      "a": "28"
+     },
+     {
+      "q": "44 + 0",
+      "a": "44"
+     },
+     {
+      "q": "53 + 10",
+      "a": "63"
+     },
+     {
+      "q": "68 − 10",
+      "a": "58"
+     },
+     {
+      "q": "0 + 91",
+      "a": "91"
+     },
+     {
+      "q": "39 + 1",
+      "a": "40"
+     },
+     {
+      "q": "75 + 10",
+      "a": "85"
+     },
+     {
+      "q": "20 − 10",
+      "a": "10"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Think and write: Tara draws 2 triangles. How many sides does she draw in all?",
+    "marks": 2,
+    "lines": 1,
+    "a": "6 sides, because 3 + 3 = 6."
+   }
+  ]
+ },
+ {
+  "id": "mental-maths-and-reasoning-puzzles-05",
+  "topic": "mental-maths-and-reasoning-puzzles",
+  "number": 5,
+  "level": "Practice",
+  "title": "The Metro Ride in Dubai",
+  "intro": "Layla and Arjun ride the Dubai Metro with Grandpa. Do every sum in your head before the next stop.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Add 10 or take away 10.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "136 + 10",
+      "a": "146"
+     },
+     {
+      "q": "248 + 10",
+      "a": "258"
+     },
+     {
+      "q": "592 + 10",
+      "a": "602"
+     },
+     {
+      "q": "889 + 10",
+      "a": "899"
+     },
+     {
+      "q": "305 − 10",
+      "a": "295"
+     },
+     {
+      "q": "471 − 10",
+      "a": "461"
+     },
+     {
+      "q": "620 − 10",
+      "a": "610"
+     },
+     {
+      "q": "714 − 10",
+      "a": "704"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the number.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "There are 127 people on the train. 1 more gets on. Now there are ___ people.",
+      "a": "128"
+     },
+     {
+      "q": "245 people are on the train. 0 people get off. ___ people are still on the train.",
+      "a": "245"
+     },
+     {
+      "q": "Layla's ticket number is 360. Arjun's number is 10 more. Arjun's number is ___.",
+      "a": "370"
+     },
+     {
+      "q": "Sofia counts 218 steps to the platform. Nikhil counts 10 fewer. Nikhil counts ___ steps.",
+      "a": "208"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right number.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "A century plus 10 is",
+      "options": [
+       "101",
+       "110",
+       "200"
+      ],
+      "after": ".",
+      "a": "110"
+     },
+     {
+      "before": "A dozen plus 1 is",
+      "options": [
+       "11",
+       "13",
+       "121"
+      ],
+      "after": ".",
+      "a": "13"
+     },
+     {
+      "before": "Half a century plus 0 is",
+      "options": [
+       "5",
+       "50",
+       "500"
+      ],
+      "after": ".",
+      "a": "50"
+     },
+     {
+      "before": "Half a dozen plus 10 is",
+      "options": [
+       "16",
+       "60",
+       "70"
+      ],
+      "after": ".",
+      "a": "16"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "In 472, the tens digit is 7.",
+      "a": true
+     },
+     {
+      "q": "10 more than 395 is 405.",
+      "a": true
+     },
+     {
+      "q": "560 − 10 = 460",
+      "a": false
+     },
+     {
+      "q": "A square has more sides than a triangle.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the number riddles.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "I am a 2-digit number. My tens digit is 6. My ones digit is 2 less than my tens digit. I am ___.",
+      "a": "64"
+     },
+     {
+      "q": "I am between 70 and 80. My ones digit is 9. I am ___.",
+      "a": "79"
+     },
+     {
+      "q": "I am a 3-digit number. All my digits are 4. I am ___.",
+      "a": "444"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mental-maths-and-reasoning-puzzles-06",
+  "topic": "mental-maths-and-reasoning-puzzles",
+  "number": 6,
+  "level": "Practice",
+  "title": "The Treasure Hunt in the Park",
+  "intro": "Hana and Rohan follow number clues to find a hidden box in Zabeel Park.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Solve the number riddles.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "I am a 2-digit number. My tens digit is 3. My ones digit is double my tens digit. I am ___.",
+      "a": "36"
+     },
+     {
+      "q": "I am between 50 and 60. My two digits are the same. I am ___.",
+      "a": "55"
+     },
+     {
+      "q": "I am a 2-digit number. My ones digit is 0. My tens digit is 1 more than 7. I am ___.",
+      "a": "80"
+     },
+     {
+      "q": "I am a 3-digit number. My hundreds digit is 2, my tens digit is 0 and my ones digit is 9. I am ___.",
+      "a": "209"
+     },
+     {
+      "q": "I am 1 more than half a century. I am ___.",
+      "a": "51"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each clue to the number on the tree.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "10 more than 88",
+      "right": "98"
+     },
+     {
+      "left": "a dozen plus half a dozen",
+      "right": "18"
+     },
+     {
+      "left": "1 more than 149",
+      "right": "150"
+     },
+     {
+      "left": "10 less than 203",
+      "right": "193"
+     },
+     {
+      "left": "half a century plus 10",
+      "right": "60"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The number 507 has 0 tens.",
+      "a": true
+     },
+     {
+      "q": "The ones digit of 318 is 3.",
+      "a": false
+     },
+     {
+      "q": "A rectangle has 4 corners.",
+      "a": true
+     },
+     {
+      "q": "76 + 0 is more than 76 + 1.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the shape clues.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The treasure map is a square. Cut it once from corner to corner. You get 2 ___.",
+      "a": "triangles / triangle"
+     },
+     {
+      "q": "The clue cards go: square, circle, circle, square, circle, circle, ___.",
+      "a": "square"
+     },
+     {
+      "q": "Put 2 squares side by side. They make one long ___.",
+      "a": "rectangle"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Make up your own number riddle. Write the answer too.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. I am a 2-digit number. My tens digit is 4 and my ones digit is 1. I am 41."
+   }
+  ]
+ },
+ {
+  "id": "mental-maths-and-reasoning-puzzles-07",
+  "topic": "mental-maths-and-reasoning-puzzles",
+  "number": 7,
+  "level": "Practice",
+  "title": "The Corner Bakery",
+  "intro": "Baker Yusuf sells buns, puffs and cupcakes by the dozen. Help him count quickly.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in the number.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "One box holds a dozen buns. 2 boxes hold ___ buns.",
+      "a": "24"
+     },
+     {
+      "q": "Amna buys half a dozen cupcakes. She eats 1. ___ cupcakes are left.",
+      "a": "5"
+     },
+     {
+      "q": "Rohan orders 3 dozen samosas. That is ___ samosas.",
+      "a": "36"
+     },
+     {
+      "q": "A tray has a dozen puffs. 10 are sold. ___ puffs are left.",
+      "a": "2"
+     },
+     {
+      "q": "Half a dozen and half a dozen make ___.",
+      "a": "12"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Work out each bill in your head.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "₹35 + ₹10",
+      "a": "45"
+     },
+     {
+      "q": "₹80 − ₹10",
+      "a": "70"
+     },
+     {
+      "q": "₹98 + ₹1",
+      "a": "99"
+     },
+     {
+      "q": "₹64 + ₹0",
+      "a": "64"
+     },
+     {
+      "q": "₹120 + ₹10",
+      "a": "130"
+     },
+     {
+      "q": "₹207 − ₹10",
+      "a": "197"
+     },
+     {
+      "q": "₹350 + ₹1",
+      "a": "351"
+     },
+     {
+      "q": "₹0 + ₹75",
+      "a": "75"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right words.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "A dozen is",
+      "options": [
+       "less than",
+       "more than"
+      ],
+      "after": "half a century.",
+      "a": "less than"
+     },
+     {
+      "before": "2 dozen is",
+      "options": [
+       "less than",
+       "more than"
+      ],
+      "after": "20.",
+      "a": "more than"
+     },
+     {
+      "before": "Half a dozen plus half a dozen is",
+      "options": [
+       "a dozen",
+       "a century"
+      ],
+      "after": ".",
+      "a": "a dozen"
+     },
+     {
+      "before": "A century is the same as",
+      "options": [
+       "5 tens",
+       "10 tens"
+      ],
+      "after": ".",
+      "a": "10 tens"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "A round cake seen from the top looks like a circle.",
+      "a": true
+     },
+     {
+      "q": "A square biscuit has 3 corners.",
+      "a": false
+     },
+     {
+      "q": "A dozen plus a dozen is 24.",
+      "a": true
+     },
+     {
+      "q": "Half a century is less than half a dozen.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Think and write: Diya has a century of rupees. A bun costs ₹10. How much is left after she buys one bun?",
+    "marks": 2,
+    "lines": 1,
+    "a": "₹90, because 100 − 10 = 90."
+   }
+  ]
+ },
+ {
+  "id": "mental-maths-and-reasoning-puzzles-08",
+  "topic": "mental-maths-and-reasoning-puzzles",
+  "number": 8,
+  "level": "Practice",
+  "title": "The Kite Festival in Ahmedabad",
+  "intro": "Vihaan and Elsa fly kites on Uttarayan. The sky is full of shapes and patterns.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "What comes next in the kite pattern?",
+    "marks": 4,
+    "items": [
+     {
+      "q": "triangle, square, square, triangle, square, square, triangle, ___",
+      "a": "square"
+     },
+     {
+      "q": "circle, circle, triangle, circle, circle, ___",
+      "a": "triangle"
+     },
+     {
+      "q": "rectangle, circle, triangle, rectangle, circle, triangle, ___",
+      "a": "rectangle"
+     },
+     {
+      "q": "circle, triangle, triangle, triangle, circle, triangle, triangle, triangle, ___",
+      "a": "circle"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Count in your head.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Vihaan's kite is a square with a triangle tail. The two shapes have ___ sides in all.",
+      "a": "7"
+     },
+     {
+      "q": "Elsa draws 3 triangles on her kite. They have ___ corners in all.",
+      "a": "9"
+     },
+     {
+      "q": "2 squares and 1 circle have ___ sides in all.",
+      "a": "8"
+     },
+     {
+      "q": "A rectangle has ___ more side than a triangle.",
+      "a": "1"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each clue to its shape.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "3 sides and 3 corners",
+      "right": "triangle"
+     },
+     {
+      "left": "4 equal sides",
+      "right": "square"
+     },
+     {
+      "left": "no sides and no corners",
+      "right": "circle"
+     },
+     {
+      "left": "2 long sides and 2 short sides",
+      "right": "rectangle"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Quick sums between the kite fights.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "315 + 10",
+      "a": "325"
+     },
+     {
+      "q": "190 + 10",
+      "a": "200"
+     },
+     {
+      "q": "402 − 10",
+      "a": "392"
+     },
+     {
+      "q": "87 + 1",
+      "a": "88"
+     },
+     {
+      "q": "0 + 266",
+      "a": "266"
+     },
+     {
+      "q": "700 − 10",
+      "a": "690"
+     },
+     {
+      "q": "549 + 1",
+      "a": "550"
+     },
+     {
+      "q": "91 − 10",
+      "a": "81"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "5 triangles have 15 sides in all.",
+      "a": true
+     },
+     {
+      "q": "A square and a rectangle have the same number of corners.",
+      "a": true
+     },
+     {
+      "q": "4 circles have 4 corners in all.",
+      "a": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mental-maths-and-reasoning-puzzles-09",
+  "topic": "mental-maths-and-reasoning-puzzles",
+  "number": 9,
+  "level": "Practice",
+  "title": "The Class Quiz Show",
+  "intro": "Class 2B plays a quiz show on Friday. Each team must answer without paper or pencil.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the right number.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "A half-century minus 10 is",
+      "options": [
+       "40",
+       "49",
+       "60"
+      ],
+      "after": ".",
+      "a": "40"
+     },
+     {
+      "before": "A dozen minus 1 is",
+      "options": [
+       "2",
+       "11",
+       "13"
+      ],
+      "after": ".",
+      "a": "11"
+     },
+     {
+      "before": "A century plus a half-century is",
+      "options": [
+       "105",
+       "150",
+       "200"
+      ],
+      "after": ".",
+      "a": "150"
+     },
+     {
+      "before": "2 dozen plus 10 is",
+      "options": [
+       "22",
+       "34",
+       "44"
+      ],
+      "after": ".",
+      "a": "34"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the number riddles.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "I am a 2-digit number. My ones digit is 8. My tens digit is half of my ones digit. I am ___.",
+      "a": "48"
+     },
+     {
+      "q": "I am between 20 and 30. My ones digit is 1 more than my tens digit. I am ___.",
+      "a": "23"
+     },
+     {
+      "q": "I am a 3-digit number. My hundreds digit is 6. My tens digit is 1 less than 6. My ones digit is 0. I am ___.",
+      "a": "650"
+     },
+     {
+      "q": "I am the smallest 3-digit number. Take 10 away from me and you get ___.",
+      "a": "90"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the quiz cards by their answers.",
+    "marks": 6,
+    "groups": [
+     "Answer is 100",
+     "Answer is 50"
+    ],
+    "words": [
+     "99 + 1",
+     "40 + 10",
+     "110 − 10",
+     "a century plus 0",
+     "60 − 10",
+     "half a century plus 0"
+    ],
+    "a": {
+     "99 + 1": "Answer is 100",
+     "40 + 10": "Answer is 50",
+     "110 − 10": "Answer is 100",
+     "a century plus 0": "Answer is 100",
+     "60 − 10": "Answer is 50",
+     "half a century plus 0": "Answer is 50"
+    }
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "438 + 10 = 448",
+      "a": true
+     },
+     {
+      "q": "600 − 10 = 500",
+      "a": false
+     },
+     {
+      "q": "10 more than 291 is 301.",
+      "a": true
+     },
+     {
+      "q": "0 added to a dozen is still a dozen.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Think and write: Which is more, 4 dozen or a half-century? Tell why.",
+    "marks": 2,
+    "lines": 1,
+    "a": "A half-century, because 4 dozen is 48 and a half-century is 50."
+   }
+  ]
+ },
+ {
+  "id": "mental-maths-and-reasoning-puzzles-10",
+  "topic": "mental-maths-and-reasoning-puzzles",
+  "number": 10,
+  "level": "Practice",
+  "title": "The Lift in the Tall Tower",
+  "intro": "Reyansh, Mira and Tom live in a tall tower in Mumbai. Ride the lift up and down in tens.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Which floor is the lift on now?",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The lift is on floor 34. It goes up 10 floors. Now it is on floor ___.",
+      "a": "44"
+     },
+     {
+      "q": "From floor 82 it goes down 10 floors. Now it is on floor ___.",
+      "a": "72"
+     },
+     {
+      "q": "From floor 57 it goes up 1 floor. Now it is on floor ___.",
+      "a": "58"
+     },
+     {
+      "q": "From floor 100 it goes down 10 floors, then 10 more. Now it is on floor ___.",
+      "a": "80"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Write the next number in each pattern.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "15, 25, 35",
+      "a": "45"
+     },
+     {
+      "q": "91, 81, 71",
+      "a": "61"
+     },
+     {
+      "q": "108, 118, 128",
+      "a": "138"
+     },
+     {
+      "q": "250, 240, 230",
+      "a": "220"
+     },
+     {
+      "q": "476, 486, 496",
+      "a": "506"
+     },
+     {
+      "q": "333, 323, 313",
+      "a": "303"
+     },
+     {
+      "q": "64, 74, 84",
+      "a": "94"
+     },
+     {
+      "q": "520, 510, 500",
+      "a": "490"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the words to the flat number.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "a century plus half a dozen",
+      "right": "106"
+     },
+     {
+      "left": "half a century plus a dozen",
+      "right": "62"
+     },
+     {
+      "left": "2 dozen plus 1",
+      "right": "25"
+     },
+     {
+      "left": "a century plus a century",
+      "right": "200"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The lift door is a rectangle. It has 4 sides.",
+      "a": true
+     },
+     {
+      "q": "The lift button is a circle. It has 1 corner.",
+      "a": false
+     },
+     {
+      "q": "10 less than 505 is 405.",
+      "a": false
+     },
+     {
+      "q": "Floor 69 is 10 more than floor 59.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Find the floor.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Reyansh's floor is between 40 and 50. Its ones digit is 7. He lives on floor ___.",
+      "a": "47"
+     },
+     {
+      "q": "Mira's floor is a 2-digit number. Both digits are the same and they add up to 6. She lives on floor ___.",
+      "a": "33"
+     },
+     {
+      "q": "Tom's floor is 1 less than a half-century. He lives on floor ___.",
+      "a": "49"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mental-maths-and-reasoning-puzzles-11",
+  "topic": "mental-maths-and-reasoning-puzzles",
+  "number": 11,
+  "level": "Challenge",
+  "title": "The Detective Club Number Hunt",
+  "intro": "The Detective Club has found secret numbers on a wall. Use each clue to crack the code.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Solve the 3-digit riddles.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "I am a 3-digit number. My hundreds digit is 4. My tens digit is 2 more than my hundreds digit. My ones digit is 1. I am ___.",
+      "a": "461"
+     },
+     {
+      "q": "Use the digits 7, 0 and 2 once each. The biggest number you can make is ___.",
+      "a": "720"
+     },
+     {
+      "q": "I am between 300 and 400. My tens digit and my ones digit are both 8. I am ___.",
+      "a": "388"
+     },
+     {
+      "q": "I am a 2-digit odd number. I am more than 97. I am ___.",
+      "a": "99"
+     },
+     {
+      "q": "I am a 3-digit number. My hundreds digit is 5 and my tens digit is 0. My three digits add up to 8. I am ___.",
+      "a": "503"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Do two steps in your head.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "10 more than 245, then 1 more, is ___.",
+      "a": "256"
+     },
+     {
+      "q": "10 less than 400, then 10 less again, is ___.",
+      "a": "380"
+     },
+     {
+      "q": "A century plus a dozen, then 10 more, is ___.",
+      "a": "122"
+     },
+     {
+      "q": "Half a century plus half a dozen, then take away 1, is ___.",
+      "a": "55"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The smallest 3-digit number made with the digits 3, 1 and 5 is 135.",
+      "a": true
+     },
+     {
+      "q": "In 908, the tens digit is 0.",
+      "a": true
+     },
+     {
+      "q": "10 more than 896 is 996.",
+      "a": false
+     },
+     {
+      "q": "The ones digit of 640 is 4.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each shape puzzle to its number.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "sides of 2 triangles",
+      "right": "6"
+     },
+     {
+      "left": "corners of 3 squares",
+      "right": "12"
+     },
+     {
+      "left": "sides of 1 rectangle and 1 triangle",
+      "right": "7"
+     },
+     {
+      "left": "corners of 5 circles",
+      "right": "0"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a riddle for the number 264. Use the words hundreds, tens and ones.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. I am a 3-digit number. My hundreds digit is 2, my tens digit is 6 and my ones digit is 4."
+   }
+  ]
+ },
+ {
+  "id": "mental-maths-and-reasoning-puzzles-12",
+  "topic": "mental-maths-and-reasoning-puzzles",
+  "number": 12,
+  "level": "Challenge",
+  "title": "The Eid Sweet Shop",
+  "intro": "It is Eid and the sweet shop in Old Delhi is very busy. Count the sweets in centuries and dozens.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match the words to the number.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "a century plus a dozen",
+      "right": "112"
+     },
+     {
+      "left": "a century minus a dozen",
+      "right": "88"
+     },
+     {
+      "left": "a half-century plus half a dozen",
+      "right": "56"
+     },
+     {
+      "left": "2 centuries plus a half-century",
+      "right": "250"
+     },
+     {
+      "left": "a century minus half a dozen",
+      "right": "94"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the number.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "The shop makes a century of jalebis. A half-century are sold. ___ jalebis are left.",
+      "a": "50"
+     },
+     {
+      "q": "Farah buys 2 dozen dates and half a dozen more. She buys ___ dates.",
+      "a": "30"
+     },
+     {
+      "q": "A box holds a dozen barfis. Kiran eats 1 and gives away 10. ___ barfi is left.",
+      "a": "1"
+     },
+     {
+      "q": "Luca counts a century of boxes, then 10 more, then 1 more. He counts ___ boxes.",
+      "a": "111"
+     },
+     {
+      "q": "A half-century of guests came. Half a dozen went home. ___ guests stayed.",
+      "a": "44"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Work out each bill in your head.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "₹250 + ₹10",
+      "a": "260"
+     },
+     {
+      "q": "₹399 + ₹1",
+      "a": "400"
+     },
+     {
+      "q": "₹500 − ₹10",
+      "a": "490"
+     },
+     {
+      "q": "₹145 − ₹10",
+      "a": "135"
+     },
+     {
+      "q": "₹608 − ₹10",
+      "a": "598"
+     },
+     {
+      "q": "₹0 + ₹912",
+      "a": "912"
+     },
+     {
+      "q": "₹790 + ₹10",
+      "a": "800"
+     },
+     {
+      "q": "₹101 − ₹1",
+      "a": "100"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right words.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "A century minus a dozen is",
+      "options": [
+       "less than",
+       "the same as",
+       "more than"
+      ],
+      "after": "a half-century plus a dozen.",
+      "a": "more than"
+     },
+     {
+      "before": "5 dozen is",
+      "options": [
+       "less than",
+       "the same as",
+       "more than"
+      ],
+      "after": "a half-century.",
+      "a": "more than"
+     },
+     {
+      "before": "8 dozen is",
+      "options": [
+       "less than",
+       "the same as",
+       "more than"
+      ],
+      "after": "a century.",
+      "a": "less than"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Think and write: How many full dozens can you take from a half-century? How many are left over?",
+    "marks": 2,
+    "lines": 1,
+    "a": "4 dozens, with 2 left over, because 12 + 12 + 12 + 12 = 48."
+   }
+  ]
+ },
+ {
+  "id": "mental-maths-and-reasoning-puzzles-13",
+  "topic": "mental-maths-and-reasoning-puzzles",
+  "number": 13,
+  "level": "Challenge",
+  "title": "The Carrom Tournament",
+  "intro": "Pari, Ben and Noor play in the building carrom tournament. Look at the shapes and the scores.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Solve the shape puzzles.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "A carrom board is a square. 4 boards have ___ corners in all.",
+      "a": "16"
+     },
+     {
+      "q": "Each carrom coin is a circle. 9 coins have ___ sides in all.",
+      "a": "0"
+     },
+     {
+      "q": "Pari cuts a square card into 2 triangles. The 2 triangles have ___ sides in all.",
+      "a": "6"
+     },
+     {
+      "q": "3 triangles and 2 squares have ___ corners in all.",
+      "a": "17"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "What comes next in the pattern?",
+    "marks": 4,
+    "items": [
+     {
+      "q": "circle, square, square, triangle, circle, square, ___",
+      "a": "square"
+     },
+     {
+      "q": "triangle, circle, rectangle, rectangle, triangle, circle, rectangle, ___",
+      "a": "rectangle"
+     },
+     {
+      "q": "square, square, circle, triangle, circle, square, square, circle, ___",
+      "a": "triangle"
+     },
+     {
+      "q": "rectangle, triangle, triangle, circle, rectangle, triangle, triangle, circle, rectangle, ___",
+      "a": "triangle"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Add up the scores in your head.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "295 + 10",
+      "a": "305"
+     },
+     {
+      "q": "804 − 10",
+      "a": "794"
+     },
+     {
+      "q": "999 + 0",
+      "a": "999"
+     },
+     {
+      "q": "409 − 10",
+      "a": "399"
+     },
+     {
+      "q": "590 + 10",
+      "a": "600"
+     },
+     {
+      "q": "0 + 467",
+      "a": "467"
+     },
+     {
+      "q": "899 + 1",
+      "a": "900"
+     },
+     {
+      "q": "111 − 10",
+      "a": "101"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "A shape with 3 corners has 3 sides.",
+      "a": true
+     },
+     {
+      "q": "2 rectangles have more sides than 3 triangles.",
+      "a": false
+     },
+     {
+      "q": "4 triangles have as many sides as 3 squares.",
+      "a": true
+     },
+     {
+      "q": "A circle has more corners than a square.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Think and write: Ben scored a half-century. Noor scored a dozen less. What did Noor score? Tell how you know.",
+    "marks": 2,
+    "lines": 1,
+    "a": "38, because 50 − 12 = 38."
+   }
+  ]
+ },
+ {
+  "id": "mental-maths-and-reasoning-puzzles-14",
+  "topic": "mental-maths-and-reasoning-puzzles",
+  "number": 14,
+  "level": "Challenge",
+  "title": "The Puzzle Corner at the Mall",
+  "intro": "Kiran and Anaya find a puzzle corner at the mall. Every card has a tricky clue.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Solve the number riddles.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "I am a 3-digit number. My ones digit is 6. My tens digit is half of my ones digit. My hundreds digit is 1 more than my ones digit. I am ___.",
+      "a": "736"
+     },
+     {
+      "q": "I am between 600 and 700. My tens digit is 0. My ones digit is the same as my hundreds digit. I am ___.",
+      "a": "606"
+     },
+     {
+      "q": "I am a 2-digit number. My tens digit is 8. My two digits add up to 9. I am ___.",
+      "a": "81"
+     },
+     {
+      "q": "I am 10 less than the biggest 3-digit number. I am ___.",
+      "a": "989"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the missing number.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "? + 10 = 572. The missing number is",
+      "options": [
+       "472",
+       "562",
+       "582"
+      ],
+      "after": ".",
+      "a": "562"
+     },
+     {
+      "before": "? − 10 = 199. The missing number is",
+      "options": [
+       "189",
+       "209",
+       "299"
+      ],
+      "after": ".",
+      "a": "209"
+     },
+     {
+      "before": "? + 1 = 800. The missing number is",
+      "options": [
+       "790",
+       "799",
+       "801"
+      ],
+      "after": ".",
+      "a": "799"
+     },
+     {
+      "before": "? + 0 = 364. The missing number is",
+      "options": [
+       "0",
+       "364",
+       "365"
+      ],
+      "after": ".",
+      "a": "364"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each number trail to where it ends.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "Start at 120. Add 10 three times.",
+      "right": "150"
+     },
+     {
+      "left": "Start at 500. Take away 10 two times.",
+      "right": "480"
+     },
+     {
+      "left": "Start at 96. Add 1 four times.",
+      "right": "100"
+     },
+     {
+      "left": "Start at a dozen. Add 10 two times.",
+      "right": "32"
+     },
+     {
+      "left": "Start at a half-century. Take away 10 three times.",
+      "right": "20"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Count the sides in all. Sort the cards.",
+    "marks": 6,
+    "groups": [
+     "Fewer than 7 sides",
+     "7 sides or more"
+    ],
+    "words": [
+     "2 triangles",
+     "2 squares",
+     "1 square and 1 circle",
+     "3 triangles",
+     "1 rectangle and 1 triangle",
+     "5 circles"
+    ],
+    "a": {
+     "2 triangles": "Fewer than 7 sides",
+     "2 squares": "7 sides or more",
+     "1 square and 1 circle": "Fewer than 7 sides",
+     "3 triangles": "7 sides or more",
+     "1 rectangle and 1 triangle": "7 sides or more",
+     "5 circles": "Fewer than 7 sides"
+    }
+   },
+   {
+    "type": "lines",
+    "title": "Think and write: Sam says 10 more than 594 is 5104. What is the right answer? What went wrong?",
+    "marks": 2,
+    "lines": 1,
+    "a": "The right answer is 604. 9 tens and 1 more ten make 10 tens, and that is 1 hundred."
+   }
+  ]
+ },
+ {
+  "id": "mental-maths-and-reasoning-puzzles-15",
+  "topic": "mental-maths-and-reasoning-puzzles",
+  "number": 15,
+  "level": "Challenge",
+  "title": "The Number Magician's Show",
+  "intro": "A number magician visits the school in Sharjah. Follow each trick step by step in your head.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Find the end number of each trick.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Think of 365. Add 10. Add 1. Add 0. You get ___.",
+      "a": "376"
+     },
+     {
+      "q": "Start with a century. Take away a dozen. Add 10. You get ___.",
+      "a": "98"
+     },
+     {
+      "q": "Start with half a dozen. Add a dozen. Add 1. You get ___.",
+      "a": "19"
+     },
+     {
+      "q": "Think of 801. Take away 10. Take away 1. You get ___.",
+      "a": "790"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the riddles.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "I am a 3-digit number. All my digits are the same. They add up to 15. I am ___.",
+      "a": "555"
+     },
+     {
+      "q": "I am a 3-digit number less than 200. My tens digit is 9 and my ones digit is 0. I am ___.",
+      "a": "190"
+     },
+     {
+      "q": "I am a 2-digit number. My ones digit is 5. My tens digit is 3 more than my ones digit. I am ___.",
+      "a": "85"
+     },
+     {
+      "q": "I am the number of sides on 2 squares and 2 triangles. I am ___.",
+      "a": "14"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "A century is the same as 10 tens.",
+      "a": true
+     },
+     {
+      "q": "A dozen plus a half-century is 72.",
+      "a": false
+     },
+     {
+      "q": "10 less than a century is 90.",
+      "a": true
+     },
+     {
+      "q": "Adding 0 again and again never changes a number.",
+      "a": true
+     },
+     {
+      "q": "1 more than 409 is 500.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each pattern to the shape that comes next.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "square, circle, square, circle, ?",
+      "right": "square"
+     },
+     {
+      "left": "circle, triangle, triangle, circle, triangle, ?",
+      "right": "triangle"
+     },
+     {
+      "left": "triangle, rectangle, circle, triangle, ?",
+      "right": "rectangle"
+     },
+     {
+      "left": "square, square, rectangle, circle, square, square, rectangle, ?",
+      "right": "circle"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Make up your own magic trick. Use a century, a dozen and add 10. Write the answer.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. Start with a century. Add a dozen. Add 10. You get 122."
+   }
+  ]
+ }
+]

@@ -1,0 +1,2090 @@
+[
+ {
+  "id": "compare-and-order-to-1000-01",
+  "topic": "compare-and-order-to-1000",
+  "number": 1,
+  "level": "Starter",
+  "title": "Queue Tokens at the Clinic",
+  "intro": "At the children's clinic every family takes a numbered token. Find the tokens that come before, after and in between.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the number that comes just after.",
+    "items": [
+     {
+      "q": "46",
+      "a": "47"
+     },
+     {
+      "q": "129",
+      "a": "130"
+     },
+     {
+      "q": "370",
+      "a": "371"
+     },
+     {
+      "q": "258",
+      "a": "259"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "pairs",
+    "title": "Write the number that comes just before.",
+    "items": [
+     {
+      "q": "81",
+      "a": "80"
+     },
+     {
+      "q": "200",
+      "a": "199"
+     },
+     {
+      "q": "345",
+      "a": "344"
+     },
+     {
+      "q": "517",
+      "a": "516"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Write the number in between.",
+    "items": [
+     {
+      "q": "163, ___, 165",
+      "a": "164"
+     },
+     {
+      "q": "289, ___, 291",
+      "a": "290"
+     },
+     {
+      "q": "437, ___, 439",
+      "a": "438"
+     },
+     {
+      "q": "600, ___, 602",
+      "a": "601"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "The number just after 199 is 200.",
+      "a": true
+     },
+     {
+      "q": "The number just before 150 is 151.",
+      "a": false
+     },
+     {
+      "q": "235 comes between 234 and 236.",
+      "a": true
+     },
+     {
+      "q": "The number just after 409 is 500.",
+      "a": false
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "match",
+    "title": "Match.",
+    "items": [
+     {
+      "left": "1 more than 62",
+      "right": "63"
+     },
+     {
+      "left": "1 less than 62",
+      "right": "61"
+     },
+     {
+      "left": "1 more than 620",
+      "right": "621"
+     },
+     {
+      "left": "1 less than 620",
+      "right": "619"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Help at the clinic.",
+    "items": [
+     {
+      "q": "Nisha has token 276. The next token is ___.",
+      "a": "277"
+     },
+     {
+      "q": "Dr. Thomas calls token 340. The token just before it was ___.",
+      "a": "339"
+     },
+     {
+      "q": "Rafael's token is between 118 and 120. It is ___.",
+      "a": "119"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "compare-and-order-to-1000-02",
+  "topic": "compare-and-order-to-1000",
+  "number": 2,
+  "level": "Starter",
+  "title": "Stickers in the Sticker Book",
+  "intro": "Giulia and her friends count the stickers in their books to see who has more.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the correct sign.",
+    "items": [
+     {
+      "before": "45",
+      "options": [
+       "<",
+       ">",
+       "="
+      ],
+      "after": "54",
+      "a": "<"
+     },
+     {
+      "before": "138",
+      "options": [
+       "<",
+       ">",
+       "="
+      ],
+      "after": "183",
+      "a": "<"
+     },
+     {
+      "before": "260",
+      "options": [
+       "<",
+       ">",
+       "="
+      ],
+      "after": "206",
+      "a": ">"
+     },
+     {
+      "before": "77",
+      "options": [
+       "<",
+       ">",
+       "="
+      ],
+      "after": "77",
+      "a": "="
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Write greater or smaller.",
+    "items": [
+     {
+      "q": "326 is ___ than 362.",
+      "a": "smaller / less"
+     },
+     {
+      "q": "510 is ___ than 501.",
+      "a": "greater / bigger / more"
+     },
+     {
+      "q": "98 is ___ than 112.",
+      "a": "smaller / less"
+     },
+     {
+      "q": "471 is ___ than 417.",
+      "a": "greater / bigger / more"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "The open mouth of the sign > faces the bigger number.",
+      "a": true
+     },
+     {
+      "q": "89 > 98",
+      "a": false
+     },
+     {
+      "q": "275 < 257",
+      "a": false
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "sort",
+    "title": "Sort the sticker counts.",
+    "marks": 3,
+    "groups": [
+     "Less than 250",
+     "More than 250"
+    ],
+    "words": [
+     "205",
+     "520",
+     "249",
+     "251",
+     "99",
+     "300"
+    ],
+    "a": {
+     "205": "Less than 250",
+     "520": "More than 250",
+     "249": "Less than 250",
+     "251": "More than 250",
+     "99": "Less than 250",
+     "300": "More than 250"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Who has more?",
+    "items": [
+     {
+      "q": "Giulia has 134 stickers and Kunal has 143. ___ has more stickers.",
+      "a": "Kunal"
+     },
+     {
+      "q": "Mei has 208 stickers and Aarushi has 280. ___ has fewer stickers.",
+      "a": "Mei"
+     },
+     {
+      "q": "Write >, < or =: 156 ___ 165",
+      "a": "<"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "compare-and-order-to-1000-03",
+  "topic": "compare-and-order-to-1000",
+  "number": 3,
+  "level": "Starter",
+  "title": "Dhow Boats on the Creek",
+  "intro": "Numbered dhow boats sail along Dubai Creek. Saeed puts their numbers in order.",
+  "sections": [
+   {
+    "type": "rewrite",
+    "title": "Write in ascending order (smallest first).",
+    "items": [
+     {
+      "q": "34, 12, 58, 25",
+      "a": "12, 25, 34, 58"
+     },
+     {
+      "q": "142, 124, 214, 112",
+      "a": "112, 124, 142, 214"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "rewrite",
+    "title": "Write in descending order (greatest first).",
+    "items": [
+     {
+      "q": "67, 91, 49, 76",
+      "a": "91, 76, 67, 49"
+     },
+     {
+      "q": "305, 350, 530, 503",
+      "a": "530, 503, 350, 305"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the smallest number.",
+    "items": [
+     {
+      "before": "",
+      "options": [
+       "215",
+       "152",
+       "251"
+      ],
+      "after": "",
+      "a": "152"
+     },
+     {
+      "before": "",
+      "options": [
+       "78",
+       "87",
+       "68"
+      ],
+      "after": "",
+      "a": "68"
+     },
+     {
+      "before": "",
+      "options": [
+       "409",
+       "490",
+       "400"
+      ],
+      "after": "",
+      "a": "400"
+     },
+     {
+      "before": "",
+      "options": [
+       "333",
+       "313",
+       "331"
+      ],
+      "after": "",
+      "a": "313"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "Ascending order goes from the smallest to the greatest.",
+      "a": true
+     },
+     {
+      "q": "8, 6, 4, 2 is in ascending order.",
+      "a": false
+     },
+     {
+      "q": "120, 210, 300 is in ascending order.",
+      "a": true
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "fill",
+    "title": "Line up the boats.",
+    "items": [
+     {
+      "q": "Boats 46, 64 and 40 line up from smallest to greatest. The first boat is ___.",
+      "a": "40"
+     },
+     {
+      "q": "Boats 317, 371 and 137 line up from greatest to smallest. The first boat is ___.",
+      "a": "371"
+     },
+     {
+      "q": "Boat ___ comes just after boat 59.",
+      "a": "60"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "compare-and-order-to-1000-04",
+  "topic": "compare-and-order-to-1000",
+  "number": 4,
+  "level": "Starter",
+  "title": "Samosas at the School Canteen",
+  "intro": "The canteen counts samosas, plates and juice boxes every day. Help compare the numbers.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the greatest number.",
+    "items": [
+     {
+      "before": "",
+      "options": [
+       "56",
+       "65",
+       "60"
+      ],
+      "after": "",
+      "a": "65"
+     },
+     {
+      "before": "",
+      "options": [
+       "243",
+       "234",
+       "324"
+      ],
+      "after": "",
+      "a": "324"
+     },
+     {
+      "before": "",
+      "options": [
+       "108",
+       "180",
+       "118"
+      ],
+      "after": "",
+      "a": "180"
+     },
+     {
+      "before": "",
+      "options": [
+       "575",
+       "557",
+       "755"
+      ],
+      "after": "",
+      "a": "755"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the digits you must compare.",
+    "items": [
+     {
+      "before": "To compare 452 and 425, look at the",
+      "options": [
+       "hundreds",
+       "tens",
+       "ones"
+      ],
+      "after": "digits.",
+      "a": "tens"
+     },
+     {
+      "before": "To compare 318 and 518, look at the",
+      "options": [
+       "hundreds",
+       "tens",
+       "ones"
+      ],
+      "after": "digits.",
+      "a": "hundreds"
+     },
+     {
+      "before": "To compare 764 and 769, look at the",
+      "options": [
+       "hundreds",
+       "tens",
+       "ones"
+      ],
+      "after": "digits.",
+      "a": "ones"
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "fill",
+    "title": "Write >, < or =.",
+    "items": [
+     {
+      "q": "63 ___ 36",
+      "a": ">"
+     },
+     {
+      "q": "219 ___ 291",
+      "a": "<"
+     },
+     {
+      "q": "540 ___ 540",
+      "a": "="
+     },
+     {
+      "q": "807 ___ 780",
+      "a": ">"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "match",
+    "title": "Match.",
+    "items": [
+     {
+      "left": "just after 99",
+      "right": "100"
+     },
+     {
+      "left": "just before 99",
+      "right": "98"
+     },
+     {
+      "left": "between 199 and 201",
+      "right": "200"
+     },
+     {
+      "left": "just after 209",
+      "right": "210"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Solve the canteen problems.",
+    "items": [
+     {
+      "q": "The canteen sold 125 samosas on Monday and 152 on Tuesday. It sold more on ___.",
+      "a": "Tuesday"
+     },
+     {
+      "q": "Ishita counts 98 plates and Harvey counts 89. ___ counts more.",
+      "a": "Ishita"
+     },
+     {
+      "q": "The greatest of 230, 203 and 302 is ___.",
+      "a": "302"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "compare-and-order-to-1000-05",
+  "topic": "compare-and-order-to-1000",
+  "number": 5,
+  "level": "Practice",
+  "title": "The Morning Walk in Zabeel Park",
+  "intro": "Alisha's family wears step counters on their morning walk. The numbers keep going up.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the number that comes just after.",
+    "items": [
+     {
+      "q": "199",
+      "a": "200"
+     },
+     {
+      "q": "349",
+      "a": "350"
+     },
+     {
+      "q": "500",
+      "a": "501"
+     },
+     {
+      "q": "689",
+      "a": "690"
+     },
+     {
+      "q": "409",
+      "a": "410"
+     },
+     {
+      "q": "799",
+      "a": "800"
+     },
+     {
+      "q": "910",
+      "a": "911"
+     },
+     {
+      "q": "999",
+      "a": "1000"
+     }
+    ],
+    "marks": 8
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct sign.",
+    "items": [
+     {
+      "before": "478",
+      "options": [
+       "<",
+       ">",
+       "="
+      ],
+      "after": "487",
+      "a": "<"
+     },
+     {
+      "before": "650",
+      "options": [
+       "<",
+       ">",
+       "="
+      ],
+      "after": "605",
+      "a": ">"
+     },
+     {
+      "before": "399",
+      "options": [
+       "<",
+       ">",
+       "="
+      ],
+      "after": "400",
+      "a": "<"
+     },
+     {
+      "before": "712",
+      "options": [
+       "<",
+       ">",
+       "="
+      ],
+      "after": "712",
+      "a": "="
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "rewrite",
+    "title": "Put the step counts in order.",
+    "items": [
+     {
+      "q": "Ascending: 456, 465, 546, 564, 446",
+      "a": "446, 456, 465, 546, 564"
+     },
+     {
+      "q": "Descending: 280, 208, 820, 802",
+      "a": "820, 802, 280, 208"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "The number just before 600 is 599.",
+      "a": true
+     },
+     {
+      "q": "701 comes between 699 and 701.",
+      "a": false
+     },
+     {
+      "q": "543 > 534",
+      "a": true
+     },
+     {
+      "q": "The number just after 999 is 1000.",
+      "a": true
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Read the step counters.",
+    "items": [
+     {
+      "q": "Dad walked 845 steps and Mum walked 854 steps. ___ walked more steps.",
+      "a": "Mum"
+     },
+     {
+      "q": "Alisha's counter shows 399. After one more step it shows ___.",
+      "a": "400"
+     },
+     {
+      "q": "A counter shows 700. Just before the last step it showed ___.",
+      "a": "699"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "compare-and-order-to-1000-06",
+  "topic": "compare-and-order-to-1000",
+  "number": 6,
+  "level": "Practice",
+  "title": "Eid Sweets for the Neighbours",
+  "intro": "Khadija's family packs boxes of sweets to share with the neighbours on Eid.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Write the missing number.",
+    "items": [
+     {
+      "q": "327, ___, 329",
+      "a": "328"
+     },
+     {
+      "q": "___, 450, 451",
+      "a": "449"
+     },
+     {
+      "q": "598, 599, ___",
+      "a": "600"
+     },
+     {
+      "q": "___, 300, 301",
+      "a": "299"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "sort",
+    "title": "Sort the numbers on the sweet boxes.",
+    "marks": 6,
+    "groups": [
+     "Less than 400",
+     "Between 400 and 600",
+     "More than 600"
+    ],
+    "words": [
+     "398",
+     "406",
+     "640",
+     "589",
+     "604",
+     "349"
+    ],
+    "a": {
+     "398": "Less than 400",
+     "406": "Between 400 and 600",
+     "640": "More than 600",
+     "589": "Between 400 and 600",
+     "604": "More than 600",
+     "349": "Less than 400"
+    }
+   },
+   {
+    "type": "choice",
+    "title": "Circle the greatest number.",
+    "items": [
+     {
+      "before": "",
+      "options": [
+       "631",
+       "613",
+       "361"
+      ],
+      "after": "",
+      "a": "631"
+     },
+     {
+      "before": "",
+      "options": [
+       "94",
+       "409",
+       "490"
+      ],
+      "after": "",
+      "a": "490"
+     },
+     {
+      "before": "",
+      "options": [
+       "877",
+       "787",
+       "778"
+      ],
+      "after": "",
+      "a": "877"
+     },
+     {
+      "before": "",
+      "options": [
+       "520",
+       "502",
+       "250"
+      ],
+      "after": "",
+      "a": "520"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "match",
+    "title": "Match.",
+    "items": [
+     {
+      "left": "1 more than 579",
+      "right": "580"
+     },
+     {
+      "left": "1 less than 579",
+      "right": "578"
+     },
+     {
+      "left": "10 more than 579",
+      "right": "589"
+     },
+     {
+      "left": "10 less than 579",
+      "right": "569"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Solve the Eid problems.",
+    "items": [
+     {
+      "q": "Khadija packs 248 pieces of baklava and Bilal packs 284. ___ packs fewer.",
+      "a": "Khadija"
+     },
+     {
+      "q": "Three trays have 120, 102 and 210 sweets. The fullest tray has ___ sweets.",
+      "a": "210"
+     },
+     {
+      "q": "Write >, < or =: 475 ___ 457",
+      "a": ">"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "compare-and-order-to-1000-07",
+  "topic": "compare-and-order-to-1000",
+  "number": 7,
+  "level": "Practice",
+  "title": "The Train to Jaipur",
+  "intro": "Lakshmi's family takes the night train to Jaipur. There are numbers on every coach and seat.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match.",
+    "items": [
+     {
+      "left": "just before 430",
+      "right": "429"
+     },
+     {
+      "left": "just after 430",
+      "right": "431"
+     },
+     {
+      "left": "between 438 and 440",
+      "right": "439"
+     },
+     {
+      "left": "just before 400",
+      "right": "399"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Write >, < or =.",
+    "items": [
+     {
+      "q": "286 ___ 268",
+      "a": ">"
+     },
+     {
+      "q": "594 ___ 954",
+      "a": "<"
+     },
+     {
+      "q": "810 ___ 801",
+      "a": ">"
+     },
+     {
+      "q": "377 ___ 377",
+      "a": "="
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "rewrite",
+    "title": "Put the seat numbers in order.",
+    "items": [
+     {
+      "q": "Ascending: 615, 156, 561, 165",
+      "a": "156, 165, 561, 615"
+     },
+     {
+      "q": "Descending: 732, 327, 723, 372",
+      "a": "732, 723, 372, 327"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct answer.",
+    "items": [
+     {
+      "before": "The smallest 3-digit number is",
+      "options": [
+       "100",
+       "101",
+       "111"
+      ],
+      "after": "",
+      "a": "100"
+     },
+     {
+      "before": "The greatest 3-digit number is",
+      "options": [
+       "900",
+       "990",
+       "999"
+      ],
+      "after": "",
+      "a": "999"
+     },
+     {
+      "before": "The greatest 2-digit number is",
+      "options": [
+       "90",
+       "99",
+       "100"
+      ],
+      "after": "",
+      "a": "99"
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "fill",
+    "title": "Solve the train problems.",
+    "items": [
+     {
+      "q": "Seats 61, 62 and ___ are side by side.",
+      "a": "63"
+     },
+     {
+      "q": "Lakshmi is in seat 219. Timur's seat number is one less. He is in seat ___.",
+      "a": "218"
+     },
+     {
+      "q": "Three stations have 265, 256 and 526 people waiting. The busiest has ___ people.",
+      "a": "526"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "compare-and-order-to-1000-08",
+  "topic": "compare-and-order-to-1000",
+  "number": 8,
+  "level": "Practice",
+  "title": "Mangoes at the Summer Orchard",
+  "intro": "It is mango season. Chetan and Amelia help count the baskets at the orchard.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the number that comes just before.",
+    "items": [
+     {
+      "q": "100",
+      "a": "99"
+     },
+     {
+      "q": "251",
+      "a": "250"
+     },
+     {
+      "q": "480",
+      "a": "479"
+     },
+     {
+      "q": "700",
+      "a": "699"
+     },
+     {
+      "q": "365",
+      "a": "364"
+     },
+     {
+      "q": "610",
+      "a": "609"
+     },
+     {
+      "q": "901",
+      "a": "900"
+     },
+     {
+      "q": "1000",
+      "a": "999"
+     }
+    ],
+    "marks": 8
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "A 3-digit number is always greater than a 2-digit number.",
+      "a": true
+     },
+     {
+      "q": "672 = 627",
+      "a": false
+     },
+     {
+      "q": "509 < 590",
+      "a": true
+     },
+     {
+      "q": "845 > 854",
+      "a": false
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the smallest number.",
+    "items": [
+     {
+      "before": "",
+      "options": [
+       "736",
+       "673",
+       "763"
+      ],
+      "after": "",
+      "a": "673"
+     },
+     {
+      "before": "",
+      "options": [
+       "150",
+       "105",
+       "115"
+      ],
+      "after": "",
+      "a": "105"
+     },
+     {
+      "before": "",
+      "options": [
+       "989",
+       "899",
+       "998"
+      ],
+      "after": "",
+      "a": "899"
+     },
+     {
+      "before": "",
+      "options": [
+       "420",
+       "402",
+       "240"
+      ],
+      "after": "",
+      "a": "240"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "rewrite",
+    "title": "Put the basket numbers in order.",
+    "items": [
+     {
+      "q": "Ascending: 390, 309, 93, 930, 903",
+      "a": "93, 309, 390, 903, 930"
+     },
+     {
+      "q": "Descending: 448, 484, 844, 488",
+      "a": "844, 488, 484, 448"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Solve the orchard problems.",
+    "items": [
+     {
+      "q": "Three baskets hold 175, 157 and 517 mangoes. The smallest basket has ___ mangoes.",
+      "a": "157"
+     },
+     {
+      "q": "Chetan picks 368 mangoes and Amelia picks 386. ___ picks more.",
+      "a": "Amelia"
+     },
+     {
+      "q": "The number between 799 and 801 is ___.",
+      "a": "800"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "compare-and-order-to-1000-09",
+  "topic": "compare-and-order-to-1000",
+  "number": 9,
+  "level": "Practice",
+  "title": "The Swimming Gala",
+  "intro": "Four houses race at the school swimming gala. Coach Rina writes the points on the board.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the correct sign.",
+    "items": [
+     {
+      "before": "389",
+      "options": [
+       "<",
+       ">",
+       "="
+      ],
+      "after": "398",
+      "a": "<"
+     },
+     {
+      "before": "702",
+      "options": [
+       "<",
+       ">",
+       "="
+      ],
+      "after": "699",
+      "a": ">"
+     },
+     {
+      "before": "555",
+      "options": [
+       "<",
+       ">",
+       "="
+      ],
+      "after": "555",
+      "a": "="
+     },
+     {
+      "before": "914",
+      "options": [
+       "<",
+       ">",
+       "="
+      ],
+      "after": "941",
+      "a": "<"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Put 318, 381 and 138 in ascending order.",
+    "items": [
+     {
+      "q": "The first number is ___.",
+      "a": "138"
+     },
+     {
+      "q": "The middle number is ___.",
+      "a": "318"
+     },
+     {
+      "q": "The last number is ___.",
+      "a": "381"
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "sort",
+    "title": "Sort the scores.",
+    "marks": 3,
+    "groups": [
+     "Smaller than 555",
+     "Greater than 555"
+    ],
+    "words": [
+     "565",
+     "545",
+     "556",
+     "554",
+     "655",
+     "455"
+    ],
+    "a": {
+     "565": "Greater than 555",
+     "545": "Smaller than 555",
+     "556": "Greater than 555",
+     "554": "Smaller than 555",
+     "655": "Greater than 555",
+     "455": "Smaller than 555"
+    }
+   },
+   {
+    "type": "pairs",
+    "title": "Write the number in between.",
+    "items": [
+     {
+      "q": "688 and 690",
+      "a": "689"
+     },
+     {
+      "q": "299 and 301",
+      "a": "300"
+     },
+     {
+      "q": "810 and 812",
+      "a": "811"
+     },
+     {
+      "q": "998 and 1000",
+      "a": "999"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the house points in descending order.",
+    "items": [
+     {
+      "q": "465, 456, 546, 564",
+      "a": "564, 546, 465, 456"
+     }
+    ],
+    "marks": 2
+   },
+   {
+    "type": "fill",
+    "title": "Read the points board.",
+    "items": [
+     {
+      "q": "Red House has 465 points and Blue House has 456. ___ House is ahead.",
+      "a": "Red"
+     },
+     {
+      "q": "The house with the most points has ___ points.",
+      "a": "564"
+     },
+     {
+      "q": "The house with the fewest points has ___ points.",
+      "a": "456"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "compare-and-order-to-1000-10",
+  "topic": "compare-and-order-to-1000",
+  "number": 10,
+  "level": "Practice",
+  "title": "Books at the Sharjah Book Fair",
+  "intro": "Hannah and Vikram visit the big book fair and look at stall numbers and price tags.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in the blanks.",
+    "items": [
+     {
+      "q": "The number just after 589 is ___.",
+      "a": "590"
+     },
+     {
+      "q": "The number just before 730 is ___.",
+      "a": "729"
+     },
+     {
+      "q": "The number between 904 and 906 is ___.",
+      "a": "905"
+     },
+     {
+      "q": "The number just after 699 is ___.",
+      "a": "700"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "match",
+    "title": "Match.",
+    "items": [
+     {
+      "left": "greatest of 417, 471, 741",
+      "right": "741"
+     },
+     {
+      "left": "smallest of 417, 471, 741",
+      "right": "417"
+     },
+     {
+      "left": "greatest of 174, 147, 714",
+      "right": "714"
+     },
+     {
+      "left": "smallest of 174, 147, 714",
+      "right": "147"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct sign.",
+    "items": [
+     {
+      "before": "608",
+      "options": [
+       "<",
+       ">",
+       "="
+      ],
+      "after": "680",
+      "a": "<"
+     },
+     {
+      "before": "953",
+      "options": [
+       "<",
+       ">",
+       "="
+      ],
+      "after": "935",
+      "a": ">"
+     },
+     {
+      "before": "246",
+      "options": [
+       "<",
+       ">",
+       "="
+      ],
+      "after": "246",
+      "a": "="
+     },
+     {
+      "before": "799",
+      "options": [
+       "<",
+       ">",
+       "="
+      ],
+      "after": "800",
+      "a": "<"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the prices from lowest to highest.",
+    "items": [
+     {
+      "q": "₹ 250, ₹ 205, ₹ 520, ₹ 502",
+      "a": "205, 250, 502, 520"
+     }
+    ],
+    "marks": 2
+   },
+   {
+    "type": "fill",
+    "title": "Solve the book fair problems.",
+    "items": [
+     {
+      "q": "Hannah's book has 96 pages and Vikram's has 69. ___ has the longer book.",
+      "a": "Hannah"
+     },
+     {
+      "q": "Stalls 348, 349 and ___ are in one row.",
+      "a": "350"
+     },
+     {
+      "q": "A comic costs ₹ 135 and a storybook costs ₹ 153. The cheaper one costs ₹ ___.",
+      "a": "135"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "compare-and-order-to-1000-11",
+  "topic": "compare-and-order-to-1000",
+  "number": 11,
+  "level": "Challenge",
+  "title": "Digit Cards at the Picnic",
+  "intro": "Parth brings digit cards to the family picnic. Everyone makes 3-digit numbers with them.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Make the greatest number with the digits.",
+    "items": [
+     {
+      "q": "3, 8, 5",
+      "a": "853"
+     },
+     {
+      "q": "6, 1, 9",
+      "a": "961"
+     },
+     {
+      "q": "2, 7, 4",
+      "a": "742"
+     },
+     {
+      "q": "5, 0, 8",
+      "a": "850"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "pairs",
+    "title": "Make the smallest 3-digit number with the digits.",
+    "items": [
+     {
+      "q": "4, 1, 7",
+      "a": "147"
+     },
+     {
+      "q": "9, 3, 6",
+      "a": "369"
+     },
+     {
+      "q": "8, 2, 5",
+      "a": "258"
+     },
+     {
+      "q": "6, 0, 3",
+      "a": "306"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "The greatest number made with 2, 9 and 4 is 942.",
+      "a": true
+     },
+     {
+      "q": "For the greatest number, put the biggest digit in the hundreds place.",
+      "a": true
+     },
+     {
+      "q": "The smallest number made with 7, 3 and 8 is 387.",
+      "a": false
+     },
+     {
+      "q": "The smallest 3-digit number made with 5, 0 and 1 is 150.",
+      "a": false
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct number.",
+    "items": [
+     {
+      "before": "Greatest number with 1, 6, 2:",
+      "options": [
+       "612",
+       "621",
+       "261"
+      ],
+      "after": "",
+      "a": "621"
+     },
+     {
+      "before": "Smallest number with 9, 4, 5:",
+      "options": [
+       "495",
+       "459",
+       "549"
+      ],
+      "after": "",
+      "a": "459"
+     },
+     {
+      "before": "Smallest 3-digit number with 0, 2, 7:",
+      "options": [
+       "270",
+       "207",
+       "702"
+      ],
+      "after": "",
+      "a": "207"
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "fill",
+    "title": "Play the card game.",
+    "items": [
+     {
+      "q": "Parth picks the cards 3, 7 and 1. The greatest number he can make is ___.",
+      "a": "731"
+     },
+     {
+      "q": "Freya picks 0, 4 and 9. The smallest 3-digit number she can make is ___.",
+      "a": "409"
+     },
+     {
+      "q": "Roshni makes 862 and 826 with her cards. The greater number is ___.",
+      "a": "862"
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "lines",
+    "title": "Use the digits 4, 6 and 1. Write the greatest and the smallest number you can make.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. Greatest: 641. Smallest: 146."
+   }
+  ]
+ },
+ {
+  "id": "compare-and-order-to-1000-12",
+  "topic": "compare-and-order-to-1000",
+  "number": 12,
+  "level": "Challenge",
+  "title": "Towers in the City",
+  "intro": "Zayn looks at a poster of tall towers. Each tower has its height and its number of floors.",
+  "sections": [
+   {
+    "type": "rewrite",
+    "title": "Put the numbers in order.",
+    "items": [
+     {
+      "q": "Ascending: 748, 487, 847, 478, 784",
+      "a": "478, 487, 748, 784, 847"
+     },
+     {
+      "q": "Descending: 596, 659, 569, 695, 965",
+      "a": "965, 695, 659, 596, 569"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Write the one digit that makes it true.",
+    "items": [
+     {
+      "q": "34_ > 348. The missing digit is ___.",
+      "a": "9"
+     },
+     {
+      "q": "6_5 < 615. The missing digit is ___.",
+      "a": "0"
+     },
+     {
+      "q": "_27 > 827. The missing digit is ___.",
+      "a": "9"
+     },
+     {
+      "q": "45_ < 451. The missing digit is ___.",
+      "a": "0"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct sign.",
+    "items": [
+     {
+      "before": "300 + 40 + 2",
+      "options": [
+       "<",
+       ">",
+       "="
+      ],
+      "after": "324",
+      "a": ">"
+     },
+     {
+      "before": "5 hundreds 6 tens",
+      "options": [
+       "<",
+       ">",
+       "="
+      ],
+      "after": "506",
+      "a": ">"
+     },
+     {
+      "before": "600 + 9",
+      "options": [
+       "<",
+       ">",
+       "="
+      ],
+      "after": "690",
+      "a": "<"
+     },
+     {
+      "before": "700 + 80",
+      "options": [
+       "<",
+       ">",
+       "="
+      ],
+      "after": "780",
+      "a": "="
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "There are 3 numbers between 396 and 400.",
+      "a": true
+     },
+     {
+      "q": "The number just after 899 is 890.",
+      "a": false
+     },
+     {
+      "q": "Every number from 500 to 599 is smaller than 600.",
+      "a": true
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "fill",
+    "title": "Solve the tower problems.",
+    "items": [
+     {
+      "q": "Three towers are 218 m, 281 m and 182 m tall. The tallest is ___ m tall.",
+      "a": "281"
+     },
+     {
+      "q": "Sky Tower has 105 floors and Palm Tower has 150 floors. ___ Tower has more floors.",
+      "a": "Palm"
+     },
+     {
+      "q": "How many numbers lie between 298 and 303? ___",
+      "a": "4"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "compare-and-order-to-1000-13",
+  "topic": "compare-and-order-to-1000",
+  "number": 13,
+  "level": "Challenge",
+  "title": "The Onam Boat Race",
+  "intro": "Long snake boats race on the backwaters of Kerala for Onam. Devika cheers from the bank.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in the blanks.",
+    "items": [
+     {
+      "q": "___ comes just before 800.",
+      "a": "799"
+     },
+     {
+      "q": "___ comes just after 609.",
+      "a": "610"
+     },
+     {
+      "q": "___ is between 989 and 991.",
+      "a": "990"
+     },
+     {
+      "q": "2 more than 399 is ___.",
+      "a": "401"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "sort",
+    "title": "Sort the boat numbers.",
+    "marks": 6,
+    "groups": [
+     "Smaller than 350",
+     "Between 350 and 650",
+     "Greater than 650"
+    ],
+    "words": [
+     "349",
+     "351",
+     "649",
+     "651",
+     "563",
+     "99"
+    ],
+    "a": {
+     "349": "Smaller than 350",
+     "351": "Between 350 and 650",
+     "649": "Between 350 and 650",
+     "651": "Greater than 650",
+     "563": "Between 350 and 650",
+     "99": "Smaller than 350"
+    }
+   },
+   {
+    "type": "rewrite",
+    "title": "Put the boat numbers in order.",
+    "items": [
+     {
+      "q": "Descending: 901, 910, 190, 109, 119",
+      "a": "910, 901, 190, 119, 109"
+     },
+     {
+      "q": "Ascending: 272, 227, 722, 277, 727",
+      "a": "227, 272, 277, 722, 727"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the number that fits.",
+    "items": [
+     {
+      "before": "Greater than 475 but smaller than 480:",
+      "options": [
+       "474",
+       "478",
+       "481"
+      ],
+      "after": "",
+      "a": "478"
+     },
+     {
+      "before": "Greater than 690 but smaller than 700:",
+      "options": [
+       "689",
+       "696",
+       "701"
+      ],
+      "after": "",
+      "a": "696"
+     },
+     {
+      "before": "Greater than 199 but smaller than 205:",
+      "options": [
+       "198",
+       "250",
+       "203"
+      ],
+      "after": "",
+      "a": "203"
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "fill",
+    "title": "Solve the boat race problems.",
+    "items": [
+     {
+      "q": "Three teams row 264, 246 and 426 strokes. The fewest strokes is ___.",
+      "a": "246"
+     },
+     {
+      "q": "Devika counts 599 people on the bank. One more comes. Now there are ___ people.",
+      "a": "600"
+     },
+     {
+      "q": "Write >, < or =: 818 ___ 881",
+      "a": "<"
+     }
+    ],
+    "marks": 3
+   }
+  ]
+ },
+ {
+  "id": "compare-and-order-to-1000-14",
+  "topic": "compare-and-order-to-1000",
+  "number": 14,
+  "level": "Challenge",
+  "title": "The Number Detective at the Museum",
+  "intro": "Detective Dhruv finds number clues hidden around the children's museum.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Who am I?",
+    "items": [
+     {
+      "q": "I come just after 699. I am ___.",
+      "a": "700"
+     },
+     {
+      "q": "I am between 540 and 550. My ones digit is 7. I am ___.",
+      "a": "547"
+     },
+     {
+      "q": "I am the greatest 3-digit number. I am ___.",
+      "a": "999"
+     },
+     {
+      "q": "I am greater than 298 and smaller than 300. I am ___.",
+      "a": "299"
+     },
+     {
+      "q": "I am the smallest 3-digit number. I am ___.",
+      "a": "100"
+     }
+    ],
+    "marks": 5
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "The smallest 3-digit number made with 4, 0 and 6 is 406.",
+      "a": true
+     },
+     {
+      "q": "689 is between 698 and 700.",
+      "a": false
+     },
+     {
+      "q": "401 > 399 because 4 hundreds are more than 3 hundreds.",
+      "a": true
+     },
+     {
+      "q": "910 < 901",
+      "a": false
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "match",
+    "title": "Match the clue to the number.",
+    "items": [
+     {
+      "left": "greatest number with 2, 5, 3",
+      "right": "532"
+     },
+     {
+      "left": "smallest number with 2, 5, 3",
+      "right": "235"
+     },
+     {
+      "left": "greatest number with 3, 0, 5",
+      "right": "530"
+     },
+     {
+      "left": "smallest 3-digit number with 3, 0, 5",
+      "right": "305"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct answer.",
+    "items": [
+     {
+      "before": "Which is in ascending order?",
+      "options": [
+       "214, 241, 412",
+       "241, 214, 412",
+       "412, 241, 214"
+      ],
+      "after": "",
+      "a": "214, 241, 412"
+     },
+     {
+      "before": "Which is in descending order?",
+      "options": [
+       "635, 653, 536",
+       "653, 635, 536",
+       "536, 635, 653"
+      ],
+      "after": "",
+      "a": "653, 635, 536"
+     },
+     {
+      "before": "765",
+      "options": [
+       "<",
+       ">",
+       "="
+      ],
+      "after": "756",
+      "a": ">"
+     }
+    ],
+    "marks": 3
+   },
+   {
+    "type": "lines",
+    "title": "Write your own number clue for 450. Use before, after or between.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I am between 449 and 451. Who am I?"
+   }
+  ]
+ },
+ {
+  "id": "compare-and-order-to-1000-15",
+  "topic": "compare-and-order-to-1000",
+  "number": 15,
+  "level": "Challenge",
+  "title": "Camping near Jebel Jais",
+  "intro": "Maryam and Rehan go camping in the mountains. They spot numbers on tents, signs and steps.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Make the greatest number with the digits.",
+    "items": [
+     {
+      "q": "7, 7, 2",
+      "a": "772"
+     },
+     {
+      "q": "0, 9, 1",
+      "a": "910"
+     },
+     {
+      "q": "4, 8, 8",
+      "a": "884"
+     },
+     {
+      "q": "3, 5, 0",
+      "a": "530"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "pairs",
+    "title": "Make the smallest 3-digit number with the digits.",
+    "items": [
+     {
+      "q": "6, 2, 6",
+      "a": "266"
+     },
+     {
+      "q": "0, 4, 4",
+      "a": "404"
+     },
+     {
+      "q": "9, 1, 5",
+      "a": "159"
+     },
+     {
+      "q": "0, 8, 3",
+      "a": "308"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "rewrite",
+    "title": "Put the numbers in order.",
+    "items": [
+     {
+      "q": "Ascending: 1000, 99, 909, 990, 900",
+      "a": "99, 900, 909, 990, 1000"
+     },
+     {
+      "q": "Descending: 64, 604, 640, 46, 460",
+      "a": "640, 604, 460, 64, 46"
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "items": [
+     {
+      "q": "1000 is greater than every 3-digit number.",
+      "a": true
+     },
+     {
+      "q": "99 > 101",
+      "a": false
+     },
+     {
+      "q": "To compare 356 and 365, we look at the tens digits.",
+      "a": true
+     },
+     {
+      "q": "Descending order means smallest first.",
+      "a": false
+     }
+    ],
+    "marks": 4
+   },
+   {
+    "type": "fill",
+    "title": "Solve the camping problems.",
+    "items": [
+     {
+      "q": "Tents 148, 184 and 418 stand in a row. The smallest tent number is ___.",
+      "a": "148"
+     },
+     {
+      "q": "Maryam climbs 760 steps and Rehan climbs 706. ___ climbs more steps.",
+      "a": "Maryam"
+     },
+     {
+      "q": "Torches are numbered 499, 500 and ___.",
+      "a": "501"
+     },
+     {
+      "q": "Two signs say 880 m and 808 m. The greater height is ___ m.",
+      "a": "880"
+     }
+    ],
+    "marks": 4
+   }
+  ]
+ }
+]

@@ -1,0 +1,2032 @@
+[
+ {
+  "id": "subtraction-word-problems-and-mental-maths-01",
+  "topic": "subtraction-word-problems-and-mental-maths",
+  "number": 1,
+  "level": "Starter",
+  "title": "The Lunch Box Swap",
+  "intro": "It is lunch break and Class 2 opens their tiffin boxes. Find out how much food is left.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Subtract in your head.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "9 − 0",
+      "a": "9"
+     },
+     {
+      "q": "14 − 1",
+      "a": "13"
+     },
+     {
+      "q": "27 − 0",
+      "a": "27"
+     },
+     {
+      "q": "30 − 1",
+      "a": "29"
+     },
+     {
+      "q": "45 − 1",
+      "a": "44"
+     },
+     {
+      "q": "58 − 0",
+      "a": "58"
+     },
+     {
+      "q": "61 − 1",
+      "a": "60"
+     },
+     {
+      "q": "100 − 1",
+      "a": "99"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the story sums. Look for the word left.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Tara had 18 grapes. She ate 6. ___ grapes are left.",
+      "a": "12"
+     },
+     {
+      "q": "Mum packed 12 carrot sticks. Dev ate 5. ___ carrot sticks are left.",
+      "a": "7"
+     },
+     {
+      "q": "The class had 36 juice boxes. The children drank 14. ___ juice boxes are left.",
+      "a": "22"
+     },
+     {
+      "q": "Ishaan had 29 crackers. He shared 9. ___ crackers are left.",
+      "a": "20"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right answer.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "The clue word 'left' tells us to",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "subtract"
+     },
+     {
+      "before": "Zara had 10 nuts and ate 3. The sum is",
+      "options": [
+       "10 + 3",
+       "10 − 3",
+       "3 − 10"
+      ],
+      "after": ".",
+      "a": "10 − 3"
+     },
+     {
+      "before": "When we take away 0, the number",
+      "options": [
+       "stays the same",
+       "gets smaller"
+      ],
+      "after": ".",
+      "a": "stays the same"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each story to its sum.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "7 dates, 2 eaten",
+      "right": "7 − 2"
+     },
+     {
+      "left": "15 biscuits, 5 given away",
+      "right": "15 − 5"
+     },
+     {
+      "left": "20 raisins, 10 dropped",
+      "right": "20 − 10"
+     },
+     {
+      "left": "9 berries, 0 eaten",
+      "right": "9 − 0"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a story for 12 − 1. Use the word left.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. I had 12 grapes. I ate 1. 11 grapes are left."
+   }
+  ]
+ },
+ {
+  "id": "subtraction-word-problems-and-mental-maths-02",
+  "topic": "subtraction-word-problems-and-mental-maths",
+  "number": 2,
+  "level": "Starter",
+  "title": "The Balloon Seller at the Fair",
+  "intro": "A balloon seller stands at the gate of the fair in Sharjah. Compare the bunches to find how many more or fewer.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Take away 10 in your head.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "25 − 10",
+      "a": "15"
+     },
+     {
+      "q": "40 − 10",
+      "a": "30"
+     },
+     {
+      "q": "63 − 10",
+      "a": "53"
+     },
+     {
+      "q": "78 − 10",
+      "a": "68"
+     },
+     {
+      "q": "91 − 10",
+      "a": "81"
+     },
+     {
+      "q": "56 − 10",
+      "a": "46"
+     },
+     {
+      "q": "34 − 10",
+      "a": "24"
+     },
+     {
+      "q": "87 − 10",
+      "a": "77"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the story sums.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Omar has 28 red balloons and 15 blue balloons. He has ___ more red balloons than blue.",
+      "a": "13"
+     },
+     {
+      "q": "Layla has 37 balloons. Sofia has 21. Layla has ___ more balloons than Sofia.",
+      "a": "16"
+     },
+     {
+      "q": "The seller needs 50 balloons. He has 30. He needs ___ more.",
+      "a": "20"
+     },
+     {
+      "q": "There are 46 round balloons and 12 long balloons. There are ___ fewer long balloons.",
+      "a": "34"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "'How many more' asks us to find the difference.",
+      "a": true
+     },
+     {
+      "q": "8 is 3 fewer than 5.",
+      "a": false
+     },
+     {
+      "q": "9 is 4 more than 5.",
+      "a": true
+     },
+     {
+      "q": "To find how many fewer, we add.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word or number.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Arjun has 9 kites and Mei has 6. Arjun has 3",
+      "options": [
+       "more",
+       "fewer"
+      ],
+      "after": "kites than Mei.",
+      "a": "more"
+     },
+     {
+      "before": "Mei has 6 kites and Arjun has 9. Mei has 3",
+      "options": [
+       "more",
+       "fewer"
+      ],
+      "after": "kites than Arjun.",
+      "a": "fewer"
+     },
+     {
+      "before": "40 balloons take away 10 balloons is",
+      "options": [
+       "30",
+       "39",
+       "50"
+      ],
+      "after": ".",
+      "a": "30"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Solve in columns.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "68",
+      "op": "-",
+      "bottom": "25",
+      "a": "43"
+     },
+     {
+      "top": "97",
+      "op": "-",
+      "bottom": "43",
+      "a": "54"
+     },
+     {
+      "top": "59",
+      "op": "-",
+      "bottom": "36",
+      "a": "23"
+     },
+     {
+      "top": "84",
+      "op": "-",
+      "bottom": "51",
+      "a": "33"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "subtraction-word-problems-and-mental-maths-03",
+  "topic": "subtraction-word-problems-and-mental-maths",
+  "number": 3,
+  "level": "Starter",
+  "title": "The Pet Shop",
+  "intro": "Hana visits the pet shop near her home. Use the RUCSAC steps to solve each story sum.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each RUCSAC step to what we do.",
+    "marks": 6,
+    "items": [
+     {
+      "left": "Step 1",
+      "right": "Read the story"
+     },
+     {
+      "left": "Step 2",
+      "right": "Circle the numbers and clue words"
+     },
+     {
+      "left": "Step 3",
+      "right": "Write the subtraction sentence"
+     },
+     {
+      "left": "Step 4",
+      "right": "Solve in columns"
+     },
+     {
+      "left": "Step 5",
+      "right": "Write the answer sentence"
+     },
+     {
+      "left": "Step 6",
+      "right": "Check by adding"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Story: The shop had 48 goldfish. 23 were sold. How many are left?",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The numbers to circle are 48 and ___.",
+      "a": "23"
+     },
+     {
+      "q": "The clue word is ___.",
+      "a": "left"
+     },
+     {
+      "q": "The subtraction sentence is 48 − 23 = ___.",
+      "a": "25"
+     },
+     {
+      "q": "Check: 25 + 23 = ___.",
+      "a": "48"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Solve in columns.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "76",
+      "op": "-",
+      "bottom": "34",
+      "a": "42"
+     },
+     {
+      "top": "89",
+      "op": "-",
+      "bottom": "57",
+      "a": "32"
+     },
+     {
+      "top": "65",
+      "op": "-",
+      "bottom": "42",
+      "a": "23"
+     },
+     {
+      "top": "98",
+      "op": "-",
+      "bottom": "80",
+      "a": "18"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the pet shop problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The shop had 39 budgies. 17 went to new homes. ___ budgies are left.",
+      "a": "22"
+     },
+     {
+      "q": "There are 28 cat toys and 12 dog toys. There are ___ more cat toys.",
+      "a": "16"
+     },
+     {
+      "q": "A cage costs ₹85. A bowl costs ₹30. The bowl costs ₹ ___ less.",
+      "a": "55"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "subtraction-word-problems-and-mental-maths-04",
+  "topic": "subtraction-word-problems-and-mental-maths",
+  "number": 4,
+  "level": "Starter",
+  "title": "Feeding the Ducks at the Lake",
+  "intro": "Nikhil and Amna spend Saturday morning at the lake in Udaipur. Do the easy sums in your head.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Subtract the tens in your head.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "50 − 20",
+      "a": "30"
+     },
+     {
+      "q": "90 − 40",
+      "a": "50"
+     },
+     {
+      "q": "70 − 30",
+      "a": "40"
+     },
+     {
+      "q": "80 − 60",
+      "a": "20"
+     },
+     {
+      "q": "60 − 50",
+      "a": "10"
+     },
+     {
+      "q": "100 − 40",
+      "a": "60"
+     },
+     {
+      "q": "40 − 40",
+      "a": "0"
+     },
+     {
+      "q": "90 − 10",
+      "a": "80"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the clue words.",
+    "marks": 6,
+    "groups": [
+     "Subtract",
+     "Add"
+    ],
+    "words": [
+     "left",
+     "altogether",
+     "fewer",
+     "in all",
+     "how many more",
+     "total"
+    ],
+    "a": {
+     "left": "Subtract",
+     "altogether": "Add",
+     "fewer": "Subtract",
+     "in all": "Add",
+     "how many more": "Subtract",
+     "total": "Add"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Solve the story sums.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Nikhil had 40 grains. He fed 20 to the ducks. ___ grains are left.",
+      "a": "20"
+     },
+     {
+      "q": "There were 35 ducks on the lake. 10 swam away. ___ ducks are left.",
+      "a": "25"
+     },
+     {
+      "q": "There are 19 ducks and 8 geese. There are ___ more ducks than geese.",
+      "a": "11"
+     },
+     {
+      "q": "Hana counted 27 lotus flowers. Rohan counted 4 fewer. Rohan counted ___ flowers.",
+      "a": "23"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right answer.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "70 − 30 is the same as 7 tens − 3 tens. That is",
+      "options": [
+       "4 tens",
+       "10 tens"
+      ],
+      "after": ".",
+      "a": "4 tens"
+     },
+     {
+      "before": "When we work out 64 − 10, only the",
+      "options": [
+       "tens digit",
+       "ones digit"
+      ],
+      "after": "changes.",
+      "a": "tens digit"
+     },
+     {
+      "before": "53 − 0 =",
+      "options": [
+       "0",
+       "52",
+       "53"
+      ],
+      "after": "",
+      "a": "53"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Think and write: Amna says 80 − 30 = 5. What did she forget?",
+    "marks": 2,
+    "lines": 1,
+    "a": "She forgot that the answer is 5 tens. 80 − 30 = 50."
+   }
+  ]
+ },
+ {
+  "id": "subtraction-word-problems-and-mental-maths-05",
+  "topic": "subtraction-word-problems-and-mental-maths",
+  "number": 5,
+  "level": "Practice",
+  "title": "The Camel Farm",
+  "intro": "Vihaan and Elsa visit a camel farm near Al Ain. These story sums need borrowing.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Solve the story sums.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "The farm has 52 camels. 18 are babies. ___ are grown-ups.",
+      "a": "34"
+     },
+     {
+      "q": "A camel drank 85 litres of water on Monday and 47 litres on Tuesday. It drank ___ litres more on Monday.",
+      "a": "38"
+     },
+     {
+      "q": "There were 64 bags of feed. 29 were used. ___ bags are left.",
+      "a": "35"
+     },
+     {
+      "q": "Vihaan took 71 photos. Elsa took 16 fewer. Elsa took ___ photos.",
+      "a": "55"
+     },
+     {
+      "q": "The farm sold 90 bottles of milk yesterday and 53 today. It sold ___ fewer bottles today.",
+      "a": "37"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Solve in columns. Borrow a ten.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "73",
+      "op": "-",
+      "bottom": "45",
+      "a": "28"
+     },
+     {
+      "top": "91",
+      "op": "-",
+      "bottom": "59",
+      "a": "32"
+     },
+     {
+      "top": "60",
+      "op": "-",
+      "bottom": "24",
+      "a": "36"
+     },
+     {
+      "top": "82",
+      "op": "-",
+      "bottom": "67",
+      "a": "15"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Subtract in your head.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "72 − 10",
+      "a": "62"
+     },
+     {
+      "q": "49 − 1",
+      "a": "48"
+     },
+     {
+      "q": "66 − 0",
+      "a": "66"
+     },
+     {
+      "q": "90 − 30",
+      "a": "60"
+     },
+     {
+      "q": "81 − 1",
+      "a": "80"
+     },
+     {
+      "q": "55 − 10",
+      "a": "45"
+     },
+     {
+      "q": "70 − 50",
+      "a": "20"
+     },
+     {
+      "q": "23 − 0",
+      "a": "23"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each story to its sum.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "45 tents and 20 fewer chairs",
+      "right": "45 − 20"
+     },
+     {
+      "left": "33 riders, 12 go home",
+      "right": "33 − 12"
+     },
+     {
+      "left": "60 dates, 15 eaten",
+      "right": "60 − 15"
+     },
+     {
+      "left": "50 hats, 25 sold",
+      "right": "50 − 25"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write the answer sentence for the bags of feed story.",
+    "marks": 1,
+    "lines": 1,
+    "a": "e.g. 35 bags of feed are left."
+   }
+  ]
+ },
+ {
+  "id": "subtraction-word-problems-and-mental-maths-06",
+  "topic": "subtraction-word-problems-and-mental-maths",
+  "number": 6,
+  "level": "Practice",
+  "title": "Ganesh Chaturthi Modaks",
+  "intro": "It is Ganesh Chaturthi and Diya's Aaji is making modaks in Pune. Follow RUCSAC from start to end.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Story: Aaji made 75 modaks. The family ate 48. How many are left?",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The clue word that tells us to subtract is ___.",
+      "a": "left"
+     },
+     {
+      "q": "The bigger number, written on top, is ___.",
+      "a": "75"
+     },
+     {
+      "q": "75 − 48 = ___",
+      "a": "27"
+     },
+     {
+      "q": "Check: 27 + 48 = ___",
+      "a": "75"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle what we do next.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "After reading the story, we",
+      "options": [
+       "circle the numbers and clue words",
+       "check by adding"
+      ],
+      "after": ".",
+      "a": "circle the numbers and clue words"
+     },
+     {
+      "before": "After writing the subtraction sentence, we",
+      "options": [
+       "read the story",
+       "solve in columns"
+      ],
+      "after": ".",
+      "a": "solve in columns"
+     },
+     {
+      "before": "After solving, we write the",
+      "options": [
+       "answer sentence",
+       "title"
+      ],
+      "after": ".",
+      "a": "answer sentence"
+     },
+     {
+      "before": "Last of all, we",
+      "options": [
+       "circle the numbers",
+       "check by adding"
+      ],
+      "after": ".",
+      "a": "check by adding"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Solve in columns.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "92",
+      "op": "-",
+      "bottom": "69",
+      "a": "23"
+     },
+     {
+      "top": "81",
+      "op": "-",
+      "bottom": "37",
+      "a": "44"
+     },
+     {
+      "top": "54",
+      "op": "-",
+      "bottom": "28",
+      "a": "26"
+     },
+     {
+      "top": "63",
+      "op": "-",
+      "bottom": "46",
+      "a": "17"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the festival problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The pandal had 86 lamps. The wind blew out 39. ___ lamps are still lit.",
+      "a": "47"
+     },
+     {
+      "q": "Sam folded 45 paper flowers. Noor folded 27. Sam folded ___ more.",
+      "a": "18"
+     },
+     {
+      "q": "A box of modaks costs ₹94. A garland costs ₹58. The garland costs ₹ ___ less.",
+      "a": "36"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "67 − 10 = 57",
+      "a": true
+     },
+     {
+      "q": "90 − 40 = 40",
+      "a": false
+     },
+     {
+      "q": "38 − 1 = 37",
+      "a": true
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "subtraction-word-problems-and-mental-maths-07",
+  "topic": "subtraction-word-problems-and-mental-maths",
+  "number": 7,
+  "level": "Practice",
+  "title": "The Swimming Gala",
+  "intro": "The school swimming gala is on Saturday. Work out who swam more and how many seats are left.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Subtract in your head.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "245 − 10",
+      "a": "235"
+     },
+     {
+      "q": "380 − 1",
+      "a": "379"
+     },
+     {
+      "q": "516 − 0",
+      "a": "516"
+     },
+     {
+      "q": "472 − 10",
+      "a": "462"
+     },
+     {
+      "q": "699 − 10",
+      "a": "689"
+     },
+     {
+      "q": "251 − 1",
+      "a": "250"
+     },
+     {
+      "q": "930 − 10",
+      "a": "920"
+     },
+     {
+      "q": "108 − 0",
+      "a": "108"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the story sums.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "There are 245 seats by the pool. 128 are full. ___ seats are empty.",
+      "a": "117"
+     },
+     {
+      "q": "Blue House scored 362 points. Red House scored 147 fewer. Red House scored ___ points.",
+      "a": "215"
+     },
+     {
+      "q": "Yusuf swam 150 metres. Diya swam 125 metres. Yusuf swam ___ metres more.",
+      "a": "25"
+     },
+     {
+      "q": "473 people came on Saturday and 256 came on Sunday. ___ fewer people came on Sunday.",
+      "a": "217"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Solve in columns.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "694",
+      "op": "-",
+      "bottom": "258",
+      "a": "436"
+     },
+     {
+      "top": "570",
+      "op": "-",
+      "bottom": "325",
+      "a": "245"
+     },
+     {
+      "top": "483",
+      "op": "-",
+      "bottom": "229",
+      "a": "254"
+     },
+     {
+      "top": "866",
+      "op": "-",
+      "bottom": "437",
+      "a": "429"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the sum we need.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Pool A is 50 metres long. Pool B is 25 metres long. How much longer is Pool A?",
+      "options": [
+       "50 + 25",
+       "50 − 25"
+      ],
+      "after": "",
+      "a": "50 − 25"
+     },
+     {
+      "before": "120 children swam and 30 went home. How many are left?",
+      "options": [
+       "120 − 30",
+       "120 + 30"
+      ],
+      "after": "",
+      "a": "120 − 30"
+     },
+     {
+      "before": "Ben swam 8 laps and then 6 more. How many laps in all?",
+      "options": [
+       "8 − 6",
+       "8 + 6"
+      ],
+      "after": "",
+      "a": "8 + 6"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Check 245 − 128 by adding. Write the sum.",
+    "marks": 2,
+    "lines": 1,
+    "a": "117 + 128 = 245"
+   }
+  ]
+ },
+ {
+  "id": "subtraction-word-problems-and-mental-maths-08",
+  "topic": "subtraction-word-problems-and-mental-maths",
+  "number": 8,
+  "level": "Practice",
+  "title": "The Dhow Ride on the Creek",
+  "intro": "Farah and Kiran take a dhow ride on Dubai Creek. Subtract the tens in your head.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Subtract the tens in your head.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "150 − 30",
+      "a": "120"
+     },
+     {
+      "q": "480 − 50",
+      "a": "430"
+     },
+     {
+      "q": "270 − 60",
+      "a": "210"
+     },
+     {
+      "q": "390 − 80",
+      "a": "310"
+     },
+     {
+      "q": "640 − 20",
+      "a": "620"
+     },
+     {
+      "q": "760 − 40",
+      "a": "720"
+     },
+     {
+      "q": "95 − 30",
+      "a": "65"
+     },
+     {
+      "q": "86 − 50",
+      "a": "36"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "340 − 20 = 320",
+      "a": true
+     },
+     {
+      "q": "580 − 50 = 480",
+      "a": false
+     },
+     {
+      "q": "75 − 40 = 35",
+      "a": true
+     },
+     {
+      "q": "To subtract 30, we take away 3 tens.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Solve in columns.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "427",
+      "op": "-",
+      "bottom": "183",
+      "a": "244"
+     },
+     {
+      "top": "536",
+      "op": "-",
+      "bottom": "272",
+      "a": "264"
+     },
+     {
+      "top": "809",
+      "op": "-",
+      "bottom": "457",
+      "a": "352"
+     },
+     {
+      "top": "615",
+      "op": "-",
+      "bottom": "94",
+      "a": "521"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the story sums.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The dhow can carry 120 people. 85 are on board. ___ more people can get on.",
+      "a": "35"
+     },
+     {
+      "q": "A ride costs ₹250 for a grown-up and ₹160 for a child. A child pays ₹ ___ less.",
+      "a": "90"
+     },
+     {
+      "q": "Farah saw 45 seagulls. Kiran saw 27. Farah saw ___ more seagulls.",
+      "a": "18"
+     },
+     {
+      "q": "The creek shop had 318 postcards. It sold 145. ___ postcards are left.",
+      "a": "173"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the subtraction sentence and the answer sentence.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "There were 72 life jackets. 38 were used. How many were left?",
+      "a": "72 − 38 = 34. 34 life jackets were left."
+     },
+     {
+      "q": "The dhow sailed for 95 minutes on Friday and 70 minutes on Saturday. How many fewer minutes on Saturday?",
+      "a": "95 − 70 = 25. It sailed for 25 fewer minutes on Saturday."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "subtraction-word-problems-and-mental-maths-09",
+  "topic": "subtraction-word-problems-and-mental-maths",
+  "number": 9,
+  "level": "Practice",
+  "title": "The Tea Garden in Munnar",
+  "intro": "Anaya and Tom visit a tea garden in the hills of Munnar. Use RUCSAC for the pickers' sums.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Story: Pickers filled 342 baskets on Monday and 175 on Tuesday. How many fewer on Tuesday?",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Circle the numbers 342 and ___.",
+      "a": "175"
+     },
+     {
+      "q": "The clue word in the story is ___.",
+      "a": "fewer"
+     },
+     {
+      "q": "342 − 175 = ___",
+      "a": "167"
+     },
+     {
+      "q": "Check: 167 + 175 = ___",
+      "a": "342"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Solve in columns. Borrow two times.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "523",
+      "op": "-",
+      "bottom": "267",
+      "a": "256"
+     },
+     {
+      "top": "641",
+      "op": "-",
+      "bottom": "378",
+      "a": "263"
+     },
+     {
+      "top": "735",
+      "op": "-",
+      "bottom": "489",
+      "a": "246"
+     },
+     {
+      "top": "412",
+      "op": "-",
+      "bottom": "158",
+      "a": "254"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "When do we do each RUCSAC step?",
+    "marks": 6,
+    "groups": [
+     "Before solving",
+     "After solving"
+    ],
+    "words": [
+     "read the story",
+     "write the answer sentence",
+     "circle the numbers",
+     "check by adding",
+     "find the clue words",
+     "write the subtraction sentence"
+    ],
+    "a": {
+     "read the story": "Before solving",
+     "write the answer sentence": "After solving",
+     "circle the numbers": "Before solving",
+     "check by adding": "After solving",
+     "find the clue words": "Before solving",
+     "write the subtraction sentence": "Before solving"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Solve the tea garden problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Anaya picked 231 leaves. Tom picked 164. Anaya picked ___ more leaves.",
+      "a": "67"
+     },
+     {
+      "q": "The shop had 420 packets of tea. It sold 285. ___ packets are left.",
+      "a": "135"
+     },
+     {
+      "q": "The hill bus has 150 seats. 76 are taken. ___ seats are empty.",
+      "a": "74"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write the answer sentence for the basket story.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. The pickers filled 167 fewer baskets on Tuesday."
+   }
+  ]
+ },
+ {
+  "id": "subtraction-word-problems-and-mental-maths-10",
+  "topic": "subtraction-word-problems-and-mental-maths",
+  "number": 10,
+  "level": "Practice",
+  "title": "The Art Room",
+  "intro": "Class 2 is tidying the art room before the school exhibition. Read each story and choose the right words.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the right word or number.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Pari has 56 crayons and Reyansh has 39. Pari has 17",
+      "options": [
+       "more",
+       "fewer"
+      ],
+      "after": "crayons than Reyansh.",
+      "a": "more"
+     },
+     {
+      "before": "There were 80 sheets. 45 were used. 35 sheets are",
+      "options": [
+       "left",
+       "more"
+      ],
+      "after": ".",
+      "a": "left"
+     },
+     {
+      "before": "Mira has 24 brushes and Sam has 30. Mira has 6",
+      "options": [
+       "more",
+       "fewer"
+      ],
+      "after": "brushes than Sam.",
+      "a": "fewer"
+     },
+     {
+      "before": "230 − 10 =",
+      "options": [
+       "130",
+       "220",
+       "229"
+      ],
+      "after": "",
+      "a": "220"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the story sums.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The art room had 316 beads. Class 2 used 148. ___ beads are left.",
+      "a": "168"
+     },
+     {
+      "q": "There are 97 pencils and 58 erasers. There are ___ more pencils than erasers.",
+      "a": "39"
+     },
+     {
+      "q": "Saanvi cut 125 paper stars. Ben cut 40 fewer. Ben cut ___ stars.",
+      "a": "85"
+     },
+     {
+      "q": "A paint set costs ₹275. Dev has ₹180. He needs ₹ ___ more.",
+      "a": "95"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Subtract in your head.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "365 − 0",
+      "a": "365"
+     },
+     {
+      "q": "410 − 10",
+      "a": "400"
+     },
+     {
+      "q": "777 − 1",
+      "a": "776"
+     },
+     {
+      "q": "250 − 40",
+      "a": "210"
+     },
+     {
+      "q": "180 − 80",
+      "a": "100"
+     },
+     {
+      "q": "99 − 10",
+      "a": "89"
+     },
+     {
+      "q": "501 − 1",
+      "a": "500"
+     },
+     {
+      "q": "890 − 60",
+      "a": "830"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Solve in columns.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "453",
+      "op": "-",
+      "bottom": "276",
+      "a": "177"
+     },
+     {
+      "top": "384",
+      "op": "-",
+      "bottom": "95",
+      "a": "289"
+     },
+     {
+      "top": "720",
+      "op": "-",
+      "bottom": "364",
+      "a": "356"
+     },
+     {
+      "top": "91",
+      "op": "-",
+      "bottom": "53",
+      "a": "38"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a 'how many more' story for 30 − 20.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. I have 30 stickers. My friend has 20. I have 10 more stickers."
+   }
+  ]
+ },
+ {
+  "id": "subtraction-word-problems-and-mental-maths-11",
+  "topic": "subtraction-word-problems-and-mental-maths",
+  "number": 11,
+  "level": "Challenge",
+  "title": "The Hill Station Holiday in Ooty",
+  "intro": "Zara's family goes to Ooty for the holidays. Some story sums need two steps.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Solve. Each story has two steps.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The toy train has 200 seats. 85 people get on at the first stop and 47 at the next. ___ seats are empty.",
+      "a": "68"
+     },
+     {
+      "q": "Zara had ₹500. She spent ₹145 on chocolates and ₹120 on a cap. She has ₹ ___ left.",
+      "a": "235"
+     },
+     {
+      "q": "There were 300 boat tickets. 128 were sold in the morning and 95 in the afternoon. ___ tickets are left.",
+      "a": "77"
+     },
+     {
+      "q": "The garden has 405 roses. 150 are red and 125 are yellow. The rest are pink. ___ roses are pink.",
+      "a": "130"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Solve in columns. Watch the zeros.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "300",
+      "op": "-",
+      "bottom": "128",
+      "a": "172"
+     },
+     {
+      "top": "405",
+      "op": "-",
+      "bottom": "276",
+      "a": "129"
+     },
+     {
+      "top": "600",
+      "op": "-",
+      "bottom": "359",
+      "a": "241"
+     },
+     {
+      "top": "702",
+      "op": "-",
+      "bottom": "84",
+      "a": "618"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "400 − 10 = 390",
+      "a": true
+     },
+     {
+      "q": "305 − 10 = 205",
+      "a": false
+     },
+     {
+      "q": "600 − 1 = 599",
+      "a": true
+     },
+     {
+      "q": "250 − 50 − 50 = 100",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each story to its number sentence.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "50 apples, 10 eaten, 5 given away",
+      "right": "50 − 10 − 5"
+     },
+     {
+      "left": "50 apples, 10 more picked, 5 eaten",
+      "right": "50 + 10 − 5"
+     },
+     {
+      "left": "50 apples and 15 fewer oranges",
+      "right": "50 − 15"
+     },
+     {
+      "left": "50 apples and 15 pears altogether",
+      "right": "50 + 15"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Tell how you solved the toy train problem.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. 85 + 47 = 132, then 200 − 132 = 68. Or 200 − 85 = 115, then 115 − 47 = 68."
+   }
+  ]
+ },
+ {
+  "id": "subtraction-word-problems-and-mental-maths-12",
+  "topic": "subtraction-word-problems-and-mental-maths",
+  "number": 12,
+  "level": "Challenge",
+  "title": "The Ramadan Night Market",
+  "intro": "Hana and Yusuf go to the Ramadan night market after iftar. In these sums the prices are in rupees.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Solve the money problems.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "Hana has ₹500. A lantern costs ₹275. She gets ₹ ___ back.",
+      "a": "225"
+     },
+     {
+      "q": "A box of dates costs ₹340. A glass of juice costs ₹85. The juice costs ₹ ___ less.",
+      "a": "255"
+     },
+     {
+      "q": "Yusuf has ₹260. A toy costs ₹400. He needs ₹ ___ more.",
+      "a": "140"
+     },
+     {
+      "q": "The stall earned ₹815 on Friday and ₹649 on Saturday. It earned ₹ ___ less on Saturday.",
+      "a": "166"
+     },
+     {
+      "q": "Mum had ₹900. After shopping she has ₹325. She spent ₹ ___.",
+      "a": "575"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Solve in columns.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "800",
+      "op": "-",
+      "bottom": "436",
+      "a": "364"
+     },
+     {
+      "top": "910",
+      "op": "-",
+      "bottom": "572",
+      "a": "338"
+     },
+     {
+      "top": "604",
+      "op": "-",
+      "bottom": "327",
+      "a": "277"
+     },
+     {
+      "top": "753",
+      "op": "-",
+      "bottom": "285",
+      "a": "468"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right answer.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "₹300 − ₹10 − ₹10 =",
+      "options": [
+       "₹100",
+       "₹280",
+       "₹290"
+      ],
+      "after": "",
+      "a": "₹280"
+     },
+     {
+      "before": "₹450 − ₹50 =",
+      "options": [
+       "₹400",
+       "₹445",
+       "₹500"
+      ],
+      "after": "",
+      "a": "₹400"
+     },
+     {
+      "before": "₹1 less than ₹700 is",
+      "options": [
+       "₹600",
+       "₹690",
+       "₹699"
+      ],
+      "after": ".",
+      "a": "₹699"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the subtraction sentence and the answer sentence.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "A lamp costs ₹620. In the sale it costs ₹135 less. What is the sale price?",
+      "a": "620 − 135 = 485. The sale price is ₹485."
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Change is the money we get back.",
+      "a": true
+     },
+     {
+      "q": "To find the change, we subtract the price from the money we paid.",
+      "a": true
+     },
+     {
+      "q": "A cup of tea costs ₹90. You pay ₹100. Your change is ₹20.",
+      "a": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "subtraction-word-problems-and-mental-maths-13",
+  "topic": "subtraction-word-problems-and-mental-maths",
+  "number": 13,
+  "level": "Challenge",
+  "title": "The Cycle Rally",
+  "intro": "Hundreds of riders join the Sunday cycle rally in Chandigarh. Some stories are tricky, so use RUCSAC.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Solve the story sums. Read carefully.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Some riders started the rally. 135 stopped to rest. 240 kept riding. ___ riders started.",
+      "a": "375"
+     },
+     {
+      "q": "There were 310 riders. Some went home. 185 are left. ___ riders went home.",
+      "a": "125"
+     },
+     {
+      "q": "Layla rode 124 km this month. Omar rode 98 km. Layla rode ___ km more.",
+      "a": "26"
+     },
+     {
+      "q": "The rally had 600 water bottles. Riders took 417. ___ bottles are left.",
+      "a": "183"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Check each answer by adding. Is it right?",
+    "marks": 4,
+    "items": [
+     {
+      "q": "504 − 236 = 268",
+      "a": true
+     },
+     {
+      "q": "420 − 175 = 255",
+      "a": false
+     },
+     {
+      "q": "731 − 290 = 441",
+      "a": true
+     },
+     {
+      "q": "600 − 325 = 285",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Solve in columns.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "913",
+      "op": "-",
+      "bottom": "675",
+      "a": "238"
+     },
+     {
+      "top": "806",
+      "op": "-",
+      "bottom": "428",
+      "a": "378"
+     },
+     {
+      "top": "340",
+      "op": "-",
+      "bottom": "162",
+      "a": "178"
+     },
+     {
+      "top": "555",
+      "op": "-",
+      "bottom": "99",
+      "a": "456"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Tom solves the water bottle story. Match what he does to the step.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "He reads the story aloud.",
+      "right": "Read"
+     },
+     {
+      "left": "He draws rings around 600 and 417.",
+      "right": "Circle the numbers"
+     },
+     {
+      "left": "He writes 600 − 417.",
+      "right": "Subtraction sentence"
+     },
+     {
+      "left": "He writes: 183 bottles are left.",
+      "right": "Answer sentence"
+     },
+     {
+      "left": "He adds 183 and 417.",
+      "right": "Check"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write your own subtraction story about a cycle rally. Use the word fewer.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. 80 riders wore red. 25 fewer riders wore blue. 55 riders wore blue."
+   }
+  ]
+ },
+ {
+  "id": "subtraction-word-problems-and-mental-maths-14",
+  "topic": "subtraction-word-problems-and-mental-maths",
+  "number": 14,
+  "level": "Challenge",
+  "title": "The Museum Trip",
+  "intro": "Class 2 goes to the museum by bus. Use quick mental maths and careful column sums.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Subtract step by step in your head.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "900 − 10 − 10",
+      "a": "880"
+     },
+     {
+      "q": "275 − 10 − 1",
+      "a": "264"
+     },
+     {
+      "q": "640 − 40 − 0",
+      "a": "600"
+     },
+     {
+      "q": "83 − 20 − 1",
+      "a": "62"
+     },
+     {
+      "q": "500 − 1 − 1",
+      "a": "498"
+     },
+     {
+      "q": "390 − 90 − 10",
+      "a": "290"
+     },
+     {
+      "q": "151 − 1 − 50",
+      "a": "100"
+     },
+     {
+      "q": "720 − 20 − 20",
+      "a": "680"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the story sums.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The museum had 750 visitors on Sunday and 580 on Monday. ___ fewer visitors came on Monday.",
+      "a": "170"
+     },
+     {
+      "q": "There are 208 old coins. 129 are silver. ___ coins are not silver.",
+      "a": "79"
+     },
+     {
+      "q": "The dinosaur hall is 95 steps long. The space hall is 30 steps shorter. The space hall is ___ steps long.",
+      "a": "65"
+     },
+     {
+      "q": "A guide book costs ₹325. Sofia has ₹250. She needs ₹ ___ more.",
+      "a": "75"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the number we do NOT need.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Nikhil saw 40 masks and 25 swords in 2 rooms. How many more masks did he see?",
+      "options": [
+       "40",
+       "25",
+       "2"
+      ],
+      "after": "",
+      "a": "2"
+     },
+     {
+      "before": "A ticket costs ₹60. Elsa is 7 years old. She pays with ₹100. What is her change?",
+      "options": [
+       "60",
+       "7",
+       "100"
+      ],
+      "after": "",
+      "a": "7"
+     },
+     {
+      "before": "There are 3 floors. 85 paintings are on show and 15 are being cleaned. How many fewer are being cleaned?",
+      "options": [
+       "3",
+       "85",
+       "15"
+      ],
+      "after": "",
+      "a": "3"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Solve in columns.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "312",
+      "op": "-",
+      "bottom": "174",
+      "a": "138"
+     },
+     {
+      "top": "931",
+      "op": "-",
+      "bottom": "654",
+      "a": "277"
+     },
+     {
+      "top": "500",
+      "op": "-",
+      "bottom": "268",
+      "a": "232"
+     },
+     {
+      "top": "847",
+      "op": "-",
+      "bottom": "369",
+      "a": "478"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Vihaan solved 208 − 129 and got 121. How can he find his mistake?",
+    "marks": 2,
+    "lines": 1,
+    "a": "He can check by adding: 121 + 129 = 250, not 208. The right answer is 79."
+   }
+  ]
+ },
+ {
+  "id": "subtraction-word-problems-and-mental-maths-15",
+  "topic": "subtraction-word-problems-and-mental-maths",
+  "number": 15,
+  "level": "Challenge",
+  "title": "The Marathon Morning",
+  "intro": "The city marathon starts at sunrise on the Corniche in Abu Dhabi. Use everything you know to solve the sums.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Solve the story sums.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "900 runners signed up. 135 did not come and 248 stopped early. ___ runners finished.",
+      "a": "517"
+     },
+     {
+      "q": "Dev ran for 95 minutes. Amna ran for 68 minutes. Amna ran for ___ fewer minutes.",
+      "a": "27"
+     },
+     {
+      "q": "There were 650 medals. 475 were given out. ___ medals are left.",
+      "a": "175"
+     },
+     {
+      "q": "The shop had 300 caps. It sold 120 on Friday and 95 on Saturday. ___ caps are left.",
+      "a": "85"
+     },
+     {
+      "q": "There were 800 cups of water at the start. 365 are left at the end. ___ cups were used.",
+      "a": "435"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Which kind of story is it?",
+    "marks": 6,
+    "groups": [
+     "Take away story",
+     "Compare story"
+    ],
+    "words": [
+     "how many are left",
+     "how many more",
+     "ate some",
+     "how many fewer",
+     "gave away",
+     "how much longer"
+    ],
+    "a": {
+     "how many are left": "Take away story",
+     "how many more": "Compare story",
+     "ate some": "Take away story",
+     "how many fewer": "Compare story",
+     "gave away": "Take away story",
+     "how much longer": "Compare story"
+    }
+   },
+   {
+    "type": "column",
+    "title": "Solve in columns.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "640",
+      "op": "-",
+      "bottom": "475",
+      "a": "165"
+     },
+     {
+      "top": "803",
+      "op": "-",
+      "bottom": "567",
+      "a": "236"
+     },
+     {
+      "top": "921",
+      "op": "-",
+      "bottom": "348",
+      "a": "573"
+     },
+     {
+      "top": "700",
+      "op": "-",
+      "bottom": "91",
+      "a": "609"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "810 − 10 = 800",
+      "a": true
+     },
+     {
+      "q": "90 − 60 = 30",
+      "a": true
+     },
+     {
+      "q": "745 − 0 = 0",
+      "a": false
+     },
+     {
+      "q": "In RUCSAC, the last step is to check.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write the two number sentences for the first runner story.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. 135 + 248 = 383, then 900 − 383 = 517."
+   }
+  ]
+ }
+]

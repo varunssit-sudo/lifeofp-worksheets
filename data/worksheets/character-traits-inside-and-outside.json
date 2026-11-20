@@ -1,0 +1,1779 @@
+[
+ {
+  "id": "character-traits-inside-and-outside-01",
+  "topic": "character-traits-inside-and-outside",
+  "number": 1,
+  "level": "Starter",
+  "title": "The New Girl in Class",
+  "intro": "Leena is new in Class 2. She is tall, with two long plaits and a red hairband. She smiles at everyone and lends her eraser to Arjun.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the traits. Outside is what we see. Inside is what someone is like.",
+    "marks": 8,
+    "groups": [
+     "Outside traits",
+     "Inside traits"
+    ],
+    "words": [
+     "tall",
+     "kind",
+     "long plaits",
+     "friendly",
+     "red hairband",
+     "shy",
+     "brown eyes",
+     "honest"
+    ],
+    "a": {
+     "tall": "Outside traits",
+     "kind": "Inside traits",
+     "long plaits": "Outside traits",
+     "friendly": "Inside traits",
+     "red hairband": "Outside traits",
+     "shy": "Inside traits",
+     "brown eyes": "Outside traits",
+     "honest": "Inside traits"
+    }
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Outside traits are things we can see.",
+      "a": true
+     },
+     {
+      "q": "\"Brave\" is an outside trait.",
+      "a": false
+     },
+     {
+      "q": "Inside traits tell us what a person is like.",
+      "a": true
+     },
+     {
+      "q": "\"Curly hair\" is an inside trait.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blanks from the story about Leena.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Leena has two long ___.",
+      "a": "plaits"
+     },
+     {
+      "q": "She wears a red ___.",
+      "a": "hairband"
+     },
+     {
+      "q": "She lends her eraser to ___.",
+      "a": "Arjun"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct word.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "\"Tall\" is an",
+      "options": [
+       "inside",
+       "outside"
+      ],
+      "after": "trait.",
+      "a": "outside"
+     },
+     {
+      "before": "\"Friendly\" is an",
+      "options": [
+       "inside",
+       "outside"
+      ],
+      "after": "trait.",
+      "a": "inside"
+     },
+     {
+      "before": "Leena lends her eraser, so she is",
+      "options": [
+       "kind",
+       "rude"
+      ],
+      "after": ".",
+      "a": "kind"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write one outside trait and one inside trait of your best friend.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. My friend has short black hair. She is very funny. Check for one trait we can see and one that tells what the friend is like."
+   }
+  ]
+ },
+ {
+  "id": "character-traits-inside-and-outside-02",
+  "topic": "character-traits-inside-and-outside",
+  "number": 2,
+  "level": "Starter",
+  "title": "The Park Bench",
+  "intro": "Mr Fernandes sits on the same park bench every evening. He has a grey beard and round glasses. He feeds the pigeons and waves at every child.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write O for an outside trait or I for an inside trait.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "grey beard",
+      "a": "O"
+     },
+     {
+      "q": "gentle",
+      "a": "I"
+     },
+     {
+      "q": "round glasses",
+      "a": "O"
+     },
+     {
+      "q": "cheerful",
+      "a": "I"
+     },
+     {
+      "q": "bald head",
+      "a": "O"
+     },
+     {
+      "q": "patient",
+      "a": "I"
+     },
+     {
+      "q": "wrinkled hands",
+      "a": "O"
+     },
+     {
+      "q": "caring",
+      "a": "I"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "How a person looks is an",
+      "options": [
+       "inside",
+       "outside"
+      ],
+      "after": "trait.",
+      "a": "outside"
+     },
+     {
+      "before": "How a person behaves shows an",
+      "options": [
+       "inside",
+       "outside"
+      ],
+      "after": "trait.",
+      "a": "inside"
+     },
+     {
+      "before": "We can see Mr Fernandes's",
+      "options": [
+       "beard",
+       "patience"
+      ],
+      "after": "in a photo.",
+      "a": "beard"
+     },
+     {
+      "before": "He feeds the pigeons, so he is",
+      "options": [
+       "caring",
+       "selfish"
+      ],
+      "after": ".",
+      "a": "caring"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Read the story again. Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Mr Fernandes has a grey beard.",
+      "a": true
+     },
+     {
+      "q": "He wears round glasses.",
+      "a": true
+     },
+     {
+      "q": "He shouts at the children.",
+      "a": false
+     },
+     {
+      "q": "Waving at every child shows he is friendly.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blanks.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Mr Fernandes wears round ___.",
+      "a": "glasses"
+     },
+     {
+      "q": "He feeds the ___ every evening.",
+      "a": "pigeons"
+     },
+     {
+      "q": "\"Cheerful\" is an ___ trait.",
+      "a": "inside"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write two outside traits of a grown-up you know.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. My uncle has a thick moustache. He is very tall. Both must be things we can see."
+   }
+  ]
+ },
+ {
+  "id": "character-traits-inside-and-outside-03",
+  "topic": "character-traits-inside-and-outside",
+  "number": 3,
+  "level": "Starter",
+  "title": "Lunch Break",
+  "intro": "It is lunch break at Sunrise School. Watch what each child does. Actions show us inside traits.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each action to the trait it shows.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "Diya shares her lunch with a friend.",
+      "right": "kind"
+     },
+     {
+      "left": "Rehan tells the teacher he broke the cup.",
+      "right": "honest"
+     },
+     {
+      "left": "Mei picks up a spider and takes it outside.",
+      "right": "brave"
+     },
+     {
+      "left": "Josh wipes the table without being asked.",
+      "right": "helpful"
+     },
+     {
+      "left": "Sara says \"please\" and \"thank you\".",
+      "right": "polite"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the traits.",
+    "marks": 6,
+    "groups": [
+     "Outside traits",
+     "Inside traits"
+    ],
+    "words": [
+     "freckles",
+     "helpful",
+     "a missing front tooth",
+     "polite",
+     "short hair",
+     "greedy"
+    ],
+    "a": {
+     "freckles": "Outside traits",
+     "helpful": "Inside traits",
+     "a missing front tooth": "Outside traits",
+     "polite": "Inside traits",
+     "short hair": "Outside traits",
+     "greedy": "Inside traits"
+    }
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "What a person does can show an inside trait.",
+      "a": true
+     },
+     {
+      "q": "Sharing your lunch shows that you are selfish.",
+      "a": false
+     },
+     {
+      "q": "Telling the truth shows that you are honest.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Choose a trait from the box: kind, honest, brave.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Mei is not afraid of the spider. She is ___.",
+      "a": "brave"
+     },
+     {
+      "q": "Rehan tells the truth. He is ___.",
+      "a": "honest"
+     },
+     {
+      "q": "Diya shares her food. She is ___.",
+      "a": "kind"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write one kind thing you did this week.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I helped my little brother tie his shoes. Any action that shows kindness."
+   }
+  ]
+ },
+ {
+  "id": "character-traits-inside-and-outside-04",
+  "topic": "character-traits-inside-and-outside",
+  "number": 4,
+  "level": "Starter",
+  "title": "The Bus Stop",
+  "intro": "Four people wait for bus number 12. Kiran reads a comic, Mrs Pinto holds a heavy bag, Yusuf taps his foot, and little Anu holds her mother's hand.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the trait the action shows.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Kiran gives his seat to Mrs Pinto. He is",
+      "options": [
+       "polite",
+       "lazy"
+      ],
+      "after": ".",
+      "a": "polite"
+     },
+     {
+      "before": "Yusuf pushes to the front of the line. He is",
+      "options": [
+       "patient",
+       "rude"
+      ],
+      "after": ".",
+      "a": "rude"
+     },
+     {
+      "before": "Anu hides behind her mother. She is",
+      "options": [
+       "shy",
+       "bossy"
+      ],
+      "after": ".",
+      "a": "shy"
+     },
+     {
+      "before": "Mrs Pinto thanks Kiran with a smile. She is",
+      "options": [
+       "grumpy",
+       "friendly"
+      ],
+      "after": ".",
+      "a": "friendly"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the traits.",
+    "marks": 8,
+    "groups": [
+     "Outside traits",
+     "Inside traits"
+    ],
+    "words": [
+     "a blue uniform",
+     "rude",
+     "a ponytail",
+     "patient",
+     "muddy shoes",
+     "lazy",
+     "a striped scarf",
+     "bossy"
+    ],
+    "a": {
+     "a blue uniform": "Outside traits",
+     "rude": "Inside traits",
+     "a ponytail": "Outside traits",
+     "patient": "Inside traits",
+     "muddy shoes": "Outside traits",
+     "lazy": "Inside traits",
+     "a striped scarf": "Outside traits",
+     "bossy": "Inside traits"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blanks with inside or outside.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "\"A ponytail\" is an ___ trait.",
+      "a": "outside"
+     },
+     {
+      "q": "\"Patient\" is an ___ trait.",
+      "a": "inside"
+     },
+     {
+      "q": "We find ___ traits by watching what people do.",
+      "a": "inside"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "We can tell that someone is patient from their hair.",
+      "a": false
+     },
+     {
+      "q": "Pushing in a line is a rude action.",
+      "a": true
+     },
+     {
+      "q": "\"A striped scarf\" tells us what someone looks like.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "How should we wait in a line? Write one sentence. Which trait does it show?",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. We should wait for our turn. It shows that we are patient."
+   }
+  ]
+ },
+ {
+  "id": "character-traits-inside-and-outside-05",
+  "topic": "character-traits-inside-and-outside",
+  "number": 5,
+  "level": "Practice",
+  "title": "Grandma's Visitors",
+  "intro": "Nani has visitors today. Uncle Raghav brings a box of sweets for everyone. Cousin Pihu breaks a glass and blames the cat. Baby Kian giggles at every joke.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each person to the trait their action shows.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Uncle Raghav brings sweets for everyone.",
+      "right": "generous"
+     },
+     {
+      "left": "Pihu blames the cat for the broken glass.",
+      "right": "dishonest"
+     },
+     {
+      "left": "Baby Kian giggles at every joke.",
+      "right": "cheerful"
+     },
+     {
+      "left": "Nani cooks all morning for her guests.",
+      "right": "hardworking"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Write O for an outside trait or I for an inside trait.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "silver hair",
+      "a": "O"
+     },
+     {
+      "q": "generous",
+      "a": "I"
+     },
+     {
+      "q": "a green sari",
+      "a": "O"
+     },
+     {
+      "q": "hardworking",
+      "a": "I"
+     },
+     {
+      "q": "dimples",
+      "a": "O"
+     },
+     {
+      "q": "dishonest",
+      "a": "I"
+     },
+     {
+      "q": "a thick moustache",
+      "a": "O"
+     },
+     {
+      "q": "cheerful",
+      "a": "I"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "A person who gives and shares is",
+      "options": [
+       "generous",
+       "greedy"
+      ],
+      "after": ".",
+      "a": "generous"
+     },
+     {
+      "before": "A person who does not tell the truth is",
+      "options": [
+       "honest",
+       "dishonest"
+      ],
+      "after": ".",
+      "a": "dishonest"
+     },
+     {
+      "before": "Nani's silver hair is an",
+      "options": [
+       "inside",
+       "outside"
+      ],
+      "after": "trait.",
+      "a": "outside"
+     },
+     {
+      "before": "Being hardworking is an",
+      "options": [
+       "inside",
+       "outside"
+      ],
+      "after": "trait.",
+      "a": "inside"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blanks from the story.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Uncle Raghav brings a box of ___.",
+      "a": "sweets"
+     },
+     {
+      "q": "Pihu breaks a ___.",
+      "a": "glass"
+     },
+     {
+      "q": "Pihu should tell the truth and be ___.",
+      "a": "honest"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Describe someone in your family. Write one outside and one inside trait.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. My grandfather has a white beard. He is very patient. Check for one trait of each kind."
+   }
+  ]
+ },
+ {
+  "id": "character-traits-inside-and-outside-06",
+  "topic": "character-traits-inside-and-outside",
+  "number": 6,
+  "level": "Practice",
+  "title": "The Football Match",
+  "intro": "The Green Tigers are losing 0-2. Kabira keeps running for every ball. When Tomas falls, she stops and helps him up. Her knees are muddy and her hair is tied in a short ponytail.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Read the story. Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Kabira has a short ponytail.",
+      "a": true
+     },
+     {
+      "q": "Her muddy knees are an inside trait.",
+      "a": false
+     },
+     {
+      "q": "Kabira gives up when her team is losing.",
+      "a": false
+     },
+     {
+      "q": "Helping Tomas up shows that she is caring.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the trait each action shows.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "She keeps running though her team is losing. She is",
+      "options": [
+       "determined",
+       "lazy"
+      ],
+      "after": ".",
+      "a": "determined"
+     },
+     {
+      "before": "She helps Tomas up. She is",
+      "options": [
+       "caring",
+       "selfish"
+      ],
+      "after": ".",
+      "a": "caring"
+     },
+     {
+      "before": "She shakes hands with the other team. She is a",
+      "options": [
+       "good sport",
+       "sore loser"
+      ],
+      "after": ".",
+      "a": "good sport"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort what we know about Kabira.",
+    "marks": 6,
+    "groups": [
+     "Outside traits",
+     "Inside traits"
+    ],
+    "words": [
+     "muddy knees",
+     "determined",
+     "a short ponytail",
+     "caring",
+     "a green jersey",
+     "fair"
+    ],
+    "a": {
+     "muddy knees": "Outside traits",
+     "determined": "Inside traits",
+     "a short ponytail": "Outside traits",
+     "caring": "Inside traits",
+     "a green jersey": "Outside traits",
+     "fair": "Inside traits"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Which action shows the trait? Write the missing word.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "A lazy player would ___ running. (stop / keep)",
+      "a": "stop"
+     },
+     {
+      "q": "A fair player follows the ___. (rules / crowd)",
+      "a": "rules"
+     },
+     {
+      "q": "A caring player ___ a friend who falls. (helps / laughs at)",
+      "a": "helps"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write one action that shows a player is a good team-mate.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. She passes the ball to her friends. Any action that shows sharing, helping or cheering for others."
+   }
+  ]
+ },
+ {
+  "id": "character-traits-inside-and-outside-07",
+  "topic": "character-traits-inside-and-outside",
+  "number": 7,
+  "level": "Practice",
+  "title": "The Lost Kitten",
+  "intro": "Imran hears a tiny meow under a parked car. He lies flat on the road to look. He carries the kitten home in his cap, gives it milk and puts up posters to find its owner.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match Imran's action to the trait it shows.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "He says, \"This kitten is not mine to keep.\"",
+      "right": "honest"
+     },
+     {
+      "left": "He carries the kitten softly in his cap.",
+      "right": "gentle"
+     },
+     {
+      "left": "He gives the kitten milk.",
+      "right": "caring"
+     },
+     {
+      "left": "He puts up posters to find the owner.",
+      "right": "responsible"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blanks from the story.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The kitten was under a parked ___.",
+      "a": "car"
+     },
+     {
+      "q": "Imran carried the kitten in his ___.",
+      "a": "cap"
+     },
+     {
+      "q": "He put up ___ to find the owner.",
+      "a": "posters"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the traits.",
+    "marks": 6,
+    "groups": [
+     "Outside traits",
+     "Inside traits"
+    ],
+    "words": [
+     "a white cap",
+     "gentle",
+     "scratched elbows",
+     "responsible",
+     "spiky hair",
+     "cruel"
+    ],
+    "a": {
+     "a white cap": "Outside traits",
+     "gentle": "Inside traits",
+     "scratched elbows": "Outside traits",
+     "responsible": "Inside traits",
+     "spiky hair": "Outside traits",
+     "cruel": "Inside traits"
+    }
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The story tells us what Imran does.",
+      "a": true
+     },
+     {
+      "q": "Imran's actions show that he is cruel.",
+      "a": false
+     },
+     {
+      "q": "A character can have more than one inside trait.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Finish the sentence with an action from the story.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Imran is caring because",
+      "a": "e.g. Imran is caring because he gives the kitten milk."
+     },
+     {
+      "q": "Imran is responsible because",
+      "a": "e.g. Imran is responsible because he puts up posters to find the owner."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "character-traits-inside-and-outside-08",
+  "topic": "character-traits-inside-and-outside",
+  "number": 8,
+  "level": "Practice",
+  "title": "The Vegetable Market",
+  "intro": "Lakshmi Aunty sells vegetables at the Saturday market. She wears a yellow sari and jingling bangles. She gives Zara ₹10 back when Zara pays too much, and adds free coriander to every bag.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort what we know about Lakshmi Aunty.",
+    "marks": 8,
+    "groups": [
+     "Outside traits",
+     "Inside traits"
+    ],
+    "words": [
+     "a yellow sari",
+     "honest",
+     "jingling bangles",
+     "generous",
+     "a long plait",
+     "hardworking",
+     "a red bindi",
+     "cheerful"
+    ],
+    "a": {
+     "a yellow sari": "Outside traits",
+     "honest": "Inside traits",
+     "jingling bangles": "Outside traits",
+     "generous": "Inside traits",
+     "a long plait": "Outside traits",
+     "hardworking": "Inside traits",
+     "a red bindi": "Outside traits",
+     "cheerful": "Inside traits"
+    }
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct answer.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "She gives back the extra ₹10. She is",
+      "options": [
+       "honest",
+       "greedy"
+      ],
+      "after": ".",
+      "a": "honest"
+     },
+     {
+      "before": "She adds free coriander. She is",
+      "options": [
+       "mean",
+       "generous"
+      ],
+      "after": ".",
+      "a": "generous"
+     },
+     {
+      "before": "She comes to the market at 5 o'clock every morning. She is",
+      "options": [
+       "hardworking",
+       "lazy"
+      ],
+      "after": ".",
+      "a": "hardworking"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blanks from the story.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Lakshmi Aunty wears a ___ sari.",
+      "a": "yellow"
+     },
+     {
+      "q": "She gives Zara ₹ ___ back.",
+      "a": "10"
+     },
+     {
+      "q": "She adds free ___ to every bag.",
+      "a": "coriander"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "A greedy seller would keep the extra money.",
+      "a": true
+     },
+     {
+      "q": "Her bangles tell us that she is honest.",
+      "a": false
+     },
+     {
+      "q": "Her actions tell us that she is honest.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write about a shopkeeper you know. Give one outside trait and one inside trait.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. The baker has a white apron. He is friendly. Check for one trait of each kind."
+   }
+  ]
+ },
+ {
+  "id": "character-traits-inside-and-outside-09",
+  "topic": "character-traits-inside-and-outside",
+  "number": 9,
+  "level": "Practice",
+  "title": "The School Play",
+  "intro": "Class 2B is doing a play. Noor forgot her lines last week, so she practises every night. Vivaan wants every part for himself. Elif paints the trees for the stage and never asks for thanks.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each child to a trait.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Noor practises her lines every night.",
+      "right": "hardworking"
+     },
+     {
+      "left": "Vivaan wants every part for himself.",
+      "right": "selfish"
+     },
+     {
+      "left": "Elif paints the stage and never asks for thanks.",
+      "right": "humble"
+     },
+     {
+      "left": "Teacher waits calmly while they try again.",
+      "right": "patient"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Write the opposite trait. Use: lazy, rude, selfish, dishonest.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "hardworking",
+      "a": "lazy"
+     },
+     {
+      "q": "polite",
+      "a": "rude"
+     },
+     {
+      "q": "generous",
+      "a": "selfish"
+     },
+     {
+      "q": "honest",
+      "a": "dishonest"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Inside traits can be good or not so good.",
+      "a": true
+     },
+     {
+      "q": "\"Selfish\" is a kind way to behave.",
+      "a": false
+     },
+     {
+      "q": "A crown and a cape are things we can see.",
+      "a": true
+     },
+     {
+      "q": "We learn about Noor from what she does.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct word.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "The king's golden crown is an",
+      "options": [
+       "inside",
+       "outside"
+      ],
+      "after": "trait.",
+      "a": "outside"
+     },
+     {
+      "before": "The king shares his food with the poor. \"Generous\" is an",
+      "options": [
+       "inside",
+       "outside"
+      ],
+      "after": "trait.",
+      "a": "inside"
+     },
+     {
+      "before": "Vivaan could be less selfish if he",
+      "options": [
+       "shared",
+       "grabbed"
+      ],
+      "after": "the parts.",
+      "a": "shared"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Which child would you like as a friend? Use the word because.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I would like Elif as a friend because she helps without showing off. The reason must come from the story."
+   }
+  ]
+ },
+ {
+  "id": "character-traits-inside-and-outside-10",
+  "topic": "character-traits-inside-and-outside",
+  "number": 10,
+  "level": "Practice",
+  "title": "Beach Clean-Up Day",
+  "intro": "On Saturday, children clean Kite Beach. Hana fills three bags with bottles. Dhruv sits on a rock and eats chips. Old Mr Saeed, in his wide straw hat, shows everyone how to sort the rubbish.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the trait each action shows.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Hana fills three bags. She is",
+      "options": [
+       "hardworking",
+       "lazy"
+      ],
+      "after": ".",
+      "a": "hardworking"
+     },
+     {
+      "before": "Dhruv sits and eats chips while others work. He is",
+      "options": [
+       "helpful",
+       "lazy"
+      ],
+      "after": ".",
+      "a": "lazy"
+     },
+     {
+      "before": "Mr Saeed teaches the children. He is",
+      "options": [
+       "helpful",
+       "unkind"
+      ],
+      "after": ".",
+      "a": "helpful"
+     },
+     {
+      "before": "Hana drops her chips packet in the bin. She is",
+      "options": [
+       "careless",
+       "responsible"
+      ],
+      "after": ".",
+      "a": "responsible"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the traits.",
+    "marks": 6,
+    "groups": [
+     "Outside traits",
+     "Inside traits"
+    ],
+    "words": [
+     "a wide straw hat",
+     "lazy",
+     "sunburnt nose",
+     "responsible",
+     "rubber gloves",
+     "helpful"
+    ],
+    "a": {
+     "a wide straw hat": "Outside traits",
+     "lazy": "Inside traits",
+     "sunburnt nose": "Outside traits",
+     "responsible": "Inside traits",
+     "rubber gloves": "Outside traits",
+     "helpful": "Inside traits"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blanks from the story.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Hana fills ___ bags with bottles.",
+      "a": "3 / three"
+     },
+     {
+      "q": "Dhruv sits on a ___.",
+      "a": "rock"
+     },
+     {
+      "q": "Mr Saeed wears a wide straw ___.",
+      "a": "hat"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Finish each sentence with an action from the story.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Hana is hardworking because",
+      "a": "e.g. Hana is hardworking because she fills three bags with bottles."
+     },
+     {
+      "q": "Dhruv is lazy because",
+      "a": "e.g. Dhruv is lazy because he sits and eats chips while others work."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "What could Dhruv do to show he is helpful?",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. He could pick up bottles with Hana. Any helpful action at the beach."
+   }
+  ]
+ },
+ {
+  "id": "character-traits-inside-and-outside-11",
+  "topic": "character-traits-inside-and-outside",
+  "number": 11,
+  "level": "Challenge",
+  "title": "The Science Fair",
+  "intro": "Aditi's volcano model will not erupt. She tries four times. When it works, she lets Ben, whose model broke, share her table. \"We can both show our work,\" she says.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "What a character says also shows traits. Match the words to the trait.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "\"We can both show our work.\"",
+      "right": "generous"
+     },
+     {
+      "left": "\"I will try one more time.\"",
+      "right": "determined"
+     },
+     {
+      "left": "\"I made the best model. Yours is silly.\"",
+      "right": "boastful"
+     },
+     {
+      "left": "\"I am sorry I knocked your table.\"",
+      "right": "polite"
+     },
+     {
+      "left": "\"How does a volcano work? Tell me more!\"",
+      "right": "curious"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "We can learn inside traits from what a character says.",
+      "a": true
+     },
+     {
+      "q": "Trying four times shows that Aditi gives up easily.",
+      "a": false
+     },
+     {
+      "q": "Aditi's lab coat is an outside trait.",
+      "a": true
+     },
+     {
+      "q": "Sharing her table shows that Aditi is generous.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write the trait. Use: curious, determined, generous.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Aditi tries again and again. She is ___.",
+      "a": "determined"
+     },
+     {
+      "q": "She shares her table with Ben. She is ___.",
+      "a": "generous"
+     },
+     {
+      "q": "A child who asks many questions is ___.",
+      "a": "curious"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Give a clue from the story for each trait.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Aditi is determined because",
+      "a": "e.g. Aditi is determined because she tries four times to make the volcano erupt."
+     },
+     {
+      "q": "Aditi is generous because",
+      "a": "e.g. Aditi is generous because she lets Ben share her table."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write something a boastful child might say.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. \"I am the smartest in the class.\" Any sentence that shows off."
+   }
+  ]
+ },
+ {
+  "id": "character-traits-inside-and-outside-12",
+  "topic": "character-traits-inside-and-outside",
+  "number": 12,
+  "level": "Challenge",
+  "title": "The Holi Party",
+  "intro": "At the Holi party, Rudra throws colour at a crying toddler. His sister Mishti wipes the toddler's face and gives her a balloon. By the end, Mishti's white kurta is pink, green and purple.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Sort the words. Do they tell about Rudra or Mishti?",
+    "marks": 6,
+    "groups": [
+     "Rudra",
+     "Mishti"
+    ],
+    "words": [
+     "thoughtless",
+     "gentle",
+     "rough",
+     "caring",
+     "unkind",
+     "thoughtful"
+    ],
+    "a": {
+     "thoughtless": "Rudra",
+     "gentle": "Mishti",
+     "rough": "Rudra",
+     "caring": "Mishti",
+     "unkind": "Rudra",
+     "thoughtful": "Mishti"
+    }
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Mishti's colourful kurta is an",
+      "options": [
+       "inside",
+       "outside"
+      ],
+      "after": "trait.",
+      "a": "outside"
+     },
+     {
+      "before": "Being gentle is an",
+      "options": [
+       "inside",
+       "outside"
+      ],
+      "after": "trait.",
+      "a": "inside"
+     },
+     {
+      "before": "Rudra throws colour at a crying child. He is being",
+      "options": [
+       "unkind",
+       "helpful"
+      ],
+      "after": ".",
+      "a": "unkind"
+     },
+     {
+      "before": "Mishti gives the toddler a balloon. She is",
+      "options": [
+       "thoughtful",
+       "greedy"
+      ],
+      "after": ".",
+      "a": "thoughtful"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Two characters in one story can have different traits.",
+      "a": true
+     },
+     {
+      "q": "A brother and sister always have the same inside traits.",
+      "a": false
+     },
+     {
+      "q": "Mishti's actions show us she is caring.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "A character can change. Fill in the blanks.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Rudra says sorry to the toddler. Now he is being ___. (kind / rude)",
+      "a": "kind"
+     },
+     {
+      "q": "He shares his colours with her. Now he is being ___. (selfish / generous)",
+      "a": "generous"
+     },
+     {
+      "q": "We know he changed because of his ___. (actions / shoes)",
+      "a": "actions"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Finish the sentence with a clue from the story.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Mishti is caring because",
+      "a": "e.g. Mishti is caring because she wipes the toddler's face and gives her a balloon."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "character-traits-inside-and-outside-13",
+  "topic": "character-traits-inside-and-outside",
+  "number": 13,
+  "level": "Challenge",
+  "title": "A Night at the Camp",
+  "intro": "The scouts are camping near Hatta. An owl hoots and Pavel hides in his sleeping bag. Jia switches on her torch and walks him to the campfire. \"I was scared too, my first time,\" she says.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Jia walks Pavel to the campfire.",
+      "a": true
+     },
+     {
+      "q": "Jia laughs at Pavel for being scared.",
+      "a": false
+     },
+     {
+      "q": "\"I was scared too\" shows that Jia is understanding.",
+      "a": true
+     },
+     {
+      "q": "Jia's torch is an inside trait.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "A feeling passes quickly. A trait stays. Sort the words.",
+    "marks": 6,
+    "groups": [
+     "Feeling",
+     "Inside trait"
+    ],
+    "words": [
+     "scared",
+     "brave",
+     "sleepy",
+     "kind",
+     "excited",
+     "honest"
+    ],
+    "a": {
+     "scared": "Feeling",
+     "brave": "Inside trait",
+     "sleepy": "Feeling",
+     "kind": "Inside trait",
+     "excited": "Feeling",
+     "honest": "Inside trait"
+    }
+   },
+   {
+    "type": "choice",
+    "title": "Circle the correct answer.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Pavel hides when the owl hoots. Right now he feels",
+      "options": [
+       "scared",
+       "proud"
+      ],
+      "after": ".",
+      "a": "scared"
+     },
+     {
+      "before": "Jia walks out in the dark to help. She is",
+      "options": [
+       "brave",
+       "lazy"
+      ],
+      "after": ".",
+      "a": "brave"
+     },
+     {
+      "before": "Jia tells Pavel he is not alone. She is",
+      "options": [
+       "kind",
+       "boastful"
+      ],
+      "after": ".",
+      "a": "kind"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Finish each sentence with a clue from the story.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Jia is brave because",
+      "a": "e.g. Jia is brave because she walks in the dark with her torch."
+     },
+     {
+      "q": "Jia is kind because",
+      "a": "e.g. Jia is kind because she helps Pavel and tells him she was scared too."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write about a time you were brave. What did you do?",
+    "marks": 3,
+    "lines": 2,
+    "a": "e.g. I was brave when I went on the big slide by myself. The action should show bravery."
+   }
+  ]
+ },
+ {
+  "id": "character-traits-inside-and-outside-14",
+  "topic": "character-traits-inside-and-outside",
+  "number": 14,
+  "level": "Challenge",
+  "title": "The Bakery on the Corner",
+  "intro": "Mr Olivier, the baker, has flour on his apron and a curly moustache. Every evening he packs the unsold bread and takes it to the night watchmen on the street. He never tells anyone about it.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match the clue to what it tells us.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Flour on his apron",
+      "right": "an outside trait"
+     },
+     {
+      "left": "He takes bread to the watchmen.",
+      "right": "he is generous"
+     },
+     {
+      "left": "He never tells anyone about it.",
+      "right": "he is humble"
+     },
+     {
+      "left": "He wakes at 4 o'clock to bake.",
+      "right": "he is hardworking"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the blanks from the story.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Mr Olivier has a curly ___.",
+      "a": "moustache"
+     },
+     {
+      "q": "He has ___ on his apron.",
+      "a": "flour"
+     },
+     {
+      "q": "He takes the unsold ___ to the watchmen.",
+      "a": "bread"
+     },
+     {
+      "q": "\"Humble\" is an ___ trait.",
+      "a": "inside"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Which is the better clue for the trait?",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Generous:",
+      "options": [
+       "He gives away bread.",
+       "He has a moustache."
+      ],
+      "after": "",
+      "a": "He gives away bread."
+     },
+     {
+      "before": "Hardworking:",
+      "options": [
+       "He wears an apron.",
+       "He wakes at 4 o'clock to bake."
+      ],
+      "after": "",
+      "a": "He wakes at 4 o'clock to bake."
+     },
+     {
+      "before": "Friendly:",
+      "options": [
+       "He greets every customer by name.",
+       "He is tall."
+      ],
+      "after": "",
+      "a": "He greets every customer by name."
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write a sentence with because for each trait.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Mr Olivier is generous",
+      "a": "e.g. Mr Olivier is generous because he gives bread to the watchmen."
+     },
+     {
+      "q": "Mr Olivier is humble",
+      "a": "e.g. Mr Olivier is humble because he never tells anyone about his kind act."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Describe Mr Olivier in one sentence. Use one outside and one inside trait.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. Mr Olivier is a generous baker with a curly moustache."
+   }
+  ]
+ },
+ {
+  "id": "character-traits-inside-and-outside-15",
+  "topic": "character-traits-inside-and-outside",
+  "number": 15,
+  "level": "Challenge",
+  "title": "The Airport Queue",
+  "intro": "At Mumbai airport, a tall man in a grey suit shouts at the staff because the queue is slow. Behind him, a girl with pink headphones lets an old lady go ahead of her. A boy in a blue cap finds a passport on the floor and hands it in.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each traveller to an inside trait.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "The man in the grey suit",
+      "right": "impatient"
+     },
+     {
+      "left": "The girl with pink headphones",
+      "right": "considerate"
+     },
+     {
+      "left": "The boy in the blue cap",
+      "right": "honest"
+     },
+     {
+      "left": "The staff who stay calm and smile",
+      "right": "polite"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the clues from the story.",
+    "marks": 6,
+    "groups": [
+     "What we see",
+     "What they do"
+    ],
+    "words": [
+     "a grey suit",
+     "shouts at the staff",
+     "pink headphones",
+     "lets an old lady go ahead",
+     "a blue cap",
+     "hands in a passport"
+    ],
+    "a": {
+     "a grey suit": "What we see",
+     "shouts at the staff": "What they do",
+     "pink headphones": "What we see",
+     "lets an old lady go ahead": "What they do",
+     "a blue cap": "What we see",
+     "hands in a passport": "What they do"
+    }
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "A smart suit tells us that a person is polite.",
+      "a": false
+     },
+     {
+      "q": "We should look at actions to find inside traits.",
+      "a": true
+     },
+     {
+      "q": "The boy's action shows that he is honest.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Finish each sentence with a clue from the story.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The man is impatient because",
+      "a": "e.g. The man is impatient because he shouts at the staff when the queue is slow."
+     },
+     {
+      "q": "The girl is considerate because",
+      "a": "e.g. The girl is considerate because she lets an old lady go ahead of her."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Make up a traveller. Write one outside trait, one inside trait and an action that shows it.",
+    "marks": 4,
+    "lines": 2,
+    "a": "e.g. Mrs Rao has a purple suitcase. She is helpful. She carries a baby's bag for a tired mother. The action must match the inside trait."
+   }
+  ]
+ }
+]
