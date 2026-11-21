@@ -1,0 +1,1888 @@
+[
+ {
+  "id": "making-predictions-01",
+  "topic": "making-predictions",
+  "number": 1,
+  "level": "Starter",
+  "title": "Rain at Recess",
+  "intro": "Dark clouds fill the sky over the school playground. Kabir hears thunder. His teacher looks up at the sky.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "What will happen next? Circle the best answer.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Soon, rain",
+      "options": [
+       "will fall",
+       "will stop"
+      ],
+      "after": "on the playground.",
+      "a": "will fall"
+     },
+     {
+      "before": "The teacher",
+      "options": [
+       "will call the children in",
+       "will open the pool"
+      ],
+      "after": ".",
+      "a": "will call the children in"
+     },
+     {
+      "before": "Kabir",
+      "options": [
+       "will run to the classroom",
+       "will lie on the grass"
+      ],
+      "after": ".",
+      "a": "will run to the classroom"
+     },
+     {
+      "before": "The children",
+      "options": [
+       "will fly kites",
+       "will play indoor games"
+      ],
+      "after": "in class.",
+      "a": "will play indoor games"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each clue to what will happen.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "Dark clouds and thunder",
+      "right": "It will rain."
+     },
+     {
+      "left": "Mama takes out flour and sugar",
+      "right": "She will bake a cake."
+     },
+     {
+      "left": "Kabir yawns and rubs his eyes",
+      "right": "He will go to sleep."
+     },
+     {
+      "left": "The puppy sees an open gate",
+      "right": "It will run outside."
+     },
+     {
+      "left": "The traffic light turns red",
+      "right": "The cars will stop."
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Kabir has no umbrella. Is this a good prediction?",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Kabir will get wet if he goes out now.",
+      "a": true
+     },
+     {
+      "q": "The sun will shine brightly in one minute.",
+      "a": false
+     },
+     {
+      "q": "The playground will be wet after the rain.",
+      "a": true
+     },
+     {
+      "q": "The children will swim in the playground.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write will or won't.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Look at the clouds! It ___ rain soon.",
+      "a": "will"
+     },
+     {
+      "q": "It is raining hard, so we ___ play outside today.",
+      "a": "won't / will not"
+     },
+     {
+      "q": "The puddles ___ dry up when the sun comes out.",
+      "a": "will"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "What will Kabir do after the rain stops? Write one sentence with will.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. Kabir will jump in the puddles. Check the sentence uses will."
+   }
+  ]
+ },
+ {
+  "id": "making-predictions-02",
+  "topic": "making-predictions",
+  "number": 2,
+  "level": "Starter",
+  "title": "Birthday Party at Home",
+  "intro": "Dev is turning five. There are balloons, a big cake with five candles and a pile of gifts on the table.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "What will happen at the party? Circle the best answer.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Dev",
+      "options": [
+       "will blow out the candles",
+       "will eat the balloons"
+      ],
+      "after": ".",
+      "a": "will blow out the candles"
+     },
+     {
+      "before": "Everyone",
+      "options": [
+       "will go to sleep",
+       "will sing Happy Birthday"
+      ],
+      "after": ".",
+      "a": "will sing Happy Birthday"
+     },
+     {
+      "before": "Dev",
+      "options": [
+       "will open his gifts",
+       "will throw his gifts away"
+      ],
+      "after": ".",
+      "a": "will open his gifts"
+     },
+     {
+      "before": "Mama",
+      "options": [
+       "will cut the cake",
+       "will plant the cake"
+      ],
+      "after": ".",
+      "a": "will cut the cake"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort: what is likely at a party, and what is not likely?",
+    "marks": 4,
+    "groups": [
+     "Likely",
+     "Not likely"
+    ],
+    "words": [
+     "play games",
+     "do homework",
+     "eat cake",
+     "clean the garage",
+     "take photos",
+     "go to the dentist",
+     "wear party hats",
+     "wash the car"
+    ],
+    "a": {
+     "play games": "Likely",
+     "do homework": "Not likely",
+     "eat cake": "Likely",
+     "clean the garage": "Not likely",
+     "take photos": "Likely",
+     "go to the dentist": "Not likely",
+     "wear party hats": "Likely",
+     "wash the car": "Not likely"
+    }
+   },
+   {
+    "type": "match",
+    "title": "Match each clue to what will happen next.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "A balloon floats near a pin",
+      "right": "The balloon will pop."
+     },
+     {
+      "left": "Dev's friend spills juice",
+      "right": "Mama will wipe the table."
+     },
+     {
+      "left": "The music starts",
+      "right": "The children will dance."
+     },
+     {
+      "left": "Papa holds up his camera",
+      "right": "He will take a photo."
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write will or won't.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The cake is on the table, so we ___ eat it soon.",
+      "a": "will"
+     },
+     {
+      "q": "Dev is very full, so he ___ eat another slice.",
+      "a": "won't / will not"
+     },
+     {
+      "q": "The guests ___ go home in the evening.",
+      "a": "will"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "What will Dev do with his new toys tomorrow? Write one sentence.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. Dev will play with his new train. Check the sentence uses will."
+   }
+  ]
+ },
+ {
+  "id": "making-predictions-03",
+  "topic": "making-predictions",
+  "number": 3,
+  "level": "Starter",
+  "title": "The Lost Kite at the Beach",
+  "intro": "At Kite Beach in Dubai, the string of Ayaan's red kite snaps. A strong wind pushes the kite towards the sea.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Does this prediction make sense? Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The kite will fly towards the sea.",
+      "a": true
+     },
+     {
+      "q": "The kite will fly back into Ayaan's hands by itself.",
+      "a": false
+     },
+     {
+      "q": "Ayaan will feel upset.",
+      "a": true
+     },
+     {
+      "q": "The kite will turn into a bird.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "What will happen next? Circle the best answer.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Ayaan",
+      "options": [
+       "will shout for help",
+       "will start to sing"
+      ],
+      "after": ".",
+      "a": "will shout for help"
+     },
+     {
+      "before": "A lifeguard",
+      "options": [
+       "will build a sandcastle",
+       "will try to help"
+      ],
+      "after": ".",
+      "a": "will try to help"
+     },
+     {
+      "before": "The wind",
+      "options": [
+       "will keep pushing the kite",
+       "will stop the sea"
+      ],
+      "after": ".",
+      "a": "will keep pushing the kite"
+     },
+     {
+      "before": "Next time, Ayaan",
+      "options": [
+       "will let go of the string",
+       "will hold the string tightly"
+      ],
+      "after": ".",
+      "a": "will hold the string tightly"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each clue at the beach to what will happen.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "The waves get very big",
+      "right": "Swimmers will come out."
+     },
+     {
+      "left": "The sun goes down",
+      "right": "It will get dark."
+     },
+     {
+      "left": "A seagull sees chips on a towel",
+      "right": "It will grab the chips."
+     },
+     {
+      "left": "Ice cream sits in the hot sun",
+      "right": "It will melt."
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write will or won't.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The tide is coming in, so our sandcastle ___ get wet.",
+      "a": "will"
+     },
+     {
+      "q": "The beach cafe is closed, so we ___ buy juice there.",
+      "a": "won't / will not"
+     },
+     {
+      "q": "The sand is very hot, so I ___ wear my slippers.",
+      "a": "will"
+     },
+     {
+      "q": "It is getting late, so the lifeguard ___ go home soon.",
+      "a": "will"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "What do you think will happen to the red kite? Write one sentence.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. The kite will fall into the sea. Accept any sensible idea that uses will."
+   }
+  ]
+ },
+ {
+  "id": "making-predictions-04",
+  "topic": "making-predictions",
+  "number": 4,
+  "level": "Starter",
+  "title": "Planting Seeds with Nani",
+  "intro": "Tara and her Nani planted bean seeds in a pot on their balcony in Pune. They put the pot in the sun and water it every day.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "What will happen to the seeds? Circle the best answer.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "In a few days, a small shoot",
+      "options": [
+       "will come up",
+       "will fly away"
+      ],
+      "after": ".",
+      "a": "will come up"
+     },
+     {
+      "before": "The roots",
+      "options": [
+       "will grow up into the sky",
+       "will grow down into the soil"
+      ],
+      "after": ".",
+      "a": "will grow down into the soil"
+     },
+     {
+      "before": "If Tara forgets to water it, the plant",
+      "options": [
+       "will dry up",
+       "will grow faster"
+      ],
+      "after": ".",
+      "a": "will dry up"
+     },
+     {
+      "before": "After many weeks, the plant",
+      "options": [
+       "will have mangoes",
+       "will have beans"
+      ],
+      "after": ".",
+      "a": "will have beans"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort: will it happen or won't it happen?",
+    "marks": 3,
+    "groups": [
+     "Will happen",
+     "Won't happen"
+    ],
+    "words": [
+     "leaves grow",
+     "plant walks away",
+     "plant gets taller",
+     "seed sings a song",
+     "plant needs water",
+     "pot turns to gold"
+    ],
+    "a": {
+     "leaves grow": "Will happen",
+     "plant walks away": "Won't happen",
+     "plant gets taller": "Will happen",
+     "seed sings a song": "Won't happen",
+     "plant needs water": "Will happen",
+     "pot turns to gold": "Won't happen"
+    }
+   },
+   {
+    "type": "rewrite",
+    "title": "Change each sentence so it tells what will happen.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The plant grows tall.",
+      "a": "The plant will grow tall."
+     },
+     {
+      "q": "Nani picks the beans.",
+      "a": "Nani will pick the beans."
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each clue to what will happen.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "A caterpillar sits on a leaf",
+      "right": "It will eat the leaf."
+     },
+     {
+      "left": "Nani picks up the watering can",
+      "right": "She will water the plant."
+     },
+     {
+      "left": "Tara sees a fat green bean pod",
+      "right": "She will pick it."
+     },
+     {
+      "left": "A strong wind blows",
+      "right": "The leaves will shake."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "What will Tara and Nani do with the beans? Write one sentence.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. They will cook the beans for dinner. Check the sentence uses will."
+   }
+  ]
+ },
+ {
+  "id": "making-predictions-05",
+  "topic": "making-predictions",
+  "number": 5,
+  "level": "Practice",
+  "title": "A Trip to the Souk",
+  "intro": "Zara and her dad walk into the old spice souk. The shopkeeper smiles and holds out a spoon of saffron. Dad takes out his wallet.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Use the clue. Circle what will happen.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Dad takes out his wallet, so he",
+      "options": [
+       "will buy something",
+       "will sell his shoes"
+      ],
+      "after": ".",
+      "a": "will buy something"
+     },
+     {
+      "before": "The shopkeeper holds out a spoon, so Zara",
+      "options": [
+       "will smell the saffron",
+       "will eat the spoon"
+      ],
+      "after": ".",
+      "a": "will smell the saffron"
+     },
+     {
+      "before": "The souk is crowded, so Zara",
+      "options": [
+       "will run off alone",
+       "will hold Dad's hand"
+      ],
+      "after": ".",
+      "a": "will hold Dad's hand"
+     },
+     {
+      "before": "Zara sneezes near the pepper, so she",
+      "options": [
+       "will step back",
+       "will sniff it again"
+      ],
+      "after": ".",
+      "a": "will step back"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each prediction to its reason.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "They will take a taxi home",
+      "right": "because the bags are heavy."
+     },
+     {
+      "left": "Zara will drink some water",
+      "right": "because it is a hot day."
+     },
+     {
+      "left": "The shops will close soon",
+      "right": "because it is late at night."
+     },
+     {
+      "left": "Dad will buy cardamom",
+      "right": "because Mama asked for it."
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write will and the word in brackets.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Dad ___ (buy) some saffron.",
+      "a": "will buy"
+     },
+     {
+      "q": "The shopkeeper ___ (pack) it in a paper bag.",
+      "a": "will pack"
+     },
+     {
+      "q": "Zara ___ (carry) the small bag.",
+      "a": "will carry"
+     },
+     {
+      "q": "Mama ___ (cook) biryani with the spices.",
+      "a": "will cook"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "A prediction is a guess about what will happen next.",
+      "a": true
+     },
+     {
+      "q": "A good prediction uses clues.",
+      "a": true
+     },
+     {
+      "q": "A prediction is always right.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Zara sees a stall with toy camels. What will she do? Write: I think ... because ...",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I think Zara will ask Dad for a toy camel because she likes it. Check for will and a reason."
+   }
+  ]
+ },
+ {
+  "id": "making-predictions-06",
+  "topic": "making-predictions",
+  "number": 6,
+  "level": "Practice",
+  "title": "Sports Day Race",
+  "intro": "It is Sports Day. Ishaan has practised running every evening, and he ties his shoelaces tightly. Leo, next to him, has a loose lace.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "What will happen? Circle the best answer.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Ishaan",
+      "options": [
+       "will walk slowly",
+       "will run fast"
+      ],
+      "after": ".",
+      "a": "will run fast"
+     },
+     {
+      "before": "Leo",
+      "options": [
+       "will need to tie his lace",
+       "will win a car"
+      ],
+      "after": ".",
+      "a": "will need to tie his lace"
+     },
+     {
+      "before": "The crowd",
+      "options": [
+       "will cheer",
+       "will fall asleep"
+      ],
+      "after": ".",
+      "a": "will cheer"
+     },
+     {
+      "before": "The winner",
+      "options": [
+       "will get homework",
+       "will get a medal"
+      ],
+      "after": ".",
+      "a": "will get a medal"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Does the prediction match the clue? Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Ishaan practised every evening, so he will run well.",
+      "a": true
+     },
+     {
+      "q": "Leo has a loose lace, so he may trip or stop.",
+      "a": true
+     },
+     {
+      "q": "The sky is clear, so the race will stop for rain.",
+      "a": false
+     },
+     {
+      "q": "Ishaan's family is watching, so they will cheer for him.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write will or won't with the word in brackets.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "After the race, the children ___ (drink) water.",
+      "a": "will drink"
+     },
+     {
+      "q": "Leo's lace is loose, so he ___ (win) easily.",
+      "a": "won't win / will not win"
+     },
+     {
+      "q": "The teacher ___ (blow) the whistle to start.",
+      "a": "will blow"
+     },
+     {
+      "q": "The relay team ___ (pass) the baton.",
+      "a": "will pass"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each clue to what will happen next.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "The whistle blows",
+      "right": "The runners will start."
+     },
+     {
+      "left": "A runner crosses the line first",
+      "right": "She will get the gold medal."
+     },
+     {
+      "left": "The sack race is next",
+      "right": "Children will climb into sacks."
+     },
+     {
+      "left": "The runners are very tired",
+      "right": "They will sit down and rest."
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Who will win the race, Ishaan or Leo? Write one reason.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I think Ishaan will win because he practised every evening. Check for will and a reason."
+   }
+  ]
+ },
+ {
+  "id": "making-predictions-07",
+  "topic": "making-predictions",
+  "number": 7,
+  "level": "Practice",
+  "title": "Diwali Night",
+  "intro": "It is Diwali. Anaya and her cousins light diyas on the balcony. Grandpa brings out a box of sweets, and the neighbours knock at the door.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each clue to what will happen.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "The neighbours knock at the door",
+      "right": "Papa will open the door."
+     },
+     {
+      "left": "Grandpa opens the box of sweets",
+      "right": "Everyone will share sweets."
+     },
+     {
+      "left": "A strong wind blows",
+      "right": "Some diyas will go out."
+     },
+     {
+      "left": "Mama spreads rangoli colours",
+      "right": "She will make a rangoli."
+     },
+     {
+      "left": "Anaya yawns at midnight",
+      "right": "She will go to bed."
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle will or won't.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The house",
+      "options": [
+       "will",
+       "won't"
+      ],
+      "after": "look bright with lights.",
+      "a": "will"
+     },
+     {
+      "before": "We",
+      "options": [
+       "will",
+       "won't"
+      ],
+      "after": "light diyas near the curtains.",
+      "a": "won't"
+     },
+     {
+      "before": "Grandma",
+      "options": [
+       "will",
+       "won't"
+      ],
+      "after": "give the guests sweets.",
+      "a": "will"
+     },
+     {
+      "before": "The sweets",
+      "options": [
+       "will",
+       "won't"
+      ],
+      "after": "last for a whole year.",
+      "a": "won't"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Make a sentence that tells what will happen.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Anaya / light / the last diya",
+      "a": "Anaya will light the last diya."
+     },
+     {
+      "q": "the cousins / play / games",
+      "a": "The cousins will play games."
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "We use the word will to say what happens next.",
+      "a": true
+     },
+     {
+      "q": "'Anaya lit a diya' is a prediction.",
+      "a": false
+     },
+     {
+      "q": "'Anaya will light a diya' is a prediction.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "What will the family do the next morning? Write one sentence.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. They will visit Nani's house. Check the sentence uses will."
+   }
+  ]
+ },
+ {
+  "id": "making-predictions-08",
+  "topic": "making-predictions",
+  "number": 8,
+  "level": "Practice",
+  "title": "Lunchbox Swap",
+  "intro": "At lunch, Sana opens her box and finds idli. Her best friend Mateo has pasta. Sana loves pasta, and Mateo has never tasted idli.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "What will happen? Circle the best answer.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Sana",
+      "options": [
+       "will ask to swap",
+       "will throw her lunch away"
+      ],
+      "after": ".",
+      "a": "will ask to swap"
+     },
+     {
+      "before": "Mateo",
+      "options": [
+       "will hide under the table",
+       "will try the idli"
+      ],
+      "after": ".",
+      "a": "will try the idli"
+     },
+     {
+      "before": "If Mateo likes idli, he",
+      "options": [
+       "will ask for more",
+       "will cry"
+      ],
+      "after": ".",
+      "a": "will ask for more"
+     },
+     {
+      "before": "The teacher",
+      "options": [
+       "will remind them to wash hands",
+       "will eat their lunch"
+      ],
+      "after": ".",
+      "a": "will remind them to wash hands"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each clue to what will happen next.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Mateo tastes spicy chutney",
+      "right": "He will drink some water."
+     },
+     {
+      "left": "Sana spills pasta on her shirt",
+      "right": "She will wipe it with a napkin."
+     },
+     {
+      "left": "The lunch break ends",
+      "right": "They will go back to class."
+     },
+     {
+      "left": "A friend has no snack",
+      "right": "Sana will share hers."
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Prediction: Mateo will like idli. Sort the clues.",
+    "marks": 3,
+    "groups": [
+     "Good clue",
+     "Not a clue"
+    ],
+    "words": [
+     "he likes new food",
+     "his bag is blue",
+     "he smiles after one bite",
+     "it is Monday",
+     "he asks for more",
+     "he has a pencil"
+    ],
+    "a": {
+     "he likes new food": "Good clue",
+     "his bag is blue": "Not a clue",
+     "he smiles after one bite": "Good clue",
+     "it is Monday": "Not a clue",
+     "he asks for more": "Good clue",
+     "he has a pencil": "Not a clue"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Write will or won't with the word in brackets.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Mateo ___ (taste) the idli first.",
+      "a": "will taste"
+     },
+     {
+      "q": "Sana ___ (share) her pasta.",
+      "a": "will share"
+     },
+     {
+      "q": "They ___ (swap) again tomorrow.",
+      "a": "will swap"
+     },
+     {
+      "q": "Mateo is full, so he ___ (eat) his apple now.",
+      "a": "won't eat / will not eat"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Will Sana and Mateo swap lunch again? Write what you think and why.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. Yes, they will swap again because they both liked it. Check for will and a reason."
+   }
+  ]
+ },
+ {
+  "id": "making-predictions-09",
+  "topic": "making-predictions",
+  "number": 9,
+  "level": "Practice",
+  "title": "The New Library Book",
+  "intro": "Kiara's class gets a new library book called Island Hunt. The cover shows a small boat, big grey waves and a girl holding a map.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Use the cover. Is this a good prediction?",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The story will be about the sea.",
+      "a": true
+     },
+     {
+      "q": "The girl will look for an island.",
+      "a": true
+     },
+     {
+      "q": "The story will be about a cooking show.",
+      "a": false
+     },
+     {
+      "q": "The girl will use the map.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each book title to what it will be about.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "The Lost Puppy",
+      "right": "Someone looks for a dog."
+     },
+     {
+      "left": "Rocket to the Moon",
+      "right": "A trip into space."
+     },
+     {
+      "left": "The Big Bake",
+      "right": "Someone makes a cake."
+     },
+     {
+      "left": "Camel Race in the Desert",
+      "right": "Animals running on sand."
+     },
+     {
+      "left": "The Rainy Picnic",
+      "right": "A day out spoilt by rain."
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Use the picture clues. Circle what will happen.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "The waves are big, so the boat",
+      "options": [
+       "will rock",
+       "will stay still"
+      ],
+      "after": ".",
+      "a": "will rock"
+     },
+     {
+      "before": "The girl has a map, so she",
+      "options": [
+       "will get sleepy",
+       "will find the way"
+      ],
+      "after": ".",
+      "a": "will find the way"
+     },
+     {
+      "before": "The sky is grey, so a storm",
+      "options": [
+       "will come",
+       "will turn pink"
+      ],
+      "after": ".",
+      "a": "will come"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the missing word.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Before reading, we predict from the ___ and the pictures.",
+      "a": "title / cover"
+     },
+     {
+      "q": "As we read, we ___ if our prediction was right.",
+      "a": "check"
+     },
+     {
+      "q": "If we were wrong, we can ___ our prediction.",
+      "a": "change"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Make up a title for a book. Write what you think it will be about.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. The Flying Bicycle. It will be about a boy who rides into the sky. Check for will."
+   }
+  ]
+ },
+ {
+  "id": "making-predictions-10",
+  "topic": "making-predictions",
+  "number": 10,
+  "level": "Practice",
+  "title": "The Surprise Box",
+  "intro": "Part 1: A box with holes in the lid arrives for Rohan. Something inside scratches softly. Part 2: Rohan opens it. A tiny kitten looks up at him.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "These guesses were made after Part 1. Read Part 2. Was the guess right?",
+    "marks": 4,
+    "items": [
+     {
+      "q": "There is a pet inside.",
+      "a": true
+     },
+     {
+      "q": "There is a toy car inside.",
+      "a": false
+     },
+     {
+      "q": "The box is empty.",
+      "a": false
+     },
+     {
+      "q": "The holes in the lid were a clue that something alive was inside.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "What will happen next? Circle the best answer.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The kitten is hungry, so Rohan",
+      "options": [
+       "will give it milk",
+       "will give it a pencil"
+      ],
+      "after": ".",
+      "a": "will give it milk"
+     },
+     {
+      "before": "The kitten is tired, so it",
+      "options": [
+       "will climb a tree",
+       "will curl up and sleep"
+      ],
+      "after": ".",
+      "a": "will curl up and sleep"
+     },
+     {
+      "before": "Rohan wants a name for it, so he",
+      "options": [
+       "will think of a name",
+       "will forget the kitten"
+      ],
+      "after": ".",
+      "a": "will think of a name"
+     },
+     {
+      "before": "The kitten hears a dog bark, so it",
+      "options": [
+       "will hide",
+       "will bark back"
+      ],
+      "after": ".",
+      "a": "will hide"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Which clues in Part 1 showed there was a pet?",
+    "marks": 3,
+    "groups": [
+     "Clue for a pet",
+     "Not a clue"
+    ],
+    "words": [
+     "holes in the lid",
+     "red ribbon",
+     "soft scratching",
+     "brown paper",
+     "a tiny meow",
+     "a sticker"
+    ],
+    "a": {
+     "holes in the lid": "Clue for a pet",
+     "red ribbon": "Not a clue",
+     "soft scratching": "Clue for a pet",
+     "brown paper": "Not a clue",
+     "a tiny meow": "Clue for a pet",
+     "a sticker": "Not a clue"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Write will and the word in brackets.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Rohan ___ (buy) a small bed for the kitten.",
+      "a": "will buy"
+     },
+     {
+      "q": "The kitten ___ (play) with a ball of wool.",
+      "a": "will play"
+     },
+     {
+      "q": "Rohan's mother ___ (help) him look after it.",
+      "a": "will help"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write one new prediction about Rohan and his kitten. Use: I think ... will ...",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I think the kitten will sleep on Rohan's bed. Check for will."
+   }
+  ]
+ },
+ {
+  "id": "making-predictions-11",
+  "topic": "making-predictions",
+  "number": 11,
+  "level": "Challenge",
+  "title": "Monsoon Morning in Mumbai",
+  "intro": "Heavy rain has fallen all night. Water fills the road outside Aarav's building. The school bus is late, and his mother checks the news on her phone.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Use all the clues. Circle what will happen.",
+    "marks": 5,
+    "items": [
+     {
+      "before": "The school",
+      "options": [
+       "will probably close",
+       "will hold a swimming race"
+      ],
+      "after": "today.",
+      "a": "will probably close"
+     },
+     {
+      "before": "Aarav",
+      "options": [
+       "will wear sunglasses",
+       "will wear his raincoat"
+      ],
+      "after": ".",
+      "a": "will wear his raincoat"
+     },
+     {
+      "before": "Cars on the road",
+      "options": [
+       "will move slowly",
+       "will race fast"
+      ],
+      "after": ".",
+      "a": "will move slowly"
+     },
+     {
+      "before": "The bus",
+      "options": [
+       "will fly over the water",
+       "will reach late"
+      ],
+      "after": ".",
+      "a": "will reach late"
+     },
+     {
+      "before": "Mother",
+      "options": [
+       "will call the school",
+       "will go to the beach"
+      ],
+      "after": ".",
+      "a": "will call the school"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Two clues together. Match them to the prediction.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Dark sky and strong wind",
+      "right": "A storm will come."
+     },
+     {
+      "left": "Wet floor and running feet",
+      "right": "Someone will slip."
+     },
+     {
+      "left": "Open window and heavy rain",
+      "right": "The floor will get wet."
+     },
+     {
+      "left": "Empty fridge and guests coming",
+      "right": "Mama will go shopping."
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Change each sentence so it tells what will happen.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The rain stops.",
+      "a": "The rain will stop."
+     },
+     {
+      "q": "Aarav does not go to school today.",
+      "a": "Aarav will not go to school today. / Aarav won't go to school today."
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write will or won't with the word in brackets.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Aarav cannot go out, so he ___ (read) a book at home.",
+      "a": "will read"
+     },
+     {
+      "q": "The puddles are deep, so his shoes ___ (get) wet.",
+      "a": "will get"
+     },
+     {
+      "q": "The power is off, so the fan ___ (work).",
+      "a": "won't work / will not work"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "How will Aarav spend his rainy day? Write two sentences with will.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. Aarav will play board games. He will watch the rain from the window. Check both sentences use will."
+   }
+  ]
+ },
+ {
+  "id": "making-predictions-12",
+  "topic": "making-predictions",
+  "number": 12,
+  "level": "Challenge",
+  "title": "Camping in the Hatta Mountains",
+  "intro": "Meher's family sets up a tent near Hatta. The sun is going down, the air is getting cold, and Papa is collecting dry sticks.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Does this prediction make sense? Circle True or False.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "Papa will light a campfire.",
+      "a": true
+     },
+     {
+      "q": "Meher will put on a warm jacket.",
+      "a": true
+     },
+     {
+      "q": "It will get brighter as the sun goes down.",
+      "a": false
+     },
+     {
+      "q": "The family will sleep in the tent.",
+      "a": true
+     },
+     {
+      "q": "They will go skating on the lake.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort what they packed. Will it be useful tonight?",
+    "marks": 3,
+    "groups": [
+     "Useful",
+     "Not useful"
+    ],
+    "words": [
+     "torch",
+     "snorkel",
+     "blanket",
+     "school tie",
+     "sleeping bag",
+     "ice skates"
+    ],
+    "a": {
+     "torch": "Useful",
+     "snorkel": "Not useful",
+     "blanket": "Useful",
+     "school tie": "Not useful",
+     "sleeping bag": "Useful",
+     "ice skates": "Not useful"
+    }
+   },
+   {
+    "type": "match",
+    "title": "Match each clue to what will happen next.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "A rustle near the tent",
+      "right": "Papa will shine the torch."
+     },
+     {
+      "left": "Marshmallows near the fire",
+      "right": "They will toast them."
+     },
+     {
+      "left": "The stars come out",
+      "right": "Meher will look for star shapes."
+     },
+     {
+      "left": "The fire gets small",
+      "right": "Papa will add more sticks."
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle will or won't.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "The tent has a hole, so rain",
+      "options": [
+       "will",
+       "won't"
+      ],
+      "after": "get in.",
+      "a": "will"
+     },
+     {
+      "before": "They forgot the matches, so they",
+      "options": [
+       "will",
+       "won't"
+      ],
+      "after": "light a fire easily.",
+      "a": "won't"
+     },
+     {
+      "before": "Meher is tired after the hike, so she",
+      "options": [
+       "will",
+       "won't"
+      ],
+      "after": "fall asleep quickly.",
+      "a": "will"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "What will happen in the morning? Write your prediction and one clue.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. Papa will make breakfast on the fire, because he collected sticks. Check for will and a clue."
+   }
+  ]
+ },
+ {
+  "id": "making-predictions-13",
+  "topic": "making-predictions",
+  "number": 13,
+  "level": "Challenge",
+  "title": "The Science Fair Volcano",
+  "intro": "Neel and Ana are making a model volcano for the science fair. They pour vinegar into baking soda inside the volcano. Their teacher stands back and smiles.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "What will happen? Circle the best answer.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The mixture",
+      "options": [
+       "will fizz and bubble",
+       "will freeze"
+      ],
+      "after": ".",
+      "a": "will fizz and bubble"
+     },
+     {
+      "before": "Foam",
+      "options": [
+       "will fly to the ceiling",
+       "will flow down the sides"
+      ],
+      "after": ".",
+      "a": "will flow down the sides"
+     },
+     {
+      "before": "The children watching",
+      "options": [
+       "will clap",
+       "will fall asleep"
+      ],
+      "after": ".",
+      "a": "will clap"
+     },
+     {
+      "before": "If they add more vinegar, the foam",
+      "options": [
+       "will turn to stone",
+       "will bubble again"
+      ],
+      "after": ".",
+      "a": "will bubble again"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Use what you already know. Match each cause to what will happen.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "A glass falls on a hard floor",
+      "right": "It will break."
+     },
+     {
+      "left": "Bread is left out for many days",
+      "right": "It will go mouldy."
+     },
+     {
+      "left": "A balloon is blown up too much",
+      "right": "It will burst."
+     },
+     {
+      "left": "A pot of water is heated",
+      "right": "It will boil."
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write will or won't with the word in brackets.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The judges ___ (look) at every model.",
+      "a": "will look"
+     },
+     {
+      "q": "Neel ___ (explain) how the volcano works.",
+      "a": "will explain"
+     },
+     {
+      "q": "They ___ (clean) the table after the show.",
+      "a": "will clean"
+     },
+     {
+      "q": "Without vinegar, the volcano ___ (fizz).",
+      "a": "won't fizz / will not fizz"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "A good prediction can use what we already know.",
+      "a": true
+     },
+     {
+      "q": "We should never change a prediction.",
+      "a": false
+     },
+     {
+      "q": "'The volcano will fizz because vinegar and baking soda bubble' gives a reason.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Will Neel and Ana win a prize? Write what you think and why.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I think they will win a prize because their volcano worked well. Check for will and a reason."
+   }
+  ]
+ },
+ {
+  "id": "making-predictions-14",
+  "topic": "making-predictions",
+  "number": 14,
+  "level": "Challenge",
+  "title": "A New Girl in Class",
+  "intro": "A new girl, Lina, joins Class 2B in Sharjah. She stands at the door, holding her bag tightly and looking at her shoes. Ms Fernandes points to an empty seat next to Priya.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "What will happen? Circle the best answer.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Lina",
+      "options": [
+       "will sit next to Priya",
+       "will sit on the teacher's desk"
+      ],
+      "after": ".",
+      "a": "will sit next to Priya"
+     },
+     {
+      "before": "Priya",
+      "options": [
+       "will move away",
+       "will say hello"
+      ],
+      "after": ".",
+      "a": "will say hello"
+     },
+     {
+      "before": "At break, Priya",
+      "options": [
+       "will show Lina the playground",
+       "will hide Lina's bag"
+      ],
+      "after": ".",
+      "a": "will show Lina the playground"
+     },
+     {
+      "before": "Ms Fernandes",
+      "options": [
+       "will send Lina out",
+       "will introduce Lina to the class"
+      ],
+      "after": ".",
+      "a": "will introduce Lina to the class"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each clue to what will happen next.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Priya waves at Lina",
+      "right": "Lina will wave back."
+     },
+     {
+      "left": "The class sings a welcome song",
+      "right": "Lina will smile."
+     },
+     {
+      "left": "Lina's pencil breaks",
+      "right": "Priya will lend her one."
+     },
+     {
+      "left": "The bell rings for break",
+      "right": "They will go out to play."
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Make a sentence that tells what will happen.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Lina / make / new friends",
+      "a": "Lina will make new friends."
+     },
+     {
+      "q": "Priya / show / Lina the library",
+      "a": "Priya will show Lina the library."
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Does this prediction make sense? Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Lina will feel happier as the days go by.",
+      "a": true
+     },
+     {
+      "q": "Priya will be unkind to Lina.",
+      "a": false
+     },
+     {
+      "q": "Lina will never come back to school.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "What will Lina tell her family after school? Write two sentences.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. Lina will say she has a new friend called Priya. She will say school was fun. Check for will."
+   }
+  ]
+ },
+ {
+  "id": "making-predictions-15",
+  "topic": "making-predictions",
+  "number": 15,
+  "level": "Challenge",
+  "title": "The Tortoise Escape",
+  "intro": "Ms Rao's class has a pet tortoise named Pebble. One morning the lid of his box is open, a trail of lettuce leads to the door, and the door is open a little.",
+  "sections": [
+   {
+    "type": "truefalse",
+    "title": "Use the clues. Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Pebble has walked out of his box.",
+      "a": true
+     },
+     {
+      "q": "The lettuce trail will help the children find Pebble.",
+      "a": true
+     },
+     {
+      "q": "Pebble will be far away in another city.",
+      "a": false
+     },
+     {
+      "q": "The children will look near the door first.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "What will happen? Circle the best answer.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "Pebble moves slowly, so he",
+      "options": [
+       "will not be far",
+       "will be very far"
+      ],
+      "after": ".",
+      "a": "will not be far"
+     },
+     {
+      "before": "Tortoises like to hide, so Pebble",
+      "options": [
+       "will be on the roof",
+       "will be under something"
+      ],
+      "after": ".",
+      "a": "will be under something"
+     },
+     {
+      "before": "The children",
+      "options": [
+       "will search the corridor",
+       "will go home"
+      ],
+      "after": ".",
+      "a": "will search the corridor"
+     },
+     {
+      "before": "Next time, Ms Rao",
+      "options": [
+       "will leave the lid open",
+       "will close the lid"
+      ],
+      "after": ".",
+      "a": "will close the lid"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Which clues will help find Pebble?",
+    "marks": 3,
+    "groups": [
+     "Helpful clue",
+     "Not helpful"
+    ],
+    "words": [
+     "lettuce trail",
+     "it is Tuesday",
+     "open door",
+     "a red pencil",
+     "scratch marks",
+     "a clean board"
+    ],
+    "a": {
+     "lettuce trail": "Helpful clue",
+     "it is Tuesday": "Not helpful",
+     "open door": "Helpful clue",
+     "a red pencil": "Not helpful",
+     "scratch marks": "Helpful clue",
+     "a clean board": "Not helpful"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Write will or won't with the word in brackets.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "When they find Pebble, the children ___ (cheer).",
+      "a": "will cheer"
+     },
+     {
+      "q": "Pebble ___ (go) back into his box.",
+      "a": "will go"
+     },
+     {
+      "q": "Ms Rao ___ (leave) the lid open again.",
+      "a": "won't leave / will not leave"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write an ending for the story. Use will and one clue.",
+    "marks": 3,
+    "lines": 3,
+    "a": "e.g. The children will follow the lettuce and find Pebble under the shoe rack. Check for will and a clue from the story."
+   }
+  ]
+ }
+]
