@@ -1,0 +1,1739 @@
+[
+ {
+  "id": "add-and-subtract-word-problems-01",
+  "topic": "add-and-subtract-word-problems",
+  "number": 1,
+  "level": "Starter",
+  "title": "The Toy Shop in Karama",
+  "intro": "Ishaan and his sister visit a busy toy shop. Read each story and decide: add or subtract?",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Clue words: write each one under Add or Subtract.",
+    "marks": 6,
+    "groups": [
+     "Add",
+     "Subtract"
+    ],
+    "words": [
+     "in all",
+     "left",
+     "altogether",
+     "gave away",
+     "total",
+     "fewer"
+    ],
+    "a": {
+     "in all": "Add",
+     "left": "Subtract",
+     "altogether": "Add",
+     "gave away": "Subtract",
+     "total": "Add",
+     "fewer": "Subtract"
+    }
+   },
+   {
+    "type": "choice",
+    "title": "Circle add or subtract.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "The shop had 45 toy cars. It sold 12. We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "subtract"
+     },
+     {
+      "before": "Ishaan has 23 stickers. He buys 14 more. We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "add"
+     },
+     {
+      "before": "There are 31 dolls and 26 teddies on the shelf. How many toys in all? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "add"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the toy shop stories.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The shop had 58 yo-yos. Children bought 23. ___ yo-yos are left.",
+      "a": "35"
+     },
+     {
+      "q": "Ishaan has 34 marbles. His sister gives him 25. Now he has ___ marbles.",
+      "a": "59"
+     },
+     {
+      "q": "A box holds 42 red balls and 36 blue balls. There are ___ balls altogether.",
+      "a": "78"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Add or subtract.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "27 + 41",
+      "a": "68"
+     },
+     {
+      "q": "69 − 35",
+      "a": "34"
+     },
+     {
+      "q": "53 + 24",
+      "a": "77"
+     },
+     {
+      "q": "88 − 47",
+      "a": "41"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the number sentence and the answer.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "Ishaan had 39 trading cards. He gave 15 to his friend Yusuf. How many cards are left?",
+      "a": "e.g. 39 − 15 = 24. Ishaan has 24 cards left."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "add-and-subtract-word-problems-02",
+  "topic": "add-and-subtract-word-problems",
+  "number": 2,
+  "level": "Starter",
+  "title": "The Diwali Sweets Box",
+  "intro": "Ammamma is packing sweets for Diwali. Help her count what she adds and what gets eaten.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Solve the sweet stories.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Ammamma made 36 ladoos and 28 barfis. She made ___ sweets in all.",
+      "a": "64"
+     },
+     {
+      "q": "There were 64 jalebis. The cousins ate 37. ___ jalebis are left.",
+      "a": "27"
+     },
+     {
+      "q": "Tara packed 17 boxes. Ravi packed 15 boxes. They packed ___ boxes altogether.",
+      "a": "32"
+     },
+     {
+      "q": "The tin had 50 kaju katlis. Ammamma gave away 26. ___ are left in the tin.",
+      "a": "24"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle add or subtract.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Ravi lit 18 diyas. Tara lit 12 more diyas. We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "add"
+     },
+     {
+      "before": "There were 40 diyas. 9 diyas blew out. How many are still lit? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "subtract"
+     },
+     {
+      "before": "Papa bought 25 rockets. 11 were used on the first night. How many are left? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "subtract"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Work out each sum. Carry or borrow when you need to.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "46",
+      "op": "+",
+      "bottom": "38",
+      "a": "84"
+     },
+     {
+      "top": "72",
+      "op": "-",
+      "bottom": "29",
+      "a": "43"
+     },
+     {
+      "top": "55",
+      "op": "+",
+      "bottom": "27",
+      "a": "82"
+     },
+     {
+      "top": "81",
+      "op": "-",
+      "bottom": "46",
+      "a": "35"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "29 + 16 = 45",
+      "a": true
+     },
+     {
+      "q": "63 − 28 = 45",
+      "a": false
+     },
+     {
+      "q": "47 + 34 = 71",
+      "a": false
+     },
+     {
+      "q": "90 − 52 = 38",
+      "a": true
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "add-and-subtract-word-problems-03",
+  "topic": "add-and-subtract-word-problems",
+  "number": 3,
+  "level": "Starter",
+  "title": "The School Library",
+  "intro": "Ms Fernandes runs the class library. Find out how many books come in and go out.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle add or subtract.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "The library had 86 books. Children borrowed 34. We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "subtract"
+     },
+     {
+      "before": "Ms Fernandes got 22 new storybooks and 19 new comics. We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "add"
+     },
+     {
+      "before": "Aditi read 14 books. Zayd read 9 books. How many more did Aditi read? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "subtract"
+     },
+     {
+      "before": "On Monday 31 children visited. On Tuesday 27 visited. How many in all? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "add"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each sum to its answer.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "52 + 19",
+      "right": "71"
+     },
+     {
+      "left": "94 − 38",
+      "right": "56"
+     },
+     {
+      "left": "36 + 45",
+      "right": "81"
+     },
+     {
+      "left": "70 − 26",
+      "right": "44"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the library stories.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "There were 75 picture books on the shelf. 48 were borrowed. ___ are still on the shelf.",
+      "a": "27"
+     },
+     {
+      "q": "Aditi has read 47 pages. She reads 29 more pages. She has read ___ pages now.",
+      "a": "76"
+     },
+     {
+      "q": "The class has 33 poetry books and 38 science books. That is ___ books in total.",
+      "a": "71"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "\"Borrowed\" in a story often tells us to subtract.",
+      "a": true
+     },
+     {
+      "q": "\"In all\" tells us to subtract.",
+      "a": false
+     },
+     {
+      "q": "To find how many more, we subtract the smaller number from the bigger one.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the number sentence and the answer.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "Zayd has 28 bookmarks. Emma has 45 bookmarks. How many more bookmarks does Emma have?",
+      "a": "e.g. 45 − 28 = 17. Emma has 17 more bookmarks."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "add-and-subtract-word-problems-04",
+  "topic": "add-and-subtract-word-problems",
+  "number": 4,
+  "level": "Starter",
+  "title": "Feeding Ducks at Safa Park",
+  "intro": "Arjun and his grandpa spend the afternoon at the park lake. Solve the park stories.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Write each clue word under Add or Subtract.",
+    "marks": 6,
+    "groups": [
+     "Add",
+     "Subtract"
+    ],
+    "words": [
+     "joined",
+     "flew away",
+     "how many more",
+     "both",
+     "ate",
+     "sum"
+    ],
+    "a": {
+     "joined": "Add",
+     "flew away": "Subtract",
+     "how many more": "Subtract",
+     "both": "Add",
+     "ate": "Subtract",
+     "sum": "Add"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Solve the park stories.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "There were 26 ducks on the lake. 17 more ducks joined them. Now there are ___ ducks.",
+      "a": "43"
+     },
+     {
+      "q": "Grandpa had 45 pieces of bread. The ducks ate 28 pieces. ___ pieces are left.",
+      "a": "17"
+     },
+     {
+      "q": "62 pigeons sat on the fence. 34 flew away. ___ pigeons are still there.",
+      "a": "28"
+     },
+     {
+      "q": "Arjun counted 39 red flowers and 44 yellow flowers. He counted ___ flowers in all.",
+      "a": "83"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Add or subtract.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "57",
+      "op": "+",
+      "bottom": "26",
+      "a": "83"
+     },
+     {
+      "top": "91",
+      "op": "-",
+      "bottom": "54",
+      "a": "37"
+     },
+     {
+      "top": "38",
+      "op": "+",
+      "bottom": "38",
+      "a": "76"
+     },
+     {
+      "top": "60",
+      "op": "-",
+      "bottom": "23",
+      "a": "37"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle add or subtract.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Arjun walked 35 steps to the slide and 42 steps to the swing. How many steps altogether? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "add"
+     },
+     {
+      "before": "There were 24 boats. 8 boats went out on the lake. How many stayed at the dock? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "subtract"
+     },
+     {
+      "before": "One bench had 7 people and the next bench had 5. How many people sat on both benches? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "add"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "add-and-subtract-word-problems-05",
+  "topic": "add-and-subtract-word-problems",
+  "number": 5,
+  "level": "Practice",
+  "title": "The Kirana Store",
+  "intro": "Meher goes shopping with Mummy at the corner kirana store. Add the bills and work out the change.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each sum to its answer.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "₹35 + ₹42",
+      "right": "₹77"
+     },
+     {
+      "left": "₹60 − ₹18",
+      "right": "₹42"
+     },
+     {
+      "left": "₹49 + ₹26",
+      "right": "₹75"
+     },
+     {
+      "left": "₹100 − ₹64",
+      "right": "₹36"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the shopping stories.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Rice costs ₹68 and dal costs ₹25. Together they cost ₹___.",
+      "a": "93"
+     },
+     {
+      "q": "Mummy paid ₹50 for biscuits costing ₹32. She got ₹___ change.",
+      "a": "18"
+     },
+     {
+      "q": "A packet of tea is ₹74. Sugar is ₹46. The tea costs ₹___ more than the sugar.",
+      "a": "28"
+     },
+     {
+      "q": "Meher bought a pencil for ₹15 and an eraser for ₹9. She spent ₹___ in all.",
+      "a": "24"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle add or subtract.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Milk is ₹32 and bread is ₹40. What is the total cost? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "add"
+     },
+     {
+      "before": "Meher had ₹80. She spent ₹55. How much does she have now? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "subtract"
+     },
+     {
+      "before": "Soap is ₹38 and shampoo is ₹95. How much cheaper is the soap? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "subtract"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Check the shopkeeper. Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "₹45 + ₹37 = ₹82",
+      "a": true
+     },
+     {
+      "q": "₹90 − ₹47 = ₹53",
+      "a": false
+     },
+     {
+      "q": "₹28 + ₹56 = ₹84",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the number sentence and the answer.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "Mummy had ₹100. She bought eggs for ₹72. How much money is left?",
+      "a": "e.g. 100 − 72 = 28. Mummy has ₹28 left."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "add-and-subtract-word-problems-06",
+  "topic": "add-and-subtract-word-problems",
+  "number": 6,
+  "level": "Practice",
+  "title": "Global Village Night",
+  "intro": "Kiara and her family explore the world pavilions at Global Village. Solve the stories as you go.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle add or subtract.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Kiara visited 14 pavilions. Her brother visited 9 more. How many did he visit? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "add"
+     },
+     {
+      "before": "There were 120 balloons at a stall. 45 were sold. How many are left? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "subtract"
+     },
+     {
+      "before": "A ride ticket is 25 tokens. A snack is 15 tokens. How many tokens for both? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "add"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Work out each sum.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "146",
+      "op": "+",
+      "bottom": "32",
+      "a": "178"
+     },
+     {
+      "top": "258",
+      "op": "-",
+      "bottom": "37",
+      "a": "221"
+     },
+     {
+      "top": "315",
+      "op": "+",
+      "bottom": "64",
+      "a": "379"
+     },
+     {
+      "top": "479",
+      "op": "-",
+      "bottom": "156",
+      "a": "323"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the Global Village stories.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The Ferris wheel took 132 riders in the first hour and 45 in the second hour. It took ___ riders in total.",
+      "a": "177"
+     },
+     {
+      "q": "A stall had 285 paper lanterns. It sold 63. ___ lanterns are left.",
+      "a": "222"
+     },
+     {
+      "q": "Kiara has 70 tokens. A ride needs 35 tokens. She will have ___ tokens left after the ride.",
+      "a": "35"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "If Kiara has 40 tokens, she can buy a 45-token ride.",
+      "a": false
+     },
+     {
+      "q": "152 + 23 = 175",
+      "a": true
+     },
+     {
+      "q": "\"How many are left\" tells us to add.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write your own story sum about Global Village. Then solve it.",
+    "marks": 3,
+    "lines": 2,
+    "a": "Answers will vary. Check the story has two numbers, a clear question and a correct answer."
+   }
+  ]
+ },
+ {
+  "id": "add-and-subtract-word-problems-07",
+  "topic": "add-and-subtract-word-problems",
+  "number": 7,
+  "level": "Practice",
+  "title": "The Onam Pookalam",
+  "intro": "Neha and her cousins make a flower carpet for Onam. Count the petals and flowers.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Is it an add story or a subtract story?",
+    "marks": 6,
+    "groups": [
+     "Add",
+     "Subtract"
+    ],
+    "words": [
+     "picked more",
+     "wilted",
+     "put together",
+     "used up",
+     "difference",
+     "plus"
+    ],
+    "a": {
+     "picked more": "Add",
+     "wilted": "Subtract",
+     "put together": "Add",
+     "used up": "Subtract",
+     "difference": "Subtract",
+     "plus": "Add"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Solve the pookalam stories.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Neha picked 87 marigolds. Her cousin picked 56. They picked ___ marigolds in all.",
+      "a": "143"
+     },
+     {
+      "q": "The basket had 143 jasmine flowers. They used 68. ___ flowers are left.",
+      "a": "75"
+     },
+     {
+      "q": "The first ring has 214 petals and the second ring has 98. The first ring has ___ more petals.",
+      "a": "116"
+     },
+     {
+      "q": "On day one they used 165 flowers. On day two they used 128. They used ___ flowers on both days.",
+      "a": "293"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Add or subtract.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "76 + 58",
+      "a": "134"
+     },
+     {
+      "q": "132 − 47",
+      "a": "85"
+     },
+     {
+      "q": "205 + 89",
+      "a": "294"
+     },
+     {
+      "q": "300 − 125",
+      "a": "175"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the number sentence and the answer.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "Neha made 48 leaf patterns. Her cousin made 36. How many patterns did they make together?",
+      "a": "e.g. 48 + 36 = 84. They made 84 patterns together."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "add-and-subtract-word-problems-08",
+  "topic": "add-and-subtract-word-problems",
+  "number": 8,
+  "level": "Practice",
+  "title": "The Class Picnic at Zabeel Park",
+  "intro": "Class 2B is off on a picnic. Help Mr Khan with the counting.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Solve the picnic stories.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "38 children came by bus and 7 came by car. ___ children came to the picnic.",
+      "a": "45"
+     },
+     {
+      "q": "Mr Khan packed 96 juice boxes. The children drank 59. ___ juice boxes are left.",
+      "a": "37"
+     },
+     {
+      "q": "Team Blue scored 83 points. Team Green scored 67. Team Blue scored ___ more points.",
+      "a": "16"
+     },
+     {
+      "q": "Lena collected 58 leaves and Omar collected 77. They collected ___ leaves together.",
+      "a": "135"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the answer that makes sense.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "18 children started the sack race. 6 fell and stopped. Children still racing:",
+      "options": [
+       "24",
+       "12"
+      ],
+      "after": "",
+      "a": "12"
+     },
+     {
+      "before": "There were 45 sandwiches and 15 more were made. Sandwiches now:",
+      "options": [
+       "60",
+       "30"
+      ],
+      "after": "",
+      "a": "60"
+     },
+     {
+      "before": "Omar has 30 grapes and Lena has 22. Omar has this many more:",
+      "options": [
+       "52",
+       "8"
+      ],
+      "after": "",
+      "a": "8"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Add or subtract.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "68",
+      "op": "+",
+      "bottom": "57",
+      "a": "125"
+     },
+     {
+      "top": "124",
+      "op": "-",
+      "bottom": "58",
+      "a": "66"
+     },
+     {
+      "top": "93",
+      "op": "+",
+      "bottom": "89",
+      "a": "182"
+     },
+     {
+      "top": "150",
+      "op": "-",
+      "bottom": "76",
+      "a": "74"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Read the story, then circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "There were 24 plates. 9 were used. So 15 plates are left.",
+      "a": true
+     },
+     {
+      "q": "12 girls and 14 boys played. So 28 children played.",
+      "a": false
+     },
+     {
+      "q": "A mat costs ₹60. Mr Khan paid ₹100. His change is ₹40.",
+      "a": true
+     },
+     {
+      "q": "Omar had 35 crackers and gave 12 to Lena. Now he has 47.",
+      "a": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "add-and-subtract-word-problems-09",
+  "topic": "add-and-subtract-word-problems",
+  "number": 9,
+  "level": "Practice",
+  "title": "The Stationery Shop Sale",
+  "intro": "Kabir is buying things for the new term. Compare prices and spend wisely.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Which shop is cheaper? Write A or B.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "A geometry box costs ₹185 at Shop A and ₹162 at Shop B. Shop ___ is cheaper.",
+      "a": "B"
+     },
+     {
+      "q": "A pack of crayons costs ₹74 at Shop A and ₹89 at Shop B. Shop ___ is cheaper.",
+      "a": "A"
+     },
+     {
+      "q": "A school bag costs ₹460 at Shop A and ₹495 at Shop B. Shop ___ is cheaper.",
+      "a": "A"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "How much do you save at the cheaper shop?",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Geometry box: ₹185 − ₹162 = ₹___",
+      "a": "23"
+     },
+     {
+      "q": "Crayons: ₹89 − ₹74 = ₹___",
+      "a": "15"
+     },
+     {
+      "q": "School bag: ₹495 − ₹460 = ₹___",
+      "a": "35"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle add or subtract.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Kabir buys a notebook for ₹45 and a pen for ₹30. What does he pay? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "add"
+     },
+     {
+      "before": "Kabir has ₹200. He spends ₹125. How much is left? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "subtract"
+     },
+     {
+      "before": "A ruler is ₹25. A sharpener is ₹18. How much more is the ruler? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "subtract"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each bill to its total.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "₹125 + ₹40",
+      "right": "₹165"
+     },
+     {
+      "left": "₹86 + ₹59",
+      "right": "₹145"
+     },
+     {
+      "left": "₹230 + ₹115",
+      "right": "₹345"
+     },
+     {
+      "left": "₹64 + ₹78",
+      "right": "₹142"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the number sentence and the answer.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "Kabir has ₹150. A comic costs ₹95. How much money will he have left?",
+      "a": "e.g. 150 − 95 = 55. He will have ₹55 left."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "add-and-subtract-word-problems-10",
+  "topic": "add-and-subtract-word-problems",
+  "number": 10,
+  "level": "Practice",
+  "title": "The Train to Jaipur",
+  "intro": "Myra and her family take the train to Jaipur. Solve the travel stories.",
+  "sections": [
+   {
+    "type": "column",
+    "title": "Add or subtract.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "248",
+      "op": "+",
+      "bottom": "135",
+      "a": "383"
+     },
+     {
+      "top": "412",
+      "op": "-",
+      "bottom": "187",
+      "a": "225"
+     },
+     {
+      "top": "356",
+      "op": "+",
+      "bottom": "279",
+      "a": "635"
+     },
+     {
+      "top": "603",
+      "op": "-",
+      "bottom": "245",
+      "a": "358"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the train stories.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Coach A has 72 passengers and coach B has 68. That is ___ passengers in both coaches.",
+      "a": "140"
+     },
+     {
+      "q": "The train has 480 seats. 315 seats are filled. ___ seats are empty.",
+      "a": "165"
+     },
+     {
+      "q": "Myra counted 137 cows from the window, then 46 more. She counted ___ cows.",
+      "a": "183"
+     },
+     {
+      "q": "The trip is 308 km. They have gone 175 km. ___ km are still to go.",
+      "a": "133"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle add or subtract.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "At the station 64 people got on and 28 got off. How many more got on than off? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "subtract"
+     },
+     {
+      "before": "Myra ate 6 puris at lunch and 5 at dinner. How many puris did she eat? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "add"
+     },
+     {
+      "before": "The tea seller had 90 cups. He sold 54. How many cups does he have now? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "subtract"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "196 + 57 = 253",
+      "a": true
+     },
+     {
+      "q": "500 − 268 = 242",
+      "a": false
+     },
+     {
+      "q": "137 + 245 = 382",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Myra had ₹90. She bought a toy camel for ₹65. Write a number sentence and the answer.",
+    "marks": 2,
+    "lines": 2,
+    "a": "90 − 65 = 25. Myra has ₹25 left."
+   }
+  ]
+ },
+ {
+  "id": "add-and-subtract-word-problems-11",
+  "topic": "add-and-subtract-word-problems",
+  "number": 11,
+  "level": "Challenge",
+  "title": "My Pocket Money Plan",
+  "intro": "Rohan gets pocket money every week. Plan how to spend and save it.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Two steps! Solve each one.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Rohan had ₹80. He got ₹45 more, then spent ₹60. He now has ₹___.",
+      "a": "65"
+     },
+     {
+      "q": "He bought a kite for ₹55 and string for ₹28. He paid with ₹100. His change is ₹___.",
+      "a": "17"
+     },
+     {
+      "q": "Rohan saved ₹35 in week one and ₹48 in week two. A cricket ball costs ₹120. He needs ₹___ more.",
+      "a": "37"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Can Rohan buy it? Circle Yes or No.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Rohan has ₹150. A puzzle costs ₹165.",
+      "options": [
+       "Yes",
+       "No"
+      ],
+      "after": "",
+      "a": "No"
+     },
+     {
+      "before": "Rohan has ₹200. Paints cost ₹120 and a brush costs ₹70.",
+      "options": [
+       "Yes",
+       "No"
+      ],
+      "after": "",
+      "a": "Yes"
+     },
+     {
+      "before": "Rohan has ₹95. A book costs ₹48 and a pen costs ₹52.",
+      "options": [
+       "Yes",
+       "No"
+      ],
+      "after": "",
+      "a": "No"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Work out the money sums.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "₹275 + ₹148",
+      "a": "423"
+     },
+     {
+      "q": "₹400 − ₹165",
+      "a": "235"
+     },
+     {
+      "q": "₹189 + ₹236",
+      "a": "425"
+     },
+     {
+      "q": "₹512 − ₹278",
+      "a": "234"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Saving ₹25 a week for 4 weeks gives ₹100.",
+      "a": true
+     },
+     {
+      "q": "If something costs more than you have, you can still buy it.",
+      "a": false
+     },
+     {
+      "q": "₹350 − ₹175 = ₹185",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Rohan has ₹300. Choose two things he could buy for less than ₹300. Show your sum.",
+    "marks": 3,
+    "lines": 2,
+    "a": "e.g. a book for ₹120 and a ball for ₹150: 120 + 150 = 270, less than 300. Check the sum and that the total is under ₹300."
+   }
+  ]
+ },
+ {
+  "id": "add-and-subtract-word-problems-12",
+  "topic": "add-and-subtract-word-problems",
+  "number": 12,
+  "level": "Challenge",
+  "title": "The Aquarium Visit",
+  "intro": "Class 2 visits a big aquarium in the mall. Count the sea creatures and tickets.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Solve the aquarium stories.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The big tank has 465 fish. A smaller tank has 278 fish. There are ___ fish in both tanks.",
+      "a": "743"
+     },
+     {
+      "q": "812 visitors came in the morning. 347 came in the afternoon. ___ more came in the morning.",
+      "a": "465"
+     },
+     {
+      "q": "The tank had 250 shrimps. 75 were moved out and 40 new ones were put in. Now there are ___ shrimps.",
+      "a": "215"
+     },
+     {
+      "q": "A ticket costs ₹125. A photo costs ₹60. Ananya paid with ₹200. Her change is ₹___.",
+      "a": "15"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Add or subtract.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "384",
+      "op": "+",
+      "bottom": "457",
+      "a": "841"
+     },
+     {
+      "top": "700",
+      "op": "-",
+      "bottom": "386",
+      "a": "314"
+     },
+     {
+      "top": "529",
+      "op": "+",
+      "bottom": "298",
+      "a": "827"
+     },
+     {
+      "top": "845",
+      "op": "-",
+      "bottom": "569",
+      "a": "276"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the questions: do you add or subtract?",
+    "marks": 6,
+    "groups": [
+     "Add",
+     "Subtract"
+    ],
+    "words": [
+     "How many fish in all?",
+     "How many more sharks?",
+     "How much change?",
+     "What is the total cost?",
+     "How many are still here?",
+     "How many visitors altogether?"
+    ],
+    "a": {
+     "How many fish in all?": "Add",
+     "How many more sharks?": "Subtract",
+     "How much change?": "Subtract",
+     "What is the total cost?": "Add",
+     "How many are still here?": "Subtract",
+     "How many visitors altogether?": "Add"
+    }
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the number sentence and the answer.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "There were 312 starfish. 128 were sent to another tank. How many starfish are still here?",
+      "a": "e.g. 312 − 128 = 184. There are 184 starfish still here."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "add-and-subtract-word-problems-13",
+  "topic": "add-and-subtract-word-problems",
+  "number": 13,
+  "level": "Challenge",
+  "title": "The Holi Colours Stall",
+  "intro": "Sana and Dev run a colour stall for Holi. Work out sales, stock and money.",
+  "sections": [
+   {
+    "type": "match",
+    "title": "Match each sum to its answer.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "325 + 196",
+      "right": "521"
+     },
+     {
+      "left": "604 − 258",
+      "right": "346"
+     },
+     {
+      "left": "147 + 389",
+      "right": "536"
+     },
+     {
+      "left": "900 − 435",
+      "right": "465"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Two steps! Solve each one.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Sana had 180 colour packets. She sold 95 and then got 60 more. She has ___ packets now.",
+      "a": "145"
+     },
+     {
+      "q": "Dev sold 48 water guns on Monday and 37 on Tuesday. He started with 150. ___ are left.",
+      "a": "65"
+     },
+     {
+      "q": "Pink packets cost ₹35 and green cost ₹28. Sana buys one of each and pays ₹100. Her change is ₹___.",
+      "a": "37"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle add or subtract for the first step.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Dev had 240 balloons and sold 165. How many are left? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "subtract"
+     },
+     {
+      "before": "Sana sold 132 packets and Dev sold 119. How many in total? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "add"
+     },
+     {
+      "before": "The stall earned ₹560 on day one and ₹475 on day two. How much more on day one? We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "subtract"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "To check 425 − 180 = 245, we can add 245 + 180.",
+      "a": true
+     },
+     {
+      "q": "560 − 475 = 95",
+      "a": false
+     },
+     {
+      "q": "132 + 119 = 251",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write a two-step story about the Holi stall. Then solve it.",
+    "marks": 3,
+    "lines": 2,
+    "a": "Answers will vary. Check it needs two steps (for example add then subtract) and the answer is correct."
+   }
+  ]
+ },
+ {
+  "id": "add-and-subtract-word-problems-14",
+  "topic": "add-and-subtract-word-problems",
+  "number": 14,
+  "level": "Challenge",
+  "title": "The Cricket Match Scoreboard",
+  "intro": "Sharjah Tigers play the Mumbai Stars. Read the scoreboard stories and solve them.",
+  "sections": [
+   {
+    "type": "column",
+    "title": "Add or subtract the runs.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "167",
+      "op": "+",
+      "bottom": "158",
+      "a": "325"
+     },
+     {
+      "top": "273",
+      "op": "-",
+      "bottom": "185",
+      "a": "88"
+     },
+     {
+      "top": "248",
+      "op": "+",
+      "bottom": "87",
+      "a": "335"
+     },
+     {
+      "top": "300",
+      "op": "-",
+      "bottom": "214",
+      "a": "86"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the cricket stories.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The Tigers scored 231 runs. The Stars scored 169 runs. The Tigers won by ___ runs.",
+      "a": "62"
+     },
+     {
+      "q": "Aryan scored 46 runs and Noah scored 38. The rest of the team scored 75. The team scored ___ runs.",
+      "a": "159"
+     },
+     {
+      "q": "The Stars need 182 runs to win. They have 96. They need ___ more runs.",
+      "a": "86"
+     },
+     {
+      "q": "There were 520 fans. 145 left early and 60 more came. ___ fans were there at the end.",
+      "a": "435"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the clue that tells you what to do.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "\"Won by how many runs?\" means",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "subtract"
+     },
+     {
+      "before": "\"Runs scored by both teams\" means",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "add"
+     },
+     {
+      "before": "\"How many more runs to win?\" means",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "subtract"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Check the scorer. Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "158 + 167 = 325",
+      "a": true
+     },
+     {
+      "q": "412 − 236 = 186",
+      "a": false
+     },
+     {
+      "q": "95 + 87 = 182",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the number sentence and the answer.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "Aryan hit 14 fours in one match and 19 fours in the next. How many fours did he hit in both matches?",
+      "a": "e.g. 14 + 19 = 33. He hit 33 fours in both matches."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "add-and-subtract-word-problems-15",
+  "topic": "add-and-subtract-word-problems",
+  "number": 15,
+  "level": "Challenge",
+  "title": "The Book Swap and Bake Sale",
+  "intro": "Class 2 holds a book swap and bake sale for charity. Plan, sell and count the money.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Solve the bake sale stories.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The class baked 186 cupcakes and 245 cookies. They baked ___ treats in all.",
+      "a": "431"
+     },
+     {
+      "q": "Of the 431 treats, 378 were sold. ___ treats are left.",
+      "a": "53"
+     },
+     {
+      "q": "Cupcakes made ₹365 and cookies made ₹289. The sale made ₹___ in all.",
+      "a": "654"
+     },
+     {
+      "q": "The class wants ₹800 for charity. They have ₹654. They need ₹___ more.",
+      "a": "146"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Work out each sum.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "437 + 286",
+      "a": "723"
+     },
+     {
+      "q": "900 − 547",
+      "a": "353"
+     },
+     {
+      "q": "658 + 175",
+      "a": "833"
+     },
+     {
+      "q": "803 − 368",
+      "a": "435"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Two steps! Solve each one.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Priya brought 24 books and Leo brought 37. 45 books were swapped. ___ books were not swapped.",
+      "a": "16"
+     },
+     {
+      "q": "A cake costs ₹150 and a juice costs ₹45. Two friends pay ₹100 each. Their change is ₹___.",
+      "a": "5"
+     },
+     {
+      "q": "The class had 120 paper bags. They used 68 and then bought 50 more. They have ___ bags now.",
+      "a": "102"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "To find how much more is needed, we subtract.",
+      "a": true
+     },
+     {
+      "q": "186 + 245 = 421",
+      "a": false
+     },
+     {
+      "q": "800 − 654 = 146",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Plan your own stall. Write the price of two items and the total cost.",
+    "marks": 3,
+    "lines": 2,
+    "a": "e.g. a muffin for ₹40 and lemonade for ₹25: 40 + 25 = 65. Check that the total is added correctly."
+   }
+  ]
+ }
+]
