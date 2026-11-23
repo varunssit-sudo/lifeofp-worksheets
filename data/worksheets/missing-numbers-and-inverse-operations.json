@@ -1,0 +1,1814 @@
+[
+ {
+  "id": "missing-numbers-and-inverse-operations-01",
+  "topic": "missing-numbers-and-inverse-operations",
+  "number": 1,
+  "level": "Starter",
+  "title": "The Fruit Basket at Home",
+  "intro": "Ammi is filling the fruit basket. Find the missing numbers by counting on or taking away.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Find the missing number.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "8 + ___ = 13",
+      "a": "5"
+     },
+     {
+      "q": "___ + 5 = 11",
+      "a": "6"
+     },
+     {
+      "q": "6 + ___ = 14",
+      "a": "8"
+     },
+     {
+      "q": "___ + 9 = 17",
+      "a": "8"
+     },
+     {
+      "q": "7 + ___ = 12",
+      "a": "5"
+     },
+     {
+      "q": "___ + 4 = 10",
+      "a": "6"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the missing number.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "9 + ___ = 15. The missing number is",
+      "options": [
+       "5",
+       "6",
+       "7"
+      ],
+      "after": ".",
+      "a": "6"
+     },
+     {
+      "before": "___ + 8 = 16. The missing number is",
+      "options": [
+       "7",
+       "8",
+       "9"
+      ],
+      "after": ".",
+      "a": "8"
+     },
+     {
+      "before": "3 + ___ = 11. The missing number is",
+      "options": [
+       "7",
+       "8",
+       "14"
+      ],
+      "after": ".",
+      "a": "8"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each sum to its missing number.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "10 + ___ = 18",
+      "right": "8"
+     },
+     {
+      "left": "___ + 6 = 9",
+      "right": "3"
+     },
+     {
+      "left": "5 + ___ = 10",
+      "right": "5"
+     },
+     {
+      "left": "___ + 2 = 13",
+      "right": "11"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the fruit problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The basket has 6 apples. Ammi adds some bananas. Now there are 15 fruits. She added ___ bananas.",
+      "a": "9"
+     },
+     {
+      "q": "Zoya has 4 oranges. She needs 12. She needs ___ more.",
+      "a": "8"
+     },
+     {
+      "q": "There are 9 grapes on a plate. How many more make 20? ___",
+      "a": "11"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Think and write: How did you find the missing number in 7 + ___ = 12?",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. I counted on from 7 to 12, or I did 12 − 7 = 5."
+   }
+  ]
+ },
+ {
+  "id": "missing-numbers-and-inverse-operations-02",
+  "topic": "missing-numbers-and-inverse-operations",
+  "number": 2,
+  "level": "Starter",
+  "title": "The Crayon Box",
+  "intro": "Liam's crayons keep going missing. Use adding and taking away to find the missing numbers.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Find the missing number.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "15 − ___ = 9",
+      "a": "6"
+     },
+     {
+      "q": "12 − ___ = 5",
+      "a": "7"
+     },
+     {
+      "q": "18 − ___ = 10",
+      "a": "8"
+     },
+     {
+      "q": "14 − ___ = 6",
+      "a": "8"
+     },
+     {
+      "q": "11 − ___ = 3",
+      "a": "8"
+     },
+     {
+      "q": "20 − ___ = 13",
+      "a": "7"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "If 16 − 7 = 9, then 9 + 7 = 16.",
+      "a": true
+     },
+     {
+      "q": "13 − 5 = 9",
+      "a": false
+     },
+     {
+      "q": "To check 17 − 8 = 9, we can add 9 + 8.",
+      "a": true
+     },
+     {
+      "q": "19 − 0 = 0",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Use the adding fact to fill the gap.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "7 + 6 = 13, so 13 − 7 = ___",
+      "a": "6"
+     },
+     {
+      "q": "8 + 9 = 17, so 17 − 9 = ___",
+      "a": "8"
+     },
+     {
+      "q": "5 + 9 = 14, so 14 − 5 = ___",
+      "a": "9"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right number.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Liam had 16 crayons. He lost some. Now he has 9. He lost",
+      "options": [
+       "6",
+       "7",
+       "25"
+      ],
+      "after": "crayons.",
+      "a": "7"
+     },
+     {
+      "before": "Mia had 12 crayons and gave away",
+      "options": [
+       "3",
+       "4",
+       "20"
+      ],
+      "after": ". She has 8 left.",
+      "a": "4"
+     },
+     {
+      "before": "19 crayons minus",
+      "options": [
+       "7",
+       "8",
+       "9"
+      ],
+      "after": "crayons leaves 11.",
+      "a": "8"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the subtraction and the answer.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "There were 14 crayons. Some rolled under the table. 6 are still on the table. How many rolled away?",
+      "a": "e.g. 14 − 6 = 8. 8 crayons rolled away."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "missing-numbers-and-inverse-operations-03",
+  "topic": "missing-numbers-and-inverse-operations",
+  "number": 3,
+  "level": "Starter",
+  "title": "Fact Family Houses in Our Lane",
+  "intro": "Three numbers live in each house. They make one family of add and take-away facts.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Complete the fact family for 6, 8 and 14.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "6 + 8 = ___",
+      "a": "14"
+     },
+     {
+      "q": "8 + ___ = 14",
+      "a": "6"
+     },
+     {
+      "q": "14 − 6 = ___",
+      "a": "8"
+     },
+     {
+      "q": "14 − ___ = 6",
+      "a": "8"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Does it belong to the family of 5, 7 and 12?",
+    "marks": 6,
+    "groups": [
+     "In the family",
+     "Not in the family"
+    ],
+    "words": [
+     "5 + 7 = 12",
+     "12 − 5 = 7",
+     "7 + 5 = 12",
+     "12 + 7 = 19",
+     "12 − 7 = 5",
+     "7 − 5 = 2"
+    ],
+    "a": {
+     "5 + 7 = 12": "In the family",
+     "12 − 5 = 7": "In the family",
+     "7 + 5 = 12": "In the family",
+     "12 + 7 = 19": "Not in the family",
+     "12 − 7 = 5": "In the family",
+     "7 − 5 = 2": "Not in the family"
+    }
+   },
+   {
+    "type": "pairs",
+    "title": "Find the missing number.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "9 + ___ = 16",
+      "a": "7"
+     },
+     {
+      "q": "16 − ___ = 9",
+      "a": "7"
+     },
+     {
+      "q": "___ − 4 = 7",
+      "a": "11"
+     },
+     {
+      "q": "___ + 4 = 11",
+      "a": "7"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the four facts in this family.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The numbers 3, 9 and 12",
+      "a": "3 + 9 = 12, 9 + 3 = 12, 12 − 3 = 9, 12 − 9 = 3"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "4, 6 and 10 make a fact family.",
+      "a": true
+     },
+     {
+      "q": "3, 5 and 9 make a fact family.",
+      "a": false
+     },
+     {
+      "q": "In a fact family, the biggest number is the total.",
+      "a": true
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "missing-numbers-and-inverse-operations-04",
+  "topic": "missing-numbers-and-inverse-operations",
+  "number": 4,
+  "level": "Starter",
+  "title": "Waiting at the Bus Stop",
+  "intro": "People get on and off the school bus. Work backwards to find how many there were at first.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "To find the number at the start, circle add or subtract.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Some children were on the bus. 4 got off. Now 9 are on. We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "add"
+     },
+     {
+      "before": "Some children were on the bus. 5 got on. Now 13 are on. We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "subtract"
+     },
+     {
+      "before": "Some bags were on the rack. 3 were taken down. Now 8 are left. We should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "add"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "How many were on the bus at first?",
+    "marks": 4,
+    "items": [
+     {
+      "q": "___ children were on the bus. 6 got off. Now 8 are on.",
+      "a": "14"
+     },
+     {
+      "q": "___ children were on the bus. 7 got on. Now 15 are on.",
+      "a": "8"
+     },
+     {
+      "q": "___ teachers were on the bus. 2 got off. Now 3 are on.",
+      "a": "5"
+     },
+     {
+      "q": "___ water bottles were in the box. Kabir added 5. Now there are 17.",
+      "a": "12"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Find the missing first number.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "___ − 5 = 6",
+      "a": "11"
+     },
+     {
+      "q": "___ + 8 = 19",
+      "a": "11"
+     },
+     {
+      "q": "___ − 9 = 9",
+      "a": "18"
+     },
+     {
+      "q": "___ + 3 = 12",
+      "a": "9"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the story to the number at the start.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "Some got off: 4 off, 7 left",
+      "right": "11"
+     },
+     {
+      "left": "Some got on: 6 on, 18 now",
+      "right": "12"
+     },
+     {
+      "left": "Some got off: 10 off, 10 left",
+      "right": "20"
+     },
+     {
+      "left": "Some got on: 9 on, 14 now",
+      "right": "5"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Think and write: 3 children got off the bus. Now 10 are on. Aisha says there were 7 at first. Is she right?",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. No. We add back the 3 who got off: 10 + 3 = 13."
+   }
+  ]
+ },
+ {
+  "id": "missing-numbers-and-inverse-operations-05",
+  "topic": "missing-numbers-and-inverse-operations",
+  "number": 5,
+  "level": "Practice",
+  "title": "The Birthday Cupcakes",
+  "intro": "Rohan's family is baking cupcakes for his birthday party. Find how many more they need.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Find the missing number.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "25 + ___ = 40",
+      "a": "15"
+     },
+     {
+      "q": "___ + 32 = 57",
+      "a": "25"
+     },
+     {
+      "q": "46 + ___ = 70",
+      "a": "24"
+     },
+     {
+      "q": "___ + 18 = 63",
+      "a": "45"
+     },
+     {
+      "q": "53 + ___ = 91",
+      "a": "38"
+     },
+     {
+      "q": "___ + 27 = 84",
+      "a": "57"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Subtract to find each missing number.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "62",
+      "op": "-",
+      "bottom": "35",
+      "a": "27"
+     },
+     {
+      "top": "80",
+      "op": "-",
+      "bottom": "47",
+      "a": "33"
+     },
+     {
+      "top": "91",
+      "op": "-",
+      "bottom": "56",
+      "a": "35"
+     },
+     {
+      "top": "74",
+      "op": "-",
+      "bottom": "29",
+      "a": "45"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each sum to its missing number.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "41 + ___ = 70",
+      "right": "29"
+     },
+     {
+      "left": "___ + 38 = 95",
+      "right": "57"
+     },
+     {
+      "left": "64 + ___ = 100",
+      "right": "36"
+     },
+     {
+      "left": "___ + 19 = 52",
+      "right": "33"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the cupcake problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Papa baked 24 cupcakes. Rohan needs 50 for his class. They must bake ___ more.",
+      "a": "26"
+     },
+     {
+      "q": "38 cupcakes have icing. There are 65 cupcakes. ___ still need icing.",
+      "a": "27"
+     },
+     {
+      "q": "Aunty brought some candles. With Papa's 16 candles there are 45. Aunty brought ___ candles.",
+      "a": "29"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Think and write: Which sum helps you find 33 + ___ = 72? Write it and solve it.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. 72 − 33 = 39."
+   }
+  ]
+ },
+ {
+  "id": "missing-numbers-and-inverse-operations-06",
+  "topic": "missing-numbers-and-inverse-operations",
+  "number": 6,
+  "level": "Practice",
+  "title": "The Class Library Shelf",
+  "intro": "Ms Pereira lends books from the class shelf. Find the missing numbers in each take-away.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Find the missing number.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "56 − ___ = 31",
+      "a": "25"
+     },
+     {
+      "q": "___ − 24 = 38",
+      "a": "62"
+     },
+     {
+      "q": "73 − ___ = 45",
+      "a": "28"
+     },
+     {
+      "q": "___ − 19 = 52",
+      "a": "71"
+     },
+     {
+      "q": "90 − ___ = 64",
+      "a": "26"
+     },
+     {
+      "q": "___ − 37 = 26",
+      "a": "63"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the sum that finds the missing number.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "For 68 − ___ = 41, work out",
+      "options": [
+       "68 − 41",
+       "68 + 41"
+      ],
+      "after": ".",
+      "a": "68 − 41"
+     },
+     {
+      "before": "For ___ − 15 = 39, work out",
+      "options": [
+       "39 − 15",
+       "39 + 15"
+      ],
+      "after": ".",
+      "a": "39 + 15"
+     },
+     {
+      "before": "For 82 − ___ = 57, work out",
+      "options": [
+       "82 − 57",
+       "82 + 57"
+      ],
+      "after": ".",
+      "a": "82 − 57"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Work out each sum.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "68",
+      "op": "-",
+      "bottom": "41",
+      "a": "27"
+     },
+     {
+      "top": "39",
+      "op": "+",
+      "bottom": "15",
+      "a": "54"
+     },
+     {
+      "top": "82",
+      "op": "-",
+      "bottom": "57",
+      "a": "25"
+     },
+     {
+      "top": "57",
+      "op": "+",
+      "bottom": "25",
+      "a": "82"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the library problems.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The shelf had 48 books. Children borrowed some. Now 29 are left. They borrowed ___ books.",
+      "a": "19"
+     },
+     {
+      "q": "Some comics were on the shelf. 17 were borrowed. 26 are left. There were ___ comics at first.",
+      "a": "43"
+     },
+     {
+      "q": "Fatima read 35 pages. Her book has 60 pages. She has ___ pages to go.",
+      "a": "25"
+     },
+     {
+      "q": "Some bookmarks were in a tin. Ethan took 12. Now 33 are left. There were ___ at first.",
+      "a": "45"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "For ___ − 20 = 45, the missing number is 25.",
+      "a": false
+     },
+     {
+      "q": "For 70 − ___ = 30, the missing number is 40.",
+      "a": true
+     },
+     {
+      "q": "For ___ − 11 = 11, the missing number is 22.",
+      "a": true
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "missing-numbers-and-inverse-operations-07",
+  "topic": "missing-numbers-and-inverse-operations",
+  "number": 7,
+  "level": "Practice",
+  "title": "Collecting Seashells at Jumeirah Beach",
+  "intro": "Sana and Leo collect shells and pebbles on the beach. Their numbers make fact families.",
+  "sections": [
+   {
+    "type": "rewrite",
+    "title": "Write the four facts in each family.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The numbers 24, 35 and 59",
+      "a": "24 + 35 = 59, 35 + 24 = 59, 59 − 24 = 35, 59 − 35 = 24"
+     },
+     {
+      "q": "The numbers 18, 43 and 61",
+      "a": "18 + 43 = 61, 43 + 18 = 61, 61 − 18 = 43, 61 − 43 = 18"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Does it belong to the family of 27, 46 and 73?",
+    "marks": 6,
+    "groups": [
+     "In the family",
+     "Not in the family"
+    ],
+    "words": [
+     "27 + 46 = 73",
+     "73 − 27 = 46",
+     "46 − 27 = 19",
+     "46 + 27 = 73",
+     "73 + 27 = 100",
+     "73 − 46 = 27"
+    ],
+    "a": {
+     "27 + 46 = 73": "In the family",
+     "73 − 27 = 46": "In the family",
+     "46 − 27 = 19": "Not in the family",
+     "46 + 27 = 73": "In the family",
+     "73 + 27 = 100": "Not in the family",
+     "73 − 46 = 27": "In the family"
+    }
+   },
+   {
+    "type": "choice",
+    "title": "Circle the number that completes the family.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "The family of 15, 40 and",
+      "options": [
+       "25",
+       "55",
+       "65"
+      ],
+      "after": ".",
+      "a": "55"
+     },
+     {
+      "before": "The family of 32, 68 and",
+      "options": [
+       "36",
+       "46",
+       "100"
+      ],
+      "after": ".",
+      "a": "36"
+     },
+     {
+      "before": "The family of 29, 81 and",
+      "options": [
+       "52",
+       "62",
+       "110"
+      ],
+      "after": ".",
+      "a": "52"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the beach problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Sana found 33 shells. Leo found some. Together they have 70. Leo found ___ shells.",
+      "a": "37"
+     },
+     {
+      "q": "They had 70 shells. Some washed away. 52 are left. ___ washed away.",
+      "a": "18"
+     },
+     {
+      "q": "Leo had some pebbles. He threw 14 into the sea. He has 28 left. He had ___ at first.",
+      "a": "42"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Think and write: Make your own fact family with two-digit numbers. Write two of its facts.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. 20, 30 and 50: 20 + 30 = 50 and 50 − 30 = 20. Check the facts are correct."
+   }
+  ]
+ },
+ {
+  "id": "missing-numbers-and-inverse-operations-08",
+  "topic": "missing-numbers-and-inverse-operations",
+  "number": 8,
+  "level": "Practice",
+  "title": "The Diwali Diya Stall",
+  "intro": "Ishita's family runs a diya stall for Diwali. Work backwards to find how many they had at the start.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "How many were there at first?",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The stall had some diyas. 36 were sold. 47 are left. There were ___ diyas at first.",
+      "a": "83"
+     },
+     {
+      "q": "Ishita had some candles. Papa gave her 25 more. Now she has 63. She had ___ at first.",
+      "a": "38"
+     },
+     {
+      "q": "Some rangoli packets were on the table. 18 were sold. 54 are left. There were ___ at first.",
+      "a": "72"
+     },
+     {
+      "q": "Some lanterns were hung up. 29 more were added. Now there are 75. There were ___ at first.",
+      "a": "46"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "To find the start, circle what you should do.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Some sold, some left: we should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": "the two numbers.",
+      "a": "add"
+     },
+     {
+      "before": "Some added, now a total: we should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "subtract"
+     },
+     {
+      "before": "Some given away, some left: we should",
+      "options": [
+       "add",
+       "subtract"
+      ],
+      "after": ".",
+      "a": "add"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Work out each start number.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "47",
+      "op": "+",
+      "bottom": "36",
+      "a": "83"
+     },
+     {
+      "top": "63",
+      "op": "-",
+      "bottom": "25",
+      "a": "38"
+     },
+     {
+      "top": "54",
+      "op": "+",
+      "bottom": "18",
+      "a": "72"
+     },
+     {
+      "top": "75",
+      "op": "-",
+      "bottom": "29",
+      "a": "46"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Check by doing it forwards. Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Start with 83, sell 36, and 47 are left.",
+      "a": true
+     },
+     {
+      "q": "Start with 38, add 25, and you get 63.",
+      "a": true
+     },
+     {
+      "q": "Start with 62, sell 18, and 54 are left.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write a number sentence and the answer.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "Some sweets were in a box. The family ate 22. Now 39 are left. How many sweets were in the box at first?",
+      "a": "e.g. 39 + 22 = 61. There were 61 sweets at first."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "missing-numbers-and-inverse-operations-09",
+  "topic": "missing-numbers-and-inverse-operations",
+  "number": 9,
+  "level": "Practice",
+  "title": "My Piggy Bank",
+  "intro": "Aarav saves his pocket money in a piggy bank. Find the missing amounts in rupees.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Find the missing amount.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "₹45 + ₹___ = ₹80",
+      "a": "35"
+     },
+     {
+      "q": "₹___ + ₹26 = ₹50",
+      "a": "24"
+     },
+     {
+      "q": "₹90 − ₹___ = ₹55",
+      "a": "35"
+     },
+     {
+      "q": "₹___ − ₹30 = ₹48",
+      "a": "78"
+     },
+     {
+      "q": "₹100 − ₹___ = ₹64",
+      "a": "36"
+     },
+     {
+      "q": "₹___ + ₹15 = ₹72",
+      "a": "57"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the money problems.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Aarav has ₹38. A kite costs ₹60. He needs ₹ ___ more.",
+      "a": "22"
+     },
+     {
+      "q": "Aarav had some money. He spent ₹27 on a ball. ₹45 is left. He had ₹ ___ at first.",
+      "a": "72"
+     },
+     {
+      "q": "Nani gave him some money. Now he has ₹95. Before, he had ₹50. Nani gave ₹ ___",
+      "a": "45"
+     },
+     {
+      "q": "He paid ₹100 for a puzzle and got ₹35 back. The puzzle cost ₹ ___",
+      "a": "65"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the coins to the amount still needed to make ₹100.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "₹75 + ₹___ = ₹100",
+      "right": "25"
+     },
+     {
+      "left": "₹40 + ₹___ = ₹100",
+      "right": "60"
+     },
+     {
+      "left": "₹82 + ₹___ = ₹100",
+      "right": "18"
+     },
+     {
+      "left": "₹19 + ₹___ = ₹100",
+      "right": "81"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right answer.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "A book costs ₹70. Aarav has ₹52. He needs ₹",
+      "options": [
+       "18",
+       "22",
+       "122"
+      ],
+      "after": "more.",
+      "a": "18"
+     },
+     {
+      "before": "He spent ₹34 and has ₹40 left. He had ₹",
+      "options": [
+       "6",
+       "74",
+       "84"
+      ],
+      "after": ".",
+      "a": "74"
+     },
+     {
+      "before": "A pen and a ₹25 ruler cost ₹60. The pen costs ₹",
+      "options": [
+       "35",
+       "45",
+       "85"
+      ],
+      "after": ".",
+      "a": "35"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Think and write: You have ₹50. You want a toy for ₹85. How much more do you need? Show your sum.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. 85 − 50 = 35. I need ₹35 more."
+   }
+  ]
+ },
+ {
+  "id": "missing-numbers-and-inverse-operations-10",
+  "topic": "missing-numbers-and-inverse-operations",
+  "number": 10,
+  "level": "Practice",
+  "title": "Cricket in the Building Car Park",
+  "intro": "Omar keeps score for the evening cricket game. Check each answer with the opposite sum.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Check each subtraction by adding.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "64 − 28 = 36. Check: 36 + 28 = ___",
+      "a": "64"
+     },
+     {
+      "q": "81 − 45 = 36. Check: 36 + 45 = ___",
+      "a": "81"
+     },
+     {
+      "q": "70 − 33 = 37. Check: 37 + 33 = ___",
+      "a": "70"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Use the check. Is the answer right?",
+    "marks": 4,
+    "items": [
+     {
+      "q": "52 − 17 = 35",
+      "a": true
+     },
+     {
+      "q": "43 + 39 = 72",
+      "a": false
+     },
+     {
+      "q": "90 − 46 = 54",
+      "a": false
+     },
+     {
+      "q": "27 + 58 = 85",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Find the missing runs.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "38 + ___ = 66",
+      "a": "28"
+     },
+     {
+      "q": "___ − 23 = 49",
+      "a": "72"
+     },
+     {
+      "q": "85 − ___ = 58",
+      "a": "27"
+     },
+     {
+      "q": "___ + 44 = 93",
+      "a": "49"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the cricket problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Team Blue has 57 runs. They need 82 to win. They need ___ more runs.",
+      "a": "25"
+     },
+     {
+      "q": "Hana's team scored some runs. They lost 15 for no-balls and ended with 48. They scored ___ at first.",
+      "a": "63"
+     },
+     {
+      "q": "Two batters made 91 runs together. Dev made 46. His partner made ___",
+      "a": "45"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Think and write: Omar says 73 − 28 = 55. Check it by adding. Is he right?",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. 55 + 28 = 83, not 73, so he is wrong. 73 − 28 = 45."
+   }
+  ]
+ },
+ {
+  "id": "missing-numbers-and-inverse-operations-11",
+  "topic": "missing-numbers-and-inverse-operations",
+  "number": 11,
+  "level": "Challenge",
+  "title": "The Mango Orchard in Ratnagiri",
+  "intro": "Nikhil visits his grandfather's mango orchard. The numbers are bigger now, so think carefully.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Find the missing number.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "250 + ___ = 400",
+      "a": "150"
+     },
+     {
+      "q": "___ + 175 = 500",
+      "a": "325"
+     },
+     {
+      "q": "640 − ___ = 410",
+      "a": "230"
+     },
+     {
+      "q": "___ − 230 = 345",
+      "a": "575"
+     },
+     {
+      "q": "318 + ___ = 600",
+      "a": "282"
+     },
+     {
+      "q": "___ − 145 = 255",
+      "a": "400"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Work out the opposite sum to find each missing number.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "600",
+      "op": "-",
+      "bottom": "318",
+      "a": "282"
+     },
+     {
+      "top": "345",
+      "op": "+",
+      "bottom": "230",
+      "a": "575"
+     },
+     {
+      "top": "500",
+      "op": "-",
+      "bottom": "175",
+      "a": "325"
+     },
+     {
+      "top": "255",
+      "op": "+",
+      "bottom": "145",
+      "a": "400"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the orchard problems.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Grandpa picked 285 mangoes on Monday. By Tuesday he had 500. He picked ___ on Tuesday.",
+      "a": "215"
+     },
+     {
+      "q": "Some mangoes were in the store room. 168 were sent to market. 234 are left. There were ___ at first.",
+      "a": "402"
+     },
+     {
+      "q": "A crate holds 300 mangoes. It has 126. It needs ___ more.",
+      "a": "174"
+     },
+     {
+      "q": "The truck took some boxes. 415 boxes became 270. The truck took ___ boxes.",
+      "a": "145"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "If 465 − 120 = 345, then 345 + 120 = 465.",
+      "a": true
+     },
+     {
+      "q": "The fact family of 200, 350 and 550 has 550 − 200 = 350.",
+      "a": true
+     },
+     {
+      "q": "For ___ − 300 = 100, the missing number is 200.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Think and write: Explain how you found the missing number in ___ − 230 = 345.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. I added back 230 to 345: 345 + 230 = 575."
+   }
+  ]
+ },
+ {
+  "id": "missing-numbers-and-inverse-operations-12",
+  "topic": "missing-numbers-and-inverse-operations",
+  "number": 12,
+  "level": "Challenge",
+  "title": "The Morning Metro Ride",
+  "intro": "Amira rides the Dubai Metro with her mother. People get on and off at every station.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "How many people were on the train at first?",
+    "marks": 4,
+    "items": [
+     {
+      "q": "At Union, 124 people got off. Now 236 are on the train. ___ were on the train before.",
+      "a": "360"
+     },
+     {
+      "q": "At Burjuman, 158 people got on. Now 410 are on the train. ___ were on before.",
+      "a": "252"
+     },
+     {
+      "q": "At the Mall stop, 205 got off. 187 are still on. ___ were on before.",
+      "a": "392"
+     },
+     {
+      "q": "At the airport, 96 got on. Now there are 300. ___ were on before.",
+      "a": "204"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the number that was on the train at the start.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Some people, then 40 got off and 25 got on. Now 100 are on. At the start:",
+      "options": [
+       "85",
+       "115",
+       "165"
+      ],
+      "after": "",
+      "a": "115"
+     },
+     {
+      "before": "Some people, then 60 got on and 30 got off. Now 150 are on. At the start:",
+      "options": [
+       "120",
+       "180",
+       "240"
+      ],
+      "after": "",
+      "a": "120"
+     },
+     {
+      "before": "Some people, then 15 got off and 15 got on. Now 90 are on. At the start:",
+      "options": [
+       "60",
+       "90",
+       "120"
+      ],
+      "after": "",
+      "a": "90"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Find the missing number.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "___ + 245 = 600",
+      "a": "355"
+     },
+     {
+      "q": "___ − 312 = 188",
+      "a": "500"
+     },
+     {
+      "q": "720 − ___ = 485",
+      "a": "235"
+     },
+     {
+      "q": "153 + ___ = 400",
+      "a": "247"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the problem to the opposite sum that solves it.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "___ − 124 = 236",
+      "right": "236 + 124"
+     },
+     {
+      "left": "___ + 158 = 410",
+      "right": "410 − 158"
+     },
+     {
+      "left": "205 + ___ = 392",
+      "right": "392 − 205"
+     },
+     {
+      "left": "410 − ___ = 236",
+      "right": "410 − 236"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Think and write: Some people got off, then 50 got on. Now 200 are on. Explain how to find how many there were before the 50 got on.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. Take away the 50 who got on: 200 − 50 = 150. There were 150 before they got on."
+   }
+  ]
+ },
+ {
+  "id": "missing-numbers-and-inverse-operations-13",
+  "topic": "missing-numbers-and-inverse-operations",
+  "number": 13,
+  "level": "Challenge",
+  "title": "Packing Laddoo Boxes for Eid",
+  "intro": "Yusuf and his cousins pack sweet boxes for neighbours. Times and share facts make families too.",
+  "sections": [
+   {
+    "type": "rewrite",
+    "title": "Write the four facts in each family.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "The numbers 4, 6 and 24",
+      "a": "4 × 6 = 24, 6 × 4 = 24, 24 ÷ 4 = 6, 24 ÷ 6 = 4"
+     },
+     {
+      "q": "The numbers 5, 7 and 35",
+      "a": "5 × 7 = 35, 7 × 5 = 35, 35 ÷ 5 = 7, 35 ÷ 7 = 5"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Find the missing number.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "3 × ___ = 27",
+      "a": "9"
+     },
+     {
+      "q": "___ × 5 = 40",
+      "a": "8"
+     },
+     {
+      "q": "36 ÷ ___ = 9",
+      "a": "4"
+     },
+     {
+      "q": "___ ÷ 4 = 8",
+      "a": "32"
+     },
+     {
+      "q": "7 × ___ = 42",
+      "a": "6"
+     },
+     {
+      "q": "___ ÷ 6 = 3",
+      "a": "18"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Does it belong to the family of 3, 8 and 24?",
+    "marks": 6,
+    "groups": [
+     "In the family",
+     "Not in the family"
+    ],
+    "words": [
+     "3 × 8 = 24",
+     "24 ÷ 8 = 3",
+     "8 + 3 = 11",
+     "8 × 3 = 24",
+     "24 − 8 = 16",
+     "24 ÷ 3 = 8"
+    ],
+    "a": {
+     "3 × 8 = 24": "In the family",
+     "24 ÷ 8 = 3": "In the family",
+     "8 + 3 = 11": "Not in the family",
+     "8 × 3 = 24": "In the family",
+     "24 − 8 = 16": "Not in the family",
+     "24 ÷ 3 = 8": "In the family"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Solve the laddoo problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Each box holds 6 laddoos. Yusuf filled some boxes with 30 laddoos. He filled ___ boxes.",
+      "a": "5"
+     },
+     {
+      "q": "Some laddoos were shared by 4 cousins. Each got 9. There were ___ laddoos.",
+      "a": "36"
+     },
+     {
+      "q": "Some boxes have 10 laddoos each. There are 80 laddoos in all. There are ___ boxes.",
+      "a": "8"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Think and write: Which division fact helps you solve 7 × ___ = 56? Write it.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. 56 ÷ 7 = 8, so the missing number is 8."
+   }
+  ]
+ },
+ {
+  "id": "missing-numbers-and-inverse-operations-14",
+  "topic": "missing-numbers-and-inverse-operations",
+  "number": 14,
+  "level": "Challenge",
+  "title": "The Mystery Number Club",
+  "intro": "Tara's club plays number riddles at break time. Undo each step to find the secret number.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Find the secret number.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "I think of a number and add 35. I get 82. My number is ___",
+      "a": "47"
+     },
+     {
+      "q": "I think of a number and take away 48. I get 27. My number is ___",
+      "a": "75"
+     },
+     {
+      "q": "I think of a number and double it. I get 64. My number is ___",
+      "a": "32"
+     },
+     {
+      "q": "I think of a number and halve it. I get 45. My number is ___",
+      "a": "90"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Two steps! Circle the secret number.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Add 10, then take away 4. You get 30. The number is",
+      "options": [
+       "16",
+       "24",
+       "36"
+      ],
+      "after": ".",
+      "a": "24"
+     },
+     {
+      "before": "Take away 20, then add 5. You get 50. The number is",
+      "options": [
+       "45",
+       "65",
+       "75"
+      ],
+      "after": ".",
+      "a": "65"
+     },
+     {
+      "before": "Double it, then add 6. You get 26. The number is",
+      "options": [
+       "10",
+       "13",
+       "16"
+      ],
+      "after": ".",
+      "a": "10"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each step to the step that undoes it.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "add 25",
+      "right": "take away 25"
+     },
+     {
+      "left": "take away 12",
+      "right": "add 12"
+     },
+     {
+      "left": "multiply by 3",
+      "right": "divide by 3"
+     },
+     {
+      "left": "divide by 5",
+      "right": "multiply by 5"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Find the missing number.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "___ + 67 = 150",
+      "a": "83"
+     },
+     {
+      "q": "___ − 89 = 111",
+      "a": "200"
+     },
+     {
+      "q": "___ × 4 = 28",
+      "a": "7"
+     },
+     {
+      "q": "___ ÷ 3 = 10",
+      "a": "30"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Think and write: Make a two-step riddle for a friend. Write the answer too.",
+    "marks": 3,
+    "lines": 2,
+    "a": "e.g. I add 12, then take away 5, and get 20. Undo: 20 + 5 = 25, 25 − 12 = 13. Check the steps undo correctly."
+   }
+  ]
+ },
+ {
+  "id": "missing-numbers-and-inverse-operations-15",
+  "topic": "missing-numbers-and-inverse-operations",
+  "number": 15,
+  "level": "Challenge",
+  "title": "Sports Day Scoreboard",
+  "intro": "Class 2 houses earn points on Sports Day. Use everything you know about missing numbers.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Find the missing number.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "___ + 136 = 420",
+      "a": "284"
+     },
+     {
+      "q": "508 − ___ = 259",
+      "a": "249"
+     },
+     {
+      "q": "___ − 175 = 325",
+      "a": "500"
+     },
+     {
+      "q": "9 × ___ = 63",
+      "a": "7"
+     },
+     {
+      "q": "___ ÷ 5 = 6",
+      "a": "30"
+     },
+     {
+      "q": "287 + ___ = 700",
+      "a": "413"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the Sports Day problems.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Red House had some points. They won 85 more in the relay. Now they have 312. They had ___ before.",
+      "a": "227"
+     },
+     {
+      "q": "Blue House lost 40 points for a foul. They now have 265. They had ___ before.",
+      "a": "305"
+     },
+     {
+      "q": "Green House needs 500 points to win the cup. It has 378. It needs ___ more.",
+      "a": "122"
+     },
+     {
+      "q": "Yellow House had 450 points and ended on 295 after losing some. It lost ___ points.",
+      "a": "155"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort by the sum you would use to find the missing number.",
+    "marks": 6,
+    "groups": [
+     "Add",
+     "Subtract"
+    ],
+    "words": [
+     "___ − 64 = 120",
+     "93 + ___ = 200",
+     "___ + 150 = 410",
+     "300 − ___ = 115",
+     "___ − 205 = 95",
+     "76 + ___ = 101"
+    ],
+    "a": {
+     "___ − 64 = 120": "Add",
+     "93 + ___ = 200": "Subtract",
+     "___ + 150 = 410": "Subtract",
+     "300 − ___ = 115": "Subtract",
+     "___ − 205 = 95": "Add",
+     "76 + ___ = 101": "Subtract"
+    }
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the four facts in this family.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The numbers 145, 255 and 400",
+      "a": "145 + 255 = 400, 255 + 145 = 400, 400 − 145 = 255, 400 − 255 = 145"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Think and write: Chloe says ___ − 120 = 80 has the answer 40. Is she right? Explain.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. No. We add back: 80 + 120 = 200. The missing number is 200."
+   }
+  ]
+ }
+]
