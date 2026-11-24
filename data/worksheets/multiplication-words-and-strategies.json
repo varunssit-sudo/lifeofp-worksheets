@@ -1,0 +1,1940 @@
+[
+ {
+  "id": "multiplication-words-and-strategies-01",
+  "topic": "multiplication-words-and-strategies",
+  "number": 1,
+  "level": "Starter",
+  "title": "Egg Trays at the Vegetable Market",
+  "intro": "Papa is shopping at the market. Things come in equal groups. Count the groups to multiply.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in the groups.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "3 trays with 4 eggs in each tray make ___ groups of 4.",
+      "a": "3"
+     },
+     {
+      "q": "3 groups of 4 = 4 + 4 + 4 = ___",
+      "a": "12"
+     },
+     {
+      "q": "2 baskets with 5 lemons in each. 2 groups of 5 = ___",
+      "a": "10"
+     },
+     {
+      "q": "4 bags with 2 onions in each. 4 groups of 2 = ___",
+      "a": "8"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "How many in all?",
+    "marks": 6,
+    "items": [
+     {
+      "q": "5 groups of 2",
+      "a": "10"
+     },
+     {
+      "q": "2 groups of 6",
+      "a": "12"
+     },
+     {
+      "q": "3 groups of 3",
+      "a": "9"
+     },
+     {
+      "q": "4 groups of 4",
+      "a": "16"
+     },
+     {
+      "q": "2 groups of 9",
+      "a": "18"
+     },
+     {
+      "q": "3 groups of 10",
+      "a": "30"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Equal groups have the same number in each group.",
+      "a": true
+     },
+     {
+      "q": "A bag of 6 apples and a bag of 4 apples are equal groups.",
+      "a": false
+     },
+     {
+      "q": "2 groups of 7 is the same as 7 + 7.",
+      "a": true
+     },
+     {
+      "q": "3 groups of 5 makes 8.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the adding to the times fact.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "6 + 6",
+      "right": "2 × 6"
+     },
+     {
+      "left": "2 + 2 + 2 + 2 + 2",
+      "right": "5 × 2"
+     },
+     {
+      "left": "4 + 4 + 4",
+      "right": "3 × 4"
+     },
+     {
+      "left": "10 + 10",
+      "right": "2 × 10"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the market problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Papa buys 4 trays. Each tray has 6 eggs. He has ___ eggs.",
+      "a": "24"
+     },
+     {
+      "q": "Riya puts 3 tomatoes in each of 5 bags. She uses ___ tomatoes.",
+      "a": "15"
+     },
+     {
+      "q": "Mama buys 2 bunches of bananas with 7 in each. She has ___ bananas.",
+      "a": "14"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "multiplication-words-and-strategies-02",
+  "topic": "multiplication-words-and-strategies",
+  "number": 2,
+  "level": "Starter",
+  "title": "Sports Day Relay Teams",
+  "intro": "It is Sports Day. Children stand in teams with the same number in each team.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Teams with the same number of children are",
+      "options": [
+       "equal",
+       "unequal"
+      ],
+      "after": "groups.",
+      "a": "equal"
+     },
+     {
+      "before": "3 + 3 + 3 + 3 is called repeated",
+      "options": [
+       "adding",
+       "taking away"
+      ],
+      "after": ".",
+      "a": "adding"
+     },
+     {
+      "before": "The sign × means",
+      "options": [
+       "times",
+       "minus"
+      ],
+      "after": ".",
+      "a": "times"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write each as a times fact and find the answer.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "5 + 5 + 5 + 5 = 4 × 5 = ___",
+      "a": "20"
+     },
+     {
+      "q": "3 + 3 + 3 + 3 + 3 + 3 = 6 × 3 = ___",
+      "a": "18"
+     },
+     {
+      "q": "7 + 7 = 2 × 7 = ___",
+      "a": "14"
+     },
+     {
+      "q": "2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 = 8 × 2 = ___",
+      "a": "16"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each team picture to its total.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "2 teams of 8 runners",
+      "right": "16"
+     },
+     {
+      "left": "5 teams of 3 runners",
+      "right": "15"
+     },
+     {
+      "left": "3 teams of 7 runners",
+      "right": "21"
+     },
+     {
+      "left": "4 teams of 6 runners",
+      "right": "24"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "6 + 6 + 6 is the same as 3 × 6.",
+      "a": true
+     },
+     {
+      "q": "5 + 4 + 5 shows equal groups.",
+      "a": false
+     },
+     {
+      "q": "2 × 9 = 18",
+      "a": true
+     },
+     {
+      "q": "4 groups of 3 is the same as 3 groups of 4.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the Sports Day problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "There are 5 relay teams with 4 children each. ___ children run.",
+      "a": "20"
+     },
+     {
+      "q": "Kabir sets up 3 rows of 9 cones. He uses ___ cones.",
+      "a": "27"
+     },
+     {
+      "q": "Each of 2 teams wins 10 medals. They win ___ medals in all.",
+      "a": "20"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "multiplication-words-and-strategies-03",
+  "topic": "multiplication-words-and-strategies",
+  "number": 3,
+  "level": "Starter",
+  "title": "Nani's Ladoo Boxes",
+  "intro": "Nani is packing ladoos into boxes for the family. Every box holds the same number.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Add the equal groups.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "4 + 4",
+      "a": "8"
+     },
+     {
+      "q": "5 + 5 + 5",
+      "a": "15"
+     },
+     {
+      "q": "6 + 6 + 6 + 6",
+      "a": "24"
+     },
+     {
+      "q": "10 + 10 + 10 + 10 + 10",
+      "a": "50"
+     },
+     {
+      "q": "2 + 2 + 2 + 2 + 2 + 2 + 2",
+      "a": "14"
+     },
+     {
+      "q": "9 + 9 + 9",
+      "a": "27"
+     },
+     {
+      "q": "1 + 1 + 1 + 1 + 1 + 1",
+      "a": "6"
+     },
+     {
+      "q": "8 + 8",
+      "a": "16"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Count the ladoos.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Nani fills 2 boxes with 6 ladoos each. 2 × 6 = ___",
+      "a": "12"
+     },
+     {
+      "q": "She fills 5 boxes with 3 ladoos each. 5 × 3 = ___",
+      "a": "15"
+     },
+     {
+      "q": "She fills 4 boxes with 10 ladoos each. 4 × 10 = ___",
+      "a": "40"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort: equal groups or not equal groups?",
+    "marks": 6,
+    "groups": [
+     "Equal groups",
+     "Not equal"
+    ],
+    "words": [
+     "4, 4, 4",
+     "3, 5, 3",
+     "6, 6",
+     "2, 2, 1",
+     "5, 5, 5, 5",
+     "7, 8"
+    ],
+    "a": {
+     "4, 4, 4": "Equal groups",
+     "3, 5, 3": "Not equal",
+     "6, 6": "Equal groups",
+     "2, 2, 1": "Not equal",
+     "5, 5, 5, 5": "Equal groups",
+     "7, 8": "Not equal"
+    }
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "3 boxes of 5 ladoos give 15 ladoos.",
+      "a": true
+     },
+     {
+      "q": "2 boxes of 8 ladoos give 10 ladoos.",
+      "a": false
+     },
+     {
+      "q": "Multiplying is a quick way to add equal groups.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Nani has 12 ladoos. Write one way to pack them into equal boxes.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. 2 boxes of 6, 3 boxes of 4, 4 boxes of 3, 6 boxes of 2 or 12 boxes of 1"
+   }
+  ]
+ },
+ {
+  "id": "multiplication-words-and-strategies-04",
+  "topic": "multiplication-words-and-strategies",
+  "number": 4,
+  "level": "Starter",
+  "title": "The Classroom Bookshelf",
+  "intro": "Ms Thomas lines up books on a shelf in rows and columns. This neat pattern is called an array.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Use rows and columns to count.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "An array has 2 rows with 5 books in each row. It has ___ books.",
+      "a": "10"
+     },
+     {
+      "q": "An array has 3 rows with 4 books in each row. It has ___ books.",
+      "a": "12"
+     },
+     {
+      "q": "An array has 4 rows with 3 books in each row. It has ___ books.",
+      "a": "12"
+     },
+     {
+      "q": "An array has 5 rows with 5 books in each row. It has ___ books.",
+      "a": "25"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "Lines going across are called",
+      "options": [
+       "rows",
+       "columns"
+      ],
+      "after": ".",
+      "a": "rows"
+     },
+     {
+      "before": "Lines going up and down are called",
+      "options": [
+       "rows",
+       "columns"
+      ],
+      "after": ".",
+      "a": "columns"
+     },
+     {
+      "before": "Rows × columns gives the",
+      "options": [
+       "total",
+       "difference"
+      ],
+      "after": "in an array.",
+      "a": "total"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each array to its times fact.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "2 rows of 7",
+      "right": "2 × 7"
+     },
+     {
+      "left": "6 rows of 2",
+      "right": "6 × 2"
+     },
+     {
+      "left": "3 rows of 9",
+      "right": "3 × 9"
+     },
+     {
+      "left": "4 rows of 5",
+      "right": "4 × 5"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Every row in an array has the same number of things.",
+      "a": true
+     },
+     {
+      "q": "3 rows of 6 books make 9 books.",
+      "a": false
+     },
+     {
+      "q": "An array of 2 rows of 10 has 20 things.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Aditi puts 3 rows of 8 storybooks on the top shelf. She puts up ___ books.",
+      "a": "24"
+     },
+     {
+      "q": "The art shelf has 2 rows of 6 paint pots. It has ___ pots.",
+      "a": "12"
+     },
+     {
+      "q": "The bottom shelf has 4 rows of 10 crayons. It has ___ crayons.",
+      "a": "40"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "multiplication-words-and-strategies-05",
+  "topic": "multiplication-words-and-strategies",
+  "number": 5,
+  "level": "Practice",
+  "title": "Hopping Fish at the Aquarium",
+  "intro": "Zara is at the aquarium. A toy fish hops along a number line in equal jumps.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Write the next number on the number line.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Jumps of 3: 0, 3, 6, 9, 12, ___",
+      "a": "15"
+     },
+     {
+      "q": "Jumps of 4: 0, 4, 8, 12, 16, ___",
+      "a": "20"
+     },
+     {
+      "q": "Jumps of 6: 0, 6, 12, 18, ___",
+      "a": "24"
+     },
+     {
+      "q": "Jumps of 9: 0, 9, 18, ___",
+      "a": "27"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Where does the fish land?",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Start at 0. Make 5 jumps of 2. The fish lands on ___",
+      "a": "10"
+     },
+     {
+      "q": "Start at 0. Make 3 jumps of 7. The fish lands on ___",
+      "a": "21"
+     },
+     {
+      "q": "Start at 0. Make 4 jumps of 8. The fish lands on ___",
+      "a": "32"
+     },
+     {
+      "q": "Start at 0. Make 6 jumps of 5. The fish lands on ___",
+      "a": "30"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the jumps to the times fact.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "2 jumps of 9",
+      "right": "2 × 9"
+     },
+     {
+      "left": "7 jumps of 3",
+      "right": "7 × 3"
+     },
+     {
+      "left": "5 jumps of 4",
+      "right": "5 × 4"
+     },
+     {
+      "left": "3 jumps of 10",
+      "right": "3 × 10"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "On a number line, each jump of 5 moves 5 steps.",
+      "a": true
+     },
+     {
+      "q": "4 jumps of 6 from 0 land on 20.",
+      "a": false
+     },
+     {
+      "q": "3 jumps of 8 from 0 land on 24.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the aquarium problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "A seal jumps 4 rocks at a time. After 6 jumps it has passed ___ rocks.",
+      "a": "24"
+     },
+     {
+      "q": "Each tank has 7 starfish. Zara sees 5 tanks. She sees ___ starfish.",
+      "a": "35"
+     },
+     {
+      "q": "A penguin takes 3 steps at a time. After 9 hops it has taken ___ steps.",
+      "a": "27"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "multiplication-words-and-strategies-06",
+  "topic": "multiplication-words-and-strategies",
+  "number": 6,
+  "level": "Practice",
+  "title": "Rows of Diyas for Diwali",
+  "intro": "Ananya's family lights diyas on the balcony in neat rows for Diwali.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Multiply.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "6 × 2",
+      "a": "12"
+     },
+     {
+      "q": "4 × 7",
+      "a": "28"
+     },
+     {
+      "q": "3 × 8",
+      "a": "24"
+     },
+     {
+      "q": "5 × 9",
+      "a": "45"
+     },
+     {
+      "q": "2 × 10",
+      "a": "20"
+     },
+     {
+      "q": "7 × 4",
+      "a": "28"
+     },
+     {
+      "q": "9 × 3",
+      "a": "27"
+     },
+     {
+      "q": "8 × 5",
+      "a": "40"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right number of diyas.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "3 rows of 6 diyas make",
+      "options": [
+       "9",
+       "18",
+       "16"
+      ],
+      "after": "diyas.",
+      "a": "18"
+     },
+     {
+      "before": "5 rows of 4 diyas make",
+      "options": [
+       "20",
+       "9",
+       "24"
+      ],
+      "after": "diyas.",
+      "a": "20"
+     },
+     {
+      "before": "2 rows of 8 diyas make",
+      "options": [
+       "10",
+       "14",
+       "16"
+      ],
+      "after": "diyas.",
+      "a": "16"
+     },
+     {
+      "before": "4 rows of 9 diyas make",
+      "options": [
+       "36",
+       "13",
+       "32"
+      ],
+      "after": "diyas.",
+      "a": "36"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Write the adding sum for each times fact.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "3 × 7 = ___ (write the adding sum)",
+      "a": "7 + 7 + 7 / 3 + 3 + 3 + 3 + 3 + 3 + 3"
+     },
+     {
+      "q": "4 × 5 = ___ (write the adding sum)",
+      "a": "5 + 5 + 5 + 5 / 4 + 4 + 4 + 4 + 4"
+     },
+     {
+      "q": "2 × 9 = ___ (write the adding sum)",
+      "a": "9 + 9 / 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the fact to the product.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "6 × 3",
+      "right": "18"
+     },
+     {
+      "left": "7 × 5",
+      "right": "35"
+     },
+     {
+      "left": "8 × 2",
+      "right": "16"
+     },
+     {
+      "left": "10 × 4",
+      "right": "40"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the Diwali problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "There are 6 rows with 5 diyas in each row. ___ diyas are lit.",
+      "a": "30"
+     },
+     {
+      "q": "Ananya makes 4 rangoli patterns with 7 flowers in each. She uses ___ flowers.",
+      "a": "28"
+     },
+     {
+      "q": "Each of 3 cousins bursts 2 crackers. They burst ___ crackers.",
+      "a": "6"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "multiplication-words-and-strategies-07",
+  "topic": "multiplication-words-and-strategies",
+  "number": 7,
+  "level": "Practice",
+  "title": "The School Vegetable Garden",
+  "intro": "Class 2 plants seeds in garden beds. Every bed has equal rows. Learn the words of multiplication.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the right word.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "In 4 × 6 = 24, the numbers 4 and 6 are",
+      "options": [
+       "factors",
+       "products"
+      ],
+      "after": ".",
+      "a": "factors"
+     },
+     {
+      "before": "In 4 × 6 = 24, the answer 24 is the",
+      "options": [
+       "factor",
+       "product"
+      ],
+      "after": ".",
+      "a": "product"
+     },
+     {
+      "before": "To multiply means to find the total of",
+      "options": [
+       "equal",
+       "different"
+      ],
+      "after": "groups.",
+      "a": "equal"
+     },
+     {
+      "before": "5 times 3 is written as",
+      "options": [
+       "5 × 3",
+       "5 + 3"
+      ],
+      "after": ".",
+      "a": "5 × 3"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the factor or the product.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "In 3 × 9 = 27, the product is ___",
+      "a": "27"
+     },
+     {
+      "q": "In 7 × 2 = 14, the factors are 7 and ___",
+      "a": "2"
+     },
+     {
+      "q": "In 8 × 4 = 32, the first factor is ___",
+      "a": "8"
+     },
+     {
+      "q": "The product of 6 and 5 is ___",
+      "a": "30"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "A product is the answer to a times sum.",
+      "a": true
+     },
+     {
+      "q": "In 2 × 7 = 14, 14 is a factor.",
+      "a": false
+     },
+     {
+      "q": "The product of 3 and 10 is 30.",
+      "a": true
+     },
+     {
+      "q": "The product of 9 and 2 is 11.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Find the product.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "6 and 4",
+      "a": "24"
+     },
+     {
+      "q": "10 and 7",
+      "a": "70"
+     },
+     {
+      "q": "5 and 5",
+      "a": "25"
+     },
+     {
+      "q": "8 and 3",
+      "a": "24"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the garden problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Each bed has 6 carrot plants. There are 3 beds. There are ___ carrot plants.",
+      "a": "18"
+     },
+     {
+      "q": "Ishaan plants 9 seeds in each of 4 pots. He plants ___ seeds.",
+      "a": "36"
+     },
+     {
+      "q": "There are 5 rows of 8 tomato plants. That makes ___ plants.",
+      "a": "40"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "multiplication-words-and-strategies-08",
+  "topic": "multiplication-words-and-strategies",
+  "number": 8,
+  "level": "Practice",
+  "title": "The Juice Shop in Karama",
+  "intro": "Omar's uncle runs a juice shop in Karama. Help him count cups, fruit and money.",
+  "sections": [
+   {
+    "type": "column",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "4",
+      "op": "×",
+      "bottom": "6",
+      "a": "24"
+     },
+     {
+      "top": "7",
+      "op": "×",
+      "bottom": "3",
+      "a": "21"
+     },
+     {
+      "top": "9",
+      "op": "×",
+      "bottom": "5",
+      "a": "45"
+     },
+     {
+      "top": "8",
+      "op": "×",
+      "bottom": "2",
+      "a": "16"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Count the money in rupees.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "One cup of juice costs ₹10. 4 cups cost ₹ ___",
+      "a": "40"
+     },
+     {
+      "q": "One banana costs ₹5. 7 bananas cost ₹ ___",
+      "a": "35"
+     },
+     {
+      "q": "One straw pack costs ₹2. 9 packs cost ₹ ___",
+      "a": "18"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the order to the total.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "3 jugs of 6 cups",
+      "right": "18"
+     },
+     {
+      "left": "5 crates of 10 mangoes",
+      "right": "50"
+     },
+     {
+      "left": "2 boxes of 7 oranges",
+      "right": "14"
+     },
+     {
+      "left": "6 bags of 4 limes",
+      "right": "24"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "6 cups at ₹10 each cost ₹60.",
+      "a": true
+     },
+     {
+      "q": "3 × 7 and 7 × 3 have the same product.",
+      "a": true
+     },
+     {
+      "q": "5 glasses with 3 ice cubes each need 8 ice cubes.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the shop problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Omar fills 8 cups. Each cup needs 3 strawberries. He uses ___ strawberries.",
+      "a": "24"
+     },
+     {
+      "q": "A family buys 4 milkshakes at ₹9 each. They pay ₹ ___",
+      "a": "36"
+     },
+     {
+      "q": "The shop sells 10 coconuts a day for 5 days. It sells ___ coconuts.",
+      "a": "50"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "multiplication-words-and-strategies-09",
+  "topic": "multiplication-words-and-strategies",
+  "number": 9,
+  "level": "Practice",
+  "title": "Packing for the Desert Camp",
+  "intro": "Leo's scout group is going to a desert camp. Everything is packed in equal groups.",
+  "sections": [
+   {
+    "type": "sort",
+    "title": "Is the answer more than 20 or not?",
+    "marks": 6,
+    "groups": [
+     "More than 20",
+     "20 or less"
+    ],
+    "words": [
+     "3 × 8",
+     "4 × 5",
+     "6 × 4",
+     "2 × 9",
+     "7 × 3",
+     "5 × 3"
+    ],
+    "a": {
+     "3 × 8": "More than 20",
+     "4 × 5": "20 or less",
+     "6 × 4": "More than 20",
+     "2 × 9": "20 or less",
+     "7 × 3": "More than 20",
+     "5 × 3": "20 or less"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Use a strategy. Show it in the blank.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Equal groups: 4 tents with 3 children each. ___ children",
+      "a": "12"
+     },
+     {
+      "q": "Array: 5 rows of 6 water bottles. ___ bottles",
+      "a": "30"
+     },
+     {
+      "q": "Repeated adding: 8 + 8 + 8 = ___",
+      "a": "24"
+     },
+     {
+      "q": "Number line: 0, 7, 14, 21, ___",
+      "a": "28"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "2 × 8",
+      "a": "16"
+     },
+     {
+      "q": "6 × 6",
+      "a": "36"
+     },
+     {
+      "q": "9 × 4",
+      "a": "36"
+     },
+     {
+      "q": "10 × 3",
+      "a": "30"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "We can show 3 × 5 as 3 jumps of 5 on a number line.",
+      "a": true
+     },
+     {
+      "q": "2 × 6 is the same as 6 + 6.",
+      "a": true
+     },
+     {
+      "q": "An array of 4 rows of 4 has 8 things.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the camp problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Each of 6 children packs 2 torches. They pack ___ torches.",
+      "a": "12"
+     },
+     {
+      "q": "There are 3 camel rides with 5 children on each. ___ children ride.",
+      "a": "15"
+     },
+     {
+      "q": "Leo eats 2 dates at each of 7 stops. He eats ___ dates.",
+      "a": "14"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "multiplication-words-and-strategies-10",
+  "topic": "multiplication-words-and-strategies",
+  "number": 10,
+  "level": "Practice",
+  "title": "Mehendi Cones for a Wedding",
+  "intro": "Priya's aunt is getting married. Guests share mehendi cones, sweets and bangles in equal groups.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Which strategy does each one show?",
+    "marks": 4,
+    "items": [
+     {
+      "before": "4 + 4 + 4 + 4 + 4 shows",
+      "options": [
+       "repeated adding",
+       "an array"
+      ],
+      "after": ".",
+      "a": "repeated adding"
+     },
+     {
+      "before": "3 rows of 7 bangles shows",
+      "options": [
+       "an array",
+       "a number line"
+      ],
+      "after": ".",
+      "a": "an array"
+     },
+     {
+      "before": "0, 6, 12, 18 shows jumps on",
+      "options": [
+       "a number line",
+       "equal groups"
+      ],
+      "after": ".",
+      "a": "a number line"
+     },
+     {
+      "before": "5 plates with 2 sweets each shows",
+      "options": [
+       "equal groups",
+       "a number line"
+      ],
+      "after": ".",
+      "a": "equal groups"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Multiply.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "3 × 5",
+      "a": "15"
+     },
+     {
+      "q": "8 × 4",
+      "a": "32"
+     },
+     {
+      "q": "7 × 2",
+      "a": "14"
+     },
+     {
+      "q": "6 × 9",
+      "a": "54"
+     },
+     {
+      "q": "10 × 6",
+      "a": "60"
+     },
+     {
+      "q": "4 × 3",
+      "a": "12"
+     },
+     {
+      "q": "9 × 9",
+      "a": "81"
+     },
+     {
+      "q": "5 × 7",
+      "a": "35"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the missing factor.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "3 × ___ = 21",
+      "a": "7"
+     },
+     {
+      "q": "___ × 5 = 40",
+      "a": "8"
+     },
+     {
+      "q": "2 × ___ = 18",
+      "a": "9"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "8 guests with 3 bangles each have 24 bangles.",
+      "a": true
+     },
+     {
+      "q": "6 trays of 5 sweets make 35 sweets.",
+      "a": false
+     },
+     {
+      "q": "Any number times 1 is that number.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the wedding problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Priya draws 4 flowers on each hand. She has 2 hands. She draws ___ flowers.",
+      "a": "8"
+     },
+     {
+      "q": "There are 7 tables with 6 guests at each. ___ guests sit down.",
+      "a": "42"
+     },
+     {
+      "q": "The band plays 3 songs every hour for 4 hours. It plays ___ songs.",
+      "a": "12"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "multiplication-words-and-strategies-11",
+  "topic": "multiplication-words-and-strategies",
+  "number": 11,
+  "level": "Challenge",
+  "title": "The Eid Sweet Shop",
+  "intro": "Fatima helps at her family's sweet shop before Eid. Multiply to fill the orders and work out the bills.",
+  "sections": [
+   {
+    "type": "column",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "12",
+      "op": "×",
+      "bottom": "3",
+      "a": "36"
+     },
+     {
+      "top": "21",
+      "op": "×",
+      "bottom": "4",
+      "a": "84"
+     },
+     {
+      "top": "11",
+      "op": "×",
+      "bottom": "6",
+      "a": "66"
+     },
+     {
+      "top": "32",
+      "op": "×",
+      "bottom": "2",
+      "a": "64"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Work out each bill in rupees.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "6 pieces of baklava at ₹8 each cost ₹ ___",
+      "a": "48"
+     },
+     {
+      "q": "9 date rolls at ₹4 each cost ₹ ___",
+      "a": "36"
+     },
+     {
+      "q": "5 boxes of kaju katli at ₹10 each cost ₹ ___",
+      "a": "50"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the bigger product.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "The bigger product is",
+      "options": [
+       "6 × 7",
+       "5 × 8"
+      ],
+      "after": ".",
+      "a": "6 × 7"
+     },
+     {
+      "before": "The bigger product is",
+      "options": [
+       "4 × 9",
+       "7 × 5"
+      ],
+      "after": ".",
+      "a": "4 × 9"
+     },
+     {
+      "before": "The bigger product is",
+      "options": [
+       "3 × 10",
+       "8 × 4"
+      ],
+      "after": ".",
+      "a": "8 × 4"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Any number times 0 is 0.",
+      "a": true
+     },
+     {
+      "q": "7 trays with 0 sweets on each have 7 sweets.",
+      "a": false
+     },
+     {
+      "q": "If 6 × 4 = 24, then 4 × 6 = 24.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the Eid problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Fatima packs 3 boxes. Each box has 2 rows of 6 sweets. She packs ___ sweets.",
+      "a": "36"
+     },
+     {
+      "q": "A customer buys 8 laddoos at ₹5 each and pays with ₹50. She gets ₹ ___ back.",
+      "a": "10"
+     },
+     {
+      "q": "Yusuf stacks 4 trays of 9 cookies and then sells 6. ___ cookies are left.",
+      "a": "30"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "multiplication-words-and-strategies-12",
+  "topic": "multiplication-words-and-strategies",
+  "number": 12,
+  "level": "Challenge",
+  "title": "The Bus Trip to Abu Dhabi",
+  "intro": "Class 2 is taking a bus trip to Abu Dhabi. Use multiplication to plan seats, snacks and tickets.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in the missing number.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "4 × ___ = 28",
+      "a": "7"
+     },
+     {
+      "q": "___ × 6 = 54",
+      "a": "9"
+     },
+     {
+      "q": "9 × ___ = 0",
+      "a": "0"
+     },
+     {
+      "q": "___ × 7 = 70",
+      "a": "10"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Find the product.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "7 × 7",
+      "a": "49"
+     },
+     {
+      "q": "6 × 8",
+      "a": "48"
+     },
+     {
+      "q": "9 × 5",
+      "a": "45"
+     },
+     {
+      "q": "4 × 10",
+      "a": "40"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match two facts with the same product.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "3 × 8",
+      "right": "6 × 4"
+     },
+     {
+      "left": "2 × 9",
+      "right": "3 × 6"
+     },
+     {
+      "left": "4 × 5",
+      "right": "2 × 10"
+     },
+     {
+      "left": "2 × 6",
+      "right": "4 × 3"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "9 rows of 4 seats are fewer than 30 seats.",
+      "a": false
+     },
+     {
+      "q": "5 × 6 is 6 more than 4 × 6.",
+      "a": true
+     },
+     {
+      "q": "10 buses with 1 driver each have 10 drivers.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the trip problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The bus has 9 rows with 4 seats each. 30 children sit. ___ seats are empty.",
+      "a": "6"
+     },
+     {
+      "q": "Each child gets 3 crackers. There are 8 children in Aisha's group. They need ___ crackers.",
+      "a": "24"
+     },
+     {
+      "q": "A museum ticket costs ₹7. Rohan buys tickets for 5 people. He pays ₹ ___",
+      "a": "35"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "multiplication-words-and-strategies-13",
+  "topic": "multiplication-words-and-strategies",
+  "number": 13,
+  "level": "Challenge",
+  "title": "Building with Blocks",
+  "intro": "Mei and Sami build walls with toy blocks. Turning an array round does not change the total.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Turn the array round. Fill in the facts.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "3 rows of 7 = 21, so 7 rows of 3 = ___",
+      "a": "21"
+     },
+     {
+      "q": "5 rows of 9 = 45, so 9 rows of 5 = ___",
+      "a": "45"
+     },
+     {
+      "q": "2 rows of 8 = 16, so 8 rows of 2 = ___",
+      "a": "16"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort each fact by its product.",
+    "marks": 6,
+    "groups": [
+     "Product 24",
+     "Product 36"
+    ],
+    "words": [
+     "3 × 8",
+     "4 × 9",
+     "6 × 4",
+     "6 × 6",
+     "2 × 12",
+     "9 × 4"
+    ],
+    "a": {
+     "3 × 8": "Product 24",
+     "4 × 9": "Product 36",
+     "6 × 4": "Product 24",
+     "6 × 6": "Product 36",
+     "2 × 12": "Product 24",
+     "9 × 4": "Product 36"
+    }
+   },
+   {
+    "type": "column",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "13",
+      "op": "×",
+      "bottom": "2",
+      "a": "26"
+     },
+     {
+      "top": "22",
+      "op": "×",
+      "bottom": "3",
+      "a": "66"
+     },
+     {
+      "top": "14",
+      "op": "×",
+      "bottom": "2",
+      "a": "28"
+     },
+     {
+      "top": "31",
+      "op": "×",
+      "bottom": "3",
+      "a": "93"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "7 × 4 and 4 × 7 give the same answer.",
+      "a": true
+     },
+     {
+      "q": "A wall of 5 rows of 6 blocks uses 11 blocks.",
+      "a": false
+     },
+     {
+      "q": "An array of 1 row of 9 blocks has 9 blocks.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Mei has 18 blocks. Write two different arrays she can build.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. 2 rows of 9, 9 rows of 2, 3 rows of 6, 6 rows of 3, 1 row of 18"
+   }
+  ]
+ },
+ {
+  "id": "multiplication-words-and-strategies-14",
+  "topic": "multiplication-words-and-strategies",
+  "number": 14,
+  "level": "Challenge",
+  "title": "Picking Mangoes in Ratnagiri",
+  "intro": "Arjun visits his grandfather's mango orchard. Multiply to count trees, crates and money.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Multiply.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "8 × 6",
+      "a": "48"
+     },
+     {
+      "q": "7 × 9",
+      "a": "63"
+     },
+     {
+      "q": "10 × 8",
+      "a": "80"
+     },
+     {
+      "q": "6 × 7",
+      "a": "42"
+     },
+     {
+      "q": "5 × 10",
+      "a": "50"
+     },
+     {
+      "q": "9 × 8",
+      "a": "72"
+     },
+     {
+      "q": "4 × 4",
+      "a": "16"
+     },
+     {
+      "q": "3 × 9",
+      "a": "27"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle >, < or =.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "4 × 7",
+      "options": [
+       ">",
+       "<",
+       "="
+      ],
+      "after": "3 × 9",
+      "a": ">"
+     },
+     {
+      "before": "6 × 5",
+      "options": [
+       ">",
+       "<",
+       "="
+      ],
+      "after": "3 × 10",
+      "a": "="
+     },
+     {
+      "before": "2 × 9",
+      "options": [
+       ">",
+       "<",
+       "="
+      ],
+      "after": "4 × 5",
+      "a": "<"
+     },
+     {
+      "before": "8 × 3",
+      "options": [
+       ">",
+       "<",
+       "="
+      ],
+      "after": "5 × 4",
+      "a": ">"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Count in the orchard.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "There are 6 rows of mango trees with 8 trees in each row. There are ___ trees.",
+      "a": "48"
+     },
+     {
+      "q": "Arjun fills 7 crates with 10 mangoes each. He fills ___ mangoes.",
+      "a": "70"
+     },
+     {
+      "q": "A kilo of mangoes costs ₹9. Dada sells 6 kilos for ₹ ___",
+      "a": "54"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "3 crates of 9 mangoes is more than 2 crates of 10 mangoes.",
+      "a": true
+     },
+     {
+      "q": "8 × 5 is double 4 × 5.",
+      "a": true
+     },
+     {
+      "q": "6 baskets with 0 mangoes have 6 mangoes.",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Think and solve.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Arjun picks 5 mangoes a day for 7 days. Then he gives 10 to Nani. He has ___ left.",
+      "a": "25"
+     },
+     {
+      "q": "Dada packs 4 boxes of 6 mangoes for each of 2 aunties. He packs ___ mangoes.",
+      "a": "48"
+     },
+     {
+      "q": "Nine friends each eat 2 mango slices. They eat ___ slices.",
+      "a": "18"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "multiplication-words-and-strategies-15",
+  "topic": "multiplication-words-and-strategies",
+  "number": 15,
+  "level": "Challenge",
+  "title": "Planning the Class Party",
+  "intro": "Class 2 is planning an end-of-term party. Use all your multiplication strategies to plan it.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Use any strategy to solve.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "Party hats come in 4 packs of 9. There are ___ hats.",
+      "a": "36"
+     },
+     {
+      "q": "There are 7 tables with 4 chairs each. There are ___ chairs.",
+      "a": "28"
+     },
+     {
+      "q": "Each of 5 children brings 6 balloons. There are ___ balloons.",
+      "a": "30"
+     },
+     {
+      "q": "The teacher puts 3 rows of 10 cupcakes on a tray. There are ___ cupcakes.",
+      "a": "30"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the word to its meaning.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "factor",
+      "right": "a number we multiply"
+     },
+     {
+      "left": "product",
+      "right": "the answer when we multiply"
+     },
+     {
+      "left": "array",
+      "right": "things in equal rows and columns"
+     },
+     {
+      "left": "times",
+      "right": "another word for multiply"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "23",
+      "op": "×",
+      "bottom": "3",
+      "a": "69"
+     },
+     {
+      "top": "12",
+      "op": "×",
+      "bottom": "4",
+      "a": "48"
+     },
+     {
+      "top": "41",
+      "op": "×",
+      "bottom": "2",
+      "a": "82"
+     },
+     {
+      "top": "10",
+      "op": "×",
+      "bottom": "7",
+      "a": "70"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Work out the shopping bill in rupees.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "8 juice boxes at ₹6 each cost ₹ ___",
+      "a": "48"
+     },
+     {
+      "q": "3 packs of plates at ₹9 each cost ₹ ___",
+      "a": "27"
+     },
+     {
+      "q": "The whole bill is ₹ ___",
+      "a": "75"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write your own party word problem that uses ×. Then solve it.",
+    "marks": 2,
+    "lines": 2,
+    "a": "e.g. 4 friends each eat 3 samosas. 4 × 3 = 12 samosas. Check the times fact and answer."
+   }
+  ]
+ }
+]
