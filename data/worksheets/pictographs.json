@@ -1,0 +1,1792 @@
+[
+  {
+    "id": "pictographs-01",
+    "topic": "pictographs",
+    "number": 1,
+    "level": "Starter",
+    "title": "Fruit at the Class Picnic",
+    "intro": "Class 2C brought fruit to a picnic in the park. Key: each ● = 1 fruit.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Count the pictures. Write how many fruits.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Apples: ● ● ● ● ● = ___ fruits",
+            "a": "5"
+          },
+          {
+            "q": "Bananas: ● ● ● = ___ fruits",
+            "a": "3"
+          },
+          {
+            "q": "Mangoes: ● ● ● ● ● ● = ___ fruits",
+            "a": "6"
+          },
+          {
+            "q": "Oranges: ● ● = ___ fruits",
+            "a": "2"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The fruit with the most pictures is",
+            "options": [
+              "apples",
+              "mangoes",
+              "oranges"
+            ],
+            "after": ".",
+            "a": "mangoes"
+          },
+          {
+            "before": "The fruit with the fewest pictures is",
+            "options": [
+              "bananas",
+              "oranges",
+              "apples"
+            ],
+            "after": ".",
+            "a": "oranges"
+          },
+          {
+            "before": "There are",
+            "options": [
+              "more",
+              "fewer"
+            ],
+            "after": "bananas than apples.",
+            "a": "fewer"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "There are 5 apples.",
+            "a": true
+          },
+          {
+            "q": "There are more oranges than mangoes.",
+            "a": false
+          },
+          {
+            "q": "Each ● stands for 2 fruits.",
+            "a": false
+          },
+          {
+            "q": "Bananas and oranges together are 5.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Use the pictograph to answer.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "How many more mangoes than bananas? ___",
+            "a": "3"
+          },
+          {
+            "q": "Apples and oranges together make ___ fruits.",
+            "a": "7"
+          },
+          {
+            "q": "Altogether there are ___ fruits at the picnic.",
+            "a": "16"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which fruit would you bring to a picnic? Write one sentence.",
+        "marks": 2,
+        "lines": 1,
+        "a": "Any sensible sentence naming a fruit, with a capital letter and full stop."
+      }
+    ]
+  },
+  {
+    "id": "pictographs-02",
+    "topic": "pictographs",
+    "number": 2,
+    "level": "Starter",
+    "title": "Pets in Our Building",
+    "intro": "Tanvi asked her neighbours in their Sharjah building about their pets. Key: each ● = 1 pet.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each row to its number.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "Cats: ● ● ● ●",
+            "right": "4"
+          },
+          {
+            "left": "Dogs: ● ● ● ● ● ●",
+            "right": "6"
+          },
+          {
+            "left": "Fish: ● ● ● ● ● ● ●",
+            "right": "7"
+          },
+          {
+            "left": "Birds: ● ● ●",
+            "right": "3"
+          },
+          {
+            "left": "Rabbits: ● ●",
+            "right": "2"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the pets into the right box.",
+        "marks": 5,
+        "groups": [
+          "More than 4",
+          "4 or fewer"
+        ],
+        "words": [
+          "Cats",
+          "Dogs",
+          "Fish",
+          "Birds",
+          "Rabbits"
+        ],
+        "a": {
+          "Cats": "4 or fewer",
+          "Dogs": "More than 4",
+          "Fish": "More than 4",
+          "Birds": "4 or fewer",
+          "Rabbits": "4 or fewer"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Answer from the pictograph.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The most common pet is ___.",
+            "a": "fish / Fish"
+          },
+          {
+            "q": "Dogs and cats together: ___ pets.",
+            "a": "10"
+          },
+          {
+            "q": "How many more fish than birds? ___",
+            "a": "4"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "There are 2 rabbits.",
+            "a": true
+          },
+          {
+            "q": "There are fewer dogs than cats.",
+            "a": false
+          },
+          {
+            "q": "The building has 22 pets in all.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Think and answer.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Two more birds join. Now the birds row has ___ ●.",
+            "a": "5"
+          },
+          {
+            "q": "One cat moves away. Now the cats row has ___ ●.",
+            "a": "3"
+          },
+          {
+            "q": "To show 8 hamsters, we draw ___ ●.",
+            "a": "8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pictographs-03",
+    "topic": "pictographs",
+    "number": 3,
+    "level": "Starter",
+    "title": "Kites on Makar Sankranti",
+    "intro": "Four friends flew kites from a rooftop in Ahmedabad. Key: each ● = 2 kites.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "Count in 2s. How many kites?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Aarav ● ● ●",
+            "a": "6"
+          },
+          {
+            "q": "Diya ● ● ● ● ●",
+            "a": "10"
+          },
+          {
+            "q": "Kabir ● ●",
+            "a": "4"
+          },
+          {
+            "q": "Zoya ● ● ● ●",
+            "a": "8"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The most kites were flown by",
+            "options": [
+              "Diya",
+              "Zoya",
+              "Aarav"
+            ],
+            "after": ".",
+            "a": "Diya"
+          },
+          {
+            "before": "Kabir has",
+            "options": [
+              "2",
+              "4"
+            ],
+            "after": "● in his row.",
+            "a": "2"
+          },
+          {
+            "before": "Aarav flew",
+            "options": [
+              "more",
+              "fewer"
+            ],
+            "after": "kites than Zoya.",
+            "a": "fewer"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Diya flew ___ more kites than Kabir.",
+            "a": "6"
+          },
+          {
+            "q": "Aarav and Zoya flew ___ kites together.",
+            "a": "14"
+          },
+          {
+            "q": "All four friends flew ___ kites.",
+            "a": "28"
+          },
+          {
+            "q": "Meher flew 12 kites. Her row needs ___ ●.",
+            "a": "6"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "One ● means one kite here.",
+            "a": false
+          },
+          {
+            "q": "Zoya has 4 pictures in her row.",
+            "a": true
+          },
+          {
+            "q": "Kabir flew the fewest kites.",
+            "a": true
+          },
+          {
+            "q": "Diya flew 5 kites.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why do we use a key in a pictograph? Write one sentence.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. The key tells us how many things each picture stands for."
+      }
+    ]
+  },
+  {
+    "id": "pictographs-04",
+    "topic": "pictographs",
+    "number": 4,
+    "level": "Starter",
+    "title": "Ice Creams at Jumeirah Beach",
+    "intro": "Mr Farhan sells ice creams from a cart at the beach. Key: each ● = 2 ice creams.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "How many ice creams were sold each day?",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Monday: ● ● ● ● = ___ ice creams",
+            "a": "8"
+          },
+          {
+            "q": "Tuesday: ● ● ● ● ● ● = ___ ice creams",
+            "a": "12"
+          },
+          {
+            "q": "Wednesday: ● ● ● = ___ ice creams",
+            "a": "6"
+          },
+          {
+            "q": "Thursday: ● ● ● ● ● ● ● = ___ ice creams",
+            "a": "14"
+          },
+          {
+            "q": "Friday: ● ● ● ● ● = ___ ice creams",
+            "a": "10"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Most ice creams were sold on Thursday.",
+            "a": true
+          },
+          {
+            "q": "Fewer ice creams were sold on Monday than on Wednesday.",
+            "a": false
+          },
+          {
+            "q": "Friday sold 10 ice creams.",
+            "a": true
+          },
+          {
+            "q": "Tuesday has 12 pictures.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "How many ● would you draw?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "4 ice creams",
+            "a": "2"
+          },
+          {
+            "q": "16 ice creams",
+            "a": "8"
+          },
+          {
+            "q": "20 ice creams",
+            "a": "10"
+          },
+          {
+            "q": "2 ice creams",
+            "a": "1"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the beach problems.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Thursday sold ___ more ice creams than Wednesday.",
+            "a": "8"
+          },
+          {
+            "q": "Monday and Tuesday sold ___ ice creams together.",
+            "a": "20"
+          },
+          {
+            "q": "Each ice cream costs ₹20. Friday made ₹ ___.",
+            "a": "200"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why do you think Thursday was so busy?",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. It was a hot day. Any sensible reason."
+      }
+    ]
+  },
+  {
+    "id": "pictographs-05",
+    "topic": "pictographs",
+    "number": 5,
+    "level": "Practice",
+    "title": "Library Week Reading Race",
+    "intro": "Four children counted the books they read in Library Week. Key: ● = 2 books, ◐ = 1 book.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Read the key.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "One ● stands for ___ books.",
+            "a": "2"
+          },
+          {
+            "q": "One ◐ stands for ___ book.",
+            "a": "1"
+          },
+          {
+            "q": "● ◐ stands for ___ books.",
+            "a": "3"
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match each reader to the number of books.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Ishaan: ● ● ● ◐",
+            "right": "7"
+          },
+          {
+            "left": "Mira: ● ● ● ● ◐",
+            "right": "9"
+          },
+          {
+            "left": "Leo: ● ●",
+            "right": "4"
+          },
+          {
+            "left": "Sana: ● ● ● ● ● ◐",
+            "right": "11"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The top reader is",
+            "options": [
+              "Mira",
+              "Sana",
+              "Ishaan"
+            ],
+            "after": ".",
+            "a": "Sana"
+          },
+          {
+            "before": "Leo's row has",
+            "options": [
+              "a half picture",
+              "no half picture"
+            ],
+            "after": ".",
+            "a": "no half picture"
+          },
+          {
+            "before": "Ishaan read",
+            "options": [
+              "2",
+              "3",
+              "4"
+            ],
+            "after": "books more than Leo.",
+            "a": "3"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Mira and Leo read ___ books together.",
+            "a": "13"
+          },
+          {
+            "q": "Sana read ___ more books than Mira.",
+            "a": "2"
+          },
+          {
+            "q": "The four children read ___ books in all.",
+            "a": "31"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "How many pictures? Use ● and ◐.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "5 books",
+            "a": "2 and a half / 2½ / 2.5"
+          },
+          {
+            "q": "8 books",
+            "a": "4"
+          },
+          {
+            "q": "13 books",
+            "a": "6 and a half / 6½ / 6.5"
+          },
+          {
+            "q": "15 books",
+            "a": "7 and a half / 7½ / 7.5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pictographs-06",
+    "topic": "pictographs",
+    "number": 6,
+    "level": "Practice",
+    "title": "Rainy Days in Mumbai",
+    "intro": "Grandpa Joseph marks every rainy day on his calendar in Mumbai. Key: each ● = 5 rainy days.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Count in 5s. How many rainy days?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "June: ● ● ● ● = ___ days",
+            "a": "20"
+          },
+          {
+            "q": "July: ● ● ● ● ● = ___ days",
+            "a": "25"
+          },
+          {
+            "q": "August: ● ● ● = ___ days",
+            "a": "15"
+          },
+          {
+            "q": "September: ● ● = ___ days",
+            "a": "10"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add the rainy days.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "20",
+            "op": "+",
+            "bottom": "25",
+            "a": "45"
+          },
+          {
+            "top": "25",
+            "op": "+",
+            "bottom": "15",
+            "a": "40"
+          },
+          {
+            "top": "20",
+            "op": "+",
+            "bottom": "10",
+            "a": "30"
+          },
+          {
+            "top": "15",
+            "op": "+",
+            "bottom": "10",
+            "a": "25"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "July was the rainiest month.",
+            "a": true
+          },
+          {
+            "q": "September had 2 rainy days.",
+            "a": false
+          },
+          {
+            "q": "June had 5 more rainy days than August.",
+            "a": true
+          },
+          {
+            "q": "To show 30 rainy days we draw 6 ●.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Think and answer.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "July had ___ more rainy days than September.",
+            "a": "15"
+          },
+          {
+            "q": "In all four months there were ___ rainy days.",
+            "a": "70"
+          },
+          {
+            "q": "October had 5 rainy days. Its row has ___ ●.",
+            "a": "1"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Name two things you need on a rainy day.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. an umbrella and a raincoat. Any two sensible things."
+      }
+    ]
+  },
+  {
+    "id": "pictographs-07",
+    "topic": "pictographs",
+    "number": 7,
+    "level": "Practice",
+    "title": "Bottles for the Recycling Drive",
+    "intro": "Four classes collected plastic bottles for recycling. Key: ● = 10 bottles, ◐ = 5 bottles.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "How many bottles did each class collect?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Class 2A ● ● ● ●",
+            "a": "40"
+          },
+          {
+            "q": "Class 2B ● ● ● ◐",
+            "a": "35"
+          },
+          {
+            "q": "Class 2C ● ● ● ● ●",
+            "a": "50"
+          },
+          {
+            "q": "Class 2D ● ● ◐",
+            "a": "25"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The class that won the drive is",
+            "options": [
+              "Class 2A",
+              "Class 2C",
+              "Class 2D"
+            ],
+            "after": ".",
+            "a": "Class 2C"
+          },
+          {
+            "before": "Class 2D collected",
+            "options": [
+              "25",
+              "35",
+              "20"
+            ],
+            "after": "bottles.",
+            "a": "25"
+          },
+          {
+            "before": "◐ means",
+            "options": [
+              "5",
+              "10",
+              "1"
+            ],
+            "after": "bottles.",
+            "a": "5"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the classes.",
+        "marks": 4,
+        "groups": [
+          "Has a half picture",
+          "No half picture"
+        ],
+        "words": [
+          "Class 2A",
+          "Class 2B",
+          "Class 2C",
+          "Class 2D"
+        ],
+        "a": {
+          "Class 2A": "No half picture",
+          "Class 2B": "Has a half picture",
+          "Class 2C": "No half picture",
+          "Class 2D": "Has a half picture"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Solve.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Class 2C collected ___ more bottles than Class 2D.",
+            "a": "25"
+          },
+          {
+            "q": "Class 2A and Class 2B collected ___ bottles together.",
+            "a": "75"
+          },
+          {
+            "q": "All four classes collected ___ bottles.",
+            "a": "150"
+          },
+          {
+            "q": "Class 2E collected 45 bottles. That is ___ ● and 1 ◐.",
+            "a": "4"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why is recycling good for the Earth?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. It makes less rubbish and saves things we can use again."
+      }
+    ]
+  },
+  {
+    "id": "pictographs-08",
+    "topic": "pictographs",
+    "number": 8,
+    "level": "Practice",
+    "title": "Trees Planted on Green Day",
+    "intro": "Students planted saplings around their school in Al Ain. Key: ● = 4 trees, ◐ = 2 trees.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "Count in 4s. How many trees?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Monday: ● ● ● = ___ trees",
+            "a": "12"
+          },
+          {
+            "q": "Tuesday: ● ◐ = ___ trees",
+            "a": "6"
+          },
+          {
+            "q": "Wednesday: ● ● ● ● = ___ trees",
+            "a": "16"
+          },
+          {
+            "q": "Thursday: ● ● ◐ = ___ trees",
+            "a": "10"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Wednesday has 4 pictures.",
+            "a": true
+          },
+          {
+            "q": "Tuesday has a half picture.",
+            "a": true
+          },
+          {
+            "q": "More trees were planted on Monday than on Thursday.",
+            "a": true
+          },
+          {
+            "q": "◐ ◐ is the same as one ●.",
+            "a": true
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "How many pictures for these trees?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "8 trees",
+            "a": "2"
+          },
+          {
+            "q": "20 trees",
+            "a": "5"
+          },
+          {
+            "q": "14 trees",
+            "a": "3 and a half / 3½ / 3.5"
+          },
+          {
+            "q": "18 trees",
+            "a": "4 and a half / 4½ / 4.5"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the Green Day problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Wednesday had ___ more trees than Tuesday.",
+            "a": "10"
+          },
+          {
+            "q": "Monday and Thursday: ___ trees together.",
+            "a": "22"
+          },
+          {
+            "q": "In all, ___ trees were planted.",
+            "a": "44"
+          },
+          {
+            "q": "The school wanted 50 trees. ___ more are needed.",
+            "a": "6"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way to look after a young tree.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. Water it every day. Any sensible way."
+      }
+    ]
+  },
+  {
+    "id": "pictographs-09",
+    "topic": "pictographs",
+    "number": 9,
+    "level": "Practice",
+    "title": "The Global Village Snack Stall",
+    "intro": "Aunt Rukhsana's stall at Global Village sold snacks one evening. Key: each ● = 5 snacks.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each snack to the number sold.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "Samosas: ● ● ● ● ● ●",
+            "right": "30"
+          },
+          {
+            "left": "Cookies: ● ● ●",
+            "right": "15"
+          },
+          {
+            "left": "Juice: ● ● ● ● ●",
+            "right": "25"
+          },
+          {
+            "left": "Popcorn: ● ● ● ●",
+            "right": "20"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The best-selling snack was",
+            "options": [
+              "juice",
+              "samosas",
+              "popcorn"
+            ],
+            "after": ".",
+            "a": "samosas"
+          },
+          {
+            "before": "The stall sold",
+            "options": [
+              "more",
+              "fewer"
+            ],
+            "after": "cookies than popcorn.",
+            "a": "fewer"
+          },
+          {
+            "before": "Juice has",
+            "options": [
+              "4",
+              "5",
+              "25"
+            ],
+            "after": "● in its row.",
+            "a": "5"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Find the totals.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "30",
+            "op": "+",
+            "bottom": "25",
+            "a": "55"
+          },
+          {
+            "top": "15",
+            "op": "+",
+            "bottom": "20",
+            "a": "35"
+          },
+          {
+            "top": "30",
+            "op": "-",
+            "bottom": "15",
+            "a": "15"
+          },
+          {
+            "top": "25",
+            "op": "-",
+            "bottom": "20",
+            "a": "5"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Money problems. Prices: samosa ₹10, cookie ₹5, juice ₹20.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Cookies earned ₹ ___.",
+            "a": "75"
+          },
+          {
+            "q": "Samosas earned ₹ ___.",
+            "a": "300"
+          },
+          {
+            "q": "Kiara buys 1 samosa and 1 juice. She pays ₹ ___.",
+            "a": "30"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The stall sold 90 snacks in all.",
+            "a": true
+          },
+          {
+            "q": "Popcorn sold 4 snacks.",
+            "a": false
+          },
+          {
+            "q": "Samosas sold twice as many as cookies.",
+            "a": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pictographs-10",
+    "topic": "pictographs",
+    "number": 10,
+    "level": "Practice",
+    "title": "Favourite Sports of Class 2E",
+    "intro": "Coach Neha asked Class 2E to vote for their favourite sport. Key: ● = 2 votes, ◐ = 1 vote.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "How many votes did each sport get?",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Cricket: ● ● ● ● ◐ = ___ votes",
+            "a": "9"
+          },
+          {
+            "q": "Football: ● ● ● ● ● ● = ___ votes",
+            "a": "12"
+          },
+          {
+            "q": "Tennis: ● ● ◐ = ___ votes",
+            "a": "5"
+          },
+          {
+            "q": "Swimming: ● ● ● ◐ = ___ votes",
+            "a": "7"
+          },
+          {
+            "q": "Badminton: ● ● = ___ votes",
+            "a": "4"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the sports by votes.",
+        "marks": 5,
+        "groups": [
+          "Even number of votes",
+          "Odd number of votes"
+        ],
+        "words": [
+          "Cricket",
+          "Football",
+          "Tennis",
+          "Swimming",
+          "Badminton"
+        ],
+        "a": {
+          "Cricket": "Odd number of votes",
+          "Football": "Even number of votes",
+          "Tennis": "Odd number of votes",
+          "Swimming": "Odd number of votes",
+          "Badminton": "Even number of votes"
+        }
+      },
+      {
+        "type": "fill",
+        "title": "Solve.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The winning sport is ___.",
+            "a": "football / Football"
+          },
+          {
+            "q": "Football got ___ more votes than tennis.",
+            "a": "7"
+          },
+          {
+            "q": "Cricket and swimming got ___ votes together.",
+            "a": "16"
+          },
+          {
+            "q": "___ children voted in all.",
+            "a": "37"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Every odd number needs a half picture.",
+            "a": true
+          },
+          {
+            "q": "Badminton got the fewest votes.",
+            "a": true
+          },
+          {
+            "q": "Skating got 6 votes, so it needs 6 ●.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Which sport do you like best? Say why.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. I like swimming because it keeps me cool. Any sport with a reason."
+      }
+    ]
+  },
+  {
+    "id": "pictographs-11",
+    "topic": "pictographs",
+    "number": 11,
+    "level": "Challenge",
+    "title": "Visitors at the Dubai Frame",
+    "intro": "A guide counted school visitors at the Dubai Frame each morning. Key: ● = 10 visitors, ◐ = 5 visitors.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "How many visitors came each day?",
+        "marks": 5,
+        "items": [
+          {
+            "q": "Monday: ● ● ● ● ◐ = ___ visitors",
+            "a": "45"
+          },
+          {
+            "q": "Tuesday: ● ● ● ● ● ● = ___ visitors",
+            "a": "60"
+          },
+          {
+            "q": "Wednesday: ● ● ● ◐ = ___ visitors",
+            "a": "35"
+          },
+          {
+            "q": "Thursday: ● ● ● ● ● ● ● ● = ___ visitors",
+            "a": "80"
+          },
+          {
+            "q": "Friday: ● ● ● ● ● ◐ = ___ visitors",
+            "a": "55"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "The quietest day was",
+            "options": [
+              "Monday",
+              "Wednesday",
+              "Friday"
+            ],
+            "after": ".",
+            "a": "Wednesday"
+          },
+          {
+            "before": "Thursday had",
+            "options": [
+              "20",
+              "25",
+              "35"
+            ],
+            "after": "more visitors than Tuesday.",
+            "a": "20"
+          },
+          {
+            "before": "Friday has",
+            "options": [
+              "5 and a half",
+              "5",
+              "6"
+            ],
+            "after": "pictures.",
+            "a": "5 and a half"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Work it out.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "45",
+            "op": "+",
+            "bottom": "60",
+            "a": "105"
+          },
+          {
+            "top": "35",
+            "op": "+",
+            "bottom": "55",
+            "a": "90"
+          },
+          {
+            "top": "80",
+            "op": "-",
+            "bottom": "35",
+            "a": "45"
+          },
+          {
+            "top": "55",
+            "op": "-",
+            "bottom": "45",
+            "a": "10"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Think it through.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "In the whole week, ___ visitors came.",
+            "a": "275"
+          },
+          {
+            "q": "On Saturday 95 visitors came. Its row has ___ whole pictures and 1 half.",
+            "a": "9"
+          },
+          {
+            "q": "Tickets cost ₹10 for each child. Monday made ₹ ___.",
+            "a": "450"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "Tuesday and Thursday together had 140 visitors.",
+            "a": true
+          },
+          {
+            "q": "Three days had a half picture.",
+            "a": true
+          },
+          {
+            "q": "Friday had more visitors than Tuesday.",
+            "a": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pictographs-12",
+    "topic": "pictographs",
+    "number": 12,
+    "level": "Challenge",
+    "title": "Diyas on Our Street at Diwali",
+    "intro": "Riya counted the diyas lit outside each house on her street. Key: ● = 10 diyas, ◐ = 5 diyas.",
+    "sections": [
+      {
+        "type": "pairs",
+        "title": "How many diyas at each house?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Gupta house ● ● ●",
+            "a": "30"
+          },
+          {
+            "q": "Pinto house ● ● ◐",
+            "a": "25"
+          },
+          {
+            "q": "Rao house ● ● ● ●",
+            "a": "40"
+          },
+          {
+            "q": "Singh house ● ◐",
+            "a": "15"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The Rao house lit ___ more diyas than the Singh house.",
+            "a": "25"
+          },
+          {
+            "q": "The four houses lit ___ diyas in all.",
+            "a": "110"
+          },
+          {
+            "q": "The street lit 135 diyas with the Khan house too. The Khan house lit ___.",
+            "a": "25"
+          },
+          {
+            "q": "So the Khan house row has ___ ● and 1 ◐.",
+            "a": "2"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "The Pinto house row has a half picture.",
+            "a": true
+          },
+          {
+            "q": "The Gupta house lit twice as many diyas as the Singh house.",
+            "a": true
+          },
+          {
+            "q": "The Rao and Singh houses lit 55 diyas together.",
+            "a": true
+          },
+          {
+            "q": "Three ◐ make 30 diyas.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Match the pictures to the diyas.",
+        "marks": 4,
+        "items": [
+          {
+            "left": "● ●",
+            "right": "20 diyas"
+          },
+          {
+            "left": "● ● ● ◐",
+            "right": "35 diyas"
+          },
+          {
+            "left": "● ● ● ● ●",
+            "right": "50 diyas"
+          },
+          {
+            "left": "◐",
+            "right": "5 diyas"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write two things your family does at a festival.",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. We light lamps and share sweets. Any festival, any two sensible things."
+      }
+    ]
+  },
+  {
+    "id": "pictographs-13",
+    "topic": "pictographs",
+    "number": 13,
+    "level": "Challenge",
+    "title": "Eggs from Nani's Farm",
+    "intro": "Nani collects eggs from her hens in a village near Pune. Key: ● = 4 eggs, ◐ = 2 eggs.",
+    "sections": [
+      {
+        "type": "match",
+        "title": "Match each day to the eggs collected.",
+        "marks": 5,
+        "items": [
+          {
+            "left": "Monday: ● ● ● ● ◐",
+            "right": "18"
+          },
+          {
+            "left": "Tuesday: ● ● ● ● ● ●",
+            "right": "24"
+          },
+          {
+            "left": "Wednesday: ● ● ● ◐",
+            "right": "14"
+          },
+          {
+            "left": "Thursday: ● ● ● ● ●",
+            "right": "20"
+          },
+          {
+            "left": "Friday: ● ● ● ● ● ◐",
+            "right": "22"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve.",
+        "marks": 5,
+        "items": [
+          {
+            "q": "The best day was ___.",
+            "a": "Tuesday"
+          },
+          {
+            "q": "Tuesday had ___ more eggs than Wednesday.",
+            "a": "10"
+          },
+          {
+            "q": "Nani collected ___ eggs in the five days.",
+            "a": "98"
+          },
+          {
+            "q": "Monday and Friday together: ___ eggs.",
+            "a": "40"
+          },
+          {
+            "q": "Nani sells eggs for ₹6 each. Wednesday made ₹ ___.",
+            "a": "84"
+          }
+        ]
+      },
+      {
+        "type": "pairs",
+        "title": "How many pictures would you draw?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "26 eggs",
+            "a": "6 and a half / 6½ / 6.5"
+          },
+          {
+            "q": "12 eggs",
+            "a": "3"
+          },
+          {
+            "q": "30 eggs",
+            "a": "7 and a half / 7½ / 7.5"
+          },
+          {
+            "q": "6 eggs",
+            "a": "1 and a half / 1½ / 1.5"
+          }
+        ]
+      },
+      {
+        "type": "sort",
+        "title": "Sort the days.",
+        "marks": 5,
+        "groups": [
+          "20 or more eggs",
+          "Fewer than 20 eggs"
+        ],
+        "words": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "a": {
+          "Monday": "Fewer than 20 eggs",
+          "Tuesday": "20 or more eggs",
+          "Wednesday": "Fewer than 20 eggs",
+          "Thursday": "20 or more eggs",
+          "Friday": "20 or more eggs"
+        }
+      },
+      {
+        "type": "lines",
+        "title": "Saturday shows 5 whole pictures and 1 half. How many eggs? Show how.",
+        "marks": 2,
+        "lines": 1,
+        "a": "22 eggs (5 fours make 20, add 2)."
+      }
+    ]
+  },
+  {
+    "id": "pictographs-14",
+    "topic": "pictographs",
+    "number": 14,
+    "level": "Challenge",
+    "title": "Changing the Key at the Toy Shop",
+    "intro": "Mr Lim, a toy shop owner in Karama, made a pictograph of the toys he sold. Key: ● = 5 toys.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "How many toys were sold?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Teddy bears: ● ● ● ● = ___ toys",
+            "a": "20"
+          },
+          {
+            "q": "Toy cars: ● ● ● ● ● ● ● = ___ toys",
+            "a": "35"
+          },
+          {
+            "q": "Puzzles: ● ● ● = ___ toys",
+            "a": "15"
+          },
+          {
+            "q": "Board games: ● ● ● ● ● ● = ___ toys",
+            "a": "30"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Now Mr Lim changes the key: ● = 10 toys, ◐ = 5 toys. How many pictures?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Teddy bears: ___ ●",
+            "a": "2"
+          },
+          {
+            "q": "Board games: ___ ●",
+            "a": "3"
+          },
+          {
+            "q": "Toy cars: ___ ● and 1 ◐",
+            "a": "3"
+          },
+          {
+            "q": "Puzzles: ___ ● and 1 ◐",
+            "a": "1"
+          }
+        ]
+      },
+      {
+        "type": "truefalse",
+        "title": "Circle True or False.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "With a bigger key, we draw fewer pictures.",
+            "a": true
+          },
+          {
+            "q": "Changing the key changes how many toys were sold.",
+            "a": false
+          },
+          {
+            "q": "Toy cars and puzzles together are 50 toys.",
+            "a": true
+          },
+          {
+            "q": "The shop sold 90 toys in all.",
+            "a": false
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve.",
+        "marks": 3,
+        "items": [
+          {
+            "q": "The shop sold ___ more toy cars than puzzles.",
+            "a": "20"
+          },
+          {
+            "q": "Altogether ___ toys were sold.",
+            "a": "100"
+          },
+          {
+            "q": "A puzzle costs ₹50. Two puzzles cost ₹ ___.",
+            "a": "100"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Why might Mr Lim choose the key of 10?",
+        "marks": 2,
+        "lines": 2,
+        "a": "e.g. He has to draw fewer pictures, so it is quicker and neater."
+      }
+    ]
+  },
+  {
+    "id": "pictographs-15",
+    "topic": "pictographs",
+    "number": 15,
+    "level": "Challenge",
+    "title": "Saving for a Birthday Gift",
+    "intro": "Elena saved coins in her money box to buy a gift for her brother. Key: ● = ₹10, ◐ = ₹5.",
+    "sections": [
+      {
+        "type": "fill",
+        "title": "How much did Elena save each week?",
+        "marks": 4,
+        "items": [
+          {
+            "q": "Week 1: ● ● ● = ___ rupees",
+            "a": "30"
+          },
+          {
+            "q": "Week 2: ● ● ● ● ◐ = ___ rupees",
+            "a": "45"
+          },
+          {
+            "q": "Week 3: ● ● = ___ rupees",
+            "a": "20"
+          },
+          {
+            "q": "Week 4: ● ● ● ● ● ◐ = ___ rupees",
+            "a": "55"
+          }
+        ]
+      },
+      {
+        "type": "column",
+        "title": "Add and subtract the savings.",
+        "marks": 4,
+        "items": [
+          {
+            "top": "30",
+            "op": "+",
+            "bottom": "45",
+            "a": "75"
+          },
+          {
+            "top": "20",
+            "op": "+",
+            "bottom": "55",
+            "a": "75"
+          },
+          {
+            "top": "55",
+            "op": "-",
+            "bottom": "20",
+            "a": "35"
+          },
+          {
+            "top": "45",
+            "op": "-",
+            "bottom": "30",
+            "a": "15"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "title": "Solve the money problems.",
+        "marks": 4,
+        "items": [
+          {
+            "q": "In four weeks Elena saved ₹ ___.",
+            "a": "150"
+          },
+          {
+            "q": "The gift costs ₹200. She still needs ₹ ___.",
+            "a": "50"
+          },
+          {
+            "q": "For that, Week 5 needs ___ ●.",
+            "a": "5"
+          },
+          {
+            "q": "Her best week was ___.",
+            "a": "Week 4 / week 4"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "title": "Circle the right answer.",
+        "marks": 3,
+        "items": [
+          {
+            "before": "Week 2 shows",
+            "options": [
+              "4 and a half",
+              "5",
+              "4"
+            ],
+            "after": "pictures.",
+            "a": "4 and a half"
+          },
+          {
+            "before": "Elena saved the least in",
+            "options": [
+              "Week 1",
+              "Week 3",
+              "Week 4"
+            ],
+            "after": ".",
+            "a": "Week 3"
+          },
+          {
+            "before": "Weeks 1 and 3 together saved",
+            "options": [
+              "₹50",
+              "₹40",
+              "₹60"
+            ],
+            "after": ".",
+            "a": "₹50"
+          }
+        ]
+      },
+      {
+        "type": "lines",
+        "title": "Write one way you could save money.",
+        "marks": 2,
+        "lines": 1,
+        "a": "e.g. Put coins in a money box instead of buying sweets."
+      }
+    ]
+  }
+]
