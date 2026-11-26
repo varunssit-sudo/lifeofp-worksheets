@@ -415,23 +415,23 @@
       },
       {
         "type": "pairs",
-        "title": "How many ● would you draw?",
+        "title": "How many ● would you draw for these ice creams?",
         "marks": 4,
         "items": [
           {
-            "q": "4 ice creams",
+            "q": "4",
             "a": "2"
           },
           {
-            "q": "16 ice creams",
+            "q": "16",
             "a": "8"
           },
           {
-            "q": "20 ice creams",
+            "q": "20",
             "a": "10"
           },
           {
-            "q": "2 ice creams",
+            "q": "2",
             "a": "1"
           }
         ]
@@ -571,23 +571,23 @@
       },
       {
         "type": "pairs",
-        "title": "How many pictures? Use ● and ◐.",
+        "title": "How many pictures for these books? Use ● and ◐.",
         "marks": 4,
         "items": [
           {
-            "q": "5 books",
+            "q": "5",
             "a": "2 and a half / 2½ / 2.5"
           },
           {
-            "q": "8 books",
+            "q": "8",
             "a": "4"
           },
           {
-            "q": "13 books",
+            "q": "13",
             "a": "6 and a half / 6½ / 6.5"
           },
           {
-            "q": "15 books",
+            "q": "15",
             "a": "7 and a half / 7½ / 7.5"
           }
         ]
@@ -888,19 +888,19 @@
         "marks": 4,
         "items": [
           {
-            "q": "8 trees",
+            "q": "8",
             "a": "2"
           },
           {
-            "q": "20 trees",
+            "q": "20",
             "a": "5"
           },
           {
-            "q": "14 trees",
+            "q": "14",
             "a": "3 and a half / 3½ / 3.5"
           },
           {
-            "q": "18 trees",
+            "q": "18",
             "a": "4 and a half / 4½ / 4.5"
           }
         ]
@@ -1500,23 +1500,23 @@
       },
       {
         "type": "pairs",
-        "title": "How many pictures would you draw?",
+        "title": "How many pictures would you draw for these eggs?",
         "marks": 4,
         "items": [
           {
-            "q": "26 eggs",
+            "q": "26",
             "a": "6 and a half / 6½ / 6.5"
           },
           {
-            "q": "12 eggs",
+            "q": "12",
             "a": "3"
           },
           {
-            "q": "30 eggs",
+            "q": "30",
             "a": "7 and a half / 7½ / 7.5"
           },
           {
-            "q": "6 eggs",
+            "q": "6",
             "a": "1 and a half / 1½ / 1.5"
           }
         ]

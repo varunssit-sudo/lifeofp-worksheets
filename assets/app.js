@@ -945,8 +945,20 @@
   });
   window.addEventListener('hashchange', () => { state.level = 'All'; render(); window.scrollTo(0, 0); });
 
+  /* A shared link such as ?sheet=fractions-03 (used by the Pinterest pins) opens that sheet's topic
+     with the sheet's preview on top, so the Print button is one tap away. */
+  function openSharedSheet() {
+    let id = null;
+    try { id = new URLSearchParams(location.search).get('sheet'); } catch (e) { id = null; }
+    const s = id && state.index.find((x) => x.id === id);
+    if (!s) return false;
+    history.replaceState(null, '', location.pathname + '#' + s.topic);
+    render();
+    openPreview([s.id], `Sheet ${s.number} · ${s.title}`).catch(() => { /* topic page is still shown */ });
+    return true;
+  }
   const bust = '?v=' + Math.floor(Date.now() / 3600000); // refresh data at least hourly despite caching
   Promise.all([fetch('data/topics.json' + bust).then((r) => r.json()), fetch('data/index.json' + bust).then((r) => r.ok ? r.json() : [])])
-    .then(([topics, index]) => { state.topics = topics; state.index = index; render(); })
+    .then(([topics, index]) => { state.topics = topics; state.index = index; openSharedSheet() || render(); })
     .catch(() => { app.innerHTML = '<p class="empty">The worksheets could not load. Refresh the page; if it keeps happening, the data files may have a typo.</p>'; });
 })();
