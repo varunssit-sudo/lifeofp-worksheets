@@ -601,7 +601,7 @@
       <p>Printed ${new Date().toLocaleDateString(undefined, { day: 'numeric', month: 'long', year: 'numeric' })} · Standard 2 (ICSE)</p>
       <div class="rep-stats"><div><b>${sum.ids.length}</b>sheets done</div><div><b>${sum.avg}%</b>average best score</div><div><b>${sum.week}</b>sheets this week</div><div><b>${sum.streak}</b>day streak</div></div>
       <table class="rep"><thead><tr><th>Subject</th><th>Topic</th><th>Sheets</th><th>Average</th><th>Best score on each sheet</th></tr></thead><tbody>${rows}</tbody></table>
-      <footer class="ws-foot"><span>Scores are the best try on each sheet done online.</span><span>varunssit-sudo.github.io/lifeofp-worksheets</span></footer>
+      <footer class="ws-foot"><span>Scores are the best try on each sheet done online.</span><span>${esc(location.host + location.pathname.replace(/\/(index\.html)?$/, ''))}</span></footer>
     </article>`;
     setTimeout(() => window.print(), 50);
   }
@@ -837,7 +837,7 @@
   }
 
   /* ---------- install as an app ---------- */
-  const SITE = 'https://varunssit-sudo.github.io/lifeofp-worksheets/';
+  const SITE = new URL('./', location.href.split('#')[0].split('?')[0]).href; // whatever address the site is served from
   let installPrompt = null;
   const isApp = () => window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true || document.referrer.startsWith('android-app://');
   const ua = navigator.userAgent;
