@@ -174,6 +174,8 @@
     $('preview-key').checked = state.withKey;
     $('preview').hidden = false;
     document.body.style.overflow = 'hidden';
+    // so the phone's Back button closes the preview instead of leaving the page
+    if (!(history.state && history.state.lopPreview)) history.pushState({ lopPreview: 1 }, '');
     await fillPreview();
     $('preview-close').focus();
   }
@@ -182,8 +184,14 @@
     body.innerHTML = pagesFor(await loadSheets(state.previewIds), $('preview-key').checked);
     body.style.setProperty('--z', Math.min(1, (body.clientWidth - 32) / 794).toFixed(3));
   }
-  function closePreview() { $('preview').hidden = true; document.body.style.overflow = ''; }
-  $('preview-close').addEventListener('click', closePreview);
+  function closePreview(fromBack) {
+    if ($('preview').hidden) return;
+    $('preview').hidden = true; document.body.style.overflow = '';
+    if (!fromBack && history.state && history.state.lopPreview) history.back();
+  }
+  window.addEventListener('popstate', () => closePreview(true));
+  window.addEventListener('hashchange', () => closePreview(true));
+  $('preview-close').addEventListener('click', () => closePreview());
   $('preview-key').addEventListener('change', () => { state.withKey = $('preview-key').checked; fillPreview(); });
   $('preview-print').addEventListener('click', () => printSheets(state.previewIds, $('preview-key').checked));
   document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && !$('preview').hidden) closePreview(); });
@@ -828,10 +836,99 @@
     app.querySelectorAll('[data-print]').forEach((b) => b.addEventListener('click', () => printSheets([b.dataset.print], state.withKey)));
   }
 
+  /* ---------- install as an app ---------- */
+  const SITE = 'https://varunssit-sudo.github.io/lifeofp-worksheets/';
+  let installPrompt = null;
+  const isApp = () => window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true || document.referrer.startsWith('android-app://');
+  const ua = navigator.userAgent;
+  const isIOS = /iPad|iPhone|iPod/.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+  const isAndroid = /Android/.test(ua);
+  const inAppBrowser = /FBAN|FBAV|Instagram|WhatsApp|Line\/|; wv\)/.test(ua);
+  if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost')) {
+    window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => { /* site still works online */ }));
+  }
+  function updateInstallUI() {
+    const b = $('top-install');
+    if (b) b.hidden = isApp();
+    if (location.hash === '#install') renderInstall();
+  }
+  window.addEventListener('beforeinstallprompt', (e) => { e.preventDefault(); installPrompt = e; updateInstallUI(); });
+  window.addEventListener('appinstalled', () => { installPrompt = null; updateInstallUI(); });
+  async function askInstall() {
+    if (!installPrompt) return false;
+    installPrompt.prompt();
+    try { await installPrompt.userChoice; } catch (e) { /* ignore */ }
+    installPrompt = null;
+    updateInstallUI();
+    return true;
+  }
+  $('top-install').addEventListener('click', async (e) => {
+    if (installPrompt) { e.preventDefault(); await askInstall(); }
+  });
+  updateInstallUI();
+
+  async function saveAllOffline(btn) {
+    const ids = state.topics.map((t) => t.id);
+    let done = 0;
+    btn.disabled = true;
+    for (const id of ids) {
+      try { await fetch(`data/worksheets/${encodeURIComponent(id)}.json`); } catch (e) { /* offline: skip */ }
+      done += 1;
+      btn.textContent = `Saving… ${done} of ${ids.length} topics`;
+    }
+    btn.textContent = 'All worksheets saved for offline use';
+  }
+
+  function renderInstall() {
+    document.title = 'Install the app · Life of P Worksheets';
+    const link = SITE + '#install';
+    const here = isIOS ? 'ios' : isAndroid ? 'android' : 'computer';
+    const step = (id, title, items) => `<section class="inst-card${here === id ? ' is-here' : ''}"><h2>${title}${here === id ? ' <span class="inst-here">This device</span>' : ''}</h2><ol>${items.map((x) => `<li>${x}</li>`).join('')}</ol></section>`;
+    const SHARE_ICON = '<svg aria-label="Share" role="img" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px"><path d="M12 3v12M8 7l4-4 4 4"/><path d="M5 12v8h14v-8"/></svg>';
+    app.innerHTML = `
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="#">All subjects</a><span aria-hidden="true">/</span><b>Install the app</b></nav>
+      <section class="inst">
+        <div class="inst-top">
+          <img src="assets/icons/icon-192.png" alt="" width="84" height="84">
+          <div>
+            <h1>Life of P Worksheets app</h1>
+            <p>Put the worksheets on your phone's home screen. It opens full screen like any app, keeps each child's progress, and worksheets you have opened still work without the internet. It is free, with no ads and no account.</p>
+          </div>
+        </div>
+        ${isApp() ? '<p class="inst-done">You are using the app. Everything is set up.</p>'
+          : installPrompt ? '<button type="button" class="btn btn-main inst-btn" id="inst-go">Install the app</button>' : ''}
+        ${inAppBrowser && !isApp() ? '<p class="inst-warn">You opened this link inside another app. Open it in Chrome (Android) or Safari (iPhone) first, then install from there.</p>' : ''}
+        <div class="inst-grid">
+          ${step('android', 'Android phone or tablet', ['Open this page in <b>Chrome</b>.', installPrompt ? 'Tap <b>Install the app</b> above.' : 'Tap the menu <b>⋮</b> at the top right.', 'Choose <b>Install app</b> (or <b>Add to Home screen</b>), then <b>Install</b>.'])}
+          ${step('ios', 'iPhone or iPad', ['Open this page in <b>Safari</b>.', `Tap the Share button ${SHARE_ICON} at the bottom of the screen.`, 'Scroll down and tap <b>Add to Home Screen</b>, then <b>Add</b>.'])}
+          ${step('computer', 'Computer', ['In <b>Chrome</b> or <b>Edge</b>, click the install icon at the right end of the address bar.', 'On a Mac with <b>Safari</b>, choose <b>File</b> then <b>Add to Dock</b>.', 'The app opens in its own window.'])}
+        </div>
+        <section class="inst-card inst-offline">
+          <h2>Use it without the internet</h2>
+          <p>Worksheets you open are saved automatically. To save every worksheet on this device now (about 4 MB), tap below.</p>
+          <button type="button" class="btn btn-ghost" id="inst-save">Save all worksheets for offline use</button>
+        </section>
+        <section class="inst-card inst-share">
+          <h2>Share with other parents</h2>
+          <p>Send this link. It opens these install steps.</p>
+          <div class="inst-link"><input id="inst-link" value="${esc(link)}" readonly aria-label="Install link"><button type="button" class="btn btn-main" id="inst-copy">Copy link</button></div>
+        </section>
+        <p class="inst-small"><a href="privacy.html">Privacy policy</a></p>
+      </section>`;
+    if ($('inst-go')) $('inst-go').addEventListener('click', askInstall);
+    $('inst-save').addEventListener('click', (e) => saveAllOffline(e.currentTarget));
+    $('inst-copy').addEventListener('click', async (e) => {
+      const b = e.currentTarget;
+      try { await navigator.clipboard.writeText(link); b.textContent = 'Copied'; }
+      catch (err) { $('inst-link').select(); b.textContent = 'Press copy'; }
+    });
+  }
+
   function render() {
     const h = decodeURIComponent(location.hash.replace(/^#/, ''));
     if (h.startsWith('do/')) { renderOnline(h.slice(3)); return; }
     if (h === 'progress') { renderProgress(); return; }
+    if (h === 'install') { renderInstall(); return; }
     if (h === 'request' || h.startsWith('request?')) { renderRequest(); return; }
     const t = topicById(h);
     if (!t) state.subject = SUBJECTS.find((s) => s.toLowerCase() === h.toLowerCase()) || 'All'; // #maths, #english, #science
