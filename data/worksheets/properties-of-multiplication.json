@@ -1,0 +1,1878 @@
+[
+ {
+  "id": "properties-of-multiplication-01",
+  "topic": "properties-of-multiplication",
+  "number": 1,
+  "level": "Starter",
+  "title": "The Egg Tray at Home",
+  "intro": "Aanya is putting eggs into trays in the kitchen. Turning a tray around does not change how many eggs there are.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Count the eggs both ways.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "2 rows of 6 eggs: 2 × 6 = ___",
+      "a": "12"
+     },
+     {
+      "q": "6 rows of 2 eggs: 6 × 2 = ___",
+      "a": "12"
+     },
+     {
+      "q": "3 rows of 4 eggs: 3 × 4 = ___",
+      "a": "12"
+     },
+     {
+      "q": "4 rows of 3 eggs: 4 × 3 = ___",
+      "a": "12"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Write the turn-around fact.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "5 × 2",
+      "a": "2 × 5 / 2 x 5 / 2×5 / 2x5"
+     },
+     {
+      "q": "3 × 7",
+      "a": "7 × 3 / 7 x 3 / 7×3 / 7x3"
+     },
+     {
+      "q": "4 × 9",
+      "a": "9 × 4 / 9 x 4 / 9×4 / 9x4"
+     },
+     {
+      "q": "8 × 6",
+      "a": "6 × 8 / 6 x 8 / 6×8 / 6x8"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the facts that give the same answer.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "2 × 8",
+      "right": "8 × 2"
+     },
+     {
+      "left": "5 × 3",
+      "right": "3 × 5"
+     },
+     {
+      "left": "4 × 6",
+      "right": "6 × 4"
+     },
+     {
+      "left": "9 × 2",
+      "right": "2 × 9"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "2 × 7 = 7 × 2",
+      "a": true
+     },
+     {
+      "q": "3 × 5 = 5 × 4",
+      "a": false
+     },
+     {
+      "q": "Changing the order of the numbers changes the answer.",
+      "a": false
+     },
+     {
+      "q": "6 × 3 = 18 and 3 × 6 = 18",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Mum has 5 trays with 6 eggs each. That is 5 × 6 = ___ eggs.",
+      "a": "30"
+     },
+     {
+      "q": "So 6 × 5 is also ___.",
+      "a": "30"
+     },
+     {
+      "q": "Aanya fills 2 trays of 10 eggs. That is ___ eggs.",
+      "a": "20"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "properties-of-multiplication-02",
+  "topic": "properties-of-multiplication",
+  "number": 2,
+  "level": "Starter",
+  "title": "Planting Seeds in the Garden",
+  "intro": "Rohan and Lily plant seeds in neat rows. Rows times seeds in a row gives all the seeds.",
+  "sections": [
+   {
+    "type": "column",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "4",
+      "op": "×",
+      "bottom": "2",
+      "a": "8"
+     },
+     {
+      "top": "2",
+      "op": "×",
+      "bottom": "4",
+      "a": "8"
+     },
+     {
+      "top": "5",
+      "op": "×",
+      "bottom": "3",
+      "a": "15"
+     },
+     {
+      "top": "3",
+      "op": "×",
+      "bottom": "5",
+      "a": "15"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the missing number.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "7 × 2 = 2 × ___",
+      "a": "7"
+     },
+     {
+      "q": "3 × 8 = ___ × 3",
+      "a": "8"
+     },
+     {
+      "q": "9 × 5 = 5 × ___",
+      "a": "9"
+     },
+     {
+      "q": "___ × 4 = 4 × 6",
+      "a": "6"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the fact that gives the same answer.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "2 × 9 is the same as",
+      "options": [
+       "9 × 2",
+       "9 × 3"
+      ],
+      "after": "",
+      "a": "9 × 2"
+     },
+     {
+      "before": "4 × 7 is the same as",
+      "options": [
+       "4 × 4",
+       "7 × 4"
+      ],
+      "after": "",
+      "a": "7 × 4"
+     },
+     {
+      "before": "10 × 3 is the same as",
+      "options": [
+       "3 × 10",
+       "3 × 3"
+      ],
+      "after": "",
+      "a": "3 × 10"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Write the answer.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "2 × 10",
+      "a": "20"
+     },
+     {
+      "q": "10 × 2",
+      "a": "20"
+     },
+     {
+      "q": "5 × 4",
+      "a": "20"
+     },
+     {
+      "q": "4 × 5",
+      "a": "20"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Lily plants 3 rows of 9 seeds. She plants ___ seeds.",
+      "a": "27"
+     },
+     {
+      "q": "Rohan plants 9 rows of 3 seeds. He plants ___ seeds.",
+      "a": "27"
+     },
+     {
+      "q": "Each of 4 pots gets 5 seeds. That is ___ seeds.",
+      "a": "20"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "properties-of-multiplication-03",
+  "topic": "properties-of-multiplication",
+  "number": 3,
+  "level": "Starter",
+  "title": "The Empty Lunch Boxes",
+  "intro": "At the end of the day, the lunch boxes are empty. Any number times 0 is 0.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Multiply by 0.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "4 boxes with 0 sandwiches: 4 × 0 = ___",
+      "a": "0"
+     },
+     {
+      "q": "7 boxes with 0 apples: 7 × 0 = ___",
+      "a": "0"
+     },
+     {
+      "q": "0 boxes with 5 grapes: 0 × 5 = ___",
+      "a": "0"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Write the answer.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "9 × 0",
+      "a": "0"
+     },
+     {
+      "q": "0 × 3",
+      "a": "0"
+     },
+     {
+      "q": "25 × 0",
+      "a": "0"
+     },
+     {
+      "q": "0 × 100",
+      "a": "0"
+     },
+     {
+      "q": "6 × 0",
+      "a": "0"
+     },
+     {
+      "q": "0 × 0",
+      "a": "0"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "8 × 0 = 8",
+      "a": false
+     },
+     {
+      "q": "0 × 12 = 0",
+      "a": true
+     },
+     {
+      "q": "If one number is 0, the answer is 0.",
+      "a": true
+     },
+     {
+      "q": "5 × 0 = 0 × 5",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the missing number.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "3 × ___ = 0",
+      "a": "0"
+     },
+     {
+      "q": "___ × 47 = 0",
+      "a": "0"
+     },
+     {
+      "q": "10 × 0 = ___",
+      "a": "0"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Zoya has 6 lunch boxes. Each has 0 biscuits. She has ___ biscuits.",
+      "a": "0"
+     },
+     {
+      "q": "Dev has 0 bags. Each bag would hold 8 chips. He has ___ chips.",
+      "a": "0"
+     },
+     {
+      "q": "Tara has 3 boxes. Each has 0 grapes left. She has ___ grapes left.",
+      "a": "0"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "properties-of-multiplication-04",
+  "topic": "properties-of-multiplication",
+  "number": 4,
+  "level": "Starter",
+  "title": "One Kite Each at Uttarayan",
+  "intro": "On kite day, every child gets one kite. Any number times 1 stays the same.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Multiply by 1.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "6 children with 1 kite each: 6 × 1 = ___",
+      "a": "6"
+     },
+     {
+      "q": "9 children with 1 kite each: 9 × 1 = ___",
+      "a": "9"
+     },
+     {
+      "q": "1 child with 4 kites: 1 × 4 = ___",
+      "a": "4"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Write the answer.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "1 × 8",
+      "a": "8"
+     },
+     {
+      "q": "15 × 1",
+      "a": "15"
+     },
+     {
+      "q": "1 × 2",
+      "a": "2"
+     },
+     {
+      "q": "30 × 1",
+      "a": "30"
+     },
+     {
+      "q": "1 × 1",
+      "a": "1"
+     },
+     {
+      "q": "7 × 1",
+      "a": "7"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the right answer.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "3 × 1 =",
+      "options": [
+       "1",
+       "3",
+       "4"
+      ],
+      "after": "",
+      "a": "3"
+     },
+     {
+      "before": "1 × 11 =",
+      "options": [
+       "11",
+       "1",
+       "12"
+      ],
+      "after": "",
+      "a": "11"
+     },
+     {
+      "before": "20 × 1 =",
+      "options": [
+       "21",
+       "1",
+       "20"
+      ],
+      "after": "",
+      "a": "20"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "5 × 1 = 5",
+      "a": true
+     },
+     {
+      "q": "1 × 9 = 1",
+      "a": false
+     },
+     {
+      "q": "When we multiply by 1, the number stays the same.",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Kabir has 1 reel with 12 m of string on it. 1 × 12 = ___ m.",
+      "a": "12"
+     },
+     {
+      "q": "8 friends fly 1 kite each. They fly ___ kites.",
+      "a": "8"
+     },
+     {
+      "q": "1 shop sells 16 kites. 1 × 16 = ___ kites.",
+      "a": "16"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "properties-of-multiplication-05",
+  "topic": "properties-of-multiplication",
+  "number": 5,
+  "level": "Practice",
+  "title": "Diwali Diya Rows",
+  "intro": "Ishaan lights diyas on the steps for Diwali. Use the order rule to make the sums easy.",
+  "sections": [
+   {
+    "type": "column",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "6",
+      "op": "×",
+      "bottom": "4",
+      "a": "24"
+     },
+     {
+      "top": "4",
+      "op": "×",
+      "bottom": "6",
+      "a": "24"
+     },
+     {
+      "top": "7",
+      "op": "×",
+      "bottom": "5",
+      "a": "35"
+     },
+     {
+      "top": "5",
+      "op": "×",
+      "bottom": "7",
+      "a": "35"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the missing number.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "8 × 3 = 3 × ___",
+      "a": "8"
+     },
+     {
+      "q": "___ × 9 = 9 × 2",
+      "a": "2"
+     },
+     {
+      "q": "6 × 7 = ___ × 6",
+      "a": "7"
+     },
+     {
+      "q": "5 × ___ = 10 × 5",
+      "a": "10"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Sort the facts by their answer.",
+    "marks": 7,
+    "groups": [
+     "Answer is 0",
+     "Same number"
+    ],
+    "words": [
+     "4 × 0",
+     "1 × 8",
+     "13 × 1",
+     "0 × 9",
+     "1 × 6",
+     "0 × 2",
+     "21 × 1"
+    ],
+    "a": {
+     "4 × 0": "Answer is 0",
+     "1 × 8": "Same number",
+     "13 × 1": "Same number",
+     "0 × 9": "Answer is 0",
+     "1 × 6": "Same number",
+     "0 × 2": "Answer is 0",
+     "21 × 1": "Same number"
+    }
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "7 × 3 = 3 × 7",
+      "a": true
+     },
+     {
+      "q": "4 × 1 = 1",
+      "a": false
+     },
+     {
+      "q": "2 × 8 = 8 × 3",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "There are 4 steps with 8 diyas on each. That is ___ diyas.",
+      "a": "32"
+     },
+     {
+      "q": "Grandpa puts 1 diya on each of 9 windows. That is ___ diyas.",
+      "a": "9"
+     },
+     {
+      "q": "7 plates have 0 sweets left. That is ___ sweets left.",
+      "a": "0"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "properties-of-multiplication-06",
+  "topic": "properties-of-multiplication",
+  "number": 6,
+  "level": "Practice",
+  "title": "The Classroom Bookshelf",
+  "intro": "Ms Fernandes is filling the class bookshelf. Use the three rules to find each number.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the answer.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "3 × 6",
+      "a": "18"
+     },
+     {
+      "q": "6 × 3",
+      "a": "18"
+     },
+     {
+      "q": "0 × 14",
+      "a": "0"
+     },
+     {
+      "q": "1 × 17",
+      "a": "17"
+     },
+     {
+      "q": "9 × 7",
+      "a": "63"
+     },
+     {
+      "q": "7 × 9",
+      "a": "63"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the rule that helps.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "4 × 5 = 5 × 4",
+      "options": [
+       "order rule",
+       "zero rule",
+       "one rule"
+      ],
+      "after": "",
+      "a": "order rule"
+     },
+     {
+      "before": "12 × 0 = 0",
+      "options": [
+       "order rule",
+       "zero rule",
+       "one rule"
+      ],
+      "after": "",
+      "a": "zero rule"
+     },
+     {
+      "before": "1 × 33 = 33",
+      "options": [
+       "order rule",
+       "zero rule",
+       "one rule"
+      ],
+      "after": "",
+      "a": "one rule"
+     },
+     {
+      "before": "8 × 2 = 2 × 8",
+      "options": [
+       "order rule",
+       "zero rule",
+       "one rule"
+      ],
+      "after": "",
+      "a": "order rule"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match each fact to its answer.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "5 × 5",
+      "right": "25"
+     },
+     {
+      "left": "3 × 9",
+      "right": "27"
+     },
+     {
+      "left": "4 × 4",
+      "right": "16"
+     },
+     {
+      "left": "2 × 7",
+      "right": "14"
+     },
+     {
+      "left": "6 × 0",
+      "right": "0"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "The shelf has 5 rows with 6 books each. There are ___ books.",
+      "a": "30"
+     },
+     {
+      "q": "One row has 0 books. 1 row × 0 books = ___ books.",
+      "a": "0"
+     },
+     {
+      "q": "Sam says 6 × 5 is different from 5 × 6. Is he right? Write yes or no: ___",
+      "a": "no"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "properties-of-multiplication-07",
+  "topic": "properties-of-multiplication",
+  "number": 7,
+  "level": "Practice",
+  "title": "The Spice Market in Kochi",
+  "intro": "Maryam and her dad shop for spices on holiday in Kochi. Use the order rule to check the bill.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Find the cost.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "3 packets of saffron at ₹9 each cost ₹ ___",
+      "a": "27"
+     },
+     {
+      "q": "9 packets of cloves at ₹3 each cost ₹ ___",
+      "a": "27"
+     },
+     {
+      "q": "1 jar of honey at ₹45 costs ₹ ___",
+      "a": "45"
+     },
+     {
+      "q": "0 bags of dates at ₹20 each cost ₹ ___",
+      "a": "0"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "8",
+      "op": "×",
+      "bottom": "4",
+      "a": "32"
+     },
+     {
+      "top": "4",
+      "op": "×",
+      "bottom": "8",
+      "a": "32"
+     },
+     {
+      "top": "10",
+      "op": "×",
+      "bottom": "6",
+      "a": "60"
+     },
+     {
+      "top": "6",
+      "op": "×",
+      "bottom": "10",
+      "a": "60"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle >, < or =.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "7 × 4",
+      "options": [
+       ">",
+       "<",
+       "="
+      ],
+      "after": "4 × 7",
+      "a": "="
+     },
+     {
+      "before": "5 × 0",
+      "options": [
+       ">",
+       "<",
+       "="
+      ],
+      "after": "5 × 1",
+      "a": "<"
+     },
+     {
+      "before": "9 × 1",
+      "options": [
+       ">",
+       "<",
+       "="
+      ],
+      "after": "3 × 2",
+      "a": ">"
+     },
+     {
+      "before": "0 × 8",
+      "options": [
+       ">",
+       "<",
+       "="
+      ],
+      "after": "1 × 0",
+      "a": "="
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write the turn-around story.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "Dad buys 2 bags with 5 lemons in each. Write a story for 5 × 2.",
+      "a": "e.g. Dad buys 5 bags with 2 lemons in each. That is 10 lemons, the same as 2 × 5."
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "2 × 5 = 5 × 2",
+      "a": true
+     },
+     {
+      "q": "Buying 0 packets of pepper costs ₹0.",
+      "a": true
+     },
+     {
+      "q": "1 × 35 = 36",
+      "a": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "properties-of-multiplication-08",
+  "topic": "properties-of-multiplication",
+  "number": 8,
+  "level": "Practice",
+  "title": "Sports Day Relay Teams",
+  "intro": "It is Sports Day. Coach Ali puts children into relay teams.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Fill in the missing number.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "4 teams of 5 children = 5 teams of ___ children",
+      "a": "4"
+     },
+     {
+      "q": "3 × ___ = 0",
+      "a": "0"
+     },
+     {
+      "q": "___ × 1 = 16",
+      "a": "16"
+     },
+     {
+      "q": "7 × 4 = ___ × 7",
+      "a": "4"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "4 × 5 = 20 and 5 × 4 = 20",
+      "a": true
+     },
+     {
+      "q": "0 teams of 4 runners make 0 runners.",
+      "a": true
+     },
+     {
+      "q": "1 × 50 = 51",
+      "a": false
+     },
+     {
+      "q": "10 × 3 = 3 × 10",
+      "a": true
+     },
+     {
+      "q": "6 × 0 = 6",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "2",
+      "op": "×",
+      "bottom": "6",
+      "a": "12"
+     },
+     {
+      "top": "6",
+      "op": "×",
+      "bottom": "2",
+      "a": "12"
+     },
+     {
+      "top": "3",
+      "op": "×",
+      "bottom": "3",
+      "a": "9"
+     },
+     {
+      "top": "9",
+      "op": "×",
+      "bottom": "4",
+      "a": "36"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "There are 6 teams. Each team gets 3 batons. That is ___ batons.",
+      "a": "18"
+     },
+     {
+      "q": "There are 8 races. Each race has 1 winner. That is ___ winners.",
+      "a": "8"
+     },
+     {
+      "q": "Each of 5 teams scored 0 fouls. Total fouls: ___",
+      "a": "0"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "properties-of-multiplication-09",
+  "topic": "properties-of-multiplication",
+  "number": 9,
+  "level": "Practice",
+  "title": "Birthday Party Goody Bags",
+  "intro": "Ella is packing goody bags for her party. Count what goes into the bags.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the answer.",
+    "marks": 8,
+    "items": [
+     {
+      "q": "7 × 2",
+      "a": "14"
+     },
+     {
+      "q": "2 × 7",
+      "a": "14"
+     },
+     {
+      "q": "8 × 1",
+      "a": "8"
+     },
+     {
+      "q": "0 × 6",
+      "a": "0"
+     },
+     {
+      "q": "3 × 10",
+      "a": "30"
+     },
+     {
+      "q": "10 × 3",
+      "a": "30"
+     },
+     {
+      "q": "6 × 9",
+      "a": "54"
+     },
+     {
+      "q": "9 × 6",
+      "a": "54"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Is the fact true or false?",
+    "marks": 6,
+    "groups": [
+     "True",
+     "False"
+    ],
+    "words": [
+     "6 × 1 = 6",
+     "0 × 7 = 7",
+     "2 × 5 = 5 × 2",
+     "1 × 4 = 1",
+     "8 × 0 = 0",
+     "3 × 4 = 4 × 4"
+    ],
+    "a": {
+     "6 × 1 = 6": "True",
+     "0 × 7 = 7": "False",
+     "2 × 5 = 5 × 2": "True",
+     "1 × 4 = 1": "False",
+     "8 × 0 = 0": "True",
+     "3 × 4 = 4 × 4": "False"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Solve.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Ella makes 7 bags with 3 sweets in each. That is ___ sweets.",
+      "a": "21"
+     },
+     {
+      "q": "Each of the 7 bags gets 1 balloon. That is ___ balloons.",
+      "a": "7"
+     },
+     {
+      "q": "Ella forgot the stickers, so each bag has 0 stickers. That is ___ stickers.",
+      "a": "0"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Write one fact from this sheet that uses the order rule.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. 7 × 3 = 3 × 7"
+   }
+  ]
+ },
+ {
+  "id": "properties-of-multiplication-10",
+  "topic": "properties-of-multiplication",
+  "number": 10,
+  "level": "Practice",
+  "title": "The Fruit Stall",
+  "intro": "Mr Nair sells fruit at the market. Use the rules to work fast.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle the right answer.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "6 × 4 is the same as",
+      "options": [
+       "4 × 6",
+       "6 × 6",
+       "4 × 4"
+      ],
+      "after": "",
+      "a": "4 × 6"
+     },
+     {
+      "before": "0 × 19 =",
+      "options": [
+       "19",
+       "0",
+       "1"
+      ],
+      "after": "",
+      "a": "0"
+     },
+     {
+      "before": "1 × 28 =",
+      "options": [
+       "1",
+       "29",
+       "28"
+      ],
+      "after": "",
+      "a": "28"
+     },
+     {
+      "before": "9 × 5 =",
+      "options": [
+       "45",
+       "14",
+       "40"
+      ],
+      "after": "",
+      "a": "45"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "5",
+      "op": "×",
+      "bottom": "8",
+      "a": "40"
+     },
+     {
+      "top": "8",
+      "op": "×",
+      "bottom": "5",
+      "a": "40"
+     },
+     {
+      "top": "7",
+      "op": "×",
+      "bottom": "3",
+      "a": "21"
+     },
+     {
+      "top": "3",
+      "op": "×",
+      "bottom": "7",
+      "a": "21"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the fruit to the total.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "4 baskets of 7 mangoes",
+      "right": "28"
+     },
+     {
+      "left": "7 baskets of 2 papayas",
+      "right": "14"
+     },
+     {
+      "left": "1 basket of 25 lemons",
+      "right": "25"
+     },
+     {
+      "left": "5 baskets of 0 kiwis",
+      "right": "0"
+     },
+     {
+      "left": "3 baskets of 6 oranges",
+      "right": "18"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Bananas cost ₹6 each. Riya buys 5. She pays ₹ ___",
+      "a": "30"
+     },
+     {
+      "q": "Mr Nair sold 1 melon for ₹40. He got ₹ ___",
+      "a": "40"
+     },
+     {
+      "q": "Pears cost ₹5 each. Arjun buys 6. He pays ₹ ___",
+      "a": "30"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "properties-of-multiplication-11",
+  "topic": "properties-of-multiplication",
+  "number": 11,
+  "level": "Challenge",
+  "title": "The School Bus Seats",
+  "intro": "The school bus has rows of seats. When we multiply three numbers, we can group them in any way.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Work out both ways.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "(2 × 3) × 4 = 6 × 4 = ___",
+      "a": "24"
+     },
+     {
+      "q": "2 × (3 × 4) = 2 × 12 = ___",
+      "a": "24"
+     },
+     {
+      "q": "(5 × 2) × 3 = 10 × 3 = ___",
+      "a": "30"
+     },
+     {
+      "q": "5 × (2 × 3) = 5 × 6 = ___",
+      "a": "30"
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Multiply three numbers.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "2 × 2 × 5",
+      "a": "20"
+     },
+     {
+      "q": "3 × 1 × 7",
+      "a": "21"
+     },
+     {
+      "q": "4 × 0 × 9",
+      "a": "0"
+     },
+     {
+      "q": "2 × 5 × 4",
+      "a": "40"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "(3 × 2) × 2 = 3 × (2 × 2)",
+      "a": true
+     },
+     {
+      "q": "2 × 4 × 0 = 8",
+      "a": false
+     },
+     {
+      "q": "1 × 6 × 1 = 6",
+      "a": true
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "There are 2 buses. Each bus has 5 rows. Each row has 4 seats. There are ___ seats.",
+      "a": "40"
+     },
+     {
+      "q": "Each of the 3 buses has 2 drivers on 1 day. That is ___ drivers.",
+      "a": "6"
+     },
+     {
+      "q": "4 buses each have 0 empty seats. That is ___ empty seats.",
+      "a": "0"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the facts that give the same answer.",
+    "marks": 4,
+    "items": [
+     {
+      "left": "(1 × 3) × 2",
+      "right": "1 × (3 × 2)"
+     },
+     {
+      "left": "3 × 5",
+      "right": "5 × 3"
+     },
+     {
+      "left": "8 × 1",
+      "right": "8"
+     },
+     {
+      "left": "0 × 6",
+      "right": "7 × 0"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "properties-of-multiplication-12",
+  "topic": "properties-of-multiplication",
+  "number": 12,
+  "level": "Challenge",
+  "title": "Building with Blocks",
+  "intro": "Neel builds towers with coloured blocks. Find the missing numbers.",
+  "sections": [
+   {
+    "type": "fill",
+    "title": "Find the missing number.",
+    "marks": 5,
+    "items": [
+     {
+      "q": "4 × ___ = 24",
+      "a": "6"
+     },
+     {
+      "q": "___ × 7 = 35",
+      "a": "5"
+     },
+     {
+      "q": "9 × ___ = 9",
+      "a": "1"
+     },
+     {
+      "q": "___ × 6 = 0",
+      "a": "0"
+     },
+     {
+      "q": "3 × ___ = 30",
+      "a": "10"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "12",
+      "op": "×",
+      "bottom": "3",
+      "a": "36"
+     },
+     {
+      "top": "3",
+      "op": "×",
+      "bottom": "12",
+      "a": "36"
+     },
+     {
+      "top": "11",
+      "op": "×",
+      "bottom": "4",
+      "a": "44"
+     },
+     {
+      "top": "4",
+      "op": "×",
+      "bottom": "11",
+      "a": "44"
+     }
+    ]
+   },
+   {
+    "type": "match",
+    "title": "Match the facts that give the same answer.",
+    "marks": 5,
+    "items": [
+     {
+      "left": "(2 × 3) × 3",
+      "right": "2 × (3 × 3)"
+     },
+     {
+      "left": "4 × 5",
+      "right": "5 × 4"
+     },
+     {
+      "left": "7 × 1",
+      "right": "7"
+     },
+     {
+      "left": "9 × 0",
+      "right": "0 × 2"
+     },
+     {
+      "left": "2 × 6",
+      "right": "3 × 4"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Neel makes 3 towers. Each has 2 layers of 5 blocks. He uses ___ blocks.",
+      "a": "30"
+     },
+     {
+      "q": "His sister makes 4 towers of 10 blocks. She uses ___ blocks.",
+      "a": "40"
+     },
+     {
+      "q": "Neel takes 1 block from each of 0 towers. He takes ___ blocks.",
+      "a": "0"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "properties-of-multiplication-13",
+  "topic": "properties-of-multiplication",
+  "number": 13,
+  "level": "Challenge",
+  "title": "Eid Gift Boxes",
+  "intro": "Aisha helps pack Eid gift boxes for her cousins. Use the rules to check her work.",
+  "sections": [
+   {
+    "type": "choice",
+    "title": "Circle >, < or =.",
+    "marks": 4,
+    "items": [
+     {
+      "before": "3 × 4 × 2",
+      "options": [
+       ">",
+       "<",
+       "="
+      ],
+      "after": "4 × 6",
+      "a": "="
+     },
+     {
+      "before": "5 × 0 × 8",
+      "options": [
+       ">",
+       "<",
+       "="
+      ],
+      "after": "1 × 1",
+      "a": "<"
+     },
+     {
+      "before": "7 × 1",
+      "options": [
+       ">",
+       "<",
+       "="
+      ],
+      "after": "2 × 3",
+      "a": ">"
+     },
+     {
+      "before": "2 × 9",
+      "options": [
+       ">",
+       "<",
+       "="
+      ],
+      "after": "3 × 6",
+      "a": "="
+     }
+    ]
+   },
+   {
+    "type": "pairs",
+    "title": "Write the answer.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "2 × 3 × 3",
+      "a": "18"
+     },
+     {
+      "q": "5 × 2 × 2",
+      "a": "20"
+     },
+     {
+      "q": "1 × 8 × 3",
+      "a": "24"
+     },
+     {
+      "q": "6 × 0 × 4",
+      "a": "0"
+     }
+    ]
+   },
+   {
+    "type": "sort",
+    "title": "Which rule does each fact show?",
+    "marks": 6,
+    "groups": [
+     "Order",
+     "Zero",
+     "One"
+    ],
+    "words": [
+     "6 × 3 = 3 × 6",
+     "0 × 41 = 0",
+     "1 × 90 = 90",
+     "2 × 11 = 11 × 2",
+     "57 × 0 = 0",
+     "64 × 1 = 64"
+    ],
+    "a": {
+     "6 × 3 = 3 × 6": "Order",
+     "0 × 41 = 0": "Zero",
+     "1 × 90 = 90": "One",
+     "2 × 11 = 11 × 2": "Order",
+     "57 × 0 = 0": "Zero",
+     "64 × 1 = 64": "One"
+    }
+   },
+   {
+    "type": "fill",
+    "title": "Solve.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "Aisha packs 4 boxes with 2 rows of 3 dates in each. She packs ___ dates.",
+      "a": "24"
+     },
+     {
+      "q": "Each box costs ₹8. 5 boxes cost ₹ ___",
+      "a": "40"
+     },
+     {
+      "q": "She says 4 × 8 = 8 × 4. Which rule is that? The ___ rule.",
+      "a": "order"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "properties-of-multiplication-14",
+  "topic": "properties-of-multiplication",
+  "number": 14,
+  "level": "Challenge",
+  "title": "The Beach Clean-Up",
+  "intro": "Class 2 is cleaning Jumeirah Beach. Count the bags and the litter they collect.",
+  "sections": [
+   {
+    "type": "column",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "13",
+      "op": "×",
+      "bottom": "2",
+      "a": "26"
+     },
+     {
+      "top": "2",
+      "op": "×",
+      "bottom": "13",
+      "a": "26"
+     },
+     {
+      "top": "10",
+      "op": "×",
+      "bottom": "7",
+      "a": "70"
+     },
+     {
+      "top": "21",
+      "op": "×",
+      "bottom": "3",
+      "a": "63"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Fill in the missing number.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "(4 × 2) × 5 = 4 × (2 × ___)",
+      "a": "5"
+     },
+     {
+      "q": "8 × 6 = 6 × ___",
+      "a": "8"
+     },
+     {
+      "q": "___ × 100 = 100",
+      "a": "1"
+     },
+     {
+      "q": "___ × 100 = 0",
+      "a": "0"
+     }
+    ]
+   },
+   {
+    "type": "truefalse",
+    "title": "Circle True or False.",
+    "marks": 4,
+    "items": [
+     {
+      "q": "3 × 7 is the same as 7 × 3.",
+      "a": true
+     },
+     {
+      "q": "2 × 3 × 4 = 24",
+      "a": true
+     },
+     {
+      "q": "1 × 1 × 1 = 3",
+      "a": false
+     },
+     {
+      "q": "50 × 0 = 50",
+      "a": false
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "5 groups each fill 3 bags. That is ___ bags.",
+      "a": "15"
+     },
+     {
+      "q": "Each bag holds 10 bottles. 2 bags hold ___ bottles.",
+      "a": "20"
+     },
+     {
+      "q": "Meena found 0 shells in each of her 4 buckets. She found ___ shells.",
+      "a": "0"
+     }
+    ]
+   },
+   {
+    "type": "lines",
+    "title": "Why is 9 × 0 equal to 0? Write one sentence.",
+    "marks": 2,
+    "lines": 1,
+    "a": "e.g. 9 groups of nothing is still nothing."
+   }
+  ]
+ },
+ {
+  "id": "properties-of-multiplication-15",
+  "topic": "properties-of-multiplication",
+  "number": 15,
+  "level": "Challenge",
+  "title": "The Bakery Order",
+  "intro": "Uncle Joseph runs a bakery. Help him fill a big order using every rule you know.",
+  "sections": [
+   {
+    "type": "pairs",
+    "title": "Write the answer.",
+    "marks": 6,
+    "items": [
+     {
+      "q": "6 × 7",
+      "a": "42"
+     },
+     {
+      "q": "7 × 6",
+      "a": "42"
+     },
+     {
+      "q": "0 × 58",
+      "a": "0"
+     },
+     {
+      "q": "1 × 63",
+      "a": "63"
+     },
+     {
+      "q": "2 × 5 × 3",
+      "a": "30"
+     },
+     {
+      "q": "4 × 1 × 5",
+      "a": "20"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "title": "Circle the rule that helps.",
+    "marks": 3,
+    "items": [
+     {
+      "before": "8 × 9 = 9 × 8",
+      "options": [
+       "order",
+       "zero",
+       "one",
+       "grouping"
+      ],
+      "after": "",
+      "a": "order"
+     },
+     {
+      "before": "(2 × 5) × 6 = 2 × (5 × 6)",
+      "options": [
+       "order",
+       "zero",
+       "one",
+       "grouping"
+      ],
+      "after": "",
+      "a": "grouping"
+     },
+     {
+      "before": "75 × 1 = 75",
+      "options": [
+       "order",
+       "zero",
+       "one",
+       "grouping"
+      ],
+      "after": "",
+      "a": "one"
+     }
+    ]
+   },
+   {
+    "type": "column",
+    "title": "Multiply.",
+    "marks": 4,
+    "items": [
+     {
+      "top": "14",
+      "op": "×",
+      "bottom": "2",
+      "a": "28"
+     },
+     {
+      "top": "2",
+      "op": "×",
+      "bottom": "14",
+      "a": "28"
+     },
+     {
+      "top": "9",
+      "op": "×",
+      "bottom": "6",
+      "a": "54"
+     },
+     {
+      "top": "12",
+      "op": "×",
+      "bottom": "4",
+      "a": "48"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "title": "Solve the bakery problems.",
+    "marks": 3,
+    "items": [
+     {
+      "q": "3 trays have 4 rows of 2 buns each. There are ___ buns.",
+      "a": "24"
+     },
+     {
+      "q": "Cupcakes cost ₹7 each. 8 cupcakes cost ₹ ___",
+      "a": "56"
+     },
+     {
+      "q": "The order needs 1 cake for each of 9 tables. That is ___ cakes.",
+      "a": "9"
+     }
+    ]
+   },
+   {
+    "type": "rewrite",
+    "title": "Write a story for 4 × 0.",
+    "marks": 2,
+    "items": [
+     {
+      "q": "Write a bakery story where the answer is 0.",
+      "a": "e.g. 4 boxes have 0 cookies in each, so there are 0 cookies."
+     }
+    ]
+   }
+  ]
+ }
+]
