@@ -86,10 +86,10 @@ def fail(errors, where, msg):
 
 
 def stamp_assets():
-    """Give assets/app.js and assets/style.css a ?v=<content hash> in index.html, so browsers fetch new versions."""
+    """Give assets/app.js, assets/qrcode.js and assets/style.css a ?v=<content hash> in index.html, so browsers fetch new versions."""
     page = ROOT / 'index.html'
     html = page.read_text()
-    for name in ('app.js', 'style.css'):
+    for name in ('app.js', 'qrcode.js', 'style.css'):
         v = hashlib.sha1((ROOT / 'assets' / name).read_bytes()).hexdigest()[:8]
         html = re.sub(r'assets/' + re.escape(name) + r'(\?v=[0-9a-f]+)?"', f'assets/{name}?v={v}"', html)
     page.write_text(html)

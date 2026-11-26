@@ -79,6 +79,41 @@
     return `<section class="ws-sec">${head}${body}</section>`;
   }
 
+  /* Pictograph pictures: the sheet fonts have no ● or ◐, so each device would swap in its own font and sizes would differ.
+     Draw them as small shapes instead, in visible text only (dropdowns and labels keep the plain symbol). */
+  const PIC_SVG = {
+    '●': '<svg class="pic" viewBox="0 0 20 20" role="img" aria-label="whole picture"><circle cx="10" cy="10" r="9" fill="currentColor"/></svg>',
+    '◐': '<svg class="pic" viewBox="0 0 20 20" role="img" aria-label="half picture"><circle cx="10" cy="10" r="8.2" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M10 1a9 9 0 0 0 0 18z" fill="currentColor"/></svg>'
+  };
+  function drawPics(root) {
+    if (!/[●◐]/.test(root.textContent || '')) return;
+    const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
+      acceptNode: (n) => /[●◐]/.test(n.nodeValue) && !n.parentElement.closest('select, option, textarea, script, style, title') ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT
+    });
+    const nodes = [];
+    while (walker.nextNode()) nodes.push(walker.currentNode);
+    nodes.forEach((n) => {
+      const span = document.createElement('span');
+      span.innerHTML = n.nodeValue.split(/([●◐])/).map((part) => PIC_SVG[part] || esc(part)).join('');
+      n.replaceWith(...span.childNodes);
+    });
+  }
+  new MutationObserver((ms) => ms.forEach((m) => m.addedNodes.forEach((n) => {
+    if (n.nodeType === 1) drawPics(n); else if (n.nodeType === 3 && n.parentElement) drawPics(n.parentElement);
+  }))).observe(document.body, { childList: true, subtree: true });
+
+  /* QR code on each printed sheet: the topic's video, or the channel if the video isn't out yet */
+  const qrCache = {};
+  function qrBlock(t) {
+    const url = t.videoId ? 'https://youtu.be/' + t.videoId : SUBSCRIBE;
+    if (typeof qrcode !== 'function') return '';
+    if (!qrCache[url]) {
+      try { const q = qrcode(0, 'M'); q.addData(url); q.make(); qrCache[url] = q.createSvgTag({ cellSize: 1, margin: 2, scalable: true }); }
+      catch (e) { return ''; }
+    }
+    return `<div class="ws-qr" aria-hidden="true">${qrCache[url]}</div>`;
+  }
+
   function renderSheet(ws) {
     const t = topicById(ws.topic) || { subject: '', name: '' };
     const total = ws.sections.reduce((n, s) => n + (s.marks || 0), 0);
@@ -90,13 +125,14 @@
           <div class="ws-intro">${esc(ws.intro)}</div>
         </div>
         <div class="ws-fields">
-          <div class="field"><span>Name</span><i></i></div>
+          <div class="field name"><span>Name</span><i></i></div>
           <div class="field"><span>Date</span><i></i></div>
           <div class="field score"><span>Score</span><i></i><span>/ ${total}</span></div>
+          ${qrBlock(t)}
         </div>
       </header>
       ${ws.sections.map(renderSection).join('')}
-      <footer class="ws-foot"><span><b>Stuck?</b> Watch “${esc(t.name)}” on the Life of P YouTube channel.</span><span>${esc(ws.id)}</span></footer>
+      <footer class="ws-foot"><span><b>Stuck?</b> ${t.videoId ? 'Scan the code to watch the video.' : 'Scan the code for the Life of P videos.'} <b>Subscribe:</b> youtube.com/@lifeofp5750</span><span>${esc(ws.id)}</span></footer>
     </article>`;
   }
 

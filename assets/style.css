@@ -146,6 +146,13 @@ h1, h2, h3 { text-wrap: balance; }
 .ws-head h1 { margin: 0; font-family: var(--display); font-size: 24pt; font-weight: 800; line-height: 1.05; }
 .ws-intro { font-size: 10.5pt; color: var(--muted); }
 .ws-fields { flex: 0 0 55mm; display: flex; flex-direction: column; gap: 2.6mm; font-size: 10.5pt; }
+.pic { display: inline-block; width: .82em; height: .82em; vertical-align: -.1em; margin: 0 .05em; }
+/* QR code to the lesson video, beside Date and Score (Name keeps the full width) */
+.ws-fields:has(.ws-qr) { position: relative; display: grid; grid-template-columns: minmax(0, 1fr) 14mm; column-gap: 2.5mm; }
+.ws-fields:has(.ws-qr) .field.name { grid-column: 1 / -1; }
+.ws-fields:has(.ws-qr) .field:not(.name) { grid-column: 1; }
+.ws-qr { position: absolute; right: 0; bottom: 0; } /* never sets the header's height */
+.ws-qr svg { display: block; width: 14mm; height: 14mm; border-radius: 1mm; }
 .field { display: flex; gap: 6px; align-items: flex-end; }
 .field i { flex: 1; border-bottom: 1.5px solid var(--ink); height: 18px; }
 .field.score { font-weight: 700; }

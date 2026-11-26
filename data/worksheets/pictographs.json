@@ -243,24 +243,24 @@
     "intro": "Four friends flew kites from a rooftop in Ahmedabad. Key: each ● = 2 kites.",
     "sections": [
       {
-        "type": "pairs",
+        "type": "fill",
         "title": "Count in 2s. How many kites?",
         "marks": 4,
         "items": [
           {
-            "q": "Aarav ● ● ●",
+            "q": "Aarav: ● ● ● = ___",
             "a": "6"
           },
           {
-            "q": "Diya ● ● ● ● ●",
+            "q": "Diya: ● ● ● ● ● = ___",
             "a": "10"
           },
           {
-            "q": "Kabir ● ●",
+            "q": "Kabir: ● ● = ___",
             "a": "4"
           },
           {
-            "q": "Zoya ● ● ● ●",
+            "q": "Zoya: ● ● ● ● = ___",
             "a": "8"
           }
         ]
@@ -716,24 +716,24 @@
     "intro": "Four classes collected plastic bottles for recycling. Key: ● = 10 bottles, ◐ = 5 bottles.",
     "sections": [
       {
-        "type": "pairs",
+        "type": "fill",
         "title": "How many bottles did each class collect?",
         "marks": 4,
         "items": [
           {
-            "q": "Class 2A ● ● ● ●",
+            "q": "Class 2A: ● ● ● ● = ___",
             "a": "40"
           },
           {
-            "q": "Class 2B ● ● ● ◐",
+            "q": "Class 2B: ● ● ● ◐ = ___",
             "a": "35"
           },
           {
-            "q": "Class 2C ● ● ● ● ●",
+            "q": "Class 2C: ● ● ● ● ● = ___",
             "a": "50"
           },
           {
-            "q": "Class 2D ● ● ◐",
+            "q": "Class 2D: ● ● ◐ = ___",
             "a": "25"
           }
         ]
@@ -1336,24 +1336,24 @@
     "intro": "Riya counted the diyas lit outside each house on her street. Key: ● = 10 diyas, ◐ = 5 diyas.",
     "sections": [
       {
-        "type": "pairs",
+        "type": "fill",
         "title": "How many diyas at each house?",
         "marks": 4,
         "items": [
           {
-            "q": "Gupta house ● ● ●",
+            "q": "Gupta house: ● ● ● = ___",
             "a": "30"
           },
           {
-            "q": "Pinto house ● ● ◐",
+            "q": "Pinto house: ● ● ◐ = ___",
             "a": "25"
           },
           {
-            "q": "Rao house ● ● ● ●",
+            "q": "Rao house: ● ● ● ● = ___",
             "a": "40"
           },
           {
-            "q": "Singh house ● ◐",
+            "q": "Singh house: ● ◐ = ___",
             "a": "15"
           }
         ]
@@ -1372,7 +1372,7 @@
             "a": "110"
           },
           {
-            "q": "The street lit 135 diyas with the Khan house too. The Khan house lit ___.",
+            "q": "With the Khan house, the street lit 135 diyas. The Khan house lit ___ diyas.",
             "a": "25"
           },
           {

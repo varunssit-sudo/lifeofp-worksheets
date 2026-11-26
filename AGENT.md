@@ -65,6 +65,8 @@ This is the job the nightly worksheet agent runs on this repository. It keeps th
   - Online marking ignores French accents and Arabic harakat and tatweel, and treats the alef forms as one. Answers should still be written correctly, with full harakat where the book uses them.
   - Ask for a native speaker to check the first sheets.
 - **Look.** Graphics stay subtle and text-based; the site handles the styling. Never use emoji in worksheet text.
+  - For picture graphs, write `●` for a whole picture and `◐` for a half; the site draws them as matching shapes. Keep picture rows out of `pairs` (the boxes are too narrow); use `fill` or `match`.
+  - Every printed sheet carries a QR code to its topic's video (or the channel, until the video exists). The site adds it; nothing to do in the JSON.
 
 ## Section types
 
